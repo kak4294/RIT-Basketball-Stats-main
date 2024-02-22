@@ -1,0 +1,36 @@
+Nick Creeley 
+Kyle Krebs
+
+Rough Plan (Jan 14)…
+
+	Each game will be a “ View “
+	Consisting of a table of  “ Plays “
+	Goes through row values of CSV in SQL file
+	Grab information needed and populate each play in the “ view “
+	Once every play in the game is accounted for…
+	Save that view into database
+
+	Create query putting all information needed into one csv
+	Throw CSV into Data-Analysis folder (github)
+
+    	Create program that collects and manipulates data from CSV
+	Answer questions, find efficiency ratings, compare to rest of Liberty League
+	Create visualizations and make reports
+
+
+Data Manipulation Questions
+
+	What type of play and action does a team run the most vs least? 
+        How successful are they?
+        Where are they taking the most vs least shots from?
+	        What’s their percentages per type of shot?
+        How does this compare to the rest of the Liberty League?
+        Give order of who they played best to worst against offensively.
+
+	What type of play and action does a team go against the most vs least?
+		How successful is their defense for each?
+		Where do they let up the most vs least shots?
+	        What’s their percentages allowed per type of shot?
+        How does this compare to the rest of the Liberty League?
+        Give order of who they played best to worst against defensively.
+
