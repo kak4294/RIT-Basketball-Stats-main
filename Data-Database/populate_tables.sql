@@ -15,6 +15,7 @@ USE basketball_stats;
 
 -- add shot types 
 INSERT INTO shottypes (ShotType) VALUES
+('N/A')
 ('To Basket'),
 ('Dribble Jumper'),
 ('No Dribble Jumper'),

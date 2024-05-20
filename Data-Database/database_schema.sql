@@ -47,3 +47,14 @@ CREATE TABLE plays (
     FOREIGN KEY (Outcome) REFERENCES PlayOutcomes(Outcome),
     FOREIGN KEY (Opponent) REFERENCES Opponents(Opponent)
 );
+
+-- Add the SecondaryPlayID column to the plays table
+ALTER TABLE plays
+ADD COLUMN SecondaryPlayID;
+
+-- Add the foreign key constraint for the SecondaryPlayID column
+ALTER TABLE plays
+ADD CONSTRAINT fk_SecondaryPlayID
+FOREIGN KEY (SecondaryPlayID) REFERENCES PlayDescriptions(PlayID);
+
+ALTER TABLE 
