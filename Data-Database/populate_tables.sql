@@ -115,10 +115,28 @@ INSERT INTO playdescriptions (PlayType, Direction, Play_Action) VALUES
   
 -- PnR Roll Man
   ('P&R Roll Man', 'Left', 'Pop'),
+  ('P&R Roll Man', 'Left', 'Slips'),
+  ('P&R Roll Man', 'Left', 'Roll'),
   ('P&R Roll Man', 'Right', 'Pop'),
+  ('P&R Roll Man', 'Right', 'Slips'),
+  ('P&R Roll Man', 'Right', 'Roll'),
   ('P&R Roll Man', NULL, 'Pop'),
-  ('P&R Roll Man', NULL, 'Roll');
+  ('P&R Roll Man', NULL, 'Roll')
+  ('P&R Roll Man', NULL, 'Slips');
 
 
 
   
+INSERT INTO playdescriptions (PlayType, Direction, Play_Action) VALUES
+  ('P&R Roll Man', 'Left', 'Slips'),
+  ('P&R Roll Man', 'Right', 'Slips'),
+  ('P&R Roll Man', NULL, 'Slips'),
+  ('P&R Roll Man', 'Left', 'Roll'),
+  ('P&R Roll Man', 'Right', 'Roll');
+
+
+
+
+
+
+
