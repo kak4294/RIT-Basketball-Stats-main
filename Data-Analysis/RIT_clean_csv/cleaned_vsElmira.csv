@@ -1,0 +1,155 @@
+Site,PossesionType,Opponent,Outcome,ShotType,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayType,SecondaryDirection,SecondaryAction
+Home,Offense,Elm,3pMa,No Dribble Jumper,PNR,High,Off,Spot Ups,None,Shot
+Home,Defense,Elm,Turnover,To Basket,Cuts,None,Basket,None,None,None
+Home,Offense,Elm,Turnover,N/A,Misc,None,None,None,None,None
+Home,Defense,Elm,3pmi,No Dribble Jumper,Hand Offs,Top,Dribble,None,None,None
+Home,Offense,Elm,Turnover,To Basket,Cuts,None,Basket,None,None,None
+Home,Defense,Elm,2pmi,To Basket,Cuts,None,Basket,None,None,None
+Home,Offense,Elm,3pmi,No Dribble Jumper,PNR,High,Away,Spot Ups,None,Shot
+Home,Defense,Elm,Foul,Drop Step,Post,Right,Dribble Move,None,None,None
+Home,Offense,Elm,And1,To Basket,Spot Ups,Right,Drive,None,None,None
+Home,Defense,Elm,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Offense,Elm,2pMa,To Basket,Cuts,None,Screen,None,None,None
+Home,Defense,Elm,Turnover,N/A,Hand Offs,Left,Stationary,None,None,None
+Home,Offense,Elm,2pmi,To Basket,Transition,None,Ball Handler,None,None,None
+Home,Defense,Elm,2pMa,To Basket,Transition,None,Left Wing,None,None,None
+Home,Offense,Elm,2pmi,Dribble Jumper,Transition,None,Left Wing,None,None,None
+Home,Defense,Elm,2pMa,N/A,Post,Right,Dribble Move,None,None,None
+Home,Offense,Elm,3pmi,No Dribble Jumper,PNR,High,Off,Spot Ups,None,Shot
+Home,Defense,Elm,2pMa,To Basket,Transition,None,Leak Outs,None,None,None
+Home,Offense,Elm,2pmi,To Basket,Spot Ups,Right,Drive,None,None,None
+Home,Defense,Elm,2pmi,Dribble Jumper,Hand Offs,Right,Dribble,None,None,None
+Home,Offense,Elm,2pMa,To Basket,Misc,None,None,None,None,None
+Home,Defense,Elm,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Offense,Elm,Foul,To Basket,Hand Offs,Top,Stationary,None,None,None
+Home,Defense,Elm,Turnover,N/A,Misc,None,None,None,None,None
+Home,Offense,Elm,2pMa,To Basket,Cuts,None,Basket,None,None,None
+Home,Defense,Elm,2pMa,To Basket,Spot Ups,Right,Drive,None,None,None
+Home,Offense,Elm,3pMa,No Dribble Jumper,Transition,None,Right Wing,None,None,None
+Home,Defense,Elm,3pmi,No Dribble Jumper,Hand Offs,Top,Dribble,None,None,None
+Home,Defense,Elm,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Defense,Elm,2pMa,To Basket,Cuts,None,Basket,None,None,None
+Home,Offense,Elm,3pmi,No Dribble Jumper,Hand Offs,Right,Dribble,None,None,None
+Home,Defense,Elm,2pmi,To Basket,Transition,None,Right Wing,None,None,None
+Home,Offense,Elm,3pmi,No Dribble Jumper,Off Screens,Left,Straight,None,None,None
+Home,Defense,Elm,2pMa,To Basket,Cuts,None,Flash,None,None,None
+Home,Offense,Elm,2pMa,To Basket,Transition,None,First Middle,None,None,None
+Home,Defense,Elm,2pmi,Dribble Jumper,Spot Ups,Right,Drive,None,None,None
+Home,Offense,Elm,2pmi,To Basket,PNR,High,Away,P&R Roll Man,Left,Pop
+Home,Offense,Elm,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Defense,Elm,2pmi,Dribble Jumper,Spot Ups,Right,Drive,None,None,None
+Home,Offense,Elm,3pMa,Dribble Jumper,Hand Offs,Right,Dribble,None,None,None
+Home,Defense,Elm,3pmi,Dribble Jumper,Transition,None,Left Wing,None,None,None
+Home,Offense,Elm,2pmi,To Basket,Transition,None,Right Wing,None,None,None
+Home,Defense,Elm,2pMa,To Basket,Spot Ups,Right,Drive,None,None,None
+Home,Offense,Elm,2pmi,Dribble Jumper,Off Screens,Left,Straight,None,None,None
+Home,Defense,Elm,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Offense,Elm,3pmi,Dribble Jumper,PNR,Left,Off,None,None,None
+Home,Offense,Elm,2pmi,N/A,Post,Left,Dribble Move,None,None,None
+Home,Defense,Elm,2pMa,To Basket,Transition,None,Right Wing,None,None,None
+Home,Offense,Elm,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Defense,Elm,2pMa,To Basket,Cuts,None,Basket,None,None,None
+Home,Offense,Elm,2pMa,To Basket,Cuts,None,Flash,None,None,None
+Home,Defense,Elm,2pmi,Dribble Jumper,Transition,None,Left Wing,None,None,None
+Home,Offense,Elm,Foul,To Basket,Transition,None,Trailer,None,None,None
+Home,Defense,Elm,2pmi,To Basket,PNR,High,Off,Spot Ups,Right,Drive
+Home,Offense,Elm,2pmi,Dribble Jumper,Transition,None,Ball Handler,None,None,None
+Home,Defense,Elm,3pmi,No Dribble Jumper,Iso,Top,None,Spot Ups,None,Shot
+Home,Offense,Elm,Turnover,No Dribble Jumper,Transition,None,Right Wing,None,None,None
+Home,Defense,Elm,2pmi,To Basket,Cuts,None,Screen,None,None,None
+Home,Offense,Elm,2pmi,To Basket,Cuts,None,Basket,None,None,None
+Home,Offense,Elm,3pMa,Dribble Jumper,Spot Ups,Left,Drive,None,None,None
+Home,Defense,Elm,Turnover,N/A,Transition,None,Right Wing,None,None,None
+Home,Offense,Elm,3pMa,Dribble Jumper,Off Screens,Left,Straight,None,None,None
+Home,Defense,Elm,2pmi,To Basket,Hand Offs,Right,Dribble,None,None,None
+Home,Defense,Elm,2pMa,To Basket,PNR,High,Off,None,None,None
+Home,Offense,Elm,2pMa,Dribble Jumper,Spot Ups,Left,Drive,None,None,None
+Home,Defense,Elm,3pmi,No Dribble Jumper,PNR,High,Off,Spot Ups,None,Shot
+Home,Offense,Elm,2pmi,N/A,Post,Right,Face Up,None,None,None
+Home,Defense,Elm,And1,To Basket,Spot Ups,Right,Drive,None,None,None
+Home,Defense,Elm,2pmi,Dribble Jumper,Off Screens,Right,Flare,None,None,None
+Home,Offense,Elm,3pmi,Dribble Jumper,PNR,Left,Off,None,None,None
+Home,Defense,Elm,2pmi,To Basket,Transition,None,Ball Handler,None,None,None
+Home,Offense,Elm,And1,To Basket,Transition,None,Left Wing,None,None,None
+Home,Defense,Elm,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Offense,Elm,Turnover,N/A,Transition,None,Ball Handler,None,None,None
+Home,Defense,Elm,Foul,To Basket,Transition,None,First Middle,None,None,None
+Home,Offense,Elm,3pMa,No Dribble Jumper,Off Screens,Left,Straight,None,None,None
+Home,Defense,Elm,2pmi,To Basket,Spot Ups,Right,Drive,None,None,None
+Home,Offense,Elm,3pMa,No Dribble Jumper,Transition,None,Right Wing,None,None,None
+Home,Defense,Elm,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Offense,Elm,2pmi,Hook Shot,Post,Left,Dribble Move,None,None,None
+Home,Defense,Elm,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Offense,Elm,2pMa,To Basket,Cuts,None,Basket,None,None,None
+Home,Defense,Elm,2pmi,Dribble Jumper,Hand Offs,Top,Dribble,None,None,None
+Home,Offense,Elm,3pmi,No Dribble Jumper,Transition,None,Right Wing,None,None,None
+Home,Defense,Elm,2pMa,Dribble Jumper,Spot Ups,Left,Drive,None,None,None
+Home,Offense,Elm,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Defense,Elm,2pmi,To Basket,Cuts,None,Basket,None,None,None
+Home,Offense,Elm,2pMa,To Basket,Transition,None,Ball Handler,None,None,None
+Home,Defense,Elm,Foul,To Basket,PNR,High,Off,Cuts,None,Basket
+Home,Offense,Elm,2pmi,To Basket,Spot Ups,Right,Drive,None,None,None
+Home,Defense,Elm,Foul,To Basket,Post,Left,None,Cuts,None,Basket
+Home,Offense,Elm,2pMa,To Basket,PNR,Left,Off,None,None,None
+Home,Defense,Elm,Turnover,N/A,Spot Ups,Right,Drive,None,None,None
+Home,Offense,Elm,3pmi,No Dribble Jumper,PNR,Right,Off,Spot Ups,None,Shot
+Home,Defense,Elm,2pmi,Dribble Jumper,Spot Ups,Right,Drive,None,None,None
+Home,Defense,Elm,2pmi,To Basket,Cuts,None,Flash,None,None,None
+Home,Offense,Elm,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Defense,Elm,Foul,To Basket,Iso,Top,None,None,None,None
+Home,Offense,Elm,2pMa,To Basket,PNR,High,Off,Cuts,None,Flash
+Home,Defense,Elm,3pmi,Dribble Jumper,PNR,High,Off,None,None,None
+Home,Offense,Elm,3pmi,No Dribble Jumper,Transition,None,Left Wing,None,None,None
+Home,Defense,Elm,2pMa,To Basket,Transition,None,Ball Handler,None,None,None
+Home,Offense,Elm,2pmi,To Basket,Transition,None,Leak Outs,None,None,None
+Home,Offense,Elm,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Defense,Elm,Turnover,N/A,PNR,High,Off,None,None,None
+Home,Offense,Elm,Foul,To Basket,Transition,None,Ball Handler,None,None,None
+Home,Defense,Elm,Turnover,N/A,Misc,None,None,None,None,None
+Home,Offense,Elm,Foul,To Basket,Transition,None,Right Wing,None,None,None
+Home,Defense,Elm,2pmi,To Basket,Spot Ups,Left,Drive,None,None,None
+Home,Offense,Elm,Turnover,N/A,Transition,None,Left Wing,None,None,None
+Home,Defense,Elm,2pmi,Dribble Jumper,Spot Ups,Right,Drive,None,None,None
+Home,Defense,Elm,2pmi,Dribble Jumper,Spot Ups,Right,Drive,None,None,None
+Home,Offense,Elm,3pmi,No Dribble Jumper,Transition,None,Right Wing,None,None,None
+Home,Defense,Elm,2pmi,Dribble Jumper,Transition,None,Ball Handler,None,None,None
+Home,Offense,Elm,2pMa,To Basket,Transition,None,Leak Outs,None,None,None
+Home,Defense,Elm,2pmi,Drop Step,Post,Right,Dribble Move,None,None,None
+Home,Offense,Elm,2pMa,Dribble Jumper,Off Screens,Left,Straight,None,None,None
+Home,Defense,Elm,2pmi,To Basket,Transition,None,Left Wing,None,None,None
+Home,Defense,Elm,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Offense,Elm,2pMa,To Basket,Off Screens,Right,Straight,None,None,None
+Home,Defense,Elm,Foul,N/A,Post,Right,Dribble Move,None,None,None
+Home,Offense,Elm,Foul,To Basket,Cuts,None,Screen,None,None,None
+Home,Defense,Elm,Foul,Drop Step,Post,Left,Dribble Move,None,None,None
+Home,Offense,Elm,2pMa,To Basket,Cuts,None,Flash,None,None,None
+Home,Defense,Elm,Turnover,N/A,Transition,None,Trailer,None,None,None
+Home,Offense,Elm,And1,To Basket,Transition,None,Ball Handler,None,None,None
+Home,Defense,Elm,2pmi,To Basket,Misc,None,None,None,None,None
+Home,Offense,Elm,3pMa,No Dribble Jumper,Hand Offs,Left,Dribble,None,None,None
+Home,Defense,Elm,2pmi,To Basket,Cuts,None,Basket,None,None,None
+Home,Defense,Elm,3pmi,Dribble Jumper,Spot Ups,Straight,Drive,None,None,None
+Home,Offense,Elm,2pMa,To Basket,Spot Ups,Straight,Drive,None,None,None
+Home,Defense,Elm,2pMa,To Basket,Spot Ups,Left,Drive,None,None,None
+Home,Offense,Elm,2pMa,No Dribble Jumper,PNR,Left,Off,P&R Roll Man,None,Pop
+Home,Defense,Elm,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Offense,Elm,Turnover,N/A,Transition,None,Right Wing,None,None,None
+Home,Defense,Elm,2pmi,Dribble Jumper,Transition,None,Left Wing,None,None,None
+Home,Offense,Elm,Turnover,N/A,Hand Offs,Top,Dribble,None,None,None
+Home,Defense,Elm,2pMa,To Basket,Transition,None,Ball Handler,None,None,None
+Home,Offense,Elm,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Defense,Elm,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Defense,Elm,2pMa,To Basket,PNR,Right,Off,None,None,None
+Home,Offense,Elm,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Defense,Elm,2pmi,To Basket,Cuts,None,Basket,None,None,None
+Home,Offense,Elm,2pmi,To Basket,Cuts,None,Basket,None,None,None
+Home,Defense,Elm,2pmi,To Basket,Cuts,None,Basket,None,None,None
+Home,Offense,Elm,3pmi,No Dribble Jumper,Transition,None,Left Wing,None,None,None
+Home,Offense,Elm,3pmi,Dribble Jumper,PNR,High,Off,None,None,None
+Home,Offense,Elm,Turnover,N/A,Misc,None,None,None,None,None
+Home,Defense,Elm,3pmi,No Dribble Jumper,Transition,None,Right Wing,None,None,None
+Home,Offense,Elm,3pmi,No Dribble Jumper,Iso,Right,None,Spot Ups,None,Shot
+Home,Offense,Elm,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Defense,Elm,Turnover,N/A,Transition,None,Ball Handler,None,None,None
+Home,Offense,Elm,Foul,To Basket,Transition,None,Right Wing,None,None,None
+Home,Defense,Elm,2pmi,Dribble Jumper,Misc,None,None,None,None,None

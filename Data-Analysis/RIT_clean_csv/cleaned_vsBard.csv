@@ -1,147 +1,145 @@
 Site,PossesionType,Opponent,Outcome,ShotType,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayType,SecondaryDirection,SecondaryAction
-Home,Defense,Bar,3pMa,No Dribble Jumper,Hand Offs,Left,Dribble,N/A,N/A,N/A
-Home,Offense,Bar,3pmi,No Dribble Jumper,Spot Ups,N/A,Shot,N/A,N/A,N/A
-Home,Defense,Bar,3pmi,No Dribble Jumper,Spot Ups,N/A,Shot,N/A,N/A,N/A
-Home,Offense,Bar,3pMa,No Dribble Jumper,Off Screens,Right,Straight,N/A,N/A,N/A
-Home,Defense,Bar,3pMa,Dribble Jumper,Transition,N/A,Right Wing,N/A,N/A,N/A
-Home,Offense,Bar,3pMa,Dribble Jumper,PNR,High,Off,N/A,N/A,N/A
-Home,Defense,Bar,3pmi,Dribble Jumper,Spot Ups,Right,Drive,N/A,N/A,N/A
-Home,Offense,Bar,3pMa,No Dribble Jumper,Transition,N/A,Right Wing,N/A,N/A,N/A
-Home,Defense,Bar,2pMa,Dribble Jumper,Hand Offs,Right,Dribble,N/A,N/A,N/A
-Home,Offense,Bar,2pmi,To Basket,Spot Ups,Left,Drive,N/A,N/A,N/A
-Home,Offense,Bar,3pMa,No Dribble Jumper,PNR,Left,N/A,N/A,N/A,N/A
-Home,Defense,Bar,Foul,To Basket,Transition,N/A,Ball Handler,N/A,N/A,N/A
-Home,Offense,Bar,2pMa,Dribble Jumper,PNR,High,Off,N/A,N/A,N/A
-Home,Defense,Bar,2pMa,To Basket,Off Screens,Left,Straight,N/A,N/A,N/A
-Home,Offense,Bar,3pmi,Dribble Jumper,PNR,High,N/A,N/A,N/A,N/A
-Home,Offense,Bar,2pMa,Dribble Jumper,PNR,High,Off,N/A,N/A,N/A
-Home,Defense,Bar,2pMa,To Basket,Iso,Top,N/A,N/A,N/A,N/A
-Home,Offense,Bar,3pmi,Dribble Jumper,PNR,High,N/A,N/A,N/A,N/A
-Home,Defense,Bar,3pmi,Dribble Jumper,Transition,N/A,Ball Handler,N/A,N/A,N/A
-Home,Defense,Bar,3pmi,No Dribble Jumper,Spot Ups,N/A,Shot,N/A,N/A,N/A
-Home,Offense,Bar,Foul,To Basket,PNR,Right,Off,N/A,N/A,N/A
-Home,Defense,Bar,2pmi,Dribble Jumper,Misc,N/A,N/A,N/A,N/A,N/A
-Home,Offense,Bar,2pmi,To Basket,PNR,High,Off,N/A,N/A,N/A
-Home,Defense,Bar,And1,To Basket,Transition,N/A,Leak Outs,N/A,N/A,N/A
-Home,Offense,Bar,2pmi,Dribble Jumper,Off Screens,Right,Flare,N/A,N/A,N/A
-Home,Defense,Bar,2pMa,To Basket,Transition,N/A,Ball Handler,N/A,N/A,N/A
-Home,Offense,Bar,3pMa,Dribble Jumper,Hand Offs,Left,Dribble,N/A,N/A,N/A
-Home,Defense,Bar,Turnover,N/A,Misc,N/A,N/A,N/A,N/A,N/A
-Home,Offense,Bar,2pMa,No Dribble Jumper,Off Screens,Right,Straight,N/A,N/A,N/A
-Home,Defense,Bar,Turnover,N/A,Hand Offs,Right,Stationary,N/A,N/A,N/A
-Home,Offense,Bar,3pMa,No Dribble Jumper,PNR,High,Off,Spot Ups,N/A,Shot
-Home,Defense,Bar,Turnover,N/A,Off Screens,Right,Straight,N/A,N/A,N/A
-Home,Offense,Bar,3pmi,No Dribble Jumper,PNR,High,Off,Spot Ups,N/A,Shot
-Home,Defense,Bar,3pmi,No Dribble Jumper,Transition,N/A,Trailer,N/A,N/A,N/A
-Home,Offense,Bar,Foul,To Basket,Transition,N/A,Left Wing,N/A,N/A,N/A
-Home,Defense,Bar,2pmi,To Basket,PNR,Right,Off,N/A,N/A,N/A
-Home,Offense,Bar,3pMa,No Dribble Jumper,PNR,Right,Off,Spot Ups,N/A,Shot
-Home,Defense,Bar,3pMa,No Dribble Jumper,Hand Offs,Left,Dribble,N/A,N/A,N/A
-Home,Offense,Bar,2pMa,Dribble Jumper,Iso,Top,N/A,N/A,N/A,N/A
-Home,Defense,Bar,3pMa,No Dribble Jumper,Post,Left,Dribble Move,Spot Ups,N/A,Shot
-Home,Offense,Bar,2pMa,To Basket,Cuts,N/A,Basket,N/A,N/A,N/A
-Home,Defense,Bar,3pMa,Dribble Jumper,Iso,Right,N/A,N/A,N/A,N/A
-Home,Offense,Bar,3pMa,Dribble Jumper,Transition,N/A,Left Wing,N/A,N/A,N/A
-Home,Defense,Bar,2pmi,To Basket,PNR,High,Off,N/A,N/A,N/A
-Home,Offense,Bar,2pmi,To Basket,Transition,N/A,Left Wing,N/A,N/A,N/A
-Home,Defense,Bar,2pmi,N/A,Post,Right,Dribble Move,N/A,N/A,N/A
-Home,Defense,Bar,3pMa,No Dribble Jumper,PNR,Left,Off,P&R Roll Man,N/A,Pop
-Home,Offense,Bar,Turnover,N/A,Hand Offs,Right,Dribble,N/A,N/A,N/A
-Home,Defense,Bar,3pmi,Dribble Jumper,PNR,High,Off,N/A,N/A,N/A
-Home,Offense,Bar,2pMa,To Basket,Iso,Right,N/A,N/A,N/A,N/A
-Home,Defense,Bar,3pmi,No Dribble Jumper,PNR,Right,Off,Spot Ups,N/A,Shot
-Home,Offense,Bar,2pMa,To Basket,Iso,Top,N/A,Cuts,N/A,Basket
-Home,Defense,Bar,2pmi,To Basket,Off Screens,Left,Curl,N/A,N/A,N/A
-Home,Offense,Bar,2pmi,To Basket,PNR,Right,Off,P&R Roll Man,N/A,Roll
-Home,Defense,Bar,Foul,To Basket,Hand Offs,Right,Dribble,N/A,N/A,N/A
-Home,Offense,Bar,,N/A,,N/A,N/A,N/A,N/A,N/A
-Home,Defense,Bar,3pMa,No Dribble Jumper,Transition,N/A,Right Wing,N/A,N/A,N/A
-Home,Offense,Bar,2pmi,Dribble Jumper,Iso,Right,N/A,Spot Ups,Left,Drive
-Home,Defense,Bar,2pmi,N/A,Post,Left,Dribble Move,N/A,N/A,N/A
-Home,Offense,Bar,Turnover,N/A,Iso,Left,N/A,N/A,N/A,N/A
-Home,Defense,Bar,Foul,N/A,Post,Middle,N/A,N/A,N/A,N/A
-Home,Offense,Bar,3pmi,Dribble Jumper,Spot Ups,Left,Drive,N/A,N/A,N/A
-Home,Defense,Bar,3pmi,No Dribble Jumper,Transition,N/A,Trailer,N/A,N/A,N/A
-Home,Offense,Bar,Foul,To Basket,Transition,N/A,Left Wing,N/A,N/A,N/A
-Home,Defense,Bar,2pmi,To Basket,Cuts,N/A,Flash,N/A,N/A,N/A
-Home,Offense,Bar,And1,N/A,Post,Right,Face Up,N/A,N/A,N/A
-Home,Defense,Bar,3pmi,No Dribble Jumper,Spot Ups,N/A,Shot,N/A,N/A,N/A
-Home,Offense,Bar,2pmi,To Basket,Iso,Right,N/A,Cuts,N/A,Basket
-Home,Defense,Bar,Turnover,N/A,Transition,N/A,Right Wing,N/A,N/A,N/A
-Home,Offense,Bar,3pMa,No Dribble Jumper,PNR,High,Off,P&R Roll Man,N/A,Pop
-Home,Defense,Bar,Foul,To Basket,Cuts,N/A,Basket,N/A,N/A,N/A
-Home,Offense,Bar,2pMa,To Basket,PNR,High,Off,P&R Roll Man,N/A,Roll
-Home,Defense,Bar,2pmi,Dribble Jumper,Hand Offs,Top,Dribble,N/A,N/A,N/A
-Home,Defense,Bar,2pmi,Dribble Jumper,Off Screens,Left,Straight,N/A,N/A,N/A
-Home,Offense,Bar,Foul,To Basket,PNR,Right,Off,Cuts,N/A,Basket
-Home,Offense,Bar,Foul,To Basket,Iso,Left,N/A,N/A,N/A,N/A
-Home,Defense,Bar,Turnover,N/A,Misc,N/A,N/A,N/A,N/A,N/A
-Home,Offense,Bar,3pMa,No Dribble Jumper,Hand Offs,Right,Dribble,N/A,N/A,N/A
-Home,Defense,Bar,Turnover,N/A,Misc,N/A,N/A,N/A,N/A,N/A
-Home,Offense,Bar,2pMa,To Basket,Transition,N/A,Ball Handler,N/A,N/A,N/A
-Home,Defense,Bar,3pMa,Dribble Jumper,PNR,Left,Off,N/A,N/A,N/A
-Home,Offense,Bar,2pmi,To Basket,Post,Right,Face Up,Cuts,N/A,Flash
-Home,Defense,Bar,Turnover,N/A,Transition,N/A,Ball Handler,N/A,N/A,N/A
-Home,Offense,Bar,3pmi,Dribble Jumper,PNR,Left,Off,N/A,N/A,N/A
-Home,Defense,Bar,2pMa,Dribble Jumper,Iso,Top,N/A,Spot Ups,Right,Drive
-Home,Offense,Bar,2pMa,To Basket,PNR,Left,Off,N/A,N/A,N/A
-Home,Defense,Bar,2pmi,To Basket,PNR,Left,Off,N/A,N/A,N/A
-Home,Offense,Bar,2pMa,To Basket,Post,Right,Dribble Move,N/A,N/A,N/A
-Home,Defense,Bar,2pMa,To Basket,Iso,Left,N/A,Cuts,N/A,Flash
-Home,Offense,Bar,2pmi,Dribble Jumper,Spot Ups,Right,Drive,N/A,N/A,N/A
-Home,Offense,Bar,2pMa,No Dribble Jumper,Off Screens,Left,Straight,N/A,N/A,N/A
-Home,Defense,Bar,3pmi,Dribble Jumper,Hand Offs,Top,Dribble,N/A,N/A,N/A
-Home,Offense,Bar,Foul,To Basket,Iso,Left,N/A,N/A,N/A,N/A
-Home,Defense,Bar,Foul,To Basket,Transition,N/A,First Middle,N/A,N/A,N/A
-Home,Defense,Bar,3pmi,No Dribble Jumper,Spot Ups,N/A,Shot,N/A,N/A,N/A
-Home,Offense,Bar,2pmi,To Basket,Transition,N/A,Left Wing,N/A,N/A,N/A
-Home,Defense,Bar,2pmi,To Basket,Spot Ups,Right,Drive,N/A,N/A,N/A
-Home,Offense,Bar,Turnover,N/A,Spot Ups,Left,Drive,N/A,N/A,N/A
-Home,Defense,Bar,2pMa,To Basket,Spot Ups,Left,Drive,N/A,N/A,N/A
-Home,Offense,Bar,2pMa,No Dribble Jumper,Off Screens,Left,Straight,N/A,N/A,N/A
-Home,Defense,Bar,3pMa,No Dribble Jumper,Spot Ups,N/A,Shot,N/A,N/A,N/A
+Home,Defense,Bar,3pMa,No Dribble Jumper,Hand Offs,Left,Dribble,None,None,None
+Home,Offense,Bar,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Defense,Bar,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Offense,Bar,3pMa,No Dribble Jumper,Off Screens,Right,Straight,None,None,None
+Home,Defense,Bar,3pMa,Dribble Jumper,Transition,None,Right Wing,None,None,None
+Home,Offense,Bar,3pMa,Dribble Jumper,PNR,High,Off,None,None,None
+Home,Defense,Bar,3pmi,Dribble Jumper,Spot Ups,Right,Drive,None,None,None
+Home,Offense,Bar,3pMa,No Dribble Jumper,Transition,None,Right Wing,None,None,None
+Home,Defense,Bar,2pMa,Dribble Jumper,Hand Offs,Right,Dribble,None,None,None
+Home,Offense,Bar,2pmi,To Basket,Spot Ups,Left,Drive,None,None,None
+Home,Offense,Bar,3pMa,No Dribble Jumper,PNR,Left,None,None,None,None
+Home,Defense,Bar,Foul,To Basket,Transition,None,Ball Handler,None,None,None
+Home,Offense,Bar,2pMa,Dribble Jumper,PNR,High,Off,None,None,None
+Home,Defense,Bar,2pMa,To Basket,Off Screens,Left,Straight,None,None,None
+Home,Offense,Bar,3pmi,Dribble Jumper,PNR,High,None,None,None,None
+Home,Offense,Bar,2pMa,Dribble Jumper,PNR,High,Off,None,None,None
+Home,Defense,Bar,2pMa,To Basket,Iso,Top,None,None,None,None
+Home,Offense,Bar,3pmi,Dribble Jumper,PNR,High,None,None,None,None
+Home,Defense,Bar,3pmi,Dribble Jumper,Transition,None,Ball Handler,None,None,None
+Home,Defense,Bar,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Offense,Bar,Foul,To Basket,PNR,Right,Off,None,None,None
+Home,Defense,Bar,2pmi,Dribble Jumper,Misc,None,None,None,None,None
+Home,Offense,Bar,2pmi,To Basket,PNR,High,Off,None,None,None
+Home,Defense,Bar,And1,To Basket,Transition,None,Leak Outs,None,None,None
+Home,Offense,Bar,2pmi,Dribble Jumper,Off Screens,Right,Flare,None,None,None
+Home,Defense,Bar,2pMa,To Basket,Transition,None,Ball Handler,None,None,None
+Home,Offense,Bar,3pMa,Dribble Jumper,Hand Offs,Left,Dribble,None,None,None
+Home,Defense,Bar,Turnover,N/A,Misc,None,None,None,None,None
+Home,Offense,Bar,2pMa,No Dribble Jumper,Off Screens,Right,Straight,None,None,None
+Home,Defense,Bar,Turnover,N/A,Hand Offs,Right,Stationary,None,None,None
+Home,Offense,Bar,3pMa,No Dribble Jumper,PNR,High,Off,Spot Ups,None,Shot
+Home,Defense,Bar,Turnover,N/A,Off Screens,Right,Straight,None,None,None
+Home,Offense,Bar,3pmi,No Dribble Jumper,PNR,High,Off,Spot Ups,None,Shot
+Home,Defense,Bar,3pmi,No Dribble Jumper,Transition,None,Trailer,None,None,None
+Home,Offense,Bar,Foul,To Basket,Transition,None,Left Wing,None,None,None
+Home,Defense,Bar,2pmi,To Basket,PNR,Right,Off,None,None,None
+Home,Offense,Bar,3pMa,No Dribble Jumper,PNR,Right,Off,Spot Ups,None,Shot
+Home,Defense,Bar,3pMa,No Dribble Jumper,Hand Offs,Left,Dribble,None,None,None
+Home,Offense,Bar,2pMa,Dribble Jumper,Iso,Top,None,None,None,None
+Home,Defense,Bar,3pMa,No Dribble Jumper,Post,Left,Dribble Move,Spot Ups,None,Shot
+Home,Offense,Bar,2pMa,To Basket,Cuts,None,Basket,None,None,None
+Home,Defense,Bar,3pMa,Dribble Jumper,Iso,Right,None,None,None,None
+Home,Offense,Bar,3pMa,Dribble Jumper,Transition,None,Left Wing,None,None,None
+Home,Defense,Bar,2pmi,To Basket,PNR,High,Off,None,None,None
+Home,Offense,Bar,2pmi,To Basket,Transition,None,Left Wing,None,None,None
+Home,Defense,Bar,2pmi,N/A,Post,Right,Dribble Move,None,None,None
+Home,Defense,Bar,3pMa,No Dribble Jumper,PNR,Left,Off,P&R Roll Man,None,Pop
+Home,Offense,Bar,Turnover,N/A,Hand Offs,Right,Dribble,None,None,None
+Home,Defense,Bar,3pmi,Dribble Jumper,PNR,High,Off,None,None,None
+Home,Offense,Bar,2pMa,To Basket,Iso,Right,None,None,None,None
+Home,Defense,Bar,3pmi,No Dribble Jumper,PNR,Right,Off,Spot Ups,None,Shot
+Home,Offense,Bar,2pMa,To Basket,Iso,Top,None,Cuts,None,Basket
+Home,Defense,Bar,2pmi,To Basket,Off Screens,Left,Curl,None,None,None
+Home,Offense,Bar,2pmi,To Basket,PNR,Right,Off,P&R Roll Man,None,Roll
+Home,Defense,Bar,Foul,To Basket,Hand Offs,Right,Dribble,None,None,None
+Home,Defense,Bar,3pMa,No Dribble Jumper,Transition,None,Right Wing,None,None,None
+Home,Offense,Bar,2pmi,Dribble Jumper,Iso,Right,None,Spot Ups,Left,Drive
+Home,Defense,Bar,2pmi,N/A,Post,Left,Dribble Move,None,None,None
+Home,Offense,Bar,Turnover,N/A,Iso,Left,None,None,None,None
+Home,Defense,Bar,Foul,N/A,Post,Middle,None,None,None,None
+Home,Offense,Bar,3pmi,Dribble Jumper,Spot Ups,Left,Drive,None,None,None
+Home,Defense,Bar,3pmi,No Dribble Jumper,Transition,None,Trailer,None,None,None
+Home,Offense,Bar,Foul,To Basket,Transition,None,Left Wing,None,None,None
+Home,Defense,Bar,2pmi,To Basket,Cuts,None,Flash,None,None,None
+Home,Offense,Bar,And1,N/A,Post,Right,Face Up,None,None,None
+Home,Defense,Bar,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Offense,Bar,2pmi,To Basket,Iso,Right,None,Cuts,None,Basket
+Home,Defense,Bar,Turnover,N/A,Transition,None,Right Wing,None,None,None
+Home,Offense,Bar,3pMa,No Dribble Jumper,PNR,High,Off,P&R Roll Man,None,Pop
+Home,Defense,Bar,Foul,To Basket,Cuts,None,Basket,None,None,None
+Home,Offense,Bar,2pMa,To Basket,PNR,High,Off,P&R Roll Man,None,Roll
+Home,Defense,Bar,2pmi,Dribble Jumper,Hand Offs,Top,Dribble,None,None,None
+Home,Defense,Bar,2pmi,Dribble Jumper,Off Screens,Left,Straight,None,None,None
+Home,Offense,Bar,Foul,To Basket,PNR,Right,Off,Cuts,None,Basket
+Home,Offense,Bar,Foul,To Basket,Iso,Left,None,None,None,None
+Home,Defense,Bar,Turnover,N/A,Misc,None,None,None,None,None
+Home,Offense,Bar,3pMa,No Dribble Jumper,Hand Offs,Right,Dribble,None,None,None
+Home,Defense,Bar,Turnover,N/A,Misc,None,None,None,None,None
+Home,Offense,Bar,2pMa,To Basket,Transition,None,Ball Handler,None,None,None
+Home,Defense,Bar,3pMa,Dribble Jumper,PNR,Left,Off,None,None,None
+Home,Offense,Bar,2pmi,To Basket,Post,Right,Face Up,Cuts,None,Flash
+Home,Defense,Bar,Turnover,N/A,Transition,None,Ball Handler,None,None,None
+Home,Offense,Bar,3pmi,Dribble Jumper,PNR,Left,Off,None,None,None
+Home,Defense,Bar,2pMa,Dribble Jumper,Iso,Top,None,Spot Ups,Right,Drive
+Home,Offense,Bar,2pMa,To Basket,PNR,Left,Off,None,None,None
+Home,Defense,Bar,2pmi,To Basket,PNR,Left,Off,None,None,None
+Home,Offense,Bar,2pMa,To Basket,Post,Right,Dribble Move,None,None,None
+Home,Defense,Bar,2pMa,To Basket,Iso,Left,None,Cuts,None,Flash
+Home,Offense,Bar,2pmi,Dribble Jumper,Spot Ups,Right,Drive,None,None,None
+Home,Offense,Bar,2pMa,No Dribble Jumper,Off Screens,Left,Straight,None,None,None
+Home,Defense,Bar,3pmi,Dribble Jumper,Hand Offs,Top,Dribble,None,None,None
+Home,Offense,Bar,Foul,To Basket,Iso,Left,None,None,None,None
+Home,Defense,Bar,Foul,To Basket,Transition,None,First Middle,None,None,None
+Home,Defense,Bar,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Offense,Bar,2pmi,To Basket,Transition,None,Left Wing,None,None,None
+Home,Defense,Bar,2pmi,To Basket,Spot Ups,Right,Drive,None,None,None
+Home,Offense,Bar,Turnover,N/A,Spot Ups,Left,Drive,None,None,None
+Home,Defense,Bar,2pMa,To Basket,Spot Ups,Left,Drive,None,None,None
+Home,Offense,Bar,2pMa,No Dribble Jumper,Off Screens,Left,Straight,None,None,None
+Home,Defense,Bar,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
 Home,Offense,Bar,2pMa,To Basket,PNR,Right,Off,Spot Ups,Left,Drive
-Home,Defense,Bar,3pmi,No Dribble Jumper,Spot Ups,N/A,Shot,N/A,N/A,N/A
-Home,Offense,Bar,3pmi,No Dribble Jumper,Spot Ups,N/A,Shot,N/A,N/A,N/A
-Home,Defense,Bar,3pMa,No Dribble Jumper,Transition,N/A,Left Wing,N/A,N/A,N/A
-Home,Offense,Bar,3pmi,No Dribble Jumper,Spot Ups,N/A,Shot,N/A,N/A,N/A
-Home,Offense,Bar,3pmi,No Dribble Jumper,Spot Ups,N/A,Shot,N/A,N/A,N/A
-Home,Defense,Bar,Turnover,To Basket,Cuts,N/A,Basket,N/A,N/A,N/A
-Home,Offense,Bar,3pMa,No Dribble Jumper,Spot Ups,N/A,Shot,N/A,N/A,N/A
-Home,Defense,Bar,2pMa,To Basket,Iso,Top,N/A,N/A,N/A,N/A
-Home,Offense,Bar,3pmi,No Dribble Jumper,Spot Ups,N/A,Shot,N/A,N/A,N/A
-Home,Defense,Bar,2pMa,N/A,Post,Right,Face Up,N/A,N/A,N/A
-Home,Offense,Bar,2pMa,To Basket,Spot Ups,Right,Drive,N/A,N/A,N/A
-Home,Defense,Bar,Turnover,N/A,Misc,N/A,N/A,N/A,N/A,N/A
-Home,Offense,Bar,2pMa,To Basket,Transition,N/A,Left Wing,N/A,N/A,N/A
-Home,Defense,Bar,Foul,To Basket,Transition,N/A,Ball Handler,N/A,N/A,N/A
-Home,Offense,Bar,Turnover,N/A,Transition,N/A,Ball Handler,N/A,N/A,N/A
-Home,Defense,Bar,2pmi,To Basket,PNR,High,Off,N/A,N/A,N/A
-Home,Offense,Bar,2pmi,Dribble Jumper,Spot Ups,Left,Drive,N/A,N/A,N/A
-Home,Defense,Bar,2pMa,To Basket,Off Screens,Left,Curl,N/A,N/A,N/A
-Home,Offense,Bar,Turnover,To Basket,Iso,Top,N/A,Cuts,N/A,Basket
-Home,Defense,Bar,2pMa,To Basket,Cuts,N/A,Basket,N/A,N/A,N/A
-Home,Offense,Bar,Turnover,N/A,PNR,Left,Off,N/A,N/A,N/A
-Home,Defense,Bar,Turnover,N/A,Spot Ups,Left,Drive,N/A,N/A,N/A
-Home,Offense,Bar,2pMa,To Basket,Transition,N/A,Leak Outs,N/A,N/A,N/A
-Home,Defense,Bar,2pmi,Dribble Jumper,PNR,High,Off,N/A,N/A,N/A
-Home,Offense,Bar,2pMa,No Dribble Jumper,Iso,Top,N/A,N/A,N/A,N/A
-Home,Defense,Bar,Foul,N/A,Post,Middle,N/A,N/A,N/A,N/A
-Home,Offense,Bar,Foul,To Basket,Iso,Top,N/A,N/A,N/A,N/A
-Home,Defense,Bar,3pMa,No Dribble Jumper,Hand Offs,Right,Dribble,N/A,N/A,N/A
-Home,Offense,Bar,2pmi,Drop Step,Post,Left,Dribble Move,N/A,N/A,N/A
-Home,Defense,Bar,2pmi,To Basket,PNR,Right,Off,P&R Roll Man,N/A,Roll
-Home,Offense,Bar,3pmi,No Dribble Jumper,PNR,High,Off,P&R Roll Man,N/A,Pop
-Home,Defense,Bar,3pMa,No Dribble Jumper,Spot Ups,N/A,Shot,N/A,N/A,N/A
+Home,Defense,Bar,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Offense,Bar,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Defense,Bar,3pMa,No Dribble Jumper,Transition,None,Left Wing,None,None,None
+Home,Offense,Bar,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Offense,Bar,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Defense,Bar,Turnover,To Basket,Cuts,None,Basket,None,None,None
+Home,Offense,Bar,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Defense,Bar,2pMa,To Basket,Iso,Top,None,None,None,None
+Home,Offense,Bar,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Defense,Bar,2pMa,N/A,Post,Right,Face Up,None,None,None
+Home,Offense,Bar,2pMa,To Basket,Spot Ups,Right,Drive,None,None,None
+Home,Defense,Bar,Turnover,N/A,Misc,None,None,None,None,None
+Home,Offense,Bar,2pMa,To Basket,Transition,None,Left Wing,None,None,None
+Home,Defense,Bar,Foul,To Basket,Transition,None,Ball Handler,None,None,None
+Home,Offense,Bar,Turnover,N/A,Transition,None,Ball Handler,None,None,None
+Home,Defense,Bar,2pmi,To Basket,PNR,High,Off,None,None,None
+Home,Offense,Bar,2pmi,Dribble Jumper,Spot Ups,Left,Drive,None,None,None
+Home,Defense,Bar,2pMa,To Basket,Off Screens,Left,Curl,None,None,None
+Home,Offense,Bar,Turnover,To Basket,Iso,Top,None,Cuts,None,Basket
+Home,Defense,Bar,2pMa,To Basket,Cuts,None,Basket,None,None,None
+Home,Offense,Bar,Turnover,N/A,PNR,Left,Off,None,None,None
+Home,Defense,Bar,Turnover,N/A,Spot Ups,Left,Drive,None,None,None
+Home,Offense,Bar,2pMa,To Basket,Transition,None,Leak Outs,None,None,None
+Home,Defense,Bar,2pmi,Dribble Jumper,PNR,High,Off,None,None,None
+Home,Offense,Bar,2pMa,No Dribble Jumper,Iso,Top,None,None,None,None
+Home,Defense,Bar,Foul,N/A,Post,Middle,None,None,None,None
+Home,Offense,Bar,Foul,To Basket,Iso,Top,None,None,None,None
+Home,Defense,Bar,3pMa,No Dribble Jumper,Hand Offs,Right,Dribble,None,None,None
+Home,Offense,Bar,2pmi,Drop Step,Post,Left,Dribble Move,None,None,None
+Home,Defense,Bar,2pmi,To Basket,PNR,Right,Off,P&R Roll Man,None,Roll
+Home,Offense,Bar,3pmi,No Dribble Jumper,PNR,High,Off,P&R Roll Man,None,Pop
+Home,Defense,Bar,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
 Home,Offense,Bar,2pmi,Dribble Jumper,PNR,Left,Off,Spot Ups,Left,Drive
-Home,Defense,Bar,2pMa,To Basket,Post,Right,Dribble Move,Cuts,N/A,Basket
-Home,Offense,Bar,3pMa,No Dribble Jumper,PNR,High,Away,Spot Ups,N/A,Shot
-Home,Defense,Bar,2pMa,Dribble Jumper,Spot Ups,Right,Drive,N/A,N/A,N/A
-Home,Offense,Bar,,N/A,,N/A,N/A,N/A,N/A,N/A
-Home,Defense,Bar,2pmi,To Basket,Spot Ups,Left,Drive,N/A,N/A,N/A
-Home,Defense,Bar,3pmi,No Dribble Jumper,Spot Ups,N/A,Shot,N/A,N/A,N/A
-Home,Defense,Bar,2pMa,Dribble Jumper,Spot Ups,Left,Drive,N/A,N/A,N/A
-Home,Offense,Bar,3pMa,No Dribble Jumper,Iso,Top,N/A,Spot Ups,N/A,Shot
-Home,Defense,Bar,3pmi,Dribble Jumper,Transition,N/A,Left Wing,N/A,N/A,N/A
-Home,Defense,Bar,Foul,N/A,Misc,N/A,N/A,N/A,N/A,N/A
-Home,Defense,Bar,Turnover,N/A,Misc,N/A,N/A,N/A,N/A,N/A
+Home,Defense,Bar,2pMa,To Basket,Post,Right,Dribble Move,Cuts,None,Basket
+Home,Offense,Bar,3pMa,No Dribble Jumper,PNR,High,Away,Spot Ups,None,Shot
+Home,Defense,Bar,2pMa,Dribble Jumper,Spot Ups,Right,Drive,None,None,None
+Home,Defense,Bar,2pmi,To Basket,Spot Ups,Left,Drive,None,None,None
+Home,Defense,Bar,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
+Home,Defense,Bar,2pMa,Dribble Jumper,Spot Ups,Left,Drive,None,None,None
+Home,Offense,Bar,3pMa,No Dribble Jumper,Iso,Top,None,Spot Ups,None,Shot
+Home,Defense,Bar,3pmi,Dribble Jumper,Transition,None,Left Wing,None,None,None
+Home,Defense,Bar,Foul,N/A,Misc,None,None,None,None,None
+Home,Defense,Bar,Turnover,N/A,Misc,None,None,None,None,None

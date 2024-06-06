@@ -32,8 +32,6 @@ def process_plays(csv_df: pd.DataFrame):
     final_df = pd.DataFrame(index=filtered_df.index, columns=['Site', 'PossesionType', 'Opponent', 'Outcome', 'ShotType', 'PrimaryPlayType', 'PrimaryDirection', 'PrimaryAction', 'SecondaryPlayType', 'SecondaryDirection', 'SecondaryAction'])
     final_df[:] = None
 
-    print(final_df.head())
-
     # finds key information and puts in
     finds_opponent_site(filtered_df, final_df) # Checked and done
     find_playoutcomes(filtered_df, final_df) 
@@ -41,14 +39,23 @@ def process_plays(csv_df: pd.DataFrame):
     find_playtype(filtered_df, final_df)
     find_offense_defense(filtered_df, final_df)
     
-    final_df['PrimaryDirection'].fillna('N/A', inplace=True)
-    final_df['PrimaryAction'].fillna('N/A', inplace=True)
-    final_df['SecondaryPlayType'].fillna('N/A', inplace=True)
-    final_df['SecondaryDirection'].fillna('N/A', inplace=True)
-    final_df['SecondaryAction'].fillna('N/A', inplace=True)
+    final_df.fillna({'PrimaryDirection': 'None'}, inplace=True)
+    final_df.fillna({'PrimaryAction': 'None'}, inplace=True)
+    final_df.fillna({'SecondaryPlayType': 'None'}, inplace=True)
+    final_df.fillna({'SecondaryAction': 'None'}, inplace=True)
+    final_df.fillna({'SecondaryDirection': 'None'}, inplace=True)
     
-    pd.set_option('display.max_columns', None)
     print(final_df.isnull().sum())
+    
+    condition1 = final_df['Outcome'].isnull()
+    condition2 = final_df['PrimaryPlayType'].isnull()
+    
+    conditions = condition1 | condition2
+
+    filtered_rows = final_df.loc[conditions]
+    
+    print(filtered_rows)
+    
     print('\n')
     
     return final_df
@@ -76,7 +83,8 @@ def find_playoutcomes(df: pd.DataFrame, final_df: pd.DataFrame):
         'Miss 2 Pts': '2pmi',
         'Miss 3 Pts': '3pmi',
         'Turnover': 'Turnover',
-        '1 Pts': 'And1'
+        '1 Pts': 'And1',
+        '0 Pts': 'And1'
     }
     final_df['Outcome'] = df['Result'].map(outcome_mapping)
 
@@ -367,15 +375,17 @@ def process_postups(playlist, playnumber, final_df: pd.DataFrame, idx):
         final_df.at[idx, action_column] = 'Dribble Move'
             
         
-
 def get_constraints(csv_df: pd.DataFrame):
     constraint1 = csv_df['Result'] != "No Violation"
     constraint2 = csv_df['Result'] != "Free Throw"
     constraint3 = csv_df['Result'] != "Run Offense"
     constraint4 = csv_df['Result'] != "Non Shooting Foul"
     constraint5 = csv_df['Result'] != "Kicked Ball"
-    constraint6 = csv_df['Synergy String'].str.contains('Offensive Rebound')
-    return constraint1 & constraint2 & constraint3 & constraint4 & constraint5 & ~constraint6
+    constraint6 = csv_df['Result'] != "Shot Clock Violation"
+    constraint7 = csv_df['Synergy String'].str.contains('Offensive Rebound')
+    constraint8 = csv_df['Result'] != "8 Sec Violation"
+    constraint9 = csv_df['Result'] != "Out of Bound 5 Sec Violation"
+    return constraint1 & constraint2 & constraint3 & constraint4 & constraint5 & constraint6 & ~constraint7 & constraint8 & constraint9
 
 
 if __name__ == "__main__":
