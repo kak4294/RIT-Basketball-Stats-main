@@ -1,148 +1,148 @@
-Site,PossesionType,Opponent,Outcome,ShotType,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayType,SecondaryDirection,SecondaryAction
-Away,Defense,WEL,3pmi,Dribble Jumper,PNR,High,Off,Spot Ups,Left,Drive
-Away,Offense,WEL,2pMa,Dribble Jumper,Transition,None,Trailer,None,None,None
-Away,Defense,WEL,2pmi,To Basket,Cuts,None,Flash,None,None,None
-Away,Offense,WEL,Turnover,N/A,Transition,None,Left Wing,None,None,None
-Away,Defense,WEL,2pmi,To Basket,Transition,None,Ball Handler,None,None,None
-Away,Offense,WEL,2pMa,N/A,Post,Left,Dribble Move,None,None,None
-Away,Defense,WEL,2pmi,Dribble Jumper,Iso,Top,None,None,None,None
-Away,Offense,WEL,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Away,Defense,WEL,Foul,To Basket,Iso,Right,None,None,None,None
-Away,Offense,WEL,2pmi,No Dribble Jumper,Iso,Top,None,None,None,None
-Away,Defense,WEL,2pMa,Dribble Jumper,Spot Ups,Left,Drive,None,None,None
-Away,Offense,WEL,Foul,To Basket,Hand Offs,Top,Stationary,None,None,None
-Away,Defense,WEL,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Away,Offense,WEL,3pmi,No Dribble Jumper,Hand Offs,Right,Dribble,None,None,None
-Away,Defense,WEL,2pMa,N/A,Post,Left,Face Up,None,None,None
-Away,Offense,WEL,2pmi,To Basket,Iso,Top,None,None,None,None
-Away,Defense,WEL,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,WEL,2pMa,To Basket,Off Screens,Right,Straight,None,None,None
-Away,Defense,WEL,Foul,To Basket,Iso,Top,None,None,None,None
-Away,Offense,WEL,2pmi,To Basket,Off Screens,Right,Straight,None,None,None
-Away,Defense,WEL,2pmi,Dribble Jumper,Transition,None,Ball Handler,None,None,None
-Away,Offense,WEL,2pmi,To Basket,Transition,None,Ball Handler,None,None,None
-Away,Defense,WEL,Foul,To Basket,Transition,None,Ball Handler,None,None,None
-Away,Offense,WEL,And1,To Basket,Iso,Left,None,Cuts,None,Basket
-Away,Defense,WEL,2pmi,Dribble Jumper,Spot Ups,Straight,Drive,None,None,None
-Away,Offense,WEL,3pMa,No Dribble Jumper,Transition,None,Trailer,None,None,None
-Away,Defense,WEL,2pmi,Dribble Jumper,Iso,Top,None,None,None,None
-Away,Offense,WEL,2pMa,To Basket,Transition,None,First Middle,None,None,None
-Away,Defense,WEL,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,WEL,3pMa,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Away,Defense,WEL,3pMa,Dribble Jumper,PNR,High,Off,None,None,None
-Away,Offense,WEL,Turnover,N/A,PNR,High,Off,None,None,None
-Away,Defense,WEL,2pMa,To Basket,Transition,None,Ball Handler,None,None,None
-Away,Offense,WEL,3pmi,No Dribble Jumper,Transition,None,Right Wing,None,None,None
-Away,Defense,WEL,2pmi,To Basket,Transition,None,Ball Handler,None,None,None
-Away,Offense,WEL,2pMa,To Basket,Cuts,None,Screen,None,None,None
-Away,Defense,WEL,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,WEL,Foul,To Basket,PNR,High,Off,None,None,None
-Away,Defense,WEL,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,WEL,2pMa,To Basket,PNR,High,Away,None,None,None
-Away,Defense,WEL,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Away,Offense,WEL,2pmi,Dribble Jumper,PNR,High,Off,None,None,None
-Away,Defense,WEL,2pmi,To Basket,Transition,None,Ball Handler,None,None,None
-Away,Offense,WEL,3pmi,No Dribble Jumper,Transition,None,Right Wing,None,None,None
-Away,Offense,WEL,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,WEL,3pmi,No Dribble Jumper,PNR,High,Off,Spot Ups,None,Shot
-Away,Offense,WEL,3pmi,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Away,Defense,WEL,Foul,To Basket,Transition,None,Ball Handler,None,None,None
-Away,Offense,WEL,2pmi,To Basket,PNR,High,Off,None,None,None
-Away,Defense,WEL,2pmi,To Basket,Transition,None,Ball Handler,None,None,None
-Away,Offense,WEL,3pMa,No Dribble Jumper,Off Screens,Left,Straight,None,None,None
-Away,Defense,WEL,Foul,To Basket,Cuts,None,Flash,None,None,None
-Away,Offense,WEL,2pmi,To Basket,Transition,None,Right Wing,None,None,None
-Away,Defense,WEL,2pMa,Hook Shot,Post,Left,Dribble Move,None,None,None
-Away,Offense,WEL,2pMa,To Basket,PNR,High,Off,Spot Ups,Right,Drive
-Away,Defense,WEL,2pMa,Hook Shot,Post,Left,Dribble Move,None,None,None
-Away,Offense,WEL,2pMa,Dribble Jumper,Misc,None,None,None,None,None
-Away,Defense,WEL,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Away,Offense,WEL,2pMa,To Basket,Off Screens,Right,Straight,None,None,None
-Away,Defense,WEL,Turnover,To Basket,Spot Ups,Right,Drive,None,None,None
-Away,Offense,WEL,2pmi,To Basket,Hand Offs,Top,Stationary,None,None,None
-Away,Offense,WEL,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,WEL,3pmi,No Dribble Jumper,PNR,High,Off,Spot Ups,None,Shot
-Away,Defense,WEL,Turnover,N/A,Transition,None,Ball Handler,None,None,None
-Away,Offense,WEL,2pMa,To Basket,Transition,None,Left Wing,None,None,None
-Away,Defense,WEL,2pmi,To Basket,Misc,None,None,None,None,None
-Away,Offense,WEL,2pmi,Dribble Jumper,Iso,Right,None,None,None,None
-Away,Defense,WEL,2pmi,To Basket,Transition,None,Ball Handler,None,None,None
-Away,Offense,WEL,2pmi,No Dribble Jumper,Off Screens,Left,Straight,None,None,None
-Away,Defense,WEL,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,WEL,2pMa,To Basket,Transition,None,Trailer,None,None,None
-Away,Defense,WEL,Turnover,N/A,Spot Ups,Left,Drive,None,None,None
-Away,Offense,WEL,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Away,Defense,WEL,Foul,N/A,Transition,None,Ball Handler,None,None,None
-Away,Offense,WEL,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Away,Defense,WEL,2pmi,N/A,Post,Left,Dribble Move,None,None,None
-Away,Offense,WEL,3pMa,Dribble Jumper,Transition,None,Left Wing,None,None,None
-Away,Offense,WEL,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Away,Defense,WEL,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Away,Offense,WEL,Turnover,To Basket,Cuts,None,Flash,None,None,None
-Away,Defense,WEL,3pMa,No Dribble Jumper,Transition,None,Trailer,None,None,None
-Away,Offense,WEL,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,WEL,2pmi,To Basket,Post,Middle,Dribble Move,None,None,None
-Away,Defense,WEL,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,WEL,2pmi,To Basket,Misc,None,None,None,None,None
-Away,Defense,WEL,2pMa,Dribble Jumper,PNR,Right,Off,None,None,None
-Away,Offense,WEL,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,WEL,2pmi,To Basket,Iso,Right,None,None,None,None
-Away,Defense,WEL,Turnover,N/A,Misc,None,None,None,None,None
-Away,Offense,WEL,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,WEL,2pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,WEL,2pmi,To Basket,Spot Ups,Left,Drive,None,None,None
-Away,Offense,WEL,2pMa,To Basket,Transition,None,Right Wing,None,None,None
-Away,Defense,WEL,2pmi,To Basket,Misc,None,None,None,None,None
-Away,Offense,WEL,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,WEL,Turnover,N/A,Transition,None,Ball Handler,None,None,None
-Away,Offense,WEL,And1,To Basket,Cuts,None,Basket,None,None,None
-Away,Defense,WEL,2pmi,To Basket,Cuts,None,Flash,None,None,None
-Away,Offense,WEL,3pMa,Dribble Jumper,Transition,None,Right Wing,None,None,None
-Away,Defense,WEL,Turnover,N/A,Misc,None,None,None,None,None
-Away,Offense,WEL,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Away,Defense,WEL,2pmi,To Basket,Spot Ups,Straight,Drive,None,None,None
-Away,Offense,WEL,Foul,To Basket,Misc,None,None,None,None,None
-Away,Defense,WEL,2pMa,To Basket,Cuts,None,Flash,None,None,None
-Away,Offense,WEL,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,WEL,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Away,Offense,WEL,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,WEL,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,WEL,3pmi,No Dribble Jumper,Iso,Right,None,Spot Ups,None,Shot
-Away,Defense,WEL,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,WEL,Turnover,To Basket,Transition,None,First Middle,None,None,None
-Away,Defense,WEL,2pmi,No Dribble Jumper,Misc,None,None,None,None,None
-Away,Offense,WEL,2pmi,To Basket,Cuts,None,Flash,None,None,None
-Away,Defense,WEL,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,WEL,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,WEL,2pmi,To Basket,Cuts,None,Flash,None,None,None
-Away,Offense,WEL,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Away,Defense,WEL,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Away,Offense,WEL,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,WEL,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Away,Defense,WEL,And1,To Basket,Transition,None,First Middle,None,None,None
-Away,Offense,WEL,3pMa,No Dribble Jumper,Hand Offs,Top,Dribble,None,None,None
-Away,Defense,WEL,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,WEL,2pmi,To Basket,Transition,None,Right Wing,None,None,None
-Away,Defense,WEL,Turnover,N/A,Misc,None,None,None,None,None
-Away,Offense,WEL,2pMa,To Basket,Cuts,None,Flash,None,None,None
-Away,Defense,WEL,Turnover,N/A,Misc,None,None,None,None,None
-Away,Offense,WEL,2pmi,To Basket,Transition,None,Right Wing,None,None,None
-Away,Defense,WEL,2pmi,To Basket,Cuts,None,Flash,None,None,None
-Away,Offense,WEL,2pMa,To Basket,Iso,Top,None,None,None,None
-Away,Defense,WEL,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,WEL,2pMa,To Basket,PNR,Left,Off,None,None,None
-Away,Defense,WEL,3pmi,Dribble Jumper,PNR,High,Off,None,None,None
-Away,Offense,WEL,3pMa,No Dribble Jumper,PNR,High,Away,P&R Roll Man,None,Pop
-Away,Defense,WEL,2pMa,To Basket,Cuts,None,Flash,None,None,None
-Away,Offense,WEL,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Away,Defense,WEL,2pMa,Dribble Jumper,PNR,Left,Away,None,None,None
-Away,Offense,WEL,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,WEL,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,WEL,2pMa,To Basket,Cuts,None,Flash,None,None,None
-Away,Offense,WEL,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,WEL,Turnover,To Basket,Cuts,None,Flash,None,None,None
-Away,Offense,WEL,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Away,Defense,WEL,3pmi,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Away,Defense,WEL,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,WEL,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,WEL,2pmi,Dribble Jumper,Spot Ups,Left,Drive,None,None,None
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction
+RIT,WEL,Wells,3pmi,Dribble Jumper,Chase Welch,PNR,High,Off,Terrance Clayton-Murphy,Spot Ups,Left,Drive
+RIT,WEL,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Kenny Wilburn,Transition,N/A,Trailer,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pmi,To Basket,Chase Welch,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pmi,To Basket,Terrance Clayton-Murphy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pMa,N/A,Kenny Wilburn,Post,Left,Dribble,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pmi,Dribble Jumper,Chase Welch,Iso,Top,N/A,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pMa,To Basket,Brock Bowen,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,Foul,To Basket,Billy Mccrae,Iso,Right,N/A,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pmi,No Dribble Jumper,Kenny Wilburn,Iso,Top,N/A,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pMa,Dribble Jumper,Donye Johnson,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,Foul,To Basket,Brody Brown,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pMa,To Basket,Billy Mccrae,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pMa,N/A,Billy Mccrae,Post,Left,Face Up,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Iso,Top,N/A,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,3pmi,No Dribble Jumper,Terrance Clayton-Murphy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Off Screens,Right,Straight,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,Foul,To Basket,Chase Welch,Iso,Top,N/A,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Off Screens,Right,Straight,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pmi,Dribble Jumper,Chase Welch,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,Foul,To Basket,Donye Johnson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,And1,To Basket,Chase Dickens,Iso,Left,N/A,Kenny Wilburn,Cuts,N/A,Basket
+RIT,WEL,Wells,2pmi,Dribble Jumper,Donye Johnson,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,Transition,N/A,Trailer,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pmi,Dribble Jumper,Ivan OduroDompreh,Iso,Top,N/A,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,3pmi,No Dribble Jumper,Chase Welch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,3pMa,Dribble Jumper,Terrance Clayton-Murphy,PNR,High,Off,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pMa,To Basket,Terrance Clayton-Murphy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Zac Ditzel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pmi,To Basket,Terrance Clayton-Murphy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pMa,To Basket,Zac Ditzel,Cuts,N/A,Screen,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,3pmi,No Dribble Jumper,Elijah Harrison,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,Foul,To Basket,Chase Dickens,PNR,High,Off,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,3pMa,No Dribble Jumper,Evan Hauser,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,PNR,High,Away,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pMa,To Basket,Evan Hauser,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pmi,To Basket,Terrance Clayton-Murphy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Luke Granto,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,3pmi,No Dribble Jumper,Chase Welch,PNR,High,Off,Terrance Clayton-Murphy,Spot Ups,N/A,Shot
+RIT,WEL,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Luke Granto,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,Foul,To Basket,Terrance Clayton-Murphy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pmi,To Basket,Brock Bowen,PNR,High,Off,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pmi,To Basket,Terrance Clayton-Murphy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brody Brown,Off Screens,Left,Straight,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,Foul,To Basket,Billy Mccrae,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pmi,To Basket,Zac Ditzel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pMa,Hook Shot,Billy Mccrae,Post,Left,Dribble,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,PNR,High,Off,Zac Ditzel,Spot Ups,Right,Drive
+RIT,WEL,Wells,2pMa,Hook Shot,Billy Mccrae,Post,Left,Dribble,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Brock Bowen,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pMa,To Basket,Terrance Clayton-Murphy,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pMa,To Basket,Brody Brown,Off Screens,Right,Straight,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,Turnover,To Basket,Evan Hauser,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Brody Brown,Spot Ups,N/A,Shot
+RIT,WEL,Wells,Turnover,N/A,Chase Welch,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pmi,To Basket,Terrance Clayton-Murphy,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Chase Dickens,Iso,Right,N/A,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pmi,To Basket,Chase Welch,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pmi,No Dribble Jumper,Chase Dickens,Off Screens,Left,Straight,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,3pmi,No Dribble Jumper,Darius Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Transition,N/A,Trailer,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,Turnover,N/A,Alex Grant,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,Foul,N/A,Donye Johnson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pmi,To Basket,Brody Brown,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pmi,N/A,John Bangel,Post,Left,Dribble,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,3pMa,Dribble Jumper,Luke Granto,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pMa,To Basket,Brock Bowen,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pMa,To Basket,Ivan OduroDompreh,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,Turnover,To Basket,Brock Bowen,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,3pMa,No Dribble Jumper,Evan Hauser,Transition,N/A,Trailer,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pmi,To Basket,Billy Mccrae,Post,Middle,Dribble,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,3pmi,No Dribble Jumper,Chase Welch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pMa,Dribble Jumper,Evan Hauser,PNR,Right,Off,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brandon Weiss,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pmi,To Basket,Terrance Clayton-Murphy,Iso,Right,N/A,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,Turnover,N/A,Chase Welch,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brandon Weiss,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pMa,No Dribble Jumper,Kenny Wilburn,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pmi,To Basket,Billy Mccrae,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pmi,To Basket,Billy Mccrae,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brandon Weiss,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,Turnover,N/A,Chase Welch,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,And1,To Basket,Brock Bowen,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pmi,To Basket,Billy Mccrae,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,3pMa,Dribble Jumper,Chase Dickens,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,Turnover,N/A,James Lucey,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pmi,To Basket,John Bangel,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,Foul,To Basket,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pMa,To Basket,Billy Mccrae,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pmi,To Basket,John Bangel,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,3pmi,No Dribble Jumper,Terrance Clayton-Murphy,Iso,Right,N/A,Chase Welch,Spot Ups,N/A,Shot
+RIT,WEL,Wells,3pmi,No Dribble Jumper,Billy Mccrae,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,Turnover,To Basket,Kenny Wilburn,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pmi,No Dribble Jumper,Billy Mccrae,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pmi,To Basket,Brody Brown,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,3pMa,No Dribble Jumper,Terrance Clayton-Murphy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pmi,To Basket,Billy Mccrae,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pMa,To Basket,John Bangel,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Luke Granto,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pmi,To Basket,Brody Brown,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,And1,To Basket,Billy Mccrae,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,3pMa,No Dribble Jumper,Terrance Clayton-Murphy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pmi,To Basket,Nolan Smih,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,Turnover,N/A,Donye Johnson,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,Turnover,N/A,Chase Welch,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pmi,To Basket,Luke Granto,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pmi,To Basket,Billy Mccrae,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Iso,Top,N/A,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,3pmi,No Dribble Jumper,Donye Johnson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pMa,To Basket,Luke Granto,PNR,Left,Off,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,3pmi,Dribble Jumper,Terrance Clayton-Murphy,PNR,High,Off,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,PNR,High,Away,Kenny Wilburn,P&R Roll Man,N/A,Pop
+RIT,WEL,Wells,2pMa,To Basket,Joe Bangel,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pMa,Dribble Jumper,Don Mays Jr,PNR,Left,Away,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Luke Granto,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pMa,To Basket,John Bangel,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brandon Weiss,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,Turnover,To Basket,Joe Bangel,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,2pmi,To Basket,Nolan Smih,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,3pmi,No Dribble Jumper,Stevie Graham,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,3pmi,No Dribble Jumper,Don Mays Jr,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Nolan Smih,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,WEL,Wells,2pmi,Dribble Jumper,Stevie Graham,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A

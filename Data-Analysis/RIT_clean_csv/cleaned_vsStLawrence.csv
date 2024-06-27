@@ -1,147 +1,147 @@
-Site,PossesionType,Opponent,Outcome,ShotType,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayType,SecondaryDirection,SecondaryAction
-Home,Offense,SLS,Turnover,N/A,Misc,None,None,None,None,None
-Home,Defense,SLS,Turnover,N/A,Transition,None,Ball Handler,None,None,None
-Home,Offense,SLS,2pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,SLS,2pmi,To Basket,Spot Ups,Right,Drive,None,None,None
-Home,Defense,SLS,2pmi,Drop Step,Post,Middle,Dribble Move,None,None,None
-Home,Offense,SLS,3pMa,No Dribble Jumper,Post,Right,Dribble Move,Spot Ups,None,Shot
-Home,Defense,SLS,Turnover,N/A,PNR,Left,Off,None,None,None
-Home,Offense,SLS,Turnover,N/A,Misc,None,None,None,None,None
-Home,Defense,SLS,3pmi,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Home,Defense,SLS,2pMa,To Basket,Post,Right,Dribble Move,None,None,None
-Home,Offense,SLS,3pmi,Dribble Jumper,Spot Ups,Left,Drive,None,None,None
-Home,Offense,SLS,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,SLS,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,SLS,Turnover,N/A,Spot Ups,Left,Drive,None,None,None
-Home,Offense,SLS,Turnover,N/A,Spot Ups,Right,Drive,None,None,None
-Home,Defense,SLS,2pmi,To Basket,Transition,None,First Middle,None,None,None
-Home,Defense,SLS,3pmi,No Dribble Jumper,Off Screens,Left,Straight,None,None,None
-Home,Offense,SLS,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,SLS,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,SLS,2pMa,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Defense,SLS,2pmi,To Basket,PNR,Left,Away,None,None,None
-Home,Offense,SLS,2pmi,To Basket,Transition,None,Left Wing,None,None,None
-Home,Defense,SLS,Turnover,N/A,Post,Left,Dribble Move,None,None,None
-Home,Offense,SLS,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,SLS,2pmi,Dribble Jumper,Hand Offs,Top,Dribble,None,None,None
-Home,Defense,SLS,2pmi,Dribble Jumper,Spot Ups,Left,Drive,None,None,None
-Home,Defense,SLS,Turnover,N/A,Misc,None,None,None,None,None
-Home,Offense,SLS,2pMa,To Basket,Transition,None,First Middle,None,None,None
-Home,Defense,SLS,Foul,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,SLS,2pmi,To Basket,Spot Ups,Right,Drive,None,None,None
-Home,Offense,SLS,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,SLS,3pmi,No Dribble Jumper,Transition,None,Right Wing,None,None,None
-Home,Offense,SLS,3pmi,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Home,Defense,SLS,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,SLS,Turnover,N/A,Misc,None,None,None,None,None
-Home,Defense,SLS,2pMa,To Basket,Transition,None,First Middle,None,None,None
-Home,Offense,SLS,Turnover,N/A,Spot Ups,None,None,None,None,None
-Home,Defense,SLS,3pMa,No Dribble Jumper,PNR,High,Off,Spot Ups,None,Shot
-Home,Offense,SLS,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,SLS,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,SLS,2pMa,To Basket,Transition,None,First Middle,None,None,None
-Home,Offense,SLS,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,SLS,3pmi,No Dribble Jumper,Post,Middle,None,Spot Ups,None,Shot
-Home,Offense,SLS,2pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,SLS,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,SLS,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,SLS,2pmi,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Defense,SLS,2pmi,To Basket,Off Screens,Right,Straight,None,None,None
-Home,Offense,SLS,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,SLS,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,SLS,Foul,N/A,Misc,None,None,None,None,None
-Home,Offense,SLS,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,SLS,2pmi,To Basket,Cuts,None,Flash,None,None,None
-Home,Offense,SLS,3pMa,Dribble Jumper,Spot Ups,Left,Drive,None,None,None
-Home,Defense,SLS,2pmi,Dribble Jumper,Spot Ups,Left,Drive,None,None,None
-Home,Offense,SLS,2pmi,To Basket,Cuts,None,Flash,None,None,None
-Home,Offense,SLS,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,SLS,And1,Drop Step,Post,Left,Dribble Move,None,None,None
-Home,Offense,SLS,Foul,To Basket,Cuts,None,Flash,None,None,None
-Home,Defense,SLS,Foul,To Basket,PNR,High,Off,None,None,None
-Home,Offense,SLS,Turnover,N/A,Misc,None,None,None,None,None
-Home,Defense,SLS,2pmi,Dribble Jumper,Spot Ups,Left,Drive,None,None,None
-Home,Offense,SLS,2pMa,To Basket,Post,Left,Dribble Move,Cuts,None,Basket
-Home,Defense,SLS,2pMa,To Basket,Off Screens,Left,Flare,None,None,None
-Home,Offense,SLS,Turnover,N/A,Spot Ups,Left,Drive,None,None,None
-Home,Defense,SLS,Foul,To Basket,Transition,None,First Middle,None,None,None
-Home,Offense,SLS,Turnover,N/A,Spot Ups,Left,Drive,None,None,None
-Home,Defense,SLS,Turnover,N/A,Spot Ups,None,None,None,None,None
-Home,Defense,SLS,Foul,N/A,Misc,None,None,None,None,None
-Home,Defense,SLS,3pmi,No Dribble Jumper,Post,Middle,Dribble Move,Spot Ups,None,Shot
-Home,Offense,SLS,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,SLS,2pmi,To Basket,Transition,None,Ball Handler,None,None,None
-Home,Offense,SLS,3pmi,Dribble Jumper,PNR,High,Away,None,None,None
-Home,Offense,SLS,2pmi,Dribble Jumper,Spot Ups,Right,Drive,None,None,None
-Home,Defense,SLS,2pmi,To Basket,Post,Right,Dribble Move,None,None,None
-Home,Defense,SLS,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,SLS,3pmi,No Dribble Jumper,PNR,Right,Off,Spot Ups,None,Shot
-Home,Defense,SLS,Foul,To Basket,PNR,Left,Off,None,None,None
-Home,Offense,SLS,Turnover,N/A,Post,Left,Dribble Move,None,None,None
-Home,Defense,SLS,Turnover,N/A,Transition,None,First Middle,None,None,None
-Home,Offense,SLS,2pMa,To Basket,PNR,Left,Away,None,None,None
-Home,Defense,SLS,2pmi,Hook Shot,Post,Middle,Dribble Move,None,None,None
-Home,Offense,SLS,3pmi,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Home,Defense,SLS,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,SLS,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,SLS,3pmi,No Dribble Jumper,PNR,Left,Off,Spot Ups,None,Shot
-Home,Defense,SLS,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Home,Offense,SLS,2pmi,Dribble Jumper,Transition,None,Ball Handler,None,None,None
-Home,Defense,SLS,2pmi,To Basket,PNR,High,Off,P&R Roll Man,None,Slips
-Home,Offense,SLS,2pMa,Drop Step,Post,Middle,Dribble Move,None,None,None
-Home,Defense,SLS,Foul,To Basket,Post,Left,Dribble Move,None,None,None
-Home,Offense,SLS,And1,To Basket,Transition,None,First Middle,None,None,None
-Home,Defense,SLS,Turnover,N/A,Spot Ups,Right,Drive,None,None,None
-Home,Offense,SLS,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,SLS,2pmi,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Offense,SLS,Turnover,N/A,Misc,None,None,None,None,None
-Home,Defense,SLS,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Home,Offense,SLS,Foul,To Basket,Cuts,None,Flash,None,None,None
-Home,Defense,SLS,3pMa,Dribble Jumper,Hand Offs,Top,Dribble,None,None,None
-Home,Offense,SLS,2pMa,To Basket,Cuts,None,Flash,None,None,None
-Home,Defense,SLS,2pmi,To Basket,PNR,High,Off,None,None,None
-Home,Offense,SLS,2pmi,To Basket,Cuts,None,Flash,None,None,None
-Home,Defense,SLS,2pMa,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Offense,SLS,2pmi,To Basket,Cuts,None,Flash,None,None,None
-Home,Defense,SLS,2pMa,To Basket,Spot Ups,Right,Drive,None,None,None
-Home,Offense,SLS,2pMa,To Basket,Cuts,None,Flash,None,None,None
-Home,Defense,SLS,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,SLS,Turnover,N/A,Transition,None,Ball Handler,None,None,None
-Home,Defense,SLS,2pmi,To Basket,Transition,None,Leak Outs,None,None,None
-Home,Offense,SLS,Turnover,N/A,Misc,None,None,None,None,None
-Home,Defense,SLS,2pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,SLS,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,SLS,2pmi,To Basket,Post,Left,Dribble Move,None,None,None
-Home,Offense,SLS,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,SLS,3pmi,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Home,Offense,SLS,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,SLS,Turnover,N/A,Misc,None,None,None,None,None
-Home,Offense,SLS,Foul,No Dribble Jumper,Post,Middle,Dribble Move,Spot Ups,None,Shot
-Home,Defense,SLS,3pmi,No Dribble Jumper,Post,Left,Dribble Move,Spot Ups,None,Shot
-Home,Offense,SLS,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,SLS,2pMa,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Offense,SLS,2pmi,To Basket,Cuts,None,Flash,None,None,None
-Home,Defense,SLS,3pmi,Dribble Jumper,PNR,High,Off,None,None,None
-Home,Offense,SLS,3pmi,Dribble Jumper,Spot Ups,Left,Drive,None,None,None
-Home,Defense,SLS,Foul,N/A,Hand Offs,Top,Dribble,None,None,None
-Home,Offense,SLS,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,SLS,Turnover,N/A,Transition,None,Ball Handler,None,None,None
-Home,Offense,SLS,2pMa,N/A,Post,Middle,Face Up,None,None,None
-Home,Defense,SLS,2pmi,Dribble Jumper,Transition,None,Ball Handler,None,None,None
-Home,Offense,SLS,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,SLS,2pMa,To Basket,Spot Ups,Right,Drive,None,None,None
-Home,Offense,SLS,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,SLS,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,SLS,2pmi,To Basket,Cuts,None,Flash,None,None,None
-Home,Offense,SLS,Turnover,N/A,Misc,None,None,None,None,None
-Home,Defense,SLS,2pmi,To Basket,Cuts,None,Flash,None,None,None
-Home,Offense,SLS,Turnover,N/A,Misc,None,None,None,None,None
-Home,Defense,SLS,Foul,N/A,Misc,None,None,None,None,None
-Home,Offense,SLS,Turnover,N/A,Misc,None,None,None,None,None
-Home,Defense,SLS,2pMa,To Basket,Transition,None,Ball Handler,None,None,None
-Home,Offense,SLS,Foul,N/A,Transition,None,Ball Handler,None,None,None
-Home,Defense,SLS,Turnover,To Basket,Misc,None,None,None,None,None
-Home,Offense,SLS,2pMa,To Basket,Transition,None,Leak Outs,None,None,None
-Home,Defense,SLS,3pmi,No Dribble Jumper,Transition,None,Trailer,None,None,None
-Home,Offense,SLS,2pmi,To Basket,Cuts,None,Flash,None,None,None
-Home,Defense,SLS,3pmi,Dribble Jumper,Transition,None,Ball Handler,None,None,None
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction
+SLS,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Keegan Ocorr,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,Turnover,N/A,Gavin Macaulay,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,2pmi,No Dribble Jumper,Jackson Otis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Keegan Ocorr,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pmi,Drop Step,Andrew Cowan,Post,Middle,Dribble,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Jackson Otis,Post,Right,Dribble,Brock Bowen,Spot Ups,N/A,Shot
+SLS,RIT,St. Lawrence Saints,Turnover,N/A,Gavin Macaulay,PNR,Left,Off,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,3pmi,No Dribble Jumper,Aiden Macaulay,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pMa,To Basket,Andrew Cowan,Post,Right,Dribble,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Chase Dickens,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,Turnover,N/A,Trey Syroka,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Jackson Otis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pmi,To Basket,Andrew Cowan,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,3pmi,No Dribble Jumper,Aiden Macaulay,Off Screens,Left,Straight,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,3pMa,No Dribble Jumper,Trey Syroka,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pmi,To Basket,Aiden Macaulay,PNR,Left,Away,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Jackson Otis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,Turnover,N/A,Andrew Cowan,Post,Left,Dribble,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Jackson Otis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pmi,Dribble Jumper,Trey Syroka,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pmi,Dribble Jumper,Troy McPherson,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,Turnover,N/A,Troy McPherson,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Keegan Ocorr,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,Foul,To Basket,Chris Downs Jr.,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pmi,To Basket,Adam Dudzinski,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brandon Weiss,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,3pmi,No Dribble Jumper,Carter Storey,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brandon Weiss,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,3pmi,No Dribble Jumper,Troy McPherson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Keegan Ocorr,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pMa,To Basket,Gavin Macaulay,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Brandon Weiss,Spot Ups,N/A,N/A,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,3pMa,No Dribble Jumper,Troy McPherson,PNR,High,Off,Carter Storey,Spot Ups,N/A,Shot
+SLS,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Mark Osime,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Keegan Ocorr,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pMa,To Basket,Andrew Cowan,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Jackson Otis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,3pmi,No Dribble Jumper,Andrew Cowan,Post,Middle,N/A,Adam Dudzinski,Spot Ups,N/A,Shot
+SLS,RIT,Rochester Institute of Technology Tigers,2pMa,No Dribble Jumper,Jackson Otis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,3pmi,No Dribble Jumper,Gavin Macaulay,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Mark Osime,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pmi,To Basket,Trey Syroka,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pmi,To Basket,Aiden Macaulay,Off Screens,Right,Straight,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Keegan Ocorr,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+SLS,RIT,,Foul,N/A,Adam Dudzinski,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Zac Ditzel,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,3pMa,Dribble Jumper,Brody Brown,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pmi,Dribble Jumper,Adam Dudzinski,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Zac Ditzel,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,And1,Drop Step,Adam Dudzinski,Post,Left,Dribble,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,Foul,To Basket,Aiden Macaulay,PNR,High,Off,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pmi,Dribble Jumper,Brayden Shepardson,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Post,Left,Dribble,Keegan Ocorr,Cuts,N/A,Basket
+SLS,RIT,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,Off Screens,Left,Flare,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,Foul,To Basket,Andrew Cowan,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Brody Brown,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,Turnover,N/A,Adam Dudzinski,Spot Ups,N/A,N/A,N/A,N/A,N/A,N/A
+SLS,RIT,,Foul,N/A,Brody Brown,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,3pmi,No Dribble Jumper,Andrew Cowan,Post,Middle,Dribble,Brayden Shepardson,Spot Ups,N/A,Shot
+SLS,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Kenny Wilburn,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pmi,To Basket,Trey Syroka,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Mark Osime,PNR,High,Away,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Jackson Otis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pmi,To Basket,Andrew Cowan,Post,Right,Dribble,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,3pmi,No Dribble Jumper,Aiden Macaulay,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,PNR,Right,Off,Chase Dickens,Spot Ups,N/A,Shot
+SLS,RIT,St. Lawrence Saints,Foul,To Basket,Gavin Macaulay,PNR,Left,Off,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Kenny Wilburn,Post,Left,Dribble,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,Turnover,N/A,Gavin Macaulay,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Brock Bowen,PNR,Left,Away,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pmi,Hook Shot,Andrew Cowan,Post,Middle,Dribble,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Keegan Ocorr,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,3pmi,No Dribble Jumper,Trey Syroka,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,3pmi,No Dribble Jumper,Trey Syroka,PNR,Left,Off,Gavin Macaulay,Spot Ups,N/A,Shot
+SLS,RIT,St. Lawrence Saints,2pmi,To Basket,Gavin Macaulay,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Brock Bowen,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pmi,To Basket,Troy McPherson,PNR,High,Off,Adam Dudzinski,P&R Roll Man,N/A,Slips
+SLS,RIT,Rochester Institute of Technology Tigers,2pMa,Drop Step,Kenny Wilburn,Post,Middle,Dribble,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,Foul,To Basket,Adam Dudzinski,Post,Left,Dribble,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,And1,To Basket,Kenny Wilburn,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,Turnover,N/A,Troy McPherson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pmi,To Basket,Adam Dudzinski,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Keegan Ocorr,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pmi,To Basket,Gavin Macaulay,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Kenny Wilburn,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,3pMa,Dribble Jumper,Carter Storey,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pmi,To Basket,Aiden Macaulay,PNR,High,Off,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pMa,To Basket,Aiden Macaulay,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Mark Osime,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pmi,To Basket,Gavin Macaulay,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pMa,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pmi,To Basket,Andrew Cowan,Post,Left,Dribble,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,3pmi,No Dribble Jumper,Carter Storey,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,Turnover,N/A,Tate Kuiper,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,Foul,No Dribble Jumper,Josiah Turner,Post,Middle,Dribble,Mark Osime,Spot Ups,N/A,Shot
+SLS,RIT,St. Lawrence Saints,3pmi,No Dribble Jumper,Aiden Macaulay,Post,Left,Dribble,Trey Syroka,Spot Ups,N/A,Shot
+SLS,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pMa,To Basket,Trey Syroka,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,3pmi,Dribble Jumper,Aiden Macaulay,PNR,High,Off,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Brock Bowen,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,Foul,N/A,Adam Dudzinski,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Jackson Otis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,Turnover,N/A,Trey Syroka,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,2pMa,N/A,Josiah Turner,Post,Middle,Face Up,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pmi,Dribble Jumper,Trey Syroka,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Mark Osime,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pMa,To Basket,Troy McPherson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Mark Osime,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pmi,To Basket,Jack Wirtanen,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pmi,To Basket,Jack Wirtanen,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Mark Osime,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+SLS,RIT,,Foul,N/A,Troy McPherson,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Keegan Ocorr,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,2pMa,To Basket,Troy McPherson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,Foul,N/A,Brock Bowen,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,Turnover,To Basket,Carter Storey,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,3pmi,No Dribble Jumper,Carter Storey,Transition,N/A,Trailer,N/A,N/A,N/A,N/A
+SLS,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+SLS,RIT,St. Lawrence Saints,3pmi,Dribble Jumper,Adam Dudzinski,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A

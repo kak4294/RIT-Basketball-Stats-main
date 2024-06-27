@@ -1,153 +1,153 @@
-Site,PossesionType,Opponent,Outcome,ShotType,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayType,SecondaryDirection,SecondaryAction
-Home,Offense,UNY,Foul,To Basket,PNR,Right,Off,None,None,None
-Home,Defense,UNY,2pMa,Dribble Jumper,Spot Ups,Left,Drive,None,None,None
-Home,Offense,UNY,Turnover,N/A,Post,Right,Dribble Move,None,None,None
-Home,Defense,UNY,2pmi,To Basket,Transition,None,Ball Handler,None,None,None
-Home,Defense,UNY,2pMa,To Basket,Cuts,None,Screen,None,None,None
-Home,Offense,UNY,2pMa,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Defense,UNY,Turnover,To Basket,PNR,High,Off,P&R Roll Man,None,Roll
-Home,Offense,UNY,2pmi,Hook Shot,Post,Left,Dribble Move,None,None,None
-Home,Defense,UNY,2pmi,No Dribble Jumper,PNR,Right,Off,Spot Ups,None,Shot
-Home,Offense,UNY,3pmi,Dribble Jumper,PNR,Right,Off,None,None,None
-Home,Defense,UNY,Foul,To Basket,Cuts,None,Basket,None,None,None
-Home,Offense,UNY,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,UNY,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,UNY,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,UNY,Turnover,N/A,Hand Offs,Top,Dribble,None,None,None
-Home,Offense,UNY,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,UNY,3pmi,No Dribble Jumper,PNR,Left,Off,Spot Ups,None,Shot
-Home,Offense,UNY,3pmi,No Dribble Jumper,PNR,Left,Off,Spot Ups,None,Shot
-Home,Defense,UNY,2pMa,To Basket,Post,Left,Dribble Move,None,None,None
-Home,Offense,UNY,Turnover,N/A,Misc,None,None,None,None,None
-Home,Defense,UNY,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Home,Offense,UNY,2pMa,Dribble Jumper,Hand Offs,Left,Dribble,None,None,None
-Home,Defense,UNY,2pmi,Dribble Jumper,Spot Ups,Left,Drive,None,None,None
-Home,Offense,UNY,2pMa,To Basket,Post,Left,Dribble Move,None,None,None
-Home,Defense,UNY,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,UNY,3pMa,Dribble Jumper,PNR,High,Off,None,None,None
-Home,Defense,UNY,3pMa,No Dribble Jumper,PNR,High,Off,P&R Roll Man,None,Pop
-Home,Offense,UNY,And1,To Basket,Hand Offs,Left,Dribble,None,None,None
-Home,Defense,UNY,2pmi,To Basket,PNR,Right,Off,P&R Roll Man,None,Roll
-Home,Defense,UNY,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,UNY,2pMa,To Basket,Transition,None,Right Wing,None,None,None
-Home,Defense,UNY,2pMa,Dribble Jumper,Off Screens,Left,Straight,None,None,None
-Home,Offense,UNY,2pmi,To Basket,PNR,Right,Off,None,None,None
-Home,Defense,UNY,3pmi,No Dribble Jumper,Transition,None,First Middle,None,None,None
-Home,Offense,UNY,3pmi,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Home,Defense,UNY,2pmi,Drop Step,Post,Right,Dribble Move,None,None,None
-Home,Offense,UNY,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,UNY,Turnover,N/A,Transition,None,Ball Handler,None,None,None
-Home,Offense,UNY,2pMa,Dribble Jumper,Spot Ups,Right,Drive,None,None,None
-Home,Defense,UNY,3pmi,Dribble Jumper,Spot Ups,Right,Drive,None,None,None
-Home,Offense,UNY,2pmi,To Basket,Iso,Top,None,None,None,None
-Home,Defense,UNY,Turnover,N/A,Misc,None,None,None,None,None
-Home,Offense,UNY,3pMa,Dribble Jumper,Hand Offs,Left,Dribble,None,None,None
-Home,Defense,UNY,2pMa,To Basket,Iso,Right,None,None,None,None
-Home,Offense,UNY,2pMa,Dribble Jumper,Hand Offs,Right,Dribble,None,None,None
-Home,Defense,UNY,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,UNY,Turnover,N/A,Misc,None,None,None,None,None
-Home,Offense,UNY,3pmi,Dribble Jumper,PNR,Left,Off,None,None,None
-Home,Defense,UNY,2pMa,To Basket,PNR,High,Off,P&R Roll Man,None,Roll
-Home,Offense,UNY,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,UNY,3pmi,No Dribble Jumper,Transition,None,Right Wing,None,None,None
-Home,Offense,UNY,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,UNY,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Home,Offense,UNY,2pmi,To Basket,PNR,Right,Off,Spot Ups,Right,Drive
-Home,Defense,UNY,Foul,To Basket,Transition,None,Ball Handler,None,None,None
-Home,Offense,UNY,2pMa,To Basket,Transition,None,Left Wing,None,None,None
-Home,Defense,UNY,2pmi,To Basket,PNR,High,Off,P&R Roll Man,None,Roll
-Home,Offense,UNY,Turnover,N/A,Transition,None,Ball Handler,None,None,None
-Home,Defense,UNY,3pmi,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Home,Defense,UNY,2pMa,To Basket,PNR,High,Away,Cuts,None,Basket
-Home,Offense,UNY,Turnover,N/A,Misc,None,None,None,None,None
-Home,Defense,UNY,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,UNY,3pMa,Dribble Jumper,PNR,High,None,Spot Ups,Right,Drive
-Home,Defense,UNY,3pmi,No Dribble Jumper,Hand Offs,Top,Dribble,None,None,None
-Home,Defense,UNY,2pmi,To Basket,Cuts,None,Flash,None,None,None
-Home,Offense,UNY,2pmi,To Basket,Off Screens,Right,Straight,None,None,None
-Home,Defense,UNY,Foul,N/A,PNR,High,Off,None,None,None
-Home,Offense,UNY,2pMa,To Basket,Cuts,None,Screen,None,None,None
-Home,Defense,UNY,Foul,N/A,Transition,None,Ball Handler,None,None,None
-Home,Offense,UNY,3pmi,Dribble Jumper,Misc,None,None,None,None,None
-Home,Defense,UNY,2pmi,Dribble Jumper,PNR,High,Off,Spot Ups,Right,Drive
-Home,Defense,UNY,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Home,Offense,UNY,2pMa,Dribble Jumper,Spot Ups,Left,Drive,None,None,None
-Home,Defense,UNY,And1,To Basket,Iso,Top,None,None,None,None
-Home,Offense,UNY,2pmi,To Basket,PNR,High,Away,None,None,None
-Home,Defense,UNY,3pMa,No Dribble Jumper,Transition,None,Right Wing,None,None,None
-Home,Offense,UNY,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,UNY,2pMa,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Defense,UNY,2pmi,To Basket,PNR,High,Off,Cuts,None,Flash
-Home,Offense,UNY,3pmi,No Dribble Jumper,Transition,None,Right Wing,None,None,None
-Home,Defense,UNY,2pmi,To Basket,Spot Ups,Straight,Drive,None,None,None
-Home,Offense,UNY,3pmi,No Dribble Jumper,Transition,None,Right Wing,None,None,None
-Home,Offense,UNY,2pmi,To Basket,Post,Right,Dribble Move,None,None,None
-Home,Defense,UNY,2pmi,To Basket,PNR,Left,Off,Spot Ups,Right,Drive
-Home,Offense,UNY,Foul,To Basket,PNR,Right,Off,None,None,None
-Home,Defense,UNY,2pMa,Dribble Jumper,PNR,High,Off,None,None,None
-Home,Offense,UNY,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Home,Offense,UNY,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,UNY,3pMa,No Dribble Jumper,Off Screens,Right,Straight,None,None,None
-Home,Offense,UNY,2pmi,To Basket,Post,Left,Face Up,Spot Ups,Right,Drive
-Home,Defense,UNY,2pmi,To Basket,PNR,High,Off,P&R Roll Man,None,Roll
-Home,Offense,UNY,3pmi,No Dribble Jumper,Transition,None,Trailer,None,None,None
-Home,Defense,UNY,2pmi,To Basket,PNR,High,Off,Cuts,None,Flash
-Home,Offense,UNY,2pmi,To Basket,PNR,High,Off,P&R Roll Man,Right,Pop
-Home,Defense,UNY,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Home,Offense,UNY,Foul,To Basket,PNR,High,Off,None,None,None
-Home,Defense,UNY,2pmi,To Basket,Transition,None,Ball Handler,None,None,None
-Home,Offense,UNY,Foul,To Basket,Transition,None,Left Wing,None,None,None
-Home,Defense,UNY,3pmi,Dribble Jumper,PNR,High,Off,Spot Ups,Left,Drive
-Home,Offense,UNY,2pmi,To Basket,Hand Offs,Left,Dribble,None,None,None
-Home,Defense,UNY,2pMa,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Offense,UNY,2pMa,Dribble Jumper,Iso,Right,None,None,None,None
-Home,Defense,UNY,2pMa,To Basket,PNR,Right,Off,None,None,None
-Home,Offense,UNY,Foul,To Basket,Transition,None,Ball Handler,None,None,None
-Home,Defense,UNY,2pMa,To Basket,PNR,High,Off,None,None,None
-Home,Offense,UNY,2pMa,Dribble Jumper,Transition,None,Left Wing,None,None,None
-Home,Defense,UNY,Foul,To Basket,PNR,High,Off,P&R Roll Man,Right,Pop
-Home,Offense,UNY,3pmi,No Dribble Jumper,Hand Offs,Right,Dribble,None,None,None
-Home,Defense,UNY,2pMa,Dribble Jumper,Spot Ups,Left,Drive,None,None,None
-Home,Offense,UNY,Foul,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Defense,UNY,Turnover,To Basket,Hand Offs,Top,Dribble,None,None,None
-Home,Offense,UNY,Turnover,N/A,PNR,High,Off,None,None,None
-Home,Defense,UNY,3pMa,No Dribble Jumper,PNR,High,Off,Spot Ups,None,Shot
-Home,Offense,UNY,3pMa,Dribble Jumper,PNR,High,Off,None,None,None
-Home,Defense,UNY,Turnover,N/A,Misc,None,None,None,None,None
-Home,Offense,UNY,2pmi,To Basket,PNR,Left,Off,None,None,None
-Home,Offense,UNY,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,UNY,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,UNY,3pmi,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Home,Defense,UNY,3pmi,No Dribble Jumper,Iso,Top,None,None,None,None
-Home,Offense,UNY,3pmi,No Dribble Jumper,Transition,None,Trailer,None,None,None
-Home,Defense,UNY,Foul,To Basket,Transition,None,First Middle,None,None,None
-Home,Offense,UNY,And1,To Basket,PNR,Right,Off,None,None,None
-Home,Defense,UNY,3pmi,No Dribble Jumper,PNR,High,Off,Spot Ups,None,Shot
-Home,Defense,UNY,3pMa,No Dribble Jumper,PNR,High,Off,P&R Roll Man,None,Pop
-Home,Offense,UNY,2pMa,To Basket,Hand Offs,Right,Dribble,None,None,None
-Home,Defense,UNY,Turnover,N/A,Misc,None,None,None,None,None
-Home,Offense,UNY,Foul,To Basket,PNR,High,Off,None,None,None
-Home,Defense,UNY,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Home,Offense,UNY,2pMa,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Defense,UNY,Turnover,To Basket,Transition,None,Trailer,None,None,None
-Home,Offense,UNY,3pmi,Dribble Jumper,PNR,Left,Off,None,None,None
-Home,Defense,UNY,2pmi,To Basket,PNR,High,Off,Cuts,None,Flash
-Home,Offense,UNY,3pmi,No Dribble Jumper,Hand Offs,Top,Dribble,None,None,None
-Home,Defense,UNY,Turnover,To Basket,PNR,High,Off,P&R Roll Man,None,Roll
-Home,Offense,UNY,3pMa,Dribble Jumper,Transition,None,Left Wing,None,None,None
-Home,Defense,UNY,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Home,Offense,UNY,3pmi,No Dribble Jumper,PNR,Left,None,None,None,None
-Home,Defense,UNY,Turnover,N/A,PNR,Left,Off,Spot Ups,Left,Drive
-Home,Offense,UNY,2pMa,To Basket,Transition,None,First Middle,None,None,None
-Home,Defense,UNY,3pMa,No Dribble Jumper,PNR,Left,Off,Spot Ups,None,Shot
-Home,Offense,UNY,Foul,To Basket,Spot Ups,Right,Drive,None,None,None
-Home,Defense,UNY,Foul,N/A,Misc,None,None,None,None,None
-Home,Offense,UNY,2pMa,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Defense,UNY,Turnover,N/A,Misc,None,None,None,None,None
-Home,Offense,UNY,3pmi,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Home,Defense,UNY,Foul,N/A,Misc,None,None,None,None,None
-Home,Offense,UNY,2pMa,To Basket,PNR,High,Away,None,None,None
-Home,Defense,UNY,Foul,N/A,Misc,None,None,None,None,None
-Home,Offense,UNY,3pmi,Dribble Jumper,Transition,None,Ball Handler,None,None,None
-Home,Defense,UNY,Foul,N/A,Misc,None,None,None,None,None
-Home,Offense,UNY,3pmi,Dribble Jumper,Misc,None,None,None,None,None
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction
+UNY,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Brock Bowen,PNR,Right,Off,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pMa,Dribble Jumper,Jack Plesser,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,Post,Right,Dribble,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pmi,To Basket,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pMa,To Basket,Edward Baptiste,Cuts,N/A,Screen,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Keegan Ocorr,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,Turnover,To Basket,Connor Cepiel,PNR,High,Off,Jack Plesser,P&R Roll Man,N/A,Roll
+UNY,RIT,Rochester Institute of Technology Tigers,2pmi,Hook Shot,Jackson Otis,Post,Left,Dribble,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pmi,No Dribble Jumper,Tanner Tedesco,PNR,Right,Off,Jack Plesser,Spot Ups,N/A,Shot
+UNY,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Chase Dickens,PNR,Right,Off,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,Foul,To Basket,Jack Plesser,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,3pMa,No Dribble Jumper,Connor Cepiel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,Turnover,N/A,Luke Mcgarrity,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,3pmi,No Dribble Jumper,Luke Mcgarrity,PNR,Left,Off,Connor Cepiel,Spot Ups,N/A,Shot
+UNY,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,PNR,Left,Off,Keegan Ocorr,Spot Ups,N/A,Shot
+UNY,RIT,Union (NY) Dutchmen,2pMa,To Basket,Christian Dufort,Post,Left,Dribble,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pMa,To Basket,Jack Plesser,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Brock Bowen,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pmi,Dribble Jumper,Tanner Tedesco,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Post,Left,Dribble,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,3pmi,No Dribble Jumper,Luke Mcgarrity,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,3pMa,Dribble Jumper,Brock Bowen,PNR,High,Off,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,3pMa,No Dribble Jumper,Tanner Tedesco,PNR,High,Off,Christian Dufort,P&R Roll Man,N/A,Pop
+UNY,RIT,Rochester Institute of Technology Tigers,And1,To Basket,Brock Bowen,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pmi,To Basket,Matthew Garside,PNR,Right,Off,Christian Dufort,P&R Roll Man,N/A,Roll
+UNY,RIT,Union (NY) Dutchmen,3pmi,No Dribble Jumper,Connor Cepiel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Zac Ditzel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pMa,Dribble Jumper,Matthew Garside,Off Screens,Left,Straight,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,Right,Off,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,3pmi,No Dribble Jumper,Christian Dufort,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Mark Osime,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pmi,Drop Step,Aren Cummings,Post,Right,Dribble,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,Turnover,N/A,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Matt Caggiano,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,3pmi,Dribble Jumper,Tanner Tedesco,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Iso,Top,N/A,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,Turnover,N/A,Christian Dufort,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,3pMa,Dribble Jumper,Chase Dickens,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pMa,To Basket,Christian Dufort,Iso,Right,N/A,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Mark Osime,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,3pmi,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,Turnover,N/A,Connor Cepiel,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Zac Ditzel,PNR,Left,Off,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pMa,To Basket,Tanner Tedesco,PNR,High,Off,Aren Cummings,P&R Roll Man,N/A,Roll
+UNY,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Nolan Smih,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,3pmi,No Dribble Jumper,Christian Dufort,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Mark Osime,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pMa,To Basket,Aren Cummings,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Zac Ditzel,PNR,Right,Off,Chase Dickens,Spot Ups,Right,Drive
+UNY,RIT,Union (NY) Dutchmen,Foul,To Basket,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Keegan Ocorr,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pmi,To Basket,Tanner Tedesco,PNR,High,Off,Aren Cummings,P&R Roll Man,N/A,Roll
+UNY,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,3pmi,No Dribble Jumper,Connor Cepiel,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pMa,To Basket,Tanner Tedesco,PNR,High,Away,Jack Plesser,Cuts,N/A,Basket
+UNY,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Keegan Ocorr,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,3pMa,No Dribble Jumper,Brendan Reid,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,3pMa,Dribble Jumper,Keegan Ocorr,PNR,High,N/A,Mark Osime,Spot Ups,Right,Drive
+UNY,RIT,Union (NY) Dutchmen,3pmi,No Dribble Jumper,Luke Mcgarrity,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pmi,To Basket,Jack Plesser,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Off Screens,Right,Straight,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,Foul,N/A,Tanner Tedesco,PNR,High,Off,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Cuts,N/A,Screen,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,Foul,N/A,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pmi,Dribble Jumper,Tanner Tedesco,PNR,High,Off,Connor Cepiel,Spot Ups,Right,Drive
+UNY,RIT,Union (NY) Dutchmen,2pMa,To Basket,Brendan Reid,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Brock Bowen,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,And1,To Basket,Brendan Reid,Iso,Top,N/A,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,High,Away,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,3pMa,No Dribble Jumper,Matthew Garside,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pmi,To Basket,Tanner Tedesco,PNR,High,Off,Edward Baptiste,Cuts,N/A,Flash
+UNY,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Jackson Otis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pmi,To Basket,Edward Baptiste,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Post,Right,Dribble,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pmi,To Basket,Tanner Tedesco,PNR,Left,Off,Luke Mcgarrity,Spot Ups,Right,Drive
+UNY,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Brock Bowen,PNR,Right,Off,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pMa,Dribble Jumper,Tanner Tedesco,PNR,High,Off,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Zac Ditzel,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,3pMa,No Dribble Jumper,Luke Mcgarrity,Off Screens,Right,Straight,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Post,Left,Face Up,Chase Dickens,Spot Ups,Right,Drive
+UNY,RIT,Union (NY) Dutchmen,2pmi,To Basket,Tanner Tedesco,PNR,High,Off,Aren Cummings,P&R Roll Man,N/A,Roll
+UNY,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Josiah Turner,Transition,N/A,Trailer,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pmi,To Basket,Tanner Tedesco,PNR,High,Off,Edward Baptiste,Cuts,N/A,Flash
+UNY,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,PNR,High,Off,Josiah Turner,P&R Roll Man,Right,Pop
+UNY,RIT,Union (NY) Dutchmen,2pMa,To Basket,Luke Mcgarrity,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Chase Dickens,PNR,High,Off,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pmi,To Basket,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Matt Caggiano,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,3pmi,Dribble Jumper,Connor Cepiel,PNR,High,Off,Tanner Tedesco,Spot Ups,Left,Drive
+UNY,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pMa,To Basket,Aren Cummings,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Matt Caggiano,Iso,Right,N/A,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pMa,To Basket,Connor Cepiel,PNR,Right,Off,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pMa,To Basket,Tanner Tedesco,PNR,High,Off,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Matt Caggiano,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,Foul,To Basket,Tanner Tedesco,PNR,High,Off,Christian Dufort,P&R Roll Man,Right,Pop
+UNY,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Mark Osime,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pMa,Dribble Jumper,Tanner Tedesco,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Matt Caggiano,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,Turnover,To Basket,Aren Cummings,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,PNR,High,Off,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,3pMa,No Dribble Jumper,Tanner Tedesco,PNR,High,Off,Connor Cepiel,Spot Ups,N/A,Shot
+UNY,RIT,Rochester Institute of Technology Tigers,3pMa,Dribble Jumper,Brock Bowen,PNR,High,Off,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,Turnover,N/A,Tanner Tedesco,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,Left,Off,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Josiah Turner,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,3pmi,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,3pmi,No Dribble Jumper,Christian Dufort,Iso,Top,N/A,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Mark Osime,Transition,N/A,Trailer,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,Foul,To Basket,Christian Dufort,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,And1,To Basket,Matt Caggiano,PNR,Right,Off,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,3pmi,No Dribble Jumper,Tanner Tedesco,PNR,High,Off,Matthew Garside,Spot Ups,N/A,Shot
+UNY,RIT,Union (NY) Dutchmen,3pMa,No Dribble Jumper,Tanner Tedesco,PNR,High,Off,Brendan Reid,P&R Roll Man,N/A,Pop
+UNY,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,Turnover,N/A,Matthew Garside,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Mark Osime,PNR,High,Off,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pMa,To Basket,Christian Dufort,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Mark Osime,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,Turnover,To Basket,Brendan Reid,Transition,N/A,Trailer,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Brock Bowen,PNR,Left,Off,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pmi,To Basket,Tanner Tedesco,PNR,High,Off,Christian Dufort,Cuts,N/A,Flash
+UNY,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Josiah Turner,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,Turnover,To Basket,Tanner Tedesco,PNR,High,Off,Aren Cummings,P&R Roll Man,N/A,Roll
+UNY,RIT,Rochester Institute of Technology Tigers,3pMa,Dribble Jumper,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,2pMa,To Basket,Aren Cummings,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,PNR,Left,N/A,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,Turnover,N/A,Tanner Tedesco,PNR,Left,Off,Christian Dufort,Spot Ups,Left,Drive
+UNY,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Keegan Ocorr,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,3pMa,No Dribble Jumper,Christian Dufort,PNR,Left,Off,Connor Cepiel,Spot Ups,N/A,Shot
+UNY,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+UNY,RIT,,Foul,N/A,Connor Cepiel,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+UNY,RIT,Union (NY) Dutchmen,Turnover,N/A,Christian Dufort,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+UNY,RIT,,Foul,N/A,Matthew Garside,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,PNR,High,Away,N/A,N/A,N/A,N/A
+UNY,RIT,,Foul,N/A,Matthew Garside,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+UNY,RIT,,Foul,N/A,Christian Dufort,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+UNY,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Brock Bowen,Misc,N/A,N/A,N/A,N/A,N/A,N/A

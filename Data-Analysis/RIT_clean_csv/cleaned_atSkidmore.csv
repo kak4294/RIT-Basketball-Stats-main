@@ -1,163 +1,163 @@
-Site,PossesionType,Opponent,Outcome,ShotType,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayType,SecondaryDirection,SecondaryAction
-Away,Defense,SKD,3pmi,No Dribble Jumper,Off Screens,Left,Flare,None,None,None
-Away,Offense,SKD,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SKD,Turnover,N/A,Misc,None,None,None,None,None
-Away,Offense,SKD,2pMa,To Basket,Spot Ups,Right,Drive,None,None,None
-Away,Defense,SKD,3pmi,No Dribble Jumper,PNR,Left,Away,Spot Ups,None,Shot
-Away,Defense,SKD,2pmi,Dribble Jumper,Hand Offs,Top,Dribble,None,None,None
-Away,Offense,SKD,2pMa,To Basket,Transition,None,Ball Handler,None,None,None
-Away,Defense,SKD,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,SKD,2pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SKD,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,SKD,3pmi,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Away,Defense,SKD,Turnover,N/A,PNR,High,Off,None,None,None
-Away,Offense,SKD,2pmi,Dribble Jumper,Off Screens,Left,Straight,None,None,None
-Away,Defense,SKD,2pmi,Dribble Jumper,Spot Ups,Right,Drive,None,None,None
-Away,Offense,SKD,3pmi,No Dribble Jumper,Off Screens,Left,Straight,None,None,None
-Away,Defense,SKD,2pmi,To Basket,Transition,None,Right Wing,None,None,None
-Away,Offense,SKD,3pMa,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Away,Defense,SKD,Turnover,N/A,Misc,None,None,None,None,None
-Away,Offense,SKD,Turnover,N/A,Misc,None,None,None,None,None
-Away,Defense,SKD,Turnover,N/A,Transition,None,Ball Handler,None,None,None
-Away,Offense,SKD,2pMa,To Basket,Spot Ups,Left,Drive,None,None,None
-Away,Defense,SKD,3pmi,No Dribble Jumper,PNR,High,Off,Spot Ups,None,Shot
-Away,Offense,SKD,3pmi,No Dribble Jumper,Transition,None,Trailer,None,None,None
-Away,Defense,SKD,2pmi,Hook Shot,Post,Right,Dribble Move,None,None,None
-Away,Offense,SKD,3pmi,No Dribble Jumper,Transition,None,Right Wing,None,None,None
-Away,Defense,SKD,And1,To Basket,Transition,None,Ball Handler,None,None,None
-Away,Defense,SKD,2pmi,Dribble Jumper,PNR,Left,Off,None,None,None
-Away,Offense,SKD,2pmi,To Basket,Transition,None,Ball Handler,None,None,None
-Away,Defense,SKD,Turnover,N/A,PNR,High,Off,Spot Ups,Left,Drive
-Away,Offense,SKD,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,SKD,2pMa,To Basket,Cuts,None,Flash,None,None,None
-Away,Defense,SKD,Turnover,N/A,PNR,High,Off,None,None,None
-Away,Offense,SKD,2pmi,To Basket,PNR,Left,Off,None,None,None
-Away,Defense,SKD,Turnover,N/A,Transition,None,Right Wing,None,None,None
-Away,Offense,SKD,2pmi,To Basket,Transition,None,Left Wing,None,None,None
-Away,Defense,SKD,2pMa,To Basket,Transition,None,Ball Handler,None,None,None
-Away,Offense,SKD,Foul,No Dribble Jumper,Off Screens,Left,Straight,None,None,None
-Away,Defense,SKD,3pMa,No Dribble Jumper,Off Screens,Left,Straight,None,None,None
-Away,Offense,SKD,Turnover,N/A,Misc,None,None,None,None,None
-Away,Defense,SKD,2pMa,Dribble Jumper,Off Screens,Right,Straight,None,None,None
-Away,Offense,SKD,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SKD,2pMa,To Basket,PNR,High,Away,None,None,None
-Away,Offense,SKD,3pmi,No Dribble Jumper,PNR,Left,Off,Spot Ups,None,Shot
-Away,Offense,SKD,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SKD,3pmi,Dribble Jumper,Iso,Top,None,None,None,None
-Away,Defense,SKD,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,SKD,2pmi,To Basket,Transition,None,Left Wing,None,None,None
-Away,Offense,SKD,3pmi,No Dribble Jumper,Off Screens,Left,Straight,None,None,None
-Away,Offense,SKD,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SKD,2pmi,Dribble Jumper,PNR,High,Off,None,None,None
-Away,Offense,SKD,2pmi,To Basket,Spot Ups,Left,Drive,None,None,None
-Away,Defense,SKD,3pmi,No Dribble Jumper,Off Screens,Right,Straight,None,None,None
-Away,Offense,SKD,3pmi,No Dribble Jumper,PNR,High,Off,Spot Ups,None,Shot
-Away,Defense,SKD,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,SKD,Foul,To Basket,PNR,Left,Off,Spot Ups,Left,Drive
-Away,Defense,SKD,Turnover,N/A,PNR,High,Off,None,None,None
-Away,Offense,SKD,2pmi,Dribble Jumper,Off Screens,Left,Straight,None,None,None
-Away,Defense,SKD,3pmi,No Dribble Jumper,PNR,High,Off,Spot Ups,None,Shot
-Away,Offense,SKD,Turnover,N/A,Misc,None,None,None,None,None
-Away,Defense,SKD,3pMa,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Away,Offense,SKD,Foul,N/A,Spot Ups,Left,Drive,None,None,None
-Away,Defense,SKD,2pmi,Dribble Jumper,Spot Ups,Right,Drive,None,None,None
-Away,Offense,SKD,3pMa,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Away,Defense,SKD,And1,To Basket,Misc,None,None,None,None,None
-Away,Offense,SKD,3pMa,No Dribble Jumper,Off Screens,Left,Straight,None,None,None
-Away,Defense,SKD,Turnover,N/A,PNR,High,Off,None,None,None
-Away,Offense,SKD,2pmi,To Basket,Spot Ups,Left,Drive,None,None,None
-Away,Defense,SKD,Foul,To Basket,Transition,None,Leak Outs,None,None,None
-Away,Offense,SKD,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SKD,2pmi,To Basket,PNR,High,Off,None,None,None
-Away,Offense,SKD,3pMa,No Dribble Jumper,PNR,Left,None,Spot Ups,None,Shot
-Away,Defense,SKD,And1,To Basket,Cuts,None,Basket,None,None,None
-Away,Offense,SKD,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SKD,2pMa,To Basket,Transition,None,Ball Handler,None,None,None
-Away,Offense,SKD,3pMa,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Away,Defense,SKD,2pmi,To Basket,PNR,High,Off,P&R Roll Man,None,Roll
-Away,Offense,SKD,2pmi,Dribble Jumper,PNR,High,Off,None,None,None
-Away,Defense,SKD,2pmi,To Basket,PNR,High,Off,None,None,None
-Away,Defense,SKD,2pMa,Dribble Jumper,PNR,Right,Off,None,None,None
-Away,Offense,SKD,Foul,To Basket,Cuts,None,Basket,None,None,None
-Away,Defense,SKD,2pMa,To Basket,PNR,High,Off,None,None,None
-Away,Offense,SKD,2pmi,To Basket,PNR,Right,Away,None,None,None
-Away,Offense,SKD,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SKD,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,SKD,3pMa,No Dribble Jumper,Off Screens,Right,Straight,None,None,None
-Away,Defense,SKD,Turnover,N/A,Spot Ups,Left,Drive,None,None,None
-Away,Offense,SKD,2pmi,To Basket,Cuts,None,Flash,None,None,None
-Away,Defense,SKD,3pMa,Dribble Jumper,Transition,None,Ball Handler,None,None,None
-Away,Offense,SKD,3pmi,Dribble Jumper,PNR,High,Off,None,None,None
-Away,Defense,SKD,3pmi,Dribble Jumper,Transition,None,Ball Handler,None,None,None
-Away,Offense,SKD,2pmi,To Basket,Transition,None,Right Wing,None,None,None
-Away,Defense,SKD,2pmi,Dribble Jumper,PNR,High,Off,None,None,None
-Away,Offense,SKD,2pmi,To Basket,Spot Ups,Left,Drive,None,None,None
-Away,Defense,SKD,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Away,Offense,SKD,Turnover,N/A,Misc,None,None,None,None,None
-Away,Defense,SKD,And1,To Basket,Transition,None,Ball Handler,None,None,None
-Away,Offense,SKD,2pmi,To Basket,PNR,High,Off,Spot Ups,Left,Drive
-Away,Defense,SKD,Turnover,N/A,Misc,None,None,None,None,None
-Away,Offense,SKD,2pMa,To Basket,Transition,None,Ball Handler,None,None,None
-Away,Defense,SKD,2pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,SKD,2pmi,To Basket,Transition,None,Left Wing,None,None,None
-Away,Defense,SKD,2pMa,To Basket,PNR,High,Off,P&R Roll Man,None,Roll
-Away,Offense,SKD,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SKD,2pMa,To Basket,Transition,None,Left Wing,None,None,None
-Away,Offense,SKD,Foul,To Basket,Post,Right,Face Up,Cuts,None,Basket
-Away,Defense,SKD,2pmi,To Basket,PNR,High,Off,P&R Roll Man,None,Roll
-Away,Offense,SKD,Turnover,N/A,Transition,None,Left Wing,None,None,None
-Away,Defense,SKD,2pMa,To Basket,Hand Offs,Left,Stationary,None,None,None
-Away,Offense,SKD,2pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SKD,2pMa,To Basket,Spot Ups,Left,Drive,None,None,None
-Away,Offense,SKD,2pMa,To Basket,Transition,None,Left Wing,None,None,None
-Away,Defense,SKD,2pmi,Dribble Jumper,Spot Ups,Right,Drive,None,None,None
-Away,Defense,SKD,Turnover,To Basket,PNR,Left,Away,Cuts,None,Basket
-Away,Offense,SKD,And1,To Basket,Transition,None,Ball Handler,None,None,None
-Away,Defense,SKD,2pmi,Dribble Jumper,PNR,High,Off,None,None,None
-Away,Offense,SKD,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SKD,2pMa,To Basket,PNR,High,Off,None,None,None
-Away,Offense,SKD,2pmi,To Basket,Cuts,None,Screen,None,None,None
-Away,Defense,SKD,2pmi,To Basket,Transition,None,Ball Handler,None,None,None
-Away,Offense,SKD,2pmi,To Basket,Transition,None,Right Wing,None,None,None
-Away,Defense,SKD,2pmi,To Basket,PNR,Right,Off,None,None,None
-Away,Defense,SKD,3pmi,No Dribble Jumper,Off Screens,Left,Straight,None,None,None
-Away,Offense,SKD,2pMa,To Basket,Transition,None,Right Wing,None,None,None
-Away,Defense,SKD,2pmi,Dribble Jumper,Hand Offs,Left,Dribble,None,None,None
-Away,Offense,SKD,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SKD,2pmi,To Basket,Post,Middle,Dribble Move,None,None,None
-Away,Offense,SKD,Foul,To Basket,Post,Left,Dribble Move,None,None,None
-Away,Defense,SKD,2pmi,To Basket,PNR,Left,Away,None,None,None
-Away,Offense,SKD,3pMa,No Dribble Jumper,Off Screens,Right,Straight,None,None,None
-Away,Defense,SKD,2pMa,Dribble Jumper,Spot Ups,Right,Drive,None,None,None
-Away,Offense,SKD,2pmi,Dribble Jumper,Spot Ups,Right,Drive,None,None,None
-Away,Defense,SKD,Turnover,N/A,Hand Offs,Left,Dribble,None,None,None
-Away,Offense,SKD,Turnover,N/A,Misc,None,None,None,None,None
-Away,Defense,SKD,2pMa,To Basket,Transition,None,Ball Handler,None,None,None
-Away,Offense,SKD,Turnover,N/A,Spot Ups,Right,Drive,None,None,None
-Away,Defense,SKD,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SKD,Foul,N/A,Misc,None,None,None,None,None
-Away,Defense,SKD,Turnover,N/A,Misc,None,None,None,None,None
-Away,Offense,SKD,Turnover,N/A,Misc,None,None,None,None,None
-Away,Defense,SKD,2pMa,To Basket,Transition,None,Right Wing,None,None,None
-Away,Offense,SKD,2pmi,To Basket,Spot Ups,Right,Drive,None,None,None
-Away,Defense,SKD,Turnover,N/A,PNR,High,None,Spot Ups,Right,Drive
-Away,Offense,SKD,Turnover,N/A,PNR,High,Away,None,None,None
-Away,Defense,SKD,Foul,To Basket,Spot Ups,Right,Drive,None,None,None
-Away,Offense,SKD,3pmi,No Dribble Jumper,Off Screens,Left,Straight,None,None,None
-Away,Defense,SKD,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Away,Offense,SKD,2pmi,To Basket,Transition,None,Right Wing,None,None,None
-Away,Offense,SKD,Foul,N/A,Spot Ups,Left,Drive,None,None,None
-Away,Defense,SKD,2pmi,Dribble Jumper,Spot Ups,Right,Drive,None,None,None
-Away,Offense,SKD,And1,To Basket,Spot Ups,Left,Drive,None,None,None
-Away,Defense,SKD,3pMa,No Dribble Jumper,Off Screens,Right,Straight,None,None,None
-Away,Offense,SKD,2pmi,To Basket,PNR,High,Off,Spot Ups,Right,Drive
-Away,Defense,SKD,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SKD,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,SKD,2pMa,Dribble Jumper,Spot Ups,Right,Drive,None,None,None
-Away,Defense,SKD,Foul,To Basket,PNR,High,Off,Spot Ups,Left,Drive
-Away,Defense,SKD,Foul,N/A,Misc,None,None,None,None,None
-Away,Defense,SKD,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,SKD,Foul,N/A,Transition,None,Ball Handler,None,None,None
-Away,Defense,SKD,3pMa,Dribble Jumper,Transition,None,Ball Handler,None,None,None
-Away,Defense,SKD,Foul,N/A,Misc,None,None,None,None,None
-Away,Defense,SKD,3pmi,Dribble Jumper,Transition,None,Ball Handler,None,None,None
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction
+RIT,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Ian Bentley,Off Screens,Left,Flare,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Josiah Turner,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,PNR,Left,Away,Aidan Roy,Spot Ups,N/A,Shot
+RIT,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Hakeem Daphnis,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pMa,To Basket,Keegan Ocorr,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Joey Skoric,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pMa,No Dribble Jumper,Josiah Turner,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Dillon McCafferty,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,Turnover,N/A,Dillon McCafferty,PNR,High,Off,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Chase Dickens,Off Screens,Left,Straight,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Dillon McCafferty,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Keegan Ocorr,Off Screens,Left,Straight,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Joey Skoric,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,Turnover,N/A,Joey Skoric,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,Turnover,N/A,Ian Bentley,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,PNR,High,Off,Ian Bentley,Spot Ups,N/A,Shot
+RIT,SKD,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Josiah Turner,Transition,N/A,Trailer,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pmi,Hook Shot,Jack LaGarde,Post,Right,Dribble,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Zac Ditzel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,And1,To Basket,Nick Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Nick Padilla,PNR,Left,Off,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pmi,To Basket,Keegan Ocorr,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,Turnover,N/A,Jake Walsh,PNR,High,Off,Ian Bentley,Spot Ups,Left,Drive
+RIT,SKD,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Zac Ditzel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pMa,To Basket,Mark Osime,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,PNR,Left,Off,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,Turnover,N/A,Aidan Roy,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Jake Walsh,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,Foul,No Dribble Jumper,Kenny Wilburn,Off Screens,Left,Straight,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Prince Shyllon,Off Screens,Left,Straight,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,Turnover,N/A,Zac Ditzel,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Jake Walsh,Off Screens,Right,Straight,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Jake Walsh,PNR,High,Away,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,Left,Off,Zac Ditzel,Spot Ups,N/A,Shot
+RIT,SKD,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Jake Walsh,Iso,Top,N/A,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Off Screens,Left,Straight,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Jake Walsh,PNR,High,Off,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Ian Bentley,Off Screens,Right,Straight,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Keegan Ocorr,PNR,High,Off,Chase Dickens,Spot Ups,N/A,Shot
+RIT,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Prince Shyllon,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,Foul,To Basket,Mark Osime,PNR,Left,Off,Brock Bowen,Spot Ups,Left,Drive
+RIT,SKD,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Keegan Ocorr,Off Screens,Left,Straight,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,PNR,High,Off,Ian Bentley,Spot Ups,N/A,Shot
+RIT,SKD,Rochester Institute of Technology Tigers,Turnover,N/A,Brandon Weiss,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Jake Walsh,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,Foul,N/A,Josiah Turner,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Joey Skoric,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,And1,To Basket,Nick Padilla,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Off Screens,Left,Straight,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,Foul,To Basket,Ian Bentley,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Zac Ditzel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Jake Walsh,PNR,High,Off,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,PNR,Left,N/A,Zac Ditzel,Spot Ups,N/A,Shot
+RIT,SKD,Skidmore Thoroughbreds,And1,To Basket,Joey Skoric,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Zac Ditzel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,PNR,High,Off,Jack LaGarde,P&R Roll Man,N/A,Roll
+RIT,SKD,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Chase Dickens,PNR,High,Off,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Prince Shyllon,PNR,Right,Off,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Prince Shyllon,PNR,High,Off,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,Right,Away,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Zac Ditzel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Aidan Roy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Off Screens,Right,Straight,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,Turnover,N/A,Aidan Roy,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Aidan Roy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Chase Dickens,PNR,High,Off,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Aidan Roy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pmi,To Basket,Zac Ditzel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Hakeem Daphnis,PNR,High,Off,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Hakeem Daphnis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,Turnover,N/A,Keegan Ocorr,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,And1,To Basket,Joey Skoric,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pmi,To Basket,Brock Bowen,PNR,High,Off,Zac Ditzel,Spot Ups,Left,Drive
+RIT,SKD,Skidmore Thoroughbreds,Turnover,N/A,Ian Bentley,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pMa,To Basket,Keegan Ocorr,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pMa,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pmi,To Basket,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,PNR,High,Off,Joey Skoric,P&R Roll Man,N/A,Roll
+RIT,SKD,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Joey Skoric,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,Post,Right,Face Up,Zac Ditzel,Cuts,N/A,Basket
+RIT,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,PNR,High,Off,Jack LaGarde,P&R Roll Man,N/A,Roll
+RIT,SKD,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,Hand Offs,Left,Stationary,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pMa,No Dribble Jumper,Josiah Turner,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Ian Bentley,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pMa,To Basket,Mark Osime,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Prince Shyllon,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,Turnover,To Basket,Nick Padilla,PNR,Left,Away,Ian Bentley,Cuts,N/A,Basket
+RIT,SKD,Rochester Institute of Technology Tigers,And1,To Basket,Mark Osime,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Prince Shyllon,PNR,High,Off,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Zac Ditzel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,Cuts,N/A,Screen,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Jake Walsh,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pmi,To Basket,Zac Ditzel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,PNR,Right,Off,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Off Screens,Left,Straight,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pMa,To Basket,Mark Osime,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Aidan Roy,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Joey Skoric,Post,Middle,Dribble,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,Foul,To Basket,Kenny Wilburn,Post,Left,Dribble,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,PNR,Left,Away,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,Off Screens,Right,Straight,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Hakeem Daphnis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Chase Dickens,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,Turnover,N/A,Aidan Roy,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,Turnover,N/A,Kenny Wilburn,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Hakeem Daphnis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,Turnover,N/A,Keegan Ocorr,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SKD,,Foul,N/A,Brock Bowen,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,Turnover,N/A,Jake Walsh,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Hakeem Daphnis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,Turnover,N/A,Jake Walsh,PNR,High,N/A,Hakeem Daphnis,Spot Ups,Right,Drive
+RIT,SKD,Rochester Institute of Technology Tigers,Turnover,N/A,Mark Osime,PNR,High,Away,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,Foul,To Basket,Jake Walsh,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Off Screens,Left,Straight,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pmi,To Basket,Zac Ditzel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,Foul,N/A,Mark Osime,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Hakeem Daphnis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,And1,To Basket,Brock Bowen,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Jake Walsh,Off Screens,Right,Straight,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,PNR,High,Off,Keegan Ocorr,Spot Ups,Right,Drive
+RIT,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Jake Walsh,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Chase Dickens,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,Foul,To Basket,Aidan Roy,PNR,High,Off,Joey Skoric,Spot Ups,Left,Drive
+RIT,SKD,,Foul,N/A,Chase Dickens,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Joey Skoric,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SKD,Rochester Institute of Technology Tigers,Foul,N/A,Mark Osime,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Jake Walsh,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,SKD,,Foul,N/A,Josiah Turner,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Aidan Roy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A

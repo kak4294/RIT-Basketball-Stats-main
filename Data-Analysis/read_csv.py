@@ -29,7 +29,7 @@ def process_plays(csv_df: pd.DataFrame):
     filtered_df = csv_df[constraints]
     
     # final dataframe with important info
-    final_df = pd.DataFrame(index=filtered_df.index, columns=['Site', 'PossesionType', 'Opponent', 'Outcome', 'ShotType', 'PrimaryPlayType', 'PrimaryDirection', 'PrimaryAction', 'SecondaryPlayType', 'SecondaryDirection', 'SecondaryAction'])
+    final_df = pd.DataFrame(index=filtered_df.index, columns=['Home','Away', 'OffensivePossession', 'Outcome', 'ShotType', 'PrimaryPlayer', 'PrimaryPlayType', 'PrimaryDirection', 'PrimaryAction', 'SecondaryPlayer', 'SecondaryPlayType', 'SecondaryDirection', 'SecondaryAction'])
     final_df[:] = None
 
     # finds key information and puts in
@@ -37,13 +37,19 @@ def process_plays(csv_df: pd.DataFrame):
     find_playoutcomes(filtered_df, final_df) 
     find_shottypes(filtered_df, final_df)
     find_playtype(filtered_df, final_df)
-    find_offense_defense(filtered_df, final_df)
+    find_offensive_team(filtered_df, final_df)
+    find_players(filtered_df, final_df)
     
-    final_df.fillna({'PrimaryDirection': 'None'}, inplace=True)
-    final_df.fillna({'PrimaryAction': 'None'}, inplace=True)
-    final_df.fillna({'SecondaryPlayType': 'None'}, inplace=True)
-    final_df.fillna({'SecondaryAction': 'None'}, inplace=True)
-    final_df.fillna({'SecondaryDirection': 'None'}, inplace=True)
+    
+    final_df.fillna({'PrimaryPlayType':'N/A'}, inplace=True)
+    final_df.fillna({'SecondaryPlayType':'N/A'}, inplace=True)
+    final_df.fillna({'PrimaryAction':'N/A'}, inplace=True)
+    final_df.fillna({'SecondaryAction':'N/A'}, inplace=True)
+    final_df.fillna({'PrimaryDirection':'N/A'}, inplace=True)
+    final_df.fillna({'SecondaryDirection':'N/A'}, inplace=True)
+
+    final_df.replace('None', 'N/A', inplace=True)
+
     
     print(final_df.isnull().sum())
     
@@ -62,16 +68,19 @@ def process_plays(csv_df: pd.DataFrame):
 
 
 def finds_opponent_site(df: pd.DataFrame, final_df: pd.DataFrame):
-    # Finds home and away teams
-    away = df['Game'].apply(lambda x: x[:3] if len(x) == 7 else x[:2])
-    home = df['Game'].apply(lambda x: x[4:] if len(x) == 7 else x[3:])
+    # Checks to make sure 'Game' column exists
+    if 'Game' not in df.columns:
+        raise ValueError("The input DataFrame must contain a 'Game' column.")
     
-    # Finds the site and opponent of the game
-    final_df['Site'] = np.where(home == 'RIT', 'Home', 'Away')
-    final_df['Opponent'] = np.where(home == 'RIT', away, home)
+    # Split 'Game' column values into 'Home' and 'Away' teams
+    home_teams, away_teams = zip(*df['Game'].apply(lambda x: x.split('@') if '@' in x else ('Unknown', 'Unknown')))
+    
+    # Assign the split values to the final DataFrame
+    final_df['Home'] = home_teams
+    final_df['Away'] = away_teams
 
-def find_offense_defense(df: pd.DataFrame, final_df: pd.DataFrame):
-    final_df['PossesionType'] = np.where(df['Team'] == 'Rochester Institute of Technology Tigers', 'Offense', 'Defense')
+def find_offensive_team(df: pd.DataFrame, final_df: pd.DataFrame):
+    final_df['OffensivePossession'] = df['Team']
     
 
 def find_playoutcomes(df: pd.DataFrame, final_df: pd.DataFrame):
@@ -97,9 +106,6 @@ def find_shottypes(df: pd.DataFrame, final_df: pd.DataFrame):
     for index, row in df.iterrows():
         # Split the 'Synergy String' of the current row into a list based on delimiters
         synergy_list = row['Synergy String'].split(' > ')
-
-        #if (row == 8 or row == 55 or row == 63 or row == 76):
-        #    print
             
         # Initialize shot type for the current row
         shot_type = None
@@ -128,8 +134,39 @@ def find_shottypes(df: pd.DataFrame, final_df: pd.DataFrame):
 
     # Add the shot types list to the final DataFrame
     final_df['ShotType'] = shot_types
-    #final_df['Synergy String'] = df['Synergy String']
     
+def find_players(df: pd.DataFrame, final_df: pd.DataFrame):
+    
+    primary_players = []
+    secondary_players = []
+    
+    for index, row in df.iterrows():
+        # Split the 'Player' column of the current row into a list based on delimiters
+        synergy_list = row['Synergy String'].split(' > Ball Delivered > ')
+    
+        primary_play_list = synergy_list[0].split(' > ')
+        primary_player = find_player_from_list(primary_play_list)
+        
+        secondary_play_list = None
+        if len(synergy_list) > 1:
+            secondary_play_list = synergy_list[1].split(' > ')
+            secondary_player = find_player_from_list(secondary_play_list)
+        else:
+            secondary_player = 'N/A'
+        
+        # Append primary and secondary players to their respective lists
+        primary_players.append(primary_player)
+        secondary_players.append(secondary_player)
+        
+    # Add the lists as new columns in final_df
+    final_df['PrimaryPlayer'] = primary_players
+    final_df['SecondaryPlayer'] = secondary_players
+        
+    
+def find_player_from_list(string_list):
+    player_name_list = string_list[0].split(' ')
+    name = ' '.join(player_name_list[1:])
+    return name
     
 def find_playtype(df: pd.DataFrame, final_df: pd.DataFrame):
     
@@ -372,7 +409,7 @@ def process_postups(playlist, playnumber, final_df: pd.DataFrame, idx):
     if 'Face-up' in playlist:
         final_df.at[idx, action_column] = 'Face Up'
     elif 'Dribble Move' in playlist:
-        final_df.at[idx, action_column] = 'Dribble Move'
+        final_df.at[idx, action_column] = 'Dribble'
             
         
 def get_constraints(csv_df: pd.DataFrame):

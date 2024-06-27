@@ -1,176 +1,176 @@
-Site,PossesionType,Opponent,Outcome,ShotType,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayType,SecondaryDirection,SecondaryAction
-Home,Defense,CU,2pmi,To Basket,PNR,High,Off,Cuts,None,Basket
-Home,Offense,CU,3pMa,No Dribble Jumper,Off Screens,Right,None,None,None,None
-Home,Defense,CU,2pMa,Hook Shot,Post,Middle,Dribble Move,None,None,None
-Home,Offense,CU,3pMa,No Dribble Jumper,PNR,Right,Off,Spot Ups,None,Shot
-Home,Defense,CU,2pmi,Dribble Jumper,Hand Offs,Top,Dribble,None,None,None
-Home,Offense,CU,Turnover,N/A,Spot Ups,Left,Drive,None,None,None
-Home,Defense,CU,3pMa,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Home,Offense,CU,3pmi,No Dribble Jumper,Hand Offs,Left,Dribble,None,None,None
-Home,Defense,CU,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,CU,Foul,To Basket,Iso,Top,None,None,None,None
-Home,Defense,CU,3pmi,Dribble Jumper,Spot Ups,Left,Drive,None,None,None
-Home,Defense,CU,2pmi,N/A,Post,Right,Dribble Move,None,None,None
-Home,Offense,CU,3pmi,Dribble Jumper,Spot Ups,Left,Drive,None,None,None
-Home,Defense,CU,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,CU,2pMa,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Defense,CU,2pmi,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Offense,CU,3pmi,Dribble Jumper,Iso,Left,None,None,None,None
-Home,Defense,CU,3pMa,No Dribble Jumper,Transition,None,Trailer,None,None,None
-Home,Offense,CU,2pmi,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Defense,CU,3pMa,Dribble Jumper,PNR,Left,Off,None,None,None
-Home,Offense,CU,2pmi,To Basket,PNR,Left,Off,None,None,None
-Home,Offense,CU,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,CU,Foul,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,CU,2pmi,Dribble Jumper,Hand Offs,Right,Dribble,None,None,None
-Home,Offense,CU,2pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,CU,3pMa,No Dribble Jumper,Post,Left,Dribble Move,Spot Ups,None,Shot
-Home,Offense,CU,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,CU,3pMa,Dribble Jumper,PNR,High,Off,Spot Ups,Straight,Drive
-Home,Offense,CU,2pmi,Drop Step,Post,Right,Dribble Move,None,None,None
-Home,Defense,CU,2pMa,To Basket,Spot Ups,Right,Drive,None,None,None
-Home,Offense,CU,2pMa,Dribble Jumper,PNR,High,Off,None,None,None
-Home,Defense,CU,Foul,To Basket,Misc,None,None,None,None,None
-Home,Offense,CU,3pmi,No Dribble Jumper,Off Screens,Right,Straight,None,None,None
-Home,Defense,CU,2pMa,To Basket,Post,Right,Dribble Move,Spot Ups,Left,Drive
-Home,Offense,CU,3pmi,No Dribble Jumper,PNR,Right,Off,Spot Ups,None,Shot
-Home,Offense,CU,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,CU,Turnover,N/A,Misc,None,None,None,None,None
-Home,Offense,CU,Foul,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,CU,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,CU,2pmi,Dribble Jumper,Iso,Left,None,None,None,None
-Home,Defense,CU,3pMa,Dribble Jumper,Spot Ups,Left,Drive,None,None,None
-Home,Offense,CU,2pmi,To Basket,Iso,Top,None,None,None,None
-Home,Defense,CU,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,CU,2pmi,N/A,Post,Right,Face Up,None,None,None
-Home,Defense,CU,Turnover,N/A,Misc,None,None,None,None,None
-Home,Offense,CU,3pMa,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Home,Defense,CU,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,CU,Foul,To Basket,Spot Ups,Right,Drive,None,None,None
-Home,Offense,CU,3pmi,No Dribble Jumper,Iso,Right,None,Spot Ups,None,Shot
-Home,Offense,CU,2pMa,N/A,Post,Right,Dribble Move,None,None,None
-Home,Defense,CU,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,CU,And1,To Basket,Iso,Top,None,None,None,None
-Home,Defense,CU,2pmi,Dribble Jumper,Spot Ups,Right,Drive,None,None,None
-Home,Offense,CU,Turnover,N/A,Transition,None,Ball Handler,None,None,None
-Home,Defense,CU,2pmi,To Basket,Transition,None,Left Wing,None,None,None
-Home,Offense,CU,2pMa,To Basket,Iso,Top,None,None,None,None
-Home,Defense,CU,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,CU,3pmi,Dribble Jumper,PNR,Left,Off,None,None,None
-Home,Defense,CU,Foul,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,CU,Foul,To Basket,Post,Left,Dribble Move,None,None,None
-Home,Defense,CU,Foul,N/A,Misc,None,None,None,None,None
-Home,Offense,CU,2pMa,To Basket,Transition,None,First Middle,None,None,None
-Home,Defense,CU,Turnover,N/A,Misc,None,None,None,None,None
-Home,Offense,CU,2pmi,To Basket,Iso,Top,None,None,None,None
-Home,Defense,CU,Foul,N/A,Spot Ups,Right,Drive,None,None,None
-Home,Offense,CU,3pMa,No Dribble Jumper,PNR,High,Off,Spot Ups,None,Shot
-Home,Defense,CU,2pmi,To Basket,PNR,High,Off,None,None,None
-Home,Defense,CU,3pmi,No Dribble Jumper,Iso,Left,None,None,None,None
-Home,Defense,CU,Foul,N/A,Misc,None,None,None,None,None
-Home,Defense,CU,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,CU,2pMa,To Basket,Post,Left,Dribble Move,Cuts,None,Basket
-Home,Defense,CU,Turnover,To Basket,Spot Ups,Right,Drive,None,None,None
-Home,Offense,CU,Foul,N/A,Post,Right,None,None,None,None
-Home,Defense,CU,2pMa,To Basket,Iso,Top,None,None,None,None
-Home,Offense,CU,Turnover,N/A,Post,Left,Dribble Move,None,None,None
-Home,Defense,CU,Turnover,N/A,PNR,High,Off,None,None,None
-Home,Offense,CU,2pMa,To Basket,Transition,None,Left Wing,None,None,None
-Home,Offense,CU,Turnover,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,CU,2pmi,To Basket,Transition,None,Ball Handler,None,None,None
-Home,Offense,CU,Turnover,N/A,Post,Left,Face Up,None,None,None
-Home,Defense,CU,Foul,To Basket,Cuts,None,Flash,None,None,None
-Home,Offense,CU,And1,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,CU,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Home,Offense,CU,2pmi,Dribble Jumper,PNR,Right,Off,None,None,None
-Home,Defense,CU,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,CU,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,CU,2pmi,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Defense,CU,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,CU,2pmi,To Basket,Cuts,None,Flash,None,None,None
-Home,Defense,CU,Turnover,N/A,Post,Left,Dribble Move,None,None,None
-Home,Offense,CU,Turnover,N/A,Spot Ups,Right,Drive,None,None,None
-Home,Defense,CU,3pmi,No Dribble Jumper,Iso,Top,None,Spot Ups,None,Shot
-Home,Offense,CU,2pMa,To Basket,Post,Left,Dribble Move,None,None,None
-Home,Defense,CU,3pmi,No Dribble Jumper,Post,Right,Dribble Move,Spot Ups,None,Shot
-Home,Offense,CU,Turnover,N/A,Post,Middle,Face Up,None,None,None
-Home,Defense,CU,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,CU,Foul,To Basket,Off Screens,Left,Straight,None,None,None
-Home,Defense,CU,And1,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Offense,CU,2pMa,To Basket,PNR,Left,Off,P&R Roll Man,None,Roll
-Home,Defense,CU,Turnover,N/A,Post,Left,Dribble Move,None,None,None
-Home,Offense,CU,Turnover,N/A,Post,Left,Dribble Move,None,None,None
-Home,Defense,CU,2pmi,To Basket,PNR,High,Away,None,None,None
-Home,Defense,CU,2pMa,To Basket,Off Screens,Right,Straight,None,None,None
-Home,Offense,CU,2pMa,To Basket,Misc,None,None,None,None,None
-Home,Defense,CU,3pmi,No Dribble Jumper,Post,Left,Dribble Move,Spot Ups,None,Shot
-Home,Offense,CU,Foul,To Basket,Transition,None,Right Wing,None,None,None
-Home,Defense,CU,Foul,To Basket,PNR,High,Off,P&R Roll Man,None,Slips
-Home,Offense,CU,2pMa,To Basket,Off Screens,Left,Straight,None,None,None
-Home,Defense,CU,2pMa,To Basket,Hand Offs,Top,Dribble,None,None,None
-Home,Offense,CU,3pmi,No Dribble Jumper,Off Screens,Right,Straight,None,None,None
-Home,Defense,CU,2pMa,Hook Shot,Post,Middle,Dribble Move,None,None,None
-Home,Offense,CU,2pMa,To Basket,PNR,Left,Off,P&R Roll Man,None,Roll
-Home,Defense,CU,Turnover,N/A,Misc,None,None,None,None,None
-Home,Offense,CU,2pmi,To Basket,Transition,None,Left Wing,None,None,None
-Home,Defense,CU,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,CU,3pMa,No Dribble Jumper,PNR,Right,Off,Spot Ups,None,Shot
-Home,Defense,CU,Turnover,N/A,Hand Offs,Top,Dribble,None,None,None
-Home,Offense,CU,2pMa,To Basket,PNR,Left,Away,P&R Roll Man,None,Roll
-Home,Defense,CU,Turnover,N/A,Hand Offs,Right,Stationary,None,None,None
-Home,Offense,CU,2pMa,N/A,Post,Right,Face Up,None,None,None
-Home,Defense,CU,2pMa,To Basket,Spot Ups,Right,Drive,None,None,None
-Home,Offense,CU,Turnover,N/A,Misc,None,None,None,None,None
-Home,Defense,CU,Foul,To Basket,Transition,None,Left Wing,None,None,None
-Home,Offense,CU,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,CU,2pmi,To Basket,Spot Ups,Right,Drive,None,None,None
-Home,Offense,CU,2pMa,To Basket,Transition,None,Right Wing,None,None,None
-Home,Defense,CU,3pMa,No Dribble Jumper,Iso,Left,None,None,None,None
-Home,Offense,CU,Turnover,N/A,PNR,Left,Off,None,None,None
-Home,Defense,CU,And1,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Offense,CU,3pmi,Dribble Jumper,PNR,Left,Off,None,None,None
-Home,Offense,CU,2pMa,Dribble Jumper,Off Screens,Right,Straight,None,None,None
-Home,Defense,CU,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,CU,3pMa,No Dribble Jumper,Off Screens,Left,None,None,None,None
-Home,Defense,CU,3pmi,No Dribble Jumper,Hand Offs,Top,Dribble,None,None,None
-Home,Offense,CU,2pMa,To Basket,Cuts,None,Screen,None,None,None
-Home,Defense,CU,2pMa,To Basket,Spot Ups,Right,Drive,None,None,None
-Home,Offense,CU,2pMa,To Basket,Cuts,None,Flash,None,None,None
-Home,Defense,CU,2pmi,To Basket,Spot Ups,Right,Drive,None,None,None
-Home,Offense,CU,Turnover,N/A,Post,Right,Dribble Move,None,None,None
-Home,Defense,CU,2pmi,Dribble Jumper,Iso,Right,None,None,None,None
-Home,Offense,CU,3pmi,No Dribble Jumper,PNR,Left,Off,Spot Ups,None,Shot
-Home,Defense,CU,3pMa,No Dribble Jumper,PNR,High,Off,Spot Ups,None,Shot
-Home,Offense,CU,3pmi,No Dribble Jumper,PNR,Left,None,None,None,None
-Home,Offense,CU,2pMa,To Basket,Cuts,None,Screen,None,None,None
-Home,Defense,CU,3pMa,No Dribble Jumper,Hand Offs,Right,Dribble,None,None,None
-Home,Offense,CU,Foul,To Basket,Spot Ups,Right,Drive,None,None,None
-Home,Defense,CU,3pmi,Dribble Jumper,PNR,High,Off,None,None,None
-Home,Offense,CU,3pMa,Dribble Jumper,PNR,High,Off,None,None,None
-Home,Defense,CU,Foul,N/A,PNR,Right,Off,None,None,None
-Home,Offense,CU,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,CU,2pmi,To Basket,Misc,None,None,None,None,None
-Home,Offense,CU,Turnover,N/A,Misc,None,None,None,None,None
-Home,Defense,CU,3pmi,No Dribble Jumper,Hand Offs,Top,Dribble,None,None,None
-Home,Offense,CU,2pMa,To Basket,Transition,None,Trailer,None,None,None
-Home,Defense,CU,Foul,N/A,Spot Ups,None,None,None,None,None
-Home,Offense,CU,2pmi,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Defense,CU,2pmi,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Offense,CU,2pmi,To Basket,Iso,Top,None,None,None,None
-Home,Defense,CU,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,CU,3pmi,No Dribble Jumper,PNR,High,Off,Spot Ups,None,Shot
-Home,Defense,CU,2pmi,To Basket,Spot Ups,Right,Drive,None,None,None
-Home,Defense,CU,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,CU,3pmi,No Dribble Jumper,PNR,High,Off,Spot Ups,None,Shot
-Home,Defense,CU,Foul,N/A,Misc,None,None,None,None,None
-Home,Defense,CU,Foul,N/A,Post,Left,Dribble Move,None,None,None
-Home,Offense,CU,Foul,N/A,Iso,Right,None,None,None,None
-Home,Defense,CU,3pmi,No Dribble Jumper,Iso,Right,None,Spot Ups,None,Shot
-Home,Offense,CU,2pmi,No Dribble Jumper,PNR,High,Away,Spot Ups,None,Shot
-Home,Defense,CU,Foul,N/A,Misc,None,None,None,None,None
-Home,Defense,CU,Foul,N/A,Misc,None,None,None,None,None
-Home,Offense,CU,Turnover,To Basket,Transition,None,Ball Handler,None,None,None
-Home,Defense,CU,Foul,N/A,Misc,None,None,None,None,None
-Home,Offense,CU,3pmi,Dribble Jumper,PNR,High,Off,None,None,None
-Home,Offense,CU,2pmi,To Basket,Cuts,None,Screen,None,None,None
-Home,Defense,CU,Foul,N/A,Misc,None,None,None,None,None
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction
+CU,RIT,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,PNR,High,Off,Jack Dalgety,Cuts,N/A,Basket
+CU,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Off Screens,Right,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,2pMa,Hook Shot,Finn Cork,Post,Middle,Dribble,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Keegan Ocorr,PNR,Right,Off,Jackson Otis,Spot Ups,N/A,Shot
+CU,RIT,Clarkson University Golden Knights,2pmi,Dribble Jumper,Ryan Miles-Ferguson,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Braeden Burns,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Keegan Ocorr,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,Iso,Top,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pmi,Dribble Jumper,Ryan Miles-Ferguson,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,2pmi,N/A,Finn Cork,Post,Right,Dribble,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Jackson Otis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Keegan Ocorr,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Brock Bowen,Iso,Left,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Transition,N/A,Trailer,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pMa,Dribble Jumper,Ryan Miles-Ferguson,PNR,Left,Off,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,PNR,Left,Off,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Kenny Wilburn,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,2pmi,Dribble Jumper,Ryan Miles-Ferguson,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pmi,No Dribble Jumper,Kenny Wilburn,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Finn Cork,Post,Left,Dribble,Jack Dalgety,Spot Ups,N/A,Shot
+CU,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pMa,Dribble Jumper,Steve DeRegis,PNR,High,Off,Braeden Burns,Spot Ups,Straight,Drive
+CU,RIT,Rochester Institute of Technology Tigers,2pmi,Drop Step,Kenny Wilburn,Post,Right,Dribble,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Keegan Ocorr,PNR,High,Off,N/A,N/A,N/A,N/A
+CU,RIT,,Foul,To Basket,Steve DeRegis,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Off Screens,Right,Straight,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,2pMa,To Basket,Ryan Miles-Ferguson,Post,Right,Dribble,Jack Dalgety,Spot Ups,Left,Drive
+CU,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,Right,Off,Keegan Ocorr,Spot Ups,N/A,Shot
+CU,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,Turnover,N/A,Frankie Rainville,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Kenny Wilburn,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Ryan Miles-Ferguson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Chase Dickens,Iso,Left,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pMa,Dribble Jumper,Aydin Kocak,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Iso,Top,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Aydin Kocak,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pmi,N/A,Kenny Wilburn,Post,Right,Face Up,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,Turnover,N/A,Frankie Rainville,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brandon Weiss,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matt Toscano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,Foul,To Basket,Aydin Kocak,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Iso,Right,N/A,Jackson Otis,Spot Ups,N/A,Shot
+CU,RIT,Rochester Institute of Technology Tigers,2pMa,N/A,Josiah Turner,Post,Right,Dribble,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Frankie Rainville,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,And1,To Basket,Josiah Turner,Iso,Top,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,2pmi,Dribble Jumper,Aydin Kocak,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Keegan Ocorr,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Iso,Top,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Mark Osime,PNR,Left,Off,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,Foul,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,Post,Left,Dribble,N/A,N/A,N/A,N/A
+CU,RIT,,Foul,N/A,Ryan Miles-Ferguson,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,Turnover,N/A,Ryan Miles-Ferguson,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Iso,Top,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,Foul,N/A,Braeden Burns,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,PNR,High,Off,Brandon Weiss,Spot Ups,N/A,Shot
+CU,RIT,Clarkson University Golden Knights,2pmi,To Basket,Ryan Miles-Ferguson,PNR,High,Off,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Ryan Miles-Ferguson,Iso,Left,N/A,N/A,N/A,N/A,N/A
+CU,RIT,,Foul,N/A,Josiah Turner,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Post,Left,Dribble,Mark Osime,Cuts,N/A,Basket
+CU,RIT,Clarkson University Golden Knights,Turnover,To Basket,Jack Dalgety,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,Foul,N/A,Josiah Turner,Post,Right,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,2pMa,To Basket,Ryan Miles-Ferguson,Iso,Top,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,Post,Left,Dribble,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,Turnover,N/A,Ryan Miles-Ferguson,PNR,High,Off,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,Turnover,To Basket,Jackson Otis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,2pmi,To Basket,Ryan Miles-Ferguson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,Post,Left,Face Up,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,Foul,To Basket,Ryan Miles-Ferguson,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,And1,To Basket,Brock Bowen,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,2pMa,To Basket,Frankie Rainville,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Keegan Ocorr,PNR,Right,Off,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,2pmi,To Basket,Steve DeRegis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Jackson Otis,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,Turnover,N/A,Finn Cork,Post,Left,Dribble,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Ryan Miles-Ferguson,Iso,Top,N/A,Frankie Rainville,Spot Ups,N/A,Shot
+CU,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Post,Left,Dribble,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Ryan Miles-Ferguson,Post,Right,Dribble,Jack Dalgety,Spot Ups,N/A,Shot
+CU,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,Post,Middle,Face Up,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Ryan Miles-Ferguson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Keegan Ocorr,Off Screens,Left,Straight,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,And1,To Basket,Ryan Miles-Ferguson,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Brock Bowen,PNR,Left,Off,Kenny Wilburn,P&R Roll Man,N/A,Roll
+CU,RIT,Clarkson University Golden Knights,Turnover,N/A,Finn Cork,Post,Left,Dribble,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Kenny Wilburn,Post,Left,Dribble,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,2pmi,To Basket,Steve DeRegis,PNR,High,Away,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,2pMa,To Basket,Jack Dalgety,Off Screens,Right,Straight,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Keegan Ocorr,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Finn Cork,Post,Left,Dribble,Steve DeRegis,Spot Ups,N/A,Shot
+CU,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Chase Dickens,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,Foul,To Basket,Ryan Miles-Ferguson,PNR,High,Off,Jack Dalgety,P&R Roll Man,N/A,Slips
+CU,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Mark Osime,Off Screens,Left,Straight,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,2pMa,To Basket,Ryan Miles-Ferguson,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Off Screens,Right,Straight,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,2pMa,Hook Shot,Finn Cork,Post,Middle,Dribble,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,PNR,Left,Off,Kenny Wilburn,P&R Roll Man,N/A,Roll
+CU,RIT,Clarkson University Golden Knights,Turnover,N/A,Steve DeRegis,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Ryan Miles-Ferguson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,PNR,Right,Off,Matt Caggiano,Spot Ups,N/A,Shot
+CU,RIT,Clarkson University Golden Knights,Turnover,N/A,Steve DeRegis,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,PNR,Left,Away,Kenny Wilburn,P&R Roll Man,N/A,Roll
+CU,RIT,Clarkson University Golden Knights,Turnover,N/A,Frankie Rainville,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pMa,N/A,Kenny Wilburn,Post,Right,Face Up,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,2pMa,To Basket,Matt Toscano,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,Foul,To Basket,Ryan Miles-Ferguson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Mark Osime,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,2pmi,To Basket,Finn Cork,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Ryan Miles-Ferguson,Iso,Left,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,PNR,Left,Off,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,And1,To Basket,Braeden Burns,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Brock Bowen,PNR,Left,Off,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Brock Bowen,Off Screens,Right,Straight,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Off Screens,Left,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Braeden Burns,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Cuts,N/A,Screen,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,Post,Right,Dribble,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,2pmi,Dribble Jumper,Ryan Miles-Ferguson,Iso,Right,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,PNR,Left,Off,Keegan Ocorr,Spot Ups,N/A,Shot
+CU,RIT,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Matt Toscano,PNR,High,Off,Ryan Miles-Ferguson,Spot Ups,N/A,Shot
+CU,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,PNR,Left,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Cuts,N/A,Screen,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Ryan Miles-Ferguson,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Mark Osime,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pmi,Dribble Jumper,Ryan Miles-Ferguson,PNR,High,Off,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,3pMa,Dribble Jumper,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,Foul,N/A,Jack Dalgety,PNR,Right,Off,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,2pmi,To Basket,Finn Cork,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Ryan Miles-Ferguson,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Transition,N/A,Trailer,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,Foul,N/A,Finn Cork,Spot Ups,N/A,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,2pmi,To Basket,Ryan Miles-Ferguson,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Iso,Top,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Mark Osime,Spot Ups,N/A,Shot
+CU,RIT,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Jackson Otis,Spot Ups,N/A,Shot
+CU,RIT,,Foul,N/A,Keegan Ocorr,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,Foul,N/A,Finn Cork,Post,Left,Dribble,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,Foul,N/A,Matt Caggiano,Iso,Right,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Ryan Miles-Ferguson,Iso,Right,N/A,Jack Dalgety,Spot Ups,N/A,Shot
+CU,RIT,Rochester Institute of Technology Tigers,2pmi,No Dribble Jumper,Matt Caggiano,PNR,High,Away,Kenny Wilburn,Spot Ups,N/A,Shot
+CU,RIT,,Foul,N/A,Mark Osime,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+CU,RIT,,Foul,N/A,Steve DeRegis,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,Turnover,To Basket,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+CU,RIT,,Foul,N/A,Steve DeRegis,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A
+CU,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Cuts,N/A,Screen,N/A,N/A,N/A,N/A
+CU,RIT,,Foul,N/A,Steve DeRegis,Misc,N/A,N/A,N/A,N/A,N/A,N/A

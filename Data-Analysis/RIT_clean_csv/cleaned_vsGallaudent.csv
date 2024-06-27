@@ -1,143 +1,143 @@
-Site,PossesionType,Opponent,Outcome,ShotType,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayType,SecondaryDirection,SecondaryAction
-Home,Offense,GUB,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,GUB,Turnover,N/A,Hand Offs,Top,Dribble,None,None,None
-Home,Offense,GUB,2pmi,To Basket,Cuts,None,Flash,None,None,None
-Home,Offense,GUB,And1,To Basket,Spot Ups,Right,Drive,None,None,None
-Home,Defense,GUB,3pmi,Dribble Jumper,PNR,High,Off,None,None,None
-Home,Offense,GUB,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,GUB,Foul,To Basket,Hand Offs,Top,Dribble,None,None,None
-Home,Offense,GUB,2pmi,Dribble Jumper,Iso,Top,None,None,None,None
-Home,Defense,GUB,Turnover,N/A,Hand Offs,Right,Dribble,None,None,None
-Home,Offense,GUB,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,GUB,2pmi,To Basket,Cuts,None,Screen,None,None,None
-Home,Offense,GUB,3pMa,No Dribble Jumper,Transition,None,Trailer,None,None,None
-Home,Defense,GUB,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,GUB,Turnover,N/A,Transition,None,Right Wing,None,None,None
-Home,Defense,GUB,2pmi,Dribble Jumper,PNR,High,Off,Spot Ups,Left,Drive
-Home,Offense,GUB,2pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,GUB,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,GUB,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Home,Offense,GUB,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,GUB,Foul,To Basket,Iso,Top,None,None,None,None
-Home,Offense,GUB,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,GUB,Turnover,N/A,Transition,None,First Middle,None,None,None
-Home,Offense,GUB,2pmi,To Basket,Transition,None,Left Wing,None,None,None
-Home,Offense,GUB,2pMa,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Defense,GUB,2pmi,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Offense,GUB,2pmi,To Basket,Transition,None,Right Wing,None,None,None
-Home,Defense,GUB,2pmi,Dribble Jumper,Transition,None,Left Wing,None,None,None
-Home,Offense,GUB,2pmi,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Defense,GUB,3pMa,No Dribble Jumper,Post,Right,Dribble Move,Spot Ups,None,Shot
-Home,Offense,GUB,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,GUB,3pMa,No Dribble Jumper,PNR,High,Off,P&R Roll Man,None,Slips
-Home,Offense,GUB,Foul,To Basket,Cuts,None,Flash,None,None,None
-Home,Defense,GUB,2pmi,To Basket,Iso,Right,None,None,None,None
-Home,Offense,GUB,2pmi,To Basket,Transition,None,First Middle,None,None,None
-Home,Offense,GUB,2pMa,To Basket,Post,Left,Dribble Move,None,None,None
-Home,Defense,GUB,2pmi,To Basket,Transition,None,Ball Handler,None,None,None
-Home,Offense,GUB,Turnover,To Basket,Cuts,None,Flash,None,None,None
-Home,Defense,GUB,2pmi,To Basket,Transition,None,First Middle,None,None,None
-Home,Offense,GUB,Foul,To Basket,Transition,None,First Middle,None,None,None
-Home,Defense,GUB,2pMa,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Offense,GUB,Foul,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,GUB,3pmi,No Dribble Jumper,Iso,Right,None,Spot Ups,None,Shot
-Home,Defense,GUB,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,GUB,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,GUB,Foul,Dribble Jumper,Off Screens,Right,Straight,None,None,None
-Home,Offense,GUB,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,GUB,3pmi,No Dribble Jumper,Off Screens,Right,Flare,None,None,None
-Home,Offense,GUB,3pmi,No Dribble Jumper,Transition,None,Trailer,None,None,None
-Home,Defense,GUB,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Home,Offense,GUB,And1,To Basket,Transition,None,Right Wing,None,None,None
-Home,Defense,GUB,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,GUB,Turnover,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,GUB,Foul,N/A,Misc,None,None,None,None,None
-Home,Offense,GUB,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,GUB,Turnover,N/A,Hand Offs,Right,Dribble,None,None,None
-Home,Offense,GUB,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,GUB,2pmi,To Basket,Hand Offs,Top,Dribble,None,None,None
-Home,Offense,GUB,2pMa,To Basket,Transition,None,First Middle,None,None,None
-Home,Defense,GUB,3pmi,Dribble Jumper,PNR,High,Off,None,None,None
-Home,Offense,GUB,Foul,N/A,Transition,None,Ball Handler,None,None,None
-Home,Defense,GUB,2pmi,To Basket,Cuts,None,Flash,None,None,None
-Home,Offense,GUB,2pMa,To Basket,Cuts,None,Flash,None,None,None
-Home,Defense,GUB,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Home,Offense,GUB,Foul,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,GUB,2pMa,To Basket,PNR,High,Off,Cuts,None,Basket
-Home,Offense,GUB,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,GUB,2pmi,Dribble Jumper,PNR,High,Off,None,None,None
-Home,Offense,GUB,And1,To Basket,Transition,None,Leak Outs,None,None,None
-Home,Defense,GUB,2pMa,To Basket,Cuts,None,Flash,None,None,None
-Home,Offense,GUB,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,GUB,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,GUB,3pMa,No Dribble Jumper,PNR,High,Off,Spot Ups,None,Shot
-Home,Defense,GUB,3pmi,No Dribble Jumper,Off Screens,Left,Straight,None,None,None
-Home,Offense,GUB,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,GUB,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,GUB,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,GUB,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,GUB,Turnover,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,GUB,2pMa,Dribble Jumper,Spot Ups,Right,Drive,None,None,None
-Home,Offense,GUB,2pMa,Dribble Jumper,Spot Ups,Straight,Drive,None,None,None
-Home,Defense,GUB,Turnover,To Basket,PNR,High,Off,P&R Roll Man,Right,Pop
-Home,Offense,GUB,Turnover,N/A,Misc,None,None,None,None,None
-Home,Defense,GUB,2pmi,To Basket,Cuts,None,Screen,None,None,None
-Home,Offense,GUB,3pmi,No Dribble Jumper,Iso,Top,None,Spot Ups,None,Shot
-Home,Defense,GUB,Foul,To Basket,Cuts,None,Screen,None,None,None
-Home,Offense,GUB,Turnover,N/A,Misc,None,None,None,None,None
-Home,Defense,GUB,Foul,To Basket,Cuts,None,Flash,None,None,None
-Home,Offense,GUB,2pmi,To Basket,Spot Ups,Straight,Drive,None,None,None
-Home,Defense,GUB,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Home,Offense,GUB,Turnover,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,GUB,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,GUB,And1,To Basket,Transition,None,First Middle,None,None,None
-Home,Defense,GUB,3pmi,No Dribble Jumper,PNR,High,Off,P&R Roll Man,None,Slips
-Home,Offense,GUB,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,GUB,2pMa,To Basket,Spot Ups,Right,Drive,None,None,None
-Home,Offense,GUB,Turnover,N/A,Misc,None,None,None,None,None
-Home,Defense,GUB,2pMa,Dribble Jumper,PNR,Left,Off,None,None,None
-Home,Offense,GUB,2pmi,To Basket,Cuts,None,Screen,None,None,None
-Home,Defense,GUB,3pMa,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Home,Offense,GUB,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,GUB,2pmi,Dribble Jumper,PNR,Left,Off,None,None,None
-Home,Offense,GUB,2pMa,To Basket,Cuts,None,Flash,None,None,None
-Home,Defense,GUB,2pmi,To Basket,Post,Right,Dribble Move,None,None,None
-Home,Offense,GUB,Turnover,To Basket,Transition,None,Right Wing,None,None,None
-Home,Defense,GUB,2pmi,To Basket,PNR,Right,Off,None,None,None
-Home,Offense,GUB,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,GUB,Turnover,N/A,Hand Offs,Right,Stationary,None,None,None
-Home,Offense,GUB,2pMa,To Basket,Transition,None,Left Wing,None,None,None
-Home,Defense,GUB,Turnover,N/A,Misc,None,None,None,None,None
-Home,Offense,GUB,2pMa,To Basket,Misc,None,None,None,None,None
-Home,Defense,GUB,Turnover,N/A,Transition,None,Ball Handler,None,None,None
-Home,Offense,GUB,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,GUB,3pmi,No Dribble Jumper,Off Screens,Left,Flare,None,None,None
-Home,Offense,GUB,Turnover,To Basket,Transition,None,Right Wing,None,None,None
-Home,Defense,GUB,Turnover,N/A,Misc,None,None,None,None,None
-Home,Offense,GUB,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,GUB,Turnover,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Offense,GUB,2pMa,To Basket,Transition,None,Right Wing,None,None,None
-Home,Defense,GUB,2pmi,Dribble Jumper,PNR,High,Off,None,None,None
-Home,Offense,GUB,2pmi,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Defense,GUB,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,GUB,2pMa,To Basket,Cuts,None,Flash,None,None,None
-Home,Offense,GUB,Turnover,N/A,Misc,None,None,None,None,None
-Home,Defense,GUB,3pmi,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Home,Offense,GUB,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,GUB,3pMa,No Dribble Jumper,PNR,Left,Off,Spot Ups,None,Shot
-Home,Offense,GUB,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,GUB,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,GUB,3pmi,No Dribble Jumper,Transition,None,Right Wing,None,None,None
-Home,Offense,GUB,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,GUB,2pmi,To Basket,PNR,High,Away,None,None,None
-Home,Defense,GUB,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,GUB,2pmi,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Offense,GUB,Turnover,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,GUB,Turnover,N/A,Misc,None,None,None,None,None
-Home,Offense,GUB,Turnover,N/A,Iso,Top,None,None,None,None
-Home,Defense,GUB,And1,To Basket,Transition,None,Ball Handler,None,None,None
-Home,Offense,GUB,Foul,N/A,Transition,None,Ball Handler,None,None,None
-Home,Defense,GUB,2pmi,To Basket,PNR,Right,Away,None,None,None
-Home,Defense,GUB,Foul,N/A,Spot Ups,Left,Drive,None,None,None
-Home,Offense,GUB,Turnover,N/A,Hand Offs,Top,Dribble,None,None,None
-Home,Defense,GUB,2pMa,To Basket,Transition,None,Ball Handler,None,None,None
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction
+GUB,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,Turnover,N/A,Brandon Chung,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Jackson Otis,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,And1,To Basket,Brock Bowen,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,3pmi,Dribble Jumper,Rory Lewis,PNR,High,Off,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Jackson Otis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,Foul,To Basket,Enow Otto Jr.,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Keegan Ocorr,Iso,Top,N/A,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,Turnover,N/A,Bruce Brewer Jr,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pmi,To Basket,Enow Otto Jr.,Cuts,N/A,Screen,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Transition,N/A,Trailer,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,3pmi,No Dribble Jumper,Zachary Bippus,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Jackson Otis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pmi,Dribble Jumper,Bruce Brewer Jr,PNR,High,Off,Blessed Mbogo,Spot Ups,Left,Drive
+GUB,RIT,Rochester Institute of Technology Tigers,2pmi,No Dribble Jumper,Jackson Otis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pmi,To Basket,Alex Antsiferov,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Jackson Otis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,Foul,To Basket,Zachary Bippus,Iso,Top,N/A,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Keegan Ocorr,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,Turnover,N/A,Alex Antsiferov,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Keegan Ocorr,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pmi,To Basket,Enow Otto Jr.,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Zac Ditzel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pmi,Dribble Jumper,Rory Lewis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Ronnie Toole,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,3pMa,No Dribble Jumper,Alex Antsiferov,Post,Right,Dribble,Blessed Mbogo,Spot Ups,N/A,Shot
+GUB,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brandon Weiss,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,3pMa,No Dribble Jumper,Bruce Brewer Jr,PNR,High,Off,Blessed Mbogo,P&R Roll Man,N/A,Slips
+GUB,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pmi,To Basket,Enow Otto Jr.,Iso,Right,N/A,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Post,Left,Dribble,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pmi,To Basket,Enow Otto Jr.,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,Turnover,To Basket,Brody Brown,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pmi,To Basket,Luke Mcbrine,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Kenny Wilburn,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pMa,To Basket,Blessed Mbogo,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Jackson Otis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,3pmi,No Dribble Jumper,Bruce Brewer Jr,Iso,Right,N/A,Samer Sawan,Spot Ups,N/A,Shot
+GUB,RIT,Gallaudet University Bison,3pmi,No Dribble Jumper,Blessed Mbogo,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,Foul,Dribble Jumper,Blessed Mbogo,Off Screens,Right,Straight,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,3pmi,No Dribble Jumper,Zachary Bippus,Off Screens,Right,Flare,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Transition,N/A,Trailer,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pMa,To Basket,Zachary Bippus,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,And1,To Basket,Brody Brown,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,3pmi,No Dribble Jumper,Zachary Bippus,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,Turnover,To Basket,Matt Caggiano,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,Foul,N/A,Luke Mcbrine,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,Turnover,N/A,Blessed Mbogo,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pmi,To Basket,Enow Otto Jr.,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,3pmi,Dribble Jumper,Blessed Mbogo,PNR,High,Off,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,Foul,N/A,Brody Brown,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pmi,To Basket,Luke Mcbrine,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Zac Ditzel,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pMa,To Basket,Alex Antsiferov,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,Foul,No Dribble Jumper,Zac Ditzel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pMa,To Basket,Bruce Brewer Jr,PNR,High,Off,Alex Antsiferov,Cuts,N/A,Basket
+GUB,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pmi,Dribble Jumper,Blessed Mbogo,PNR,High,Off,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,And1,To Basket,Josiah Turner,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pMa,To Basket,Alex Antsiferov,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brandon Weiss,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Luke Granto,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,3pMa,No Dribble Jumper,Bruce Brewer Jr,PNR,High,Off,Samer Sawan,Spot Ups,N/A,Shot
+GUB,RIT,Gallaudet University Bison,3pmi,No Dribble Jumper,Blessed Mbogo,Off Screens,Left,Straight,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,3pMa,No Dribble Jumper,Samer Sawan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Jackson Otis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,3pMa,No Dribble Jumper,Samer Sawan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,Turnover,To Basket,Jackson Otis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pMa,Dribble Jumper,Enow Otto Jr.,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Brody Brown,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,Turnover,To Basket,Bruce Brewer Jr,PNR,High,Off,Blessed Mbogo,P&R Roll Man,Right,Pop
+GUB,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pmi,To Basket,Alex Antsiferov,Cuts,N/A,Screen,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Iso,Top,N/A,Matt Caggiano,Spot Ups,N/A,Shot
+GUB,RIT,Gallaudet University Bison,Foul,To Basket,Alex Antsiferov,Cuts,N/A,Screen,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,Foul,To Basket,Brandon Chung,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pmi,To Basket,Enow Otto Jr.,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,Turnover,To Basket,Jackson Otis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,3pmi,No Dribble Jumper,Samer Sawan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,And1,To Basket,Zac Ditzel,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,3pmi,No Dribble Jumper,Bruce Brewer Jr,PNR,High,Off,Blessed Mbogo,P&R Roll Man,N/A,Slips
+GUB,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pMa,To Basket,Enow Otto Jr.,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pMa,Dribble Jumper,Blessed Mbogo,PNR,Left,Off,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Cuts,N/A,Screen,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,3pMa,No Dribble Jumper,Blessed Mbogo,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pmi,Dribble Jumper,Enow Otto Jr.,PNR,Left,Off,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Brody Brown,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pmi,To Basket,Brandon Chung,Post,Right,Dribble,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,Turnover,To Basket,Brody Brown,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pmi,To Basket,Brandon Chung,PNR,Right,Off,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brandon Weiss,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,Turnover,N/A,Zachary Bippus,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Brandon Weiss,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,Turnover,N/A,Zachary Bippus,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Brandon Weiss,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,Turnover,N/A,Blessed Mbogo,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Ronnie Toole,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,3pmi,No Dribble Jumper,Blessed Mbogo,Off Screens,Left,Flare,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,Turnover,To Basket,Brody Brown,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,Turnover,N/A,Enow Otto Jr.,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Ronnie Toole,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,Turnover,To Basket,Enow Otto Jr.,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Zac Ditzel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pmi,Dribble Jumper,Bruce Brewer Jr,PNR,High,Off,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Ronnie Toole,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,3pmi,No Dribble Jumper,Bruce Brewer Jr,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pMa,To Basket,Blessed Mbogo,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Ronnie Toole,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,3pmi,No Dribble Jumper,Samer Sawan,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,3pMa,No Dribble Jumper,Bruce Brewer Jr,PNR,Left,Off,Samer Sawan,Spot Ups,N/A,Shot
+GUB,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Zac Ditzel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Luke Granto,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,3pmi,No Dribble Jumper,Blessed Mbogo,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Luke Granto,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pmi,To Basket,Jaheim Crayton,PNR,High,Away,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,3pMa,No Dribble Jumper,Samer Sawan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Zac Ditzel,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,Turnover,To Basket,Cameron Storm,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,Turnover,N/A,Jaykuss Figueroa,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Mihail Bossev,Iso,Top,N/A,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,And1,To Basket,Jaheim Crayton,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,Foul,N/A,Zac Ditzel,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pmi,To Basket,Jaheim Crayton,PNR,Right,Away,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,Foul,N/A,Jaykuss Figueroa,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+GUB,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Luke Granto,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A
+GUB,RIT,Gallaudet University Bison,2pMa,To Basket,Samer Sawan,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A

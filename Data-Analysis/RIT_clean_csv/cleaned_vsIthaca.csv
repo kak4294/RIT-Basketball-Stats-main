@@ -1,167 +1,167 @@
-Site,PossesionType,Opponent,Outcome,ShotType,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayType,SecondaryDirection,SecondaryAction
-Home,Defense,IC,3pMa,No Dribble Jumper,Hand Offs,Right,Dribble,None,None,None
-Home,Offense,IC,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,IC,2pmi,To Basket,PNR,Left,Off,P&R Roll Man,None,Roll
-Home,Offense,IC,2pMa,To Basket,Transition,None,Leak Outs,None,None,None
-Home,Defense,IC,3pmi,No Dribble Jumper,Transition,None,Right Wing,None,None,None
-Home,Offense,IC,2pmi,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Defense,IC,Foul,No Dribble Jumper,Hand Offs,Left,Dribble,None,None,None
-Home,Offense,IC,2pmi,Dribble Jumper,Spot Ups,Right,Drive,None,None,None
-Home,Defense,IC,3pmi,No Dribble Jumper,PNR,High,Off,Spot Ups,None,Shot
-Home,Defense,IC,Turnover,N/A,Spot Ups,Right,Drive,None,None,None
-Home,Offense,IC,3pMa,No Dribble Jumper,Off Screens,Left,Straight,None,None,None
-Home,Defense,IC,3pmi,No Dribble Jumper,Hand Offs,Top,Dribble,None,None,None
-Home,Offense,IC,3pMa,No Dribble Jumper,Iso,Top,None,Spot Ups,None,Shot
-Home,Defense,IC,Foul,To Basket,PNR,High,Off,None,None,None
-Home,Offense,IC,And1,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,IC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,IC,3pmi,Dribble Jumper,Transition,None,Ball Handler,None,None,None
-Home,Defense,IC,3pmi,No Dribble Jumper,Post,Left,None,Spot Ups,None,Shot
-Home,Defense,IC,Foul,To Basket,Post,Left,Dribble Move,None,None,None
-Home,Offense,IC,2pmi,To Basket,Iso,Top,None,None,None,None
-Home,Defense,IC,3pmi,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Home,Offense,IC,2pMa,To Basket,PNR,Left,Off,Cuts,None,Basket
-Home,Defense,IC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,IC,3pmi,No Dribble Jumper,PNR,Right,Off,Spot Ups,None,Shot
-Home,Offense,IC,2pMa,To Basket,Transition,None,Leak Outs,None,None,None
-Home,Defense,IC,3pMa,No Dribble Jumper,PNR,Left,Off,P&R Roll Man,None,Pop
-Home,Offense,IC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,IC,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,IC,2pMa,To Basket,Transition,None,Left Wing,None,None,None
-Home,Offense,IC,2pMa,To Basket,Post,Middle,Dribble Move,None,None,None
-Home,Defense,IC,3pmi,Dribble Jumper,Hand Offs,Right,Dribble,None,None,None
-Home,Offense,IC,2pmi,To Basket,PNR,High,Off,None,None,None
-Home,Defense,IC,Foul,To Basket,Hand Offs,Top,Stationary,None,None,None
-Home,Offense,IC,Turnover,N/A,Misc,None,None,None,None,None
-Home,Defense,IC,2pMa,Dribble Jumper,Spot Ups,Right,Drive,None,None,None
-Home,Offense,IC,Foul,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,IC,3pmi,Dribble Jumper,PNR,High,Off,Spot Ups,Right,Drive
-Home,Offense,IC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,IC,2pMa,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Offense,IC,2pMa,Dribble Jumper,Spot Ups,Right,Drive,None,None,None
-Home,Defense,IC,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,IC,2pmi,To Basket,Spot Ups,Right,Drive,None,None,None
-Home,Defense,IC,3pMa,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Home,Offense,IC,2pmi,To Basket,Transition,None,Right Wing,None,None,None
-Home,Defense,IC,Foul,To Basket,Cuts,None,Basket,None,None,None
-Home,Offense,IC,3pMa,No Dribble Jumper,Iso,Top,None,Spot Ups,None,Shot
-Home,Defense,IC,2pmi,Dribble Jumper,PNR,Right,Off,None,None,None
-Home,Offense,IC,Foul,To Basket,Transition,None,Leak Outs,None,None,None
-Home,Defense,IC,2pMa,Dribble Jumper,Hand Offs,Left,Dribble,None,None,None
-Home,Offense,IC,Turnover,N/A,Misc,None,None,None,None,None
-Home,Defense,IC,2pMa,To Basket,Transition,None,Leak Outs,None,None,None
-Home,Offense,IC,Turnover,N/A,Misc,None,None,None,None,None
-Home,Defense,IC,3pMa,Dribble Jumper,Transition,None,Right Wing,None,None,None
-Home,Offense,IC,2pMa,To Basket,Cuts,None,Flash,None,None,None
-Home,Defense,IC,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Home,Offense,IC,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,IC,Foul,No Dribble Jumper,Hand Offs,Right,Dribble,None,None,None
-Home,Offense,IC,2pmi,To Basket,Transition,None,First Middle,None,None,None
-Home,Offense,IC,And1,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,IC,Foul,N/A,Spot Ups,None,None,None,None,None
-Home,Offense,IC,3pMa,No Dribble Jumper,Iso,Right,None,Spot Ups,None,Shot
-Home,Defense,IC,Turnover,N/A,PNR,High,Off,None,None,None
-Home,Offense,IC,2pMa,To Basket,Iso,Top,None,None,None,None
-Home,Defense,IC,3pmi,Dribble Jumper,Spot Ups,Left,Drive,None,None,None
-Home,Offense,IC,2pmi,To Basket,Iso,Top,None,Spot Ups,Right,Drive
-Home,Defense,IC,2pMa,To Basket,Transition,None,Left Wing,None,None,None
-Home,Offense,IC,Turnover,N/A,Misc,None,None,None,None,None
-Home,Defense,IC,And1,To Basket,Transition,None,Ball Handler,None,None,None
-Home,Offense,IC,2pMa,Dribble Jumper,PNR,High,Away,None,None,None
-Home,Defense,IC,2pmi,To Basket,PNR,High,Off,None,None,None
-Home,Offense,IC,2pMa,To Basket,Transition,None,First Middle,None,None,None
-Home,Defense,IC,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,IC,Turnover,To Basket,Iso,Right,None,None,None,None
-Home,Defense,IC,3pmi,No Dribble Jumper,PNR,Right,Off,Spot Ups,None,Shot
-Home,Offense,IC,2pMa,To Basket,Transition,None,Right Wing,None,None,None
-Home,Defense,IC,2pmi,To Basket,Spot Ups,Left,Drive,None,None,None
-Home,Defense,IC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,IC,3pmi,No Dribble Jumper,PNR,High,Off,Spot Ups,None,Shot
-Home,Defense,IC,3pmi,Dribble Jumper,Misc,None,None,None,None,None
-Home,Offense,IC,Turnover,N/A,PNR,Right,Off,None,None,None
-Home,Defense,IC,2pmi,To Basket,Spot Ups,Right,Drive,None,None,None
-Home,Offense,IC,Turnover,N/A,Misc,None,None,None,None,None
-Home,Defense,IC,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Home,Offense,IC,3pmi,No Dribble Jumper,Transition,None,Trailer,None,None,None
-Home,Defense,IC,Turnover,N/A,Misc,None,None,None,None,None
-Home,Offense,IC,2pMa,To Basket,Transition,None,Leak Outs,None,None,None
-Home,Defense,IC,2pmi,To Basket,PNR,Right,Off,None,None,None
-Home,Defense,IC,2pMa,To Basket,Hand Offs,Right,Stationary,None,None,None
-Home,Offense,IC,2pMa,Dribble Jumper,Spot Ups,Straight,Drive,None,None,None
-Home,Defense,IC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,IC,Turnover,N/A,Transition,None,Ball Handler,None,None,None
-Home,Defense,IC,3pmi,No Dribble Jumper,Transition,None,Trailer,None,None,None
-Home,Offense,IC,3pmi,No Dribble Jumper,PNR,High,Away,Spot Ups,None,Shot
-Home,Defense,IC,2pmi,To Basket,Transition,None,Right Wing,None,None,None
-Home,Offense,IC,3pmi,No Dribble Jumper,Iso,Right,None,Spot Ups,None,Shot
-Home,Defense,IC,2pmi,To Basket,PNR,High,Off,P&R Roll Man,None,Roll
-Home,Offense,IC,2pMa,To Basket,Cuts,None,Flash,None,None,None
-Home,Defense,IC,2pmi,Dribble Jumper,Spot Ups,Left,Drive,None,None,None
-Home,Defense,IC,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,IC,2pMa,To Basket,Misc,None,None,None,None,None
-Home,Defense,IC,Turnover,N/A,PNR,Left,Off,None,None,None
-Home,Offense,IC,Foul,To Basket,Transition,None,Ball Handler,None,None,None
-Home,Defense,IC,3pMa,No Dribble Jumper,PNR,Left,Off,Spot Ups,None,Shot
-Home,Offense,IC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Offense,IC,3pMa,Dribble Jumper,Spot Ups,Straight,Drive,None,None,None
-Home,Defense,IC,2pmi,To Basket,Hand Offs,Top,Dribble,None,None,None
-Home,Offense,IC,Turnover,N/A,Transition,None,Ball Handler,None,None,None
-Home,Defense,IC,2pmi,To Basket,PNR,High,Away,None,None,None
-Home,Offense,IC,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,IC,Turnover,N/A,Misc,None,None,None,None,None
-Home,Offense,IC,2pMa,To Basket,Off Screens,Left,Flare,None,None,None
-Home,Defense,IC,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Home,Offense,IC,Turnover,N/A,Spot Ups,Right,Drive,None,None,None
-Home,Defense,IC,2pMa,To Basket,Transition,None,Left Wing,None,None,None
-Home,Offense,IC,3pmi,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Home,Defense,IC,3pmi,No Dribble Jumper,Transition,None,Trailer,None,None,None
-Home,Offense,IC,2pmi,To Basket,Post,Right,Dribble Move,None,None,None
-Home,Defense,IC,3pMa,Dribble Jumper,Hand Offs,Right,Dribble,None,None,None
-Home,Offense,IC,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Home,Defense,IC,Turnover,N/A,Spot Ups,Right,Drive,None,None,None
-Home,Offense,IC,2pMa,To Basket,Post,Left,Dribble Move,Cuts,None,Basket
-Home,Defense,IC,3pmi,No Dribble Jumper,Transition,None,Right Wing,None,None,None
-Home,Offense,IC,2pMa,To Basket,Cuts,None,Flash,None,None,None
-Home,Defense,IC,3pmi,No Dribble Jumper,Iso,Right,None,Spot Ups,None,Shot
-Home,Offense,IC,Turnover,N/A,Transition,None,Ball Handler,None,None,None
-Home,Defense,IC,Foul,Dribble Jumper,Hand Offs,Left,Dribble,None,None,None
-Home,Offense,IC,Turnover,N/A,Transition,None,First Middle,None,None,None
-Home,Defense,IC,2pmi,Dribble Jumper,Transition,None,Trailer,None,None,None
-Home,Defense,IC,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Home,Offense,IC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,IC,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Home,Offense,IC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,IC,2pmi,Dribble Jumper,Transition,None,Ball Handler,None,None,None
-Home,Offense,IC,3pmi,No Dribble Jumper,Off Screens,Left,Straight,None,None,None
-Home,Defense,IC,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Home,Offense,IC,2pMa,To Basket,Transition,None,Left Wing,None,None,None
-Home,Defense,IC,Foul,To Basket,Iso,Top,None,None,None,None
-Home,Offense,IC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Home,Defense,IC,Foul,N/A,Misc,None,None,None,None,None
-Home,Offense,IC,2pmi,To Basket,Spot Ups,Right,Drive,None,None,None
-Home,Defense,IC,3pmi,No Dribble Jumper,Transition,None,Trailer,None,None,None
-Home,Offense,IC,And1,To Basket,Spot Ups,Right,Drive,None,None,None
-Home,Defense,IC,2pmi,To Basket,PNR,Right,Off,None,None,None
-Home,Offense,IC,Turnover,N/A,Misc,None,None,None,None,None
-Home,Defense,IC,3pmi,No Dribble Jumper,Misc,None,None,None,None,None
-Home,Defense,IC,2pMa,Dribble Jumper,Hand Offs,Right,Dribble,None,None,None
-Home,Offense,IC,2pMa,To Basket,Iso,Top,None,None,None,None
-Home,Defense,IC,Turnover,N/A,Hand Offs,Right,Dribble,None,None,None
-Home,Offense,IC,2pmi,To Basket,Transition,None,Ball Handler,None,None,None
-Home,Offense,IC,Turnover,N/A,Post,Right,None,Spot Ups,None,None
-Home,Defense,IC,Foul,To Basket,Transition,None,Ball Handler,None,None,None
-Home,Offense,IC,Foul,N/A,PNR,Left,None,None,None,None
-Home,Defense,IC,3pmi,Dribble Jumper,Off Screens,Right,Straight,None,None,None
-Home,Defense,IC,2pMa,To Basket,Spot Ups,Right,Drive,None,None,None
-Home,Offense,IC,Foul,N/A,Transition,None,Right Wing,None,None,None
-Home,Defense,IC,Turnover,N/A,Hand Offs,Right,Dribble,None,None,None
-Home,Offense,IC,2pMa,To Basket,Transition,None,Left Wing,None,None,None
-Home,Defense,IC,2pMa,To Basket,Transition,None,Ball Handler,None,None,None
-Home,Offense,IC,Foul,N/A,Transition,None,Ball Handler,None,None,None
-Home,Defense,IC,3pmi,No Dribble Jumper,PNR,High,Off,Spot Ups,None,Shot
-Home,Defense,IC,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Home,Offense,IC,Foul,N/A,Misc,None,None,None,None,None
-Home,Defense,IC,Turnover,N/A,PNR,High,Off,None,None,None
-Home,Offense,IC,2pmi,To Basket,Transition,None,Ball Handler,None,None,None
-Home,Offense,IC,Foul,N/A,Misc,None,None,None,None,None
-Home,Defense,IC,3pMa,Dribble Jumper,PNR,High,Off,None,None,None
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction
+IC,RIT,Ithaca College,3pMa,No Dribble Jumper,Andrew Geschickter,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Josiah Turner,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pmi,To Basket,Aidan Holmes,PNR,Left,Off,Gavin Schauder,P&R Roll Man,N/A,Roll
+IC,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pmi,No Dribble Jumper,Andrew Geschickter,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Keegan Ocorr,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,Foul,No Dribble Jumper,Logan Wendell,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Chase Dickens,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,PNR,High,Off,Evan Cabral,Spot Ups,N/A,Shot
+IC,RIT,Ithaca College,Turnover,N/A,Logan Wendell,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Off Screens,Left,Straight,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pmi,No Dribble Jumper,Andrew Geschickter,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,Iso,Top,N/A,Jackson Otis,Spot Ups,N/A,Shot
+IC,RIT,Ithaca College,Foul,To Basket,Evan Cabral,PNR,High,Off,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,And1,To Basket,Chase Dickens,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pmi,No Dribble Jumper,Alex Penders,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Brock Bowen,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pmi,No Dribble Jumper,Alex Penders,Post,Left,N/A,Logan Wendell,Spot Ups,N/A,Shot
+IC,RIT,Ithaca College,Foul,To Basket,Evan Cabral,Post,Left,Dribble,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Iso,Top,N/A,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Brock Bowen,PNR,Left,Off,Josiah Turner,Cuts,N/A,Basket
+IC,RIT,Ithaca College,3pmi,No Dribble Jumper,Alex Penders,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,PNR,Right,Off,Aidan Holmes,Spot Ups,N/A,Shot
+IC,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pMa,No Dribble Jumper,Evan Cabral,PNR,Left,Off,Cole Wissink,P&R Roll Man,N/A,Pop
+IC,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pMa,To Basket,Evan Cabral,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Post,Middle,Dribble,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pmi,Dribble Jumper,Logan Wendell,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,Foul,To Basket,Evan Cabral,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Keegan Ocorr,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pMa,Dribble Jumper,Cole Wissink,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,Foul,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pmi,Dribble Jumper,Jaylon O'Neal,PNR,High,Off,Andrew Geschickter,Spot Ups,Right,Drive
+IC,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pMa,To Basket,Bryce Bleibtrey,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Kenny Wilburn,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pMa,No Dribble Jumper,Alex Penders,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Brandon Weiss,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pMa,No Dribble Jumper,Cole Wissink,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,Foul,To Basket,Gavin Schauder,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Josiah Turner,Iso,Top,N/A,Brandon Weiss,Spot Ups,N/A,Shot
+IC,RIT,Ithaca College,2pmi,Dribble Jumper,Andrew Geschickter,PNR,Right,Off,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Matt Caggiano,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pMa,Dribble Jumper,Evan Cabral,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pMa,To Basket,Andrew Geschickter,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pMa,Dribble Jumper,Aidan Holmes,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pmi,To Basket,Laurence Brady,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,Foul,No Dribble Jumper,Andrew Geschickter,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,And1,To Basket,Josiah Turner,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,Foul,N/A,Bryce Bleibtrey,Spot Ups,N/A,N/A,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,Iso,Right,N/A,Brock Bowen,Spot Ups,N/A,Shot
+IC,RIT,Ithaca College,Turnover,N/A,Evan Cabral,PNR,High,Off,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Iso,Top,N/A,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pmi,Dribble Jumper,Aidan Holmes,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Iso,Top,N/A,Brock Bowen,Spot Ups,Right,Drive
+IC,RIT,Ithaca College,2pMa,To Basket,Aidan Holmes,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Keegan Ocorr,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,And1,To Basket,Logan Wendell,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Chase Dickens,PNR,High,Away,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pmi,To Basket,Logan Wendell,PNR,High,Off,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pMa,No Dribble Jumper,Bryce Bleibtrey,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,Turnover,To Basket,Chase Dickens,Iso,Right,N/A,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,PNR,Right,Off,Cole Wissink,Spot Ups,N/A,Shot
+IC,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pmi,To Basket,Logan Wendell,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Keegan Ocorr,Spot Ups,N/A,Shot
+IC,RIT,Ithaca College,3pmi,Dribble Jumper,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Keegan Ocorr,PNR,Right,Off,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pmi,To Basket,Evan Cabral,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pmi,To Basket,Logan Wendell,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Transition,N/A,Trailer,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,Turnover,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pmi,To Basket,Evan Cabral,PNR,Right,Off,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pMa,To Basket,Evan Cabral,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Matt Caggiano,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pmi,No Dribble Jumper,Gavin Schauder,Transition,N/A,Trailer,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,PNR,High,Away,Matt Caggiano,Spot Ups,N/A,Shot
+IC,RIT,Ithaca College,2pmi,To Basket,Andrew Geschickter,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Iso,Right,N/A,Brock Bowen,Spot Ups,N/A,Shot
+IC,RIT,Ithaca College,2pmi,To Basket,Logan Wendell,PNR,High,Off,Gavin Schauder,P&R Roll Man,N/A,Roll
+IC,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Jackson Otis,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pmi,Dribble Jumper,Logan Wendell,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pMa,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,Turnover,N/A,Evan Cabral,PNR,Left,Off,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,PNR,Left,Off,Cole Wissink,Spot Ups,N/A,Shot
+IC,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Jackson Otis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,3pMa,Dribble Jumper,Brock Bowen,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pmi,To Basket,Jaylon O'Neal,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pmi,To Basket,Jaylon O'Neal,PNR,High,Away,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,Turnover,N/A,Jaylon O'Neal,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Off Screens,Left,Flare,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pmi,To Basket,Bryce Bleibtrey,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pMa,To Basket,Andrew Geschickter,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pmi,No Dribble Jumper,Cole Wissink,Transition,N/A,Trailer,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Post,Right,Dribble,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pMa,Dribble Jumper,Andrew Geschickter,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,Turnover,N/A,Cole Wissink,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Jackson Otis,Post,Left,Dribble,Keegan Ocorr,Cuts,N/A,Basket
+IC,RIT,Ithaca College,3pmi,No Dribble Jumper,Andrew Geschickter,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Jackson Otis,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pmi,No Dribble Jumper,Bryce Bleibtrey,Iso,Right,N/A,Laurence Brady,Spot Ups,N/A,Shot
+IC,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,Foul,Dribble Jumper,Logan Wendell,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Jackson Otis,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pmi,Dribble Jumper,Aidan Holmes,Transition,N/A,Trailer,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pmi,To Basket,Laurence Brady,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pMa,To Basket,Evan Cabral,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Jackson Otis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pmi,Dribble Jumper,Aidan Holmes,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Off Screens,Left,Straight,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pmi,To Basket,Evan Cabral,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,Foul,To Basket,Logan Wendell,Iso,Top,N/A,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Jackson Otis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,Foul,N/A,Cole Wissink,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pmi,No Dribble Jumper,Alex Penders,Transition,N/A,Trailer,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,And1,To Basket,Josiah Turner,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pmi,To Basket,Logan Wendell,PNR,Right,Off,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Brody Brown,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pMa,Dribble Jumper,Andrew Geschickter,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Iso,Top,N/A,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,Turnover,N/A,Andrew Geschickter,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,Post,Right,N/A,Keegan Ocorr,Spot Ups,N/A,N/A
+IC,RIT,Ithaca College,Foul,To Basket,Evan Cabral,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,Foul,N/A,Matt Caggiano,PNR,Left,N/A,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pmi,Dribble Jumper,Logan Wendell,Off Screens,Right,Straight,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pMa,To Basket,Cole Wissink,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,Foul,N/A,Keegan Ocorr,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,Turnover,N/A,Andrew Geschickter,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,2pMa,To Basket,Evan Cabral,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,Foul,N/A,Keegan Ocorr,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,PNR,High,Off,Andrew Geschickter,Spot Ups,N/A,Shot
+IC,RIT,Ithaca College,2pMa,To Basket,Alex Penders,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,Foul,N/A,Brody Brown,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,Turnover,N/A,Evan Cabral,PNR,High,Off,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+IC,RIT,Rochester Institute of Technology Tigers,Foul,N/A,Josiah Turner,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+IC,RIT,Ithaca College,3pMa,Dribble Jumper,Logan Wendell,PNR,High,Off,N/A,N/A,N/A,N/A

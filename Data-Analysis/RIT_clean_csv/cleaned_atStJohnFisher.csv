@@ -1,163 +1,163 @@
-Site,PossesionType,Opponent,Outcome,ShotType,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayType,SecondaryDirection,SecondaryAction
-Away,Offense,SJC,3pMa,No Dribble Jumper,Off Screens,Left,Straight,None,None,None
-Away,Defense,SJC,2pmi,To Basket,Cuts,None,Screen,None,None,None
-Away,Offense,SJC,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SJC,2pmi,To Basket,Post,Middle,Dribble Move,None,None,None
-Away,Offense,SJC,3pmi,No Dribble Jumper,Post,Right,Dribble Move,Spot Ups,None,Shot
-Away,Defense,SJC,2pMa,To Basket,PNR,Left,Off,None,None,None
-Away,Offense,SJC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SJC,Turnover,N/A,Misc,None,None,None,None,None
-Away,Offense,SJC,3pMa,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Away,Defense,SJC,2pMa,To Basket,PNR,Left,Off,None,None,None
-Away,Offense,SJC,2pMa,No Dribble Jumper,Misc,None,None,None,None,None
-Away,Defense,SJC,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,SJC,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SJC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,SJC,Foul,To Basket,Transition,None,Ball Handler,None,None,None
-Away,Defense,SJC,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Away,Offense,SJC,Foul,To Basket,PNR,Right,Away,None,None,None
-Away,Defense,SJC,Turnover,To Basket,Cuts,None,Basket,None,None,None
-Away,Offense,SJC,Turnover,N/A,Misc,None,None,None,None,None
-Away,Defense,SJC,2pMa,To Basket,Transition,None,Left Wing,None,None,None
-Away,Offense,SJC,2pmi,Dribble Jumper,Transition,None,First Middle,None,None,None
-Away,Defense,SJC,Foul,To Basket,Post,Middle,Dribble Move,None,None,None
-Away,Offense,SJC,3pmi,No Dribble Jumper,Hand Offs,Top,Dribble,None,None,None
-Away,Defense,SJC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,SJC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,SJC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,SJC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SJC,2pMa,To Basket,Transition,None,Ball Handler,None,None,None
-Away,Offense,SJC,Turnover,N/A,Transition,None,Ball Handler,None,None,None
-Away,Defense,SJC,2pmi,To Basket,Transition,None,Ball Handler,None,None,None
-Away,Offense,SJC,3pmi,No Dribble Jumper,Off Screens,Left,Straight,None,None,None
-Away,Defense,SJC,2pMa,To Basket,Transition,None,Right Wing,None,None,None
-Away,Offense,SJC,2pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SJC,2pMa,To Basket,Transition,None,First Middle,None,None,None
-Away,Offense,SJC,3pmi,Dribble Jumper,PNR,Left,Off,Spot Ups,Left,Drive
-Away,Defense,SJC,Turnover,N/A,PNR,Left,Off,None,None,None
-Away,Offense,SJC,2pmi,To Basket,Transition,None,Ball Handler,None,None,None
-Away,Defense,SJC,2pmi,To Basket,Post,Right,Dribble Move,None,None,None
-Away,Offense,SJC,2pmi,To Basket,Transition,None,Right Wing,None,None,None
-Away,Defense,SJC,3pmi,Dribble Jumper,PNR,Right,Off,None,None,None
-Away,Defense,SJC,3pmi,No Dribble Jumper,PNR,Left,Off,Spot Ups,None,Shot
-Away,Defense,SJC,2pmi,To Basket,Post,Left,Dribble Move,None,None,None
-Away,Offense,SJC,2pmi,To Basket,Transition,None,Trailer,None,None,None
-Away,Defense,SJC,Foul,To Basket,Transition,None,Ball Handler,None,None,None
-Away,Offense,SJC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,SJC,2pMa,To Basket,Cuts,None,Flash,None,None,None
-Away,Defense,SJC,Turnover,N/A,PNR,High,Off,None,None,None
-Away,Offense,SJC,2pMa,To Basket,Transition,None,Ball Handler,None,None,None
-Away,Defense,SJC,2pmi,To Basket,PNR,Left,Off,None,None,None
-Away,Offense,SJC,3pmi,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Away,Defense,SJC,2pMa,To Basket,Transition,None,First Middle,None,None,None
-Away,Offense,SJC,Foul,To Basket,PNR,High,Off,None,None,None
-Away,Defense,SJC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,SJC,Turnover,N/A,PNR,High,Off,Spot Ups,Left,Drive
-Away,Defense,SJC,3pmi,No Dribble Jumper,PNR,High,Off,P&R Roll Man,None,Pop
-Away,Offense,SJC,3pmi,No Dribble Jumper,Transition,None,Right Wing,None,None,None
-Away,Defense,SJC,Turnover,To Basket,Transition,None,Ball Handler,None,None,None
-Away,Offense,SJC,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Away,Defense,SJC,Foul,To Basket,Post,Left,Dribble Move,None,None,None
-Away,Offense,SJC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SJC,2pmi,Dribble Jumper,PNR,High,Off,None,None,None
-Away,Offense,SJC,Turnover,N/A,Spot Ups,Right,Drive,None,None,None
-Away,Defense,SJC,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,SJC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SJC,Turnover,N/A,PNR,Left,Away,None,None,None
-Away,Offense,SJC,3pmi,Dribble Jumper,Transition,None,Right Wing,None,None,None
-Away,Offense,SJC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SJC,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Away,Offense,SJC,3pmi,No Dribble Jumper,Transition,None,Right Wing,None,None,None
-Away,Offense,SJC,Foul,To Basket,Cuts,None,Basket,None,None,None
-Away,Defense,SJC,And1,To Basket,Cuts,None,Basket,None,None,None
-Away,Offense,SJC,3pMa,No Dribble Jumper,PNR,High,Off,Spot Ups,None,Shot
-Away,Defense,SJC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,SJC,Foul,N/A,Misc,None,None,None,None,None
-Away,Defense,SJC,2pMa,To Basket,PNR,Right,Off,Cuts,None,Basket
-Away,Offense,SJC,2pMa,To Basket,PNR,High,Off,None,None,None
-Away,Defense,SJC,2pMa,To Basket,PNR,Right,Off,P&R Roll Man,None,Roll
-Away,Offense,SJC,3pMa,No Dribble Jumper,PNR,High,Off,Spot Ups,None,Shot
-Away,Defense,SJC,2pmi,To Basket,Cuts,None,Flash,None,None,None
-Away,Offense,SJC,Foul,N/A,Misc,None,None,None,None,None
-Away,Defense,SJC,2pMa,To Basket,Cuts,None,Flash,None,None,None
-Away,Offense,SJC,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Away,Defense,SJC,2pMa,To Basket,Transition,None,Left Wing,None,None,None
-Away,Offense,SJC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SJC,2pmi,To Basket,Off Screens,Left,Straight,None,None,None
-Away,Offense,SJC,2pMa,To Basket,Cuts,None,Screen,None,None,None
-Away,Defense,SJC,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,SJC,Turnover,N/A,Misc,None,None,None,None,None
-Away,Defense,SJC,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Away,Offense,SJC,2pMa,To Basket,PNR,High,Off,None,None,None
-Away,Defense,SJC,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Away,Offense,SJC,3pmi,No Dribble Jumper,Transition,None,Right Wing,None,None,None
-Away,Defense,SJC,Turnover,N/A,Misc,None,None,None,None,None
-Away,Offense,SJC,2pmi,To Basket,Spot Ups,Left,Drive,None,None,None
-Away,Defense,SJC,Turnover,N/A,Misc,None,None,None,None,None
-Away,Offense,SJC,Turnover,N/A,PNR,High,Away,None,None,None
-Away,Defense,SJC,2pMa,To Basket,Transition,None,Right Wing,None,None,None
-Away,Offense,SJC,Foul,To Basket,Spot Ups,Left,Drive,None,None,None
-Away,Defense,SJC,Turnover,N/A,Misc,None,None,None,None,None
-Away,Offense,SJC,2pmi,Dribble Jumper,Transition,None,Ball Handler,None,None,None
-Away,Defense,SJC,2pMa,To Basket,Transition,None,First Middle,None,None,None
-Away,Offense,SJC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SJC,3pMa,No Dribble Jumper,Post,Middle,Dribble Move,Spot Ups,None,Shot
-Away,Offense,SJC,2pmi,To Basket,Cuts,None,Flash,None,None,None
-Away,Defense,SJC,2pmi,To Basket,Cuts,None,Basket,None,None,None
-Away,Offense,SJC,3pMa,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Away,Defense,SJC,Foul,To Basket,PNR,Left,Off,Cuts,None,Basket
-Away,Offense,SJC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,SJC,Turnover,N/A,Misc,None,None,None,None,None
-Away,Defense,SJC,Turnover,N/A,Spot Ups,Left,Drive,None,None,None
-Away,Offense,SJC,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SJC,2pmi,To Basket,PNR,Left,Off,None,None,None
-Away,Defense,SJC,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Away,Offense,SJC,2pMa,To Basket,Cuts,None,Flash,None,None,None
-Away,Defense,SJC,2pMa,To Basket,PNR,High,Off,P&R Roll Man,None,Roll
-Away,Offense,SJC,2pmi,To Basket,Cuts,None,Flash,None,None,None
-Away,Defense,SJC,2pMa,To Basket,Transition,None,First Middle,None,None,None
-Away,Offense,SJC,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SJC,2pMa,To Basket,PNR,High,Off,None,None,None
-Away,Offense,SJC,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Away,Defense,SJC,And1,To Basket,Post,Middle,Dribble Move,None,None,None
-Away,Offense,SJC,2pMa,To Basket,Spot Ups,Left,Drive,None,None,None
-Away,Defense,SJC,2pMa,To Basket,PNR,Right,Off,None,None,None
-Away,Offense,SJC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SJC,3pMa,No Dribble Jumper,Transition,None,Left Wing,None,None,None
-Away,Offense,SJC,2pmi,To Basket,Cuts,None,Flash,None,None,None
-Away,Defense,SJC,2pmi,To Basket,Transition,None,Right Wing,None,None,None
-Away,Offense,SJC,3pmi,No Dribble Jumper,Transition,None,Right Wing,None,None,None
-Away,Defense,SJC,Turnover,N/A,Misc,None,None,None,None,None
-Away,Offense,SJC,2pmi,To Basket,Hand Offs,Right,Dribble,None,None,None
-Away,Defense,SJC,2pmi,To Basket,Spot Ups,Left,Drive,None,None,None
-Away,Offense,SJC,2pmi,To Basket,Transition,None,Trailer,None,None,None
-Away,Defense,SJC,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Away,Offense,SJC,3pmi,No Dribble Jumper,PNR,High,Off,P&R Roll Man,None,Pop
-Away,Defense,SJC,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Offense,SJC,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SJC,2pmi,To Basket,PNR,Left,Off,None,None,None
-Away,Defense,SJC,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Away,Offense,SJC,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SJC,2pMa,To Basket,Transition,None,Left Wing,None,None,None
-Away,Offense,SJC,2pMa,To Basket,PNR,High,Off,P&R Roll Man,None,Roll
-Away,Defense,SJC,Foul,Dribble Jumper,Iso,Right,None,None,None,None
-Away,Offense,SJC,3pMa,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SJC,2pmi,Dribble Jumper,PNR,High,Off,None,None,None
-Away,Offense,SJC,Turnover,To Basket,Transition,None,Left Wing,None,None,None
-Away,Defense,SJC,2pmi,To Basket,Transition,None,Left Wing,None,None,None
-Away,Offense,SJC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SJC,3pmi,No Dribble Jumper,PNR,High,Off,P&R Roll Man,None,Pop
-Away,Offense,SJC,2pmi,To Basket,Cuts,None,Flash,None,None,None
-Away,Defense,SJC,2pmi,Hook Shot,Post,Left,Dribble Move,None,None,None
-Away,Offense,SJC,2pmi,To Basket,Spot Ups,Straight,Drive,None,None,None
-Away,Defense,SJC,2pMa,To Basket,Cuts,None,Basket,None,None,None
-Away,Offense,SJC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SJC,3pMa,No Dribble Jumper,Transition,None,First Middle,None,None,None
-Away,Offense,SJC,3pMa,Dribble Jumper,Transition,None,Right Wing,None,None,None
-Away,Defense,SJC,2pmi,To Basket,Transition,None,Left Wing,None,None,None
-Away,Defense,SJC,2pMa,To Basket,Cuts,None,Flash,None,None,None
-Away,Offense,SJC,3pmi,No Dribble Jumper,Off Screens,Left,Straight,None,None,None
-Away,Defense,SJC,Turnover,N/A,Spot Ups,Left,Drive,None,None,None
-Away,Offense,SJC,3pmi,No Dribble Jumper,Spot Ups,None,Shot,None,None,None
-Away,Defense,SJC,2pMa,To Basket,Spot Ups,Left,Drive,None,None,None
-Away,Offense,SJC,2pMa,No Dribble Jumper,Off Screens,Right,Straight,None,None,None
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction
+RIT,SJC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Off Screens,Left,Straight,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Brendan McRoy,Cuts,N/A,Screen,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brandon Weiss,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Daniel Cook,Post,Middle,Dribble,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Kenny Wilburn,Post,Right,Dribble,Brock Bowen,Spot Ups,N/A,Shot
+RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Daniel Cook,PNR,Left,Off,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,Turnover,N/A,Connor Recore,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Jack Foley,PNR,Left,Off,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,2pMa,No Dribble Jumper,Kenny Wilburn,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,3pMa,No Dribble Jumper,Jack Foley,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brandon Weiss,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Maxwell Schneider,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,Foul,To Basket,Chase Dickens,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Connor Recore,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,Foul,To Basket,Chase Dickens,PNR,Right,Away,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,Turnover,To Basket,Matt Lettko,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Kenny Wilburn,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Brendan McRoy,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Kenny Wilburn,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,Foul,To Basket,Daniel Cook,Post,Middle,Dribble,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Josiah Turner,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Matt Lettko,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Zac Ditzel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Zac Ditzel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Keegan Ocorr,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Maxwell Schneider,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Keegan Ocorr,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Matt Lettko,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Off Screens,Left,Straight,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Jack Foley,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,2pmi,No Dribble Jumper,Zac Ditzel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Brad Fowler,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Matt Caggiano,PNR,Left,Off,Chase Dickens,Spot Ups,Left,Drive
+RIT,SJC,St. John Fisher Cardinals,Turnover,N/A,Maxwell Schneider,PNR,Left,Off,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Connor Williams,Post,Right,Dribble,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Keegan Ocorr,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,3pmi,Dribble Jumper,Jack Foley,PNR,Right,Off,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Akinlana Popoola,PNR,Left,Off,Matt Lettko,Spot Ups,N/A,Shot
+RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Brad Fowler,Post,Left,Dribble,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Transition,N/A,Trailer,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,Foul,To Basket,Akinlana Popoola,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,Turnover,N/A,Matt Panara,PNR,High,Off,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Jack Foley,PNR,Left,Off,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brandon Weiss,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Brad Fowler,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,Foul,To Basket,Brandon Weiss,PNR,High,Off,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Matt Panara,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,PNR,High,Off,Brody Brown,Spot Ups,Left,Drive
+RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Jack Foley,PNR,High,Off,Daniel Cook,P&R Roll Man,N/A,Pop
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,Turnover,To Basket,Daniel Cook,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,Foul,To Basket,Connor Recore,Post,Left,Dribble,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pmi,Dribble Jumper,Brendan McRoy,PNR,High,Off,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,3pMa,No Dribble Jumper,Jack Foley,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Kenny Wilburn,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,Turnover,N/A,Brendan McRoy,PNR,Left,Away,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Brandon Weiss,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Matt Lettko,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,Foul,To Basket,Brock Bowen,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,And1,To Basket,Connor Recore,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Brock Bowen,Spot Ups,N/A,Shot
+RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Joe Morrell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,Foul,N/A,Brody Brown,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Jack Foley,PNR,Right,Off,Brad Fowler,Cuts,N/A,Basket
+RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Joe Morrell,PNR,Right,Off,Connor Williams,P&R Roll Man,N/A,Roll
+RIT,SJC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Brock Bowen,Spot Ups,N/A,Shot
+RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Connor Williams,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,Foul,N/A,Brody Brown,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Connor Williams,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Daniel Cook,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Josiah Turner,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Daniel Cook,Off Screens,Left,Straight,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Cuts,N/A,Screen,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,3pMa,No Dribble Jumper,Cole Thompson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Brody Brown,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Jack Foley,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Brock Bowen,PNR,High,Off,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Daniel Cook,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brandon Weiss,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,Turnover,N/A,Jack Foley,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,Turnover,N/A,Matt Lettko,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,PNR,High,Away,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Matt Lettko,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,Foul,To Basket,Brock Bowen,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,Turnover,N/A,Cole Thompson,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Chase Dickens,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Connor Recore,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,3pMa,No Dribble Jumper,Daniel Cook,Post,Middle,Dribble,Cole Thompson,Spot Ups,N/A,Shot
+RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Connor Williams,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,Foul,To Basket,Matt Lettko,PNR,Left,Off,Jack Foley,Cuts,N/A,Basket
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brandon Weiss,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,Turnover,N/A,Matt Lettko,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Matt Lettko,PNR,Left,Off,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Brad Fowler,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Maxwell Schneider,PNR,High,Off,Connor Williams,P&R Roll Man,N/A,Roll
+RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Brad Fowler,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Maxwell Schneider,PNR,High,Off,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,And1,To Basket,Brad Fowler,Post,Middle,Dribble,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Daniel Cook,PNR,Right,Off,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,3pMa,No Dribble Jumper,Jack Foley,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Jack Foley,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Luke Granto,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,Turnover,N/A,Connor Recore,Misc,N/A,N/A,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Brendan McRoy,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Transition,N/A,Trailer,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Brad Fowler,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Luke Granto,PNR,High,Off,Kenny Wilburn,P&R Roll Man,N/A,Pop
+RIT,SJC,St. John Fisher Cardinals,3pMa,No Dribble Jumper,Jack Foley,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Daniel Cook,PNR,Left,Off,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Daniel Cook,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Brendan McRoy,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,PNR,High,Off,Kenny Wilburn,P&R Roll Man,N/A,Roll
+RIT,SJC,St. John Fisher Cardinals,Foul,Dribble Jumper,Akinlana Popoola,Iso,Right,N/A,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brandon Weiss,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pmi,Dribble Jumper,Brendan McRoy,PNR,High,Off,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,Turnover,To Basket,Matt Caggiano,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Daniel Cook,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Akinlana Popoola,PNR,High,Off,Connor Williams,P&R Roll Man,N/A,Pop
+RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Brody Brown,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pmi,Hook Shot,Daniel Cook,Post,Left,Dribble,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Daniel Cook,Cuts,N/A,Basket,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,3pMa,No Dribble Jumper,Connor Williams,Transition,N/A,First Middle,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pMa,Dribble Jumper,Brandon Weiss,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Jack Foley,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Connor Williams,Cuts,N/A,Flash,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Off Screens,Left,Straight,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,Turnover,N/A,josh Lopez,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A
+RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,josh Lopez,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A
+RIT,SJC,Rochester Institute of Technology Tigers,2pMa,No Dribble Jumper,Zac Ditzel,Off Screens,Right,Straight,N/A,N/A,N/A,N/A
