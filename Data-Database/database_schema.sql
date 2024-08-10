@@ -57,4 +57,3 @@ ALTER TABLE plays
 ADD CONSTRAINT fk_SecondaryPlayID
 FOREIGN KEY (SecondaryPlayID) REFERENCES PlayDescriptions(PlayID);
 
-ALTER TABLE 
