@@ -1,0 +1,34 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Paris Jamison,Alfred State Pioneers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Paris Jamison,Alfred State Pioneers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_cut_efficiency.csv,,
+Paris Jamison,Alfred State Pioneers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_handoffs_bhleft_dribble_efficiency.csv,,
+Paris Jamison,Alfred State Pioneers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_handoffs_bhleft_efficiency.csv,,
+Paris Jamison,Alfred State Pioneers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Paris Jamison,Alfred State Pioneers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Paris Jamison,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_misc_efficiency.csv,,
+Paris Jamison,Alfred State Pioneers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_offscreens_efficiency.csv,,
+Paris Jamison,Alfred State Pioneers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_offscreens_rightshoulder_efficiency.csv,,
+Paris Jamison,Alfred State Pioneers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_offscreens_rightshoulder_straight_efficiency.csv,,
+Paris Jamison,Alfred State Pioneers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_offscreens_straight_efficiency.csv,,
+Paris Jamison,Alfred State Pioneers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhleft_efficiency.csv,,
+Paris Jamison,Alfred State Pioneers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhleft_offpick_efficiency.csv,,
+Paris Jamison,Alfred State Pioneers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_efficiency.csv,,
+Paris Jamison,Alfred State Pioneers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Paris Jamison,Alfred State Pioneers,2,0,0,,1,1,100.0,0,0,,100.0,1.0,0.0,player_spotup_drive_efficiency.csv,,
+Paris Jamison,Alfred State Pioneers,5,2,1,50.0,2,2,100.0,1,1,100.0,87.5,1.0,0.0,player_spotup_efficiency.csv,,
+Paris Jamison,Alfred State Pioneers,3,2,1,50.0,1,1,100.0,1,1,100.0,83.33333,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Paris Jamison,Alfred State Pioneers,2,0,0,,1,1,100.0,0,0,,100.0,1.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Paris Jamison,Alfred State Pioneers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_transition_bh_efficiency.csv,,
+Paris Jamison,Alfred State Pioneers,1,0,0,,1,1,100.0,0,0,,100.0,,,player_transition_leakouts_efficiency.csv,,
+Paris Jamison,Alfred State Pioneers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Paris Jamison,Alfred State Pioneers,2,0,0,,1,1,100.0,0,0,,100.0,1.0,0.0,player_transition_rightwing_efficiency.csv,,
+Paris Jamison,Alfred State Pioneers,16,2,1,50.0,11,8,72.7273,1,1,100.0,73.07692,3.0,0.0,playerefficiency.csv,,
+Paris Jamison,Alfred State Pioneers,3,0,0,,3,1,33.3333,0,0,,33.33333,0.0,0.0,playerefficiencyleft.csv,,
+Paris Jamison,Alfred State Pioneers,2,0,0,,1,1,100.0,0,0,,100.0,1.0,0.0,playerefficiencyright.csv,,
+,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Paris Jamison,Ryan Rosa
+,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Paris Jamison,Ryan Rosa
+,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Emmanuel Leftenant,Paris Jamison
+,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Emmanuel Leftenant,Paris Jamison
+,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_post_spotupjumper_efficiency.csv,Cody Schneider,Paris Jamison
+,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Paris Jamison,Ryan Rosa
+,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Emmanuel Leftenant,Paris Jamison

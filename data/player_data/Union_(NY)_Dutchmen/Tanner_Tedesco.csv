@@ -1,0 +1,84 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Tanner Tedesco,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_bhright_dribble_efficiency.csv,,
+Tanner Tedesco,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_bhright_efficiency.csv,,
+Tanner Tedesco,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Tanner Tedesco,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Tanner Tedesco,Union (NY) Dutchmen,2,0,0,,0,0,,0,0,,,1.0,1.0,player_misc_efficiency.csv,,
+Tanner Tedesco,Union (NY) Dutchmen,7,0,0,,4,3,75.0,2,1,50.0,75.0,1.0,2.0,player_pnr_bhhigh_efficiency.csv,,
+Tanner Tedesco,Union (NY) Dutchmen,7,0,0,,4,3,75.0,2,1,50.0,75.0,1.0,2.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Tanner Tedesco,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,1.0,0.0,player_pnr_bhleft_efficiency.csv,,
+Tanner Tedesco,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,1.0,0.0,player_pnr_bhleft_offpick_efficiency.csv,,
+Tanner Tedesco,Union (NY) Dutchmen,2,0,0,,1,0,0.0,1,0,0.0,0.0,1.0,0.0,player_pnr_bhright_efficiency.csv,,
+Tanner Tedesco,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,1.0,0.0,player_pnr_bhright_offpick_efficiency.csv,,
+Tanner Tedesco,Union (NY) Dutchmen,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_pnr_bhright_rejectpick_efficiency.csv,,
+Tanner Tedesco,Union (NY) Dutchmen,10,0,0,,5,3,60.0,3,1,33.3333,60.0,3.0,2.0,player_pnr_efficiency.csv,,
+Tanner Tedesco,Union (NY) Dutchmen,9,0,0,,4,3,75.0,2,1,50.0,75.0,3.0,2.0,player_pnr_offpick_efficiency.csv,,
+Tanner Tedesco,Union (NY) Dutchmen,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_pnr_rejectpick_efficiency.csv,,
+Tanner Tedesco,Union (NY) Dutchmen,5,2,0,0.0,3,1,33.3333,3,1,33.3333,20.0,0.0,0.0,player_spotup_drive_efficiency.csv,,
+Tanner Tedesco,Union (NY) Dutchmen,5,2,0,0.0,3,1,33.3333,3,1,33.3333,20.0,0.0,0.0,player_spotup_efficiency.csv,,
+Tanner Tedesco,Union (NY) Dutchmen,4,1,0,0.0,3,1,33.3333,3,1,33.3333,25.0,0.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Tanner Tedesco,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Tanner Tedesco,Union (NY) Dutchmen,11,0,0,,4,2,50.0,1,1,100.0,50.0,5.0,2.0,player_transition_bh_efficiency.csv,,
+Tanner Tedesco,Union (NY) Dutchmen,29,3,0,0.0,12,6,50.0,7,3,42.8571,40.0,9.0,5.0,playerefficiency.csv,,
+Tanner Tedesco,Union (NY) Dutchmen,5,1,0,0.0,3,1,33.3333,3,1,33.3333,25.0,1.0,0.0,playerefficiencyleft.csv,,
+Tanner Tedesco,Union (NY) Dutchmen,4,2,0,0.0,1,0,0.0,1,0,0.0,0.0,1.0,0.0,playerefficiencyright.csv,,
+,Union (NY) Dutchmen,4,0,0,,3,1,33.3333,0,0,,33.33333,1.0,0.0,player_rollman_efficiency.csv,Tanner Tedesco,Aren Cummings
+,Union (NY) Dutchmen,4,0,0,,2,2,100.0,0,0,,100.0,1.0,1.0,player_rollman_efficiency.csv,Tanner Tedesco,Jack Plesser
+,Union (NY) Dutchmen,3,2,1,50.0,0,0,,0,0,,75.0,0.0,1.0,player_rollman_efficiency.csv,Tanner Tedesco,Christian Dufort
+,Union (NY) Dutchmen,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_rollman_efficiency.csv,Tanner Tedesco,Brendan Reid
+,Union (NY) Dutchmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_rollman_efficiency.csv,Tanner Tedesco,Edward Baptiste
+,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_leftdrive_efficiency.csv,Tanner Tedesco,Jack Plesser
+,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_leftdrive_pop_efficiency.csv,Tanner Tedesco,Jack Plesser
+,Union (NY) Dutchmen,3,2,1,50.0,0,0,,0,0,,75.0,0.0,1.0,player_rollman_pop_efficiency.csv,Tanner Tedesco,Christian Dufort
+,Union (NY) Dutchmen,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_rollman_pop_efficiency.csv,Tanner Tedesco,Brendan Reid
+,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_pop_efficiency.csv,Tanner Tedesco,Jack Plesser
+,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,0.0,1.0,player_rollman_rightdrive_efficiency.csv,Tanner Tedesco,Christian Dufort
+,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,0.0,1.0,player_rollman_rightdrive_pop_efficiency.csv,Tanner Tedesco,Christian Dufort
+,Union (NY) Dutchmen,4,0,0,,3,1,33.3333,0,0,,33.33333,1.0,0.0,player_rollman_roll_efficiency.csv,Tanner Tedesco,Aren Cummings
+,Union (NY) Dutchmen,2,0,0,,2,2,100.0,0,0,,100.0,0.0,0.0,player_rollman_roll_efficiency.csv,Tanner Tedesco,Jack Plesser
+,Union (NY) Dutchmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_rollman_roll_efficiency.csv,Tanner Tedesco,Edward Baptiste
+,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,0.0,1.0,player_rollman_slip_efficiency.csv,Tanner Tedesco,Jack Plesser
+,Union (NY) Dutchmen,2,0,0,,2,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_cut_efficiency.csv,Tanner Tedesco,Edward Baptiste
+,Union (NY) Dutchmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_cut_efficiency.csv,Tanner Tedesco,Jack Plesser
+,Union (NY) Dutchmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_cut_efficiency.csv,Tanner Tedesco,Christian Dufort
+,Union (NY) Dutchmen,4,1,0,0.0,0,0,,0,0,,0.0,2.0,1.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Tanner Tedesco,Christian Dufort
+,Union (NY) Dutchmen,2,0,0,,2,1,50.0,2,1,50.0,50.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Tanner Tedesco,Connor Cepiel
+,Union (NY) Dutchmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Tanner Tedesco,Luke Mcgarrity
+,Union (NY) Dutchmen,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Tanner Tedesco,Christian Dufort
+,Union (NY) Dutchmen,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Tanner Tedesco,Jack Plesser
+,Union (NY) Dutchmen,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Tanner Tedesco,Connor Cepiel
+,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Tanner Tedesco,Matthew Garside
+,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Tanner Tedesco,Luke Mcgarrity
+,Union (NY) Dutchmen,2,0,0,,2,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_cuts_efficiency.csv,Tanner Tedesco,Edward Baptiste
+,Union (NY) Dutchmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_cuts_efficiency.csv,Tanner Tedesco,Jack Plesser
+,Union (NY) Dutchmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_cuts_efficiency.csv,Tanner Tedesco,Christian Dufort
+,Union (NY) Dutchmen,4,0,0,,3,1,33.3333,0,0,,33.33333,1.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Tanner Tedesco,Aren Cummings
+,Union (NY) Dutchmen,3,0,0,,2,2,100.0,0,0,,100.0,1.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Tanner Tedesco,Jack Plesser
+,Union (NY) Dutchmen,3,2,1,50.0,0,0,,0,0,,75.0,0.0,1.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Tanner Tedesco,Christian Dufort
+,Union (NY) Dutchmen,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Tanner Tedesco,Brendan Reid
+,Union (NY) Dutchmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Tanner Tedesco,Edward Baptiste
+,Union (NY) Dutchmen,2,1,0,0.0,0,0,,0,0,,0.0,1.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Tanner Tedesco,Christian Dufort
+,Union (NY) Dutchmen,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Tanner Tedesco,Connor Cepiel
+,Union (NY) Dutchmen,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Tanner Tedesco,Christian Dufort
+,Union (NY) Dutchmen,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Tanner Tedesco,Connor Cepiel
+,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Tanner Tedesco,Matthew Garside
+,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnrbhleft_rollman_efficiency.csv,Tanner Tedesco,Jack Plesser
+,Union (NY) Dutchmen,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_pnrbhleft_spotupdrives_efficiency.csv,Tanner Tedesco,Connor Cepiel
+,Union (NY) Dutchmen,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupjumper_efficiency.csv,Tanner Tedesco,Jack Plesser
+,Union (NY) Dutchmen,2,0,0,,0,0,,0,0,,,1.0,1.0,twoplayer_pnrbhright_spotupdrives_efficiency.csv,Tanner Tedesco,Christian Dufort
+,Union (NY) Dutchmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_spotupdrives_efficiency.csv,Tanner Tedesco,Luke Mcgarrity
+,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Tanner Tedesco,Luke Mcgarrity
+,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Connor Cepiel,Tanner Tedesco
+,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Connor Cepiel,Tanner Tedesco
+,Union (NY) Dutchmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_iso_spotupdrives_efficiency.csv,Tanner Tedesco,Edward Baptiste
+,Union (NY) Dutchmen,4,1,0,0.0,0,0,,0,0,,0.0,2.0,1.0,twoplayer_pnr_spotupdrives_efficiency.csv,Tanner Tedesco,Christian Dufort
+,Union (NY) Dutchmen,2,0,0,,2,1,50.0,2,1,50.0,50.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Tanner Tedesco,Connor Cepiel
+,Union (NY) Dutchmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Tanner Tedesco,Luke Mcgarrity
+,Union (NY) Dutchmen,3,2,1,50.0,0,0,,0,0,,75.0,0.0,1.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Tanner Tedesco,Christian Dufort
+,Union (NY) Dutchmen,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Tanner Tedesco,Brendan Reid
+,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Tanner Tedesco,Jack Plesser
+,Union (NY) Dutchmen,4,0,0,,3,1,33.3333,0,0,,33.33333,1.0,0.0,twoplayer_pnrbhhigh_rollmanrolls_efficiency.csv,Tanner Tedesco,Aren Cummings
+,Union (NY) Dutchmen,2,0,0,,2,2,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanrolls_efficiency.csv,Tanner Tedesco,Jack Plesser
+,Union (NY) Dutchmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanrolls_efficiency.csv,Tanner Tedesco,Edward Baptiste
+,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnrbhleft_rollmanslips_efficiency.csv,Tanner Tedesco,Jack Plesser
+,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Connor Cepiel,Tanner Tedesco

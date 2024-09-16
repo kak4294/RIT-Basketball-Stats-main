@@ -1,0 +1,156 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+RIT,Bar,Bard College,3pMa,No Dribble Jumper,Elliot Harris,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,4.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Ronnie Toole,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,4.0,2024
+RIT,Bar,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,4.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brandon Weiss,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,4.0,2024
+RIT,Bar,Bard College,3pMa,Dribble Jumper,Laz Panagiotounis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,4.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,3pMa,Dribble Jumper,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,4.0,2024
+RIT,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,4.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Mark Osime,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,4.0,2024
+RIT,Bar,Bard College,2pMa,Dribble Jumper,Laz Panagiotounis,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,3.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,PNR,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,4.0,2024
+RIT,Bar,Bard College,Foul,To Basket,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,2.0,2024
+RIT,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Matt Caggiano,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,4.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,19,2.0,2024
+RIT,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Matt Caggiano,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,21,4.0,2024
+RIT,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,4.0,2024
+RIT,Bar,Bard College,3pmi,No Dribble Jumper,Elliot Harris,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,4.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,Foul,To Basket,Ronnie Toole,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,1.0,2024
+RIT,Bar,Bard College,2pmi,Dribble Jumper,Azriel Almodovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,29,2.0,2024
+RIT,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,31,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,1.0,2024
+RIT,Bar,Bard College,And1,To Basket,Heston Tucker,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,35,2.0,2024
+RIT,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,36,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,3pMa,Dribble Jumper,Brock Bowen,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,37,4.0,2024
+RIT,Bar,Bard College,Turnover,N/A,Sean Wilcox,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,38,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pMa,No Dribble Jumper,Chase Dickens,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,2.0,2024
+RIT,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,Liberty League,Liberty League,42,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,PNR,High,Off,Brock Bowen,Spot Ups,N/A,Shot,Liberty League,Liberty League,43,4.0,2024
+RIT,Bar,Bard College,Turnover,N/A,Elliot Harris,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,44,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Keegan Ocorr,PNR,High,Off,Jackson Otis,Spot Ups,N/A,Shot,Liberty League,Liberty League,45,4.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pmi,To Basket,Brock Bowen,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,46,1.0,2024
+RIT,Bar,Bard College,3pmi,No Dribble Jumper,Rowan Heinze,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,47,4.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,48,1.0,2024
+RIT,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,51,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,PNR,Right,Off,Chase Dickens,Spot Ups,N/A,Shot,Liberty League,Liberty League,52,4.0,2024
+RIT,Bar,Bard College,3pMa,No Dribble Jumper,Laz Panagiotounis,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,4.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Chase Dickens,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,54,2.0,2024
+RIT,Bar,Bard College,3pMa,No Dribble Jumper,Rowan Heinze,Post,Left,Right Shoulder,Cory Dennis,Spot Ups,N/A,Shot,Liberty League,Liberty League,55,4.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,56,1.0,2024
+RIT,Bar,Bard College,3pMa,Dribble Jumper,Laz Panagiotounis,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,57,4.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,3pMa,Dribble Jumper,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,58,4.0,2024
+RIT,Bar,Bard College,2pmi,To Basket,Kevin Le,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pmi,To Basket,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,61,1.0,2024
+RIT,Bar,Bard College,2pmi,N/A,Rowan Heinze,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,1.0,2024
+RIT,Bar,Bard College,3pMa,No Dribble Jumper,Cory Dennis,PNR,Left,Off,Kevin Le,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,64,4.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,65,1.0,2024
+RIT,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,4.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,68,1.0,2024
+RIT,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,PNR,Right,Off,Kevin Le,Spot Ups,N/A,Shot,Liberty League,Liberty League,69,4.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Iso,Top,N/A,Matt Caggiano,Cuts,N/A,Basket,Liberty League,Liberty League,71,1.0,2024
+RIT,Bar,Bard College,2pmi,To Basket,Kevin Le,Off Screens,Left,Curl,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,1.0,2024
+RIT,Bar,Bard College,2pMa,To Basket,Kevin Le,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,Right,Off,Kenny Wilburn,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,75,1.0,2024
+RIT,Bar,Bard College,Foul,To Basket,Azriel Almodovar,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,76,1.0,2024
+RIT,Bar,Bard College,3pMa,No Dribble Jumper,Laz Panagiotounis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,4.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Chase Dickens,Iso,Right,N/A,Brody Brown,Spot Ups,Left,Drive,Liberty League,Liberty League,81,2.0,2024
+RIT,Bar,Bard College,2pmi,N/A,Rowan Heinze,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,82,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,1.0,2024
+RIT,Bar,Bard College,Foul,N/A,Sean Wilcox,Post,Middle,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,84,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Chase Dickens,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,4.0,2024
+RIT,Bar,Bard College,3pmi,No Dribble Jumper,Rowan Heinze,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,4.0,2024
+RIT,Bar,Bard College,2pmi,To Basket,Elliot Harris,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,1.0,2024
+RIT,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,90,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,Foul,To Basket,Mark Osime,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,91,1.0,2024
+RIT,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,94,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,And1,N/A,Josiah Turner,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,1.0,2024
+RIT,Bar,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,97,4.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pmi,To Basket,Brock Bowen,Iso,Right,N/A,Zac Ditzel,Cuts,N/A,Basket,Liberty League,Liberty League,99,1.0,2024
+RIT,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,PNR,High,Off,Zac Ditzel,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,101,4.0,2024
+RIT,Bar,Bard College,Foul,To Basket,Azriel Almodovar,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,102,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pMa,To Basket,Brock Bowen,PNR,High,Off,Josiah Turner,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,105,1.0,2024
+RIT,Bar,Bard College,2pmi,Dribble Jumper,Azriel Almodovar,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,106,2.0,2024
+RIT,Bar,Bard College,2pmi,Dribble Jumper,Laz Panagiotounis,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,107,3.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,Foul,To Basket,Keegan Ocorr,PNR,Right,Off,Mark Osime,Cuts,N/A,Basket,Liberty League,Liberty League,108,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,Foul,To Basket,Keegan Ocorr,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,1.0,2024
+RIT,Bar,Bard College,Turnover,N/A,Elliot Harris,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,116,4.0,2024
+RIT,Bar,Bard College,Turnover,N/A,Elliot Harris,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,1.0,2024
+RIT,Bar,Bard College,3pMa,Dribble Jumper,Mike Parme,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,4.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Post,Right,Face Up,Mark Osime,Cuts,N/A,Flash,Liberty League,Liberty League,120,1.0,2024
+RIT,Bar,Bard College,Turnover,N/A,Mike Parme,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,121,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Chase Dickens,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,4.0,2024
+RIT,Bar,Bard College,2pMa,Dribble Jumper,Cory Dennis,Iso,Top,N/A,Heston Tucker,Spot Ups,Right,Drive,Liberty League,Liberty League,123,2.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pMa,To Basket,Brock Bowen,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,124,1.0,2024
+RIT,Bar,Bard College,2pmi,To Basket,Ahmad Rauf,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,125,1.0,2024
+RIT,Bar,Bard College,2pMa,To Basket,Heston Tucker,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,126,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Post,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,127,1.0,2024
+RIT,Bar,Bard College,2pMa,To Basket,Kevin Le,Iso,Left,N/A,Heston Tucker,Cuts,N/A,Flash,Liberty League,Liberty League,128,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Chase Dickens,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,129,2.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pMa,No Dribble Jumper,Chase Dickens,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,130,2.0,2024
+RIT,Bar,Bard College,3pmi,Dribble Jumper,Mike Parme,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,4.0,2024
+RIT,Bar,Bard College,2pmi,N/A,Azikiwe Cuffy-Scott,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,2.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,Foul,To Basket,Chase Dickens,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,133,1.0,2024
+RIT,Bar,Bard College,Foul,To Basket,Kevin Le,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,136,1.0,2024
+RIT,Bar,Bard College,3pmi,No Dribble Jumper,Azikiwe Cuffy-Scott,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,4.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,1.0,2024
+RIT,Bar,Bard College,2pmi,To Basket,Kevin Le,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,142,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,143,1.0,2024
+RIT,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,144,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pMa,No Dribble Jumper,Chase Dickens,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,145,2.0,2024
+RIT,Bar,Bard College,3pMa,No Dribble Jumper,Heston Tucker,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,4.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pMa,To Basket,Brock Bowen,PNR,Right,Off,Matt Caggiano,Spot Ups,Left,Drive,Liberty League,Liberty League,147,1.0,2024
+RIT,Bar,Bard College,3pmi,No Dribble Jumper,Elliot Harris,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,148,4.0,2024
+RIT,Bar,Bard College,Foul,To Basket,Rowan Heinze,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Mark Osime,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,152,4.0,2024
+RIT,Bar,Bard College,3pMa,No Dribble Jumper,Elliot Harris,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,153,4.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Josiah Turner,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,4.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,4.0,2024
+RIT,Bar,Bard College,Turnover,To Basket,Rowan Heinze,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,158,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,4.0,2024
+RIT,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,160,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,4.0,2024
+RIT,Bar,Bard College,2pMa,N/A,Rowan Heinze,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,162,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,163,1.0,2024
+RIT,Bar,Bard College,Turnover,N/A,Rowan Heinze,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,164,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pMa,To Basket,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,165,1.0,2024
+RIT,Bar,Bard College,Foul,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,1.0,2024
+RIT,Bar,Bard College,Turnover,N/A,Rowan Heinze,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,169,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,170,1.0,2024
+RIT,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,171,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,172,2.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pMa,To Basket,Jackson Otis,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,1.0,2024
+RIT,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,Off Screens,Left,Curl,N/A,N/A,N/A,N/A,Liberty League,Liberty League,174,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,Turnover,To Basket,Brock Bowen,Iso,Top,N/A,Zac Ditzel,Cuts,N/A,Basket,Liberty League,Liberty League,175,1.0,2024
+RIT,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,176,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,1.0,2024
+RIT,Bar,Bard College,Turnover,N/A,Rowan Heinze,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,179,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pMa,To Basket,Keegan Ocorr,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,180,1.0,2024
+RIT,Bar,Bard College,2pmi,Dribble Jumper,Laz Panagiotounis,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,3.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pMa,No Dribble Jumper,Kenny Wilburn,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,182,3.0,2024
+RIT,Bar,Bard College,Foul,N/A,Sean Wilcox,Post,Middle,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,183,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,Foul,To Basket,Kenny Wilburn,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,185,1.0,2024
+RIT,Bar,Bard College,3pMa,No Dribble Jumper,Elliot Harris,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,188,4.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pmi,Drop Step,Chase Dickens,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,189,1.0,2024
+RIT,Bar,Bard College,2pmi,To Basket,Laz Panagiotounis,PNR,Right,Off,Sean Wilcox,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,190,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,PNR,High,Off,Kenny Wilburn,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,191,4.0,2024
+RIT,Bar,Bard College,3pMa,No Dribble Jumper,Elliot Harris,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,192,4.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Brock Bowen,PNR,Left,Off,Zac Ditzel,Spot Ups,Left,Drive,Liberty League,Liberty League,193,3.0,2024
+RIT,Bar,Bard College,2pMa,To Basket,Kevin Le,Post,Right,Left Shoulder,Azriel Almodovar,Cuts,N/A,Basket,Liberty League,Liberty League,194,1.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,PNR,High,Away,Keegan Ocorr,Spot Ups,N/A,Shot,Liberty League,Liberty League,195,4.0,2024
+RIT,Bar,Bard College,2pMa,Dribble Jumper,Elliot Harris,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,196,2.0,2024
+RIT,Bar,Bard College,2pmi,To Basket,Laz Panagiotounis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,199,1.0,2024
+RIT,Bar,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,201,4.0,2024
+RIT,Bar,Bard College,2pMa,Dribble Jumper,Cory Dennis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,203,2.0,2024
+RIT,Bar,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,Iso,Top,N/A,Brock Bowen,Spot Ups,N/A,Shot,Liberty League,Liberty League,204,4.0,2024
+RIT,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,205,4.0,2024
+RIT,Bar,,Foul,N/A,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,206,1.0,2024
+RIT,Bar,Bard College,Turnover,N/A,Mike Parme,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,209,1.0,2024

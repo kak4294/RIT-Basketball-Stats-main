@@ -1,0 +1,7 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Brayden Shepardson,St. Lawrence Saints,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_spotup_drive_efficiency.csv,,
+Brayden Shepardson,St. Lawrence Saints,3,2,1,50.0,1,0,0.0,1,0,0.0,50.0,0.0,0.0,player_spotup_efficiency.csv,,
+Brayden Shepardson,St. Lawrence Saints,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Brayden Shepardson,St. Lawrence Saints,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Brayden Shepardson,St. Lawrence Saints,3,2,1,50.0,1,0,0.0,1,0,0.0,50.0,0.0,0.0,playerefficiency.csv,,
+Brayden Shepardson,St. Lawrence Saints,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,playerefficiencyleft.csv,,

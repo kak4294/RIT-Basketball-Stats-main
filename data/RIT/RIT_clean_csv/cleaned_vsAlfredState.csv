@@ -1,0 +1,149 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+RIT,ASU,Alfred State Pioneers,Foul,To Basket,Dylan Perry,PNR,High,Off,Cody Schneider,P&R Roll Man,N/A,Slips,Liberty League,UNKNOWN,1,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,4,1.0,2024
+RIT,ASU,Alfred State Pioneers,2pMa,Dribble Jumper,Ryan Rosa,Post,Left,Left Shoulder,Cody Schneider,Spot Ups,Right,Drive,Liberty League,UNKNOWN,5,3.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Brody Brown,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,6,4.0,2024
+RIT,ASU,Alfred State Pioneers,2pMa,Dribble Jumper,Ryan Rosa,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,7,2.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Iso,Right,N/A,Kenny Wilburn,Cuts,N/A,Basket,Liberty League,UNKNOWN,8,1.0,2024
+RIT,ASU,Alfred State Pioneers,2pMa,To Basket,Paris Jamison,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,9,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,10,1.0,2024
+RIT,ASU,Alfred State Pioneers,3pmi,No Dribble Jumper,Michael Miller,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,11,4.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,12,1.0,2024
+RIT,ASU,Alfred State Pioneers,2pMa,To Basket,Dylan Perry,PNR,Right,Off,Ryan Rosa,Spot Ups,Right,Drive,Liberty League,UNKNOWN,13,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Kenny Wilburn,P&R Roll Man,N/A,Pop,Liberty League,UNKNOWN,14,4.0,2024
+RIT,ASU,Alfred State Pioneers,2pmi,To Basket,Dylan Perry,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,15,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Chase Dickens,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,16,2.0,2024
+RIT,ASU,Alfred State Pioneers,2pMa,To Basket,Dylan Perry,PNR,High,Off,Ryan Rosa,Spot Ups,Left,Drive,Liberty League,UNKNOWN,17,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,18,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pmi,Drop Step,Kenny Wilburn,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,20,1.0,2024
+RIT,ASU,Alfred State Pioneers,Turnover,N/A,Paris Jamison,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,21,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pMa,To Basket,Keegan Ocorr,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,22,1.0,2024
+RIT,ASU,Alfred State Pioneers,2pmi,Dribble Jumper,Cody Schneider,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,23,3.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pmi,To Basket,Brody Brown,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,24,1.0,2024
+RIT,ASU,Alfred State Pioneers,3pmi,No Dribble Jumper,Zy Switzer,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,25,4.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pMa,No Dribble Jumper,Brock Bowen,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,27,2.0,2024
+RIT,ASU,Alfred State Pioneers,3pMa,No Dribble Jumper,Paris Jamison,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,28,4.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,29,1.0,2024
+RIT,ASU,Alfred State Pioneers,Turnover,N/A,Ryan Rosa,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,31,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,32,1.0,2024
+RIT,ASU,Alfred State Pioneers,Turnover,N/A,Emmanuel Leftenant,PNR,High,Off,Paris Jamison,Spot Ups,Right,Drive,Liberty League,UNKNOWN,33,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Keegan Ocorr,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,34,4.0,2024
+RIT,ASU,Alfred State Pioneers,3pMa,No Dribble Jumper,Dylan Perry,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,36,4.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pMa,To Basket,Nolan Smih,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,38,1.0,2024
+RIT,ASU,Alfred State Pioneers,2pmi,To Basket,Cody Schneider,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,39,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,40,4.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pmi,To Basket,Zac Ditzel,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,42,1.0,2024
+RIT,ASU,Alfred State Pioneers,2pMa,To Basket,Emmanuel Leftenant,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,44,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,Turnover,N/A,Zac Ditzel,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,45,1.0,2024
+RIT,ASU,Alfred State Pioneers,Foul,To Basket,Emmanuel Leftenant,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,46,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Brock Bowen,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,49,4.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,51,1.0,2024
+RIT,ASU,Alfred State Pioneers,3pmi,No Dribble Jumper,Zy Switzer,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,52,4.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,53,1.0,2024
+RIT,ASU,Alfred State Pioneers,2pmi,To Basket,Emmanuel Leftenant,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,54,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,Turnover,N/A,Kenny Wilburn,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,55,1.0,2024
+RIT,ASU,Alfred State Pioneers,2pMa,To Basket,Dylan Perry,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,56,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Zac Ditzel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,57,2.0,2024
+RIT,ASU,Alfred State Pioneers,2pmi,To Basket,Cody Schneider,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,58,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pmi,N/A,Kenny Wilburn,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,59,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,60,1.0,2024
+RIT,ASU,Alfred State Pioneers,3pMa,Dribble Jumper,Dylan Perry,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,61,4.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,62,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pMa,To Basket,Brandon Weiss,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,64,1.0,2024
+RIT,ASU,Alfred State Pioneers,2pmi,To Basket,Paris Jamison,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,65,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,Turnover,N/A,Kenny Wilburn,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,66,1.0,2024
+RIT,ASU,Alfred State Pioneers,2pmi,To Basket,Cody Schneider,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,67,1.0,2024
+RIT,ASU,Alfred State Pioneers,Turnover,N/A,Cody Schneider,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,68,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Kenny Wilburn,Post,Right,N/A,Chase Dickens,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,69,4.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,70,1.0,2024
+RIT,ASU,Alfred State Pioneers,Turnover,N/A,Paris Jamison,PNR,High,Away,Ryan Rosa,Spot Ups,Left,Drive,Liberty League,UNKNOWN,71,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Zac Ditzel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,72,4.0,2024
+RIT,ASU,Alfred State Pioneers,Turnover,N/A,Paris Jamison,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,73,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,74,4.0,2024
+RIT,ASU,Alfred State Pioneers,2pmi,To Basket,Paris Jamison,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,75,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Kenny Wilburn,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,76,4.0,2024
+RIT,ASU,Alfred State Pioneers,2pMa,To Basket,Paris Jamison,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,77,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,78,1.0,2024
+RIT,ASU,Alfred State Pioneers,3pmi,No Dribble Jumper,Dylan Perry,PNR,High,Off,Zachary Gilebarto,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,79,4.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,Turnover,To Basket,Kenny Wilburn,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,81,1.0,2024
+RIT,ASU,Alfred State Pioneers,2pMa,To Basket,Zachary Gilebarto,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,82,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Brandon Weiss,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,83,4.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,84,1.0,2024
+RIT,ASU,Alfred State Pioneers,3pmi,No Dribble Jumper,Cody Schneider,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,85,4.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,86,4.0,2024
+RIT,ASU,Alfred State Pioneers,2pmi,To Basket,Emmanuel Leftenant,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,88,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pMa,To Basket,Brody Brown,PNR,Left,Off,Zac Ditzel,Cuts,N/A,Basket,Liberty League,UNKNOWN,90,1.0,2024
+RIT,ASU,Alfred State Pioneers,2pmi,To Basket,Paris Jamison,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,91,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,Turnover,N/A,Zac Ditzel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,92,1.0,2024
+RIT,ASU,Alfred State Pioneers,2pMa,To Basket,Ryan Rosa,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,93,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Chase Dickens,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,94,2.0,2024
+RIT,ASU,Alfred State Pioneers,3pmi,No Dribble Jumper,Michael Miller,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,95,4.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,Foul,To Basket,Kenny Wilburn,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,96,1.0,2024
+RIT,ASU,Alfred State Pioneers,3pmi,No Dribble Jumper,Cody Schneider,Post,Left,Left Shoulder,Paris Jamison,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,99,4.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,101,1.0,2024
+RIT,ASU,Alfred State Pioneers,3pmi,No Dribble Jumper,Michael Miller,PNR,Right,Off,Cody Schneider,P&R Roll Man,N/A,Pop,Liberty League,UNKNOWN,102,4.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,103,4.0,2024
+RIT,ASU,Alfred State Pioneers,2pMa,To Basket,Paris Jamison,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,104,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pMa,To Basket,Keegan Ocorr,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,105,1.0,2024
+RIT,ASU,Alfred State Pioneers,Turnover,N/A,Michael Miller,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,106,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Brody Brown,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,107,2.0,2024
+RIT,ASU,Alfred State Pioneers,Foul,To Basket,Emmanuel Leftenant,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,108,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,Turnover,N/A,Kenny Wilburn,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,111,1.0,2024
+RIT,ASU,Alfred State Pioneers,2pmi,To Basket,Cody Schneider,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,112,1.0,2024
+RIT,ASU,Alfred State Pioneers,2pmi,To Basket,Cody Schneider,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,113,1.0,2024
+RIT,ASU,Alfred State Pioneers,2pMa,To Basket,Cody Schneider,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,114,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Chase Dickens,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,116,2.0,2024
+RIT,ASU,Alfred State Pioneers,Foul,To Basket,Emmanuel Leftenant,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,117,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,120,1.0,2024
+RIT,ASU,Alfred State Pioneers,Foul,To Basket,Logan Dunbar,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,121,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,124,1.0,2024
+RIT,ASU,Alfred State Pioneers,3pmi,No Dribble Jumper,Dylan Perry,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,125,4.0,2024
+RIT,ASU,Alfred State Pioneers,2pmi,To Basket,Logan Dunbar,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,126,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,127,1.0,2024
+RIT,ASU,Alfred State Pioneers,2pMa,To Basket,Paris Jamison,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,128,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,129,1.0,2024
+RIT,ASU,Alfred State Pioneers,Turnover,To Basket,Logan Dunbar,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,130,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Keegan Ocorr,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,131,4.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,Foul,To Basket,Nolan Smih,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,132,1.0,2024
+RIT,ASU,Alfred State Pioneers,Turnover,N/A,Cody Schneider,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,136,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,Turnover,N/A,Luke Granto,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,137,1.0,2024
+RIT,ASU,Alfred State Pioneers,3pmi,Dribble Jumper,Zachary Gilebarto,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,139,4.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,140,1.0,2024
+RIT,ASU,Alfred State Pioneers,2pMa,To Basket,Paris Jamison,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,141,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,142,1.0,2024
+RIT,ASU,Alfred State Pioneers,3pmi,No Dribble Jumper,Emmanuel Leftenant,PNR,High,Off,Cody Schneider,P&R Roll Man,N/A,Pop,Liberty League,UNKNOWN,143,4.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,Iso,Top,N/A,Brandon Weiss,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,144,4.0,2024
+RIT,ASU,Alfred State Pioneers,3pmi,No Dribble Jumper,Zy Switzer,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,145,4.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brandon Weiss,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,146,4.0,2024
+RIT,ASU,Alfred State Pioneers,2pMa,To Basket,Paris Jamison,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,147,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,Turnover,N/A,Nolan Smih,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,148,1.0,2024
+RIT,ASU,Alfred State Pioneers,3pmi,Dribble Jumper,Zy Switzer,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,149,4.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,151,1.0,2024
+RIT,ASU,Alfred State Pioneers,3pmi,No Dribble Jumper,Dylan Perry,PNR,High,Off,Zy Switzer,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,152,4.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,Foul,Drop Step,Kenny Wilburn,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,153,1.0,2024
+RIT,ASU,Alfred State Pioneers,2pMa,No Dribble Jumper,Paris Jamison,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,157,3.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,158,4.0,2024
+RIT,ASU,Alfred State Pioneers,2pmi,To Basket,Emmanuel Leftenant,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,159,1.0,2024
+RIT,ASU,Alfred State Pioneers,And1,To Basket,Paris Jamison,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,160,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,Foul,To Basket,Matt Caggiano,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,163,1.0,2024
+RIT,ASU,Alfred State Pioneers,3pmi,No Dribble Jumper,Emmanuel Leftenant,PNR,High,Off,Dylan Perry,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,166,4.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,167,1.0,2024
+RIT,ASU,Alfred State Pioneers,Turnover,N/A,Emmanuel Leftenant,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,168,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,Foul,To Basket,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,169,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,172,1.0,2024
+RIT,ASU,Alfred State Pioneers,2pMa,To Basket,Ryan Rosa,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,174,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,PNR,High,Off,Keegan Ocorr,Spot Ups,Left,Drive,Liberty League,UNKNOWN,175,1.0,2024
+RIT,ASU,Alfred State Pioneers,Foul,To Basket,Ryan Rosa,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,178,1.0,2024
+RIT,ASU,Alfred State Pioneers,3pmi,No Dribble Jumper,Emmanuel Leftenant,PNR,High,Off,Cody Schneider,P&R Roll Man,N/A,Pop,Liberty League,UNKNOWN,182,4.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,PNR,High,Away,Keegan Ocorr,Cuts,N/A,Basket,Liberty League,UNKNOWN,183,1.0,2024
+RIT,ASU,Alfred State Pioneers,3pmi,No Dribble Jumper,Dylan Perry,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,184,4.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Chase Dickens,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,185,3.0,2024
+RIT,ASU,Alfred State Pioneers,Turnover,To Basket,Emmanuel Leftenant,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,186,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,Foul,To Basket,Matt Caggiano,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,187,1.0,2024
+RIT,ASU,Alfred State Pioneers,Turnover,N/A,Zy Switzer,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,190,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,Foul,N/A,Brody Brown,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,191,1.0,2024
+RIT,ASU,Alfred State Pioneers,2pMa,To Basket,Emmanuel Leftenant,PNR,High,Off,Ryan Rosa,Spot Ups,Left,Drive,Liberty League,UNKNOWN,194,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,Foul,N/A,Brody Brown,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,195,1.0,2024
+RIT,ASU,Alfred State Pioneers,2pmi,To Basket,Ben Reding,PNR,Left,Off,Cody Schneider,Cuts,N/A,Basket,Liberty League,UNKNOWN,198,1.0,2024
+RIT,ASU,Rochester Institute of Technology Tigers,Foul,N/A,Brody Brown,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,199,1.0,2024
+RIT,ASU,Alfred State Pioneers,3pmi,Dribble Jumper,Ben Reding,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,202,4.0,2024

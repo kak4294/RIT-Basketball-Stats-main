@@ -1,0 +1,154 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+RIT,GUB,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,1,4.0,2024
+RIT,GUB,Gallaudet University Bison,Turnover,N/A,Brandon Chung,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,2,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pmi,To Basket,Jackson Otis,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,3,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,And1,To Basket,Brock Bowen,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,5,1.0,2024
+RIT,GUB,Gallaudet University Bison,3pmi,Dribble Jumper,Rory Lewis,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,7,4.0,2024
+RIT,GUB,Gallaudet University Bison,Foul,To Basket,Blessed Mbogo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,8,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Jackson Otis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,11,4.0,2024
+RIT,GUB,Gallaudet University Bison,Foul,To Basket,Enow Otto Jr.,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,12,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Keegan Ocorr,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,15,2.0,2024
+RIT,GUB,Gallaudet University Bison,Turnover,N/A,Bruce Brewer Jr,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,16,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,17,4.0,2024
+RIT,GUB,Gallaudet University Bison,2pmi,To Basket,Enow Otto Jr.,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,18,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,19,4.0,2024
+RIT,GUB,Gallaudet University Bison,3pmi,No Dribble Jumper,Zachary Bippus,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,20,4.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,Turnover,N/A,Jackson Otis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,21,1.0,2024
+RIT,GUB,Gallaudet University Bison,2pmi,Dribble Jumper,Bruce Brewer Jr,PNR,High,Off,Blessed Mbogo,Spot Ups,Left,Drive,Liberty League,UNKNOWN,22,3.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pmi,No Dribble Jumper,Jackson Otis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,23,3.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,25,4.0,2024
+RIT,GUB,Gallaudet University Bison,2pmi,To Basket,Alex Antsiferov,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,26,1.0,2024
+RIT,GUB,Gallaudet University Bison,Foul,To Basket,Alex Antsiferov,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,27,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pMa,To Basket,Jackson Otis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,30,1.0,2024
+RIT,GUB,Gallaudet University Bison,Foul,To Basket,Zachary Bippus,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,31,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Keegan Ocorr,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,36,4.0,2024
+RIT,GUB,Gallaudet University Bison,Turnover,N/A,Alex Antsiferov,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,37,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pmi,To Basket,Keegan Ocorr,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,38,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,40,1.0,2024
+RIT,GUB,Gallaudet University Bison,2pmi,To Basket,Enow Otto Jr.,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,41,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pmi,To Basket,Zac Ditzel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,42,1.0,2024
+RIT,GUB,Gallaudet University Bison,2pmi,Dribble Jumper,Rory Lewis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,43,3.0,2024
+RIT,GUB,Gallaudet University Bison,2pMa,To Basket,Alex Antsiferov,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,44,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pmi,To Basket,Ronnie Toole,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,47,1.0,2024
+RIT,GUB,Gallaudet University Bison,3pMa,No Dribble Jumper,Alex Antsiferov,Post,Right,Right Shoulder,Blessed Mbogo,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,48,4.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brandon Weiss,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,50,4.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pmi,To Basket,Ronnie Toole,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,51,1.0,2024
+RIT,GUB,Gallaudet University Bison,3pMa,No Dribble Jumper,Bruce Brewer Jr,PNR,High,Off,Blessed Mbogo,P&R Roll Man,N/A,Slips,Liberty League,UNKNOWN,52,4.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,53,1.0,2024
+RIT,GUB,Gallaudet University Bison,2pmi,To Basket,Enow Otto Jr.,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,57,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,58,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,60,1.0,2024
+RIT,GUB,Gallaudet University Bison,2pmi,To Basket,Enow Otto Jr.,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,61,1.0,2024
+RIT,GUB,Gallaudet University Bison,2pMa,To Basket,Luke Mcbrine,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,62,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,Turnover,To Basket,Brody Brown,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,63,1.0,2024
+RIT,GUB,Gallaudet University Bison,2pmi,To Basket,Luke Mcbrine,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,64,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,Foul,To Basket,Kenny Wilburn,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,65,1.0,2024
+RIT,GUB,Gallaudet University Bison,2pMa,To Basket,Blessed Mbogo,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,68,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,Foul,To Basket,Jackson Otis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,69,1.0,2024
+RIT,GUB,Gallaudet University Bison,3pmi,No Dribble Jumper,Bruce Brewer Jr,Iso,Right,N/A,Samer Sawan,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,72,4.0,2024
+RIT,GUB,Gallaudet University Bison,3pmi,No Dribble Jumper,Blessed Mbogo,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,74,4.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,76,4.0,2024
+RIT,GUB,Gallaudet University Bison,Foul,Dribble Jumper,Blessed Mbogo,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,77,3.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,80,4.0,2024
+RIT,GUB,Gallaudet University Bison,3pmi,No Dribble Jumper,Zachary Bippus,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,81,4.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,82,4.0,2024
+RIT,GUB,Gallaudet University Bison,2pMa,To Basket,Zachary Bippus,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,83,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,And1,To Basket,Brody Brown,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,84,1.0,2024
+RIT,GUB,Gallaudet University Bison,3pmi,No Dribble Jumper,Zachary Bippus,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,86,4.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,Turnover,To Basket,Matt Caggiano,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,88,1.0,2024
+RIT,GUB,Gallaudet University Bison,Foul,N/A,Luke Mcbrine,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,89,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,91,1.0,2024
+RIT,GUB,Gallaudet University Bison,Turnover,N/A,Blessed Mbogo,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,92,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,93,4.0,2024
+RIT,GUB,Gallaudet University Bison,2pmi,To Basket,Enow Otto Jr.,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,94,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,95,1.0,2024
+RIT,GUB,Gallaudet University Bison,3pmi,Dribble Jumper,Blessed Mbogo,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,96,4.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,Foul,N/A,Brody Brown,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,97,1.0,2024
+RIT,GUB,Gallaudet University Bison,2pmi,To Basket,Luke Mcbrine,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,101,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pMa,To Basket,Zac Ditzel,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,102,1.0,2024
+RIT,GUB,Gallaudet University Bison,2pMa,To Basket,Alex Antsiferov,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,103,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,Foul,No Dribble Jumper,Zac Ditzel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,104,4.0,2024
+RIT,GUB,Gallaudet University Bison,2pMa,To Basket,Bruce Brewer Jr,PNR,High,Off,Alex Antsiferov,Cuts,N/A,Basket,Liberty League,UNKNOWN,108,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,109,1.0,2024
+RIT,GUB,Gallaudet University Bison,2pmi,Dribble Jumper,Blessed Mbogo,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,110,2.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,And1,To Basket,Josiah Turner,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,111,1.0,2024
+RIT,GUB,Gallaudet University Bison,2pMa,To Basket,Alex Antsiferov,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,113,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brandon Weiss,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,114,4.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Luke Granto,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,116,4.0,2024
+RIT,GUB,Gallaudet University Bison,3pMa,No Dribble Jumper,Bruce Brewer Jr,PNR,High,Off,Samer Sawan,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,117,4.0,2024
+RIT,GUB,Gallaudet University Bison,3pmi,No Dribble Jumper,Blessed Mbogo,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,118,4.0,2024
+RIT,GUB,Gallaudet University Bison,2pmi,To Basket,Alex Antsiferov,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,119,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,120,4.0,2024
+RIT,GUB,Gallaudet University Bison,3pMa,No Dribble Jumper,Samer Sawan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,121,4.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Jackson Otis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,122,4.0,2024
+RIT,GUB,Gallaudet University Bison,3pMa,No Dribble Jumper,Samer Sawan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,123,4.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,Turnover,To Basket,Jackson Otis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,124,1.0,2024
+RIT,GUB,Gallaudet University Bison,2pMa,Dribble Jumper,Enow Otto Jr.,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,125,2.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Brody Brown,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,126,2.0,2024
+RIT,GUB,Gallaudet University Bison,Turnover,To Basket,Bruce Brewer Jr,PNR,High,Off,Blessed Mbogo,P&R Roll Man,Right,Pop,Liberty League,UNKNOWN,127,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,128,1.0,2024
+RIT,GUB,Gallaudet University Bison,2pmi,To Basket,Alex Antsiferov,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,129,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Iso,Top,N/A,Matt Caggiano,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,130,4.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pMa,To Basket,Jackson Otis,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,131,1.0,2024
+RIT,GUB,Gallaudet University Bison,Foul,To Basket,Alex Antsiferov,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,132,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,135,1.0,2024
+RIT,GUB,Gallaudet University Bison,Foul,To Basket,Brandon Chung,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,136,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,139,1.0,2024
+RIT,GUB,Gallaudet University Bison,2pmi,To Basket,Enow Otto Jr.,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,140,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,Turnover,To Basket,Jackson Otis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,141,1.0,2024
+RIT,GUB,Gallaudet University Bison,3pmi,No Dribble Jumper,Samer Sawan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,142,4.0,2024
+RIT,GUB,Gallaudet University Bison,2pMa,To Basket,Enow Otto Jr.,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,143,2.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,And1,To Basket,Zac Ditzel,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,144,1.0,2024
+RIT,GUB,Gallaudet University Bison,3pmi,No Dribble Jumper,Bruce Brewer Jr,PNR,High,Off,Blessed Mbogo,P&R Roll Man,N/A,Slips,Liberty League,UNKNOWN,147,4.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,148,1.0,2024
+RIT,GUB,Gallaudet University Bison,2pMa,To Basket,Enow Otto Jr.,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,150,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,151,1.0,2024
+RIT,GUB,Gallaudet University Bison,2pMa,Dribble Jumper,Blessed Mbogo,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,152,2.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,155,1.0,2024
+RIT,GUB,Gallaudet University Bison,3pMa,No Dribble Jumper,Blessed Mbogo,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,156,4.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,157,4.0,2024
+RIT,GUB,Gallaudet University Bison,2pmi,Dribble Jumper,Enow Otto Jr.,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,158,2.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pMa,To Basket,Brody Brown,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,159,1.0,2024
+RIT,GUB,Gallaudet University Bison,2pmi,To Basket,Brandon Chung,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,160,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,Turnover,To Basket,Brody Brown,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,161,1.0,2024
+RIT,GUB,Gallaudet University Bison,2pmi,To Basket,Brandon Chung,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,162,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brandon Weiss,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,164,4.0,2024
+RIT,GUB,Gallaudet University Bison,Turnover,N/A,Zachary Bippus,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,166,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pMa,To Basket,Brandon Weiss,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,167,1.0,2024
+RIT,GUB,Gallaudet University Bison,Turnover,N/A,Zachary Bippus,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,168,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pMa,To Basket,Brandon Weiss,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,169,1.0,2024
+RIT,GUB,Gallaudet University Bison,Turnover,N/A,Blessed Mbogo,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,170,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Ronnie Toole,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,171,4.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,172,1.0,2024
+RIT,GUB,Gallaudet University Bison,3pmi,No Dribble Jumper,Blessed Mbogo,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,173,4.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,Turnover,To Basket,Brody Brown,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,174,1.0,2024
+RIT,GUB,Gallaudet University Bison,Turnover,N/A,Enow Otto Jr.,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,175,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Ronnie Toole,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,176,4.0,2024
+RIT,GUB,Gallaudet University Bison,Turnover,To Basket,Enow Otto Jr.,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,177,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pMa,To Basket,Zac Ditzel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,178,1.0,2024
+RIT,GUB,Gallaudet University Bison,2pmi,Dribble Jumper,Bruce Brewer Jr,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,181,3.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pmi,To Basket,Ronnie Toole,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,184,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,Foul,To Basket,Kenny Wilburn,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,185,1.0,2024
+RIT,GUB,Gallaudet University Bison,3pmi,No Dribble Jumper,Bruce Brewer Jr,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,188,4.0,2024
+RIT,GUB,Gallaudet University Bison,2pMa,To Basket,Blessed Mbogo,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,190,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,Turnover,N/A,Ronnie Toole,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,191,1.0,2024
+RIT,GUB,Gallaudet University Bison,3pmi,No Dribble Jumper,Samer Sawan,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,192,4.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,193,1.0,2024
+RIT,GUB,Gallaudet University Bison,3pMa,No Dribble Jumper,Bruce Brewer Jr,PNR,Left,Off,Samer Sawan,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,194,4.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Zac Ditzel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,195,4.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Luke Granto,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,197,4.0,2024
+RIT,GUB,Gallaudet University Bison,3pmi,No Dribble Jumper,Blessed Mbogo,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,198,4.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Luke Granto,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,199,4.0,2024
+RIT,GUB,Gallaudet University Bison,2pmi,To Basket,Jaheim Crayton,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,200,1.0,2024
+RIT,GUB,Gallaudet University Bison,3pMa,No Dribble Jumper,Samer Sawan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,201,4.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,2pmi,To Basket,Zac Ditzel,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,202,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,Turnover,To Basket,Cameron Storm,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,204,1.0,2024
+RIT,GUB,Gallaudet University Bison,Turnover,N/A,Jaykuss Figueroa,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,205,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,Turnover,N/A,Mihail Bossev,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,206,1.0,2024
+RIT,GUB,Gallaudet University Bison,And1,To Basket,Jaheim Crayton,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,207,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,Foul,N/A,Zac Ditzel,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,209,1.0,2024
+RIT,GUB,Gallaudet University Bison,2pmi,To Basket,Jaheim Crayton,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,212,1.0,2024
+RIT,GUB,Gallaudet University Bison,2pmi,To Basket,Ta'Zel Jones,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,213,1.0,2024
+RIT,GUB,Gallaudet University Bison,Foul,N/A,Jaykuss Figueroa,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,214,1.0,2024
+RIT,GUB,Rochester Institute of Technology Tigers,Turnover,N/A,Luke Granto,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,216,1.0,2024
+RIT,GUB,Gallaudet University Bison,2pMa,To Basket,Samer Sawan,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,217,1.0,2024

@@ -1,0 +1,5 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Jack Wirtanen,St. Lawrence Saints,3,0,0,,3,0,0.0,0,0,,0.0,0.0,0.0,player_cut_efficiency.csv,,
+Jack Wirtanen,St. Lawrence Saints,3,0,0,,3,0,0.0,0,0,,0.0,0.0,0.0,player_cut_screen_efficiency.csv,,
+Jack Wirtanen,St. Lawrence Saints,1,0,0,,0,0,,0,0,,,1.0,0.0,player_misc_efficiency.csv,,
+Jack Wirtanen,St. Lawrence Saints,6,0,0,,4,1,25.0,0,0,,25.0,1.0,1.0,playerefficiency.csv,,

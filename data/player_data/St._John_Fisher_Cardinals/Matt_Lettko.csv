@@ -1,0 +1,21 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Matt Lettko,St. John Fisher Cardinals,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,player_cut_basket_efficiency.csv,,
+Matt Lettko,St. John Fisher Cardinals,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,player_cut_efficiency.csv,,
+Matt Lettko,St. John Fisher Cardinals,1,0,0,,0,0,,0,0,,,1.0,0.0,player_misc_efficiency.csv,,
+Matt Lettko,St. John Fisher Cardinals,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhright_efficiency.csv,,
+Matt Lettko,St. John Fisher Cardinals,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhright_offpick_efficiency.csv,,
+Matt Lettko,St. John Fisher Cardinals,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_efficiency.csv,,
+Matt Lettko,St. John Fisher Cardinals,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Matt Lettko,St. John Fisher Cardinals,1,0,0,,0,0,,0,0,,,1.0,0.0,player_spotup_drive_efficiency.csv,,
+Matt Lettko,St. John Fisher Cardinals,3,2,0,0.0,0,0,,0,0,,0.0,1.0,0.0,player_spotup_efficiency.csv,,
+Matt Lettko,St. John Fisher Cardinals,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Matt Lettko,St. John Fisher Cardinals,1,0,0,,0,0,,0,0,,,1.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Matt Lettko,St. John Fisher Cardinals,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_transition_bh_efficiency.csv,,
+Matt Lettko,St. John Fisher Cardinals,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_transition_rightwing_efficiency.csv,,
+Matt Lettko,St. John Fisher Cardinals,9,2,0,0.0,4,1,25.0,0,0,,16.66667,3.0,0.0,playerefficiency.csv,,
+Matt Lettko,St. John Fisher Cardinals,1,0,0,,0,0,,0,0,,,1.0,0.0,playerefficiencyleft.csv,,
+Matt Lettko,St. John Fisher Cardinals,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,playerefficiencyright.csv,,
+,St. John Fisher Cardinals,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnr_cut_efficiency.csv,Matt Lettko,Jack Foley
+,St. John Fisher Cardinals,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnrbhright_cuts_efficiency.csv,Matt Lettko,Jack Foley
+,St. John Fisher Cardinals,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Akinlana Popoola,Matt Lettko
+,St. John Fisher Cardinals,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Akinlana Popoola,Matt Lettko

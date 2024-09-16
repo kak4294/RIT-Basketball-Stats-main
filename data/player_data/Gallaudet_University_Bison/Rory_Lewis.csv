@@ -1,0 +1,7 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Rory Lewis,Gallaudet University Bison,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_bhhigh_efficiency.csv,,
+Rory Lewis,Gallaudet University Bison,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Rory Lewis,Gallaudet University Bison,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_efficiency.csv,,
+Rory Lewis,Gallaudet University Bison,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Rory Lewis,Gallaudet University Bison,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Rory Lewis,Gallaudet University Bison,2,1,0,0.0,1,0,0.0,1,0,0.0,0.0,0.0,0.0,playerefficiency.csv,,

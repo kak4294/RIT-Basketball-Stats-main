@@ -1,0 +1,31 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Matt Wiele,Rochester (NY) Yellowjackets,3,0,0,,3,3,100.0,0,0,,100.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,4,0,0,,4,4,100.0,0,0,,100.0,0.0,0.0,player_cut_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_flash_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_top_dribble_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_top_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_leftshoulder_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_rightblock_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_rightblock_leftshoulder_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,3,0,0,,0,0,,0,0,,,1.0,2.0,player_transition_bh_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,13,2,0,0.0,7,6,85.7143,0,0,,66.66667,2.0,2.0,playerefficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,playerefficiencyleft.csv,,
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Matt Wiele,Matt Niemczura
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Matt Wiele,Matt Niemczura
+,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_post_cut_efficiency.csv,Matt Wiele,David Ackles
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Tomiwa Adetosoye,Matt Wiele
+,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_efficiency.csv,Malachi Moore,Matt Wiele
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_pop_efficiency.csv,Tomiwa Adetosoye,Matt Wiele
+,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_pop_efficiency.csv,Malachi Moore,Matt Wiele
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Mitchell Kershner,Matt Wiele
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Tomiwa Adetosoye,Matt Wiele
+,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Malachi Moore,Matt Wiele
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Mitchell Kershner,Matt Wiele
+,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_post_cut_efficiency.csv,C.J. Amsellem,Matt Wiele
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Tomiwa Adetosoye,Matt Wiele
+,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Malachi Moore,Matt Wiele

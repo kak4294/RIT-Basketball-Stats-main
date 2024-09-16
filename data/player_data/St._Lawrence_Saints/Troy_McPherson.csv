@@ -1,0 +1,26 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Troy McPherson,St. Lawrence Saints,3,0,0,,0,0,,0,0,,,3.0,0.0,player_misc_efficiency.csv,,
+Troy McPherson,St. Lawrence Saints,4,0,0,,3,1,33.3333,2,0,0.0,33.33333,1.0,0.0,player_spotup_drive_efficiency.csv,,
+Troy McPherson,St. Lawrence Saints,8,4,1,25.0,3,1,33.3333,2,0,0.0,35.71429,1.0,0.0,player_spotup_efficiency.csv,,
+Troy McPherson,St. Lawrence Saints,4,4,1,25.0,0,0,,0,0,,37.5,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Troy McPherson,St. Lawrence Saints,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Troy McPherson,St. Lawrence Saints,3,0,0,,2,1,50.0,1,0,0.0,50.0,1.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Troy McPherson,St. Lawrence Saints,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_transition_bh_efficiency.csv,,
+Troy McPherson,St. Lawrence Saints,13,4,1,25.0,5,2,40.0,2,0,0.0,38.88889,4.0,0.0,playerefficiency.csv,,
+Troy McPherson,St. Lawrence Saints,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,playerefficiencyleft.csv,,
+Troy McPherson,St. Lawrence Saints,3,0,0,,2,1,50.0,1,0,0.0,50.0,1.0,0.0,playerefficiencyright.csv,,
+,St. Lawrence Saints,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Troy McPherson,Andrew Cowan
+,St. Lawrence Saints,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Troy McPherson,Adam Dudzinski
+,St. Lawrence Saints,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_roll_efficiency.csv,Troy McPherson,Andrew Cowan
+,St. Lawrence Saints,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_slip_efficiency.csv,Troy McPherson,Adam Dudzinski
+,St. Lawrence Saints,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Troy McPherson,Gavin Macaulay
+,St. Lawrence Saints,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Troy McPherson,Carter Storey
+,St. Lawrence Saints,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Troy McPherson,Adam Dudzinski
+,St. Lawrence Saints,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Troy McPherson,Gavin Macaulay
+,St. Lawrence Saints,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Troy McPherson,Carter Storey
+,St. Lawrence Saints,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_rollman_efficiency.csv,Troy McPherson,Andrew Cowan
+,St. Lawrence Saints,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Aiden Macaulay,Troy McPherson
+,St. Lawrence Saints,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupjumper_efficiency.csv,Aiden Macaulay,Troy McPherson
+,St. Lawrence Saints,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Troy McPherson,Gavin Macaulay
+,St. Lawrence Saints,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanslips_efficiency.csv,Troy McPherson,Adam Dudzinski
+,St. Lawrence Saints,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_rollmanrolls_efficiency.csv,Troy McPherson,Andrew Cowan

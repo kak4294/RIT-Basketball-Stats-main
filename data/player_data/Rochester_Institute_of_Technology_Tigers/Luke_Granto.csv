@@ -1,0 +1,44 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Luke Granto,Rochester Institute of Technology Tigers,2,0,0,,2,2,100.0,0,0,,100.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,2,0,0,,2,2,100.0,0,0,,100.0,0.0,0.0,player_cut_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_handoffs_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_handoffs_top_dribble_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_handoffs_top_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,2,1,0,0.0,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_iso_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_iso_right_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_iso_top_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_misc_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_offscreens_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_offscreens_flare_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_offscreens_rightshoulder_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_offscreens_rightshoulder_flare_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_bhhigh_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_bhleft_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_bhleft_offpick_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_pnr_bhright_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_pnr_bhright_offpick_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,3,2,0,0.0,1,1,100.0,0,0,,33.33333,0.0,0.0,player_pnr_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,3,2,0,0.0,1,1,100.0,0,0,,33.33333,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_spotup_drive_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,10,9,0,0.0,0,0,,0,0,,0.0,1.0,0.0,player_spotup_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,9,9,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,3,0,0,,2,1,50.0,0,0,,50.0,1.0,0.0,player_transition_bh_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,5,2,0,0.0,1,0,0.0,0,0,,0.0,2.0,0.0,player_transition_rightwing_efficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,30,16,1,6.25,7,4,57.1429,1,0,0.0,23.91304,7.0,0.0,playerefficiency.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,3,1,0,0.0,0,0,,0,0,,0.0,2.0,0.0,playerefficiencyleft.csv,,
+Luke Granto,Rochester Institute of Technology Tigers,2,0,0,,2,1,50.0,1,0,0.0,50.0,0.0,0.0,playerefficiencyright.csv,,
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Luke Granto,Kenny Wilburn
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_pop_efficiency.csv,Luke Granto,Kenny Wilburn
+,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Luke Granto,Chase Dickens
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Luke Granto,Ronnie Toole
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Luke Granto,Kenny Wilburn
+,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Luke Granto,Chase Dickens
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Luke Granto,Ronnie Toole
+,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_cut_efficiency.csv,Matt Caggiano,Luke Granto
+,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_cuts_efficiency.csv,Matt Caggiano,Luke Granto
+,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnr_spotupdrives_efficiency.csv,Luke Granto,Chase Dickens
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Luke Granto,Kenny Wilburn

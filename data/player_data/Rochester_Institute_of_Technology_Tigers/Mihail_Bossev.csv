@@ -1,0 +1,7 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Mihail Bossev,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_iso_efficiency.csv,,
+Mihail Bossev,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_iso_top_efficiency.csv,,
+Mihail Bossev,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Mihail Bossev,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Mihail Bossev,Rochester Institute of Technology Tigers,2,1,0,0.0,0,0,,0,0,,0.0,1.0,0.0,playerefficiency.csv,,
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Nolan Smih,Mihail Bossev

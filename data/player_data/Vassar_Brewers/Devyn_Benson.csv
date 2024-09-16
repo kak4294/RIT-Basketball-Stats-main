@@ -1,0 +1,12 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Devyn Benson,Vassar Brewers,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Devyn Benson,Vassar Brewers,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_cut_efficiency.csv,,
+Devyn Benson,Vassar Brewers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_misc_efficiency.csv,,
+Devyn Benson,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_efficiency.csv,,
+Devyn Benson,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_leftblock_efficiency.csv,,
+Devyn Benson,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_leftblock_leftshoulder_efficiency.csv,,
+Devyn Benson,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_leftshoulder_efficiency.csv,,
+Devyn Benson,Vassar Brewers,7,0,0,,6,3,50.0,1,0,0.0,50.0,1.0,0.0,playerefficiency.csv,,
+Devyn Benson,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,playerefficiencyleft.csv,,
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_cut_efficiency.csv,Luke Adams,Devyn Benson
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_cuts_efficiency.csv,Luke Adams,Devyn Benson

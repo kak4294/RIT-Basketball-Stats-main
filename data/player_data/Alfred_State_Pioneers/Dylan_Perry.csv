@@ -1,0 +1,35 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Dylan Perry,Alfred State Pioneers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Dylan Perry,Alfred State Pioneers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_efficiency.csv,,
+Dylan Perry,Alfred State Pioneers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_bhleft_dribble_efficiency.csv,,
+Dylan Perry,Alfred State Pioneers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_bhleft_efficiency.csv,,
+Dylan Perry,Alfred State Pioneers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Dylan Perry,Alfred State Pioneers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Dylan Perry,Alfred State Pioneers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_offscreens_efficiency.csv,,
+Dylan Perry,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_flare_efficiency.csv,,
+Dylan Perry,Alfred State Pioneers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_offscreens_leftshoulder_efficiency.csv,,
+Dylan Perry,Alfred State Pioneers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_offscreens_leftshoulder_straight_efficiency.csv,,
+Dylan Perry,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_rightshoulder_efficiency.csv,,
+Dylan Perry,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_rightshoulder_flare_efficiency.csv,,
+Dylan Perry,Alfred State Pioneers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_offscreens_straight_efficiency.csv,,
+Dylan Perry,Alfred State Pioneers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_spotup_drive_efficiency.csv,,
+Dylan Perry,Alfred State Pioneers,3,3,1,33.3333,0,0,,0,0,,50.0,0.0,0.0,player_spotup_efficiency.csv,,
+Dylan Perry,Alfred State Pioneers,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Dylan Perry,Alfred State Pioneers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Dylan Perry,Alfred State Pioneers,7,5,2,40.0,2,1,50.0,0,0,,57.14286,0.0,0.0,playerefficiency.csv,,
+Dylan Perry,Alfred State Pioneers,2,1,0,0.0,1,0,0.0,0,0,,0.0,0.0,0.0,playerefficiencyleft.csv,,
+Dylan Perry,Alfred State Pioneers,2,2,2,100.0,0,0,,0,0,,150.0,0.0,0.0,playerefficiencyright.csv,,
+,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,0.0,1.0,player_rollman_efficiency.csv,Dylan Perry,Cody Schneider
+,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,0.0,1.0,player_rollman_slip_efficiency.csv,Dylan Perry,Cody Schneider
+,Alfred State Pioneers,2,0,0,,2,2,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Dylan Perry,Ryan Rosa
+,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Dylan Perry,Zachary Gilebarto
+,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Dylan Perry,Zy Switzer
+,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Dylan Perry,Cody Schneider
+,Alfred State Pioneers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Dylan Perry,Ryan Rosa
+,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Dylan Perry,Zachary Gilebarto
+,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Dylan Perry,Zy Switzer
+,Alfred State Pioneers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhleft_spotupdrives_efficiency.csv,Dylan Perry,Ryan Rosa
+,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Emmanuel Leftenant,Dylan Perry
+,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Emmanuel Leftenant,Dylan Perry
+,Alfred State Pioneers,2,0,0,,2,2,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Dylan Perry,Ryan Rosa
+,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnrbhhigh_rollmanslips_efficiency.csv,Dylan Perry,Cody Schneider

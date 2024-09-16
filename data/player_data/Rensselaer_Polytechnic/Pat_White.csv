@@ -1,0 +1,16 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Pat White,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,0.0,1.0,player_cut_efficiency.csv,,
+Pat White,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,0.0,1.0,player_cut_flash_efficiency.csv,,
+Pat White,Rensselaer Polytechnic,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Pat White,Rensselaer Polytechnic,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Pat White,Rensselaer Polytechnic,2,1,0,0.0,1,1,100.0,0,0,,50.0,0.0,0.0,player_transition_rightwing_efficiency.csv,,
+Pat White,Rensselaer Polytechnic,6,3,0,0.0,1,1,100.0,0,0,,25.0,1.0,1.0,playerefficiency.csv,,
+Pat White,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,playerefficiencyright.csv,,
+,Rensselaer Polytechnic,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_post_cut_efficiency.csv,Pat White,Yechiel Stewart
+,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_efficiency.csv,Dyland Matchett,Pat White
+,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_pop_efficiency.csv,Dyland Matchett,Pat White
+,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_rightdrive_efficiency.csv,Dyland Matchett,Pat White
+,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_rightdrive_pop_efficiency.csv,Dyland Matchett,Pat White
+,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Dyland Matchett,Pat White
+,Rensselaer Polytechnic,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_post_spotupjumper_efficiency.csv,Jonny Angbazo,Pat White
+,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Dyland Matchett,Pat White

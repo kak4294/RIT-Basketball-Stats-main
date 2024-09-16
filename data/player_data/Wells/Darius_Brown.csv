@@ -1,0 +1,4 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Darius Brown,Wells,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Darius Brown,Wells,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Darius Brown,Wells,2,1,0,0.0,1,1,100.0,0,0,,50.0,0.0,0.0,playerefficiency.csv,,

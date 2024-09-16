@@ -1,0 +1,16 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Maxwell Schneider,St. John Fisher Cardinals,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_pnr_bhhigh_efficiency.csv,,
+Maxwell Schneider,St. John Fisher Cardinals,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Maxwell Schneider,St. John Fisher Cardinals,1,0,0,,0,0,,0,0,,,1.0,0.0,player_pnr_bhright_efficiency.csv,,
+Maxwell Schneider,St. John Fisher Cardinals,1,0,0,,0,0,,0,0,,,1.0,0.0,player_pnr_bhright_offpick_efficiency.csv,,
+Maxwell Schneider,St. John Fisher Cardinals,2,0,0,,1,1,100.0,0,0,,100.0,1.0,0.0,player_pnr_efficiency.csv,,
+Maxwell Schneider,St. John Fisher Cardinals,2,0,0,,1,1,100.0,0,0,,100.0,1.0,0.0,player_pnr_offpick_efficiency.csv,,
+Maxwell Schneider,St. John Fisher Cardinals,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Maxwell Schneider,St. John Fisher Cardinals,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Maxwell Schneider,St. John Fisher Cardinals,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_transition_bh_efficiency.csv,,
+Maxwell Schneider,St. John Fisher Cardinals,4,1,0,0.0,2,2,100.0,0,0,,66.66667,1.0,0.0,playerefficiency.csv,,
+Maxwell Schneider,St. John Fisher Cardinals,1,0,0,,0,0,,0,0,,,1.0,0.0,playerefficiencyright.csv,,
+,St. John Fisher Cardinals,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_rollman_efficiency.csv,Maxwell Schneider,Connor Williams
+,St. John Fisher Cardinals,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_rollman_roll_efficiency.csv,Maxwell Schneider,Connor Williams
+,St. John Fisher Cardinals,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Maxwell Schneider,Connor Williams
+,St. John Fisher Cardinals,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanrolls_efficiency.csv,Maxwell Schneider,Connor Williams

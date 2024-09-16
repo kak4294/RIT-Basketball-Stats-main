@@ -1,0 +1,34 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Aidan Holmes,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_handoffs_bhleft_dribble_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_handoffs_bhleft_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_handoffs_bhright_dribble_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_handoffs_bhright_efficiency.csv,,
+Aidan Holmes,Ithaca College,2,0,0,,2,1,50.0,1,0,0.0,50.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Aidan Holmes,Ithaca College,2,0,0,,2,1,50.0,1,0,0.0,50.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,0,0,,0,0,,0,0,,,0.0,1.0,player_pnr_bhright_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,0,0,,0,0,,0,0,,,0.0,1.0,player_pnr_bhright_offpick_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,0,0,,0,0,,0,0,,,0.0,1.0,player_pnr_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,0,0,,0,0,,0,0,,,0.0,1.0,player_pnr_offpick_efficiency.csv,,
+Aidan Holmes,Ithaca College,2,1,0,0.0,1,1,100.0,1,1,100.0,50.0,0.0,0.0,player_spotup_drive_efficiency.csv,,
+Aidan Holmes,Ithaca College,7,6,1,16.6667,1,1,100.0,1,1,100.0,35.71429,0.0,0.0,player_spotup_efficiency.csv,,
+Aidan Holmes,Ithaca College,5,5,1,20.0,0,0,,0,0,,30.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_spotup_straightdrive_efficiency.csv,,
+Aidan Holmes,Ithaca College,2,0,0,,2,1,50.0,1,0,0.0,50.0,0.0,0.0,player_transition_bh_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Aidan Holmes,Ithaca College,2,1,1,100.0,1,0,0.0,0,0,,75.0,0.0,0.0,player_transition_rightwing_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_transition_trailer_efficiency.csv,,
+Aidan Holmes,Ithaca College,18,7,2,28.5714,10,5,50.0,4,1,25.0,47.05882,0.0,1.0,playerefficiency.csv,,
+Aidan Holmes,Ithaca College,2,1,0,0.0,1,0,0.0,1,0,0.0,0.0,0.0,0.0,playerefficiencyleft.csv,,
+Aidan Holmes,Ithaca College,2,0,0,,1,1,100.0,0,0,,100.0,0.0,1.0,playerefficiencyright.csv,,
+,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Aidan Holmes,Gavin Schauder
+,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_roll_efficiency.csv,Aidan Holmes,Gavin Schauder
+,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_rollman_efficiency.csv,Aidan Holmes,Gavin Schauder
+,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Andrew Geschickter,Aidan Holmes
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Evan Cabral,Aidan Holmes
+,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_pnrbhleft_spotupdrives_efficiency.csv,Andrew Geschickter,Aidan Holmes
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupjumper_efficiency.csv,Evan Cabral,Aidan Holmes
+,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_rollmanrolls_efficiency.csv,Aidan Holmes,Gavin Schauder
+,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Andrew Geschickter,Aidan Holmes

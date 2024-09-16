@@ -1,0 +1,24 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Triston Wennersten,Ithaca College,3,0,0,,3,3,100.0,0,0,,100.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Triston Wennersten,Ithaca College,3,0,0,,3,3,100.0,0,0,,100.0,0.0,0.0,player_cut_efficiency.csv,,
+Triston Wennersten,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_efficiency.csv,,
+Triston Wennersten,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_leftblock_efficiency.csv,,
+Triston Wennersten,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_leftblock_rightshoulder_efficiency.csv,,
+Triston Wennersten,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_rightshoulder_efficiency.csv,,
+Triston Wennersten,Ithaca College,2,0,0,,2,0,0.0,1,0,0.0,0.0,0.0,0.0,player_spotup_drive_efficiency.csv,,
+Triston Wennersten,Ithaca College,2,0,0,,2,0,0.0,1,0,0.0,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Triston Wennersten,Ithaca College,2,0,0,,2,0,0.0,1,0,0.0,0.0,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Triston Wennersten,Ithaca College,3,1,1,100.0,1,0,0.0,0,0,,75.0,0.0,1.0,player_transition_leftwing_efficiency.csv,,
+Triston Wennersten,Ithaca College,1,0,0,,0,0,,0,0,,,0.0,1.0,player_transition_rightwing_efficiency.csv,,
+Triston Wennersten,Ithaca College,16,5,3,60.0,9,5,55.5556,1,0,0.0,67.85714,0.0,2.0,playerefficiency.csv,,
+Triston Wennersten,Ithaca College,3,0,0,,3,1,33.3333,1,0,0.0,33.33333,0.0,0.0,playerefficiencyright.csv,,
+,Ithaca College,3,3,2,66.6667,0,0,,0,0,,100.0,0.0,0.0,player_rollman_efficiency.csv,Logan Wendell,Triston Wennersten
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Evan Cabral,Triston Wennersten
+,Ithaca College,3,3,2,66.6667,0,0,,0,0,,100.0,0.0,0.0,player_rollman_pop_efficiency.csv,Logan Wendell,Triston Wennersten
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_pop_efficiency.csv,Evan Cabral,Triston Wennersten
+,Ithaca College,2,2,2,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Logan Wendell,Triston Wennersten
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Evan Cabral,Triston Wennersten
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_rollman_efficiency.csv,Logan Wendell,Triston Wennersten
+,Ithaca College,2,2,2,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Logan Wendell,Triston Wennersten
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Evan Cabral,Triston Wennersten
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_rollmanpops_efficiency.csv,Logan Wendell,Triston Wennersten

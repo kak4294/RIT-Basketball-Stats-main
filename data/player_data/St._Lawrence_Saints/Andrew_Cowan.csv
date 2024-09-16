@@ -1,0 +1,21 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Andrew Cowan,St. Lawrence Saints,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Andrew Cowan,St. Lawrence Saints,2,0,0,,2,2,100.0,0,0,,100.0,0.0,0.0,player_cut_efficiency.csv,,
+Andrew Cowan,St. Lawrence Saints,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_screen_efficiency.csv,,
+Andrew Cowan,St. Lawrence Saints,4,0,0,,3,1,33.3333,0,0,,33.33333,1.0,0.0,player_post_efficiency.csv,,
+Andrew Cowan,St. Lawrence Saints,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,player_post_leftblock_efficiency.csv,,
+Andrew Cowan,St. Lawrence Saints,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,player_post_leftblock_leftshoulder_efficiency.csv,,
+Andrew Cowan,St. Lawrence Saints,3,0,0,,2,0,0.0,0,0,,0.0,1.0,0.0,player_post_leftshoulder_efficiency.csv,,
+Andrew Cowan,St. Lawrence Saints,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_post_rightblock_efficiency.csv,,
+Andrew Cowan,St. Lawrence Saints,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_rightblock_leftshoulder_efficiency.csv,,
+Andrew Cowan,St. Lawrence Saints,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_rightblock_rightshoulder_efficiency.csv,,
+Andrew Cowan,St. Lawrence Saints,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_rightshoulder_efficiency.csv,,
+Andrew Cowan,St. Lawrence Saints,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_transition_trailer_efficiency.csv,,
+Andrew Cowan,St. Lawrence Saints,15,0,0,,11,6,54.5455,0,0,,54.54545,3.0,1.0,playerefficiency.csv,,
+Andrew Cowan,St. Lawrence Saints,3,0,0,,2,0,0.0,0,0,,0.0,1.0,0.0,playerefficiencyleft.csv,,
+Andrew Cowan,St. Lawrence Saints,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,playerefficiencyright.csv,,
+,St. Lawrence Saints,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_post_spotupjumper_efficiency.csv,Andrew Cowan,Adam Dudzinski
+,St. Lawrence Saints,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Troy McPherson,Andrew Cowan
+,St. Lawrence Saints,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_roll_efficiency.csv,Troy McPherson,Andrew Cowan
+,St. Lawrence Saints,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_rollman_efficiency.csv,Troy McPherson,Andrew Cowan
+,St. Lawrence Saints,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_rollmanrolls_efficiency.csv,Troy McPherson,Andrew Cowan

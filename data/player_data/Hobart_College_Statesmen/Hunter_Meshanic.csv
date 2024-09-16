@@ -1,0 +1,19 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Hunter Meshanic,Hobart College Statesmen,3,0,0,,3,1,33.3333,0,0,,33.33333,0.0,0.0,player_cut_basket_efficiency.csv,,
+Hunter Meshanic,Hobart College Statesmen,4,0,0,,3,1,33.3333,0,0,,33.33333,1.0,0.0,player_cut_efficiency.csv,,
+Hunter Meshanic,Hobart College Statesmen,1,0,0,,0,0,,0,0,,,1.0,0.0,player_cut_screen_efficiency.csv,,
+Hunter Meshanic,Hobart College Statesmen,1,0,0,,0,0,,0,0,,,1.0,0.0,player_misc_efficiency.csv,,
+Hunter Meshanic,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_efficiency.csv,,
+Hunter Meshanic,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_leftshoulder_efficiency.csv,,
+Hunter Meshanic,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_rightblock_efficiency.csv,,
+Hunter Meshanic,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_rightblock_leftshoulder_efficiency.csv,,
+Hunter Meshanic,Hobart College Statesmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Hunter Meshanic,Hobart College Statesmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Hunter Meshanic,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_transition_rightwing_efficiency.csv,,
+Hunter Meshanic,Hobart College Statesmen,11,1,0,0.0,8,4,50.0,0,0,,44.44444,2.0,0.0,playerefficiency.csv,,
+Hunter Meshanic,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,playerefficiencyleft.csv,,
+,Hobart College Statesmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_post_cut_efficiency.csv,Hunter Meshanic,Alex Moesch
+,Hobart College Statesmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_post_spotupjumper_efficiency.csv,Hunter Meshanic,Alex Moesch
+,Hobart College Statesmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_cut_efficiency.csv,Aidan Rodgers,Hunter Meshanic
+,Hobart College Statesmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_cuts_efficiency.csv,Aidan Rodgers,Hunter Meshanic
+,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_iso_cut_efficiency.csv,Aidan Rodgers,Hunter Meshanic

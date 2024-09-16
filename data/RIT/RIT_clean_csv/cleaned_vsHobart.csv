@@ -1,0 +1,158 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+RIT,HOB,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Kenny Wilburn,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,2.0,2024
+RIT,HOB,Hobart College Statesmen,2pMa,To Basket,Isaiah Washington,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,Turnover,N/A,Keegan Ocorr,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Aidan Rodgers,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,2.0,2024
+RIT,HOB,Hobart College Statesmen,2pMa,Drop Step,Carter Meshanic,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,1.0,2024
+RIT,HOB,Hobart College Statesmen,And1,To Basket,Pat Healy,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Keegan Ocorr,PNR,High,Off,Brock Bowen,Spot Ups,N/A,Shot,Liberty League,Liberty League,12,4.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pMa,To Basket,Jackson Otis,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,14,1.0,2024
+RIT,HOB,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,15,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Chase Dickens,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,2.0,2024
+RIT,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Ryan Lucey,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,19,4.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Keegan Ocorr,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,4.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Aidan Rodgers,PNR,Left,Off,Pat Healy,Spot Ups,Left,Drive,Liberty League,Liberty League,21,2.0,2024
+RIT,HOB,Hobart College Statesmen,Turnover,N/A,Ryan Lucey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Kenny Wilburn,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,23,2.0,2024
+RIT,HOB,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Keegan Ocorr,PNR,High,Off,Jackson Otis,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,25,4.0,2024
+RIT,HOB,Hobart College Statesmen,2pMa,To Basket,Pat Healy,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,Foul,To Basket,Brock Bowen,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,27,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,To Basket,Pat Healy,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pMa,To Basket,Pat Healy,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,31,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Brock Bowen,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,2.0,2024
+RIT,HOB,Hobart College Statesmen,Turnover,N/A,Pat Healy,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Kenny Wilburn,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,4.0,2024
+RIT,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Hunter Meshanic,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,35,4.0,2024
+RIT,HOB,Hobart College Statesmen,Foul,To Basket,Carter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,36,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,Turnover,N/A,Brody Brown,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,41,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,Turnover,N/A,Ronnie Toole,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,42,1.0,2024
+RIT,HOB,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,Turnover,N/A,Keegan Ocorr,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,44,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pMa,To Basket,Isaiah Washington,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,45,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,Turnover,N/A,Ronnie Toole,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,46,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,47,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,48,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pMa,To Basket,Dorian Paki,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,51,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,Turnover,N/A,Brody Brown,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,1.0,2024
+RIT,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,4.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Iso,Right,N/A,Keegan Ocorr,Cuts,N/A,Basket,Liberty League,Liberty League,54,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,55,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pMa,To Basket,Keegan Ocorr,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,56,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,57,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,58,1.0,2024
+RIT,HOB,Hobart College Statesmen,Foul,To Basket,Carter Meshanic,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,59,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,2.0,2024
+RIT,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,4.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,Foul,To Basket,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pMa,Dribble Jumper,Alex Moesch,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,2.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brody Brown,PNR,Left,Off,Jackson Otis,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,68,4.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,69,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,70,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,71,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pmi,N/A,Kenny Wilburn,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,74,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,77,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pMa,To Basket,Jackson Otis,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,78,1.0,2024
+RIT,HOB,Hobart College Statesmen,Turnover,N/A,Ryan Lucey,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,Foul,To Basket,Brock Bowen,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,84,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Jackson Otis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,4.0,2024
+RIT,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Carter Meshanic,PNR,Left,Off,Matt Brand,Spot Ups,N/A,Shot,Liberty League,Liberty League,86,4.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,4.0,2024
+RIT,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,PNR,Left,Off,Gabriel Bergeron,Spot Ups,N/A,Shot,Liberty League,Liberty League,88,4.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,4.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pMa,To Basket,Brock Bowen,Off Screens,Right,Curl,N/A,N/A,N/A,N/A,Liberty League,Liberty League,91,1.0,2024
+RIT,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,93,4.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Keegan Ocorr,PNR,High,Off,Brody Brown,Spot Ups,N/A,Shot,Liberty League,Liberty League,94,4.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,To Basket,Matt Brand,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,96,1.0,2024
+RIT,HOB,Hobart College Statesmen,Foul,To Basket,Alex Moesch,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,97,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,Foul,To Basket,Brandon Weiss,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,1.0,2024
+RIT,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,4.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Keegan Ocorr,PNR,High,Off,Brody Brown,Spot Ups,Left,Drive,Liberty League,Liberty League,104,3.0,2024
+RIT,HOB,Hobart College Statesmen,3pmi,Dribble Jumper,Alex Moesch,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,4.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pmi,N/A,Kenny Wilburn,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,106,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Keegan Ocorr,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,108,2.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,Drop Step,Isaiah Washington,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,109,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,Turnover,N/A,Kenny Wilburn,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,110,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pMa,To Basket,Pat Healy,Off Screens,Left,Curl,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,Foul,To Basket,Kenny Wilburn,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pMa,To Basket,Isaiah Washington,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,116,1.0,2024
+RIT,HOB,Hobart College Statesmen,Turnover,N/A,Carter Meshanic,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pMa,To Basket,Ryan Lucey,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pMa,To Basket,Keegan Ocorr,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,120,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pMa,To Basket,Ryan Lucey,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,121,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,PNR,Left,Away,Jackson Otis,Spot Ups,N/A,Shot,Liberty League,Liberty League,122,4.0,2024
+RIT,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Isaiah Washington,Iso,Right,N/A,Ryan Lucey,Spot Ups,N/A,Shot,Liberty League,Liberty League,123,4.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pMa,To Basket,Keegan Ocorr,PNR,High,Off,Kenny Wilburn,Cuts,N/A,Screen,Liberty League,Liberty League,124,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,To Basket,Ryan Lucey,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,126,1.0,2024
+RIT,HOB,Hobart College Statesmen,Foul,Dribble Jumper,Aidan Rodgers,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,2.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Brock Bowen,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,2.0,2024
+RIT,HOB,Hobart College Statesmen,Foul,To Basket,Carter Meshanic,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Chase Dickens,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,136,3.0,2024
+RIT,HOB,Hobart College Statesmen,Turnover,N/A,Pat Healy,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,137,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,Turnover,N/A,Kenny Wilburn,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,138,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,PNR,Left,Off,Isaiah Washington,Spot Ups,Left,Drive,Liberty League,Liberty League,141,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,142,1.0,2024
+RIT,HOB,Hobart College Statesmen,And1,To Basket,Pat Healy,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,143,1.0,2024
+RIT,HOB,Hobart College Statesmen,Turnover,N/A,Isaiah Washington,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,147,4.0,2024
+RIT,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,148,4.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Matt Caggiano,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,150,2.0,2024
+RIT,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,151,4.0,2024
+RIT,HOB,Hobart College Statesmen,2pMa,To Basket,Pat Healy,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,152,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,154,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pMa,To Basket,Ryan Lucey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,156,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Kenny Wilburn,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,157,4.0,2024
+RIT,HOB,Hobart College Statesmen,2pMa,To Basket,Ryan Lucey,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pMa,To Basket,Keegan Ocorr,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,160,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Post,Middle,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pMa,To Basket,Keegan Ocorr,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,162,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,164,1.0,2024
+RIT,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Pat Healy,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,4.0,2024
+RIT,HOB,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,167,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,1.0,2024
+RIT,HOB,Hobart College Statesmen,Turnover,N/A,Isaiah Washington,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,169,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Keegan Ocorr,PNR,High,Off,Brock Bowen,Spot Ups,N/A,Shot,Liberty League,Liberty League,171,4.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Pat Healy,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,172,2.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pMa,To Basket,Brock Bowen,Off Screens,Left,Curl,N/A,N/A,N/A,N/A,Liberty League,Liberty League,174,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,To Basket,Pat Healy,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,175,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pmi,To Basket,Ronnie Toole,PNR,Right,Off,Josiah Turner,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,176,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,Foul,To Basket,Jackson Otis,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,178,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Isaiah Washington,Iso,Right,N/A,Ryan Lucey,Spot Ups,Left,Drive,Liberty League,Liberty League,181,2.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,182,2.0,2024
+RIT,HOB,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,184,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,185,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pMa,To Basket,Ryan Lucey,Iso,Top,N/A,Isaiah Washington,Cuts,N/A,Flash,Liberty League,Liberty League,186,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,Foul,To Basket,Jackson Otis,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,187,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,190,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pmi,To Basket,Brock Bowen,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,192,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,2pmi,To Basket,Brock Bowen,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,193,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,195,4.0,2024
+RIT,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Isaiah Washington,Post,Left,Left Shoulder,Ryan Lucey,Spot Ups,N/A,Shot,Liberty League,Liberty League,196,4.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,Foul,N/A,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,197,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Aidan Rodgers,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,199,2.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,201,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,To Basket,Pat Healy,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,202,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,203,4.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,To Basket,Pat Healy,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,205,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,Foul,N/A,Brock Bowen,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,207,1.0,2024
+RIT,HOB,Hobart College Statesmen,Foul,N/A,Aidan Rodgers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,210,1.0,2024
+RIT,HOB,Rochester Institute of Technology Tigers,Foul,N/A,Brock Bowen,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,213,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,215,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,To Basket,Ryan Lucey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,216,1.0,2024
+RIT,HOB,Hobart College Statesmen,2pmi,To Basket,Ryan Lucey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,217,1.0,2024

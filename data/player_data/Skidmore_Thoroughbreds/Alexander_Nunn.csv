@@ -1,0 +1,2 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Alexander Nunn,Skidmore Thoroughbreds,1,0,0,,0,0,,0,0,,,1.0,0.0,playerefficiency.csv,,

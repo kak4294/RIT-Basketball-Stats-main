@@ -1,0 +1,29 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,1.0,0.0,player_misc_efficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,4,0,0,,4,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhhigh_efficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,3,0,0,,3,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhhigh_rejectpick_efficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_pnr_bhright_efficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_pnr_bhright_offpick_efficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,5,0,0,,5,1,20.0,0,0,,20.0,0.0,0.0,player_pnr_efficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,4,0,0,,4,1,25.0,0,0,,25.0,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_rejectpick_efficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,2,0,0,,0,0,,0,0,,,2.0,0.0,player_transition_bh_efficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,,,player_transition_leakouts_efficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,11,1,0,0.0,7,3,42.8571,0,0,,37.5,3.0,0.0,playerefficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,playerefficiencyright.csv,,
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Tomiwa Adetosoye,Matt Wiele
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_pop_efficiency.csv,Tomiwa Adetosoye,Matt Wiele
+,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Tomiwa Adetosoye,Corvin Oprea
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Tomiwa Adetosoye,Malachi Moore
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Tomiwa Adetosoye,Logan Jagodzinski
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Tomiwa Adetosoye,Matt Niemczura
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Tomiwa Adetosoye,Matt Wiele
+,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Tomiwa Adetosoye,Corvin Oprea
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Tomiwa Adetosoye,Matt Niemczura
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupjumper_efficiency.csv,Tomiwa Adetosoye,Logan Jagodzinski
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupjumper_efficiency.csv,Tomiwa Adetosoye,Malachi Moore
+,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Tomiwa Adetosoye,Corvin Oprea
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Tomiwa Adetosoye,Matt Wiele

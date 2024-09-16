@@ -1,0 +1,25 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Andrew Deppe,Rensselaer Polytechnic,2,0,0,,0,0,,0,0,,,1.0,1.0,player_cut_basket_efficiency.csv,,
+Andrew Deppe,Rensselaer Polytechnic,2,0,0,,0,0,,0,0,,,1.0,1.0,player_cut_efficiency.csv,,
+Andrew Deppe,Rensselaer Polytechnic,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_efficiency.csv,,
+Andrew Deppe,Rensselaer Polytechnic,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_leftblock_efficiency.csv,,
+Andrew Deppe,Rensselaer Polytechnic,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_leftblock_rightshoulder_efficiency.csv,,
+Andrew Deppe,Rensselaer Polytechnic,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_rightshoulder_efficiency.csv,,
+Andrew Deppe,Rensselaer Polytechnic,1,0,0,,1,1,100.0,0,0,,100.0,,,player_transition_leakouts_efficiency.csv,,
+Andrew Deppe,Rensselaer Polytechnic,2,1,1,100.0,1,1,100.0,0,0,,125.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Andrew Deppe,Rensselaer Polytechnic,11,1,1,100.0,7,3,42.8571,1,1,100.0,56.25,2.0,1.0,playerefficiency.csv,,
+Andrew Deppe,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,playerefficiencyleft.csv,,
+Andrew Deppe,Rensselaer Polytechnic,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,playerefficiencyright.csv,,
+,Rensselaer Polytechnic,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_post_cut_efficiency.csv,Andrew Deppe,Avery Eugster
+,Rensselaer Polytechnic,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_post_spotupjumper_efficiency.csv,Andrew Deppe,PJ Scalisi
+,Rensselaer Polytechnic,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,PJ Scalisi,Andrew Deppe
+,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_efficiency.csv,Dyland Matchett,Andrew Deppe
+,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_leftdrive_efficiency.csv,Dyland Matchett,Andrew Deppe
+,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_leftdrive_pop_efficiency.csv,Dyland Matchett,Andrew Deppe
+,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_pop_efficiency.csv,Dyland Matchett,Andrew Deppe
+,Rensselaer Polytechnic,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_roll_efficiency.csv,PJ Scalisi,Andrew Deppe
+,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Dyland Matchett,Andrew Deppe
+,Rensselaer Polytechnic,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_rollman_efficiency.csv,PJ Scalisi,Andrew Deppe
+,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_post_cut_efficiency.csv,Jonny Angbazo,Andrew Deppe
+,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Dyland Matchett,Andrew Deppe
+,Rensselaer Polytechnic,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_rollmanrolls_efficiency.csv,PJ Scalisi,Andrew Deppe

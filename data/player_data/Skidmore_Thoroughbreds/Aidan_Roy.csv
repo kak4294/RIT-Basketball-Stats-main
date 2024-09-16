@@ -1,0 +1,36 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Aidan Roy,Skidmore Thoroughbreds,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Aidan Roy,Skidmore Thoroughbreds,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_cut_efficiency.csv,,
+Aidan Roy,Skidmore Thoroughbreds,2,0,0,,1,0,0.0,1,0,0.0,0.0,1.0,0.0,player_handoffs_bhright_dribble_efficiency.csv,,
+Aidan Roy,Skidmore Thoroughbreds,2,0,0,,1,0,0.0,1,0,0.0,0.0,1.0,0.0,player_handoffs_bhright_efficiency.csv,,
+Aidan Roy,Skidmore Thoroughbreds,2,0,0,,1,0,0.0,1,0,0.0,0.0,1.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Aidan Roy,Skidmore Thoroughbreds,2,0,0,,1,0,0.0,1,0,0.0,0.0,1.0,0.0,player_handoffs_efficiency.csv,,
+Aidan Roy,Skidmore Thoroughbreds,4,0,0,,0,0,,0,0,,,1.0,3.0,player_misc_efficiency.csv,,
+Aidan Roy,Skidmore Thoroughbreds,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhleft_efficiency.csv,,
+Aidan Roy,Skidmore Thoroughbreds,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhleft_offpick_efficiency.csv,,
+Aidan Roy,Skidmore Thoroughbreds,2,0,0,,2,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhright_efficiency.csv,,
+Aidan Roy,Skidmore Thoroughbreds,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhright_offpick_efficiency.csv,,
+Aidan Roy,Skidmore Thoroughbreds,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhright_rejectpick_efficiency.csv,,
+Aidan Roy,Skidmore Thoroughbreds,3,0,0,,3,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_efficiency.csv,,
+Aidan Roy,Skidmore Thoroughbreds,2,0,0,,2,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Aidan Roy,Skidmore Thoroughbreds,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_rejectpick_efficiency.csv,,
+Aidan Roy,Skidmore Thoroughbreds,4,2,1,50.0,1,0,0.0,0,0,,50.0,1.0,0.0,player_spotup_drive_efficiency.csv,,
+Aidan Roy,Skidmore Thoroughbreds,10,8,3,37.5,1,0,0.0,0,0,,50.0,1.0,0.0,player_spotup_efficiency.csv,,
+Aidan Roy,Skidmore Thoroughbreds,6,6,2,33.3333,0,0,,0,0,,50.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Aidan Roy,Skidmore Thoroughbreds,2,1,1,100.0,0,0,,0,0,,150.0,1.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Aidan Roy,Skidmore Thoroughbreds,2,1,0,0.0,1,0,0.0,0,0,,0.0,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Aidan Roy,Skidmore Thoroughbreds,5,3,1,33.3333,0,0,,0,0,,50.0,1.0,1.0,player_transition_bh_efficiency.csv,,
+Aidan Roy,Skidmore Thoroughbreds,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Aidan Roy,Skidmore Thoroughbreds,1,0,0,,0,0,,0,0,,,1.0,0.0,player_transition_rightwing_efficiency.csv,,
+Aidan Roy,Skidmore Thoroughbreds,29,11,4,36.3636,8,2,25.0,1,0,0.0,42.10526,5.0,5.0,playerefficiency.csv,,
+Aidan Roy,Skidmore Thoroughbreds,3,1,1,100.0,1,0,0.0,0,0,,75.0,1.0,0.0,playerefficiencyleft.csv,,
+Aidan Roy,Skidmore Thoroughbreds,6,1,0,0.0,4,0,0.0,1,0,0.0,0.0,1.0,0.0,playerefficiencyright.csv,,
+,Skidmore Thoroughbreds,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Aidan Roy,Joey Skoric
+,Skidmore Thoroughbreds,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Aidan Roy,Jake Walsh
+,Skidmore Thoroughbreds,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Aidan Roy,Joey Skoric
+,Skidmore Thoroughbreds,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Aidan Roy,Jake Walsh
+,Skidmore Thoroughbreds,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Hakeem Daphnis,Aidan Roy
+,Skidmore Thoroughbreds,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Nick Padilla,Aidan Roy
+,Skidmore Thoroughbreds,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Hakeem Daphnis,Aidan Roy
+,Skidmore Thoroughbreds,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Nick Padilla,Aidan Roy
+,Skidmore Thoroughbreds,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnr_spotupdrives_efficiency.csv,Aidan Roy,Joey Skoric

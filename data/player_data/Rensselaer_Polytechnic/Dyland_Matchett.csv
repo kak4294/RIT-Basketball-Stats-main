@@ -1,0 +1,59 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Dyland Matchett,Rensselaer Polytechnic,2,0,0,,1,1,100.0,0,0,,100.0,1.0,0.0,player_cut_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_flash_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,player_cut_screen_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_handoffs_bhleft_dribble_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,2,0,0,,2,0,0.0,1,0,0.0,0.0,0.0,0.0,player_handoffs_bhleft_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_bhleft_stationary_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,2,0,0,,2,0,0.0,1,0,0.0,0.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_stationary_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,player_iso_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,player_iso_top_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,0.0,1.0,player_misc_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_flare_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_rightshoulder_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_rightshoulder_flare_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_bhhigh_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_bhleft_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_pnr_bhright_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_pnr_bhright_rejectpick_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,3,2,0,0.0,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_pnr_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_pnr_rejectpick_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_rightblock_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_rightblock_rightshoulder_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_rightshoulder_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,2,0,0,,2,0,0.0,2,0,0.0,0.0,0.0,0.0,player_spotup_drive_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,10,8,2,25.0,2,0,0.0,2,0,0.0,30.0,0.0,0.0,player_spotup_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,8,8,2,25.0,0,0,,0,0,,37.5,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,2,0,0,,2,0,0.0,2,0,0.0,0.0,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,3,0,0,,2,1,50.0,0,0,,50.0,1.0,0.0,player_transition_bh_efficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,25,11,2,18.1818,9,3,33.3333,4,0,0.0,30.0,3.0,2.0,playerefficiency.csv,,
+Dyland Matchett,Rensselaer Polytechnic,4,2,0,0.0,2,0,0.0,1,0,0.0,0.0,0.0,0.0,playerefficiencyleft.csv,,
+Dyland Matchett,Rensselaer Polytechnic,4,0,0,,4,1,25.0,3,0,0.0,25.0,0.0,0.0,playerefficiencyright.csv,,
+,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_efficiency.csv,Dyland Matchett,Pat White
+,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_efficiency.csv,Dyland Matchett,Andrew Deppe
+,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_leftdrive_efficiency.csv,Dyland Matchett,Andrew Deppe
+,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_leftdrive_pop_efficiency.csv,Dyland Matchett,Andrew Deppe
+,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_pop_efficiency.csv,Dyland Matchett,Pat White
+,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_pop_efficiency.csv,Dyland Matchett,Andrew Deppe
+,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_rightdrive_efficiency.csv,Dyland Matchett,Pat White
+,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_rightdrive_pop_efficiency.csv,Dyland Matchett,Pat White
+,Rensselaer Polytechnic,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Dyland Matchett,Ben Eugster
+,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Dyland Matchett,Pat White
+,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Dyland Matchett,Andrew Deppe
+,Rensselaer Polytechnic,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupdrives_efficiency.csv,Dyland Matchett,Ben Eugster
+,Rensselaer Polytechnic,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Jonny Angbazo,Dyland Matchett
+,Rensselaer Polytechnic,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Avery Eugster,Dyland Matchett
+,Rensselaer Polytechnic,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Yechiel Stewart,Dyland Matchett
+,Rensselaer Polytechnic,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Jonny Angbazo,Dyland Matchett
+,Rensselaer Polytechnic,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Avery Eugster,Dyland Matchett
+,Rensselaer Polytechnic,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Yechiel Stewart,Dyland Matchett
+,Rensselaer Polytechnic,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Dyland Matchett,Avery Eugster
+,Rensselaer Polytechnic,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Dyland Matchett,Ben Eugster
+,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Dyland Matchett,Pat White
+,Rensselaer Polytechnic,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Dyland Matchett,Andrew Deppe

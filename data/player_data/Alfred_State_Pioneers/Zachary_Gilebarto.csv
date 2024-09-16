@@ -1,0 +1,10 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Zachary Gilebarto,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_drive_efficiency.csv,,
+Zachary Gilebarto,Alfred State Pioneers,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Zachary Gilebarto,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Zachary Gilebarto,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Zachary Gilebarto,Alfred State Pioneers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_transition_rightwing_efficiency.csv,,
+Zachary Gilebarto,Alfred State Pioneers,3,2,0,0.0,1,1,100.0,0,0,,33.33333,0.0,0.0,playerefficiency.csv,,
+Zachary Gilebarto,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,playerefficiencyleft.csv,,
+,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Dylan Perry,Zachary Gilebarto
+,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Dylan Perry,Zachary Gilebarto

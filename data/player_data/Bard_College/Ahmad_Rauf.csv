@@ -1,0 +1,7 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Ahmad Rauf,Bard College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhright_efficiency.csv,,
+Ahmad Rauf,Bard College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhright_offpick_efficiency.csv,,
+Ahmad Rauf,Bard College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_efficiency.csv,,
+Ahmad Rauf,Bard College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Ahmad Rauf,Bard College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,playerefficiency.csv,,
+Ahmad Rauf,Bard College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,playerefficiencyright.csv,,

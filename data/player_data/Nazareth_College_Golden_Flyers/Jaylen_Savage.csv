@@ -1,0 +1,31 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Jaylen Savage,Nazareth College Golden Flyers,2,0,0,,2,1,50.0,2,1,50.0,50.0,0.0,0.0,player_handoffs_bhright_dribble_efficiency.csv,,
+Jaylen Savage,Nazareth College Golden Flyers,2,0,0,,2,1,50.0,2,1,50.0,50.0,0.0,0.0,player_handoffs_bhright_efficiency.csv,,
+Jaylen Savage,Nazareth College Golden Flyers,2,0,0,,2,1,50.0,2,1,50.0,50.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Jaylen Savage,Nazareth College Golden Flyers,2,0,0,,2,1,50.0,2,1,50.0,50.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Jaylen Savage,Nazareth College Golden Flyers,3,0,0,,3,2,66.6667,0,0,,66.66667,0.0,0.0,player_iso_efficiency.csv,,
+Jaylen Savage,Nazareth College Golden Flyers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_iso_left_efficiency.csv,,
+Jaylen Savage,Nazareth College Golden Flyers,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_iso_right_efficiency.csv,,
+Jaylen Savage,Nazareth College Golden Flyers,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_misc_efficiency.csv,,
+Jaylen Savage,Nazareth College Golden Flyers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_pnr_bhhigh_efficiency.csv,,
+Jaylen Savage,Nazareth College Golden Flyers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Jaylen Savage,Nazareth College Golden Flyers,3,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,2.0,player_pnr_bhright_efficiency.csv,,
+Jaylen Savage,Nazareth College Golden Flyers,3,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,2.0,player_pnr_bhright_offpick_efficiency.csv,,
+Jaylen Savage,Nazareth College Golden Flyers,4,0,0,,1,0,0.0,1,0,0.0,0.0,1.0,2.0,player_pnr_efficiency.csv,,
+Jaylen Savage,Nazareth College Golden Flyers,4,0,0,,1,0,0.0,1,0,0.0,0.0,1.0,2.0,player_pnr_offpick_efficiency.csv,,
+Jaylen Savage,Nazareth College Golden Flyers,3,0,0,,1,0,0.0,0,0,,0.0,1.0,1.0,player_spotup_drive_efficiency.csv,,
+Jaylen Savage,Nazareth College Golden Flyers,4,1,0,0.0,1,0,0.0,0,0,,0.0,1.0,1.0,player_spotup_efficiency.csv,,
+Jaylen Savage,Nazareth College Golden Flyers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Jaylen Savage,Nazareth College Golden Flyers,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Jaylen Savage,Nazareth College Golden Flyers,1,0,0,,0,0,,0,0,,,0.0,1.0,player_spotup_rightdrive_efficiency.csv,,
+Jaylen Savage,Nazareth College Golden Flyers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_transition_bh_efficiency.csv,,
+Jaylen Savage,Nazareth College Golden Flyers,18,1,0,0.0,11,4,36.3636,4,1,25.0,33.33333,3.0,3.0,playerefficiency.csv,,
+Jaylen Savage,Nazareth College Golden Flyers,3,0,0,,2,1,50.0,0,0,,50.0,1.0,0.0,playerefficiencyleft.csv,,
+Jaylen Savage,Nazareth College Golden Flyers,8,0,0,,5,2,40.0,3,1,33.3333,40.0,0.0,3.0,playerefficiencyright.csv,,
+,Nazareth College Golden Flyers,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnr_cut_efficiency.csv,Jaylen Savage,Logan Blankenberg
+,Nazareth College Golden Flyers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Jaylen Savage,Tyler Putney
+,Nazareth College Golden Flyers,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnrbhright_cuts_efficiency.csv,Jaylen Savage,Logan Blankenberg
+,Nazareth College Golden Flyers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Jaylen Savage,Tyler Putney
+,Nazareth College Golden Flyers,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Luke Insley,Jaylen Savage
+,Nazareth College Golden Flyers,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhright_spotupdrives_efficiency.csv,Luke Insley,Jaylen Savage
+,Nazareth College Golden Flyers,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Luke Insley,Jaylen Savage

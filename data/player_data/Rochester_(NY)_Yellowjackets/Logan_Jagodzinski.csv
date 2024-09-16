@@ -1,0 +1,37 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Logan Jagodzinski,Rochester (NY) Yellowjackets,3,0,0,,3,3,100.0,0,0,,100.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,3,0,0,,3,3,100.0,0,0,,100.0,0.0,0.0,player_cut_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_iso_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_iso_top_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,2,0,0,,0,0,,0,0,,,2.0,0.0,player_misc_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,3,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_flare_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,3,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_leftshoulder_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,0.0,0.0,player_offscreens_leftshoulder_straight_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,0.0,0.0,player_offscreens_straight_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_pnr_bhhigh_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_pnr_bhleft_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhright_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhright_offpick_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,3,2,2,100.0,1,0,0.0,0,0,,100.0,0.0,0.0,player_pnr_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,2,1,1,100.0,1,0,0.0,0,0,,75.0,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,2,0,0,,2,0,0.0,0,0,,0.0,0.0,0.0,player_spotup_drive_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,4,2,0,0.0,2,0,0.0,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,2,0,0,,2,0,0.0,0,0,,0.0,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,3,0,0,,2,2,100.0,1,1,100.0,100.0,1.0,0.0,player_transition_bh_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,2,1,1,100.0,1,1,100.0,1,1,100.0,125.0,0.0,0.0,player_transition_rightwing_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,23,7,3,42.8571,12,8,66.6667,3,2,66.6667,65.78947,3.0,0.0,playerefficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,playerefficiencyleft.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,6,2,0,0.0,3,0,0.0,0,0,,0.0,0.0,0.0,playerefficiencyright.csv,,
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Logan Jagodzinski,Corvin Oprea
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Logan Jagodzinski,Corvin Oprea
+,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_cut_efficiency.csv,Jack Garside,Logan Jagodzinski
+,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Jack Garside,Logan Jagodzinski
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Tomiwa Adetosoye,Logan Jagodzinski
+,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_cuts_efficiency.csv,Jack Garside,Logan Jagodzinski
+,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Jack Garside,Logan Jagodzinski
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupjumper_efficiency.csv,Tomiwa Adetosoye,Logan Jagodzinski
+,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_post_cut_efficiency.csv,C.J. Amsellem,Logan Jagodzinski
+,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Jack Garside,Logan Jagodzinski

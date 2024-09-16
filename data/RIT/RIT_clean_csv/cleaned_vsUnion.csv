@@ -1,0 +1,158 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+RIT,UNY,Rochester Institute of Technology Tigers,Foul,To Basket,Brock Bowen,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pMa,Dribble Jumper,Jack Plesser,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,2.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pmi,To Basket,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pMa,To Basket,Edward Baptiste,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pMa,To Basket,Keegan Ocorr,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,Turnover,To Basket,Connor Cepiel,PNR,High,Off,Jack Plesser,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,9,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pmi,Hook Shot,Jackson Otis,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pmi,No Dribble Jumper,Tanner Tedesco,PNR,Right,Off,Jack Plesser,Spot Ups,N/A,Shot,Liberty League,Liberty League,11,3.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Chase Dickens,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,Foul,To Basket,Jack Plesser,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,3pMa,No Dribble Jumper,Connor Cepiel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,4.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,Turnover,N/A,Luke Mcgarrity,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,19,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,3pmi,No Dribble Jumper,Luke Mcgarrity,PNR,Left,Off,Connor Cepiel,Spot Ups,N/A,Shot,Liberty League,Liberty League,21,4.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,PNR,Left,Off,Keegan Ocorr,Spot Ups,N/A,Shot,Liberty League,Liberty League,22,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pMa,To Basket,Christian Dufort,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,23,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pMa,To Basket,Jack Plesser,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,25,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Brock Bowen,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,2.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pmi,Dribble Jumper,Tanner Tedesco,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,27,2.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,28,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,3pmi,No Dribble Jumper,Luke Mcgarrity,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,29,4.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pMa,Dribble Jumper,Brock Bowen,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,3pMa,No Dribble Jumper,Tanner Tedesco,PNR,High,Off,Christian Dufort,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,31,4.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,And1,To Basket,Brock Bowen,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pmi,To Basket,Matthew Garside,PNR,Right,Off,Christian Dufort,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,34,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,3pmi,No Dribble Jumper,Connor Cepiel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,36,4.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pMa,To Basket,Zac Ditzel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,37,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pMa,Dribble Jumper,Matthew Garside,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,38,2.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,3pmi,No Dribble Jumper,Christian Dufort,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,4.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Mark Osime,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,41,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pmi,Drop Step,Aren Cummings,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,42,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,Turnover,N/A,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,44,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Matt Caggiano,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,45,2.0,2024
+RIT,UNY,Union (NY) Dutchmen,3pmi,Dribble Jumper,Tanner Tedesco,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,46,4.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,47,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,Turnover,N/A,Christian Dufort,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,48,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pMa,Dribble Jumper,Chase Dickens,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pMa,To Basket,Christian Dufort,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Mark Osime,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,51,3.0,2024
+RIT,UNY,Union (NY) Dutchmen,3pmi,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,Turnover,N/A,Connor Cepiel,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,55,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Zac Ditzel,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,56,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pMa,To Basket,Tanner Tedesco,PNR,High,Off,Aren Cummings,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,57,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Nolan Smih,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,58,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,3pmi,No Dribble Jumper,Christian Dufort,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,59,4.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Mark Osime,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pMa,To Basket,Aren Cummings,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,61,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pmi,To Basket,Zac Ditzel,PNR,Right,Off,Chase Dickens,Spot Ups,Right,Drive,Liberty League,Liberty League,62,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,Foul,To Basket,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pMa,To Basket,Keegan Ocorr,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pmi,To Basket,Tanner Tedesco,PNR,High,Off,Aren Cummings,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,67,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,68,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,3pmi,No Dribble Jumper,Connor Cepiel,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,69,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pMa,To Basket,Tanner Tedesco,PNR,High,Away,Jack Plesser,Cuts,N/A,Basket,Liberty League,Liberty League,71,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,Turnover,N/A,Keegan Ocorr,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,3pMa,No Dribble Jumper,Brendan Reid,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,4.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pMa,Dribble Jumper,Keegan Ocorr,PNR,High,N/A,Mark Osime,Spot Ups,Right,Drive,Liberty League,Liberty League,74,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,3pmi,No Dribble Jumper,Luke Mcgarrity,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,76,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pmi,To Basket,Jack Plesser,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,78,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,Foul,N/A,Tanner Tedesco,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,82,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,Foul,N/A,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,86,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pmi,Dribble Jumper,Tanner Tedesco,PNR,High,Off,Connor Cepiel,Spot Ups,Right,Drive,Liberty League,Liberty League,90,2.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pMa,To Basket,Brendan Reid,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,92,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Brock Bowen,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,93,2.0,2024
+RIT,UNY,Union (NY) Dutchmen,And1,To Basket,Brendan Reid,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,94,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,96,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,3pMa,No Dribble Jumper,Matthew Garside,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,97,4.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,4.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pmi,To Basket,Tanner Tedesco,PNR,High,Off,Edward Baptiste,Cuts,N/A,Flash,Liberty League,Liberty League,102,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Jackson Otis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pmi,To Basket,Edward Baptiste,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,4.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,107,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pmi,To Basket,Tanner Tedesco,PNR,Left,Off,Luke Mcgarrity,Spot Ups,Right,Drive,Liberty League,Liberty League,108,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,And1,To Basket,Luke Mcgarrity,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,109,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,Foul,To Basket,Brock Bowen,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pMa,Dribble Jumper,Tanner Tedesco,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,114,2.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pMa,To Basket,Zac Ditzel,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,3pMa,No Dribble Jumper,Luke Mcgarrity,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,4.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Post,Left,Face Up,Chase Dickens,Spot Ups,Right,Drive,Liberty League,Liberty League,120,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pmi,To Basket,Tanner Tedesco,PNR,High,Off,Aren Cummings,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,121,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Josiah Turner,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pmi,To Basket,Tanner Tedesco,PNR,High,Off,Edward Baptiste,Cuts,N/A,Flash,Liberty League,Liberty League,123,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,PNR,High,Off,Josiah Turner,P&R Roll Man,Right,Pop,Liberty League,Liberty League,125,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pMa,To Basket,Luke Mcgarrity,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,127,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,Foul,To Basket,Chase Dickens,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pmi,To Basket,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,Foul,To Basket,Matt Caggiano,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,3pmi,Dribble Jumper,Connor Cepiel,PNR,High,Off,Tanner Tedesco,Spot Ups,Left,Drive,Liberty League,Liberty League,135,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pMa,To Basket,Christian Dufort,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,136,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,137,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pMa,To Basket,Aren Cummings,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,138,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Matt Caggiano,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,2.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pMa,To Basket,Connor Cepiel,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,Foul,To Basket,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pMa,To Basket,Tanner Tedesco,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,144,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Matt Caggiano,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,145,2.0,2024
+RIT,UNY,Union (NY) Dutchmen,Foul,To Basket,Tanner Tedesco,PNR,High,Off,Christian Dufort,P&R Roll Man,Right,Pop,Liberty League,Liberty League,146,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Mark Osime,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pMa,Dribble Jumper,Tanner Tedesco,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,150,3.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,Foul,To Basket,Matt Caggiano,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,152,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,Turnover,To Basket,Aren Cummings,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,156,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,3pMa,No Dribble Jumper,Tanner Tedesco,PNR,High,Off,Connor Cepiel,Spot Ups,N/A,Shot,Liberty League,Liberty League,157,4.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pMa,Dribble Jumper,Brock Bowen,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,158,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,Turnover,N/A,Tanner Tedesco,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,160,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Josiah Turner,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,162,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,3pmi,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,163,4.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,164,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,3pmi,No Dribble Jumper,Christian Dufort,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,165,4.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Mark Osime,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,Foul,To Basket,Christian Dufort,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,167,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,And1,To Basket,Matt Caggiano,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,170,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,3pmi,No Dribble Jumper,Tanner Tedesco,PNR,High,Off,Matthew Garside,Spot Ups,N/A,Shot,Liberty League,Liberty League,173,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,3pMa,No Dribble Jumper,Tanner Tedesco,PNR,High,Off,Brendan Reid,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,175,4.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,176,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,Turnover,N/A,Matthew Garside,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,Foul,To Basket,Mark Osime,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,178,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pMa,To Basket,Christian Dufort,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pMa,To Basket,Mark Osime,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,182,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,Turnover,To Basket,Brendan Reid,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,183,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Brock Bowen,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,184,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pmi,To Basket,Tanner Tedesco,PNR,High,Off,Christian Dufort,Cuts,N/A,Flash,Liberty League,Liberty League,185,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,Foul,To Basket,Brendan Reid,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,186,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Josiah Turner,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,190,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,Turnover,To Basket,Tanner Tedesco,PNR,High,Off,Aren Cummings,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,192,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pMa,Dribble Jumper,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,193,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,2pMa,To Basket,Aren Cummings,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,194,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,PNR,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,195,4.0,2024
+RIT,UNY,Union (NY) Dutchmen,Turnover,N/A,Tanner Tedesco,PNR,Left,Off,Christian Dufort,Spot Ups,Left,Drive,Liberty League,Liberty League,196,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pMa,To Basket,Keegan Ocorr,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,197,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,3pMa,No Dribble Jumper,Christian Dufort,PNR,Left,Off,Connor Cepiel,Spot Ups,N/A,Shot,Liberty League,Liberty League,199,4.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,200,1.0,2024
+RIT,UNY,,Foul,N/A,Connor Cepiel,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,203,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,206,1.0,2024
+RIT,UNY,Union (NY) Dutchmen,Turnover,N/A,Christian Dufort,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,207,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,208,4.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,209,1.0,2024
+RIT,UNY,,Foul,N/A,Matthew Garside,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,210,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,213,1.0,2024
+RIT,UNY,,Foul,N/A,Matthew Garside,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,214,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,217,4.0,2024
+RIT,UNY,,Foul,N/A,Christian Dufort,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,218,1.0,2024
+RIT,UNY,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Brock Bowen,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,221,4.0,2024

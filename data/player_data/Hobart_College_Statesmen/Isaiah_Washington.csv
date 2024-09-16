@@ -1,0 +1,33 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Isaiah Washington,Hobart College Statesmen,2,0,0,,0,0,,0,0,,,0.0,2.0,player_cut_basket_efficiency.csv,,
+Isaiah Washington,Hobart College Statesmen,3,0,0,,1,1,100.0,0,0,,100.0,0.0,2.0,player_cut_efficiency.csv,,
+Isaiah Washington,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_screen_efficiency.csv,,
+Isaiah Washington,Hobart College Statesmen,9,0,0,,7,5,71.4286,3,1,33.3333,71.42857,1.0,1.0,player_iso_efficiency.csv,,
+Isaiah Washington,Hobart College Statesmen,2,0,0,,2,2,100.0,0,0,,100.0,0.0,0.0,player_iso_left_efficiency.csv,,
+Isaiah Washington,Hobart College Statesmen,5,0,0,,3,2,66.6667,1,0,0.0,66.66667,1.0,1.0,player_iso_right_efficiency.csv,,
+Isaiah Washington,Hobart College Statesmen,2,0,0,,2,1,50.0,2,1,50.0,50.0,0.0,0.0,player_iso_top_efficiency.csv,,
+Isaiah Washington,Hobart College Statesmen,2,0,0,,1,1,100.0,0,0,,100.0,1.0,0.0,player_misc_efficiency.csv,,
+Isaiah Washington,Hobart College Statesmen,2,0,0,,2,0,0.0,0,0,,0.0,0.0,0.0,player_post_efficiency.csv,,
+Isaiah Washington,Hobart College Statesmen,2,0,0,,2,0,0.0,0,0,,0.0,0.0,0.0,player_post_leftblock_efficiency.csv,,
+Isaiah Washington,Hobart College Statesmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_leftblock_leftshoulder_efficiency.csv,,
+Isaiah Washington,Hobart College Statesmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_leftblock_rightshoulder_efficiency.csv,,
+Isaiah Washington,Hobart College Statesmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_leftshoulder_efficiency.csv,,
+Isaiah Washington,Hobart College Statesmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_rightshoulder_efficiency.csv,,
+Isaiah Washington,Hobart College Statesmen,3,0,0,,2,1,50.0,0,0,,50.0,1.0,0.0,player_spotup_drive_efficiency.csv,,
+Isaiah Washington,Hobart College Statesmen,6,3,1,33.3333,2,1,50.0,0,0,,50.0,1.0,0.0,player_spotup_efficiency.csv,,
+Isaiah Washington,Hobart College Statesmen,3,3,1,33.3333,0,0,,0,0,,50.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Isaiah Washington,Hobart College Statesmen,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Isaiah Washington,Hobart College Statesmen,1,0,0,,0,0,,0,0,,,1.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Isaiah Washington,Hobart College Statesmen,2,1,0,0.0,1,1,100.0,0,0,,50.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Isaiah Washington,Hobart College Statesmen,1,0,0,,0,0,,0,0,,,1.0,0.0,player_transition_rightwing_efficiency.csv,,
+Isaiah Washington,Hobart College Statesmen,25,4,1,25.0,14,9,64.2857,3,1,33.3333,58.33333,4.0,3.0,playerefficiency.csv,,
+Isaiah Washington,Hobart College Statesmen,5,0,0,,5,3,60.0,0,0,,60.0,0.0,0.0,playerefficiencyleft.csv,,
+Isaiah Washington,Hobart College Statesmen,7,0,0,,4,2,50.0,1,0,0.0,50.0,2.0,1.0,playerefficiencyright.csv,,
+,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_post_cut_efficiency.csv,Isaiah Washington,Carter Meshanic
+,Hobart College Statesmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_post_spotupjumper_efficiency.csv,Isaiah Washington,Ryan Lucey
+,Hobart College Statesmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Aidan Rodgers,Isaiah Washington
+,Hobart College Statesmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_spotupdrives_efficiency.csv,Aidan Rodgers,Isaiah Washington
+,Hobart College Statesmen,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_iso_spotupdrives_efficiency.csv,Isaiah Washington,Ryan Lucey
+,Hobart College Statesmen,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Isaiah Washington,Ryan Lucey
+,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_iso_cut_efficiency.csv,Ryan Lucey,Isaiah Washington
+,Hobart College Statesmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Aidan Rodgers,Isaiah Washington

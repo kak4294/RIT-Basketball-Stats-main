@@ -1,0 +1,167 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Ian Bentley,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,4.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Josiah Turner,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,PNR,Left,Away,Aidan Roy,Spot Ups,N/A,Shot,Liberty League,Liberty League,5,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Hakeem Daphnis,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,2.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Keegan Ocorr,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Joey Skoric,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,4.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pMa,No Dribble Jumper,Josiah Turner,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,3.0,2024
+SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Dillon McCafferty,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,4.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,Turnover,N/A,Dillon McCafferty,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,14,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Chase Dickens,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,2.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Dillon McCafferty,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,2.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Keegan Ocorr,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pmi,To Basket,Joey Skoric,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,19,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,Turnover,N/A,Joey Skoric,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,21,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,Turnover,N/A,Ian Bentley,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,23,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,PNR,High,Off,Ian Bentley,Spot Ups,N/A,Shot,Liberty League,Liberty League,25,4.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Josiah Turner,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pmi,Hook Shot,Jack LaGarde,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,27,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Zac Ditzel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,28,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,And1,To Basket,Nick Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,29,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Nick Padilla,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,3.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Keegan Ocorr,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,Turnover,N/A,Jake Walsh,PNR,High,Off,Ian Bentley,Spot Ups,Left,Drive,Liberty League,Liberty League,34,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Zac Ditzel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,36,4.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Mark Osime,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,38,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,42,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,Turnover,N/A,Aidan Roy,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,44,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pMa,To Basket,Jake Walsh,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,45,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,Foul,No Dribble Jumper,Kenny Wilburn,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,47,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Prince Shyllon,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,4.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Zac Ditzel,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,51,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Jake Walsh,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,2.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pMa,To Basket,Jake Walsh,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,54,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,Left,Off,Zac Ditzel,Spot Ups,N/A,Shot,Liberty League,Liberty League,55,4.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,57,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Jake Walsh,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,58,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,4.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,61,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,4.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Jake Walsh,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,65,2.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pmi,To Basket,Joey Skoric,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Ian Bentley,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,68,4.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Keegan Ocorr,PNR,High,Off,Chase Dickens,Spot Ups,N/A,Shot,Liberty League,Liberty League,69,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Prince Shyllon,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,70,4.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Mark Osime,PNR,Left,Off,Brock Bowen,Spot Ups,Left,Drive,Liberty League,Liberty League,71,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,74,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Keegan Ocorr,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,76,2.0,2024
+SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,PNR,High,Off,Ian Bentley,Spot Ups,N/A,Shot,Liberty League,Liberty League,77,4.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Brandon Weiss,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Jake Walsh,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,4.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,Foul,N/A,Josiah Turner,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,81,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Joey Skoric,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,2.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,84,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,And1,To Basket,Nick Padilla,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,90,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,Foul,To Basket,Ian Bentley,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,91,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Zac Ditzel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,94,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pmi,To Basket,Jake Walsh,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,PNR,Left,N/A,Zac Ditzel,Spot Ups,N/A,Shot,Liberty League,Liberty League,96,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,And1,To Basket,Joey Skoric,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,97,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Zac Ditzel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,101,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,PNR,High,Off,Jack LaGarde,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,102,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Chase Dickens,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,2.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Prince Shyllon,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,3.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,106,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pMa,To Basket,Prince Shyllon,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,109,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,110,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Zac Ditzel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Aidan Roy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,114,4.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,Turnover,N/A,Aidan Roy,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,116,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Aidan Roy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,4.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Chase Dickens,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Aidan Roy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,120,4.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Zac Ditzel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,121,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Hakeem Daphnis,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,2.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,123,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pMa,To Basket,Hakeem Daphnis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,124,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Keegan Ocorr,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,126,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,And1,To Basket,Joey Skoric,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,127,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Brock Bowen,PNR,High,Off,Zac Ditzel,Spot Ups,Left,Drive,Liberty League,Liberty League,130,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,Turnover,N/A,Ian Bentley,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Keegan Ocorr,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pMa,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,133,3.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,134,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,135,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,PNR,High,Off,Joey Skoric,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,138,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pMa,To Basket,Joey Skoric,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,Post,Right,Face Up,Zac Ditzel,Cuts,N/A,Basket,Liberty League,Liberty League,141,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,PNR,High,Off,Jack LaGarde,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,144,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,145,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,Hand Offs,Left,Stationary,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pMa,No Dribble Jumper,Josiah Turner,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,147,3.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pMa,To Basket,Ian Bentley,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,148,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Mark Osime,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Prince Shyllon,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,150,2.0,2024
+SKD,RIT,Skidmore Thoroughbreds,Turnover,To Basket,Nick Padilla,PNR,Left,Away,Ian Bentley,Cuts,N/A,Basket,Liberty League,Liberty League,152,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,And1,To Basket,Mark Osime,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,153,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Prince Shyllon,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,2.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Zac Ditzel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,156,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,158,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pmi,To Basket,Jake Walsh,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Zac Ditzel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,160,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,162,4.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Mark Osime,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,163,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Aidan Roy,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,164,3.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,165,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pmi,To Basket,Joey Skoric,Post,Middle,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,Foul,N/A,Joey Skoric,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,167,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Kenny Wilburn,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,170,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,Foul,To Basket,Aidan Roy,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,174,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Hakeem Daphnis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,179,3.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Chase Dickens,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,180,2.0,2024
+SKD,RIT,Skidmore Thoroughbreds,Turnover,N/A,Aidan Roy,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Kenny Wilburn,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,183,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pMa,To Basket,Hakeem Daphnis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,184,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Keegan Ocorr,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,185,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,186,4.0,2024
+SKD,RIT,,Foul,N/A,Brock Bowen,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,187,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,Turnover,N/A,Jake Walsh,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,189,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,190,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pMa,To Basket,Hakeem Daphnis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,191,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,192,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,Turnover,N/A,Jake Walsh,PNR,High,N/A,Hakeem Daphnis,Spot Ups,Right,Drive,Liberty League,Liberty League,193,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Mark Osime,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,194,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,Foul,To Basket,Jake Walsh,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,195,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,198,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,199,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Zac Ditzel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,200,1.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,Foul,N/A,Mark Osime,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,202,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Hakeem Daphnis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,205,3.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,And1,To Basket,Brock Bowen,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,206,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Jake Walsh,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,208,4.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,PNR,High,Off,Keegan Ocorr,Spot Ups,Right,Drive,Liberty League,Liberty League,209,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Jake Walsh,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,210,4.0,2024
+SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,212,4.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Chase Dickens,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,213,3.0,2024
+SKD,RIT,Skidmore Thoroughbreds,Foul,To Basket,Aidan Roy,PNR,High,Off,Joey Skoric,Spot Ups,Left,Drive,Liberty League,Liberty League,214,1.0,2024
+SKD,RIT,,Foul,N/A,Chase Dickens,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,217,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Joey Skoric,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,220,4.0,2024
+SKD,RIT,Rochester Institute of Technology Tigers,Foul,N/A,Mark Osime,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,221,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Jake Walsh,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,224,4.0,2024
+SKD,RIT,,Foul,N/A,Josiah Turner,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,225,1.0,2024
+SKD,RIT,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Aidan Roy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,229,4.0,2024

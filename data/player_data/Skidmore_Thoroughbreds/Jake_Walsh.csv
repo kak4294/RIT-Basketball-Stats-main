@@ -1,0 +1,45 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Jake Walsh,Skidmore Thoroughbreds,1,0,0,,0,0,,0,0,,,0.0,1.0,player_handoffs_bhright_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,1,0,0,,0,0,,0,0,,,0.0,1.0,player_handoffs_bhright_stationary_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,3,2,0,0.0,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,5,2,0,0.0,1,0,0.0,0,0,,0.0,1.0,1.0,player_handoffs_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,2,0,0,,0,0,,0,0,,,1.0,1.0,player_handoffs_stationary_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,3,2,0,0.0,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_top_dribble_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,4,2,0,0.0,1,0,0.0,0,0,,0.0,1.0,0.0,player_handoffs_top_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,1,0,0,,0,0,,0,0,,,1.0,0.0,player_handoffs_top_stationary_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,2,1,0,0.0,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_iso_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,2,1,0,0.0,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_iso_top_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,3,0,0,,0,0,,0,0,,,2.0,1.0,player_misc_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,2,1,1,100.0,1,1,100.0,1,1,100.0,125.0,0.0,0.0,player_offscreens_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,2,1,1,100.0,1,1,100.0,1,1,100.0,125.0,0.0,0.0,player_offscreens_leftshoulder_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,2,1,1,100.0,1,1,100.0,1,1,100.0,125.0,0.0,0.0,player_offscreens_leftshoulder_straight_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,2,1,1,100.0,1,1,100.0,1,1,100.0,125.0,0.0,0.0,player_offscreens_straight_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,4,0,0,,4,2,50.0,1,0,0.0,50.0,0.0,0.0,player_pnr_bhhigh_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,2,0,0,,2,0,0.0,1,0,0.0,0.0,0.0,0.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,2,0,0,,2,2,100.0,0,0,,100.0,0.0,0.0,player_pnr_bhhigh_rejectpick_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_pnr_bhleft_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_pnr_bhleft_offpick_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,2,1,0,0.0,1,1,100.0,1,1,100.0,50.0,0.0,0.0,player_pnr_bhright_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_pnr_bhright_offpick_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_bhright_rejectpick_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,7,2,1,50.0,5,3,60.0,2,1,50.0,64.28571,0.0,0.0,player_pnr_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,4,1,1,100.0,3,1,33.3333,2,1,50.0,62.5,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,3,1,0,0.0,2,2,100.0,0,0,,66.66667,0.0,0.0,player_pnr_rejectpick_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,2,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,1.0,player_spotup_drive_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,5,3,2,66.6667,1,0,0.0,1,0,0.0,75.0,0.0,1.0,player_spotup_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,3,3,2,66.6667,0,0,,0,0,,100.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,2,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,1.0,player_spotup_rightdrive_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,6,1,1,100.0,4,2,50.0,0,0,,70.0,0.0,1.0,player_transition_bh_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,2,1,1,100.0,1,1,100.0,0,0,,125.0,0.0,0.0,player_transition_rightwing_efficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,33,12,7,58.3333,14,7,50.0,5,2,40.0,67.30769,3.0,4.0,playerefficiency.csv,,
+Jake Walsh,Skidmore Thoroughbreds,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,playerefficiencyleft.csv,,
+Jake Walsh,Skidmore Thoroughbreds,7,2,1,50.0,3,2,66.6667,3,2,66.6667,70.0,0.0,2.0,playerefficiencyright.csv,,
+,Skidmore Thoroughbreds,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Jake Walsh,Hakeem Daphnis
+,Skidmore Thoroughbreds,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Jake Walsh,Ian Bentley
+,Skidmore Thoroughbreds,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Jake Walsh,Hakeem Daphnis
+,Skidmore Thoroughbreds,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Jake Walsh,Ian Bentley
+,Skidmore Thoroughbreds,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Aidan Roy,Jake Walsh
+,Skidmore Thoroughbreds,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Aidan Roy,Jake Walsh
+,Skidmore Thoroughbreds,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Jake Walsh,Hakeem Daphnis
+,Skidmore Thoroughbreds,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Jake Walsh,Ian Bentley

@@ -1,0 +1,49 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Ryan Miles-Ferguson,Clarkson University Golden Knights,1,0,0,,0,0,,0,0,,,0.0,1.0,player_cut_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,1,0,0,,0,0,,0,0,,,0.0,1.0,player_cut_screen_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,4,2,1,50.0,2,1,50.0,2,1,50.0,62.5,0.0,0.0,player_handoffs_bhleft_dribble_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,4,2,1,50.0,2,1,50.0,2,1,50.0,62.5,0.0,0.0,player_handoffs_bhleft_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,8,3,1,33.3333,5,2,40.0,3,1,33.3333,43.75,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,8,3,1,33.3333,5,2,40.0,3,1,33.3333,43.75,0.0,0.0,player_handoffs_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,4,1,0,0.0,3,1,33.3333,1,0,0.0,25.0,0.0,0.0,player_handoffs_top_dribble_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,4,1,0,0.0,3,1,33.3333,1,0,0.0,25.0,0.0,0.0,player_handoffs_top_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,6,3,1,33.3333,2,1,50.0,1,0,0.0,50.0,1.0,0.0,player_iso_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_iso_left_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,2,1,0,0.0,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_iso_right_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,2,0,0,,1,1,100.0,0,0,,100.0,1.0,0.0,player_iso_top_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,1,0,0,,0,0,,0,0,,,1.0,0.0,player_misc_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,2,1,0,0.0,1,1,100.0,1,1,100.0,50.0,0.0,0.0,player_offscreens_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,2,1,0,0.0,1,1,100.0,1,1,100.0,50.0,0.0,0.0,player_offscreens_leftshoulder_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,2,1,0,0.0,1,1,100.0,1,1,100.0,50.0,0.0,0.0,player_offscreens_leftshoulder_straight_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,2,1,0,0.0,1,1,100.0,1,1,100.0,50.0,0.0,0.0,player_offscreens_straight_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,3,1,0,0.0,1,0,0.0,0,0,,0.0,1.0,0.0,player_pnr_bhhigh_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,3,1,0,0.0,1,0,0.0,0,0,,0.0,1.0,0.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_pnr_bhright_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_pnr_bhright_offpick_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,4,2,1,50.0,1,0,0.0,0,0,,50.0,1.0,0.0,player_pnr_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,4,2,1,50.0,1,0,0.0,0,0,,50.0,1.0,0.0,player_pnr_offpick_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,1,0,0,,0,0,,0,0,,,1.0,0.0,player_post_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,1,0,0,,0,0,,0,0,,,1.0,0.0,player_post_rightblock_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,7,5,1,20.0,2,1,50.0,0,0,,35.71429,0.0,0.0,player_spotup_drive_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,11,9,3,33.3333,2,1,50.0,0,0,,50.0,0.0,0.0,player_spotup_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,4,4,2,50.0,0,0,,0,0,,75.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,3,1,0,0.0,2,1,50.0,0,0,,33.33333,0.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_spotup_straightdrive_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,3,0,0,,2,0,0.0,0,0,,0.0,0.0,1.0,player_transition_bh_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,1,0,0,,0,0,,0,0,,,0.0,1.0,player_transition_leftwing_efficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,38,18,6,33.3333,13,5,38.4615,5,2,40.0,45.16129,4.0,3.0,playerefficiency.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,9,5,2,40.0,4,2,50.0,2,1,50.0,55.55556,0.0,0.0,playerefficiencyleft.csv,,
+Ryan Miles-Ferguson,Clarkson University Golden Knights,7,5,1,20.0,2,1,50.0,2,1,50.0,35.71429,0.0,0.0,playerefficiencyright.csv,,
+,Clarkson University Golden Knights,1,0,0,,0,0,,0,0,,,0.0,1.0,player_rollman_efficiency.csv,Ryan Miles-Ferguson,Jack Dalgety
+,Clarkson University Golden Knights,1,0,0,,0,0,,0,0,,,0.0,1.0,player_rollman_slip_efficiency.csv,Ryan Miles-Ferguson,Jack Dalgety
+,Clarkson University Golden Knights,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Ryan Miles-Ferguson,Jack Dalgety
+,Clarkson University Golden Knights,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_post_spotupdrive_efficiency.csv,Ryan Miles-Ferguson,Jack Dalgety
+,Clarkson University Golden Knights,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_post_spotupjumper_efficiency.csv,Ryan Miles-Ferguson,Jack Dalgety
+,Clarkson University Golden Knights,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Matt Toscano,Ryan Miles-Ferguson
+,Clarkson University Golden Knights,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Matt Toscano,Ryan Miles-Ferguson
+,Clarkson University Golden Knights,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Ryan Miles-Ferguson,Braeden Burns
+,Clarkson University Golden Knights,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Ryan Miles-Ferguson,Steve DeRegis
+,Clarkson University Golden Knights,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Ryan Miles-Ferguson,Frankie Rainville
+,Clarkson University Golden Knights,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Ryan Miles-Ferguson,Jack Dalgety
+,Clarkson University Golden Knights,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnrbhhigh_rollmanslips_efficiency.csv,Ryan Miles-Ferguson,Jack Dalgety

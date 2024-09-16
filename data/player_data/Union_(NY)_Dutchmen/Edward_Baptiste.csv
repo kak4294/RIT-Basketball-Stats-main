@@ -1,0 +1,38 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Edward Baptiste,Union (NY) Dutchmen,4,0,0,,4,2,50.0,0,0,,50.0,0.0,0.0,player_cut_efficiency.csv,,
+Edward Baptiste,Union (NY) Dutchmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_flash_efficiency.csv,,
+Edward Baptiste,Union (NY) Dutchmen,3,0,0,,3,1,33.3333,0,0,,33.33333,0.0,0.0,player_cut_screen_efficiency.csv,,
+Edward Baptiste,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,1.0,0.0,player_handoffs_bhleft_dribble_efficiency.csv,,
+Edward Baptiste,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,1.0,0.0,player_handoffs_bhleft_efficiency.csv,,
+Edward Baptiste,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,1.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Edward Baptiste,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,1.0,0.0,player_handoffs_efficiency.csv,,
+Edward Baptiste,Union (NY) Dutchmen,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_offscreens_efficiency.csv,,
+Edward Baptiste,Union (NY) Dutchmen,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_offscreens_rightshoulder_efficiency.csv,,
+Edward Baptiste,Union (NY) Dutchmen,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_offscreens_rightshoulder_straight_efficiency.csv,,
+Edward Baptiste,Union (NY) Dutchmen,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_offscreens_straight_efficiency.csv,,
+Edward Baptiste,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,1.0,0.0,player_post_efficiency.csv,,
+Edward Baptiste,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,1.0,0.0,player_post_faceup_efficiency.csv,,
+Edward Baptiste,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,1.0,0.0,player_post_leftblock_efficiency.csv,,
+Edward Baptiste,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,1.0,0.0,player_post_leftblock_faceup_efficiency.csv,,
+Edward Baptiste,Union (NY) Dutchmen,8,0,0,,6,2,33.3333,3,0,0.0,33.33333,2.0,0.0,player_spotup_drive_efficiency.csv,,
+Edward Baptiste,Union (NY) Dutchmen,9,0,0,,7,2,28.5714,4,0,0.0,28.57143,2.0,0.0,player_spotup_efficiency.csv,,
+Edward Baptiste,Union (NY) Dutchmen,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Edward Baptiste,Union (NY) Dutchmen,3,0,0,,2,1,50.0,1,0,0.0,50.0,1.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Edward Baptiste,Union (NY) Dutchmen,3,0,0,,2,1,50.0,1,0,0.0,50.0,1.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Edward Baptiste,Union (NY) Dutchmen,2,0,0,,2,0,0.0,1,0,0.0,0.0,0.0,0.0,player_spotup_straightdrive_efficiency.csv,,
+Edward Baptiste,Union (NY) Dutchmen,22,0,0,,18,9,50.0,6,2,33.3333,50.0,4.0,0.0,playerefficiency.csv,,
+Edward Baptiste,Union (NY) Dutchmen,5,0,0,,3,2,66.6667,2,1,50.0,66.66667,2.0,0.0,playerefficiencyleft.csv,,
+Edward Baptiste,Union (NY) Dutchmen,3,0,0,,2,1,50.0,1,0,0.0,50.0,1.0,0.0,playerefficiencyright.csv,,
+,Union (NY) Dutchmen,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_post_spotupjumper_efficiency.csv,Edward Baptiste,Luke Mcgarrity
+,Union (NY) Dutchmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_rollman_efficiency.csv,Tanner Tedesco,Edward Baptiste
+,Union (NY) Dutchmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_rollman_roll_efficiency.csv,Tanner Tedesco,Edward Baptiste
+,Union (NY) Dutchmen,2,0,0,,2,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_cut_efficiency.csv,Tanner Tedesco,Edward Baptiste
+,Union (NY) Dutchmen,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Lemar Fulmore Jr,Edward Baptiste
+,Union (NY) Dutchmen,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Connor Cepiel,Edward Baptiste
+,Union (NY) Dutchmen,2,0,0,,2,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_cuts_efficiency.csv,Tanner Tedesco,Edward Baptiste
+,Union (NY) Dutchmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Tanner Tedesco,Edward Baptiste
+,Union (NY) Dutchmen,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Lemar Fulmore Jr,Edward Baptiste
+,Union (NY) Dutchmen,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Connor Cepiel,Edward Baptiste
+,Union (NY) Dutchmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_iso_spotupdrives_efficiency.csv,Tanner Tedesco,Edward Baptiste
+,Union (NY) Dutchmen,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Lemar Fulmore Jr,Edward Baptiste
+,Union (NY) Dutchmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanrolls_efficiency.csv,Tanner Tedesco,Edward Baptiste

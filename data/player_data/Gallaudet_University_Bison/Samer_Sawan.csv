@@ -1,0 +1,10 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Samer Sawan,Gallaudet University Bison,7,7,5,71.4286,0,0,,0,0,,107.14286,0.0,0.0,player_spotup_efficiency.csv,,
+Samer Sawan,Gallaudet University Bison,7,7,5,71.4286,0,0,,0,0,,107.14286,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Samer Sawan,Gallaudet University Bison,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_transition_bh_efficiency.csv,,
+Samer Sawan,Gallaudet University Bison,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Samer Sawan,Gallaudet University Bison,9,8,5,62.5,1,1,100.0,0,0,,94.44444,0.0,0.0,playerefficiency.csv,,
+,Gallaudet University Bison,2,2,2,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Bruce Brewer Jr,Samer Sawan
+,Gallaudet University Bison,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Bruce Brewer Jr,Samer Sawan
+,Gallaudet University Bison,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Bruce Brewer Jr,Samer Sawan
+,Gallaudet University Bison,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Bruce Brewer Jr,Samer Sawan

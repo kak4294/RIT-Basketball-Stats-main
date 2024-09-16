@@ -1,0 +1,150 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+NAZ,RIT,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Kenny Wilburn,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,1,2.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pmi,To Basket,Jaylen Savage,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,2,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,3pmi,No Dribble Jumper,Tyler Putney,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,4,4.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Kenny Wilburn,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,5,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,Foul,To Basket,Jaylen Savage,PNR,Left,Away,Logan Blankenberg,Cuts,N/A,Basket,Empire 8,Liberty League,8,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Kenny Wilburn,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,11,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,3pmi,No Dribble Jumper,Jaylen Savage,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,12,4.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,13,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pmi,Dribble Jumper,Luke Insley,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,14,2.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Kenny Wilburn,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,15,2.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,Foul,To Basket,Jaylen Savage,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,16,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,3pMa,Dribble Jumper,Brock Bowen,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,19,4.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pMa,To Basket,Jaylen Savage,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,20,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pmi,No Dribble Jumper,Kenny Wilburn,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,21,3.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Brody Brown,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,23,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pmi,Dribble Jumper,Jaylen Savage,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,24,2.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,25,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,Turnover,N/A,Luke Insley,PNR,Left,Off,Jaylen Savage,Spot Ups,Left,Drive,Empire 8,Liberty League,26,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Kenny Wilburn,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,27,4.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,3pMa,No Dribble Jumper,Logan Blankenberg,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Empire 8,Liberty League,28,4.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,29,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,3pMa,No Dribble Jumper,Logan Blankenberg,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,30,4.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Post,Left,N/A,Matt Caggiano,Spot Ups,Left,Drive,Empire 8,Liberty League,31,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pMa,To Basket,Jack Broderick,Iso,Top,N/A,Logan Blankenberg,Cuts,N/A,Basket,Empire 8,Liberty League,32,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,High,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,33,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,3pmi,No Dribble Jumper,Solomon Mcfarlane,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,34,4.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Brody Brown,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,37,3.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pmi,To Basket,Logan Blankenberg,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,38,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,3pmi,Dribble Jumper,Solomon Mcfarlane,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,40,4.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,Left,N/A,Brock Bowen,Spot Ups,N/A,Shot,Empire 8,Liberty League,41,4.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,3pmi,No Dribble Jumper,Logan Blankenberg,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,42,4.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Nolan Smih,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,44,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Zac Ditzel,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,45,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,3pMa,No Dribble Jumper,Tyler Putney,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,46,4.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,PNR,Left,Off,Brock Bowen,Spot Ups,Right,Drive,Empire 8,Liberty League,47,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,Foul,To Basket,Logan Blankenberg,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,48,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,PNR,Left,Off,Nolan Smih,Cuts,N/A,Basket,Empire 8,Liberty League,51,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,Foul,To Basket,Jaylen Savage,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,52,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Ronnie Toole,Spot Ups,N/A,Shot,Empire 8,Liberty League,55,4.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pmi,To Basket,Jack Broderick,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,56,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Zac Ditzel,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,57,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pMa,To Basket,Jaylen Savage,Iso,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,58,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,And1,To Basket,Nolan Smih,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,59,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,3pMa,No Dribble Jumper,Tyler Putney,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,61,4.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Brody Brown,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,62,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,3pmi,No Dribble Jumper,Jack Broderick,Iso,Right,N/A,Tyler Putney,Spot Ups,N/A,Shot,Empire 8,Liberty League,63,4.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Ronnie Toole,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,64,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,Turnover,To Basket,Jaylen Savage,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,65,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Ronnie Toole,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,66,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pMa,To Basket,Luke Insley,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,67,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Brandon Weiss,PNR,Left,Away,Kenny Wilburn,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,68,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,Turnover,N/A,Logan Blankenberg,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,69,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Brandon Weiss,Iso,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,70,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,71,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pmi,To Basket,Jaylen Savage,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,72,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pMa,To Basket,Jaylen Savage,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,73,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Brody Brown,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,74,3.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,3pMa,No Dribble Jumper,Logan Blankenberg,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Empire 8,Liberty League,75,4.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Kenny Wilburn,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,76,2.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pmi,To Basket,Luke Insley,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,78,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Kenny Wilburn,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,79,2.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pMa,To Basket,Logan Blankenberg,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,80,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Brock Bowen,PNR,Right,Away,Brandon Weiss,Spot Ups,Left,Drive,Empire 8,Liberty League,81,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pmi,No Dribble Jumper,Kenny Wilburn,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,82,3.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,3pMa,No Dribble Jumper,Solomon Mcfarlane,Iso,Top,N/A,Logan Blankenberg,Spot Ups,N/A,Shot,Empire 8,Liberty League,83,4.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,87,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,3pMa,No Dribble Jumper,Tyler Putney,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,88,4.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Kenny Wilburn,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,89,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,3pMa,No Dribble Jumper,Logan Blankenberg,PNR,Left,Off,Tyler Putney,Spot Ups,N/A,Shot,Empire 8,Liberty League,91,4.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Post,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,92,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pmi,Dribble Jumper,Jordan Haggard,Iso,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,93,2.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,3pMa,No Dribble Jumper,Jordan Haggard,PNR,High,Away,Logan Blankenberg,P&R Roll Man,N/A,Pop,Empire 8,Liberty League,95,4.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Brandon Weiss,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,96,2.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,3pmi,No Dribble Jumper,Tyler Putney,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,97,4.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Brock Bowen,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,98,4.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pmi,To Basket,Jordan Haggard,Post,Left,Left Shoulder,Logan Blankenberg,Cuts,N/A,Flash,Empire 8,Liberty League,99,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brandon Weiss,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,100,4.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pMa,Dribble Jumper,Logan Blankenberg,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,101,2.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,102,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pmi,To Basket,Luke Insley,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,103,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,3pMa,No Dribble Jumper,Luke Insley,Iso,Top,N/A,Jordan Haggard,Spot Ups,N/A,Shot,Empire 8,Liberty League,104,4.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Brody Brown,PNR,High,Off,Chase Dickens,Spot Ups,Left,Drive,Empire 8,Liberty League,105,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,3pmi,No Dribble Jumper,Jaylen Savage,PNR,Left,Off,Tyler Putney,Spot Ups,N/A,Shot,Empire 8,Liberty League,106,4.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,107,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,3pmi,No Dribble Jumper,Luke Insley,PNR,Left,Off,Jordan Haggard,Spot Ups,N/A,Shot,Empire 8,Liberty League,108,4.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,3pMa,Dribble Jumper,Chase Dickens,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,109,4.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pmi,Dribble Jumper,Jordan Haggard,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,110,2.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,111,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pMa,To Basket,Logan Blankenberg,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,112,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Brock Bowen,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,113,2.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,114,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,3pMa,No Dribble Jumper,Logan Blankenberg,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,115,4.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Kenny Wilburn,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,117,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,Turnover,N/A,Luke Insley,PNR,Left,Off,Jordan Haggard,P&R Roll Man,Right,Pop,Empire 8,Liberty League,118,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,And1,To Basket,Chase Dickens,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,120,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pMa,To Basket,Luke Insley,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,122,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Luke Granto,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,123,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pMa,To Basket,Solomon Mcfarlane,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,124,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,125,4.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,127,4.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,PNR,High,Off,Luke Granto,Cuts,N/A,Basket,Empire 8,Liberty League,128,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,3pmi,No Dribble Jumper,Tyler Putney,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,129,4.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Chase Dickens,Iso,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,130,3.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pmi,To Basket,Jack Broderick,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,131,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pMa,To Basket,Jack Broderick,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,132,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,High,Off,Kenny Wilburn,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,133,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,Foul,To Basket,Jack Broderick,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,134,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Luke Granto,PNR,High,Off,Chase Dickens,Spot Ups,Left,Drive,Empire 8,Liberty League,137,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,Turnover,N/A,Logan Blankenberg,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,140,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,141,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pMa,Dribble Jumper,Jaylen Savage,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,142,2.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Luke Granto,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,144,4.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pmi,To Basket,Jack Broderick,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,145,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pMa,To Basket,Jordan Haggard,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,146,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Luke Granto,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,147,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pMa,To Basket,Solomon Mcfarlane,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,148,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Zac Ditzel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,150,4.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pmi,Dribble Jumper,Jaylen Savage,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,151,2.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,And1,To Basket,Solomon Mcfarlane,Iso,Right,N/A,Jordan Haggard,Cuts,N/A,Basket,Empire 8,Liberty League,153,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,Right,Off,Zac Ditzel,Spot Ups,Right,Drive,Empire 8,Liberty League,155,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pmi,Dribble Jumper,Jaylen Savage,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,156,2.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Iso,Top,N/A,Brandon Weiss,Spot Ups,N/A,Shot,Empire 8,Liberty League,157,4.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,3pMa,No Dribble Jumper,Logan Blankenberg,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,158,4.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Brandon Weiss,Spot Ups,N/A,Shot,Empire 8,Liberty League,159,4.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,3pmi,No Dribble Jumper,Jordan Haggard,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,161,4.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,3pmi,No Dribble Jumper,Solomon Mcfarlane,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,162,4.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pmi,To Basket,Jaylen Savage,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,163,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pmi,To Basket,Jordan Haggard,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,164,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pmi,To Basket,Jaylen Savage,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,165,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brandon Weiss,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,167,4.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pMa,To Basket,Luke Insley,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,168,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,169,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pMa,To Basket,Luke Insley,PNR,Left,Away,Jordan Haggard,P&R Roll Man,Right,Pop,Empire 8,Liberty League,170,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brandon Weiss,PNR,Right,Off,Zac Ditzel,Spot Ups,N/A,Shot,Empire 8,Liberty League,171,4.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,Foul,To Basket,Jaylen Savage,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,172,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,Empire 8,Liberty League,176,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pMa,To Basket,Luke Insley,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,177,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,178,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pMa,To Basket,Logan Blankenberg,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,179,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,180,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,Turnover,N/A,Jaylen Savage,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,181,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,182,4.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,184,4.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,2pMa,To Basket,Solomon Mcfarlane,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,185,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,Foul,N/A,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,186,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,Foul,N/A,Logan Blankenberg,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,190,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,192,1.0,2024
+NAZ,RIT,Nazareth College Golden Flyers,Foul,N/A,Solomon Mcfarlane,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,193,1.0,2024
+NAZ,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Luke Granto,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,195,2.0,2024

@@ -1,0 +1,15 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Sam Pisanelli,Hobart College Statesmen,3,0,0,,2,1,50.0,0,0,,50.0,0.0,1.0,player_spotup_drive_efficiency.csv,,
+Sam Pisanelli,Hobart College Statesmen,3,0,0,,2,1,50.0,0,0,,50.0,0.0,1.0,player_spotup_efficiency.csv,,
+Sam Pisanelli,Hobart College Statesmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Sam Pisanelli,Hobart College Statesmen,2,0,0,,1,1,100.0,0,0,,100.0,0.0,1.0,player_spotup_rightdrive_efficiency.csv,,
+Sam Pisanelli,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Sam Pisanelli,Hobart College Statesmen,5,0,0,,4,3,75.0,0,0,,75.0,0.0,1.0,playerefficiency.csv,,
+Sam Pisanelli,Hobart College Statesmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,playerefficiencyleft.csv,,
+Sam Pisanelli,Hobart College Statesmen,2,0,0,,1,1,100.0,0,0,,100.0,0.0,1.0,playerefficiencyright.csv,,
+,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_rollman_efficiency.csv,Sam Pisanelli,Jean Marc Togodgue
+,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_rollman_pop_efficiency.csv,Sam Pisanelli,Jean Marc Togodgue
+,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_rollman_rightdrive_efficiency.csv,Sam Pisanelli,Jean Marc Togodgue
+,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_rollman_rightdrive_pop_efficiency.csv,Sam Pisanelli,Jean Marc Togodgue
+,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Sam Pisanelli,Jean Marc Togodgue
+,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Sam Pisanelli,Jean Marc Togodgue

@@ -1,0 +1,166 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+RIT,VC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,4.0,2024
+RIT,VC,Vassar Brewers,2pmi,To Basket,JP Miranda,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,1.0,2024
+RIT,VC,Vassar Brewers,2pMa,To Basket,JP Miranda,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pmi,No Dribble Jumper,Chase Dickens,Iso,Right,N/A,Kenny Wilburn,Spot Ups,N/A,Shot,Liberty League,Liberty League,4,3.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,Foul,Dribble Jumper,Keegan Ocorr,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,2.0,2024
+RIT,VC,Vassar Brewers,2pmi,Dribble Jumper,JP Miranda,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,2.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,And1,To Basket,Chase Dickens,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,1.0,2024
+RIT,VC,Vassar Brewers,3pMa,No Dribble Jumper,Shea Fitzgerald,PNR,High,Off,JP Miranda,Spot Ups,N/A,Shot,Liberty League,Liberty League,15,4.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pMa,To Basket,Brock Bowen,PNR,High,Off,Jackson Otis,Spot Ups,Right,Drive,Liberty League,Liberty League,16,1.0,2024
+RIT,VC,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pMa,To Basket,Keegan Ocorr,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,1.0,2024
+RIT,VC,Vassar Brewers,2pMa,To Basket,JP Miranda,PNR,High,Off,Nathan Denham,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,19,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Chase Dickens,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,3.0,2024
+RIT,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,21,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,1.0,2024
+RIT,VC,Vassar Brewers,2pMa,To Basket,JP Miranda,PNR,Right,Off,Nathan Denham,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,23,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pMa,To Basket,Jackson Otis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,1.0,2024
+RIT,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,PNR,High,Off,Alex Walters,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,25,4.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,1.0,2024
+RIT,VC,Vassar Brewers,2pmi,Dribble Jumper,JP Miranda,PNR,Left,Off,Nathan Denham,Spot Ups,Left,Drive,Liberty League,Liberty League,27,2.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,28,1.0,2024
+RIT,VC,Vassar Brewers,2pmi,Hook Shot,Devyn Benson,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,29,1.0,2024
+RIT,VC,Vassar Brewers,3pmi,No Dribble Jumper,JP Miranda,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,31,4.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,4.0,2024
+RIT,VC,Vassar Brewers,2pmi,Dribble Jumper,JP Miranda,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,2.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Chase Dickens,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,35,3.0,2024
+RIT,VC,Vassar Brewers,2pmi,To Basket,Devyn Benson,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,36,1.0,2024
+RIT,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,37,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Brody Brown,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,38,2.0,2024
+RIT,VC,Vassar Brewers,3pMa,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,4.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,PNR,Left,Off,Matt Caggiano,Spot Ups,N/A,Shot,Liberty League,Liberty League,40,4.0,2024
+RIT,VC,Vassar Brewers,Turnover,N/A,Kreekor Karageuzian,PNR,Right,Off,Nathan Denham,Spot Ups,Left,Drive,Liberty League,Liberty League,41,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,1.0,2024
+RIT,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,PNR,High,Off,Avery Lee,Spot Ups,N/A,Shot,Liberty League,Liberty League,44,4.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,45,1.0,2024
+RIT,VC,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,46,1.0,2024
+RIT,VC,Vassar Brewers,2pMa,To Basket,Avery Lee,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,47,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,48,1.0,2024
+RIT,VC,Vassar Brewers,3pMa,No Dribble Jumper,Shea Fitzgerald,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,4.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Mark Osime,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,4.0,2024
+RIT,VC,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,51,4.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,PNR,Left,Off,Brock Bowen,Spot Ups,N/A,Shot,Liberty League,Liberty League,52,4.0,2024
+RIT,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,PNR,High,Away,Avery Lee,Spot Ups,N/A,Shot,Liberty League,Liberty League,53,4.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,54,1.0,2024
+RIT,VC,Vassar Brewers,Turnover,To Basket,Avery Lee,PNR,Left,Off,Logan Scott,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,56,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,PNR,Right,Off,Kenny Wilburn,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,57,1.0,2024
+RIT,VC,Vassar Brewers,2pMa,To Basket,Avery Lee,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,58,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Kenny Wilburn,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,59,2.0,2024
+RIT,VC,Vassar Brewers,Turnover,N/A,Sebastian Medina,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Brody Brown,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,61,3.0,2024
+RIT,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Matt Caggiano,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,2.0,2024
+RIT,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,Right,Off,Brock Bowen,Spot Ups,N/A,Shot,Liberty League,Liberty League,65,4.0,2024
+RIT,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,4.0,2024
+RIT,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,69,4.0,2024
+RIT,VC,Vassar Brewers,Turnover,N/A,Nathan Denham,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,70,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,71,1.0,2024
+RIT,VC,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,PNR,High,Off,JP Miranda,Spot Ups,Left,Drive,Liberty League,Liberty League,72,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Iso,Left,N/A,Brandon Weiss,Cuts,N/A,Basket,Liberty League,Liberty League,73,1.0,2024
+RIT,VC,Vassar Brewers,2pMa,To Basket,Devyn Benson,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,74,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,4.0,2024
+RIT,VC,Vassar Brewers,3pMa,No Dribble Jumper,Nathan Denham,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,76,4.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,77,4.0,2024
+RIT,VC,Vassar Brewers,Turnover,N/A,JP Miranda,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,78,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Chase Dickens,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,2.0,2024
+RIT,VC,Vassar Brewers,3pMa,No Dribble Jumper,JP Miranda,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,4.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,Turnover,To Basket,Keegan Ocorr,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,81,1.0,2024
+RIT,VC,Vassar Brewers,Turnover,N/A,Kreekor Karageuzian,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,82,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,1.0,2024
+RIT,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,84,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,1.0,2024
+RIT,VC,Vassar Brewers,3pMa,No Dribble Jumper,Nathan Denham,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,86,4.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,4.0,2024
+RIT,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,1.0,2024
+RIT,VC,Vassar Brewers,2pmi,To Basket,Nathan Denham,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,1.0,2024
+RIT,VC,Vassar Brewers,2pmi,To Basket,Devyn Benson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,90,2.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,92,1.0,2024
+RIT,VC,Vassar Brewers,Foul,Dribble Jumper,Avery Lee,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,93,2.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,97,4.0,2024
+RIT,VC,Vassar Brewers,2pmi,Dribble Jumper,Luke Adams,PNR,Left,Off,Shea Fitzgerald,Spot Ups,Left,Drive,Liberty League,Liberty League,98,2.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,1.0,2024
+RIT,VC,Vassar Brewers,2pMa,To Basket,Luke Adams,PNR,Left,Off,Shea Fitzgerald,Spot Ups,Left,Drive,Liberty League,Liberty League,100,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Brock Bowen,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,101,3.0,2024
+RIT,VC,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,102,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,4.0,2024
+RIT,VC,Vassar Brewers,2pMa,To Basket,Luke Adams,PNR,High,Off,Sebastian Medina,Spot Ups,Right,Drive,Liberty League,Liberty League,104,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,Turnover,N/A,Jackson Otis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,1.0,2024
+RIT,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,106,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,Foul,To Basket,Brock Bowen,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,109,1.0,2024
+RIT,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,4.0,2024
+RIT,VC,Vassar Brewers,2pMa,N/A,Shea Fitzgerald,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,2.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,114,4.0,2024
+RIT,VC,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,PNR,Left,Off,Kenny Wilburn,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,116,1.0,2024
+RIT,VC,Vassar Brewers,3pmi,No Dribble Jumper,Nathan Denham,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,4.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Jackson Otis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,4.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pMa,To Basket,Jackson Otis,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,1.0,2024
+RIT,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,120,1.0,2024
+RIT,VC,Vassar Brewers,Turnover,N/A,Devyn Benson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,121,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,1.0,2024
+RIT,VC,Vassar Brewers,2pmi,To Basket,Luke Adams,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,125,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,126,4.0,2024
+RIT,VC,Vassar Brewers,2pmi,Dribble Jumper,Kreekor Karageuzian,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,2.0,2024
+RIT,VC,Vassar Brewers,2pMa,To Basket,Luke Adams,PNR,High,Off,Devyn Benson,Cuts,N/A,Basket,Liberty League,Liberty League,130,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,PNR,Left,Off,Josiah Turner,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,131,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,4.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,133,1.0,2024
+RIT,VC,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,PNR,High,Off,Luke Adams,Spot Ups,N/A,Shot,Liberty League,Liberty League,136,4.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,Foul,Dribble Jumper,Chase Dickens,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,137,2.0,2024
+RIT,VC,Vassar Brewers,Foul,To Basket,Logan Scott,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,PNR,High,Off,Jackson Otis,Spot Ups,N/A,Shot,Liberty League,Liberty League,143,4.0,2024
+RIT,VC,Vassar Brewers,2pmi,To Basket,Logan Scott,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,144,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,Foul,To Basket,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,145,1.0,2024
+RIT,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,148,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,PNR,High,Off,Josiah Turner,Spot Ups,N/A,Shot,Liberty League,Liberty League,151,4.0,2024
+RIT,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,PNR,High,Off,Luke Adams,Spot Ups,N/A,Shot,Liberty League,Liberty League,152,4.0,2024
+RIT,VC,Vassar Brewers,2pmi,To Basket,Nathan Denham,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,153,1.0,2024
+RIT,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,154,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,1.0,2024
+RIT,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,156,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,And1,To Basket,Josiah Turner,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,158,1.0,2024
+RIT,VC,Vassar Brewers,2pmi,To Basket,JP Miranda,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,160,1.0,2024
+RIT,VC,Vassar Brewers,2pmi,Dribble Jumper,Shea Fitzgerald,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,2.0,2024
+RIT,VC,Vassar Brewers,2pmi,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,163,2.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,164,1.0,2024
+RIT,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Iso,Right,N/A,Avery Lee,Spot Ups,N/A,Shot,Liberty League,Liberty League,166,4.0,2024
+RIT,VC,Vassar Brewers,Foul,To Basket,Sebastian Medina,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,167,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,Turnover,N/A,Brody Brown,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,170,1.0,2024
+RIT,VC,Vassar Brewers,2pmi,To Basket,JP Miranda,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,171,1.0,2024
+RIT,VC,Vassar Brewers,2pMa,To Basket,Sebastian Medina,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,172,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,Turnover,To Basket,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,1.0,2024
+RIT,VC,Vassar Brewers,2pmi,To Basket,JP Miranda,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,174,1.0,2024
+RIT,VC,Vassar Brewers,2pMa,To Basket,Devyn Benson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,175,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,176,1.0,2024
+RIT,VC,Vassar Brewers,2pMa,To Basket,JP Miranda,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Chase Dickens,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,178,4.0,2024
+RIT,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,179,4.0,2024
+RIT,VC,Vassar Brewers,2pmi,To Basket,Sebastian Medina,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,180,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Brock Bowen,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,4.0,2024
+RIT,VC,Vassar Brewers,2pMa,To Basket,Avery Lee,PNR,High,Off,Shea Fitzgerald,Spot Ups,Left,Drive,Liberty League,Liberty League,182,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,183,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,184,1.0,2024
+RIT,VC,Vassar Brewers,2pmi,To Basket,Sebastian Medina,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,185,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,186,1.0,2024
+RIT,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,PNR,High,Away,Avery Lee,Spot Ups,Right,Drive,Liberty League,Liberty League,187,1.0,2024
+RIT,VC,Vassar Brewers,And1,To Basket,Logan Scott,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,188,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,190,4.0,2024
+RIT,VC,Vassar Brewers,2pmi,To Basket,JP Miranda,PNR,High,Off,Logan Scott,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,191,1.0,2024
+RIT,VC,Vassar Brewers,Turnover,N/A,JP Miranda,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,192,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,193,2.0,2024
+RIT,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,PNR,High,Off,JP Miranda,Spot Ups,Right,Drive,Liberty League,Liberty League,194,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,195,4.0,2024
+RIT,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,196,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,199,4.0,2024
+RIT,VC,Vassar Brewers,Foul,N/A,Shea Fitzgerald,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,200,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,203,4.0,2024
+RIT,VC,Vassar Brewers,Foul,N/A,Shea Fitzgerald,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,204,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Chase Dickens,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,207,4.0,2024
+RIT,VC,Vassar Brewers,Foul,N/A,Nathan Denham,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,208,1.0,2024
+RIT,VC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,211,4.0,2024

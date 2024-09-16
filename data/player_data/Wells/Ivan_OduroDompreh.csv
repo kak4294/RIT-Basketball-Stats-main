@@ -1,0 +1,6 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Ivan OduroDompreh,Wells,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Ivan OduroDompreh,Wells,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_efficiency.csv,,
+Ivan OduroDompreh,Wells,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_iso_efficiency.csv,,
+Ivan OduroDompreh,Wells,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_iso_top_efficiency.csv,,
+Ivan OduroDompreh,Wells,2,0,0,,2,1,50.0,1,0,0.0,50.0,0.0,0.0,playerefficiency.csv,,

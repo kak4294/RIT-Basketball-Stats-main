@@ -1,0 +1,30 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Riley Spencer,Elmira,2,0,0,,2,0,0.0,0,0,,0.0,0.0,0.0,player_cut_efficiency.csv,,
+Riley Spencer,Elmira,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_cut_flash_efficiency.csv,,
+Riley Spencer,Elmira,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_cut_screen_efficiency.csv,,
+Riley Spencer,Elmira,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_handoffs_bhleft_dribble_efficiency.csv,,
+Riley Spencer,Elmira,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_handoffs_bhleft_efficiency.csv,,
+Riley Spencer,Elmira,2,1,0,0.0,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Riley Spencer,Elmira,2,1,0,0.0,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Riley Spencer,Elmira,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_top_dribble_efficiency.csv,,
+Riley Spencer,Elmira,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_top_efficiency.csv,,
+Riley Spencer,Elmira,1,0,0,,0,0,,0,0,,,0.0,1.0,player_post_efficiency.csv,,
+Riley Spencer,Elmira,1,0,0,,0,0,,0,0,,,0.0,1.0,player_post_rightblock_efficiency.csv,,
+Riley Spencer,Elmira,1,0,0,,0,0,,0,0,,,0.0,1.0,player_post_rightblock_rightshoulder_efficiency.csv,,
+Riley Spencer,Elmira,1,0,0,,0,0,,0,0,,,0.0,1.0,player_post_rightshoulder_efficiency.csv,,
+Riley Spencer,Elmira,2,0,0,,2,1,50.0,2,1,50.0,50.0,0.0,0.0,player_spotup_drive_efficiency.csv,,
+Riley Spencer,Elmira,3,1,0,0.0,2,1,50.0,2,1,50.0,33.33333,0.0,0.0,player_spotup_efficiency.csv,,
+Riley Spencer,Elmira,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Riley Spencer,Elmira,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Riley Spencer,Elmira,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Riley Spencer,Elmira,3,0,0,,3,1,33.3333,2,0,0.0,33.33333,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Riley Spencer,Elmira,1,0,0,,0,0,,0,0,,,1.0,0.0,player_transition_rightwing_efficiency.csv,,
+Riley Spencer,Elmira,13,2,0,0.0,8,2,25.0,6,1,16.6667,20.0,1.0,2.0,playerefficiency.csv,,
+Riley Spencer,Elmira,2,0,0,,2,1,50.0,2,1,50.0,50.0,0.0,0.0,playerefficiencyleft.csv,,
+Riley Spencer,Elmira,2,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,1.0,playerefficiencyright.csv,,
+,Elmira,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Riley Spencer,Dylan Jacob
+,Elmira,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Riley Spencer,Dylan Jacob
+,Elmira,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Marc Anthony Artuz,Riley Spencer
+,Elmira,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Marc Anthony Artuz,Riley Spencer
+,Elmira,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Riley Spencer,Dylan Jacob
+,Elmira,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Riley Spencer,Dylan Jacob

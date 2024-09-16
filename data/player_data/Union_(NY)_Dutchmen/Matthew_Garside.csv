@@ -1,0 +1,37 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Matthew Garside,Union (NY) Dutchmen,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_handoffs_bhright_dribble_efficiency.csv,,
+Matthew Garside,Union (NY) Dutchmen,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_handoffs_bhright_efficiency.csv,,
+Matthew Garside,Union (NY) Dutchmen,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Matthew Garside,Union (NY) Dutchmen,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Matthew Garside,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,1.0,0.0,player_misc_efficiency.csv,,
+Matthew Garside,Union (NY) Dutchmen,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_offscreens_efficiency.csv,,
+Matthew Garside,Union (NY) Dutchmen,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_offscreens_rightshoulder_efficiency.csv,,
+Matthew Garside,Union (NY) Dutchmen,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_offscreens_rightshoulder_straight_efficiency.csv,,
+Matthew Garside,Union (NY) Dutchmen,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_offscreens_straight_efficiency.csv,,
+Matthew Garside,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_bhhigh_efficiency.csv,,
+Matthew Garside,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Matthew Garside,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_efficiency.csv,,
+Matthew Garside,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Matthew Garside,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,1.0,0.0,player_spotup_drive_efficiency.csv,,
+Matthew Garside,Union (NY) Dutchmen,7,6,0,0.0,0,0,,0,0,,0.0,1.0,0.0,player_spotup_efficiency.csv,,
+Matthew Garside,Union (NY) Dutchmen,6,6,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Matthew Garside,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,1.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Matthew Garside,Union (NY) Dutchmen,2,0,0,,2,0,0.0,1,0,0.0,0.0,0.0,0.0,player_transition_bh_efficiency.csv,,
+Matthew Garside,Union (NY) Dutchmen,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Matthew Garside,Union (NY) Dutchmen,2,1,1,100.0,1,0,0.0,0,0,,75.0,0.0,0.0,player_transition_rightwing_efficiency.csv,,
+Matthew Garside,Union (NY) Dutchmen,17,11,3,27.2727,4,1,25.0,2,1,50.0,36.66667,2.0,0.0,playerefficiency.csv,,
+Matthew Garside,Union (NY) Dutchmen,2,0,0,,1,1,100.0,1,1,100.0,100.0,1.0,0.0,playerefficiencyleft.csv,,
+Matthew Garside,Union (NY) Dutchmen,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,playerefficiencyright.csv,,
+,Union (NY) Dutchmen,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,player_rollman_efficiency.csv,Matthew Garside,Christian Dufort
+,Union (NY) Dutchmen,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,player_rollman_roll_efficiency.csv,Matthew Garside,Christian Dufort
+,Union (NY) Dutchmen,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Matthew Garside,Luke Mcgarrity
+,Union (NY) Dutchmen,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Matthew Garside,Luke Mcgarrity
+,Union (NY) Dutchmen,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,twoplayer_pnrbhleft_rollman_efficiency.csv,Matthew Garside,Christian Dufort
+,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Lemar Fulmore Jr,Matthew Garside
+,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Tanner Tedesco,Matthew Garside
+,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Lemar Fulmore Jr,Matthew Garside
+,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Tanner Tedesco,Matthew Garside
+,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_iso_cut_efficiency.csv,Matthew Garside,Luke Mcgarrity
+,Union (NY) Dutchmen,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Matthew Garside,Luke Mcgarrity
+,Union (NY) Dutchmen,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,twoplayer_pnrbhleft_rollmanrolls_efficiency.csv,Matthew Garside,Christian Dufort
+,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Connor Cepiel,Matthew Garside

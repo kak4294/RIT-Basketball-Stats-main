@@ -1,0 +1,155 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+RIT,RPI,Rochester Institute of Technology Tigers,2pMa,To Basket,Keegan Ocorr,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,Turnover,To Basket,Andrew Deppe,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pMa,Dribble Jumper,Andrew Deppe,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,2.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Brock Bowen,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pmi,To Basket,Jonny Angbazo,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dyland Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dyland Matchett,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,15,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,Turnover,N/A,Jonny Angbazo,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Keegan Ocorr,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,2.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dyland Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,19,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Chase Dickens,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,21,2.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,Turnover,N/A,Kenny Wilburn,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,23,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Ben Eugster,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Josiah Turner,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pmi,To Basket,Yechiel Stewart,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,28,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,And1,To Basket,Chase Dickens,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,29,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pmi,To Basket,Dyland Matchett,PNR,Right,Off,Ben Eugster,Spot Ups,Right,Drive,Liberty League,Liberty League,32,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Chase Dickens,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,Foul,To Basket,Avery Eugster,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,Turnover,N/A,Brody Brown,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,37,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pmi,Dribble Jumper,Dyland Matchett,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,38,3.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pmi,To Basket,Ben Eugster,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,41,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,42,2.0,2024
+RIT,RPI,Rensselaer Polytechnic,Turnover,N/A,Dyland Matchett,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,Turnover,N/A,Keegan Ocorr,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,45,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Ben Eugster,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,46,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pmi,To Basket,Dyland Matchett,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,Liberty League,Liberty League,48,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Keegan Ocorr,PNR,High,Off,Brandon Weiss,Spot Ups,N/A,Shot,Liberty League,Liberty League,49,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,Turnover,N/A,Ben Eugster,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pMa,Hook Shot,Jackson Otis,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,51,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,Turnover,N/A,Dyland Matchett,PNR,High,Off,Pat White,P&R Roll Man,Right,Pop,Liberty League,Liberty League,52,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,2.0,2024
+RIT,RPI,Rensselaer Polytechnic,Turnover,To Basket,Nate Tawiah-Boateng,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,55,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pmi,To Basket,Brock Bowen,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,56,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pMa,To Basket,Yechiel Stewart,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,57,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,58,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pmi,To Basket,Jonny Angbazo,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,59,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brandon Weiss,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pmi,To Basket,Jonny Angbazo,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,61,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Jackson Otis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,Foul,To Basket,Yechiel Stewart,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,Left,Away,Kenny Wilburn,P&R Roll Man,Right,Pop,Liberty League,Liberty League,66,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,Foul,To Basket,Zac Ditzel,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,70,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,71,2.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pmi,No Dribble Jumper,PJ Scalisi,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,3.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,Turnover,N/A,Jonny Angbazo,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,74,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,Foul,To Basket,Kenny Wilburn,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,76,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,PNR,Left,Off,Dyland Matchett,Spot Ups,N/A,Shot,Liberty League,Liberty League,79,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Kenny Wilburn,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,2.0,2024
+RIT,RPI,Rensselaer Polytechnic,Turnover,To Basket,Dyland Matchett,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,81,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,Foul,N/A,Zac Ditzel,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,82,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,Turnover,N/A,Keegan Ocorr,PNR,Left,Off,Kenny Wilburn,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,86,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Jonny Angbazo,PNR,High,Off,Dyland Matchett,Spot Ups,N/A,Shot,Liberty League,Liberty League,87,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Brandon Weiss,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,2.0,2024
+RIT,RPI,Rensselaer Polytechnic,Foul,N/A,Dyland Matchett,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Brock Bowen,Spot Ups,N/A,Shot,Liberty League,Liberty League,92,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pmi,To Basket,Jonny Angbazo,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,93,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,94,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pMa,To Basket,Dyland Matchett,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Brock Bowen,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,96,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,97,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Keegan Ocorr,PNR,High,Off,Kenny Wilburn,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,98,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Jonny Angbazo,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Jonny Angbazo,Iso,Right,N/A,Avery Eugster,Spot Ups,N/A,Shot,Liberty League,Liberty League,102,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pmi,To Basket,Jonny Angbazo,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,Foul,To Basket,Keegan Ocorr,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Jonny Angbazo,PNR,High,N/A,Dyland Matchett,Spot Ups,N/A,Shot,Liberty League,Liberty League,108,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Post,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,109,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pMa,To Basket,Jonny Angbazo,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,110,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Chase Dickens,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Jonny Angbazo,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,114,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Jonny Angbazo,Post,Left,N/A,Avery Eugster,Spot Ups,N/A,Shot,Liberty League,Liberty League,116,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pMa,To Basket,Keegan Ocorr,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,Foul,To Basket,Jonny Angbazo,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Keegan Ocorr,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,2.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,123,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,124,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Nate Tawiah-Boateng,Post,Right,N/A,Yechiel Stewart,Spot Ups,N/A,Shot,Liberty League,Liberty League,126,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pmi,Dribble Jumper,PJ Scalisi,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,129,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,Foul,N/A,Nate Tawiah-Boateng,Post,Left,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,130,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pmi,Dribble Jumper,Dyland Matchett,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,134,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brody Brown,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,135,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,136,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Avery Eugster,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,137,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,High,Away,Josiah Turner,P&R Roll Man,Left,Pop,Liberty League,Liberty League,138,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pmi,To Basket,Jonny Angbazo,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,And1,To Basket,Jonny Angbazo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,143,2.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Ben Eugster,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,144,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Keegan Ocorr,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,145,3.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Andrew Deppe,Post,Left,Left Shoulder,PJ Scalisi,Spot Ups,N/A,Shot,Liberty League,Liberty League,146,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,147,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pmi,To Basket,Jonny Angbazo,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,148,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,150,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pmi,To Basket,Brock Bowen,PNR,High,Off,Keegan Ocorr,Cuts,N/A,Basket,Liberty League,Liberty League,152,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,Post,Left,N/A,Avery Eugster,Cuts,N/A,Basket,Liberty League,Liberty League,153,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,154,2.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Avery Eugster,Post,Left,N/A,Jonny Angbazo,Spot Ups,N/A,Shot,Liberty League,Liberty League,156,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Brock Bowen,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Josiah Turner,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,And1,Dribble Jumper,Brock Bowen,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,160,3.0,2024
+RIT,RPI,Rensselaer Polytechnic,Turnover,N/A,Avery Eugster,Post,Middle,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,162,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,And1,To Basket,Matt Caggiano,PNR,High,Off,Brock Bowen,Spot Ups,Right,Drive,Liberty League,Liberty League,163,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dyland Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,3pMa,Dribble Jumper,Matt Caggiano,PNR,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,PNR,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,169,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pMa,To Basket,Jonny Angbazo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,170,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,171,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,Turnover,N/A,Jonny Angbazo,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,172,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,Foul,To Basket,Matt Caggiano,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Dyland Matchett,Iso,Top,N/A,Avery Eugster,Spot Ups,N/A,Shot,Liberty League,Liberty League,176,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Brock Bowen,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,3.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Jonny Angbazo,PNR,Right,Away,Avery Eugster,Spot Ups,N/A,Shot,Liberty League,Liberty League,178,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,179,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,Turnover,N/A,Jonny Angbazo,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,180,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,Foul,N/A,Kenny Wilburn,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pmi,To Basket,Avery Eugster,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,184,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,186,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,188,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pmi,To Basket,PJ Scalisi,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,189,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pmi,To Basket,Keegan Ocorr,PNR,High,Away,Kenny Wilburn,P&R Roll Man,Right,Pop,Liberty League,Liberty League,190,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,191,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,192,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pMa,To Basket,Dyland Matchett,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,193,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,194,4.0,2024
+RIT,RPI,Rensselaer Polytechnic,Foul,To Basket,Jonny Angbazo,Post,Left,Left Shoulder,Andrew Deppe,Cuts,N/A,Basket,Liberty League,Liberty League,195,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pmi,To Basket,Brock Bowen,PNR,High,Off,Keegan Ocorr,Spot Ups,Right,Drive,Liberty League,Liberty League,198,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dyland Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,199,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,Foul,N/A,Matt Caggiano,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,200,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,And1,To Basket,Matt Caggiano,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,204,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pmi,To Basket,Jonny Angbazo,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,206,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Jonny Angbazo,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,208,4.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,210,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,Foul,N/A,Jonny Angbazo,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,211,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,Foul,N/A,Brock Bowen,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,213,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,2pmi,To Basket,Dyland Matchett,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,216,1.0,2024
+RIT,RPI,Rochester Institute of Technology Tigers,Foul,N/A,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,217,1.0,2024
+RIT,RPI,Rensselaer Polytechnic,3pMa,Dribble Jumper,Avery Eugster,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,220,4.0,2024

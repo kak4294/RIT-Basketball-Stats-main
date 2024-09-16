@@ -1,0 +1,52 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Pat Healy,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_top_dribble_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_top_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,7,1,0,0.0,6,3,50.0,1,1,100.0,42.85714,0.0,0.0,player_iso_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_iso_left_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,2,0,0,,2,1,50.0,1,1,100.0,50.0,0.0,0.0,player_iso_right_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,4,1,0,0.0,3,2,66.6667,0,0,,50.0,0.0,0.0,player_iso_top_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,4,0,0,,1,0,0.0,0,0,,0.0,3.0,0.0,player_misc_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_offscreens_curl_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,5,1,0,0.0,4,3,75.0,1,1,100.0,60.0,0.0,0.0,player_offscreens_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_offscreens_flare_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_offscreens_leftshoulder_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_offscreens_rightshoulder_curl_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,4,1,0,0.0,3,2,66.6667,1,1,100.0,50.0,0.0,0.0,player_offscreens_rightshoulder_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,3,1,0,0.0,2,1,50.0,1,1,100.0,33.33333,0.0,0.0,player_offscreens_rightshoulder_straight_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,3,1,0,0.0,2,1,50.0,1,1,100.0,33.33333,0.0,0.0,player_offscreens_straight_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,6,0,0,,5,4,80.0,2,2,100.0,80.0,1.0,0.0,player_pnr_bhhigh_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,2,0,0,,2,1,50.0,1,1,100.0,50.0,0.0,0.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,4,0,0,,3,3,100.0,1,1,100.0,100.0,1.0,0.0,player_pnr_bhhigh_rejectpick_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,2,0,0,,1,0,0.0,1,0,0.0,0.0,1.0,0.0,player_pnr_bhleft_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_pnr_bhleft_offpick_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,1,0,0,,0,0,,0,0,,,1.0,0.0,player_pnr_bhleft_rejectpick_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,3,1,1,100.0,2,1,50.0,1,0,0.0,83.33333,0.0,0.0,player_pnr_bhright_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,2,1,1,100.0,1,0,0.0,1,0,0.0,75.0,0.0,0.0,player_pnr_bhright_offpick_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_pnr_bhright_rejectpick_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,11,1,1,100.0,8,5,62.5,4,2,50.0,72.22222,2.0,0.0,player_pnr_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,5,1,1,100.0,4,1,25.0,3,1,33.3333,50.0,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,6,0,0,,4,4,100.0,1,1,100.0,100.0,2.0,0.0,player_pnr_rejectpick_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,8,0,0,,7,4,57.1429,5,3,60.0,57.14286,1.0,0.0,player_spotup_drive_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,10,2,1,50.0,7,4,57.1429,5,3,60.0,61.11111,1.0,0.0,player_spotup_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,5,0,0,,4,3,75.0,3,2,66.6667,75.0,1.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,3,0,0,,3,1,33.3333,2,1,50.0,33.33333,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,2,0,0,,2,2,100.0,0,0,,100.0,0.0,0.0,player_transition_bh_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_transition_rightwing_efficiency.csv,,
+Pat Healy,Hobart College Statesmen,44,5,2,40.0,33,21,63.6364,11,7,63.6364,63.15789,6.0,0.0,playerefficiency.csv,,
+Pat Healy,Hobart College Statesmen,12,1,0,0.0,9,5,55.5556,5,3,60.0,50.0,2.0,0.0,playerefficiencyleft.csv,,
+Pat Healy,Hobart College Statesmen,9,1,1,100.0,8,4,50.0,4,2,50.0,61.11111,0.0,0.0,playerefficiencyright.csv,,
+,Hobart College Statesmen,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_rollman_efficiency.csv,Pat Healy,Ryan Lucey
+,Hobart College Statesmen,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_rollman_pop_efficiency.csv,Pat Healy,Ryan Lucey
+,Hobart College Statesmen,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Pat Healy,Ryan Lucey
+,Hobart College Statesmen,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Aidan Rodgers,Pat Healy
+,Hobart College Statesmen,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnrbhright_spotupdrives_efficiency.csv,Aidan Rodgers,Pat Healy
+,Hobart College Statesmen,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_post_spotupjumper_efficiency.csv,Carter Meshanic,Pat Healy
+,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_iso_cut_efficiency.csv,Pat Healy,Carter Meshanic
+,Hobart College Statesmen,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Pat Healy,Ryan Lucey
+,Hobart College Statesmen,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_iso_spotupdrives_efficiency.csv,Aidan Rodgers,Pat Healy
+,Hobart College Statesmen,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Aidan Rodgers,Pat Healy

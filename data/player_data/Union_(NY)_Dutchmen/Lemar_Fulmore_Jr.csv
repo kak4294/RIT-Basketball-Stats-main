@@ -1,0 +1,29 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Lemar Fulmore Jr,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,0.0,1.0,player_cut_basket_efficiency.csv,,
+Lemar Fulmore Jr,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,0.0,1.0,player_cut_efficiency.csv,,
+Lemar Fulmore Jr,Union (NY) Dutchmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_iso_efficiency.csv,,
+Lemar Fulmore Jr,Union (NY) Dutchmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_iso_top_efficiency.csv,,
+Lemar Fulmore Jr,Union (NY) Dutchmen,2,0,0,,1,1,100.0,1,1,100.0,100.0,1.0,0.0,player_misc_efficiency.csv,,
+Lemar Fulmore Jr,Union (NY) Dutchmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_pnr_bhleft_efficiency.csv,,
+Lemar Fulmore Jr,Union (NY) Dutchmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_pnr_bhleft_offpick_efficiency.csv,,
+Lemar Fulmore Jr,Union (NY) Dutchmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_pnr_efficiency.csv,,
+Lemar Fulmore Jr,Union (NY) Dutchmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Lemar Fulmore Jr,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Lemar Fulmore Jr,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Lemar Fulmore Jr,Union (NY) Dutchmen,4,0,0,,2,0,0.0,0,0,,0.0,2.0,0.0,player_transition_bh_efficiency.csv,,
+Lemar Fulmore Jr,Union (NY) Dutchmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_transition_rightwing_efficiency.csv,,
+Lemar Fulmore Jr,Union (NY) Dutchmen,11,1,0,0.0,6,3,50.0,1,1,100.0,42.85714,3.0,1.0,playerefficiency.csv,,
+Lemar Fulmore Jr,Union (NY) Dutchmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,playerefficiencyleft.csv,,
+,Union (NY) Dutchmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Lemar Fulmore Jr,Luke Mcgarrity
+,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Lemar Fulmore Jr,Connor Cepiel
+,Union (NY) Dutchmen,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Lemar Fulmore Jr,Edward Baptiste
+,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Lemar Fulmore Jr,Matthew Garside
+,Union (NY) Dutchmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Lemar Fulmore Jr,Luke Mcgarrity
+,Union (NY) Dutchmen,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Lemar Fulmore Jr,Edward Baptiste
+,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Lemar Fulmore Jr,Matthew Garside
+,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhright_spotupdrives_efficiency.csv,Lemar Fulmore Jr,Connor Cepiel
+,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Connor Cepiel,Lemar Fulmore Jr
+,Union (NY) Dutchmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Connor Cepiel,Lemar Fulmore Jr
+,Union (NY) Dutchmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Lemar Fulmore Jr,Luke Mcgarrity
+,Union (NY) Dutchmen,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Lemar Fulmore Jr,Connor Cepiel
+,Union (NY) Dutchmen,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Lemar Fulmore Jr,Edward Baptiste
