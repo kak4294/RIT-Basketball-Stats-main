@@ -1,0 +1,30 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Alex Walters,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_bhright_dribble_efficiency.csv,,
+Alex Walters,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_bhright_efficiency.csv,,
+Alex Walters,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Alex Walters,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Alex Walters,Vassar Brewers,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_efficiency.csv,,
+Alex Walters,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_flare_efficiency.csv,,
+Alex Walters,Vassar Brewers,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_rightshoulder_efficiency.csv,,
+Alex Walters,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_rightshoulder_flare_efficiency.csv,,
+Alex Walters,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_rightshoulder_straight_efficiency.csv,,
+Alex Walters,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_straight_efficiency.csv,,
+Alex Walters,Vassar Brewers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_spotup_efficiency.csv,,
+Alex Walters,Vassar Brewers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Alex Walters,Vassar Brewers,8,8,2,25.0,0,0,,0,0,,37.5,0.0,0.0,playerefficiency.csv,,
+Alex Walters,Vassar Brewers,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,playerefficiencyleft.csv,,
+Alex Walters,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,playerefficiencyright.csv,,
+,Vassar Brewers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_rollman_efficiency.csv,JP Miranda,Alex Walters
+,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Shea Fitzgerald,Alex Walters
+,Vassar Brewers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_rollman_pop_efficiency.csv,JP Miranda,Alex Walters
+,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_pop_efficiency.csv,Shea Fitzgerald,Alex Walters
+,Vassar Brewers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,twoplayer_bhhigh_rollmanpops_efficiency.csv,JP Miranda,Alex Walters
+,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_bhhigh_rollmanpops_efficiency.csv,Shea Fitzgerald,Alex Walters
+,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Luke Adams,Alex Walters
+,Vassar Brewers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Avery Lee,Alex Walters
+,Vassar Brewers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,JP Miranda,Alex Walters
+,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Shea Fitzgerald,Alex Walters
+,Vassar Brewers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,JP Miranda,Alex Walters
+,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Shea Fitzgerald,Alex Walters
+,Vassar Brewers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Avery Lee,Alex Walters
+,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupjumper_efficiency.csv,Luke Adams,Alex Walters

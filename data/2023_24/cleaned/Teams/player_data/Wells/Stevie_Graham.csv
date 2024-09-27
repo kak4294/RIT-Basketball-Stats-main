@@ -1,0 +1,7 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Stevie Graham,Wells,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_spotup_drive_efficiency.csv,,
+Stevie Graham,Wells,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Stevie Graham,Wells,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Stevie Graham,Wells,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Stevie Graham,Wells,2,1,0,0.0,1,0,0.0,1,0,0.0,0.0,0.0,0.0,playerefficiency.csv,,
+Stevie Graham,Wells,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,playerefficiencyleft.csv,,

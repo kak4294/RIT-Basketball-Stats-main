@@ -1,0 +1,6 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Cameron Storm,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_cut_basket_efficiency.csv,,
+Cameron Storm,Rochester Institute of Technology Tigers,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,player_cut_efficiency.csv,,
+Cameron Storm,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_cut_screen_efficiency.csv,,
+Cameron Storm,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_misc_efficiency.csv,,
+Cameron Storm,Rochester Institute of Technology Tigers,4,0,0,,2,0,0.0,1,0,0.0,0.0,2.0,0.0,playerefficiency.csv,,

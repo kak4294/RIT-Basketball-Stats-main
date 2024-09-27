@@ -1,0 +1,19 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Gabriel Bergeron,Hobart College Statesmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_cut_efficiency.csv,,
+Gabriel Bergeron,Hobart College Statesmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_cut_screen_efficiency.csv,,
+Gabriel Bergeron,Hobart College Statesmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_iso_efficiency.csv,,
+Gabriel Bergeron,Hobart College Statesmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_iso_top_efficiency.csv,,
+Gabriel Bergeron,Hobart College Statesmen,4,0,0,,1,0,0.0,1,0,0.0,0.0,1.0,2.0,player_spotup_drive_efficiency.csv,,
+Gabriel Bergeron,Hobart College Statesmen,9,5,0,0.0,1,0,0.0,1,0,0.0,0.0,1.0,2.0,player_spotup_efficiency.csv,,
+Gabriel Bergeron,Hobart College Statesmen,5,5,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Gabriel Bergeron,Hobart College Statesmen,1,0,0,,0,0,,0,0,,,0.0,1.0,player_spotup_leftdrive_efficiency.csv,,
+Gabriel Bergeron,Hobart College Statesmen,2,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,1.0,player_spotup_rightdrive_efficiency.csv,,
+Gabriel Bergeron,Hobart College Statesmen,1,0,0,,0,0,,0,0,,,1.0,0.0,player_spotup_straightdrive_efficiency.csv,,
+Gabriel Bergeron,Hobart College Statesmen,11,5,0,0.0,3,0,0.0,1,0,0.0,0.0,1.0,2.0,playerefficiency.csv,,
+Gabriel Bergeron,Hobart College Statesmen,1,0,0,,0,0,,0,0,,,0.0,1.0,playerefficiencyleft.csv,,
+Gabriel Bergeron,Hobart College Statesmen,2,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,1.0,playerefficiencyright.csv,,
+,Hobart College Statesmen,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Aidan Rodgers,Gabriel Bergeron
+,Hobart College Statesmen,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Aidan Rodgers,Gabriel Bergeron
+,Hobart College Statesmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Aidan Rodgers,Gabriel Bergeron
+,Hobart College Statesmen,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupdrives_efficiency.csv,Aidan Rodgers,Gabriel Bergeron
+,Hobart College Statesmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Aidan Rodgers,Gabriel Bergeron

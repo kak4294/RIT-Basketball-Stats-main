@@ -1,0 +1,9 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Don Mays Jr,Wells,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_pnr_bhright_efficiency.csv,,
+Don Mays Jr,Wells,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_pnr_bhright_rejectpick_efficiency.csv,,
+Don Mays Jr,Wells,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_pnr_efficiency.csv,,
+Don Mays Jr,Wells,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_pnr_rejectpick_efficiency.csv,,
+Don Mays Jr,Wells,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Don Mays Jr,Wells,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Don Mays Jr,Wells,2,1,0,0.0,1,1,100.0,1,1,100.0,50.0,0.0,0.0,playerefficiency.csv,,
+Don Mays Jr,Wells,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,playerefficiencyright.csv,,

@@ -1,0 +1,9 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+David Ackles,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+David Ackles,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_efficiency.csv,,
+David Ackles,Rochester (NY) Yellowjackets,2,0,0,,1,1,100.0,0,0,,100.0,0.0,1.0,playerefficiency.csv,,
+,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,0.0,1.0,player_rollman_efficiency.csv,Jack Garside,David Ackles
+,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,0.0,1.0,player_rollman_roll_efficiency.csv,Jack Garside,David Ackles
+,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnrbhright_rollman_efficiency.csv,Jack Garside,David Ackles
+,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnrbhright_rollmanrolls_efficiency.csv,Jack Garside,David Ackles
+,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_post_cut_efficiency.csv,Matt Wiele,David Ackles

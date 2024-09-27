@@ -1,0 +1,25 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Emmanuel Leftenant,Alfred State Pioneers,3,0,0,,1,0,0.0,0,0,,0.0,1.0,1.0,player_misc_efficiency.csv,,
+Emmanuel Leftenant,Alfred State Pioneers,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_pnr_bhhigh_efficiency.csv,,
+Emmanuel Leftenant,Alfred State Pioneers,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Emmanuel Leftenant,Alfred State Pioneers,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_pnr_efficiency.csv,,
+Emmanuel Leftenant,Alfred State Pioneers,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Emmanuel Leftenant,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,0.0,1.0,player_spotup_drive_efficiency.csv,,
+Emmanuel Leftenant,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,0.0,1.0,player_spotup_efficiency.csv,,
+Emmanuel Leftenant,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,0.0,1.0,player_spotup_leftdrive_efficiency.csv,,
+Emmanuel Leftenant,Alfred State Pioneers,3,0,0,,1,0,0.0,0,0,,0.0,1.0,1.0,player_transition_bh_efficiency.csv,,
+Emmanuel Leftenant,Alfred State Pioneers,9,0,0,,4,1,25.0,0,0,,25.0,2.0,3.0,playerefficiency.csv,,
+Emmanuel Leftenant,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,0.0,1.0,playerefficiencyleft.csv,,
+,Alfred State Pioneers,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Emmanuel Leftenant,Cody Schneider
+,Alfred State Pioneers,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_pop_efficiency.csv,Emmanuel Leftenant,Cody Schneider
+,Alfred State Pioneers,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_bhhigh_rollmanpops_efficiency.csv,Emmanuel Leftenant,Cody Schneider
+,Alfred State Pioneers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Emmanuel Leftenant,Ryan Rosa
+,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Emmanuel Leftenant,Paris Jamison
+,Alfred State Pioneers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Emmanuel Leftenant,Ryan Rosa
+,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Emmanuel Leftenant,Paris Jamison
+,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Emmanuel Leftenant,Dylan Perry
+,Alfred State Pioneers,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Emmanuel Leftenant,Cody Schneider
+,Alfred State Pioneers,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Emmanuel Leftenant,Cody Schneider
+,Alfred State Pioneers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Emmanuel Leftenant,Ryan Rosa
+,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Emmanuel Leftenant,Paris Jamison
+,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Emmanuel Leftenant,Dylan Perry

@@ -1,0 +1,36 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Ian Bentley,Skidmore Thoroughbreds,1,0,0,,0,0,,0,0,,,1.0,0.0,player_cut_basket_efficiency.csv,,
+Ian Bentley,Skidmore Thoroughbreds,1,0,0,,0,0,,0,0,,,1.0,0.0,player_cut_efficiency.csv,,
+Ian Bentley,Skidmore Thoroughbreds,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_bhleft_dribble_efficiency.csv,,
+Ian Bentley,Skidmore Thoroughbreds,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_bhleft_efficiency.csv,,
+Ian Bentley,Skidmore Thoroughbreds,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Ian Bentley,Skidmore Thoroughbreds,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Ian Bentley,Skidmore Thoroughbreds,1,0,0,,0,0,,0,0,,,1.0,0.0,player_misc_efficiency.csv,,
+Ian Bentley,Skidmore Thoroughbreds,3,3,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_efficiency.csv,,
+Ian Bentley,Skidmore Thoroughbreds,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_flare_efficiency.csv,,
+Ian Bentley,Skidmore Thoroughbreds,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_leftshoulder_efficiency.csv,,
+Ian Bentley,Skidmore Thoroughbreds,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_leftshoulder_straight_efficiency.csv,,
+Ian Bentley,Skidmore Thoroughbreds,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_rightshoulder_efficiency.csv,,
+Ian Bentley,Skidmore Thoroughbreds,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_rightshoulder_flare_efficiency.csv,,
+Ian Bentley,Skidmore Thoroughbreds,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_straight_efficiency.csv,,
+Ian Bentley,Skidmore Thoroughbreds,2,0,0,,1,1,100.0,0,0,,100.0,1.0,0.0,player_spotup_drive_efficiency.csv,,
+Ian Bentley,Skidmore Thoroughbreds,4,2,0,0.0,1,1,100.0,0,0,,33.33333,1.0,0.0,player_spotup_efficiency.csv,,
+Ian Bentley,Skidmore Thoroughbreds,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Ian Bentley,Skidmore Thoroughbreds,2,0,0,,1,1,100.0,0,0,,100.0,1.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Ian Bentley,Skidmore Thoroughbreds,1,0,0,,0,0,,0,0,,,1.0,0.0,player_transition_bh_efficiency.csv,,
+Ian Bentley,Skidmore Thoroughbreds,1,0,0,,0,0,,0,0,,,,,player_transition_leakouts_efficiency.csv,,
+Ian Bentley,Skidmore Thoroughbreds,13,7,0,0.0,1,1,100.0,0,0,,12.5,4.0,1.0,playerefficiency.csv,,
+Ian Bentley,Skidmore Thoroughbreds,4,2,0,0.0,1,1,100.0,0,0,,33.33333,1.0,0.0,playerefficiencyleft.csv,,
+Ian Bentley,Skidmore Thoroughbreds,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,playerefficiencyright.csv,,
+,Skidmore Thoroughbreds,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Nick Padilla,Ian Bentley
+,Skidmore Thoroughbreds,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_pop_efficiency.csv,Nick Padilla,Ian Bentley
+,Skidmore Thoroughbreds,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_bhhigh_rollmanpops_efficiency.csv,Nick Padilla,Ian Bentley
+,Skidmore Thoroughbreds,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnr_cut_efficiency.csv,Nick Padilla,Ian Bentley
+,Skidmore Thoroughbreds,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Jake Walsh,Ian Bentley
+,Skidmore Thoroughbreds,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Jake Walsh,Ian Bentley
+,Skidmore Thoroughbreds,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Nick Padilla,Ian Bentley
+,Skidmore Thoroughbreds,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Nick Padilla,Ian Bentley
+,Skidmore Thoroughbreds,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Nick Padilla,Ian Bentley
+,Skidmore Thoroughbreds,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Jake Walsh,Ian Bentley
+,Skidmore Thoroughbreds,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Nick Padilla,Ian Bentley
+,Skidmore Thoroughbreds,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhright_cuts_efficiency.csv,Nick Padilla,Ian Bentley

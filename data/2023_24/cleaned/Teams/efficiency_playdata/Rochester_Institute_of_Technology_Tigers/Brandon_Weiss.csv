@@ -1,0 +1,73 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Brandon Weiss,Rochester Institute of Technology Tigers,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,3,0,0,,3,2,66.6667,0,0,,66.66667,0.0,0.0,player_cut_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_flash_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,3,2,1,50.0,1,0,0.0,1,0,0.0,50.0,0.0,0.0,player_handoffs_bhleft_dribble_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,3,2,1,50.0,1,0,0.0,1,0,0.0,50.0,0.0,0.0,player_handoffs_bhleft_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_bhright_dribble_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,2,1,0,0.0,1,1,100.0,0,0,,50.0,0.0,0.0,player_handoffs_bhright_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_handoffs_bhright_stationary_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,4,3,1,33.3333,1,0,0.0,1,0,0.0,37.5,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,5,3,1,33.3333,2,1,50.0,1,0,0.0,50.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_handoffs_stationary_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,2,0,0,,2,0,0.0,0,0,,0.0,0.0,0.0,player_iso_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_iso_left_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_iso_top_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,3,0,0,,2,1,50.0,0,0,,50.0,1.0,0.0,player_misc_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,6,6,2,33.3333,0,0,,0,0,,50.0,0.0,0.0,player_offscreens_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_offscreens_leftshoulder_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_offscreens_leftshoulder_straight_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,5,5,1,20.0,0,0,,0,0,,30.0,0.0,0.0,player_offscreens_rightshoulder_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,5,5,1,20.0,0,0,,0,0,,30.0,0.0,0.0,player_offscreens_rightshoulder_straight_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,6,6,2,33.3333,0,0,,0,0,,50.0,0.0,0.0,player_offscreens_straight_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,7,3,0,0.0,3,1,33.3333,0,0,,16.66667,0.0,1.0,player_pnr_bhhigh_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,5,3,0,0.0,1,0,0.0,0,0,,0.0,0.0,1.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_pnr_bhhigh_rejectpick_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,2,1,0,0.0,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_pnr_bhleft_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,2,1,0,0.0,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_pnr_bhleft_offpick_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,9,4,0,0.0,4,1,25.0,1,0,0.0,12.5,0.0,1.0,player_pnr_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,7,4,0,0.0,2,0,0.0,1,0,0.0,0.0,0.0,1.0,player_pnr_offpick_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_pnr_rejectpick_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,9,1,1,100.0,7,1,14.2857,1,0,0.0,31.25,0.0,1.0,player_spotup_drive_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,40,31,13,41.9355,8,1,12.5,2,0,0.0,52.5641,0.0,1.0,player_spotup_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,31,30,12,40.0,1,0,0.0,1,0,0.0,58.06452,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,6,0,0,,5,0,0.0,1,0,0.0,0.0,0.0,1.0,player_spotup_leftdrive_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,3,1,1,100.0,2,1,50.0,0,0,,83.33333,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_transition_bh_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,7,5,1,20.0,1,1,100.0,0,0,,41.66667,1.0,0.0,player_transition_leftwing_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,6,5,3,60.0,0,0,,0,0,,90.0,0.0,1.0,player_transition_rightwing_efficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,83,54,20,37.037,23,7,30.4348,5,0,0.0,48.05195,3.0,3.0,playerefficiency.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,17,8,2,25.0,8,0,0.0,3,0,0.0,18.75,0.0,1.0,playerefficiencyleft.csv,,
+Brandon Weiss,Rochester Institute of Technology Tigers,6,3,2,66.6667,3,2,66.6667,0,0,,83.33333,0.0,0.0,playerefficiencyright.csv,,
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Brandon Weiss,Kenny Wilburn
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_rollman_efficiency.csv,Brandon Weiss,Brock Bowen
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_rollman_leftdrive_efficiency.csv,Brandon Weiss,Brock Bowen
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_rollman_leftdrive_pop_efficiency.csv,Brandon Weiss,Brock Bowen
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_rollman_pop_efficiency.csv,Brandon Weiss,Brock Bowen
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_roll_efficiency.csv,Brandon Weiss,Kenny Wilburn
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Brandon Weiss,Ronnie Toole
+,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_cut_efficiency.csv,Brandon Weiss,Josiah Turner
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Brandon Weiss,Zac Ditzel
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Brandon Weiss,Chase Dickens
+,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_cuts_efficiency.csv,Brandon Weiss,Josiah Turner
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Brandon Weiss,Chase Dickens
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhleft_rollman_efficiency.csv,Brandon Weiss,Brock Bowen
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhleft_rollmanpops_efficiency.csv,Brandon Weiss,Brock Bowen
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupjumper_efficiency.csv,Brandon Weiss,Zac Ditzel
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_rollman_efficiency.csv,Brandon Weiss,Kenny Wilburn
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_rollmanrolls_efficiency.csv,Brandon Weiss,Kenny Wilburn
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_iso_cut_efficiency.csv,Chase Dickens,Brandon Weiss
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_iso_spotupdrives_efficiency.csv,Kenny Wilburn,Brandon Weiss
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_iso_spotupdrives_efficiency.csv,Matt Caggiano,Brandon Weiss
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Chase Dickens,Brandon Weiss
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Matt Caggiano,Brandon Weiss
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Josiah Turner,Brandon Weiss
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Brock Bowen,Brandon Weiss
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Brock Bowen,Brandon Weiss
+,Rochester Institute of Technology Tigers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Matt Caggiano,Brandon Weiss
+,Rochester Institute of Technology Tigers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Keegan Ocorr,Brandon Weiss
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Brock Bowen,Brandon Weiss
+,Rochester Institute of Technology Tigers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Keegan Ocorr,Brandon Weiss
+,Rochester Institute of Technology Tigers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Matt Caggiano,Brandon Weiss
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Brock Bowen,Brandon Weiss
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupdrives_efficiency.csv,Brock Bowen,Brandon Weiss

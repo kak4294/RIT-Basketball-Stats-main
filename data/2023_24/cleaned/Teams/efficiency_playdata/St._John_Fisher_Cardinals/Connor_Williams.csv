@@ -1,0 +1,23 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Connor Williams,St. John Fisher Cardinals,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Connor Williams,St. John Fisher Cardinals,4,0,0,,4,2,50.0,0,0,,50.0,0.0,0.0,player_cut_efficiency.csv,,
+Connor Williams,St. John Fisher Cardinals,3,0,0,,3,2,66.6667,0,0,,66.66667,0.0,0.0,player_cut_screen_efficiency.csv,,
+Connor Williams,St. John Fisher Cardinals,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_efficiency.csv,,
+Connor Williams,St. John Fisher Cardinals,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_leftshoulder_efficiency.csv,,
+Connor Williams,St. John Fisher Cardinals,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_rightblock_efficiency.csv,,
+Connor Williams,St. John Fisher Cardinals,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_rightblock_leftshoulder_efficiency.csv,,
+Connor Williams,St. John Fisher Cardinals,10,2,1,50.0,8,5,62.5,0,0,,65.0,0.0,0.0,playerefficiency.csv,,
+Connor Williams,St. John Fisher Cardinals,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,playerefficiencyleft.csv,,
+,St. John Fisher Cardinals,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Akinlana Popoola,Connor Williams
+,St. John Fisher Cardinals,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_rollman_efficiency.csv,Joe Morrell,Connor Williams
+,St. John Fisher Cardinals,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_rollman_efficiency.csv,Maxwell Schneider,Connor Williams
+,St. John Fisher Cardinals,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_pop_efficiency.csv,Akinlana Popoola,Connor Williams
+,St. John Fisher Cardinals,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_rollman_roll_efficiency.csv,Joe Morrell,Connor Williams
+,St. John Fisher Cardinals,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_rollman_roll_efficiency.csv,Maxwell Schneider,Connor Williams
+,St. John Fisher Cardinals,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_bhhigh_rollmanpops_efficiency.csv,Akinlana Popoola,Connor Williams
+,St. John Fisher Cardinals,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Akinlana Popoola,Connor Williams
+,St. John Fisher Cardinals,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Maxwell Schneider,Connor Williams
+,St. John Fisher Cardinals,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Akinlana Popoola,Connor Williams
+,St. John Fisher Cardinals,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanrolls_efficiency.csv,Maxwell Schneider,Connor Williams
+,St. John Fisher Cardinals,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhleft_rollman_efficiency.csv,Joe Morrell,Connor Williams
+,St. John Fisher Cardinals,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhleft_rollmanrolls_efficiency.csv,Joe Morrell,Connor Williams

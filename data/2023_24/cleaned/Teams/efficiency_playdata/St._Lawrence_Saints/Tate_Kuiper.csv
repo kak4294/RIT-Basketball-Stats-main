@@ -1,0 +1,11 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Tate Kuiper,St. Lawrence Saints,1,0,0,,0,0,,0,0,,,1.0,0.0,player_misc_efficiency.csv,,
+Tate Kuiper,St. Lawrence Saints,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Tate Kuiper,St. Lawrence Saints,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Tate Kuiper,St. Lawrence Saints,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Tate Kuiper,St. Lawrence Saints,3,2,1,50.0,0,0,,0,0,,75.0,1.0,0.0,playerefficiency.csv,,
+,St. Lawrence Saints,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Tate Kuiper,Trey Syroka
+,St. Lawrence Saints,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Tate Kuiper,Trey Syroka
+,St. Lawrence Saints,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Tate Kuiper,Trey Syroka
+,St. Lawrence Saints,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Aiden Macaulay,Tate Kuiper
+,St. Lawrence Saints,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Aiden Macaulay,Tate Kuiper

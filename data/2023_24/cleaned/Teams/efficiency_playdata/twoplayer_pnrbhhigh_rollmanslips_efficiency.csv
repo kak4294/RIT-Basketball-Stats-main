@@ -1,0 +1,6 @@
+PrimaryPlayer,SecondaryPlayer,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul
+Bruce Brewer Jr,Blessed Mbogo,Gallaudet University Bison,2,2,1,50.0000,0,0,NULL,0,0,NULL,75.00000,0,0
+Matt Caggiano,Kenny Wilburn,Rochester Institute of Technology Tigers,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Dylan Perry,Cody Schneider,Alfred State Pioneers,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,0,1
+Ryan Miles-Ferguson,Jack Dalgety,Clarkson University Golden Knights,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,0,1
+Troy McPherson,Adam Dudzinski,St. Lawrence Saints,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0

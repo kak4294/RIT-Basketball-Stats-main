@@ -1,0 +1,5 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Luke Mcbrine,Gallaudet University Bison,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_cut_efficiency.csv,,
+Luke Mcbrine,Gallaudet University Bison,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_cut_screen_efficiency.csv,,
+Luke Mcbrine,Gallaudet University Bison,1,0,0,,0,0,,0,0,,,0.0,1.0,player_misc_efficiency.csv,,
+Luke Mcbrine,Gallaudet University Bison,4,0,0,,3,1,33.3333,0,0,,33.33333,0.0,1.0,playerefficiency.csv,,

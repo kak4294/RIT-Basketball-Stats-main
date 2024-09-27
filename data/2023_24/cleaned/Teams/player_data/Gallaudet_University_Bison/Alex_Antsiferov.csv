@@ -1,0 +1,9 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Alex Antsiferov,Gallaudet University Bison,3,0,0,,3,2,66.6667,0,0,,66.66667,0.0,0.0,player_cut_basket_efficiency.csv,,
+Alex Antsiferov,Gallaudet University Bison,6,0,0,,5,3,60.0,0,0,,60.0,0.0,1.0,player_cut_efficiency.csv,,
+Alex Antsiferov,Gallaudet University Bison,2,0,0,,1,0,0.0,0,0,,0.0,0.0,1.0,player_cut_flash_efficiency.csv,,
+Alex Antsiferov,Gallaudet University Bison,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_screen_efficiency.csv,,
+Alex Antsiferov,Gallaudet University Bison,10,0,0,,7,4,57.1429,0,0,,57.14286,1.0,2.0,playerefficiency.csv,,
+,Gallaudet University Bison,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_post_spotupjumper_efficiency.csv,Alex Antsiferov,Blessed Mbogo
+,Gallaudet University Bison,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_cut_efficiency.csv,Bruce Brewer Jr,Alex Antsiferov
+,Gallaudet University Bison,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_cuts_efficiency.csv,Bruce Brewer Jr,Alex Antsiferov

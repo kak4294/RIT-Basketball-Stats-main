@@ -1,0 +1,10 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Aydin Kocak,Clarkson University Golden Knights,3,1,1,100.0,1,0,0.0,1,0,0.0,75.0,0.0,1.0,player_spotup_drive_efficiency.csv,,
+Aydin Kocak,Clarkson University Golden Knights,5,3,1,33.3333,1,0,0.0,1,0,0.0,37.5,0.0,1.0,player_spotup_efficiency.csv,,
+Aydin Kocak,Clarkson University Golden Knights,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Aydin Kocak,Clarkson University Golden Knights,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Aydin Kocak,Clarkson University Golden Knights,2,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,1.0,player_spotup_rightdrive_efficiency.csv,,
+Aydin Kocak,Clarkson University Golden Knights,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_transition_rightwing_efficiency.csv,,
+Aydin Kocak,Clarkson University Golden Knights,6,3,1,33.3333,2,0,0.0,1,0,0.0,30.0,0.0,1.0,playerefficiency.csv,,
+Aydin Kocak,Clarkson University Golden Knights,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,playerefficiencyleft.csv,,
+Aydin Kocak,Clarkson University Golden Knights,2,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,1.0,playerefficiencyright.csv,,

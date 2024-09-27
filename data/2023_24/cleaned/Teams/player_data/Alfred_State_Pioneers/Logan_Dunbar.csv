@@ -1,0 +1,5 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Logan Dunbar,Alfred State Pioneers,2,0,0,,1,0,0.0,0,0,,0.0,0.0,1.0,player_cut_basket_efficiency.csv,,
+Logan Dunbar,Alfred State Pioneers,3,0,0,,1,0,0.0,0,0,,0.0,1.0,1.0,player_cut_efficiency.csv,,
+Logan Dunbar,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_cut_screen_efficiency.csv,,
+Logan Dunbar,Alfred State Pioneers,3,0,0,,1,0,0.0,0,0,,0.0,1.0,1.0,playerefficiency.csv,,

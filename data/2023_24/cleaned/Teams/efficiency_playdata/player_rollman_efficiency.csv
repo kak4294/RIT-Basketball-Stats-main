@@ -1,0 +1,74 @@
+PrimaryPlayer,SecondaryPlayer,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul
+Matt Caggiano,Josiah Turner,Rochester Institute of Technology Tigers,10,3,0,0.0000,5,2,40.0000,1,1,100.0000,25.00000,0,2
+Matt Caggiano,Kenny Wilburn,Rochester Institute of Technology Tigers,10,3,1,33.3333,7,4,57.1429,0,0,NULL,55.00000,0,0
+Brock Bowen,Josiah Turner,Rochester Institute of Technology Tigers,7,2,1,50.0000,3,2,66.6667,0,0,NULL,70.00000,1,1
+Chase Dickens,Josiah Turner,Rochester Institute of Technology Tigers,6,2,1,50.0000,4,2,50.0000,1,1,100.0000,58.33333,0,0
+Brock Bowen,Kenny Wilburn,Rochester Institute of Technology Tigers,6,3,1,33.3333,1,1,100.0000,0,0,NULL,62.50000,2,0
+Chase Dickens,Kenny Wilburn,Rochester Institute of Technology Tigers,5,1,0,0.0000,4,3,75.0000,0,0,NULL,60.00000,0,0
+Tanner Tedesco,Aren Cummings,Union (NY) Dutchmen,4,0,0,NULL,3,1,33.3333,0,0,NULL,33.33333,1,0
+Keegan Ocorr,Kenny Wilburn,Rochester Institute of Technology Tigers,4,1,0,0.0000,1,0,0.0000,0,0,NULL,0.00000,1,1
+Tanner Tedesco,Jack Plesser,Union (NY) Dutchmen,4,0,0,NULL,2,2,100.0000,0,0,NULL,100.00000,1,1
+Nick Padilla,Jack LaGarde,Skidmore Thoroughbreds,3,0,0,NULL,3,1,33.3333,0,0,NULL,33.33333,0,0
+Bruce Brewer Jr,Blessed Mbogo,Gallaudet University Bison,3,2,1,50.0000,0,0,NULL,0,0,NULL,75.00000,1,0
+Tanner Tedesco,Christian Dufort,Union (NY) Dutchmen,3,2,1,50.0000,0,0,NULL,0,0,NULL,75.00000,0,1
+Logan Wendell,Triston Wennersten,Ithaca College,3,3,2,66.6667,0,0,NULL,0,0,NULL,100.00000,0,0
+JP Miranda,Nathan Denham,Vassar Brewers,2,0,0,NULL,2,2,100.0000,0,0,NULL,100.00000,0,0
+Matthew Garside,Christian Dufort,Union (NY) Dutchmen,2,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,1,0
+Tanner Tedesco,Brendan Reid,Union (NY) Dutchmen,2,2,1,50.0000,0,0,NULL,0,0,NULL,75.00000,0,0
+Emmanuel Leftenant,Cody Schneider,Alfred State Pioneers,2,2,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Luke Insley,Jordan Haggard,Nazareth College Golden Flyers,2,0,0,NULL,1,1,100.0000,0,0,NULL,100.00000,1,0
+JP Miranda,Alex Walters,Vassar Brewers,2,2,1,50.0000,0,0,NULL,0,0,NULL,75.00000,0,0
+Laz Panagiotounis,Rowan Heinze,Bard College,2,0,0,NULL,2,0,0.0000,1,0,0.0000,0.00000,0,0
+Pat Healy,Ryan Lucey,Hobart College Statesmen,1,0,0,NULL,1,0,0.0000,1,0,0.0000,0.00000,0,0
+Evan Cabral,Triston Wennersten,Ithaca College,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Keegan Ocorr,Josiah Turner,Rochester Institute of Technology Tigers,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Jordan Haggard,Logan Blankenberg,Nazareth College Golden Flyers,1,1,1,100.0000,0,0,NULL,0,0,NULL,150.00000,0,0
+Jack Foley,Daniel Cook,St. John Fisher Cardinals,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Luke Granto,Kenny Wilburn,Rochester Institute of Technology Tigers,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Akinlana Popoola,Connor Williams,St. John Fisher Cardinals,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Gavin Macaulay,Adam Dudzinski,St. Lawrence Saints,1,1,1,100.0000,0,0,NULL,0,0,NULL,150.00000,0,0
+Mark Osime,Josiah Turner,Rochester Institute of Technology Tigers,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Dyland Matchett,Pat White,Rensselaer Polytechnic,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,1,0
+Michael Miller,Cody Schneider,Alfred State Pioneers,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Evan Cabral,Noah Downing,Ithaca College,1,0,0,NULL,1,1,100.0000,1,1,100.0000,100.00000,0,0
+Cory Dennis,Kevin Le,Bard College,1,1,1,100.0000,0,0,NULL,0,0,NULL,150.00000,0,0
+Brock Bowen,Zac Ditzel,Rochester Institute of Technology Tigers,1,1,1,100.0000,0,0,NULL,0,0,NULL,150.00000,0,0
+Sam Pisanelli,Jean Marc Togodgue,Hobart College Statesmen,1,0,0,NULL,1,1,100.0000,0,0,NULL,100.00000,0,0
+Keegan Ocorr,Jackson Otis,Rochester Institute of Technology Tigers,1,1,1,100.0000,0,0,NULL,0,0,NULL,150.00000,0,0
+Brody Brown,Jackson Otis,Rochester Institute of Technology Tigers,1,1,1,100.0000,0,0,NULL,0,0,NULL,150.00000,0,0
+Evan Cabral,Cole Wissink,Ithaca College,1,1,1,100.0000,0,0,NULL,0,0,NULL,150.00000,0,0
+Nick Padilla,Ian Bentley,Skidmore Thoroughbreds,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Kenny Wilburn,Chase Dickens,Rochester Institute of Technology Tigers,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,1,0
+Tomiwa Adetosoye,Matt Wiele,Rochester (NY) Yellowjackets,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Malachi Moore,Matt Wiele,Rochester (NY) Yellowjackets,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,1,0
+Shea Fitzgerald,Alex Walters,Vassar Brewers,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Cory Dennis,Rowan Heinze,Bard College,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,1,0
+Logan Wendell,Alex Penders,Ithaca College,1,0,0,NULL,1,1,100.0000,0,0,NULL,100.00000,0,0
+Brandon Weiss,Kenny Wilburn,Rochester Institute of Technology Tigers,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+PJ Scalisi,Andrew Deppe,Rensselaer Polytechnic,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Brandon Weiss,Brock Bowen,Rochester Institute of Technology Tigers,1,1,1,100.0000,0,0,NULL,0,0,NULL,150.00000,0,0
+Nick Padilla,Joey Skoric,Skidmore Thoroughbreds,1,0,0,NULL,1,1,100.0000,0,0,NULL,100.00000,0,0
+Joe Morrell,Connor Williams,St. John Fisher Cardinals,1,0,0,NULL,1,1,100.0000,0,0,NULL,100.00000,0,0
+Maxwell Schneider,Connor Williams,St. John Fisher Cardinals,1,0,0,NULL,1,1,100.0000,0,0,NULL,100.00000,0,0
+Troy McPherson,Andrew Cowan,St. Lawrence Saints,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Zac Ditzel,Brody Brown,Rochester Institute of Technology Tigers,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Luke Adams,Case Parsons,Vassar Brewers,1,0,0,NULL,1,1,100.0000,0,0,NULL,100.00000,0,0
+Shea Fitzgerald,Nathan Denham,Vassar Brewers,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Laz Panagiotounis,Sean Wilcox,Bard College,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Ronnie Toole,Josiah Turner,Rochester Institute of Technology Tigers,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Aidan Holmes,Gavin Schauder,Ithaca College,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Logan Wendell,Gavin Schauder,Ithaca College,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Connor Cepiel,Jack Plesser,Union (NY) Dutchmen,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,1,0
+Dyland Matchett,Andrew Deppe,Rensselaer Polytechnic,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,1,0
+Tanner Tedesco,Edward Baptiste,Union (NY) Dutchmen,1,0,0,NULL,1,1,100.0000,0,0,NULL,100.00000,0,0
+Jack Garside,David Ackles,Rochester (NY) Yellowjackets,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,0,1
+Chase Dickens,Jackson Otis,Rochester Institute of Technology Tigers,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,1,0
+Brody Brown,Kenny Wilburn,Rochester Institute of Technology Tigers,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,1,0
+Avery Lee,Logan Scott,Vassar Brewers,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,1,0
+JP Miranda,Logan Scott,Vassar Brewers,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Brock Bowen,Jackson Otis,Rochester Institute of Technology Tigers,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,1,0
+Luke Adams,Nathan Denham,Vassar Brewers,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Kreekor Karageuzian,Case Parsons,Vassar Brewers,1,0,0,NULL,1,1,100.0000,0,0,NULL,100.00000,0,0
+Dylan Perry,Cody Schneider,Alfred State Pioneers,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,0,1
+Ryan Miles-Ferguson,Jack Dalgety,Clarkson University Golden Knights,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,0,1
+Troy McPherson,Adam Dudzinski,St. Lawrence Saints,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0

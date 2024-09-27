@@ -1,0 +1,12 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Sebastian Medina,Vassar Brewers,2,0,0,,2,0,0.0,0,0,,0.0,0.0,0.0,player_misc_efficiency.csv,,
+Sebastian Medina,Vassar Brewers,3,0,0,,2,1,50.0,0,0,,50.0,1.0,0.0,player_spotup_drive_efficiency.csv,,
+Sebastian Medina,Vassar Brewers,3,0,0,,2,1,50.0,0,0,,50.0,1.0,0.0,player_spotup_efficiency.csv,,
+Sebastian Medina,Vassar Brewers,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Sebastian Medina,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Sebastian Medina,Vassar Brewers,7,0,0,,5,2,40.0,0,0,,40.0,1.0,1.0,playerefficiency.csv,,
+Sebastian Medina,Vassar Brewers,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,playerefficiencyleft.csv,,
+Sebastian Medina,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,playerefficiencyright.csv,,
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Luke Adams,Sebastian Medina
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Luke Adams,Sebastian Medina
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Luke Adams,Sebastian Medina

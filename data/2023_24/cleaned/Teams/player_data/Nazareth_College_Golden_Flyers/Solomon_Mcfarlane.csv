@@ -1,0 +1,17 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Solomon Mcfarlane,Nazareth College Golden Flyers,1,0,0,,0,0,,0,0,,,0.0,1.0,player_misc_efficiency.csv,,
+Solomon Mcfarlane,Nazareth College Golden Flyers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_efficiency.csv,,
+Solomon Mcfarlane,Nazareth College Golden Flyers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_rightshoulder_efficiency.csv,,
+Solomon Mcfarlane,Nazareth College Golden Flyers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_rightshoulder_straight_efficiency.csv,,
+Solomon Mcfarlane,Nazareth College Golden Flyers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_straight_efficiency.csv,,
+Solomon Mcfarlane,Nazareth College Golden Flyers,3,1,0,0.0,2,2,100.0,0,0,,66.66667,0.0,0.0,player_spotup_drive_efficiency.csv,,
+Solomon Mcfarlane,Nazareth College Golden Flyers,3,1,0,0.0,2,2,100.0,0,0,,66.66667,0.0,0.0,player_spotup_efficiency.csv,,
+Solomon Mcfarlane,Nazareth College Golden Flyers,2,1,0,0.0,1,1,100.0,0,0,,50.0,0.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Solomon Mcfarlane,Nazareth College Golden Flyers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Solomon Mcfarlane,Nazareth College Golden Flyers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_transition_bh_efficiency.csv,,
+Solomon Mcfarlane,Nazareth College Golden Flyers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Solomon Mcfarlane,Nazareth College Golden Flyers,7,3,0,0.0,3,3,100.0,0,0,,50.0,0.0,1.0,playerefficiency.csv,,
+Solomon Mcfarlane,Nazareth College Golden Flyers,3,2,0,0.0,1,1,100.0,0,0,,33.33333,0.0,0.0,playerefficiencyleft.csv,,
+Solomon Mcfarlane,Nazareth College Golden Flyers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,playerefficiencyright.csv,,
+,Nazareth College Golden Flyers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_iso_cut_efficiency.csv,Solomon Mcfarlane,Jordan Haggard
+,Nazareth College Golden Flyers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Solomon Mcfarlane,Logan Blankenberg

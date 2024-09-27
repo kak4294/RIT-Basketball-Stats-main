@@ -1,0 +1,18 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Jaylon O'Neal,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Jaylon O'Neal,Ithaca College,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,player_cut_efficiency.csv,,
+Jaylon O'Neal,Ithaca College,1,0,0,,0,0,,0,0,,,1.0,0.0,player_cut_screen_efficiency.csv,,
+Jaylon O'Neal,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Jaylon O'Neal,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Jaylon O'Neal,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_top_dribble_efficiency.csv,,
+Jaylon O'Neal,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_top_efficiency.csv,,
+Jaylon O'Neal,Ithaca College,1,0,0,,0,0,,0,0,,,1.0,0.0,player_misc_efficiency.csv,,
+Jaylon O'Neal,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhhigh_efficiency.csv,,
+Jaylon O'Neal,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhhigh_rejectpick_efficiency.csv,,
+Jaylon O'Neal,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_efficiency.csv,,
+Jaylon O'Neal,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_rejectpick_efficiency.csv,,
+Jaylon O'Neal,Ithaca College,1,0,0,,0,0,,0,0,,,1.0,0.0,player_transition_bh_efficiency.csv,,
+Jaylon O'Neal,Ithaca College,7,0,0,,3,0,0.0,0,0,,0.0,4.0,0.0,playerefficiency.csv,,
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Jaylon O'Neal,Andrew Geschickter
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Jaylon O'Neal,Andrew Geschickter
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Jaylon O'Neal,Andrew Geschickter

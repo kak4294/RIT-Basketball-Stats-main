@@ -1,0 +1,16 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Chase Welch,Wells,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_cut_efficiency.csv,,
+Chase Welch,Wells,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_cut_screen_efficiency.csv,,
+Chase Welch,Wells,2,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,1.0,player_iso_efficiency.csv,,
+Chase Welch,Wells,2,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,1.0,player_iso_top_efficiency.csv,,
+Chase Welch,Wells,2,0,0,,0,0,,0,0,,,2.0,0.0,player_misc_efficiency.csv,,
+Chase Welch,Wells,3,3,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Chase Welch,Wells,3,3,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Chase Welch,Wells,4,0,0,,2,0,0.0,1,0,0.0,0.0,2.0,0.0,player_transition_bh_efficiency.csv,,
+Chase Welch,Wells,12,3,0,0.0,4,0,0.0,2,0,0.0,0.0,4.0,1.0,playerefficiency.csv,,
+,Wells,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Chase Welch,Terrance Clayton-Murphy
+,Wells,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Chase Welch,Terrance Clayton-Murphy
+,Wells,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Chase Welch,Terrance Clayton-Murphy
+,Wells,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Chase Welch,Terrance Clayton-Murphy
+,Wells,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Chase Welch,Terrance Clayton-Murphy
+,Wells,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Terrance Clayton-Murphy,Chase Welch

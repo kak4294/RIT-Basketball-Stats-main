@@ -1,0 +1,31 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Cole Wissink,Ithaca College,2,0,0,,0,0,,0,0,,,1.0,1.0,player_misc_efficiency.csv,,
+Cole Wissink,Ithaca College,2,1,1,100.0,0,0,,0,0,,150.0,1.0,0.0,player_offscreens_efficiency.csv,,
+Cole Wissink,Ithaca College,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_offscreens_leftshoulder_efficiency.csv,,
+Cole Wissink,Ithaca College,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_offscreens_leftshoulder_straight_efficiency.csv,,
+Cole Wissink,Ithaca College,1,0,0,,0,0,,0,0,,,1.0,0.0,player_offscreens_rightshoulder_efficiency.csv,,
+Cole Wissink,Ithaca College,1,0,0,,0,0,,0,0,,,1.0,0.0,player_offscreens_rightshoulder_straight_efficiency.csv,,
+Cole Wissink,Ithaca College,2,1,1,100.0,0,0,,0,0,,150.0,1.0,0.0,player_offscreens_straight_efficiency.csv,,
+Cole Wissink,Ithaca College,4,0,0,,3,2,66.6667,2,1,50.0,66.66667,1.0,0.0,player_spotup_drive_efficiency.csv,,
+Cole Wissink,Ithaca College,6,2,1,50.0,3,2,66.6667,2,1,50.0,70.0,1.0,0.0,player_spotup_efficiency.csv,,
+Cole Wissink,Ithaca College,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Cole Wissink,Ithaca College,4,0,0,,3,2,66.6667,2,1,50.0,66.66667,1.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Cole Wissink,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_transition_bh_efficiency.csv,,
+Cole Wissink,Ithaca College,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Cole Wissink,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_transition_trailer_efficiency.csv,,
+Cole Wissink,Ithaca College,15,7,4,57.1429,4,3,75.0,2,1,50.0,81.81818,3.0,1.0,playerefficiency.csv,,
+Cole Wissink,Ithaca College,1,0,0,,0,0,,0,0,,,1.0,0.0,playerefficiencyleft.csv,,
+Cole Wissink,Ithaca College,5,1,1,100.0,3,2,66.6667,2,1,50.0,87.5,1.0,0.0,playerefficiencyright.csv,,
+,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Cole Wissink,Andrew Geschickter
+,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Cole Wissink,Andrew Geschickter
+,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_pnrbhleft_spotupdrives_efficiency.csv,Cole Wissink,Andrew Geschickter
+,Ithaca College,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_rollman_efficiency.csv,Evan Cabral,Cole Wissink
+,Ithaca College,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_rollman_pop_efficiency.csv,Evan Cabral,Cole Wissink
+,Ithaca College,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Evan Cabral,Cole Wissink
+,Ithaca College,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Evan Cabral,Cole Wissink
+,Ithaca College,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Logan Wendell,Cole Wissink
+,Ithaca College,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Evan Cabral,Cole Wissink
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupjumper_efficiency.csv,Logan Wendell,Cole Wissink
+,Ithaca College,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhright_rollman_efficiency.csv,Evan Cabral,Cole Wissink
+,Ithaca College,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhright_rollmanpops_efficiency.csv,Evan Cabral,Cole Wissink
+,Ithaca College,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Logan Wendell,Cole Wissink

@@ -1,0 +1,36 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Cody Schneider,Alfred State Pioneers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Cody Schneider,Alfred State Pioneers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_cut_efficiency.csv,,
+Cody Schneider,Alfred State Pioneers,3,0,0,,1,0,0.0,1,0,0.0,0.0,2.0,0.0,player_iso_efficiency.csv,,
+Cody Schneider,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_iso_left_efficiency.csv,,
+Cody Schneider,Alfred State Pioneers,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_iso_right_efficiency.csv,,
+Cody Schneider,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_iso_top_efficiency.csv,,
+Cody Schneider,Alfred State Pioneers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhhigh_efficiency.csv,,
+Cody Schneider,Alfred State Pioneers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Cody Schneider,Alfred State Pioneers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_efficiency.csv,,
+Cody Schneider,Alfred State Pioneers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Cody Schneider,Alfred State Pioneers,2,0,0,,2,1,50.0,1,1,100.0,50.0,0.0,0.0,player_spotup_drive_efficiency.csv,,
+Cody Schneider,Alfred State Pioneers,2,0,0,,2,1,50.0,1,1,100.0,50.0,0.0,0.0,player_spotup_efficiency.csv,,
+Cody Schneider,Alfred State Pioneers,2,0,0,,2,1,50.0,1,1,100.0,50.0,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Cody Schneider,Alfred State Pioneers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_transition_rightwing_efficiency.csv,,
+Cody Schneider,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_transition_trailer_efficiency.csv,,
+Cody Schneider,Alfred State Pioneers,16,4,0,0.0,9,2,22.2222,2,1,50.0,15.38462,2.0,1.0,playerefficiency.csv,,
+Cody Schneider,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,1.0,0.0,playerefficiencyleft.csv,,
+Cody Schneider,Alfred State Pioneers,3,0,0,,3,1,33.3333,2,1,50.0,33.33333,0.0,0.0,playerefficiencyright.csv,,
+,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_post_spotupjumper_efficiency.csv,Cody Schneider,Paris Jamison
+,Alfred State Pioneers,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Emmanuel Leftenant,Cody Schneider
+,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Michael Miller,Cody Schneider
+,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,0.0,1.0,player_rollman_efficiency.csv,Dylan Perry,Cody Schneider
+,Alfred State Pioneers,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_pop_efficiency.csv,Emmanuel Leftenant,Cody Schneider
+,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_pop_efficiency.csv,Michael Miller,Cody Schneider
+,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,0.0,1.0,player_rollman_slip_efficiency.csv,Dylan Perry,Cody Schneider
+,Alfred State Pioneers,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_bhhigh_rollmanpops_efficiency.csv,Emmanuel Leftenant,Cody Schneider
+,Alfred State Pioneers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_cut_efficiency.csv,Ben Reding,Cody Schneider
+,Alfred State Pioneers,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Emmanuel Leftenant,Cody Schneider
+,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Dylan Perry,Cody Schneider
+,Alfred State Pioneers,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Emmanuel Leftenant,Cody Schneider
+,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnrbhhigh_rollmanslips_efficiency.csv,Dylan Perry,Cody Schneider
+,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_rollman_efficiency.csv,Michael Miller,Cody Schneider
+,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_rollmanpops_efficiency.csv,Michael Miller,Cody Schneider
+,Alfred State Pioneers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_cuts_efficiency.csv,Ben Reding,Cody Schneider
+,Alfred State Pioneers,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_post_spotupdrive_efficiency.csv,Ryan Rosa,Cody Schneider

@@ -1,0 +1,25 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Nolan Smih,Rochester Institute of Technology Tigers,8,0,0,,8,5,62.5,0,0,,62.5,0.0,0.0,player_cut_basket_efficiency.csv,,
+Nolan Smih,Rochester Institute of Technology Tigers,8,0,0,,8,5,62.5,0,0,,62.5,0.0,0.0,player_cut_efficiency.csv,,
+Nolan Smih,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_misc_efficiency.csv,,
+Nolan Smih,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_pnr_bhhigh_efficiency.csv,,
+Nolan Smih,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Nolan Smih,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_pnr_efficiency.csv,,
+Nolan Smih,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Nolan Smih,Rochester Institute of Technology Tigers,3,0,0,,1,0,0.0,0,0,,0.0,2.0,0.0,player_post_efficiency.csv,,
+Nolan Smih,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_post_leftblock_efficiency.csv,,
+Nolan Smih,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_post_leftblock_rightshoulder_efficiency.csv,,
+Nolan Smih,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_post_leftshoulder_efficiency.csv,,
+Nolan Smih,Rochester Institute of Technology Tigers,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,player_post_rightblock_efficiency.csv,,
+Nolan Smih,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_post_rightblock_leftshoulder_efficiency.csv,,
+Nolan Smih,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_rightblock_rightshoulder_efficiency.csv,,
+Nolan Smih,Rochester Institute of Technology Tigers,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,player_post_rightshoulder_efficiency.csv,,
+Nolan Smih,Rochester Institute of Technology Tigers,3,3,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Nolan Smih,Rochester Institute of Technology Tigers,3,3,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Nolan Smih,Rochester Institute of Technology Tigers,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_transition_rightwing_efficiency.csv,,
+Nolan Smih,Rochester Institute of Technology Tigers,20,3,0,0.0,13,7,53.8462,2,1,50.0,43.75,3.0,1.0,playerefficiency.csv,,
+Nolan Smih,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,playerefficiencyleft.csv,,
+Nolan Smih,Rochester Institute of Technology Tigers,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,playerefficiencyright.csv,,
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Nolan Smih,Mihail Bossev
+,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_cut_efficiency.csv,Matt Caggiano,Nolan Smih
+,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhright_cuts_efficiency.csv,Matt Caggiano,Nolan Smih

@@ -1,0 +1,32 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Malachi Moore,Rochester (NY) Yellowjackets,2,0,0,,2,0,0.0,0,0,,0.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,2,0,0,,2,0,0.0,0,0,,0.0,0.0,0.0,player_cut_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_handoffs_bhright_dribble_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_handoffs_bhright_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,2,0,0,,2,1,50.0,2,1,50.0,50.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,2,0,0,,2,1,50.0,2,1,50.0,50.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_handoffs_top_dribble_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_handoffs_top_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,0.0,1.0,player_misc_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,2,0,0,,2,1,50.0,2,1,50.0,50.0,0.0,0.0,player_pnr_bhhigh_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,2,0,0,,2,1,50.0,2,1,50.0,50.0,0.0,0.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhleft_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhleft_offpick_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_bhright_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_bhright_offpick_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,4,1,0,0.0,3,1,33.3333,2,1,50.0,25.0,0.0,0.0,player_pnr_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,4,1,0,0.0,3,1,33.3333,2,1,50.0,25.0,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,player_transition_bh_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,14,2,0,0.0,10,4,40.0,5,3,60.0,33.33333,1.0,1.0,playerefficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,playerefficiencyleft.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,2,1,0,0.0,1,1,100.0,1,1,100.0,50.0,0.0,0.0,playerefficiencyright.csv,,
+,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_efficiency.csv,Malachi Moore,Matt Wiele
+,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_pop_efficiency.csv,Malachi Moore,Matt Wiele
+,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_bhhigh_rollmanpops_efficiency.csv,Malachi Moore,Matt Wiele
+,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Malachi Moore,Matt Wiele
+,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Malachi Moore,Matt Wiele
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Tomiwa Adetosoye,Malachi Moore
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupjumper_efficiency.csv,Tomiwa Adetosoye,Malachi Moore
+,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_post_cut_efficiency.csv,C.J. Amsellem,Malachi Moore

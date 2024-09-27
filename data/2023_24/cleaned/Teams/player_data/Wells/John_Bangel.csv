@@ -1,0 +1,13 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+John Bangel,Wells,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+John Bangel,Wells,3,0,0,,3,2,66.6667,0,0,,66.66667,0.0,0.0,player_cut_efficiency.csv,,
+John Bangel,Wells,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_screen_efficiency.csv,,
+John Bangel,Wells,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_efficiency.csv,,
+John Bangel,Wells,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_leftblock_efficiency.csv,,
+John Bangel,Wells,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_leftblock_leftshoulder_efficiency.csv,,
+John Bangel,Wells,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_leftshoulder_efficiency.csv,,
+John Bangel,Wells,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_spotup_drive_efficiency.csv,,
+John Bangel,Wells,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+John Bangel,Wells,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_spotup_straightdrive_efficiency.csv,,
+John Bangel,Wells,5,0,0,,5,2,40.0,0,0,,40.0,0.0,0.0,playerefficiency.csv,,
+John Bangel,Wells,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,playerefficiencyleft.csv,,

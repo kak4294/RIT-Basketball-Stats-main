@@ -1,0 +1,14 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Zy Switzer,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_bhleft_dribble_efficiency.csv,,
+Zy Switzer,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_bhleft_efficiency.csv,,
+Zy Switzer,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Zy Switzer,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Zy Switzer,Alfred State Pioneers,2,1,0,0.0,0,0,,0,0,,0.0,1.0,0.0,player_spotup_drive_efficiency.csv,,
+Zy Switzer,Alfred State Pioneers,4,3,0,0.0,0,0,,0,0,,0.0,1.0,0.0,player_spotup_efficiency.csv,,
+Zy Switzer,Alfred State Pioneers,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Zy Switzer,Alfred State Pioneers,2,1,0,0.0,0,0,,0,0,,0.0,1.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Zy Switzer,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Zy Switzer,Alfred State Pioneers,6,5,0,0.0,0,0,,0,0,,0.0,1.0,0.0,playerefficiency.csv,,
+Zy Switzer,Alfred State Pioneers,3,2,0,0.0,0,0,,0,0,,0.0,1.0,0.0,playerefficiencyleft.csv,,
+,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Dylan Perry,Zy Switzer
+,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Dylan Perry,Zy Switzer

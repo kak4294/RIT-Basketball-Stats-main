@@ -1,0 +1,15 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Bryce Bleibtrey,Ithaca College,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Bryce Bleibtrey,Ithaca College,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_cut_efficiency.csv,,
+Bryce Bleibtrey,Ithaca College,3,0,0,,1,1,100.0,0,0,,100.0,1.0,1.0,player_spotup_drive_efficiency.csv,,
+Bryce Bleibtrey,Ithaca College,4,1,1,100.0,1,1,100.0,0,0,,125.0,1.0,1.0,player_spotup_efficiency.csv,,
+Bryce Bleibtrey,Ithaca College,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Bryce Bleibtrey,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Bryce Bleibtrey,Ithaca College,2,0,0,,0,0,,0,0,,,1.0,1.0,player_spotup_rightdrive_efficiency.csv,,
+Bryce Bleibtrey,Ithaca College,1,0,0,,0,0,,0,0,,,1.0,0.0,player_transition_leftwing_efficiency.csv,,
+Bryce Bleibtrey,Ithaca College,10,1,1,100.0,3,2,66.6667,0,0,,87.5,4.0,2.0,playerefficiency.csv,,
+Bryce Bleibtrey,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,playerefficiencyleft.csv,,
+Bryce Bleibtrey,Ithaca College,2,0,0,,0,0,,0,0,,,1.0,1.0,playerefficiencyright.csv,,
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Bryce Bleibtrey,Andrew Geschickter
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Bryce Bleibtrey,Laurence Brady
+,Ithaca College,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_post_spotupdrive_efficiency.csv,Alex Penders,Bryce Bleibtrey

@@ -1,0 +1,59 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Evan Cabral,Ithaca College,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Evan Cabral,Ithaca College,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_cut_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_handoffs_bhleft_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_handoffs_bhleft_stationary_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_handoffs_bhright_dribble_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_handoffs_bhright_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Evan Cabral,Ithaca College,3,0,0,,2,2,100.0,1,1,100.0,100.0,0.0,1.0,player_handoffs_efficiency.csv,,
+Evan Cabral,Ithaca College,2,0,0,,1,1,100.0,0,0,,100.0,0.0,1.0,player_handoffs_stationary_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,0,0,,0,0,,,0.0,1.0,player_handoffs_top_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,0,0,,0,0,,,0.0,1.0,player_handoffs_top_stationary_efficiency.csv,,
+Evan Cabral,Ithaca College,5,0,0,,2,1,50.0,0,0,,50.0,2.0,1.0,player_pnr_bhhigh_efficiency.csv,,
+Evan Cabral,Ithaca College,5,0,0,,2,1,50.0,0,0,,50.0,2.0,1.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhleft_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhleft_offpick_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,0,0,,0,0,,,1.0,0.0,player_pnr_bhright_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,0,0,,0,0,,,1.0,0.0,player_pnr_bhright_offpick_efficiency.csv,,
+Evan Cabral,Ithaca College,7,0,0,,3,1,33.3333,0,0,,33.33333,3.0,1.0,player_pnr_efficiency.csv,,
+Evan Cabral,Ithaca College,7,0,0,,3,1,33.3333,0,0,,33.33333,3.0,1.0,player_pnr_offpick_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,0,0,,0,0,,,0.0,1.0,player_post_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,0,0,,0,0,,,0.0,1.0,player_post_leftblock_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,0,0,,0,0,,,0.0,1.0,player_post_leftblock_rightshoulder_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,0,0,,0,0,,,0.0,1.0,player_post_rightshoulder_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_spotup_drive_efficiency.csv,,
+Evan Cabral,Ithaca College,2,1,0,0.0,1,0,0.0,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Evan Cabral,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Evan Cabral,Ithaca College,4,0,0,,2,2,100.0,0,0,,100.0,0.0,2.0,player_transition_bh_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,,,player_transition_leakouts_efficiency.csv,,
+Evan Cabral,Ithaca College,2,1,0,0.0,1,1,100.0,0,0,,50.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Evan Cabral,Ithaca College,23,2,0,0.0,12,7,58.3333,1,1,100.0,50.0,4.0,5.0,playerefficiency.csv,,
+Evan Cabral,Ithaca College,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,playerefficiencyleft.csv,,
+Evan Cabral,Ithaca College,4,0,0,,2,1,50.0,1,1,100.0,50.0,1.0,1.0,playerefficiencyright.csv,,
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Evan Cabral,Triston Wennersten
+,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_rollman_efficiency.csv,Evan Cabral,Noah Downing
+,Ithaca College,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_rollman_efficiency.csv,Evan Cabral,Cole Wissink
+,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_rollman_pop_efficiency.csv,Evan Cabral,Noah Downing
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_pop_efficiency.csv,Evan Cabral,Triston Wennersten
+,Ithaca College,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_rollman_pop_efficiency.csv,Evan Cabral,Cole Wissink
+,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_rollman_rightdrive_efficiency.csv,Evan Cabral,Noah Downing
+,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_rollman_rightdrive_pop_efficiency.csv,Evan Cabral,Noah Downing
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_bhhigh_rollmanpops_efficiency.csv,Evan Cabral,Triston Wennersten
+,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_bhhigh_rollmanpops_efficiency.csv,Evan Cabral,Noah Downing
+,Ithaca College,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Evan Cabral,Cole Wissink
+,Ithaca College,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Evan Cabral,Cole Wissink
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Evan Cabral,Aidan Holmes
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Evan Cabral,Andrew Geschickter
+,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Evan Cabral,Noah Downing
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Evan Cabral,Triston Wennersten
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Evan Cabral,Triston Wennersten
+,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Evan Cabral,Noah Downing
+,Ithaca College,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Evan Cabral,Cole Wissink
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Evan Cabral,Andrew Geschickter
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupjumper_efficiency.csv,Evan Cabral,Aidan Holmes
+,Ithaca College,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhright_rollman_efficiency.csv,Evan Cabral,Cole Wissink
+,Ithaca College,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhright_rollmanpops_efficiency.csv,Evan Cabral,Cole Wissink
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Logan Wendell,Evan Cabral
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Logan Wendell,Evan Cabral

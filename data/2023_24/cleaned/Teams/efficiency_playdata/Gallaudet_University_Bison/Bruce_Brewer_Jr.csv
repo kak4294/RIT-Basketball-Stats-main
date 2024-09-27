@@ -1,0 +1,31 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Bruce Brewer Jr,Gallaudet University Bison,1,0,0,,0,0,,0,0,,,1.0,0.0,player_handoffs_bhleft_dribble_efficiency.csv,,
+Bruce Brewer Jr,Gallaudet University Bison,1,0,0,,0,0,,0,0,,,1.0,0.0,player_handoffs_bhleft_efficiency.csv,,
+Bruce Brewer Jr,Gallaudet University Bison,1,0,0,,0,0,,0,0,,,1.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Bruce Brewer Jr,Gallaudet University Bison,1,0,0,,0,0,,0,0,,,1.0,0.0,player_handoffs_efficiency.csv,,
+Bruce Brewer Jr,Gallaudet University Bison,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_pnr_bhhigh_efficiency.csv,,
+Bruce Brewer Jr,Gallaudet University Bison,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Bruce Brewer Jr,Gallaudet University Bison,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_pnr_efficiency.csv,,
+Bruce Brewer Jr,Gallaudet University Bison,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Bruce Brewer Jr,Gallaudet University Bison,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Bruce Brewer Jr,Gallaudet University Bison,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Bruce Brewer Jr,Gallaudet University Bison,3,1,0,0.0,1,0,0.0,1,0,0.0,0.0,1.0,0.0,playerefficiency.csv,,
+Bruce Brewer Jr,Gallaudet University Bison,1,0,0,,0,0,,0,0,,,1.0,0.0,playerefficiencyleft.csv,,
+,Gallaudet University Bison,3,2,1,50.0,0,0,,0,0,,75.0,1.0,0.0,player_rollman_efficiency.csv,Bruce Brewer Jr,Blessed Mbogo
+,Gallaudet University Bison,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_pop_efficiency.csv,Bruce Brewer Jr,Blessed Mbogo
+,Gallaudet University Bison,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_rightdrive_efficiency.csv,Bruce Brewer Jr,Blessed Mbogo
+,Gallaudet University Bison,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_rightdrive_pop_efficiency.csv,Bruce Brewer Jr,Blessed Mbogo
+,Gallaudet University Bison,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_rollman_slip_efficiency.csv,Bruce Brewer Jr,Blessed Mbogo
+,Gallaudet University Bison,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_bhhigh_rollmanpops_efficiency.csv,Bruce Brewer Jr,Blessed Mbogo
+,Gallaudet University Bison,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Bruce Brewer Jr,Samer Sawan
+,Gallaudet University Bison,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_cut_efficiency.csv,Bruce Brewer Jr,Alex Antsiferov
+,Gallaudet University Bison,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Bruce Brewer Jr,Blessed Mbogo
+,Gallaudet University Bison,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Bruce Brewer Jr,Blessed Mbogo
+,Gallaudet University Bison,2,2,2,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Bruce Brewer Jr,Samer Sawan
+,Gallaudet University Bison,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_cuts_efficiency.csv,Bruce Brewer Jr,Alex Antsiferov
+,Gallaudet University Bison,3,2,1,50.0,0,0,,0,0,,75.0,1.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Bruce Brewer Jr,Blessed Mbogo
+,Gallaudet University Bison,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Bruce Brewer Jr,Blessed Mbogo
+,Gallaudet University Bison,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanslips_efficiency.csv,Bruce Brewer Jr,Blessed Mbogo
+,Gallaudet University Bison,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Bruce Brewer Jr,Blessed Mbogo
+,Gallaudet University Bison,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Bruce Brewer Jr,Samer Sawan
+,Gallaudet University Bison,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Bruce Brewer Jr,Samer Sawan

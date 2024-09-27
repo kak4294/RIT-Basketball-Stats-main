@@ -1,0 +1,47 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+JP Miranda,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+JP Miranda,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_efficiency.csv,,
+JP Miranda,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_top_dribble_efficiency.csv,,
+JP Miranda,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_top_efficiency.csv,,
+JP Miranda,Vassar Brewers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_misc_efficiency.csv,,
+JP Miranda,Vassar Brewers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_pnr_bhright_efficiency.csv,,
+JP Miranda,Vassar Brewers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_pnr_bhright_offpick_efficiency.csv,,
+JP Miranda,Vassar Brewers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_pnr_efficiency.csv,,
+JP Miranda,Vassar Brewers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_pnr_offpick_efficiency.csv,,
+JP Miranda,Vassar Brewers,10,0,0,,10,4,40.0,2,0,0.0,40.0,0.0,0.0,player_spotup_drive_efficiency.csv,,
+JP Miranda,Vassar Brewers,13,3,2,66.6667,10,4,40.0,2,0,0.0,53.84615,0.0,0.0,player_spotup_efficiency.csv,,
+JP Miranda,Vassar Brewers,3,3,2,66.6667,0,0,,0,0,,100.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+JP Miranda,Vassar Brewers,6,0,0,,6,2,33.3333,2,0,0.0,33.33333,0.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+JP Miranda,Vassar Brewers,3,0,0,,3,1,33.3333,0,0,,33.33333,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+JP Miranda,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_spotup_straightdrive_efficiency.csv,,
+JP Miranda,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_transition_bh_efficiency.csv,,
+JP Miranda,Vassar Brewers,2,0,0,,1,1,100.0,0,0,,100.0,1.0,0.0,player_transition_leftwing_efficiency.csv,,
+JP Miranda,Vassar Brewers,19,3,2,66.6667,13,5,38.4615,2,0,0.0,50.0,3.0,0.0,playerefficiency.csv,,
+JP Miranda,Vassar Brewers,6,0,0,,6,2,33.3333,2,0,0.0,33.33333,0.0,0.0,playerefficiencyleft.csv,,
+JP Miranda,Vassar Brewers,4,0,0,,3,1,33.3333,0,0,,33.33333,1.0,0.0,playerefficiencyright.csv,,
+,Vassar Brewers,2,0,0,,2,2,100.0,0,0,,100.0,0.0,0.0,player_rollman_efficiency.csv,JP Miranda,Nathan Denham
+,Vassar Brewers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_rollman_efficiency.csv,JP Miranda,Alex Walters
+,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,JP Miranda,Logan Scott
+,Vassar Brewers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_rollman_pop_efficiency.csv,JP Miranda,Alex Walters
+,Vassar Brewers,2,0,0,,2,2,100.0,0,0,,100.0,0.0,0.0,player_rollman_roll_efficiency.csv,JP Miranda,Nathan Denham
+,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_roll_efficiency.csv,JP Miranda,Logan Scott
+,Vassar Brewers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,twoplayer_bhhigh_rollmanpops_efficiency.csv,JP Miranda,Alex Walters
+,Vassar Brewers,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,JP Miranda,Nathan Denham
+,Vassar Brewers,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,JP Miranda,Nathan Denham
+,Vassar Brewers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,JP Miranda,Alex Walters
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,JP Miranda,Nathan Denham
+,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,JP Miranda,Logan Scott
+,Vassar Brewers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,JP Miranda,Alex Walters
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanrolls_efficiency.csv,JP Miranda,Nathan Denham
+,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanrolls_efficiency.csv,JP Miranda,Logan Scott
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhleft_rollman_efficiency.csv,JP Miranda,Nathan Denham
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhleft_rollmanrolls_efficiency.csv,JP Miranda,Nathan Denham
+,Vassar Brewers,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnrbhright_spotupdrives_efficiency.csv,JP Miranda,Nathan Denham
+,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Kreekor Karageuzian,JP Miranda
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Shea Fitzgerald,JP Miranda
+,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Kreekor Karageuzian,JP Miranda
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Shea Fitzgerald,JP Miranda
+,Vassar Brewers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Shea Fitzgerald,JP Miranda
+,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Kreekor Karageuzian,JP Miranda
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Shea Fitzgerald,JP Miranda
+,Vassar Brewers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Shea Fitzgerald,JP Miranda

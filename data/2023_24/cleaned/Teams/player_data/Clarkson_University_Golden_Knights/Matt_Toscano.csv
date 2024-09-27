@@ -1,0 +1,11 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Matt Toscano,Clarkson University Golden Knights,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_spotup_drive_efficiency.csv,,
+Matt Toscano,Clarkson University Golden Knights,3,1,0,0.0,2,1,50.0,0,0,,33.33333,0.0,0.0,player_spotup_efficiency.csv,,
+Matt Toscano,Clarkson University Golden Knights,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Matt Toscano,Clarkson University Golden Knights,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Matt Toscano,Clarkson University Golden Knights,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Matt Toscano,Clarkson University Golden Knights,3,1,0,0.0,2,1,50.0,0,0,,33.33333,0.0,0.0,playerefficiency.csv,,
+Matt Toscano,Clarkson University Golden Knights,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,playerefficiencyleft.csv,,
+Matt Toscano,Clarkson University Golden Knights,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,playerefficiencyright.csv,,
+,Clarkson University Golden Knights,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Matt Toscano,Ryan Miles-Ferguson
+,Clarkson University Golden Knights,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Matt Toscano,Ryan Miles-Ferguson

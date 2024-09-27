@@ -1,0 +1,13 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Akinlana Popoola,St. John Fisher Cardinals,1,0,0,,0,0,,1,0,0.0,,0.0,1.0,player_iso_efficiency.csv,,
+Akinlana Popoola,St. John Fisher Cardinals,1,0,0,,0,0,,1,0,0.0,,0.0,1.0,player_iso_right_efficiency.csv,,
+Akinlana Popoola,St. John Fisher Cardinals,1,0,0,,0,0,,0,0,,,0.0,1.0,player_transition_bh_efficiency.csv,,
+Akinlana Popoola,St. John Fisher Cardinals,2,0,0,,0,0,,1,0,0.0,,0.0,2.0,playerefficiency.csv,,
+Akinlana Popoola,St. John Fisher Cardinals,1,0,0,,0,0,,1,0,0.0,,0.0,1.0,playerefficiencyright.csv,,
+,St. John Fisher Cardinals,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Akinlana Popoola,Connor Williams
+,St. John Fisher Cardinals,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_pop_efficiency.csv,Akinlana Popoola,Connor Williams
+,St. John Fisher Cardinals,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_bhhigh_rollmanpops_efficiency.csv,Akinlana Popoola,Connor Williams
+,St. John Fisher Cardinals,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Akinlana Popoola,Matt Lettko
+,St. John Fisher Cardinals,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Akinlana Popoola,Connor Williams
+,St. John Fisher Cardinals,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Akinlana Popoola,Connor Williams
+,St. John Fisher Cardinals,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Akinlana Popoola,Matt Lettko

@@ -1,0 +1,25 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Sean Wilcox,Bard College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Sean Wilcox,Bard College,2,0,0,,2,2,100.0,0,0,,100.0,0.0,0.0,player_cut_efficiency.csv,,
+Sean Wilcox,Bard College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_screen_efficiency.csv,,
+Sean Wilcox,Bard College,2,0,0,,0,0,,0,0,,,2.0,0.0,player_misc_efficiency.csv,,
+Sean Wilcox,Bard College,4,0,0,,1,0,0.0,0,0,,0.0,1.0,2.0,player_post_efficiency.csv,,
+Sean Wilcox,Bard College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_leftblock_efficiency.csv,,
+Sean Wilcox,Bard College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_leftblock_rightshoulder_efficiency.csv,,
+Sean Wilcox,Bard College,1,0,0,,0,0,,0,0,,,1.0,0.0,player_post_leftshoulder_efficiency.csv,,
+Sean Wilcox,Bard College,2,0,0,,0,0,,0,0,,,0.0,2.0,player_post_middle_efficiency.csv,,
+Sean Wilcox,Bard College,1,0,0,,0,0,,0,0,,,1.0,0.0,player_post_rightblock_efficiency.csv,,
+Sean Wilcox,Bard College,1,0,0,,0,0,,0,0,,,1.0,0.0,player_post_rightblock_leftshoulder_efficiency.csv,,
+Sean Wilcox,Bard College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_rightshoulder_efficiency.csv,,
+Sean Wilcox,Bard College,6,6,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Sean Wilcox,Bard College,6,6,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Sean Wilcox,Bard College,17,6,0,0.0,6,3,50.0,0,0,,25.0,3.0,2.0,playerefficiency.csv,,
+Sean Wilcox,Bard College,1,0,0,,0,0,,0,0,,,1.0,0.0,playerefficiencyleft.csv,,
+Sean Wilcox,Bard College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,playerefficiencyright.csv,,
+,Bard College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Laz Panagiotounis,Sean Wilcox
+,Bard College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_roll_efficiency.csv,Laz Panagiotounis,Sean Wilcox
+,Bard College,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Laz Panagiotounis,Sean Wilcox
+,Bard College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_rollman_efficiency.csv,Laz Panagiotounis,Sean Wilcox
+,Bard College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_rollmanrolls_efficiency.csv,Laz Panagiotounis,Sean Wilcox
+,Bard College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupjumper_efficiency.csv,Laz Panagiotounis,Sean Wilcox
+,Bard College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Laz Panagiotounis,Sean Wilcox

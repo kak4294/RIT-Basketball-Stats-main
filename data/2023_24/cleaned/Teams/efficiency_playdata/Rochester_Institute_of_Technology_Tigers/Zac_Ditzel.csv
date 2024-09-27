@@ -1,0 +1,77 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Zac Ditzel,Rochester Institute of Technology Tigers,8,0,0,,5,3,60.0,0,0,,60.0,1.0,2.0,player_cut_basket_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,15,0,0,,12,6,50.0,0,0,,50.0,1.0,2.0,player_cut_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_flash_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,6,0,0,,6,2,33.3333,0,0,,33.33333,0.0,0.0,player_cut_screen_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_bhleft_dribble_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_bhleft_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,2,0,0,,0,0,,0,0,,,2.0,0.0,player_misc_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,3,0,0,,3,1,33.3333,3,1,33.3333,33.33333,0.0,0.0,player_offscreens_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_offscreens_leftshoulder_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_offscreens_leftshoulder_straight_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,2,0,0,,2,0,0.0,2,0,0.0,0.0,0.0,0.0,player_offscreens_rightshoulder_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,2,0,0,,2,0,0.0,2,0,0.0,0.0,0.0,0.0,player_offscreens_rightshoulder_straight_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,3,0,0,,3,1,33.3333,3,1,33.3333,33.33333,0.0,0.0,player_offscreens_straight_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_bhright_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_bhright_offpick_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_leftblock_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_leftblock_leftshoulder_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_leftshoulder_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,12,1,0,0.0,9,4,44.4444,2,1,50.0,40.0,2.0,0.0,player_spotup_drive_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,35,22,9,40.9091,10,4,40.0,3,1,33.3333,54.6875,2.0,1.0,player_spotup_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,23,21,9,42.8571,1,0,0.0,1,0,0.0,61.36364,0.0,1.0,player_spotup_jumpshot_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,4,0,0,,3,0,0.0,1,0,0.0,0.0,1.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,6,0,0,,5,3,60.0,0,0,,60.0,1.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,2,1,0,0.0,1,1,100.0,1,1,100.0,50.0,0.0,0.0,player_spotup_straightdrive_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,5,0,0,,1,0,0.0,0,0,,0.0,1.0,3.0,player_transition_bh_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,,,player_transition_leakouts_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,2,0,0,,2,2,100.0,0,0,,100.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,15,4,0,0.0,9,2,22.2222,1,0,0.0,15.38462,2.0,0.0,player_transition_rightwing_efficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,88,29,10,34.4828,42,18,42.8571,7,2,28.5714,46.47887,9.0,8.0,playerefficiency.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,8,1,0,0.0,6,0,0.0,3,0,0.0,0.0,1.0,0.0,playerefficiencyleft.csv,,
+Zac Ditzel,Rochester Institute of Technology Tigers,8,1,0,0.0,6,4,66.6667,1,1,100.0,57.14286,1.0,0.0,playerefficiencyright.csv,,
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Zac Ditzel,Brody Brown
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_leftdrive_efficiency.csv,Zac Ditzel,Brody Brown
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_leftdrive_pop_efficiency.csv,Zac Ditzel,Brody Brown
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_pop_efficiency.csv,Zac Ditzel,Brody Brown
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_bhhigh_rollmanpops_efficiency.csv,Zac Ditzel,Brody Brown
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Zac Ditzel,Chase Dickens
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Zac Ditzel,Chase Dickens
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Zac Ditzel,Brody Brown
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Zac Ditzel,Brody Brown
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupdrives_efficiency.csv,Zac Ditzel,Chase Dickens
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_rollman_efficiency.csv,Brock Bowen,Zac Ditzel
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_rollman_pop_efficiency.csv,Brock Bowen,Zac Ditzel
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_bhhigh_rollmanpops_efficiency.csv,Brock Bowen,Zac Ditzel
+,Rochester Institute of Technology Tigers,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,twoplayer_iso_cut_efficiency.csv,Brock Bowen,Zac Ditzel
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Chase Dickens,Zac Ditzel
+,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_cut_efficiency.csv,Brody Brown,Zac Ditzel
+,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_cut_efficiency.csv,Matt Caggiano,Zac Ditzel
+,Rochester Institute of Technology Tigers,3,1,0,0.0,2,1,50.0,0,0,,33.33333,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Matt Caggiano,Zac Ditzel
+,Rochester Institute of Technology Tigers,2,0,0,,2,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Brock Bowen,Zac Ditzel
+,Rochester Institute of Technology Tigers,3,1,0,0.0,2,1,50.0,0,0,,33.33333,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Matt Caggiano,Zac Ditzel
+,Rochester Institute of Technology Tigers,2,0,0,,2,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Brock Bowen,Zac Ditzel
+,Rochester Institute of Technology Tigers,2,2,2,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Chase Dickens,Zac Ditzel
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Matt Caggiano,Zac Ditzel
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Keegan Ocorr,Zac Ditzel
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Brandon Weiss,Zac Ditzel
+,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_cuts_efficiency.csv,Matt Caggiano,Zac Ditzel
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Brock Bowen,Zac Ditzel
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Brock Bowen,Zac Ditzel
+,Rochester Institute of Technology Tigers,2,1,0,0.0,1,1,100.0,0,0,,50.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Matt Caggiano,Zac Ditzel
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Brock Bowen,Zac Ditzel
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupdrives_efficiency.csv,Matt Caggiano,Zac Ditzel
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhleft_spotupjumper_efficiency.csv,Chase Dickens,Zac Ditzel
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupjumper_efficiency.csv,Brandon Weiss,Zac Ditzel
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhleft_spotupjumper_efficiency.csv,Keegan Ocorr,Zac Ditzel
+,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhright_cuts_efficiency.csv,Brody Brown,Zac Ditzel
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnrbhright_spotupdrives_efficiency.csv,Brock Bowen,Zac Ditzel
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Matt Caggiano,Zac Ditzel
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Chase Dickens,Zac Ditzel
+,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_post_cut_efficiency.csv,Josiah Turner,Zac Ditzel
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_post_spotupjumper_efficiency.csv,Kenny Wilburn,Zac Ditzel

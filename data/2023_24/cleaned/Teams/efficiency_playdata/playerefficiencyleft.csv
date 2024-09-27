@@ -1,0 +1,133 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul
+Matt Caggiano,Rochester Institute of Technology Tigers,56,6,2,33.3333,38,19,50.0000,10,4,40.0000,50.00000,6,6
+Chase Dickens,Rochester Institute of Technology Tigers,53,16,6,37.5000,29,13,44.8276,14,7,50.0000,48.88889,3,5
+Brock Bowen,Rochester Institute of Technology Tigers,51,28,11,39.2857,12,7,58.3333,3,3,100.0000,58.75000,5,6
+Kenny Wilburn,Rochester Institute of Technology Tigers,29,0,0,NULL,21,8,38.0952,3,2,66.6667,38.09524,4,4
+Josiah Turner,Rochester Institute of Technology Tigers,27,0,0,NULL,16,6,37.5000,0,0,NULL,37.50000,8,3
+Keegan Ocorr,Rochester Institute of Technology Tigers,22,1,0,0.0000,14,8,57.1429,4,0,0.0000,53.33333,3,4
+Brandon Weiss,Rochester Institute of Technology Tigers,17,8,2,25.0000,8,0,0.0000,3,0,0.0000,18.75000,0,1
+Brody Brown,Rochester Institute of Technology Tigers,17,3,2,66.6667,9,3,33.3333,7,2,28.5714,50.00000,4,1
+Pat Healy,Hobart College Statesmen,12,1,0,0.0000,9,5,55.5556,5,3,60.0000,50.00000,2,0
+Mark Osime,Rochester Institute of Technology Tigers,9,2,0,0.0000,6,3,50.0000,1,1,100.0000,37.50000,0,1
+Ryan Miles-Ferguson,Clarkson University Golden Knights,9,5,2,40.0000,4,2,50.0000,2,1,50.0000,55.55556,0,0
+Andrew Geschickter,Ithaca College,9,4,2,50.0000,2,1,50.0000,2,1,50.0000,66.66667,2,1
+Zac Ditzel,Rochester Institute of Technology Tigers,8,1,0,0.0000,6,0,0.0000,3,0,0.0000,0.00000,1,0
+Trey Syroka,St. Lawrence Saints,8,0,0,NULL,6,2,33.3333,1,0,0.0000,33.33333,2,0
+Luke Mcgarrity,Union (NY) Dutchmen,8,2,0,0.0000,4,3,75.0000,1,1,100.0000,50.00000,2,0
+Logan Wendell,Ithaca College,8,2,0,0.0000,6,3,50.0000,1,0,0.0000,37.50000,0,0
+Jack Plesser,Union (NY) Dutchmen,8,0,0,NULL,6,4,66.6667,1,1,100.0000,66.66667,1,1
+Adam Dudzinski,St. Lawrence Saints,6,1,0,0.0000,5,1,20.0000,2,0,0.0000,16.66667,0,0
+Shea Fitzgerald,Vassar Brewers,6,1,0,0.0000,3,2,66.6667,1,0,0.0000,50.00000,1,1
+Laz Panagiotounis,Bard College,6,2,1,50.0000,4,2,50.0000,2,1,50.0000,58.33333,0,0
+Azriel Almodovar,Bard College,6,0,0,NULL,3,2,66.6667,0,0,NULL,66.66667,2,1
+Jack Dalgety,Clarkson University Golden Knights,6,0,0,NULL,4,4,100.0000,0,0,NULL,100.00000,0,2
+JP Miranda,Vassar Brewers,6,0,0,NULL,6,2,33.3333,2,0,0.0000,33.33333,0,0
+Prince Shyllon,Skidmore Thoroughbreds,5,2,1,50.0000,3,2,66.6667,3,2,66.6667,70.00000,0,0
+Edward Baptiste,Union (NY) Dutchmen,5,0,0,NULL,3,2,66.6667,2,1,50.0000,66.66667,2,0
+Blessed Mbogo,Gallaudet University Bison,5,2,0,0.0000,2,1,50.0000,1,0,0.0000,25.00000,1,0
+Alex Moesch,Hobart College Statesmen,5,1,0,0.0000,3,1,33.3333,1,0,0.0000,25.00000,0,1
+Aidan Rodgers,Hobart College Statesmen,5,2,0,0.0000,2,0,0.0000,2,0,0.0000,0.00000,1,0
+Aren Cummings,Union (NY) Dutchmen,5,0,0,NULL,2,1,50.0000,0,0,NULL,50.00000,3,0
+Isaiah Washington,Hobart College Statesmen,5,0,0,NULL,5,3,60.0000,0,0,NULL,60.00000,0,0
+Tanner Tedesco,Union (NY) Dutchmen,5,1,0,0.0000,3,1,33.3333,3,1,33.3333,25.00000,1,0
+Avery Lee,Vassar Brewers,5,0,0,NULL,3,0,0.0000,2,0,0.0000,0.00000,1,1
+Jackson Otis,Rochester Institute of Technology Tigers,5,1,0,0.0000,4,1,25.0000,0,0,NULL,20.00000,0,0
+Elliot Harris,Bard College,4,1,1,100.0000,2,0,0.0000,1,0,0.0000,50.00000,1,0
+Connor Cepiel,Union (NY) Dutchmen,4,1,0,0.0000,2,2,100.0000,0,0,NULL,66.66667,1,0
+Ian Bentley,Skidmore Thoroughbreds,4,2,0,0.0000,1,1,100.0000,0,0,NULL,33.33333,1,0
+Dyland Matchett,Rensselaer Polytechnic,4,2,0,0.0000,2,0,0.0000,1,0,0.0000,0.00000,0,0
+Braeden Burns,Clarkson University Golden Knights,4,0,0,NULL,4,2,50.0000,0,0,NULL,50.00000,0,0
+Carter Meshanic,Hobart College Statesmen,4,0,0,NULL,4,3,75.0000,0,0,NULL,75.00000,0,0
+Ryan Rosa,Alfred State Pioneers,4,0,0,NULL,2,2,100.0000,0,0,NULL,100.00000,2,0
+Ronnie Toole,Rochester Institute of Technology Tigers,4,0,0,NULL,3,0,0.0000,0,0,NULL,0.00000,0,1
+Jonny Angbazo,Rensselaer Polytechnic,4,0,0,NULL,3,0,0.0000,0,0,NULL,0.00000,1,0
+Christian Dufort,Union (NY) Dutchmen,4,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,3,0
+Finn Cork,Clarkson University Golden Knights,4,0,0,NULL,0,0,NULL,0,0,NULL,NULL,3,1
+Solomon Mcfarlane,Nazareth College Golden Flyers,3,2,0,0.0000,1,1,100.0000,0,0,NULL,33.33333,0,0
+Hakeem Daphnis,Skidmore Thoroughbreds,3,1,0,0.0000,2,0,0.0000,2,0,0.0000,0.00000,0,0
+Paris Jamison,Alfred State Pioneers,3,0,0,NULL,3,1,33.3333,0,0,NULL,33.33333,0,0
+PJ Scalisi,Rensselaer Polytechnic,3,3,1,33.3333,0,0,NULL,0,0,NULL,50.00000,0,0
+Aiden Macaulay,St. Lawrence Saints,3,1,0,0.0000,2,1,50.0000,1,0,0.0000,33.33333,0,0
+Luke Granto,Rochester Institute of Technology Tigers,3,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,2,0
+Zy Switzer,Alfred State Pioneers,3,2,0,0.0000,0,0,NULL,0,0,NULL,0.00000,1,0
+Frankie Rainville,Clarkson University Golden Knights,3,0,0,NULL,2,2,100.0000,1,1,100.0000,100.00000,1,0
+Cory Dennis,Bard College,3,0,0,NULL,1,1,100.0000,1,1,100.0000,100.00000,2,0
+Jaylen Savage,Nazareth College Golden Flyers,3,0,0,NULL,2,1,50.0000,0,0,NULL,50.00000,1,0
+Aidan Roy,Skidmore Thoroughbreds,3,1,1,100.0000,1,0,0.0000,0,0,NULL,75.00000,1,0
+Billy Mccrae,Wells,3,0,0,NULL,3,2,66.6667,0,0,NULL,66.66667,0,0
+Rowan Heinze,Bard College,3,0,0,NULL,2,1,50.0000,0,0,NULL,50.00000,1,0
+Avery Eugster,Rensselaer Polytechnic,3,0,0,NULL,2,1,50.0000,0,0,NULL,50.00000,1,0
+Dylan Jacob,Elmira,3,0,0,NULL,2,1,50.0000,0,0,NULL,50.00000,0,1
+Andrew Cowan,St. Lawrence Saints,3,0,0,NULL,2,0,0.0000,0,0,NULL,0.00000,1,0
+Daniel Cook,St. John Fisher Cardinals,2,0,0,NULL,2,1,50.0000,0,0,NULL,50.00000,0,0
+Alex Walters,Vassar Brewers,2,2,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Matthew Garside,Union (NY) Dutchmen,2,0,0,NULL,1,1,100.0000,1,1,100.0000,100.00000,1,0
+Dylan Perry,Alfred State Pioneers,2,1,0,0.0000,1,0,0.0000,0,0,NULL,0.00000,0,0
+Aidan Holmes,Ithaca College,2,1,0,0.0000,1,0,0.0000,1,0,0.0000,0.00000,0,0
+Tyler Putney,Nazareth College Golden Flyers,2,2,1,50.0000,0,0,NULL,0,0,NULL,75.00000,0,0
+Jordan Haggard,Nazareth College Golden Flyers,2,0,0,NULL,2,0,0.0000,2,0,0.0000,0.00000,0,0
+Gavin Macaulay,St. Lawrence Saints,2,0,0,NULL,2,2,100.0000,1,1,100.0000,100.00000,0,0
+Riley Spencer,Elmira,2,0,0,NULL,2,1,50.0000,2,1,50.0000,50.00000,0,0
+Evan Cabral,Ithaca College,2,0,0,NULL,2,1,50.0000,0,0,NULL,50.00000,0,0
+josh Lopez,St. John Fisher Cardinals,2,0,0,NULL,1,1,100.0000,0,0,NULL,100.00000,1,0
+Enow Otto Jr.,Gallaudet University Bison,2,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,1,0
+Sebastian Medina,Vassar Brewers,2,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,1,0
+Kreekor Karageuzian,Vassar Brewers,2,0,0,NULL,1,0,0.0000,1,0,0.0000,0.00000,1,0
+Nick Padilla,Skidmore Thoroughbreds,2,1,0,0.0000,1,1,100.0000,1,1,100.0000,50.00000,0,0
+Ryan Lucey,Hobart College Statesmen,2,0,0,NULL,2,0,0.0000,1,0,0.0000,0.00000,0,0
+Nathan Denham,Vassar Brewers,2,0,0,NULL,1,0,0.0000,1,0,0.0000,0.00000,1,0
+Cole Wissink,Ithaca College,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,1,0
+Luke Insley,Nazareth College Golden Flyers,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Yechiel Stewart,Rensselaer Polytechnic,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Kevin Le,Bard College,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Marc Anthony Artuz,Elmira,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Bruce Brewer Jr,Gallaudet University Bison,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,1,0
+Mitchell Kershner,Rochester (NY) Yellowjackets,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Zachary Bippus,Gallaudet University Bison,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,1,0
+Matt Toscano,Clarkson University Golden Knights,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Sam Pisanelli,Hobart College Statesmen,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Gabriel Bergeron,Hobart College Statesmen,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,0,1
+Logan Blankenberg,Nazareth College Golden Flyers,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,0,1
+Matt Lettko,St. John Fisher Cardinals,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,1,0
+Brendan McRoy,St. John Fisher Cardinals,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Brendan Reid,Union (NY) Dutchmen,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,1,0
+Donye Johnson,Wells,1,0,0,NULL,1,1,100.0000,1,1,100.0000,100.00000,0,0
+Alex Grant,Wells,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,1,0
+Stevie Graham,Wells,1,0,0,NULL,1,0,0.0000,1,0,0.0000,0.00000,0,0
+Emmanuel Leftenant,Alfred State Pioneers,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,0,1
+Zachary Gilebarto,Alfred State Pioneers,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Aydin Kocak,Clarkson University Golden Knights,1,1,1,100.0000,0,0,NULL,0,0,NULL,150.00000,0,0
+Steve DeRegis,Clarkson University Golden Knights,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Carter Seeberger,Elmira,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Tyler Cardello,Elmira,1,0,0,NULL,1,1,100.0000,0,0,NULL,100.00000,0,0
+Jaykuss Figueroa,Gallaudet University Bison,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,0,1
+Bryce Bleibtrey,Ithaca College,1,0,0,NULL,1,1,100.0000,0,0,NULL,100.00000,0,0
+Troy McPherson,St. Lawrence Saints,1,0,0,NULL,1,0,0.0000,1,0,0.0000,0.00000,0,0
+Brayden Shepardson,St. Lawrence Saints,1,0,0,NULL,1,0,0.0000,1,0,0.0000,0.00000,0,0
+Corvin Oprea,Rochester (NY) Yellowjackets,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Jack Foley,St. John Fisher Cardinals,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Lemar Fulmore Jr,Union (NY) Dutchmen,1,0,0,NULL,1,1,100.0000,0,0,NULL,100.00000,0,0
+Evan Hauser,Wells,1,0,0,NULL,1,1,100.0000,1,1,100.0000,100.00000,0,0
+Brandon Chung,Gallaudet University Bison,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Jake Walsh,Skidmore Thoroughbreds,1,1,1,100.0000,0,0,NULL,0,0,NULL,150.00000,0,0
+Malachi Moore,Rochester (NY) Yellowjackets,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Jaheim Crayton,Gallaudet University Bison,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Cody Schneider,Alfred State Pioneers,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,1,0
+Heston Tucker,Bard College,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Logan Jagodzinski,Rochester (NY) Yellowjackets,1,1,1,100.0000,0,0,NULL,0,0,NULL,150.00000,0,0
+Brad Fowler,St. John Fisher Cardinals,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+John Bangel,Wells,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Devyn Benson,Vassar Brewers,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Sean Wilcox,Bard College,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,1,0
+Hunter Meshanic,Hobart College Statesmen,1,0,0,NULL,1,1,100.0000,0,0,NULL,100.00000,0,0
+Jack LaGarde,Skidmore Thoroughbreds,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Connor Williams,St. John Fisher Cardinals,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Carter Storey,St. Lawrence Saints,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Case Parsons,Vassar Brewers,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Nolan Smih,Rochester Institute of Technology Tigers,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,1,0
+Owen Evans,Elmira,1,0,0,NULL,1,1,100.0000,0,0,NULL,100.00000,0,0
+Matt Wiele,Rochester (NY) Yellowjackets,1,0,0,NULL,1,1,100.0000,0,0,NULL,100.00000,0,0
+Logan Scott,Vassar Brewers,1,0,0,NULL,1,0,0.0000,0,0,NULL,0.00000,0,0
+Andrew Deppe,Rensselaer Polytechnic,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,1,0
+Joey Skoric,Skidmore Thoroughbreds,1,0,0,NULL,0,0,NULL,0,0,NULL,NULL,0,1
+Terrance Clayton-Murphy,Wells,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0

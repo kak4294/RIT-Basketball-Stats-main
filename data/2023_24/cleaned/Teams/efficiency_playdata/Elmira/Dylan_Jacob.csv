@@ -1,0 +1,25 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Dylan Jacob,Elmira,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_misc_efficiency.csv,,
+Dylan Jacob,Elmira,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_pnr_bhleft_efficiency.csv,,
+Dylan Jacob,Elmira,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_pnr_bhleft_offpick_efficiency.csv,,
+Dylan Jacob,Elmira,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_pnr_efficiency.csv,,
+Dylan Jacob,Elmira,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Dylan Jacob,Elmira,2,0,0,,1,0,0.0,0,0,,0.0,0.0,1.0,player_post_efficiency.csv,,
+Dylan Jacob,Elmira,2,0,0,,1,0,0.0,0,0,,0.0,0.0,1.0,player_post_leftshoulder_efficiency.csv,,
+Dylan Jacob,Elmira,2,0,0,,1,0,0.0,0,0,,0.0,0.0,1.0,player_post_rightblock_efficiency.csv,,
+Dylan Jacob,Elmira,2,0,0,,1,0,0.0,0,0,,0.0,0.0,1.0,player_post_rightblock_leftshoulder_efficiency.csv,,
+Dylan Jacob,Elmira,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_spotup_drive_efficiency.csv,,
+Dylan Jacob,Elmira,4,3,1,33.3333,1,0,0.0,0,0,,37.5,0.0,0.0,player_spotup_efficiency.csv,,
+Dylan Jacob,Elmira,3,3,1,33.3333,0,0,,0,0,,50.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Dylan Jacob,Elmira,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Dylan Jacob,Elmira,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_transition_bh_efficiency.csv,,
+Dylan Jacob,Elmira,11,3,1,33.3333,7,2,28.5714,0,0,,35.0,0.0,1.0,playerefficiency.csv,,
+Dylan Jacob,Elmira,3,0,0,,2,1,50.0,0,0,,50.0,0.0,1.0,playerefficiencyleft.csv,,
+Dylan Jacob,Elmira,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,playerefficiencyright.csv,,
+,Elmira,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnr_cut_efficiency.csv,Dylan Jacob,Tyler Cardello
+,Elmira,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnrbhhigh_cuts_efficiency.csv,Dylan Jacob,Tyler Cardello
+,Elmira,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_post_cut_efficiency.csv,Dylan Jacob,Owen Evans
+,Elmira,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Riley Spencer,Dylan Jacob
+,Elmira,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Riley Spencer,Dylan Jacob
+,Elmira,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Riley Spencer,Dylan Jacob
+,Elmira,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Riley Spencer,Dylan Jacob

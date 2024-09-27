@@ -11,7 +11,7 @@ DB_USER="kylekrebs11"
 DB_PASS="Alleyoop11!11"
 
 # Directory to export CSV files
-EXPORT_PATH="/Users/kylekrebs/Documents/RIT-Basketball-Stats-main/Data-Analysis/efficiency_playdata"
+EXPORT_PATH="/Users/kylekrebs/Documents/RIT-Basketball-Stats-main/data/2023_24/cleaned/Teams/efficiency_playdata"
 
 # Initialize a variable to store the list of CSV files
 CSV_FILES=""

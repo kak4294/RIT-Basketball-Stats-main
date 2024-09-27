@@ -1,0 +1,26 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Jack Foley,St. John Fisher Cardinals,2,0,0,,1,1,100.0,0,0,,100.0,0.0,1.0,player_cut_basket_efficiency.csv,,
+Jack Foley,St. John Fisher Cardinals,2,0,0,,1,1,100.0,0,0,,100.0,0.0,1.0,player_cut_efficiency.csv,,
+Jack Foley,St. John Fisher Cardinals,1,0,0,,0,0,,0,0,,,1.0,0.0,player_misc_efficiency.csv,,
+Jack Foley,St. John Fisher Cardinals,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_bhleft_efficiency.csv,,
+Jack Foley,St. John Fisher Cardinals,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_bhleft_offpick_efficiency.csv,,
+Jack Foley,St. John Fisher Cardinals,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_pnr_bhright_efficiency.csv,,
+Jack Foley,St. John Fisher Cardinals,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_pnr_bhright_offpick_efficiency.csv,,
+Jack Foley,St. John Fisher Cardinals,3,1,0,0.0,2,1,50.0,0,0,,33.33333,0.0,0.0,player_pnr_efficiency.csv,,
+Jack Foley,St. John Fisher Cardinals,3,1,0,0.0,2,1,50.0,0,0,,33.33333,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Jack Foley,St. John Fisher Cardinals,3,3,3,100.0,0,0,,0,0,,150.0,0.0,0.0,player_spotup_efficiency.csv,,
+Jack Foley,St. John Fisher Cardinals,3,3,3,100.0,0,0,,0,0,,150.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Jack Foley,St. John Fisher Cardinals,2,1,1,100.0,1,0,0.0,0,0,,75.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Jack Foley,St. John Fisher Cardinals,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_transition_rightwing_efficiency.csv,,
+Jack Foley,St. John Fisher Cardinals,13,5,4,80.0,6,3,50.0,0,0,,81.81818,1.0,1.0,playerefficiency.csv,,
+Jack Foley,St. John Fisher Cardinals,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,playerefficiencyleft.csv,,
+Jack Foley,St. John Fisher Cardinals,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,playerefficiencyright.csv,,
+,St. John Fisher Cardinals,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Jack Foley,Daniel Cook
+,St. John Fisher Cardinals,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_pop_efficiency.csv,Jack Foley,Daniel Cook
+,St. John Fisher Cardinals,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_bhhigh_rollmanpops_efficiency.csv,Jack Foley,Daniel Cook
+,St. John Fisher Cardinals,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_cut_efficiency.csv,Jack Foley,Brad Fowler
+,St. John Fisher Cardinals,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Jack Foley,Daniel Cook
+,St. John Fisher Cardinals,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Jack Foley,Daniel Cook
+,St. John Fisher Cardinals,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhleft_cuts_efficiency.csv,Jack Foley,Brad Fowler
+,St. John Fisher Cardinals,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnr_cut_efficiency.csv,Matt Lettko,Jack Foley
+,St. John Fisher Cardinals,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnrbhright_cuts_efficiency.csv,Matt Lettko,Jack Foley

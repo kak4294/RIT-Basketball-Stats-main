@@ -1,0 +1,148 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Keegan Ocorr,Rochester Institute of Technology Tigers,8,0,0,,6,5,83.3333,0,0,,83.33333,0.0,2.0,player_cut_basket_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,12,0,0,,9,7,77.7778,0,0,,77.77778,1.0,2.0,player_cut_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_cut_flash_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,2,0,0,,1,1,100.0,0,0,,100.0,1.0,0.0,player_cut_screen_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,2,0,0,,1,0,0.0,1,0,0.0,0.0,1.0,0.0,player_handoffs_bhleft_dribble_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,2,0,0,,1,0,0.0,1,0,0.0,0.0,1.0,0.0,player_handoffs_bhleft_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,3,1,0,0.0,2,1,50.0,1,0,0.0,33.33333,0.0,0.0,player_handoffs_bhright_dribble_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,3,1,0,0.0,2,1,50.0,1,0,0.0,33.33333,0.0,0.0,player_handoffs_bhright_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,5,1,0,0.0,3,1,33.3333,2,0,0.0,25.0,1.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,5,1,0,0.0,3,1,33.3333,2,0,0.0,25.0,1.0,0.0,player_handoffs_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,9,0,0,,5,3,60.0,2,0,0.0,60.0,1.0,3.0,player_iso_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,0.0,1.0,player_iso_left_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,2,0,0,,0,0,,0,0,,,1.0,1.0,player_iso_right_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,6,0,0,,5,3,60.0,2,0,0.0,60.0,0.0,1.0,player_iso_top_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,21,2,0,0.0,2,2,100.0,0,0,,50.0,17.0,0.0,player_misc_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,6,2,0,0.0,1,0,0.0,1,0,0.0,0.0,1.0,2.0,player_offscreens_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,0.0,1.0,player_offscreens_flare_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,2,1,0,0.0,0,0,,0,0,,0.0,1.0,0.0,player_offscreens_leftshoulder_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,2,1,0,0.0,0,0,,0,0,,0.0,1.0,0.0,player_offscreens_leftshoulder_straight_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,4,1,0,0.0,1,0,0.0,1,0,0.0,0.0,0.0,2.0,player_offscreens_rightshoulder_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,0.0,1.0,player_offscreens_rightshoulder_flare_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,3,1,0,0.0,1,0,0.0,1,0,0.0,0.0,0.0,1.0,player_offscreens_rightshoulder_straight_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,5,2,0,0.0,1,0,0.0,1,0,0.0,0.0,1.0,1.0,player_offscreens_straight_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,7,2,0,0.0,4,2,50.0,2,1,50.0,33.33333,0.0,1.0,player_pnr_bhhigh_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,5,0,0,,4,2,50.0,2,1,50.0,50.0,0.0,1.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,2,0,0,,1,0,0.0,1,0,0.0,0.0,1.0,0.0,player_pnr_bhleft_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,2,0,0,,1,0,0.0,1,0,0.0,0.0,1.0,0.0,player_pnr_bhleft_offpick_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,5,0,0,,3,2,66.6667,0,0,,66.66667,2.0,0.0,player_pnr_bhright_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,4,0,0,,3,2,66.6667,0,0,,66.66667,1.0,0.0,player_pnr_bhright_offpick_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_pnr_bhright_rejectpick_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,14,2,0,0.0,8,4,50.0,3,1,33.3333,40.0,3.0,1.0,player_pnr_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,11,0,0,,8,4,50.0,3,1,33.3333,50.0,2.0,1.0,player_pnr_offpick_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_pnr_rejectpick_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_leftblock_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_leftblock_leftshoulder_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_leftshoulder_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,27,0,0,,19,9,47.3684,3,0,0.0,47.36842,6.0,2.0,player_spotup_drive_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,49,20,5,25.0,21,10,47.619,5,1,20.0,42.68293,6.0,2.0,player_spotup_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,22,20,5,25.0,2,1,50.0,2,1,50.0,38.63636,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,12,0,0,,10,7,70.0,1,0,0.0,70.0,1.0,1.0,player_spotup_leftdrive_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,15,0,0,,9,2,22.2222,2,0,0.0,22.22222,5.0,1.0,player_spotup_rightdrive_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,18,0,0,,12,9,75.0,0,0,,75.0,4.0,2.0,player_transition_bh_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,2,0,0,,2,2,100.0,0,0,,100.0,,,player_transition_leakouts_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,6,3,0,0.0,2,1,50.0,0,0,,20.0,1.0,0.0,player_transition_leftwing_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,8,1,0,0.0,3,1,33.3333,0,0,,25.0,1.0,3.0,player_transition_rightwing_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_transition_trailer_efficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,157,32,5,15.625,71,43,60.5634,13,2,15.3846,49.02913,39.0,15.0,playerefficiency.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,22,1,0,0.0,14,8,57.1429,4,0,0.0,53.33333,3.0,4.0,playerefficiencyleft.csv,,
+Keegan Ocorr,Rochester Institute of Technology Tigers,27,2,0,0.0,14,5,35.7143,3,0,0.0,31.25,9.0,2.0,playerefficiencyright.csv,,
+,Rochester Institute of Technology Tigers,4,1,0,0.0,1,0,0.0,0,0,,0.0,1.0,1.0,player_rollman_efficiency.csv,Keegan Ocorr,Kenny Wilburn
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Keegan Ocorr,Josiah Turner
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_rollman_efficiency.csv,Keegan Ocorr,Jackson Otis
+,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,0.0,1.0,player_rollman_leftdrive_efficiency.csv,Keegan Ocorr,Kenny Wilburn
+,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,0.0,1.0,player_rollman_leftdrive_pop_efficiency.csv,Keegan Ocorr,Kenny Wilburn
+,Rochester Institute of Technology Tigers,4,1,0,0.0,1,0,0.0,0,0,,0.0,1.0,1.0,player_rollman_pop_efficiency.csv,Keegan Ocorr,Kenny Wilburn
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_pop_efficiency.csv,Keegan Ocorr,Josiah Turner
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_rollman_pop_efficiency.csv,Keegan Ocorr,Jackson Otis
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_rightdrive_efficiency.csv,Keegan Ocorr,Kenny Wilburn
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_rightdrive_pop_efficiency.csv,Keegan Ocorr,Kenny Wilburn
+,Rochester Institute of Technology Tigers,3,1,0,0.0,1,0,0.0,0,0,,0.0,0.0,1.0,twoplayer_bhhigh_rollmanpops_efficiency.csv,Keegan Ocorr,Kenny Wilburn
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_bhhigh_rollmanpops_efficiency.csv,Keegan Ocorr,Josiah Turner
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_bhhigh_rollmanpops_efficiency.csv,Keegan Ocorr,Jackson Otis
+,Rochester Institute of Technology Tigers,3,0,0,,3,2,66.6667,0,0,,66.66667,0.0,0.0,twoplayer_pnr_cut_efficiency.csv,Keegan Ocorr,Kenny Wilburn
+,Rochester Institute of Technology Tigers,2,0,0,,1,0,0.0,0,0,,0.0,0.0,1.0,twoplayer_pnr_cut_efficiency.csv,Keegan Ocorr,Josiah Turner
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_cut_efficiency.csv,Keegan Ocorr,Matt Caggiano
+,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnr_cut_efficiency.csv,Keegan Ocorr,Mark Osime
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Keegan Ocorr,Brody Brown
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Keegan Ocorr,Brock Bowen
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Keegan Ocorr,Mark Osime
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Keegan Ocorr,Kenny Wilburn
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Keegan Ocorr,Brody Brown
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Keegan Ocorr,Brock Bowen
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Keegan Ocorr,Mark Osime
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Keegan Ocorr,Kenny Wilburn
+,Rochester Institute of Technology Tigers,3,3,1,33.3333,0,0,,0,0,,50.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Keegan Ocorr,Brock Bowen
+,Rochester Institute of Technology Tigers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Keegan Ocorr,Brandon Weiss
+,Rochester Institute of Technology Tigers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Keegan Ocorr,Jackson Otis
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Keegan Ocorr,Chase Dickens
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Keegan Ocorr,Ronnie Toole
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Keegan Ocorr,Zac Ditzel
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Keegan Ocorr,Brody Brown
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Keegan Ocorr,Mark Osime
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_cuts_efficiency.csv,Keegan Ocorr,Matt Caggiano
+,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnrbhhigh_cuts_efficiency.csv,Keegan Ocorr,Josiah Turner
+,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_cuts_efficiency.csv,Keegan Ocorr,Kenny Wilburn
+,Rochester Institute of Technology Tigers,3,1,0,0.0,1,0,0.0,0,0,,0.0,0.0,1.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Keegan Ocorr,Kenny Wilburn
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Keegan Ocorr,Jackson Otis
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Keegan Ocorr,Josiah Turner
+,Rochester Institute of Technology Tigers,3,1,0,0.0,1,0,0.0,0,0,,0.0,0.0,1.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Keegan Ocorr,Kenny Wilburn
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Keegan Ocorr,Josiah Turner
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Keegan Ocorr,Jackson Otis
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Keegan Ocorr,Brody Brown
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Keegan Ocorr,Brock Bowen
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Keegan Ocorr,Mark Osime
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Keegan Ocorr,Kenny Wilburn
+,Rochester Institute of Technology Tigers,3,3,1,33.3333,0,0,,0,0,,50.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Keegan Ocorr,Brock Bowen
+,Rochester Institute of Technology Tigers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Keegan Ocorr,Brandon Weiss
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Keegan Ocorr,Chase Dickens
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Keegan Ocorr,Mark Osime
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Keegan Ocorr,Ronnie Toole
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Keegan Ocorr,Jackson Otis
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Keegan Ocorr,Brody Brown
+,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhleft_cuts_efficiency.csv,Keegan Ocorr,Kenny Wilburn
+,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnrbhleft_cuts_efficiency.csv,Keegan Ocorr,Mark Osime
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhleft_spotupjumper_efficiency.csv,Keegan Ocorr,Jackson Otis
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhleft_spotupjumper_efficiency.csv,Keegan Ocorr,Zac Ditzel
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_cuts_efficiency.csv,Keegan Ocorr,Josiah Turner
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_cuts_efficiency.csv,Keegan Ocorr,Kenny Wilburn
+,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhright_rollman_efficiency.csv,Keegan Ocorr,Kenny Wilburn
+,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhright_rollmanpops_efficiency.csv,Keegan Ocorr,Kenny Wilburn
+,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_iso_cut_efficiency.csv,Matt Caggiano,Keegan Ocorr
+,Rochester Institute of Technology Tigers,2,0,0,,1,1,100.0,0,0,,100.0,0.0,1.0,twoplayer_pnr_cut_efficiency.csv,Matt Caggiano,Keegan Ocorr
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_cut_efficiency.csv,Brock Bowen,Keegan Ocorr
+,Rochester Institute of Technology Tigers,4,0,0,,1,1,100.0,0,0,,100.0,2.0,1.0,twoplayer_pnr_spotupdrives_efficiency.csv,Matt Caggiano,Keegan Ocorr
+,Rochester Institute of Technology Tigers,2,0,0,,0,0,,0,0,,,2.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Chase Dickens,Keegan Ocorr
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Mark Osime,Keegan Ocorr
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Brody Brown,Keegan Ocorr
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Brock Bowen,Keegan Ocorr
+,Rochester Institute of Technology Tigers,4,0,0,,1,1,100.0,0,0,,100.0,2.0,1.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Matt Caggiano,Keegan Ocorr
+,Rochester Institute of Technology Tigers,2,0,0,,0,0,,0,0,,,2.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Chase Dickens,Keegan Ocorr
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Mark Osime,Keegan Ocorr
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Brody Brown,Keegan Ocorr
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Brock Bowen,Keegan Ocorr
+,Rochester Institute of Technology Tigers,3,3,1,33.3333,0,0,,0,0,,50.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Brock Bowen,Keegan Ocorr
+,Rochester Institute of Technology Tigers,3,3,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Matt Caggiano,Keegan Ocorr
+,Rochester Institute of Technology Tigers,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Chase Dickens,Keegan Ocorr
+,Rochester Institute of Technology Tigers,2,0,0,,1,1,100.0,0,0,,100.0,0.0,1.0,twoplayer_pnrbhhigh_cuts_efficiency.csv,Matt Caggiano,Keegan Ocorr
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_cuts_efficiency.csv,Brock Bowen,Keegan Ocorr
+,Rochester Institute of Technology Tigers,4,0,0,,1,1,100.0,0,0,,100.0,2.0,1.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Matt Caggiano,Keegan Ocorr
+,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Chase Dickens,Keegan Ocorr
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Mark Osime,Keegan Ocorr
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Brock Bowen,Keegan Ocorr
+,Rochester Institute of Technology Tigers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Brock Bowen,Keegan Ocorr
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Matt Caggiano,Keegan Ocorr
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Chase Dickens,Keegan Ocorr
+,Rochester Institute of Technology Tigers,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhleft_spotupdrives_efficiency.csv,Chase Dickens,Keegan Ocorr
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupjumper_efficiency.csv,Matt Caggiano,Keegan Ocorr
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupjumper_efficiency.csv,Brock Bowen,Keegan Ocorr
+,Rochester Institute of Technology Tigers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_spotupdrives_efficiency.csv,Brody Brown,Keegan Ocorr
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Matt Caggiano,Keegan Ocorr
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Brock Bowen,Keegan Ocorr
+,Rochester Institute of Technology Tigers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Chase Dickens,Keegan Ocorr
+,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_post_cut_efficiency.csv,Jackson Otis,Keegan Ocorr
+,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_post_cut_efficiency.csv,Josiah Turner,Keegan Ocorr
+,Rochester Institute of Technology Tigers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_post_cut_efficiency.csv,Matt Caggiano,Keegan Ocorr
+,Rochester Institute of Technology Tigers,2,1,0,0.0,1,1,100.0,1,1,100.0,50.0,0.0,0.0,twoplayer_post_spotupjumper_efficiency.csv,Josiah Turner,Keegan Ocorr

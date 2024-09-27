@@ -1,0 +1,4 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Joe Bangel,Wells,2,0,0,,1,1,100.0,0,0,,100.0,1.0,0.0,player_cut_efficiency.csv,,
+Joe Bangel,Wells,2,0,0,,1,1,100.0,0,0,,100.0,1.0,0.0,player_cut_screen_efficiency.csv,,
+Joe Bangel,Wells,2,0,0,,1,1,100.0,0,0,,100.0,1.0,0.0,playerefficiency.csv,,

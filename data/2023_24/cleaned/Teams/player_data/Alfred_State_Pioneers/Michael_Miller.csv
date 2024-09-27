@@ -1,0 +1,9 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Michael Miller,Alfred State Pioneers,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Michael Miller,Alfred State Pioneers,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Michael Miller,Alfred State Pioneers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_transition_rightwing_efficiency.csv,,
+Michael Miller,Alfred State Pioneers,3,2,0,0.0,0,0,,0,0,,0.0,1.0,0.0,playerefficiency.csv,,
+,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Michael Miller,Cody Schneider
+,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_pop_efficiency.csv,Michael Miller,Cody Schneider
+,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_rollman_efficiency.csv,Michael Miller,Cody Schneider
+,Alfred State Pioneers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_rollmanpops_efficiency.csv,Michael Miller,Cody Schneider

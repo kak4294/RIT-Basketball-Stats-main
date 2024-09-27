@@ -1,0 +1,40 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Carter Meshanic,Hobart College Statesmen,5,0,0,,5,4,80.0,0,0,,80.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,7,0,0,,6,5,83.3333,0,0,,83.33333,1.0,0.0,player_cut_efficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,2,0,0,,1,1,100.0,0,0,,100.0,1.0,0.0,player_cut_screen_efficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_handoffs_bhleft_dribble_efficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_handoffs_bhleft_efficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,5,0,0,,5,4,80.0,0,0,,80.0,0.0,0.0,player_iso_efficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_iso_right_efficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,4,0,0,,4,3,75.0,0,0,,75.0,0.0,0.0,player_iso_top_efficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,3,0,0,,3,1,33.3333,0,0,,33.33333,0.0,0.0,player_misc_efficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,4,0,0,,1,1,100.0,0,0,,100.0,3.0,0.0,player_post_efficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,1,0,0,,0,0,,0,0,,,1.0,0.0,player_post_faceup_efficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_leftshoulder_efficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,4,0,0,,1,1,100.0,0,0,,100.0,3.0,0.0,player_post_rightblock_efficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,1,0,0,,0,0,,0,0,,,1.0,0.0,player_post_rightblock_faceup_efficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_rightblock_leftshoulder_efficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,2,0,0,,0,0,,0,0,,,2.0,0.0,player_post_rightblock_rightshoulder_efficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,2,0,0,,0,0,,0,0,,,2.0,0.0,player_post_rightshoulder_efficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,6,0,0,,5,3,60.0,0,0,,60.0,0.0,1.0,player_spotup_drive_efficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,6,0,0,,5,3,60.0,0,0,,60.0,0.0,1.0,player_spotup_efficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,4,0,0,,3,2,66.6667,0,0,,66.66667,0.0,1.0,player_spotup_rightdrive_efficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_transition_bh_efficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,1,0,0,,0,0,,0,0,,,0.0,1.0,player_transition_leftwing_efficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,1,0,0,,0,0,,0,0,,,0.0,1.0,player_transition_rightwing_efficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,35,0,0,,26,19,73.0769,0,0,,73.07692,4.0,5.0,playerefficiency.csv,,
+Carter Meshanic,Hobart College Statesmen,4,0,0,,4,3,75.0,0,0,,75.0,0.0,0.0,playerefficiencyleft.csv,,
+Carter Meshanic,Hobart College Statesmen,7,0,0,,4,3,75.0,0,0,,75.0,2.0,1.0,playerefficiencyright.csv,,
+,Hobart College Statesmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Carter Meshanic,Matt Brand
+,Hobart College Statesmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Carter Meshanic,Matt Brand
+,Hobart College Statesmen,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_post_spotupjumper_efficiency.csv,Carter Meshanic,Pat Healy
+,Hobart College Statesmen,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_post_spotupjumper_efficiency.csv,Carter Meshanic,Aidan Rodgers
+,Hobart College Statesmen,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_post_spotupjumper_efficiency.csv,Carter Meshanic,Ryan Lucey
+,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_iso_cut_efficiency.csv,Pat Healy,Carter Meshanic
+,Hobart College Statesmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Aidan Rodgers,Carter Meshanic
+,Hobart College Statesmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Aidan Rodgers,Carter Meshanic
+,Hobart College Statesmen,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupdrives_efficiency.csv,Aidan Rodgers,Carter Meshanic
+,Hobart College Statesmen,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_post_cut_efficiency.csv,Isaiah Washington,Carter Meshanic

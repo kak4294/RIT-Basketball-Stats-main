@@ -1,0 +1,122 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul
+Brock Bowen,Rochester Institute of Technology Tigers,71,71,31,43.6620,0,0,NULL,0,0,NULL,65.49296,0,0
+Jackson Otis,Rochester Institute of Technology Tigers,34,30,11,36.6667,4,2,50.0000,4,2,50.0000,54.41176,0,0
+Matt Caggiano,Rochester Institute of Technology Tigers,34,33,12,36.3636,0,0,NULL,0,0,NULL,54.54545,0,1
+Brody Brown,Rochester Institute of Technology Tigers,33,33,8,24.2424,0,0,NULL,0,0,NULL,36.36364,0,0
+Brandon Weiss,Rochester Institute of Technology Tigers,31,30,12,40.0000,1,0,0.0000,1,0,0.0000,58.06452,0,0
+Chase Dickens,Rochester Institute of Technology Tigers,30,30,8,26.6667,0,0,NULL,0,0,NULL,40.00000,0,0
+Kenny Wilburn,Rochester Institute of Technology Tigers,23,9,2,22.2222,14,1,7.1429,14,1,7.1429,17.39130,0,0
+Zac Ditzel,Rochester Institute of Technology Tigers,23,21,9,42.8571,1,0,0.0000,1,0,0.0000,61.36364,0,1
+Keegan Ocorr,Rochester Institute of Technology Tigers,22,20,5,25.0000,2,1,50.0000,2,1,50.0000,38.63636,0,0
+Josiah Turner,Rochester Institute of Technology Tigers,21,18,6,33.3333,3,2,66.6667,3,2,66.6667,52.38095,0,0
+Mark Osime,Rochester Institute of Technology Tigers,16,15,4,26.6667,0,0,NULL,0,0,NULL,40.00000,0,1
+Jack Dalgety,Clarkson University Golden Knights,14,14,4,28.5714,0,0,NULL,0,0,NULL,42.85714,0,0
+Avery Eugster,Rensselaer Polytechnic,12,12,5,41.6667,0,0,NULL,0,0,NULL,62.50000,0,0
+Luke Mcgarrity,Union (NY) Dutchmen,11,11,5,45.4545,0,0,NULL,0,0,NULL,68.18182,0,0
+Ronnie Toole,Rochester Institute of Technology Tigers,9,9,1,11.1111,0,0,NULL,0,0,NULL,16.66667,0,0
+Luke Granto,Rochester Institute of Technology Tigers,9,9,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Dyland Matchett,Rensselaer Polytechnic,8,8,2,25.0000,0,0,NULL,0,0,NULL,37.50000,0,0
+Alex Moesch,Hobart College Statesmen,7,7,4,57.1429,0,0,NULL,0,0,NULL,85.71429,0,0
+Connor Cepiel,Union (NY) Dutchmen,7,7,4,57.1429,0,0,NULL,0,0,NULL,85.71429,0,0
+Samer Sawan,Gallaudet University Bison,7,7,5,71.4286,0,0,NULL,0,0,NULL,107.14286,0,0
+Elliot Harris,Bard College,6,5,2,40.0000,0,0,NULL,0,0,NULL,60.00000,0,1
+Sean Wilcox,Bard College,6,6,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Steve DeRegis,Clarkson University Golden Knights,6,6,3,50.0000,0,0,NULL,0,0,NULL,75.00000,0,0
+Ryan Lucey,Hobart College Statesmen,6,6,4,66.6667,0,0,NULL,0,0,NULL,100.00000,0,0
+Aidan Roy,Skidmore Thoroughbreds,6,6,2,33.3333,0,0,NULL,0,0,NULL,50.00000,0,0
+Adam Dudzinski,St. Lawrence Saints,6,5,2,40.0000,1,1,100.0000,1,1,100.0000,66.66667,0,0
+Luke Adams,Vassar Brewers,6,6,2,33.3333,0,0,NULL,0,0,NULL,50.00000,0,0
+Braeden Burns,Clarkson University Golden Knights,6,5,3,60.0000,0,0,NULL,0,0,NULL,90.00000,0,1
+Matthew Garside,Union (NY) Dutchmen,6,6,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Frankie Rainville,Clarkson University Golden Knights,5,5,2,40.0000,0,0,NULL,0,0,NULL,60.00000,0,0
+Gabriel Bergeron,Hobart College Statesmen,5,5,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Andrew Geschickter,Ithaca College,5,5,1,20.0000,0,0,NULL,0,0,NULL,30.00000,0,0
+Aidan Holmes,Ithaca College,5,5,1,20.0000,0,0,NULL,0,0,NULL,30.00000,0,0
+Tyler Putney,Nazareth College Golden Flyers,5,5,1,20.0000,0,0,NULL,0,0,NULL,30.00000,0,0
+Logan Blankenberg,Nazareth College Golden Flyers,5,5,4,80.0000,0,0,NULL,0,0,NULL,120.00000,0,0
+Yechiel Stewart,Rensselaer Polytechnic,5,5,2,40.0000,0,0,NULL,0,0,NULL,60.00000,0,0
+PJ Scalisi,Rensselaer Polytechnic,5,4,0,0.0000,1,0,0.0000,1,0,0.0000,0.00000,0,0
+Jonny Angbazo,Rensselaer Polytechnic,5,5,2,40.0000,0,0,NULL,0,0,NULL,60.00000,0,0
+Avery Lee,Vassar Brewers,5,5,1,20.0000,0,0,NULL,0,0,NULL,30.00000,0,0
+Tyler Cardello,Elmira,5,5,1,20.0000,0,0,NULL,0,0,NULL,30.00000,0,0
+Shea Fitzgerald,Vassar Brewers,5,4,1,25.0000,1,0,0.0000,1,0,0.0000,30.00000,0,0
+Trey Syroka,St. Lawrence Saints,4,4,2,50.0000,0,0,NULL,0,0,NULL,75.00000,0,0
+Gavin Macaulay,St. Lawrence Saints,4,4,1,25.0000,0,0,NULL,0,0,NULL,37.50000,0,0
+Troy McPherson,St. Lawrence Saints,4,4,1,25.0000,0,0,NULL,0,0,NULL,37.50000,0,0
+Christian Dufort,Union (NY) Dutchmen,4,3,1,33.3333,1,1,100.0000,1,1,100.0000,62.50000,0,0
+Terrance Clayton-Murphy,Wells,4,4,2,50.0000,0,0,NULL,0,0,NULL,75.00000,0,0
+Ryan Miles-Ferguson,Clarkson University Golden Knights,4,4,2,50.0000,0,0,NULL,0,0,NULL,75.00000,0,0
+Cory Dennis,Bard College,3,3,2,66.6667,0,0,NULL,0,0,NULL,100.00000,0,0
+Laz Panagiotounis,Bard College,3,3,3,100.0000,0,0,NULL,0,0,NULL,150.00000,0,0
+Isaiah Washington,Hobart College Statesmen,3,3,1,33.3333,0,0,NULL,0,0,NULL,50.00000,0,0
+Logan Wendell,Ithaca College,3,3,1,33.3333,0,0,NULL,0,0,NULL,50.00000,0,0
+Jordan Haggard,Nazareth College Golden Flyers,3,3,1,33.3333,0,0,NULL,0,0,NULL,50.00000,0,0
+Ben Eugster,Rensselaer Polytechnic,3,3,2,66.6667,0,0,NULL,0,0,NULL,100.00000,0,0
+Joey Skoric,Skidmore Thoroughbreds,3,3,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Jake Walsh,Skidmore Thoroughbreds,3,3,2,66.6667,0,0,NULL,0,0,NULL,100.00000,0,0
+Jack Foley,St. John Fisher Cardinals,3,3,3,100.0000,0,0,NULL,0,0,NULL,150.00000,0,0
+Aiden Macaulay,St. Lawrence Saints,3,3,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Brendan Reid,Union (NY) Dutchmen,3,3,1,33.3333,0,0,NULL,0,0,NULL,50.00000,0,0
+Nathan Denham,Vassar Brewers,3,3,1,33.3333,0,0,NULL,0,0,NULL,50.00000,0,0
+Chase Welch,Wells,3,3,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Nolan Smih,Rochester Institute of Technology Tigers,3,3,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Paris Jamison,Alfred State Pioneers,3,2,1,50.0000,1,1,100.0000,1,1,100.0000,83.33333,0,0
+Dylan Jacob,Elmira,3,3,1,33.3333,0,0,NULL,0,0,NULL,50.00000,0,0
+Alex Penders,Ithaca College,3,3,1,33.3333,0,0,NULL,0,0,NULL,50.00000,0,0
+Matt Niemczura,Rochester (NY) Yellowjackets,3,3,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+JP Miranda,Vassar Brewers,3,3,2,66.6667,0,0,NULL,0,0,NULL,100.00000,0,0
+Aydin Kocak,Clarkson University Golden Knights,2,2,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Mathew Parent,Clarkson University Golden Knights,2,2,1,50.0000,0,0,NULL,0,0,NULL,75.00000,0,0
+Matt Brand,Hobart College Statesmen,2,2,1,50.0000,0,0,NULL,0,0,NULL,75.00000,0,0
+Pat Healy,Hobart College Statesmen,2,2,1,50.0000,0,0,NULL,0,0,NULL,75.00000,0,0
+Pat White,Rensselaer Polytechnic,2,2,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Prince Shyllon,Skidmore Thoroughbreds,2,2,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Hakeem Daphnis,Skidmore Thoroughbreds,2,1,0,0.0000,1,1,100.0000,1,1,100.0000,50.00000,0,0
+Matt Lettko,St. John Fisher Cardinals,2,2,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Cole Thompson,St. John Fisher Cardinals,2,2,2,100.0000,0,0,NULL,0,0,NULL,150.00000,0,0
+Brayden Shepardson,St. Lawrence Saints,2,2,1,50.0000,0,0,NULL,0,0,NULL,75.00000,0,0
+Michael Miller,Alfred State Pioneers,2,2,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Zy Switzer,Alfred State Pioneers,2,2,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Dylan Perry,Alfred State Pioneers,2,2,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Marc Anthony Artuz,Elmira,2,2,2,100.0000,0,0,NULL,0,0,NULL,150.00000,0,0
+Zachary Bippus,Gallaudet University Bison,2,2,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Blessed Mbogo,Gallaudet University Bison,2,2,1,50.0000,0,0,NULL,0,0,NULL,75.00000,0,0
+Logan Jagodzinski,Rochester (NY) Yellowjackets,2,2,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Ian Bentley,Skidmore Thoroughbreds,2,2,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Carter Storey,St. Lawrence Saints,2,2,1,50.0000,0,0,NULL,0,0,NULL,75.00000,0,0
+Alex Walters,Vassar Brewers,2,2,1,50.0000,0,0,NULL,0,0,NULL,75.00000,0,0
+Cole Wissink,Ithaca College,2,2,1,50.0000,0,0,NULL,0,0,NULL,75.00000,0,0
+Jaylen Savage,Nazareth College Golden Flyers,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Dillon McCafferty,Skidmore Thoroughbreds,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Maxwell Schneider,St. John Fisher Cardinals,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Matt Panara,St. John Fisher Cardinals,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Joe Morrell,St. John Fisher Cardinals,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Elijah Harrison,Wells,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Evan Hauser,Wells,1,1,1,100.0000,0,0,NULL,0,0,NULL,150.00000,0,0
+Darius Brown,Wells,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Billy Mccrae,Wells,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Donye Johnson,Wells,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Don Mays Jr,Wells,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Azikiwe Cuffy-Scott,Bard College,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Heston Tucker,Bard College,1,1,1,100.0000,0,0,NULL,0,0,NULL,150.00000,0,0
+Matt Toscano,Clarkson University Golden Knights,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Owen Evans,Elmira,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Bruce Brewer Jr,Gallaudet University Bison,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Hunter Meshanic,Hobart College Statesmen,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Bryce Bleibtrey,Ithaca College,1,1,1,100.0000,0,0,NULL,0,0,NULL,150.00000,0,0
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Mitchell Kershner,Rochester (NY) Yellowjackets,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Aidan Rodgers,Hobart College Statesmen,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Tate Kuiper,St. Lawrence Saints,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Zachary Gilebarto,Alfred State Pioneers,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Kevin Le,Bard College,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Riley Spencer,Elmira,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Mihail Bossev,Rochester Institute of Technology Tigers,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Evan Cabral,Ithaca College,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Laurence Brady,Ithaca College,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Jack Plesser,Union (NY) Dutchmen,1,0,0,NULL,1,0,0.0000,1,0,0.0000,0.00000,0,0
+Lemar Fulmore Jr,Union (NY) Dutchmen,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Edward Baptiste,Union (NY) Dutchmen,1,0,0,NULL,1,0,0.0000,1,0,0.0000,0.00000,0,0
+Malachi Moore,Rochester (NY) Yellowjackets,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Corvin Oprea,Rochester (NY) Yellowjackets,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0
+Matt Wiele,Rochester (NY) Yellowjackets,1,1,0,0.0000,0,0,NULL,0,0,NULL,0.00000,0,0

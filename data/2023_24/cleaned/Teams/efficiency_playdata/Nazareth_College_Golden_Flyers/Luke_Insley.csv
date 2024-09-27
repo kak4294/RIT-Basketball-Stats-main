@@ -1,0 +1,27 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Luke Insley,Nazareth College Golden Flyers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_misc_efficiency.csv,,
+Luke Insley,Nazareth College Golden Flyers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_offscreens_efficiency.csv,,
+Luke Insley,Nazareth College Golden Flyers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_offscreens_rightshoulder_efficiency.csv,,
+Luke Insley,Nazareth College Golden Flyers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_offscreens_rightshoulder_straight_efficiency.csv,,
+Luke Insley,Nazareth College Golden Flyers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_offscreens_straight_efficiency.csv,,
+Luke Insley,Nazareth College Golden Flyers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_pnr_bhhigh_efficiency.csv,,
+Luke Insley,Nazareth College Golden Flyers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Luke Insley,Nazareth College Golden Flyers,4,0,0,,4,2,50.0,1,0,0.0,50.0,0.0,0.0,player_pnr_bhright_efficiency.csv,,
+Luke Insley,Nazareth College Golden Flyers,4,0,0,,4,2,50.0,1,0,0.0,50.0,0.0,0.0,player_pnr_bhright_offpick_efficiency.csv,,
+Luke Insley,Nazareth College Golden Flyers,5,0,0,,5,3,60.0,1,0,0.0,60.0,0.0,0.0,player_pnr_efficiency.csv,,
+Luke Insley,Nazareth College Golden Flyers,5,0,0,,5,3,60.0,1,0,0.0,60.0,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Luke Insley,Nazareth College Golden Flyers,7,0,0,,7,4,57.1429,1,0,0.0,57.14286,0.0,0.0,playerefficiency.csv,,
+Luke Insley,Nazareth College Golden Flyers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,playerefficiencyleft.csv,,
+Luke Insley,Nazareth College Golden Flyers,4,0,0,,4,2,50.0,1,0,0.0,50.0,0.0,0.0,playerefficiencyright.csv,,
+,Nazareth College Golden Flyers,2,0,0,,1,1,100.0,0,0,,100.0,1.0,0.0,player_rollman_efficiency.csv,Luke Insley,Jordan Haggard
+,Nazareth College Golden Flyers,2,0,0,,1,1,100.0,0,0,,100.0,1.0,0.0,player_rollman_pop_efficiency.csv,Luke Insley,Jordan Haggard
+,Nazareth College Golden Flyers,2,0,0,,1,1,100.0,0,0,,100.0,1.0,0.0,player_rollman_rightdrive_efficiency.csv,Luke Insley,Jordan Haggard
+,Nazareth College Golden Flyers,2,0,0,,1,1,100.0,0,0,,100.0,1.0,0.0,player_rollman_rightdrive_pop_efficiency.csv,Luke Insley,Jordan Haggard
+,Nazareth College Golden Flyers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Luke Insley,Jordan Haggard
+,Nazareth College Golden Flyers,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Luke Insley,Jaylen Savage
+,Nazareth College Golden Flyers,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Luke Insley,Jaylen Savage
+,Nazareth College Golden Flyers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Luke Insley,Jordan Haggard
+,Nazareth College Golden Flyers,2,0,0,,1,1,100.0,0,0,,100.0,1.0,0.0,twoplayer_pnrbhright_rollman_efficiency.csv,Luke Insley,Jordan Haggard
+,Nazareth College Golden Flyers,2,0,0,,1,1,100.0,0,0,,100.0,1.0,0.0,twoplayer_pnrbhright_rollmanpops_efficiency.csv,Luke Insley,Jordan Haggard
+,Nazareth College Golden Flyers,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhright_spotupdrives_efficiency.csv,Luke Insley,Jaylen Savage
+,Nazareth College Golden Flyers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Luke Insley,Jordan Haggard

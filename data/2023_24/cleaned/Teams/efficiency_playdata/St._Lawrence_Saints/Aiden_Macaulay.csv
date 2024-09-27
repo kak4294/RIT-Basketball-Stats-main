@@ -1,0 +1,38 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Aiden Macaulay,St. Lawrence Saints,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_handoffs_bhleft_dribble_efficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_handoffs_bhleft_efficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,2,1,0,0.0,1,0,0.0,0,0,,0.0,0.0,0.0,player_offscreens_efficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_offscreens_leftshoulder_efficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_offscreens_leftshoulder_straight_efficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_rightshoulder_efficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_rightshoulder_straight_efficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,2,1,0,0.0,1,0,0.0,0,0,,0.0,0.0,0.0,player_offscreens_straight_efficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,5,1,0,0.0,3,1,33.3333,1,0,0.0,25.0,0.0,1.0,player_pnr_bhhigh_efficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,5,1,0,0.0,3,1,33.3333,1,0,0.0,25.0,0.0,1.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,player_pnr_bhright_efficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,1,0,0,,0,0,,0,0,,,1.0,0.0,player_pnr_bhright_offpick_efficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhright_rejectpick_efficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,7,1,0,0.0,4,1,25.0,1,0,0.0,20.0,1.0,1.0,player_pnr_efficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,6,1,0,0.0,3,1,33.3333,1,0,0.0,25.0,1.0,1.0,player_pnr_offpick_efficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_rejectpick_efficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,2,0,0,,2,2,100.0,1,1,100.0,100.0,0.0,0.0,player_spotup_drive_efficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,5,3,0,0.0,2,2,100.0,1,1,100.0,40.0,0.0,0.0,player_spotup_efficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,3,3,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,1,0,0,,0,0,,0,0,,,1.0,0.0,player_transition_bh_efficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,3,3,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_transition_trailer_efficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,20,8,0,0.0,9,3,33.3333,4,1,25.0,17.64706,2.0,1.0,playerefficiency.csv,,
+Aiden Macaulay,St. Lawrence Saints,3,1,0,0.0,2,1,50.0,1,0,0.0,33.33333,0.0,0.0,playerefficiencyleft.csv,,
+Aiden Macaulay,St. Lawrence Saints,4,0,0,,3,1,33.3333,1,1,100.0,33.33333,1.0,0.0,playerefficiencyright.csv,,
+,St. Lawrence Saints,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Aiden Macaulay,Adam Dudzinski
+,St. Lawrence Saints,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Aiden Macaulay,Carter Storey
+,St. Lawrence Saints,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Aiden Macaulay,Troy McPherson
+,St. Lawrence Saints,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Aiden Macaulay,Tate Kuiper
+,St. Lawrence Saints,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Aiden Macaulay,Carter Storey
+,St. Lawrence Saints,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Aiden Macaulay,Tate Kuiper
+,St. Lawrence Saints,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupjumper_efficiency.csv,Aiden Macaulay,Troy McPherson
+,St. Lawrence Saints,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_post_spotupjumper_efficiency.csv,Aiden Macaulay,Trey Syroka
