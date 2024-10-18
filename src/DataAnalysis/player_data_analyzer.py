@@ -1,35 +1,36 @@
 import pandas as pd
 import sys
 import os
+from datetime import datetime
+from player_data_visuals import create_bar_chart
 
-def analyze_player_performance(file_list):
-    # Load the CSV file into a DataFrame
-    for file in file_list:
-        # Split player data by role
-        primary_df, secondary_df, scorer_df, player_name = split_player_data_by_role(file)
-        
-        # Initialize insight lists for different categories
-        PNR_insights = []
-        Cut_insights = []
-        Handoff_insights = []
-        Post_insights = []
-        Spotup_insights = []
-        Transition_insights = []
-        Offscreen_insights = []
-        Iso_insights = []
-        Rollman_insights = []
-        
-        # Combine all insights into a single list
-        insights = [PNR_insights, Cut_insights, Handoff_insights, Post_insights, 
-                    Spotup_insights, Transition_insights, Offscreen_insights, 
-                    Iso_insights, Rollman_insights]
-        
-        # Process insights for primary, secondary, and scorer roles
-        process_primary_stats(primary_df, player_name, insights)
-        process_secondary_stats(secondary_df, player_name, insights)
-        process_scorer_stats(scorer_df, player_name, insights)
-        
-        return insights
+def analyze_player_performance(file, output_directory):
+
+    # Split player data by role
+    primary_df, secondary_df, scorer_df, player_name = split_player_data_by_role(file)
+    
+    # Initialize insight lists for different categories
+    PNR_insights = []
+    Cut_insights = []
+    Handoff_insights = []
+    Post_insights = []
+    Spotup_insights = []
+    Transition_insights = []
+    Offscreen_insights = []
+    Iso_insights = []
+    Rollman_insights = []
+    
+    # Combine all insights into a single list
+    insights = [PNR_insights, Cut_insights, Handoff_insights, Post_insights, 
+                Spotup_insights, Transition_insights, Offscreen_insights, 
+                Iso_insights, Rollman_insights]
+    
+    # Process insights for primary, secondary, and scorer roles
+    process_primary_stats(primary_df, player_name, insights, output_directory)
+    process_secondary_stats(secondary_df, player_name, insights, output_directory)
+    process_scorer_stats(scorer_df, player_name, insights, output_directory)
+    
+    return insights
         
 def split_player_data_by_role(file_name):
     # Extract the player's name from the file path (assumes format "PlayerName.csv")
@@ -50,17 +51,17 @@ def split_player_data_by_role(file_name):
     return primary_player_df, secondary_player_df, scorer_df, player_name       
 
 
-def process_primary_stats(df: pd.DataFrame, name, insights):
+def process_primary_stats(df: pd.DataFrame, name, insights, output_directory):
     # Iterate through the types of insights
     for i in range(8):
         if i == 0:  # PNR insights
-            PNR_passer_stats(df, name, insights[i])
+            PNR_passer_stats(df, name, insights[i], output_directory)
         elif i == 7:  # Iso insights
-            Iso_passer_stats(df, name, insights[i])
+            Iso_passer_stats(df, name, insights[i], output_directory)
         elif i == 3:  # Post insights
-            Post_passer_stats(df, name, insights[i])
+            Post_passer_stats(df, name, insights[i], output_directory)
 
-def PNR_passer_stats(df: pd.DataFrame, name, insight):
+def PNR_passer_stats(df: pd.DataFrame, name, insight, output_directory):
     # Calculates total passing proportion and efficiency for secondary plays out of a pick n roll
     total_passing_proport_csvs = ['twoplayer_pnr_cut_efficiency.csv', 'twoplayer_pnr_spotupsdrives_efficiency.csv', 'twoplayer_pnr_spotupsjumpers_efficiency.csv', 'player_rollman_efficiency.csv' ]
     filtered_df1 = df[(df['SourceFile'].isin(total_passing_proport_csvs)) & (df['PrimaryPlayer'] == name)]
@@ -81,11 +82,11 @@ def PNR_passer_stats(df: pd.DataFrame, name, insight):
         total_passing_efficiency])
     
     # Additional insights for left, right, and high PNRs
-    PNR_bhhigh_passer_stats(df, name, insight)
-    PNR_bhleft_passer_stats(df, name, insight)
-    PNR_bhright_passer_stats(df, name, insight)
+    PNR_bhhigh_passer_stats(df, name, insight, output_directory)
+    PNR_bhleft_passer_stats(df, name, insight, output_directory)
+    PNR_bhright_passer_stats(df, name, insight, output_directory)
 
-def PNR_bhhigh_passer_stats(df: pd.DataFrame, name, insight):
+def PNR_bhhigh_passer_stats(df: pd.DataFrame, name, insight, output_directory):
     # Calculates proportion and efficiency for various PNR plays (cutters, spot-up drivers, rollman, etc.)
     
     # Cutters off high pick n roll
@@ -160,7 +161,7 @@ def PNR_bhhigh_passer_stats(df: pd.DataFrame, name, insight):
     outer_dict6 = {'BH High PNR --> Rollman Pops': bhhighpassing_rollmanpops_player_proportion}
     insight.extend([outer_dict6])
 
-def PNR_bhleft_passer_stats(df: pd.DataFrame, name, insight):  
+def PNR_bhleft_passer_stats(df: pd.DataFrame, name, insight, output_directory):  
     # Calculates proportion and efficiency of a player hitting a specific second player (cutter) off of a high pick n roll
     pnrpasser_cut_csv = ['twoplayer_pnrbhleft_cuts_efficiency.csv']
     filtered_df1 = df[(df['SourceFile'].isin(pnrpasser_cut_csv)) & (df['PrimaryPlayer'] == name)]
@@ -200,7 +201,7 @@ def PNR_bhleft_passer_stats(df: pd.DataFrame, name, insight):
     # Rollman rolls
     pnrpasser_rollmanrolls_csv = ['twoplayer_pnrbhleft_rollmanrolls_efficiency.csv']
     filtered_df4 = df[(df['SourceFile'].isin(pnrpasser_rollmanrolls_csv)) & (df['PrimaryPlayer'] == name)]
-    pnrpasser_rollmanrolls_player_proportion = find_player_proportions(filtered_df4, pnrpasser_rollmanrolls_csv)
+    pnrpasser_rollmanrolls_player_proportion = find_player_proportions(filtered_df4, pnrpasser_rollmanrolls_csv, 'SecondaryPlayer')
     
     for player in pnrpasser_rollmanrolls_player_proportion:
         player_data = find_player_efficiency(filtered_df4, pnrpasser_rollmanrolls_csv, player, pnrpasser_rollmanrolls_player_proportion[player], 'SecondaryPlayer')
@@ -223,7 +224,7 @@ def PNR_bhleft_passer_stats(df: pd.DataFrame, name, insight):
 
     # Rollman pops
     pnrpasser_rollmanpops_csv = ['twoplayer_pnrbhleft_rollmanpops_efficiency.csv']
-    filtered_df6 = df[(df['SourceFile'] == pnrpasser_rollmanpops_csv) & (df['PrimaryPlayer'] == name)]
+    filtered_df6 = df[(df['SourceFile'].isin(pnrpasser_rollmanpops_csv)) & (df['PrimaryPlayer'] == name)]
     pnrpasser_rollmanpops_player_proportion = find_player_proportions(filtered_df6, pnrpasser_rollmanpops_csv, 'SecondaryPlayer')
     
     for player in pnrpasser_rollmanpops_player_proportion:
@@ -233,7 +234,7 @@ def PNR_bhleft_passer_stats(df: pd.DataFrame, name, insight):
     outer_dict6 = {'BH Left PNR --> Rollman Pops': pnrpasser_rollmanpops_player_proportion}
     insight.extend([outer_dict6])
 
-def PNR_bhright_passer_stats(df: pd.DataFrame, name, insight):
+def PNR_bhright_passer_stats(df: pd.DataFrame, name, insight, output_directory):
     # Calculates proportion and efficiency of a player hitting a specific second player (cutter) off of a high pick n roll
     pnrpasser_cut_csv = ['twoplayer_pnrbhright_cuts_efficiency.csv']
     filtered_df1 = df[(df['SourceFile'].isin(pnrpasser_cut_csv)) & (df['PrimaryPlayer'] == name)]
@@ -306,7 +307,7 @@ def PNR_bhright_passer_stats(df: pd.DataFrame, name, insight):
     outer_dict6 = {'BH Right PNR --> Rollman Pops': pnrpasser_rollmanpops_player_proportion}
     insight.extend([outer_dict6])
 
-def Iso_passer_stats(df: pd.DataFrame, name, insight):
+def Iso_passer_stats(df: pd.DataFrame, name, insight, output_directory):
     total_passing_proport_csvs = ['twoplayer_iso_cut_efficiency.csv', 
                                 'twoplayer_iso_spotupdrives_efficiency.csv', 
                                 'twoplayer_iso_spotupjumpers_efficiency.csv']
@@ -352,7 +353,7 @@ def Iso_passer_stats(df: pd.DataFrame, name, insight):
         isopasser_spotupjumper_player_proportion
     ])
 
-def Post_passer_stats(df: pd.DataFrame, name, insight):
+def Post_passer_stats(df: pd.DataFrame, name, insight, output_directory):
     total_passing_proport_csvs = ['twoplayer_post_cut_efficiency.csv', 
                                 'twoplayer_post_spotupdrives_efficiency.csv', 
                                 'twoplayer_post_spotupjumper_efficiency.csv']
@@ -381,7 +382,7 @@ def Post_passer_stats(df: pd.DataFrame, name, insight):
         player_data = find_player_efficiency(filtered_df2, postpasser_spotupdrives_csv, player, postpasser_spotupdrives_player_proportion[player], 'SecondaryPlayer')
         postpasser_spotupdrives_player_proportion[player] = player_data
 
-    postpasser_spotupjumper_csv = ['twoplayer_post_spotupjumpers_efficiency.csv']
+    postpasser_spotupjumper_csv = ['twoplayer_post_spotupjumper_efficiency.csv']
     filtered_df3 = df[(df['SourceFile'].isin(postpasser_spotupjumper_csv)) & (df['PrimaryPlayer'] == name)]
     postpasser_spotupjumper_player_proportion = find_player_proportions(filtered_df3, postpasser_spotupjumper_csv, 'SecondaryPlayer')
     for player in postpasser_spotupjumper_player_proportion:
@@ -398,17 +399,17 @@ def Post_passer_stats(df: pd.DataFrame, name, insight):
     
     
     
-def process_secondary_stats(df: pd.DataFrame, name, insights):
-    for i in range(8):
+def process_secondary_stats(df: pd.DataFrame, name, insights, output_directory):
+    for i in range(9):
         insight = insights[i]
         if i == 8:  # Rollman insights
-            Rollman_secondary_stats(df, name, insight)
+            Rollman_secondary_stats(df, name, insight, output_directory)
         elif i == 1:  # Cut insights
-            Cut_secondary_stats(df, name, insight)
+            Cut_secondary_stats(df, name, insight, output_directory)
         elif i == 4:  # Spotup insights
-            Spotup_secondary_stats(df, name, insight)
+            Spotup_secondary_stats(df, name, insight, output_directory)
 
-def Rollman_secondary_stats(df: pd.DataFrame, name, insight):
+def Rollman_secondary_stats(df: pd.DataFrame, name, insight, output_directory):
     
     # Calculates total proportion and efficiency for Rollman plays
     filtered_df = df [ (df['SourceFile'] == 'player_rollman_efficiency.csv') & (df['SecondaryPlayer'] == name) ]
@@ -465,8 +466,8 @@ def Rollman_secondary_stats(df: pd.DataFrame, name, insight):
 
 
     # Calculates proportion and efficiency of rollman based on which player passed them the ball
-    rollman_player_csv = 'player_rollman_efficiency.csv'
-    filtered_df = df [ (df['SourceFile'] == rollman_player_csv) & (df['SecondaryPlayer'] == name)]
+    rollman_player_csv = ['player_rollman_efficiency.csv']
+    filtered_df = df [ (df['SourceFile'].isin(rollman_player_csv)) & (df['SecondaryPlayer'] == name)]
     rollman_player_proportion = find_player_proportions(filtered_df, rollman_player_csv, 'PrimaryPlayer')
     for player in rollman_player_proportion:
         player_data = find_player_efficiency(filtered_df, rollman_player_csv, player, rollman_player_proportion[player], 'PrimaryPlayer' )
@@ -475,8 +476,8 @@ def Rollman_secondary_stats(df: pd.DataFrame, name, insight):
     outer_dict1 = {'PNR --> Rollman': rollman_player_proportion}
 
 
-    rollman_slip_player_csv = 'player_rollman_slip_efficiency.csv'
-    filtered_df = df [ (df['SourceFile'] == rollman_slip_player_csv) & (df['SecondaryPlayer'] == name)]
+    rollman_slip_player_csv = ['player_rollman_slip_efficiency.csv']
+    filtered_df = df [ (df['SourceFile'].isin(rollman_slip_player_csv)) & (df['SecondaryPlayer'] == name)]
     rollman_slip_player_proportion = find_player_proportions(filtered_df, rollman_slip_player_csv, 'PrimaryPlayer')
     for player in rollman_slip_player_proportion:
         player_data = find_player_efficiency(filtered_df, rollman_slip_player_csv, player, rollman_slip_player_proportion[player], 'PrimaryPlayer' )
@@ -485,8 +486,8 @@ def Rollman_secondary_stats(df: pd.DataFrame, name, insight):
     outer_dict2 = {'PNR --> Rollman Slip': rollman_slip_player_proportion}
 
 
-    rollman_pop_player_csv = 'player_rollman_pop_efficiency.csv'
-    filtered_df = df [ (df['SourceFile'] == rollman_pop_player_csv) & (df['SecondaryPlayer'] == name)]
+    rollman_pop_player_csv = ['player_rollman_pop_efficiency.csv']
+    filtered_df = df [ (df['SourceFile'].isin(rollman_pop_player_csv)) & (df['SecondaryPlayer'] == name)]
     rollman_pop_player_proportion = find_player_proportions(filtered_df, rollman_pop_player_csv, 'PrimaryPlayer')
     for player in rollman_pop_player_proportion:
         player_data = find_player_efficiency(filtered_df, rollman_pop_player_csv, player, rollman_pop_player_proportion[player], 'PrimaryPlayer' )
@@ -495,8 +496,8 @@ def Rollman_secondary_stats(df: pd.DataFrame, name, insight):
     outer_dict3 = {'PNR --> Rollman Pop': rollman_pop_player_proportion}
 
 
-    rollman_roll_player_csv = 'player_rollman_roll_efficiency.csv'
-    filtered_df = df [ (df['SourceFile'] == rollman_roll_player_csv) & (df['SecondaryPlayer'] == name)]
+    rollman_roll_player_csv = ['player_rollman_roll_efficiency.csv']
+    filtered_df = df [ (df['SourceFile'].isin(rollman_roll_player_csv)) & (df['SecondaryPlayer'] == name)]
     rollman_roll_player_proportion_dict = find_player_proportions(filtered_df, rollman_roll_player_csv, 'PrimaryPlayer')
     for player in rollman_roll_player_proportion_dict:
         player_data = find_player_efficiency(filtered_df, rollman_roll_player_csv, player, rollman_roll_player_proportion_dict[player], 'PrimaryPlayer' )
@@ -524,7 +525,7 @@ def Rollman_secondary_stats(df: pd.DataFrame, name, insight):
         outer_dict4
     ])
 
-def Cut_secondary_stats(df: pd.DataFrame, name, insight):
+def Cut_secondary_stats(df: pd.DataFrame, name, insight, output_directory):
     # Finds total efficiency for ALL secondary cutter plays
     second_cut_csvs = ['twoplayer_iso_cut_efficiency.csv', 'twoplayer_pnr_cut_efficiency.csv', 'twoplayer_post_cut_efficiency.csv']
     filtered_df = df [ (df['SourceFile'].isin(second_cut_csvs)) & (df['SecondaryPlayer'] == name) ]
@@ -620,7 +621,7 @@ def Cut_secondary_stats(df: pd.DataFrame, name, insight):
         pnrbhleft_cut_efficiency
     ])
 
-def Spotup_secondary_stats(df: pd.DataFrame, name, insight):
+def Spotup_secondary_stats(df: pd.DataFrame, name, insight, output_directory):
     # Finds total efficiency for ALL secondary cutter plays
     second_spotup_csvs = ['twoplayer_iso_spotupdrives_efficiency.csv', 'twoplayer_iso_spotupjumpers_efficiency.csv', 
                     'twoplayer_pnr_spotupdrives_efficiency.csv', 'twoplayer_pnr_spotupsjumpers_efficiency.csv',
@@ -826,27 +827,27 @@ def Spotup_secondary_stats(df: pd.DataFrame, name, insight):
     ])
 
 
-def process_scorer_stats(df: pd.DataFrame, name, insights):
+def process_scorer_stats(df: pd.DataFrame, name, insights, output_directory):
     for i in range(8):
         insight = insights[i]
         if i == 0:  # PNR insights
-            PNR_scorer_stats(df, name, insight)
+            PNR_scorer_stats(df, name, insight, output_directory)
         elif i == 7:  # Iso insights
-            Iso_scorer_stats(df, name, insight)
+            Iso_scorer_stats(df, name, insight, output_directory)
         elif i == 3:  # Post insights
-            Post_scorer_stats(df, name, insight)
+            Post_scorer_stats(df, name, insight, output_directory)
         elif i == 1:  # Cut insights
-            Cut_scorer_stats(df, name, insight)
+            Cut_scorer_stats(df, name, insight, output_directory)
         elif i == 4:  # Spotup insights
-            Spotup_scorer_stats(df, name, insight)
+            Spotup_scorer_stats(df, name, insight, output_directory)
         elif i == 5:  # Transition insights
-            Transition_scorer_stats(df, name, insight)
+            Transition_scorer_stats(df, name, insight, output_directory)
         elif i == 6:  # Offscreen insights
-            Offscreen_scorer_stats(df, name, insight)
+            Offscreen_scorer_stats(df, name, insight, output_directory)
         elif i == 2:  # Handoff insights
-            Handoff_scorer_stats(df, name, insight)
+            Handoff_scorer_stats(df, name, insight, output_directory)
 
-def PNR_scorer_stats(df: pd.DataFrame, name, insight):
+def PNR_scorer_stats(df: pd.DataFrame, name, insight, output_directory):
     # Finds total efficiency for ALL PNR scorer plays
     filtered_df1 = df[(df['SourceFile'] == 'player_pnr_efficiency.csv')]
     total_pnr_efficiency = compute_grouped_statistics(filtered_df1, 'Efficiency for all PNR scorer plays together.', 'Player')
@@ -925,7 +926,7 @@ def PNR_scorer_stats(df: pd.DataFrame, name, insight):
         total_pnr_bhright_offpick_efficiency
     ])
 
-def Iso_scorer_stats(df: pd.DataFrame, name, insight):
+def Iso_scorer_stats(df: pd.DataFrame, name, insight, output_directory):
     # Finds total efficiency for ALL Iso scorer plays
     filtered_df1 = df [ (df['SourceFile'] == 'player_iso_efficiency.csv') ]
     total_iso_efficiency = compute_grouped_statistics(filtered_df1, 'Efficiency for all Iso scorer plays together.', 'Player')
@@ -955,7 +956,7 @@ def Iso_scorer_stats(df: pd.DataFrame, name, insight):
         total_iso_top_efficiency
     ])
 
-def Post_scorer_stats(df: pd.DataFrame, name, insight):
+def Post_scorer_stats(df: pd.DataFrame, name, insight, output_directory):
     # Finds total efficiency for ALL Post scorer plays
     filtered_df1 = df [ (df['SourceFile'] == 'player_post_efficiency.csv') ]
     total_post_efficiency = compute_grouped_statistics(filtered_df1, 'Efficiency for all Post scorer plays together.', 'Player')
@@ -1022,7 +1023,7 @@ def Post_scorer_stats(df: pd.DataFrame, name, insight):
     filtered_df = df[(df['SourceFile'] == 'player_post_rightblock_rightshoulder_efficiency.csv')]
     middle_rightshoulder_efficiency = compute_grouped_statistics(filtered_df, 'Post Middle --> Right Shoulder', 'Player')
 
-    insight.extend({
+    insight.extend([
         total_post_efficiency,
         total_post_block_proportion_dict,
         total_post_leftblock_efficiency,
@@ -1041,9 +1042,9 @@ def Post_scorer_stats(df: pd.DataFrame, name, insight):
         middle_faceup_efficiency,
         middle_leftshoulder_efficiency,
         middle_rightshoulder_efficiency
-    })
+    ])
 
-def Cut_scorer_stats(df: pd.DataFrame, name, insight):
+def Cut_scorer_stats(df: pd.DataFrame, name, insight, output_directory):
     # Finds total efficiency for ALL Cutter scorer plays
     filtered_df = df [ (df['SourceFile'] == 'player_cut_efficiency.csv') ]
     total_cut_efficiency = compute_grouped_statistics(filtered_df, 'Efficiency for all cutting scorer plays together.', 'Player')
@@ -1064,15 +1065,15 @@ def Cut_scorer_stats(df: pd.DataFrame, name, insight):
     filtered_df = df [ (df['SourceFile'] == 'player_cut_screen_efficiency.csv') ]
     total_cut_screen_efficiency = compute_grouped_statistics(filtered_df, 'Screen Cut', 'Player')
     
-    insight.extend({
+    insight.extend([
         total_cut_efficiency,
-        total_cut_proportion_dict,
+        [total_cut_proportion_dict],
         total_cut_basket_efficiency,
         total_cut_flash_efficiency,
         total_cut_screen_efficiency
-    })
+    ])
 
-def Spotup_scorer_stats(df: pd.DataFrame, name, insight):
+def Spotup_scorer_stats(df: pd.DataFrame, name, insight, output_directory):
     # Finds total efficiency for ALL Spotup scorer plays
     filtered_df = df [ (df['SourceFile'] == 'player_spotup_efficiency.csv') ]
     total_spotup_efficiency = compute_grouped_statistics(filtered_df, 'Efficiency for all Spotup scorer plays together.', 'Player')
@@ -1110,7 +1111,7 @@ def Spotup_scorer_stats(df: pd.DataFrame, name, insight):
                 total_spotup_straightdrive_efficiency
                 ])
 
-def Transition_scorer_stats(df: pd.DataFrame, name, insight):
+def Transition_scorer_stats(df: pd.DataFrame, name, insight, output_directory):
     # Calculates total proportion and efficiency for Transition plays
     total_transition_proport_csvs = ['player_transition_bh_efficiency.csv', 'player_transition_leakouts_efficiency.csv', 
                                     'player_transition_leftwing_efficiency.csv', 'player_transition_rightwing_efficiency.csv', 'player_transition_trailer_efficiency']
@@ -1146,7 +1147,7 @@ def Transition_scorer_stats(df: pd.DataFrame, name, insight):
         total_transition_trailer_efficiency
     ])
 
-def Offscreen_scorer_stats(df: pd.DataFrame, name, insight):
+def Offscreen_scorer_stats(df: pd.DataFrame, name, insight, output_directory):
     # Finds total efficiency for ALL Off Screen scorer plays
     filtered_df = df [ (df['SourceFile'] == 'player_offscreens_efficiency.csv') ]
     total_offscreens_efficiency = compute_grouped_statistics(filtered_df, 'Efficiency for all Off Screen scorer plays together.', 'Player')
@@ -1216,7 +1217,7 @@ def Offscreen_scorer_stats(df: pd.DataFrame, name, insight):
         total_offscreens_right_curl_efficiency
     ])
     
-def Handoff_scorer_stats(df: pd.DataFrame, name, insight):
+def Handoff_scorer_stats(df: pd.DataFrame, name, insight, output_directory):
     # Finds total efficiency for ALL Handoff scorer plays
     filtered_df1 = df [ (df['SourceFile'] == 'player_handoffs_efficiency.csv') ]
     total_handoffs_efficiency = compute_grouped_statistics(filtered_df1, 'Efficiency for all Handoff scorer plays together.', 'Player')
@@ -1381,7 +1382,7 @@ def find_player_proportions(df, sourcefile, player_col):
     if df.empty:
       return player_dict
 
-    filtered_df = df[df['SourceFile'] == sourcefile]
+    filtered_df = df[df['SourceFile'].isin(sourcefile)]
 
     if filtered_df.empty:
         return player_dict
@@ -1419,7 +1420,7 @@ def find_player_efficiency(df, sourcefile, player, proportion, playertype):
     """
 
     # Filter the DataFrame where 'SourceFile' matches and 'SecondaryPlayer' matches
-    filtered_df = df[(df['SourceFile'] == sourcefile) & (df[playertype] == player)]
+    filtered_df = df[(df['SourceFile'].isin(sourcefile)) & (df[playertype] == player)]
 
     # If no data is found, return an empty dictionary
     if filtered_df.empty:
@@ -1463,17 +1464,75 @@ def find_player_efficiency(df, sourcefile, player, proportion, playertype):
     return stats_dict
 
     
+def write_insights_to_file(insights, output_file):
+    def recursive_print(item, indent_level=0):
+        indent = '    ' * indent_level  # 4 spaces per indent level
+        
+        if isinstance(item, dict):
+            # If the item is a dictionary, iterate over key-value pairs
+            for key, value in item.items():
+                if isinstance(value, dict):
+                    output.write(f"{indent}{key}:\n")
+                    recursive_print(value, indent_level + 1)  # Recurse into the dictionary
+                else:
+                    output.write(f"{indent}{key}: {value}\n")
+        elif isinstance(item, list):
+            # If the item is a list, iterate over the list elements
+            for value in item:
+                recursive_print(value, indent_level)  # Recurse into the list element
+        else:
+            # If the item is not a dict or list, just print it
+            output.write(f"{indent}{item}\n")
+
+    with open(output_file, 'w') as output:
+        # Iterate over the insights list and print each item
+        for insight in insights:
+            recursive_print(insight)
+            output.write("\n\n\n")  # Add 3 new lines after each insight for separation
+
+    
+    
 if __name__ == "__main__":
-    # Example usage: python seperate_player_data.py file1.csv file2.csv ... output_directory
-    if len(sys.argv) < 3:
-        print("Usage: python seperate_player_data.py <file1.csv> <file2.csv> ... <output_directory>")
+    # Example usage: python player_data_analyzer.py file1.csv file2.csv ... output_directory
+    if len(sys.argv) < 2:
+        print("Usage: python python player_data_analyzer.py <player_file.csv> <output_directory>")
         sys.exit(1)
 
     # List of input files
-    file_list = sys.argv[1:-1]
+    file_list = sys.argv[1]
     
-    # Output directory for individual player files
-    output_directory = '.'
+    print("File_List: " + file_list)
+    
+    player_file = sys.argv[1]
+    
+    base_filename = os.path.basename(player_file)  # Extracts 'firstname_lastname.csv'
+    name_part = os.path.splitext(base_filename)[0]  # Removes '.csv' -> 'firstname_lastname'
+    player_name = name_part.replace('_', '-')  # 'firstname-lastname'
+    
+    # 2. Get the current date
+    current_datetime = datetime.now()
+    month = current_datetime.strftime("%m")
+    day = current_datetime.strftime("%d")
+    year = current_datetime.strftime("%Y")
+        
+    # 3. Create the folder name
+    foldername = f"{player_name}-{month}-{day}-{year}"
+    
+    output_directory = "/Users/kylekrebs/Documents/RIT-Basketball-Stats-main/data/2023_24/cleaned/reports/"
+
+    # 4. Create the full path for the new folder
+    player_output_folder = os.path.join(output_directory, foldername)
+    
+    # Create the folder if it doesn't exist
+    os.makedirs(player_output_folder, exist_ok=True)
 
     # Run the function
     insights = analyze_player_performance(file_list, output_directory)
+    
+    # Specify the path for the output insights text file
+    output_insights_file = os.path.join(player_output_folder, 'insights.txt')
+
+    # Write the insights to the file
+    write_insights_to_file(insights, output_insights_file)
+
+    print(f"Insights successfully written to {output_insights_file}")

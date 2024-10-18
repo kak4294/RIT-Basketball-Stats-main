@@ -5,9 +5,9 @@
             "name": "Python: Read CSV files",
             "type": "python",
             "request": "launch",
-            "program": "${file}",
+            "program": "${player_data_analyzer.py}",
             "console": "integratedTerminal",
-            "args": ["vsUnionPlayoffs.csv"]
+            "args": ["Matt_Caggiano.csv"]
         }
     ]
 }
