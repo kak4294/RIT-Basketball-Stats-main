@@ -14,7 +14,7 @@ def render_template(template_name, data, output_path):
 
 def main():
     # Load JSON data
-    with open('/Users/kylekrebs/Documents/RIT-Basketball-Stats-main/data/2023_24/cleaned/reports/Matt-Caggiano-10-30-2024/insights_4.json') as f:
+    with open('/Users/kylekrebs/Documents/RIT-Basketball-Stats-main/data/2023_24/cleaned/reports/Kenny-Wilburn-11-06-2024/insights_4.json') as f:
         data = json.load(f)
 
     # Set up Jinja2 environment
@@ -36,7 +36,7 @@ def main():
                                      Iso_insights=data['Iso_insights'])
 
     # Write the rendered LaTeX to a file
-    with open('Mat.tex', 'w') as f:
+    with open('Report.tex', 'w') as f:
         f.write(rendered_latex)
 
 if __name__ == "__main__":

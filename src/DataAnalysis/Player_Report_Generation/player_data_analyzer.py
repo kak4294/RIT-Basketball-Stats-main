@@ -2076,18 +2076,29 @@ def compute_grouped_statistics(df, statdescription, playertype, key):
 
     # Loop through the rows of the grouped statistics DataFrame
     for _, row in grouped_stats.iterrows():
+        three_perc = float(row['3pt%'])
+        two_perc = float(row['2pt%'])
+        midrange_perc = float(row['MidRange%'])
+                           
+        if int(row['Total3ptShots']) != 0:
+            three_perc = float( (row['Total3ptMakes'] / row['Total3ptShots']) * 100 )
+        if int(row['Total2ptShots']) != 0:
+            two_perc = float( (row['Total2ptMakes'] / row['Total2ptShots']) * 100 )
+        if int(row['TotalMidRangeShots']) != 0:
+            midrange_perc = float( (row['TotalMidRangeMakes'] / row['TotalMidRangeShots']) * 100 )
+        
         stats_dict[key] = {
             'StatDescription': statdescription,
             'TotalPlays': int(row['TotalPlays']),
             'Total3ptShots': int(row['Total3ptShots']),
             'Total3ptMakes': int(row['Total3ptMakes']),
-            '3pt%': float(row['3pt%']),
+            '3pt%': three_perc,
             'Total2ptShots': int(row['Total2ptShots']),
             'Total2ptMakes': int(row['Total2ptMakes']),
-            '2pt%': float(row['2pt%']),
+            '2pt%': two_perc,
             'TotalMidRangeShots': int(row['TotalMidRangeShots']),
             'TotalMidRangeMakes': int(row['TotalMidRangeMakes']),
-            'MidRange%': float(row['MidRange%']),
+            'MidRange%': midrange_perc,
             'EFG%': float(row['EFG%']),
             'Turnover': int(row['Turnover']),
             'Foul': int(row['Foul'])
@@ -2192,19 +2203,30 @@ def find_player_efficiency(df, sourcefile, player, proportion, playertype):
         'Foul': 'sum'
     })
 
+    three_perc = float(grouped_stats['3pt%'])
+    two_perc = float(grouped_stats['2pt%'])
+    midrange_perc = float(grouped_stats['MidRange%'])
+                        
+    if int(grouped_stats['Total3ptShots']) != 0:
+        three_perc = float( (grouped_stats['Total3ptMakes'] / grouped_stats['Total3ptShots']) * 100 )
+    if int(grouped_stats['Total2ptShots']) != 0:
+        two_perc = float( (grouped_stats['Total2ptMakes'] / grouped_stats['Total2ptShots']) * 100 )
+    if int(grouped_stats['TotalMidRangeShots']) != 0:
+        midrange_perc = float( (grouped_stats['TotalMidRangeMakes'] / grouped_stats['TotalMidRangeShots']) * 100 )
+
     # Create a dictionary with the aggregated statistics
     stats_dict = {
         'Player': player_name,
         'TotalPlays': int(grouped_stats['TotalPlays']),
         'Total3ptShots': int(grouped_stats['Total3ptShots']),
         'Total3ptMakes': int(grouped_stats['Total3ptMakes']),
-        '3pt%': float(grouped_stats['3pt%']),
+        '3pt%': three_perc,
         'Total2ptShots': int(grouped_stats['Total2ptShots']),
         'Total2ptMakes': int(grouped_stats['Total2ptMakes']),
-        '2pt%': float(grouped_stats['2pt%']),
+        '2pt%': two_perc,
         'TotalMidRangeShots': int(grouped_stats['TotalMidRangeShots']),
         'TotalMidRangeMakes': int(grouped_stats['TotalMidRangeMakes']),
-        'MidRange%': float(grouped_stats['MidRange%']),
+        'MidRange%': midrange_perc,
         'EFG%': float(grouped_stats['EFG%']),
         'Turnover': int(grouped_stats['Turnover']),
         'Foul': int(grouped_stats['Foul']),
@@ -2310,7 +2332,7 @@ if __name__ == "__main__":
         sys.exit(1)
 
     # Extract command-line arguments
-    player_file = sys.argv[1]
+    player_file = os.path.join("/Users/kylekrebs/Documents/RIT-Basketball-Stats-main/data/2023_24/cleaned/Teams/player_data/Rochester_Institute_of_Technology_Tigers/", sys.argv[1])
     output_directory = "/Users/kylekrebs/Documents/RIT-Basketball-Stats-main/data/2023_24/cleaned/reports/"
 
 
