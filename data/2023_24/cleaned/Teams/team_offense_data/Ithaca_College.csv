@@ -1,0 +1,268 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Triston Wennersten,Ithaca College,3,0,0,,3,3,100.0,0,0,,100.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Evan Cabral,Ithaca College,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Laurence Brady,Ithaca College,2,0,0,,2,0,0.0,0,0,,0.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Bryce Bleibtrey,Ithaca College,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Logan Wendell,Ithaca College,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Gavin Schauder,Ithaca College,1,0,0,,0,0,,0,0,,,0.0,1.0,player_cut_basket_efficiency.csv,,
+Alex Penders,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Jaylon O'Neal,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Triston Wennersten,Ithaca College,3,0,0,,3,3,100.0,0,0,,100.0,0.0,0.0,player_cut_efficiency.csv,,
+Jaylon O'Neal,Ithaca College,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,player_cut_efficiency.csv,,
+Logan Wendell,Ithaca College,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_cut_efficiency.csv,,
+Bryce Bleibtrey,Ithaca College,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_cut_efficiency.csv,,
+Laurence Brady,Ithaca College,2,0,0,,2,0,0.0,0,0,,0.0,0.0,0.0,player_cut_efficiency.csv,,
+Evan Cabral,Ithaca College,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_cut_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_efficiency.csv,,
+Gavin Schauder,Ithaca College,1,0,0,,0,0,,0,0,,,0.0,1.0,player_cut_efficiency.csv,,
+Alex Penders,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_efficiency.csv,,
+Jaylon O'Neal,Ithaca College,1,0,0,,0,0,,0,0,,,1.0,0.0,player_cut_screen_efficiency.csv,,
+Andrew Geschickter,Ithaca College,6,2,2,100.0,1,1,100.0,1,1,100.0,133.33333,2.0,1.0,player_handoffs_bhleft_dribble_efficiency.csv,,
+Logan Wendell,Ithaca College,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_bhleft_dribble_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_handoffs_bhleft_dribble_efficiency.csv,,
+Andrew Geschickter,Ithaca College,6,2,2,100.0,1,1,100.0,1,1,100.0,133.33333,2.0,1.0,player_handoffs_bhleft_efficiency.csv,,
+Logan Wendell,Ithaca College,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_bhleft_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_handoffs_bhleft_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_handoffs_bhleft_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_handoffs_bhleft_stationary_efficiency.csv,,
+Logan Wendell,Ithaca College,2,0,0,,0,0,,1,0,0.0,,0.0,2.0,player_handoffs_bhright_dribble_efficiency.csv,,
+Andrew Geschickter,Ithaca College,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_handoffs_bhright_dribble_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_handoffs_bhright_dribble_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_handoffs_bhright_dribble_efficiency.csv,,
+Logan Wendell,Ithaca College,2,0,0,,0,0,,1,0,0.0,,0.0,2.0,player_handoffs_bhright_efficiency.csv,,
+Andrew Geschickter,Ithaca College,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_handoffs_bhright_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_handoffs_bhright_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_handoffs_bhright_efficiency.csv,,
+Andrew Geschickter,Ithaca College,8,3,2,66.6667,2,1,50.0,2,1,50.0,80.0,2.0,1.0,player_handoffs_dribble_efficiency.csv,,
+Logan Wendell,Ithaca College,4,2,0,0.0,0,0,,1,0,0.0,0.0,0.0,2.0,player_handoffs_dribble_efficiency.csv,,
+Aidan Holmes,Ithaca College,2,0,0,,2,1,50.0,1,0,0.0,50.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Jaylon O'Neal,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Andrew Geschickter,Ithaca College,8,3,2,66.6667,2,1,50.0,2,1,50.0,80.0,2.0,1.0,player_handoffs_efficiency.csv,,
+Logan Wendell,Ithaca College,4,2,0,0.0,0,0,,1,0,0.0,0.0,0.0,2.0,player_handoffs_efficiency.csv,,
+Evan Cabral,Ithaca College,3,0,0,,2,2,100.0,1,1,100.0,100.0,0.0,1.0,player_handoffs_efficiency.csv,,
+Aidan Holmes,Ithaca College,2,0,0,,2,1,50.0,1,0,0.0,50.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Jaylon O'Neal,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Evan Cabral,Ithaca College,2,0,0,,1,1,100.0,0,0,,100.0,0.0,1.0,player_handoffs_stationary_efficiency.csv,,
+Andrew Geschickter,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_top_dribble_efficiency.csv,,
+Jaylon O'Neal,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_top_dribble_efficiency.csv,,
+Andrew Geschickter,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_top_efficiency.csv,,
+Jaylon O'Neal,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_top_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,0,0,,0,0,,,0.0,1.0,player_handoffs_top_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,0,0,,0,0,,,0.0,1.0,player_handoffs_top_stationary_efficiency.csv,,
+Logan Wendell,Ithaca College,4,0,0,,3,0,0.0,1,0,0.0,0.0,0.0,1.0,player_iso_efficiency.csv,,
+Logan Wendell,Ithaca College,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_iso_right_efficiency.csv,,
+Logan Wendell,Ithaca College,3,0,0,,2,0,0.0,0,0,,0.0,0.0,1.0,player_iso_top_efficiency.csv,,
+Logan Wendell,Ithaca College,4,2,0,0.0,0,0,,0,0,,0.0,2.0,0.0,player_misc_efficiency.csv,,
+Cole Wissink,Ithaca College,2,0,0,,0,0,,0,0,,,1.0,1.0,player_misc_efficiency.csv,,
+Alex Penders,Ithaca College,1,0,0,,0,0,,0,0,,,1.0,0.0,player_misc_efficiency.csv,,
+Jaylon O'Neal,Ithaca College,1,0,0,,0,0,,0,0,,,1.0,0.0,player_misc_efficiency.csv,,
+Cole Wissink,Ithaca College,2,1,1,100.0,0,0,,0,0,,150.0,1.0,0.0,player_offscreens_efficiency.csv,,
+Logan Wendell,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_efficiency.csv,,
+Cole Wissink,Ithaca College,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_offscreens_leftshoulder_efficiency.csv,,
+Logan Wendell,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_leftshoulder_efficiency.csv,,
+Cole Wissink,Ithaca College,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_offscreens_leftshoulder_straight_efficiency.csv,,
+Logan Wendell,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_leftshoulder_straight_efficiency.csv,,
+Cole Wissink,Ithaca College,1,0,0,,0,0,,0,0,,,1.0,0.0,player_offscreens_rightshoulder_efficiency.csv,,
+Cole Wissink,Ithaca College,1,0,0,,0,0,,0,0,,,1.0,0.0,player_offscreens_rightshoulder_straight_efficiency.csv,,
+Cole Wissink,Ithaca College,2,1,1,100.0,0,0,,0,0,,150.0,1.0,0.0,player_offscreens_straight_efficiency.csv,,
+Logan Wendell,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_straight_efficiency.csv,,
+Evan Cabral,Ithaca College,5,0,0,,2,1,50.0,0,0,,50.0,2.0,1.0,player_pnr_bhhigh_efficiency.csv,,
+Logan Wendell,Ithaca College,5,1,1,100.0,3,1,33.3333,0,0,,62.5,1.0,0.0,player_pnr_bhhigh_efficiency.csv,,
+Noah Downing,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhhigh_efficiency.csv,,
+Jaylon O'Neal,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhhigh_efficiency.csv,,
+Evan Cabral,Ithaca College,5,0,0,,2,1,50.0,0,0,,50.0,2.0,1.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Logan Wendell,Ithaca College,5,1,1,100.0,3,1,33.3333,0,0,,62.5,1.0,0.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Noah Downing,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Jaylon O'Neal,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhhigh_rejectpick_efficiency.csv,,
+Logan Wendell,Ithaca College,3,0,0,,3,2,66.6667,0,0,,66.66667,0.0,0.0,player_pnr_bhleft_efficiency.csv,,
+Andrew Geschickter,Ithaca College,2,1,0,0.0,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_pnr_bhleft_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhleft_efficiency.csv,,
+Andrew Geschickter,Ithaca College,2,1,0,0.0,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_pnr_bhleft_offpick_efficiency.csv,,
+Logan Wendell,Ithaca College,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_pnr_bhleft_offpick_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhleft_offpick_efficiency.csv,,
+Logan Wendell,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_pnr_bhleft_rejectpick_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,0,0,,0,0,,0,0,,,0.0,1.0,player_pnr_bhright_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,0,0,,0,0,,,1.0,0.0,player_pnr_bhright_efficiency.csv,,
+Noah Downing,Ithaca College,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_pnr_bhright_efficiency.csv,,
+Andrew Geschickter,Ithaca College,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_pnr_bhright_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,0,0,,0,0,,0,0,,,0.0,1.0,player_pnr_bhright_offpick_efficiency.csv,,
+Noah Downing,Ithaca College,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_pnr_bhright_offpick_efficiency.csv,,
+Andrew Geschickter,Ithaca College,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_pnr_bhright_offpick_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,0,0,,0,0,,,1.0,0.0,player_pnr_bhright_offpick_efficiency.csv,,
+Logan Wendell,Ithaca College,8,1,1,100.0,6,3,50.0,0,0,,64.28571,1.0,0.0,player_pnr_efficiency.csv,,
+Evan Cabral,Ithaca College,7,0,0,,3,1,33.3333,0,0,,33.33333,3.0,1.0,player_pnr_efficiency.csv,,
+Andrew Geschickter,Ithaca College,3,2,1,50.0,1,0,0.0,1,0,0.0,50.0,0.0,0.0,player_pnr_efficiency.csv,,
+Noah Downing,Ithaca College,2,0,0,,2,0,0.0,1,0,0.0,0.0,0.0,0.0,player_pnr_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,0,0,,0,0,,0,0,,,0.0,1.0,player_pnr_efficiency.csv,,
+Jaylon O'Neal,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_efficiency.csv,,
+Evan Cabral,Ithaca College,7,0,0,,3,1,33.3333,0,0,,33.33333,3.0,1.0,player_pnr_offpick_efficiency.csv,,
+Logan Wendell,Ithaca College,7,1,1,100.0,5,2,40.0,0,0,,58.33333,1.0,0.0,player_pnr_offpick_efficiency.csv,,
+Andrew Geschickter,Ithaca College,3,2,1,50.0,1,0,0.0,1,0,0.0,50.0,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Noah Downing,Ithaca College,2,0,0,,2,0,0.0,1,0,0.0,0.0,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,0,0,,0,0,,0,0,,,0.0,1.0,player_pnr_offpick_efficiency.csv,,
+Logan Wendell,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_pnr_rejectpick_efficiency.csv,,
+Jaylon O'Neal,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_rejectpick_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,0,0,,0,0,,,0.0,1.0,player_post_efficiency.csv,,
+Triston Wennersten,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,0,0,,0,0,,,0.0,1.0,player_post_leftblock_efficiency.csv,,
+Triston Wennersten,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_leftblock_efficiency.csv,,
+Triston Wennersten,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_leftblock_rightshoulder_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,0,0,,0,0,,,0.0,1.0,player_post_leftblock_rightshoulder_efficiency.csv,,
+Triston Wennersten,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_rightshoulder_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,0,0,,0,0,,,0.0,1.0,player_post_rightshoulder_efficiency.csv,,
+,Ithaca College,3,3,2,66.6667,0,0,,0,0,,100.0,0.0,0.0,player_rollman_efficiency.csv,Logan Wendell,Triston Wennersten
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Evan Cabral,Triston Wennersten
+,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_rollman_efficiency.csv,Evan Cabral,Noah Downing
+,Ithaca College,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_rollman_efficiency.csv,Evan Cabral,Cole Wissink
+,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_rollman_efficiency.csv,Logan Wendell,Alex Penders
+,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Aidan Holmes,Gavin Schauder
+,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Logan Wendell,Gavin Schauder
+,Ithaca College,3,3,2,66.6667,0,0,,0,0,,100.0,0.0,0.0,player_rollman_pop_efficiency.csv,Logan Wendell,Triston Wennersten
+,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_rollman_pop_efficiency.csv,Evan Cabral,Noah Downing
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_pop_efficiency.csv,Evan Cabral,Triston Wennersten
+,Ithaca College,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_rollman_pop_efficiency.csv,Evan Cabral,Cole Wissink
+,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_rollman_rightdrive_efficiency.csv,Evan Cabral,Noah Downing
+,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_rollman_rightdrive_pop_efficiency.csv,Evan Cabral,Noah Downing
+,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_roll_efficiency.csv,Aidan Holmes,Gavin Schauder
+,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_roll_efficiency.csv,Logan Wendell,Gavin Schauder
+,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_rollman_roll_efficiency.csv,Logan Wendell,Alex Penders
+Logan Wendell,Ithaca College,5,0,0,,4,2,50.0,1,0,0.0,50.0,1.0,0.0,player_spotup_drive_efficiency.csv,,
+Andrew Geschickter,Ithaca College,4,2,0,0.0,2,1,50.0,2,1,50.0,25.0,0.0,0.0,player_spotup_drive_efficiency.csv,,
+Cole Wissink,Ithaca College,4,0,0,,3,2,66.6667,2,1,50.0,66.66667,1.0,0.0,player_spotup_drive_efficiency.csv,,
+Bryce Bleibtrey,Ithaca College,3,0,0,,1,1,100.0,0,0,,100.0,1.0,1.0,player_spotup_drive_efficiency.csv,,
+Aidan Holmes,Ithaca College,2,1,0,0.0,1,1,100.0,1,1,100.0,50.0,0.0,0.0,player_spotup_drive_efficiency.csv,,
+Triston Wennersten,Ithaca College,2,0,0,,2,0,0.0,1,0,0.0,0.0,0.0,0.0,player_spotup_drive_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_spotup_drive_efficiency.csv,,
+Andrew Geschickter,Ithaca College,9,7,1,14.2857,2,1,50.0,2,1,50.0,27.77778,0.0,0.0,player_spotup_efficiency.csv,,
+Logan Wendell,Ithaca College,8,3,1,33.3333,4,2,50.0,1,0,0.0,50.0,1.0,0.0,player_spotup_efficiency.csv,,
+Aidan Holmes,Ithaca College,7,6,1,16.6667,1,1,100.0,1,1,100.0,35.71429,0.0,0.0,player_spotup_efficiency.csv,,
+Cole Wissink,Ithaca College,6,2,1,50.0,3,2,66.6667,2,1,50.0,70.0,1.0,0.0,player_spotup_efficiency.csv,,
+Bryce Bleibtrey,Ithaca College,4,1,1,100.0,1,1,100.0,0,0,,125.0,1.0,1.0,player_spotup_efficiency.csv,,
+Alex Penders,Ithaca College,3,3,1,33.3333,0,0,,0,0,,50.0,0.0,0.0,player_spotup_efficiency.csv,,
+Triston Wennersten,Ithaca College,2,0,0,,2,0,0.0,1,0,0.0,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Evan Cabral,Ithaca College,2,1,0,0.0,1,0,0.0,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Laurence Brady,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Andrew Geschickter,Ithaca College,5,5,1,20.0,0,0,,0,0,,30.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Aidan Holmes,Ithaca College,5,5,1,20.0,0,0,,0,0,,30.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Logan Wendell,Ithaca College,3,3,1,33.3333,0,0,,0,0,,50.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Alex Penders,Ithaca College,3,3,1,33.3333,0,0,,0,0,,50.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Cole Wissink,Ithaca College,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Bryce Bleibtrey,Ithaca College,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Evan Cabral,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Laurence Brady,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Logan Wendell,Ithaca College,3,0,0,,3,1,33.3333,1,0,0.0,33.33333,0.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Bryce Bleibtrey,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Andrew Geschickter,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Cole Wissink,Ithaca College,4,0,0,,3,2,66.6667,2,1,50.0,66.66667,1.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Andrew Geschickter,Ithaca College,3,1,0,0.0,2,1,50.0,2,1,50.0,33.33333,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Bryce Bleibtrey,Ithaca College,2,0,0,,0,0,,0,0,,,1.0,1.0,player_spotup_rightdrive_efficiency.csv,,
+Triston Wennersten,Ithaca College,2,0,0,,2,0,0.0,1,0,0.0,0.0,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Logan Wendell,Ithaca College,1,0,0,,0,0,,0,0,,,1.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Logan Wendell,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_spotup_straightdrive_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_spotup_straightdrive_efficiency.csv,,
+Evan Cabral,Ithaca College,4,0,0,,2,2,100.0,0,0,,100.0,0.0,2.0,player_transition_bh_efficiency.csv,,
+Logan Wendell,Ithaca College,2,0,0,,1,1,100.0,0,0,,100.0,1.0,0.0,player_transition_bh_efficiency.csv,,
+Aidan Holmes,Ithaca College,2,0,0,,2,1,50.0,1,0,0.0,50.0,0.0,0.0,player_transition_bh_efficiency.csv,,
+Andrew Geschickter,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_transition_bh_efficiency.csv,,
+Jaylon O'Neal,Ithaca College,1,0,0,,0,0,,0,0,,,1.0,0.0,player_transition_bh_efficiency.csv,,
+Cole Wissink,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_transition_bh_efficiency.csv,,
+Evan Cabral,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,,,player_transition_leakouts_efficiency.csv,,
+Andrew Geschickter,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,,,player_transition_leakouts_efficiency.csv,,
+Triston Wennersten,Ithaca College,3,1,1,100.0,1,0,0.0,0,0,,75.0,0.0,1.0,player_transition_leftwing_efficiency.csv,,
+Cole Wissink,Ithaca College,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Evan Cabral,Ithaca College,2,1,0,0.0,1,1,100.0,0,0,,50.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Noah Downing,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Andrew Geschickter,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Bryce Bleibtrey,Ithaca College,1,0,0,,0,0,,0,0,,,1.0,0.0,player_transition_leftwing_efficiency.csv,,
+Logan Wendell,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Andrew Geschickter,Ithaca College,3,2,0,0.0,1,0,0.0,0,0,,0.0,0.0,0.0,player_transition_rightwing_efficiency.csv,,
+Aidan Holmes,Ithaca College,2,1,1,100.0,1,0,0.0,0,0,,75.0,0.0,0.0,player_transition_rightwing_efficiency.csv,,
+Triston Wennersten,Ithaca College,1,0,0,,0,0,,0,0,,,0.0,1.0,player_transition_rightwing_efficiency.csv,,
+Alex Penders,Ithaca College,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_transition_trailer_efficiency.csv,,
+Andrew Geschickter,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_transition_trailer_efficiency.csv,,
+Logan Wendell,Ithaca College,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_transition_trailer_efficiency.csv,,
+Gavin Schauder,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_transition_trailer_efficiency.csv,,
+Cole Wissink,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_transition_trailer_efficiency.csv,,
+Aidan Holmes,Ithaca College,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_transition_trailer_efficiency.csv,,
+Logan Wendell,Ithaca College,36,11,3,27.2727,16,7,43.75,3,0,0.0,42.59259,5.0,4.0,playerefficiency.csv,,
+Andrew Geschickter,Ithaca College,27,15,4,26.6667,9,5,55.5556,5,2,40.0,45.83333,2.0,1.0,playerefficiency.csv,,
+Evan Cabral,Ithaca College,23,2,0,0.0,12,7,58.3333,1,1,100.0,50.0,4.0,5.0,playerefficiency.csv,,
+Aidan Holmes,Ithaca College,18,7,2,28.5714,10,5,50.0,4,1,25.0,47.05882,0.0,1.0,playerefficiency.csv,,
+Triston Wennersten,Ithaca College,16,5,3,60.0,9,5,55.5556,1,0,0.0,67.85714,0.0,2.0,playerefficiency.csv,,
+Cole Wissink,Ithaca College,15,7,4,57.1429,4,3,75.0,2,1,50.0,81.81818,3.0,1.0,playerefficiency.csv,,
+Bryce Bleibtrey,Ithaca College,10,1,1,100.0,3,2,66.6667,0,0,,87.5,4.0,2.0,playerefficiency.csv,,
+Alex Penders,Ithaca College,8,5,2,40.0,2,2,100.0,0,0,,71.42857,1.0,0.0,playerefficiency.csv,,
+Jaylon O'Neal,Ithaca College,7,0,0,,3,0,0.0,0,0,,0.0,4.0,0.0,playerefficiency.csv,,
+Noah Downing,Ithaca College,5,0,0,,5,1,20.0,2,1,50.0,20.0,0.0,0.0,playerefficiency.csv,,
+Gavin Schauder,Ithaca College,5,1,0,0.0,3,1,33.3333,0,0,,25.0,0.0,1.0,playerefficiency.csv,,
+Laurence Brady,Ithaca College,3,1,0,0.0,2,0,0.0,0,0,,0.0,0.0,0.0,playerefficiency.csv,,
+Andrew Geschickter,Ithaca College,9,4,2,50.0,2,1,50.0,2,1,50.0,66.66667,2.0,1.0,playerefficiencyleft.csv,,
+Logan Wendell,Ithaca College,8,2,0,0.0,6,3,50.0,1,0,0.0,37.5,0.0,0.0,playerefficiencyleft.csv,,
+Aidan Holmes,Ithaca College,2,1,0,0.0,1,0,0.0,1,0,0.0,0.0,0.0,0.0,playerefficiencyleft.csv,,
+Evan Cabral,Ithaca College,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,playerefficiencyleft.csv,,
+Cole Wissink,Ithaca College,1,0,0,,0,0,,0,0,,,1.0,0.0,playerefficiencyleft.csv,,
+Bryce Bleibtrey,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,playerefficiencyleft.csv,,
+Cole Wissink,Ithaca College,5,1,1,100.0,3,2,66.6667,2,1,50.0,87.5,1.0,0.0,playerefficiencyright.csv,,
+Logan Wendell,Ithaca College,5,1,0,0.0,1,0,0.0,2,0,0.0,0.0,1.0,2.0,playerefficiencyright.csv,,
+Andrew Geschickter,Ithaca College,5,2,1,50.0,3,1,33.3333,3,1,33.3333,50.0,0.0,0.0,playerefficiencyright.csv,,
+Evan Cabral,Ithaca College,4,0,0,,2,1,50.0,1,1,100.0,50.0,1.0,1.0,playerefficiencyright.csv,,
+Triston Wennersten,Ithaca College,3,0,0,,3,1,33.3333,1,0,0.0,33.33333,0.0,0.0,playerefficiencyright.csv,,
+Aidan Holmes,Ithaca College,2,0,0,,1,1,100.0,0,0,,100.0,0.0,1.0,playerefficiencyright.csv,,
+Bryce Bleibtrey,Ithaca College,2,0,0,,0,0,,0,0,,,1.0,1.0,playerefficiencyright.csv,,
+Noah Downing,Ithaca College,2,0,0,,2,1,50.0,2,1,50.0,50.0,0.0,0.0,playerefficiencyright.csv,,
+,Ithaca College,2,2,2,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_bhhigh_rollmanpops_efficiency.csv,Logan Wendell,Triston Wennersten
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_bhhigh_rollmanpops_efficiency.csv,Evan Cabral,Triston Wennersten
+,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_bhhigh_rollmanpops_efficiency.csv,Evan Cabral,Noah Downing
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Bryce Bleibtrey,Andrew Geschickter
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Bryce Bleibtrey,Laurence Brady
+,Ithaca College,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Evan Cabral,Cole Wissink
+,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Cole Wissink,Andrew Geschickter
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Logan Wendell,Andrew Geschickter
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Jaylon O'Neal,Andrew Geschickter
+,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Andrew Geschickter,Aidan Holmes
+,Ithaca College,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Evan Cabral,Cole Wissink
+,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Cole Wissink,Andrew Geschickter
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Logan Wendell,Andrew Geschickter
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Jaylon O'Neal,Andrew Geschickter
+,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Andrew Geschickter,Aidan Holmes
+,Ithaca College,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Logan Wendell,Cole Wissink
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Logan Wendell,Evan Cabral
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Evan Cabral,Aidan Holmes
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Evan Cabral,Andrew Geschickter
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Logan Wendell,Andrew Geschickter
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Alex Penders,Logan Wendell
+,Ithaca College,2,2,2,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Logan Wendell,Triston Wennersten
+,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Evan Cabral,Noah Downing
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Evan Cabral,Triston Wennersten
+,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Logan Wendell,Alex Penders
+,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Logan Wendell,Gavin Schauder
+,Ithaca College,2,2,2,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Logan Wendell,Triston Wennersten
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Evan Cabral,Triston Wennersten
+,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Evan Cabral,Noah Downing
+,Ithaca College,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanrolls_efficiency.csv,Logan Wendell,Alex Penders
+,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanrolls_efficiency.csv,Logan Wendell,Gavin Schauder
+,Ithaca College,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Evan Cabral,Cole Wissink
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Logan Wendell,Andrew Geschickter
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Jaylon O'Neal,Andrew Geschickter
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Logan Wendell,Andrew Geschickter
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Alex Penders,Logan Wendell
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Logan Wendell,Evan Cabral
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Evan Cabral,Andrew Geschickter
+,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_pnrbhleft_spotupdrives_efficiency.csv,Cole Wissink,Andrew Geschickter
+,Ithaca College,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,twoplayer_pnrbhleft_spotupdrives_efficiency.csv,Andrew Geschickter,Aidan Holmes
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupjumper_efficiency.csv,Evan Cabral,Aidan Holmes
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupjumper_efficiency.csv,Logan Wendell,Cole Wissink
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_rollman_efficiency.csv,Logan Wendell,Triston Wennersten
+,Ithaca College,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhright_rollman_efficiency.csv,Evan Cabral,Cole Wissink
+,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_rollman_efficiency.csv,Aidan Holmes,Gavin Schauder
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_rollmanpops_efficiency.csv,Logan Wendell,Triston Wennersten
+,Ithaca College,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhright_rollmanpops_efficiency.csv,Evan Cabral,Cole Wissink
+,Ithaca College,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_rollmanrolls_efficiency.csv,Aidan Holmes,Gavin Schauder
+,Ithaca College,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Logan Wendell,Cole Wissink
+,Ithaca College,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_post_spotupdrive_efficiency.csv,Alex Penders,Bryce Bleibtrey
+,Ithaca College,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_post_spotupjumper_efficiency.csv,Alex Penders,Logan Wendell

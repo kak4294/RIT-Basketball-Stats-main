@@ -1,0 +1,2570 @@
+{
+    "PNR_insights": [
+        {
+            "PNR - Cut": 0.07142857142857142,
+            "PNR - Spotup Drive": 0.21428571428571427,
+            "PNR - Spotup Jumper": 0.42857142857142855,
+            "PNR - Rollman": 0.2857142857142857,
+            "Total Plays": 70
+        },
+        {
+            "PNR_Passer": {
+                "StatDescription": "Efficiency for all PNR secondary plays together.",
+                "TotalPlays": 70,
+                "Total3ptShots": 37,
+                "Total3ptMakes": 9,
+                "3pt%": 24.32,
+                "Total2ptShots": 24,
+                "Total2ptMakes": 13,
+                "2pt%": 54.17,
+                "TotalMidRangeShots": 3,
+                "TotalMidRangeMakes": 1,
+                "MidRange%": 33.33,
+                "EFG%": 44.68,
+                "Turnover": 4,
+                "Foul": 5
+            }
+        },
+        {
+            "PNR_Cut": {
+                "StatDescription": "PNR-->Cut.",
+                "TotalPlays": 5,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 4,
+                "Total2ptMakes": 4,
+                "2pt%": 100.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 100.0,
+                "Turnover": 0,
+                "Foul": 1
+            }
+        },
+        {
+            "PNR_SpotupDrive": {
+                "StatDescription": "PNR-->SU Drive.",
+                "TotalPlays": 15,
+                "Total3ptShots": 3,
+                "Total3ptMakes": 0,
+                "3pt%": 0.0,
+                "Total2ptShots": 6,
+                "Total2ptMakes": 3,
+                "2pt%": 50.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 30.56,
+                "Turnover": 4,
+                "Foul": 2
+            }
+        },
+        {
+            "PNR_SpotupJumper": {
+                "StatDescription": "PNR-->SU Jumper.",
+                "TotalPlays": 30,
+                "Total3ptShots": 28,
+                "Total3ptMakes": 8,
+                "3pt%": 28.57,
+                "Total2ptShots": 2,
+                "Total2ptMakes": 0,
+                "2pt%": 0.0,
+                "TotalMidRangeShots": 2,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": 0.0,
+                "EFG%": 30.56,
+                "Turnover": 0,
+                "Foul": 0
+            }
+        },
+        {
+            "PNR_Rollman": {
+                "StatDescription": "PNR-->Rollman.",
+                "TotalPlays": 20,
+                "Total3ptShots": 6,
+                "Total3ptMakes": 1,
+                "3pt%": 16.67,
+                "Total2ptShots": 12,
+                "Total2ptMakes": 6,
+                "2pt%": 50.0,
+                "TotalMidRangeShots": 1,
+                "TotalMidRangeMakes": 1,
+                "MidRange%": 100.0,
+                "EFG%": 40.0,
+                "Turnover": 0,
+                "Foul": 2
+            }
+        },
+        {
+            "BHHighPNRCuts": {
+                "Keegan Ocorr": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 2,
+                    "Total3ptShots": 0,
+                    "Total3ptMakes": 0,
+                    "3pt%": "-",
+                    "Total2ptShots": 1,
+                    "Total2ptMakes": 1,
+                    "2pt%": 100.0,
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 100.0,
+                    "Turnover": 0,
+                    "Foul": 1,
+                    "playproportion": 0.5
+                },
+                "Luke Granto": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 0,
+                    "Total3ptMakes": 0,
+                    "3pt%": "-",
+                    "Total2ptShots": 1,
+                    "Total2ptMakes": 1,
+                    "2pt%": 100.0,
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 100.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.25
+                },
+                "Zac Ditzel": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 0,
+                    "Total3ptMakes": 0,
+                    "3pt%": "-",
+                    "Total2ptShots": 1,
+                    "Total2ptMakes": 1,
+                    "2pt%": 100.0,
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 100.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.25
+                }
+            }
+        },
+        {
+            "BHHighPNRSpotupDrives": {
+                "Brock Bowen": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 2,
+                    "Total3ptShots": 1,
+                    "Total3ptMakes": 0,
+                    "3pt%": 0.0,
+                    "Total2ptShots": 1,
+                    "Total2ptMakes": 1,
+                    "2pt%": 100.0,
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 50.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.2
+                },
+                "Brody Brown": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 0,
+                    "Total3ptMakes": 0,
+                    "3pt%": "-",
+                    "Total2ptShots": 0,
+                    "Total2ptMakes": 0,
+                    "2pt%": "-",
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": "-",
+                    "Turnover": 1,
+                    "Foul": 0,
+                    "playproportion": 0.1
+                },
+                "Keegan Ocorr": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 4,
+                    "Total3ptShots": 0,
+                    "Total3ptMakes": 0,
+                    "3pt%": "-",
+                    "Total2ptShots": 1,
+                    "Total2ptMakes": 1,
+                    "2pt%": 100.0,
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 100.0,
+                    "Turnover": 2,
+                    "Foul": 1,
+                    "playproportion": 0.4
+                },
+                "Mark Osime": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 0,
+                    "Total3ptMakes": 0,
+                    "3pt%": "-",
+                    "Total2ptShots": 1,
+                    "Total2ptMakes": 0,
+                    "2pt%": 0.0,
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 0.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.1
+                },
+                "Zac Ditzel": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 2,
+                    "Total3ptShots": 1,
+                    "Total3ptMakes": 0,
+                    "3pt%": 0.0,
+                    "Total2ptShots": 1,
+                    "Total2ptMakes": 1,
+                    "2pt%": 100.0,
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 50.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.2
+                }
+            }
+        },
+        {
+            "BHHighPNRSpotupJumpers": {
+                "Brandon Weiss": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 2,
+                    "Total3ptShots": 2,
+                    "Total3ptMakes": 1,
+                    "3pt%": 50.0,
+                    "Total2ptShots": 0,
+                    "Total2ptMakes": 0,
+                    "2pt%": "-",
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 75.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.1
+                },
+                "Brock Bowen": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 7,
+                    "Total3ptShots": 7,
+                    "Total3ptMakes": 4,
+                    "3pt%": 57.14,
+                    "Total2ptShots": 0,
+                    "Total2ptMakes": 0,
+                    "2pt%": "-",
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 85.71,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.33
+                },
+                "Brody Brown": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 5,
+                    "Total3ptShots": 5,
+                    "Total3ptMakes": 0,
+                    "3pt%": 0.0,
+                    "Total2ptShots": 0,
+                    "Total2ptMakes": 0,
+                    "2pt%": "-",
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 0.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.24
+                },
+                "Jackson Otis": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 2,
+                    "Total3ptShots": 2,
+                    "Total3ptMakes": 1,
+                    "3pt%": 50.0,
+                    "Total2ptShots": 0,
+                    "Total2ptMakes": 0,
+                    "2pt%": "-",
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 75.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.1
+                },
+                "Keegan Ocorr": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 1,
+                    "Total3ptMakes": 0,
+                    "3pt%": 0.0,
+                    "Total2ptShots": 0,
+                    "Total2ptMakes": 0,
+                    "2pt%": "-",
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 0.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.05
+                },
+                "Kenny Wilburn": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 2,
+                    "Total3ptShots": 1,
+                    "Total3ptMakes": 1,
+                    "3pt%": 100.0,
+                    "Total2ptShots": 1,
+                    "Total2ptMakes": 0,
+                    "2pt%": 0.0,
+                    "TotalMidRangeShots": 1,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": 0.0,
+                    "EFG%": 75.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.1
+                },
+                "Mark Osime": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 1,
+                    "Total3ptMakes": 0,
+                    "3pt%": 0.0,
+                    "Total2ptShots": 0,
+                    "Total2ptMakes": 0,
+                    "2pt%": "-",
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 0.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.05
+                },
+                "Ronnie Toole": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 1,
+                    "Total3ptMakes": 0,
+                    "3pt%": 0.0,
+                    "Total2ptShots": 0,
+                    "Total2ptMakes": 0,
+                    "2pt%": "-",
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 0.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.05
+                }
+            }
+        },
+        {
+            "BHHighPNRRollmanRolls": {
+                "Josiah Turner": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 0,
+                    "Total3ptMakes": 0,
+                    "3pt%": "-",
+                    "Total2ptShots": 1,
+                    "Total2ptMakes": 1,
+                    "2pt%": 100.0,
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 100.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.5
+                },
+                "Kenny Wilburn": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 0,
+                    "Total3ptMakes": 0,
+                    "3pt%": "-",
+                    "Total2ptShots": 1,
+                    "Total2ptMakes": 0,
+                    "2pt%": 0.0,
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 0.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.5
+                }
+            }
+        },
+        {
+            "BHHighPNRRollmanSlips": {
+                "Kenny Wilburn": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 1,
+                    "Total3ptMakes": 0,
+                    "3pt%": 0.0,
+                    "Total2ptShots": 0,
+                    "Total2ptMakes": 0,
+                    "2pt%": "-",
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 0.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 1.0
+                }
+            }
+        },
+        {
+            "BHHighPNRRollmanPops": {
+                "Josiah Turner": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 6,
+                    "Total3ptShots": 3,
+                    "Total3ptMakes": 0,
+                    "3pt%": 0.0,
+                    "Total2ptShots": 2,
+                    "Total2ptMakes": 0,
+                    "2pt%": 0.0,
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 0.0,
+                    "Turnover": 0,
+                    "Foul": 1,
+                    "playproportion": 0.75
+                },
+                "Kenny Wilburn": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 2,
+                    "Total3ptShots": 2,
+                    "Total3ptMakes": 1,
+                    "3pt%": 50.0,
+                    "Total2ptShots": 0,
+                    "Total2ptMakes": 0,
+                    "2pt%": "-",
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 75.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.25
+                }
+            }
+        },
+        {
+            "BHLeftPNRCuts": {}
+        },
+        {
+            "BHLeftPNRSpotupDrives": {
+                "Ronnie Toole": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 0,
+                    "Total3ptMakes": 0,
+                    "3pt%": "-",
+                    "Total2ptShots": 1,
+                    "Total2ptMakes": 0,
+                    "2pt%": 0.0,
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 0.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.5
+                },
+                "Zac Ditzel": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 0,
+                    "Total3ptMakes": 0,
+                    "3pt%": "-",
+                    "Total2ptShots": 1,
+                    "Total2ptMakes": 0,
+                    "2pt%": 0.0,
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 0.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.5
+                }
+            }
+        },
+        {
+            "BHLeftPNRSpotupJumpers": {
+                "Brock Bowen": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 1,
+                    "Total3ptMakes": 0,
+                    "3pt%": 0.0,
+                    "Total2ptShots": 0,
+                    "Total2ptMakes": 0,
+                    "2pt%": "-",
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 0.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.33
+                },
+                "Brody Brown": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 1,
+                    "Total3ptMakes": 0,
+                    "3pt%": 0.0,
+                    "Total2ptShots": 0,
+                    "Total2ptMakes": 0,
+                    "2pt%": "-",
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 0.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.33
+                },
+                "Keegan Ocorr": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 1,
+                    "Total3ptMakes": 0,
+                    "3pt%": 0.0,
+                    "Total2ptShots": 0,
+                    "Total2ptMakes": 0,
+                    "2pt%": "-",
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 0.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.33
+                }
+            }
+        },
+        {
+            "BHLeftPNRRollmanRolls": {
+                "Kenny Wilburn": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 2,
+                    "Total3ptShots": 0,
+                    "Total3ptMakes": 0,
+                    "3pt%": "-",
+                    "Total2ptShots": 2,
+                    "Total2ptMakes": 1,
+                    "2pt%": 50.0,
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 50.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 1.0
+                }
+            }
+        },
+        {
+            "BHLeftPNRRollmanSlips": {}
+        },
+        {
+            "BHLeftPNRRollmanPops": {
+                "Josiah Turner": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 0,
+                    "Total3ptMakes": 0,
+                    "3pt%": "-",
+                    "Total2ptShots": 1,
+                    "Total2ptMakes": 0,
+                    "2pt%": 0.0,
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 0.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 1.0
+                }
+            }
+        },
+        {
+            "BHRightPNRCuts": {
+                "Nolan Smih": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 0,
+                    "Total3ptMakes": 0,
+                    "3pt%": "-",
+                    "Total2ptShots": 1,
+                    "Total2ptMakes": 1,
+                    "2pt%": 100.0,
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 100.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 1.0
+                }
+            }
+        },
+        {
+            "BHRightPNRSpotupDrives": {
+                "Brock Bowen": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 0,
+                    "Total3ptMakes": 0,
+                    "3pt%": "-",
+                    "Total2ptShots": 0,
+                    "Total2ptMakes": 0,
+                    "2pt%": "-",
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": "-",
+                    "Turnover": 1,
+                    "Foul": 0,
+                    "playproportion": 0.33
+                },
+                "Chase Dickens": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 1,
+                    "Total3ptMakes": 0,
+                    "3pt%": 0.0,
+                    "Total2ptShots": 0,
+                    "Total2ptMakes": 0,
+                    "2pt%": "-",
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 0.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.33
+                },
+                "Mark Osime": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 0,
+                    "Total3ptMakes": 0,
+                    "3pt%": "-",
+                    "Total2ptShots": 0,
+                    "Total2ptMakes": 0,
+                    "2pt%": "-",
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": "-",
+                    "Turnover": 0,
+                    "Foul": 1,
+                    "playproportion": 0.33
+                }
+            }
+        },
+        {
+            "BHRightPNRSpotupJumpers": {
+                "Brock Bowen": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 2,
+                    "Total3ptShots": 2,
+                    "Total3ptMakes": 1,
+                    "3pt%": 50.0,
+                    "Total2ptShots": 0,
+                    "Total2ptMakes": 0,
+                    "2pt%": "-",
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 75.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.33
+                },
+                "Brody Brown": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 1,
+                    "Total3ptMakes": 0,
+                    "3pt%": 0.0,
+                    "Total2ptShots": 0,
+                    "Total2ptMakes": 0,
+                    "2pt%": "-",
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 0.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.17
+                },
+                "Keegan Ocorr": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 1,
+                    "Total3ptMakes": 0,
+                    "3pt%": 0.0,
+                    "Total2ptShots": 0,
+                    "Total2ptMakes": 0,
+                    "2pt%": "-",
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 0.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.17
+                },
+                "Kenny Wilburn": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 0,
+                    "Total3ptMakes": 0,
+                    "3pt%": "-",
+                    "Total2ptShots": 1,
+                    "Total2ptMakes": 0,
+                    "2pt%": 0.0,
+                    "TotalMidRangeShots": 1,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": 0.0,
+                    "EFG%": 0.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.17
+                },
+                "Zac Ditzel": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 1,
+                    "Total3ptMakes": 0,
+                    "3pt%": 0.0,
+                    "Total2ptShots": 0,
+                    "Total2ptMakes": 0,
+                    "2pt%": "-",
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 0.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.17
+                }
+            }
+        },
+        {
+            "BHRightPNRRollmanRolls": {
+                "Kenny Wilburn": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 3,
+                    "Total3ptShots": 0,
+                    "Total3ptMakes": 0,
+                    "3pt%": "-",
+                    "Total2ptShots": 3,
+                    "Total2ptMakes": 3,
+                    "2pt%": 100.0,
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 100.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 1.0
+                }
+            }
+        },
+        {
+            "BHRightPNRRollmanSlips": {}
+        },
+        {
+            "BHRightPNRRollmanPops": {
+                "Josiah Turner": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 2,
+                    "Total3ptShots": 0,
+                    "Total3ptMakes": 0,
+                    "3pt%": "-",
+                    "Total2ptShots": 1,
+                    "Total2ptMakes": 1,
+                    "2pt%": 100.0,
+                    "TotalMidRangeShots": 1,
+                    "TotalMidRangeMakes": 1,
+                    "MidRange%": 100.0,
+                    "EFG%": 100.0,
+                    "Turnover": 0,
+                    "Foul": 1,
+                    "playproportion": 0.67
+                },
+                "Kenny Wilburn": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 0,
+                    "Total3ptMakes": 0,
+                    "3pt%": "-",
+                    "Total2ptShots": 1,
+                    "Total2ptMakes": 0,
+                    "2pt%": 0.0,
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 0.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.33
+                }
+            }
+        },
+        {
+            "PNR_Scorer": {
+                "StatDescription": "Efficiency for all PNR scorer plays together.",
+                "TotalPlays": 77,
+                "Total3ptShots": 12,
+                "Total3ptMakes": 6,
+                "3pt%": 50.0,
+                "Total2ptShots": 44,
+                "Total2ptMakes": 17,
+                "2pt%": 38.64,
+                "TotalMidRangeShots": 11,
+                "TotalMidRangeMakes": 3,
+                "MidRange%": 27.27,
+                "EFG%": 46.43,
+                "Turnover": 14,
+                "Foul": 7
+            }
+        },
+        {
+            "PNR Accept": 0.8115942028985508,
+            "PNR Reject": 0.18840579710144928,
+            "Total Plays": 69
+        },
+        {
+            "PNR_Off": {
+                "StatDescription": "Efficiency for all PNR scorers going OFF screens.",
+                "TotalPlays": 56,
+                "Total3ptShots": 6,
+                "Total3ptMakes": 3,
+                "3pt%": 50.0,
+                "Total2ptShots": 34,
+                "Total2ptMakes": 13,
+                "2pt%": 38.24,
+                "TotalMidRangeShots": 11,
+                "TotalMidRangeMakes": 3,
+                "MidRange%": 27.27,
+                "EFG%": 43.75,
+                "Turnover": 13,
+                "Foul": 3
+            }
+        },
+        {
+            "PNR_Reject": {
+                "StatDescription": "Efficiency for all PNR scorers REJECTING screens.",
+                "TotalPlays": 13,
+                "Total3ptShots": 1,
+                "Total3ptMakes": 0,
+                "3pt%": 0.0,
+                "Total2ptShots": 8,
+                "Total2ptMakes": 3,
+                "2pt%": 37.5,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 33.33,
+                "Turnover": 1,
+                "Foul": 3
+            }
+        },
+        {
+            "PNR High": 0.5324675324675324,
+            "PNR Left": 0.2077922077922078,
+            "PNR Right": 0.2597402597402597,
+            "Total Plays": 77
+        },
+        {
+            "PNR_High": {
+                "StatDescription": "Efficiency for all PNR scorers on HIGH screens.",
+                "TotalPlays": 41,
+                "Total3ptShots": 7,
+                "Total3ptMakes": 3,
+                "3pt%": 42.86,
+                "Total2ptShots": 23,
+                "Total2ptMakes": 11,
+                "2pt%": 47.83,
+                "TotalMidRangeShots": 7,
+                "TotalMidRangeMakes": 3,
+                "MidRange%": 42.86,
+                "EFG%": 51.67,
+                "Turnover": 7,
+                "Foul": 4
+            }
+        },
+        {
+            "PNR_Left": {
+                "StatDescription": "Efficiency for all PNR scorers on LEFT screens.",
+                "TotalPlays": 16,
+                "Total3ptShots": 2,
+                "Total3ptMakes": 2,
+                "3pt%": 100.0,
+                "Total2ptShots": 11,
+                "Total2ptMakes": 4,
+                "2pt%": 36.36,
+                "TotalMidRangeShots": 2,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": 0.0,
+                "EFG%": 53.85,
+                "Turnover": 2,
+                "Foul": 1
+            }
+        },
+        {
+            "PNR_Right": {
+                "StatDescription": "Efficiency for all PNR scorers on RIGHT screens.",
+                "TotalPlays": 20,
+                "Total3ptShots": 3,
+                "Total3ptMakes": 1,
+                "3pt%": 33.33,
+                "Total2ptShots": 10,
+                "Total2ptMakes": 2,
+                "2pt%": 20.0,
+                "TotalMidRangeShots": 2,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": 0.0,
+                "EFG%": 26.92,
+                "Turnover": 5,
+                "Foul": 2
+            }
+        },
+        {
+            "PNR_High_Reject": {
+                "StatDescription": "Efficiency for HIGH PNR scorer REJECTING screens.",
+                "TotalPlays": 9,
+                "Total3ptShots": 1,
+                "Total3ptMakes": 0,
+                "3pt%": 0.0,
+                "Total2ptShots": 6,
+                "Total2ptMakes": 2,
+                "2pt%": 33.33,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 28.57,
+                "Turnover": 0,
+                "Foul": 2
+            }
+        },
+        {
+            "PNR_High_Off": {
+                "StatDescription": "Efficiency for HIGH PNR scorer going OFF screens.",
+                "TotalPlays": 30,
+                "Total3ptShots": 4,
+                "Total3ptMakes": 3,
+                "3pt%": 75.0,
+                "Total2ptShots": 17,
+                "Total2ptMakes": 9,
+                "2pt%": 52.94,
+                "TotalMidRangeShots": 7,
+                "TotalMidRangeMakes": 3,
+                "MidRange%": 42.86,
+                "EFG%": 64.29,
+                "Turnover": 7,
+                "Foul": 2
+            }
+        },
+        {
+            "PNR_Left_Reject": {
+                "StatDescription": "Efficiency for LEFT PNR scorer REJECTING screens.",
+                "TotalPlays": 2,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 1,
+                "Total2ptMakes": 0,
+                "2pt%": 0.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 0.0,
+                "Turnover": 0,
+                "Foul": 1
+            }
+        },
+        {
+            "PNR_Left_Off": {
+                "StatDescription": "Efficiency for LEFT PNR scorer going OFF screens.",
+                "TotalPlays": 11,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 9,
+                "Total2ptMakes": 3,
+                "2pt%": 33.33,
+                "TotalMidRangeShots": 2,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": 0.0,
+                "EFG%": 33.33,
+                "Turnover": 2,
+                "Foul": 0
+            }
+        },
+        {
+            "PNR_Right_Reject": {
+                "StatDescription": "Efficiency for RIGHT PNR scorer REJECTING screens.",
+                "TotalPlays": 2,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 1,
+                "Total2ptMakes": 1,
+                "2pt%": 100.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 100.0,
+                "Turnover": 1,
+                "Foul": 0
+            }
+        },
+        {
+            "PNR_Right_Off": {
+                "StatDescription": "Efficiency for RIGHT PNR scorer going OFF screens.",
+                "TotalPlays": 15,
+                "Total3ptShots": 2,
+                "Total3ptMakes": 0,
+                "3pt%": 0.0,
+                "Total2ptShots": 8,
+                "Total2ptMakes": 1,
+                "2pt%": 12.5,
+                "TotalMidRangeShots": 2,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": 0.0,
+                "EFG%": 10.0,
+                "Turnover": 4,
+                "Foul": 1
+            }
+        }
+    ],
+    "Cut_insights": [
+        {
+            "Playtype_Cutter": {
+                "StatDescription": "Efficiency for all secondary cutter plays.",
+                "TotalPlays": 2,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 2,
+                "Total2ptMakes": 1,
+                "2pt%": 50.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 50.0,
+                "Turnover": 0,
+                "Foul": 0
+            }
+        },
+        {
+            "Iso --> Cut": 0.1111111111111111,
+            "PNR --> Cut": 0.1111111111111111,
+            "Post --> Cut": 0.0,
+            "Unknown --> Cut": 0.7777777777777778,
+            "Total Plays": 9
+        },
+        {
+            "Iso_Cutter": {
+                "StatDescription": "Efficiency for all Isos leading to secondary cutter plays.",
+                "TotalPlays": 1,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 1,
+                "Total2ptMakes": 1,
+                "2pt%": 100.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 100.0,
+                "Turnover": 0,
+                "Foul": 0
+            }
+        },
+        {
+            "PNR_Cutter": {
+                "StatDescription": "Efficiency for all PNRs leading to secondary cutter plays.",
+                "TotalPlays": 1,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 1,
+                "Total2ptMakes": 0,
+                "2pt%": 0.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 0.0,
+                "Turnover": 0,
+                "Foul": 0
+            }
+        },
+        {},
+        {
+            "Cut_Scorer": {
+                "StatDescription": "Efficiency for all cutting scorer plays together.",
+                "TotalPlays": 9,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 8,
+                "Total2ptMakes": 7,
+                "2pt%": 87.5,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 87.5,
+                "Turnover": 1,
+                "Foul": 0
+            }
+        },
+        [
+            {
+                "Basket Cut": 0.7777777777777778,
+                "Flash Cut": 0.2222222222222222,
+                "Screen Cut": 0.0,
+                "Total Plays": 9
+            }
+        ],
+        {
+            "Basket_Cuts": {
+                "StatDescription": "Basket Cut",
+                "TotalPlays": 7,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 6,
+                "Total2ptMakes": 5,
+                "2pt%": 83.33,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 83.33,
+                "Turnover": 1,
+                "Foul": 0
+            }
+        },
+        {
+            "Flash_Cuts": {
+                "StatDescription": "Flash Cut",
+                "TotalPlays": 2,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 2,
+                "Total2ptMakes": 2,
+                "2pt%": 100.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 100.0,
+                "Turnover": 0,
+                "Foul": 0
+            }
+        },
+        {}
+    ],
+    "Handoff_insights": [
+        {
+            "Handoff_Scorer": {
+                "StatDescription": "Efficiency for all Handoff scorer plays together.",
+                "TotalPlays": 18,
+                "Total3ptShots": 2,
+                "Total3ptMakes": 1,
+                "3pt%": 50.0,
+                "Total2ptShots": 13,
+                "Total2ptMakes": 7,
+                "2pt%": 53.85,
+                "TotalMidRangeShots": 2,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": 0.0,
+                "EFG%": 56.67,
+                "Turnover": 2,
+                "Foul": 1
+            }
+        },
+        {
+            "Handoff Left": 0.2222222222222222,
+            "Handoff Right": 0.3888888888888889,
+            "Handoff from Top": 0.3888888888888889,
+            "Total Plays": 18
+        },
+        {
+            "BHLeft": {
+                "StatDescription": "Handoffs Left",
+                "TotalPlays": 4,
+                "Total3ptShots": 1,
+                "Total3ptMakes": 0,
+                "3pt%": 0.0,
+                "Total2ptShots": 3,
+                "Total2ptMakes": 1,
+                "2pt%": 33.33,
+                "TotalMidRangeShots": 1,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": 0.0,
+                "EFG%": 25.0,
+                "Turnover": 0,
+                "Foul": 0
+            }
+        },
+        {
+            "BHRight": {
+                "StatDescription": "Handoffs Right",
+                "TotalPlays": 7,
+                "Total3ptShots": 1,
+                "Total3ptMakes": 1,
+                "3pt%": 100.0,
+                "Total2ptShots": 5,
+                "Total2ptMakes": 3,
+                "2pt%": 60.0,
+                "TotalMidRangeShots": 1,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": 0.0,
+                "EFG%": 75.0,
+                "Turnover": 1,
+                "Foul": 0
+            }
+        },
+        {
+            "BHTop": {
+                "StatDescription": "Handoffs Top",
+                "TotalPlays": 7,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 5,
+                "Total2ptMakes": 3,
+                "2pt%": 60.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 60.0,
+                "Turnover": 1,
+                "Foul": 1
+            }
+        },
+        {
+            "Handoffs Stationary": 0.2777777777777778,
+            "Handoffs Dribble": 0.7222222222222222,
+            "Total Plays": 18
+        },
+        {
+            "Stationary": {
+                "StatDescription": "Handoffs Stationary",
+                "TotalPlays": 5,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 4,
+                "Total2ptMakes": 3,
+                "2pt%": 75.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 75.0,
+                "Turnover": 0,
+                "Foul": 1
+            }
+        },
+        {
+            "Dribble": {
+                "StatDescription": "Handoffs Dribble",
+                "TotalPlays": 13,
+                "Total3ptShots": 2,
+                "Total3ptMakes": 1,
+                "3pt%": 50.0,
+                "Total2ptShots": 9,
+                "Total2ptMakes": 4,
+                "2pt%": 44.44,
+                "TotalMidRangeShots": 2,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": 0.0,
+                "EFG%": 50.0,
+                "Turnover": 2,
+                "Foul": 0
+            }
+        },
+        {},
+        {
+            "Right_Stationary": {
+                "StatDescription": "Handoffs Right --> Stationary",
+                "TotalPlays": 1,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 1,
+                "Total2ptMakes": 1,
+                "2pt%": 100.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 100.0,
+                "Turnover": 0,
+                "Foul": 0
+            }
+        },
+        {
+            "Top_Stationary": {
+                "StatDescription": "Handoffs Top --> Stationary",
+                "TotalPlays": 4,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 3,
+                "Total2ptMakes": 2,
+                "2pt%": 66.67,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 66.67,
+                "Turnover": 0,
+                "Foul": 1
+            }
+        },
+        {
+            "Left_Dribble": {
+                "StatDescription": "Handoffs Left --> Dribble",
+                "TotalPlays": 4,
+                "Total3ptShots": 1,
+                "Total3ptMakes": 0,
+                "3pt%": 0.0,
+                "Total2ptShots": 3,
+                "Total2ptMakes": 1,
+                "2pt%": 33.33,
+                "TotalMidRangeShots": 1,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": 0.0,
+                "EFG%": 25.0,
+                "Turnover": 0,
+                "Foul": 0
+            }
+        },
+        {
+            "Right_Dribble": {
+                "StatDescription": "Handoffs Right --> Dribble",
+                "TotalPlays": 6,
+                "Total3ptShots": 1,
+                "Total3ptMakes": 1,
+                "3pt%": 100.0,
+                "Total2ptShots": 4,
+                "Total2ptMakes": 2,
+                "2pt%": 50.0,
+                "TotalMidRangeShots": 1,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": 0.0,
+                "EFG%": 70.0,
+                "Turnover": 1,
+                "Foul": 0
+            }
+        },
+        {
+            "Top_Dribble": {
+                "StatDescription": "Handoffs Top --> Dribble",
+                "TotalPlays": 3,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 2,
+                "Total2ptMakes": 1,
+                "2pt%": 50.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 50.0,
+                "Turnover": 1,
+                "Foul": 0
+            }
+        }
+    ],
+    "Post_insights": [
+        {
+            "Post - Cut": 1.0,
+            "Post - Spotup Drive": 0.0,
+            "Post - Spotup Jumper": 0.0,
+            "Total Plays": 1
+        },
+        {
+            "Total_Post_Passer": {
+                "StatDescription": "Efficiency for all POST secondary plays together.",
+                "TotalPlays": 1,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 1,
+                "Total2ptMakes": 1,
+                "2pt%": 100.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 100.0,
+                "Turnover": 0,
+                "Foul": 0
+            }
+        },
+        {
+            "PostCut": {
+                "Keegan Ocorr": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 0,
+                    "Total3ptMakes": 0,
+                    "3pt%": "-",
+                    "Total2ptShots": 1,
+                    "Total2ptMakes": 1,
+                    "2pt%": 100.0,
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 100.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 1.0
+                }
+            }
+        },
+        {
+            "PostSpotupDrives": {}
+        },
+        {
+            "PostSpotupJumper": {}
+        },
+        {
+            "Post_Scorer": {
+                "StatDescription": "Efficiency for all Post scorer plays together.",
+                "TotalPlays": 2,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 1,
+                "Total2ptMakes": 1,
+                "2pt%": 100.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 100.0,
+                "Turnover": 0,
+                "Foul": 1
+            }
+        },
+        {
+            "Post Left Block": 1.0,
+            "Post Right Block": 0.0,
+            "Post Middle": 0.0,
+            "Total Plays": 2
+        },
+        {
+            "Post_LeftBlock": {
+                "StatDescription": "Post Left Block.",
+                "TotalPlays": 2,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 1,
+                "Total2ptMakes": 1,
+                "2pt%": 100.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 100.0,
+                "Turnover": 0,
+                "Foul": 1
+            }
+        },
+        {},
+        {},
+        {
+            "Post Left Shoulder": 0.5,
+            "Post Right Shoulder": 0.5,
+            "Post Face Up": 0.0,
+            "Total Plays": 2
+        },
+        {
+            "Post_LeftShoulder": {
+                "StatDescription": "Post Left shoulder",
+                "TotalPlays": 1,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 0,
+                "Total2ptMakes": 0,
+                "2pt%": "-",
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": "-",
+                "Turnover": 0,
+                "Foul": 1
+            }
+        },
+        {
+            "Post_RightShoulder": {
+                "StatDescription": "Post Right shoulder",
+                "TotalPlays": 1,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 1,
+                "Total2ptMakes": 1,
+                "2pt%": 100.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 100.0,
+                "Turnover": 0,
+                "Foul": 0
+            }
+        },
+        {},
+        {},
+        {
+            "Post_LeftBlock_LeftShoulder": {
+                "StatDescription": "Post Left Block --> Left Shoulder",
+                "TotalPlays": 1,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 0,
+                "Total2ptMakes": 0,
+                "2pt%": "-",
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": "-",
+                "Turnover": 0,
+                "Foul": 1
+            }
+        },
+        {
+            "Post_LeftBlock_RightShoulder": {
+                "StatDescription": "Post Left Block --> Right Shoulder",
+                "TotalPlays": 1,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 1,
+                "Total2ptMakes": 1,
+                "2pt%": 100.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 100.0,
+                "Turnover": 0,
+                "Foul": 0
+            }
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "Spotup_insights": [
+        {
+            "Playtype_SpotUps": {
+                "StatDescription": "Efficiency for all secondary Spot Up plays.",
+                "TotalPlays": 11,
+                "Total3ptShots": 5,
+                "Total3ptMakes": 2,
+                "3pt%": 40.0,
+                "Total2ptShots": 4,
+                "Total2ptMakes": 3,
+                "2pt%": 75.0,
+                "TotalMidRangeShots": 1,
+                "TotalMidRangeMakes": 1,
+                "MidRange%": 100.0,
+                "EFG%": 57.14,
+                "Turnover": 2,
+                "Foul": 0
+            }
+        },
+        {
+            "Iso - SU Drives": 0.0,
+            "PNR - SU Drives": 0.08888888888888888,
+            "Post - SU Drives": 0.04444444444444444,
+            "Unknown - SU Drives": 0.8666666666666667,
+            "Total Plays": 45
+        },
+        {
+            "Iso - SU Jumpers": 0.029411764705882356,
+            "PNR - SU Jumpers": 0.11764705882352942,
+            "Post - SU Jumpers": 0.0,
+            "Unknown - SU Jumpers": 0.8529411764705882,
+            "Total Plays": 34
+        },
+        {},
+        {
+            "Iso_to_SpotupDrives": {}
+        },
+        {
+            "Iso_SpotUpJumpers": {
+                "StatDescription": "Efficiency for all Isos leading to secondary Spot up jumpers plays.",
+                "TotalPlays": 1,
+                "Total3ptShots": 1,
+                "Total3ptMakes": 0,
+                "3pt%": 0.0,
+                "Total2ptShots": 0,
+                "Total2ptMakes": 0,
+                "2pt%": "-",
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 0.0,
+                "Turnover": 0,
+                "Foul": 0
+            }
+        },
+        {
+            "Iso_to_SpotupJumpers": {
+                "Brock Bowen": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 1,
+                    "Total3ptMakes": 0,
+                    "3pt%": 0.0,
+                    "Total2ptShots": 0,
+                    "Total2ptMakes": 0,
+                    "2pt%": "-",
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 0.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 1.0
+                }
+            }
+        },
+        {
+            "PNR_SpotUpDrives": {
+                "StatDescription": "Efficiency for all PNRs leading to secondary Spot up drives plays.",
+                "TotalPlays": 4,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 2,
+                "Total2ptMakes": 1,
+                "2pt%": 50.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 50.0,
+                "Turnover": 2,
+                "Foul": 0
+            }
+        },
+        {
+            "PNR_to_SpotupDrives": {
+                "Brock Bowen": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 2,
+                    "Total3ptShots": 0,
+                    "Total3ptMakes": 0,
+                    "3pt%": "-",
+                    "Total2ptShots": 1,
+                    "Total2ptMakes": 1,
+                    "2pt%": 100.0,
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 100.0,
+                    "Turnover": 1,
+                    "Foul": 0,
+                    "playproportion": 0.5
+                },
+                "Brody Brown": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 0,
+                    "Total3ptMakes": 0,
+                    "3pt%": "-",
+                    "Total2ptShots": 0,
+                    "Total2ptMakes": 0,
+                    "2pt%": "-",
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": "-",
+                    "Turnover": 1,
+                    "Foul": 0,
+                    "playproportion": 0.25
+                },
+                "Mark Osime": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 0,
+                    "Total3ptMakes": 0,
+                    "3pt%": "-",
+                    "Total2ptShots": 1,
+                    "Total2ptMakes": 0,
+                    "2pt%": 0.0,
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 0.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.25
+                }
+            }
+        },
+        {
+            "PNR_SpotUpJumpers": {
+                "StatDescription": "Efficiency for all PNRs leading to secondary Spot up jumpers plays.",
+                "TotalPlays": 4,
+                "Total3ptShots": 4,
+                "Total3ptMakes": 2,
+                "3pt%": 50.0,
+                "Total2ptShots": 0,
+                "Total2ptMakes": 0,
+                "2pt%": "-",
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 50.0,
+                "Turnover": 0,
+                "Foul": 0
+            }
+        },
+        {
+            "PNR_to_SpotupJumpers": {
+                "Brock Bowen": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 3,
+                    "Total3ptShots": 3,
+                    "Total3ptMakes": 2,
+                    "3pt%": 66.67,
+                    "Total2ptShots": 0,
+                    "Total2ptMakes": 0,
+                    "2pt%": "-",
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 100.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.75
+                },
+                "Chase Dickens": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 1,
+                    "Total3ptMakes": 0,
+                    "3pt%": 0.0,
+                    "Total2ptShots": 0,
+                    "Total2ptMakes": 0,
+                    "2pt%": "-",
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 0.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.25
+                }
+            }
+        },
+        {
+            "Post_SpotUpDrives": {
+                "StatDescription": "Efficiency for all Post plays leading to secondary Spot up drives plays.",
+                "TotalPlays": 2,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 2,
+                "Total2ptMakes": 2,
+                "2pt%": 100.0,
+                "TotalMidRangeShots": 1,
+                "TotalMidRangeMakes": 1,
+                "MidRange%": 100.0,
+                "EFG%": 100.0,
+                "Turnover": 0,
+                "Foul": 0
+            }
+        },
+        {
+            "Post_to_SpotupDrives": {
+                "Josiah Turner": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 0,
+                    "Total3ptMakes": 0,
+                    "3pt%": "-",
+                    "Total2ptShots": 1,
+                    "Total2ptMakes": 1,
+                    "2pt%": 100.0,
+                    "TotalMidRangeShots": 1,
+                    "TotalMidRangeMakes": 1,
+                    "MidRange%": 100.0,
+                    "EFG%": 100.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.5
+                },
+                "Kenny Wilburn": {
+                    "Player": "Matt-Caggiano",
+                    "TotalPlays": 1,
+                    "Total3ptShots": 0,
+                    "Total3ptMakes": 0,
+                    "3pt%": "-",
+                    "Total2ptShots": 1,
+                    "Total2ptMakes": 1,
+                    "2pt%": 100.0,
+                    "TotalMidRangeShots": 0,
+                    "TotalMidRangeMakes": 0,
+                    "MidRange%": "-",
+                    "EFG%": 100.0,
+                    "Turnover": 0,
+                    "Foul": 0,
+                    "playproportion": 0.5
+                }
+            }
+        },
+        {},
+        {
+            "Post_to_SpotupJumpers": {}
+        },
+        {
+            "SpotUp_Scorer": {
+                "StatDescription": "Efficiency for all Spotup scorer plays together.",
+                "TotalPlays": 79,
+                "Total3ptShots": 33,
+                "Total3ptMakes": 12,
+                "3pt%": 36.36,
+                "Total2ptShots": 35,
+                "Total2ptMakes": 20,
+                "2pt%": 57.14,
+                "TotalMidRangeShots": 14,
+                "TotalMidRangeMakes": 7,
+                "MidRange%": 50.0,
+                "EFG%": 55.88,
+                "Turnover": 6,
+                "Foul": 5
+            }
+        },
+        {
+            "Jumpshot": 0.43037974683544306,
+            "Drive": 0.569620253164557,
+            "Total Plays": 79
+        },
+        {
+            "SpotUp_Jumper": {
+                "StatDescription": "Jumpshot",
+                "TotalPlays": 34,
+                "Total3ptShots": 33,
+                "Total3ptMakes": 12,
+                "3pt%": 36.36,
+                "Total2ptShots": 0,
+                "Total2ptMakes": 0,
+                "2pt%": "-",
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 54.55,
+                "Turnover": 0,
+                "Foul": 1
+            }
+        },
+        {
+            "SpotUp_Drive": {
+                "StatDescription": "Drives",
+                "TotalPlays": 45,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 35,
+                "Total2ptMakes": 20,
+                "2pt%": 57.14,
+                "TotalMidRangeShots": 14,
+                "TotalMidRangeMakes": 7,
+                "MidRange%": 50.0,
+                "EFG%": 48.89,
+                "Turnover": 6,
+                "Foul": 4
+            }
+        },
+        {
+            "SpotUp_LeftDrive": {
+                "StatDescription": "Left Drive",
+                "TotalPlays": 21,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 15,
+                "Total2ptMakes": 9,
+                "2pt%": 60.0,
+                "TotalMidRangeShots": 5,
+                "TotalMidRangeMakes": 3,
+                "MidRange%": 60.0,
+                "EFG%": 60.0,
+                "Turnover": 3,
+                "Foul": 3
+            }
+        },
+        {
+            "SpotUp_RightDrive": {
+                "StatDescription": "Right Drive",
+                "TotalPlays": 19,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 15,
+                "Total2ptMakes": 10,
+                "2pt%": 66.67,
+                "TotalMidRangeShots": 7,
+                "TotalMidRangeMakes": 3,
+                "MidRange%": 42.86,
+                "EFG%": 66.67,
+                "Turnover": 3,
+                "Foul": 1
+            }
+        },
+        {
+            "SpotUp_StraightDrive": {
+                "StatDescription": "Straight Drive",
+                "TotalPlays": 5,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 5,
+                "Total2ptMakes": 1,
+                "2pt%": 20.0,
+                "TotalMidRangeShots": 2,
+                "TotalMidRangeMakes": 1,
+                "MidRange%": 50.0,
+                "EFG%": 20.0,
+                "Turnover": 0,
+                "Foul": 0
+            }
+        }
+    ],
+    "Transition_insights": [
+        {
+            "Ball Handler": 0.5753424657534246,
+            "Leakouts": 0.0410958904109589,
+            "Leftwing": 0.2191780821917808,
+            "Rightwing": 0.1095890410958904,
+            "Trailer": 0.0547945205479452,
+            "Total Plays": 73
+        },
+        {
+            "Transition_Scorer": {
+                "StatDescription": "Efficiency for all transition scorer plays together.",
+                "TotalPlays": 73,
+                "Total3ptShots": 9,
+                "Total3ptMakes": 3,
+                "3pt%": 33.33,
+                "Total2ptShots": 37,
+                "Total2ptMakes": 22,
+                "2pt%": 59.46,
+                "TotalMidRangeShots": 7,
+                "TotalMidRangeMakes": 4,
+                "MidRange%": 57.14,
+                "EFG%": 67.74,
+                "Turnover": 15,
+                "Foul": 11
+            }
+        },
+        {
+            "Transition_BH": {
+                "StatDescription": "Transition BH",
+                "TotalPlays": 42,
+                "Total3ptShots": 1,
+                "Total3ptMakes": 0,
+                "3pt%": 0.0,
+                "Total2ptShots": 20,
+                "Total2ptMakes": 11,
+                "2pt%": 55.0,
+                "TotalMidRangeShots": 4,
+                "TotalMidRangeMakes": 2,
+                "MidRange%": 50.0,
+                "EFG%": 52.38,
+                "Turnover": 11,
+                "Foul": 10
+            }
+        },
+        {
+            "Transition_Leakouts": {
+                "StatDescription": "Transition Leakouts",
+                "TotalPlays": 3,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 2,
+                "Total2ptMakes": 2,
+                "2pt%": 100.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 100.0,
+                "Turnover": 0,
+                "Foul": 0
+            }
+        },
+        {
+            "Transition_LeftWing": {
+                "StatDescription": "Transition Left Wing",
+                "TotalPlays": 16,
+                "Total3ptShots": 1,
+                "Total3ptMakes": 1,
+                "3pt%": 100.0,
+                "Total2ptShots": 11,
+                "Total2ptMakes": 5,
+                "2pt%": 45.45,
+                "TotalMidRangeShots": 2,
+                "TotalMidRangeMakes": 1,
+                "MidRange%": 50.0,
+                "EFG%": 54.17,
+                "Turnover": 3,
+                "Foul": 1
+            }
+        },
+        {
+            "Transition_RightWing": {
+                "StatDescription": "Transition Right Wing",
+                "TotalPlays": 8,
+                "Total3ptShots": 3,
+                "Total3ptMakes": 0,
+                "3pt%": 0.0,
+                "Total2ptShots": 4,
+                "Total2ptMakes": 4,
+                "2pt%": 100.0,
+                "TotalMidRangeShots": 1,
+                "TotalMidRangeMakes": 1,
+                "MidRange%": 100.0,
+                "EFG%": 57.14,
+                "Turnover": 1,
+                "Foul": 0
+            }
+        },
+        {
+            "Transition_Trailer": {
+                "StatDescription": "Transition Trailer",
+                "TotalPlays": 4,
+                "Total3ptShots": 4,
+                "Total3ptMakes": 2,
+                "3pt%": 50.0,
+                "Total2ptShots": 0,
+                "Total2ptMakes": 0,
+                "2pt%": "-",
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 75.0,
+                "Turnover": 0,
+                "Foul": 0
+            }
+        }
+    ],
+    "Offscreen_insights": [
+        {
+            "OffScreen_Scorer": {
+                "StatDescription": "Efficiency for all Off Screen scorer plays together.",
+                "TotalPlays": 13,
+                "Total3ptShots": 3,
+                "Total3ptMakes": 0,
+                "3pt%": 0.0,
+                "Total2ptShots": 9,
+                "Total2ptMakes": 4,
+                "2pt%": 44.44,
+                "TotalMidRangeShots": 2,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": 0.0,
+                "EFG%": 33.33,
+                "Turnover": 1,
+                "Foul": 0
+            }
+        },
+        {
+            "Off Screen Left Shoulder": 0.23076923076923078,
+            "Off Screen Right Shoulder": 0.7692307692307693,
+            "Total Plays": 13
+        },
+        {
+            "OffScreen_LeftShoulder": {
+                "StatDescription": "Off Screens Left",
+                "TotalPlays": 3,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 3,
+                "Total2ptMakes": 1,
+                "2pt%": 33.33,
+                "TotalMidRangeShots": 1,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": 0.0,
+                "EFG%": 33.33,
+                "Turnover": 0,
+                "Foul": 0
+            }
+        },
+        {
+            "OffScreen_RightShoulder": {
+                "StatDescription": "Off Screens Right",
+                "TotalPlays": 10,
+                "Total3ptShots": 3,
+                "Total3ptMakes": 0,
+                "3pt%": 0.0,
+                "Total2ptShots": 6,
+                "Total2ptMakes": 3,
+                "2pt%": 50.0,
+                "TotalMidRangeShots": 1,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": 0.0,
+                "EFG%": 33.33,
+                "Turnover": 1,
+                "Foul": 0
+            }
+        },
+        {
+            "Flare": {
+                "StatDescription": "Off Screens Flare",
+                "TotalPlays": 3,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 3,
+                "Total2ptMakes": 1,
+                "2pt%": 33.33,
+                "TotalMidRangeShots": 1,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": 0.0,
+                "EFG%": 33.33,
+                "Turnover": 0,
+                "Foul": 0
+            }
+        },
+        {
+            "Straight": {
+                "StatDescription": "Off Screens Straight",
+                "TotalPlays": 9,
+                "Total3ptShots": 3,
+                "Total3ptMakes": 0,
+                "3pt%": 0.0,
+                "Total2ptShots": 5,
+                "Total2ptMakes": 3,
+                "2pt%": 60.0,
+                "TotalMidRangeShots": 1,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": 0.0,
+                "EFG%": 37.5,
+                "Turnover": 1,
+                "Foul": 0
+            }
+        },
+        {
+            "Curl": {
+                "StatDescription": "Off Screens Curl",
+                "TotalPlays": 1,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 1,
+                "Total2ptMakes": 0,
+                "2pt%": 0.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 0.0,
+                "Turnover": 0,
+                "Foul": 0
+            }
+        },
+        {},
+        {
+            "LeftShoulder_Straight": {
+                "StatDescription": "Off Screens Left --> Straight",
+                "TotalPlays": 1,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 1,
+                "Total2ptMakes": 1,
+                "2pt%": 100.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 100.0,
+                "Turnover": 0,
+                "Foul": 0
+            }
+        },
+        {
+            "LeftShoulder_Curl": {
+                "StatDescription": "Off Screens Left --> Curl",
+                "TotalPlays": 1,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 1,
+                "Total2ptMakes": 0,
+                "2pt%": 0.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 0.0,
+                "Turnover": 0,
+                "Foul": 0
+            }
+        },
+        {
+            "RightShoulder_Flare": {
+                "StatDescription": "Off Screens Right --> Flare",
+                "TotalPlays": 2,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 2,
+                "Total2ptMakes": 1,
+                "2pt%": 50.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 50.0,
+                "Turnover": 0,
+                "Foul": 0
+            }
+        },
+        {
+            "RightShoulder_Straight": {
+                "StatDescription": "Off Screens Right --> Straight",
+                "TotalPlays": 8,
+                "Total3ptShots": 3,
+                "Total3ptMakes": 0,
+                "3pt%": 0.0,
+                "Total2ptShots": 4,
+                "Total2ptMakes": 2,
+                "2pt%": 50.0,
+                "TotalMidRangeShots": 1,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": 0.0,
+                "EFG%": 28.57,
+                "Turnover": 1,
+                "Foul": 0
+            }
+        },
+        {}
+    ],
+    "Iso_insights": [
+        {
+            "Pass ISO Cut": 0.2,
+            "Pass ISO Spotup Drive": 0.2,
+            "Pass ISO Spotup Jumper": 0.6,
+            "Total Plays": 10
+        },
+        {
+            "Total_Iso_Passer": {
+                "StatDescription": "Efficiency for all ISO secondary plays together.",
+                "TotalPlays": 10,
+                "Total3ptShots": 6,
+                "Total3ptMakes": 3,
+                "3pt%": 50.0,
+                "Total2ptShots": 4,
+                "Total2ptMakes": 3,
+                "2pt%": 75.0,
+                "TotalMidRangeShots": 1,
+                "TotalMidRangeMakes": 1,
+                "MidRange%": 100.0,
+                "EFG%": 81.25,
+                "Turnover": 0,
+                "Foul": 0
+            }
+        },
+        {
+            "Jackson Otis": {
+                "Player": "Matt-Caggiano",
+                "TotalPlays": 1,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 1,
+                "Total2ptMakes": 1,
+                "2pt%": 100.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 100.0,
+                "Turnover": 0,
+                "Foul": 0,
+                "playproportion": 0.5
+            },
+            "Keegan Ocorr": {
+                "Player": "Matt-Caggiano",
+                "TotalPlays": 1,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 1,
+                "Total2ptMakes": 1,
+                "2pt%": 100.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 100.0,
+                "Turnover": 0,
+                "Foul": 0,
+                "playproportion": 0.5
+            }
+        },
+        {
+            "Brandon Weiss": {
+                "Player": "Matt-Caggiano",
+                "TotalPlays": 1,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 1,
+                "Total2ptMakes": 0,
+                "2pt%": 0.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 0.0,
+                "Turnover": 0,
+                "Foul": 0,
+                "playproportion": 0.5
+            },
+            "Mark Osime": {
+                "Player": "Matt-Caggiano",
+                "TotalPlays": 1,
+                "Total3ptShots": 1,
+                "Total3ptMakes": 0,
+                "3pt%": 0.0,
+                "Total2ptShots": 0,
+                "Total2ptMakes": 0,
+                "2pt%": "-",
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 0.0,
+                "Turnover": 0,
+                "Foul": 0,
+                "playproportion": 0.5
+            }
+        },
+        {
+            "Brandon Weiss": {
+                "Player": "Matt-Caggiano",
+                "TotalPlays": 1,
+                "Total3ptShots": 1,
+                "Total3ptMakes": 1,
+                "3pt%": 100.0,
+                "Total2ptShots": 0,
+                "Total2ptMakes": 0,
+                "2pt%": "-",
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 150.0,
+                "Turnover": 0,
+                "Foul": 0,
+                "playproportion": 0.17
+            },
+            "Brock Bowen": {
+                "Player": "Matt-Caggiano",
+                "TotalPlays": 3,
+                "Total3ptShots": 3,
+                "Total3ptMakes": 1,
+                "3pt%": 33.33,
+                "Total2ptShots": 0,
+                "Total2ptMakes": 0,
+                "2pt%": "-",
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 50.0,
+                "Turnover": 0,
+                "Foul": 0,
+                "playproportion": 0.5
+            },
+            "Chase Dickens": {
+                "Player": "Matt-Caggiano",
+                "TotalPlays": 1,
+                "Total3ptShots": 1,
+                "Total3ptMakes": 1,
+                "3pt%": 100.0,
+                "Total2ptShots": 0,
+                "Total2ptMakes": 0,
+                "2pt%": "-",
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 150.0,
+                "Turnover": 0,
+                "Foul": 0,
+                "playproportion": 0.17
+            },
+            "Jackson Otis": {
+                "Player": "Matt-Caggiano",
+                "TotalPlays": 1,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 1,
+                "Total2ptMakes": 1,
+                "2pt%": 100.0,
+                "TotalMidRangeShots": 1,
+                "TotalMidRangeMakes": 1,
+                "MidRange%": 100.0,
+                "EFG%": 100.0,
+                "Turnover": 0,
+                "Foul": 0,
+                "playproportion": 0.17
+            }
+        },
+        {
+            "Iso_Scorer": {
+                "StatDescription": "Efficiency for all Iso scorer plays together.",
+                "TotalPlays": 19,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 14,
+                "Total2ptMakes": 7,
+                "2pt%": 50.0,
+                "TotalMidRangeShots": 4,
+                "TotalMidRangeMakes": 3,
+                "MidRange%": 75.0,
+                "EFG%": 50.0,
+                "Turnover": 1,
+                "Foul": 4
+            }
+        },
+        {
+            "Iso Left": 0.21052631578947367,
+            "Iso Right": 0.42105263157894735,
+            "Iso Top": 0.3684210526315789,
+            "Total Plays": 19
+        },
+        {
+            "Iso_Left": {
+                "StatDescription": "Efficiency for all Iso scorers going Left.",
+                "TotalPlays": 4,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 3,
+                "Total2ptMakes": 2,
+                "2pt%": 66.67,
+                "TotalMidRangeShots": 1,
+                "TotalMidRangeMakes": 1,
+                "MidRange%": 100.0,
+                "EFG%": 66.67,
+                "Turnover": 0,
+                "Foul": 1
+            }
+        },
+        {
+            "Iso_Right": {
+                "StatDescription": "Efficiency for all Iso scorers going Right.",
+                "TotalPlays": 8,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 5,
+                "Total2ptMakes": 3,
+                "2pt%": 60.0,
+                "TotalMidRangeShots": 2,
+                "TotalMidRangeMakes": 1,
+                "MidRange%": 50.0,
+                "EFG%": 60.0,
+                "Turnover": 1,
+                "Foul": 2
+            }
+        },
+        {
+            "Iso_Top": {
+                "StatDescription": "Efficiency for all Iso scorers from Top.",
+                "TotalPlays": 7,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 6,
+                "Total2ptMakes": 2,
+                "2pt%": 33.33,
+                "TotalMidRangeShots": 1,
+                "TotalMidRangeMakes": 1,
+                "MidRange%": 100.0,
+                "EFG%": 33.33,
+                "Turnover": 0,
+                "Foul": 1
+            }
+        }
+    ],
+    "Rollman_insights": [
+        {},
+        {
+            "Rollman Slip": 0,
+            "Rollman Roll": 0,
+            "Rollman Pop": 0,
+            "Total Plays": 0
+        },
+        {},
+        {},
+        {},
+        {
+            "Rollman Slip - Left": 0,
+            "Rollman Slip - Right": 0,
+            "Total Plays": 0
+        },
+        {},
+        {},
+        {},
+        {
+            "Rollman Pop - Left": 0,
+            "Rollman Pop - Right": 0,
+            "Total Plays": 0
+        },
+        {},
+        {},
+        {
+            "PNR_to_Rollman": {}
+        },
+        {
+            "PNR_to_RollmanSlip": {}
+        },
+        {
+            "PNR_to_RollmanPop": {}
+        },
+        {
+            "PNR_to_RollmanRoll": {}
+        }
+    ]
+}

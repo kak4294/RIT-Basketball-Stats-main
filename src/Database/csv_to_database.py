@@ -128,7 +128,7 @@ def main():
             for csv_file in sys.argv[1:]:
                 # Process each csv path
                 csv_file = 'cleaned_' + csv_file
-                file_path = os.path.join('Data-Database/RIT/RIT_clean_csv', csv_file)
+                file_path = os.path.join('/Users/kylekrebs/Documents/RIT-Basketball-Stats-main/data/2023_24/cleaned/cleaned_game_csv/RIT_clean_csv', csv_file)
                 data = read_csv(file_path)
                 insert_into_db(conn, data)
             

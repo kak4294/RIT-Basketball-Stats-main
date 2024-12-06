@@ -1,0 +1,166 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Logan Jagodzinski,Rochester (NY) Yellowjackets,3,0,0,,3,3,100.0,0,0,,100.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,3,0,0,,3,3,100.0,0,0,,100.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,2,0,0,,2,0,0.0,0,0,,0.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Mitchell Kershner,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,1.0,0.0,player_cut_basket_efficiency.csv,,
+Matt Niemczura,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+David Ackles,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,4,0,0,,4,4,100.0,0,0,,100.0,0.0,0.0,player_cut_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,3,0,0,,3,3,100.0,0,0,,100.0,0.0,0.0,player_cut_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,2,0,0,,2,0,0.0,0,0,,0.0,0.0,0.0,player_cut_efficiency.csv,,
+Matt Niemczura,Rochester (NY) Yellowjackets,2,0,0,,1,1,100.0,0,0,,100.0,1.0,0.0,player_cut_efficiency.csv,,
+Mitchell Kershner,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,1.0,0.0,player_cut_efficiency.csv,,
+Corvin Oprea,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_efficiency.csv,,
+David Ackles,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_flash_efficiency.csv,,
+Corvin Oprea,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_flash_efficiency.csv,,
+Matt Niemczura,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,1.0,0.0,player_cut_flash_efficiency.csv,,
+Mitchell Kershner,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_bhleft_dribble_efficiency.csv,,
+Mitchell Kershner,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_bhleft_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_handoffs_bhright_dribble_efficiency.csv,,
+Corvin Oprea,Rochester (NY) Yellowjackets,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_handoffs_bhright_dribble_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,1,1,100.0,100.0,0.0,0.0,player_handoffs_bhright_efficiency.csv,,
+Corvin Oprea,Rochester (NY) Yellowjackets,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_handoffs_bhright_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,2,0,0,,2,1,50.0,2,1,50.0,50.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Mitchell Kershner,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Corvin Oprea,Rochester (NY) Yellowjackets,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,2,0,0,,2,1,50.0,2,1,50.0,50.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Mitchell Kershner,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Corvin Oprea,Rochester (NY) Yellowjackets,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_handoffs_top_dribble_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_top_dribble_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_handoffs_top_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_top_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_iso_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_iso_top_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,2,0,0,,0,0,,0,0,,,2.0,0.0,player_misc_efficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,1.0,0.0,player_misc_efficiency.csv,,
+Matt Niemczura,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_misc_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,0.0,1.0,player_misc_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,3,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_efficiency.csv,,
+Matt Niemczura,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_offscreens_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_flare_efficiency.csv,,
+Matt Niemczura,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_offscreens_flare_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,3,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_leftshoulder_efficiency.csv,,
+Matt Niemczura,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_offscreens_leftshoulder_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,0.0,0.0,player_offscreens_leftshoulder_straight_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,0.0,0.0,player_offscreens_straight_efficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,4,0,0,,4,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhhigh_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,2,0,0,,2,1,50.0,2,1,50.0,50.0,0.0,0.0,player_pnr_bhhigh_efficiency.csv,,
+Jack Garside,Rochester (NY) Yellowjackets,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_pnr_bhhigh_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_pnr_bhhigh_efficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,3,0,0,,3,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,2,0,0,,2,1,50.0,2,1,50.0,50.0,0.0,0.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Jack Garside,Rochester (NY) Yellowjackets,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhhigh_rejectpick_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhleft_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_pnr_bhleft_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhleft_offpick_efficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_pnr_bhright_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_bhright_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhright_efficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_pnr_bhright_offpick_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_pnr_bhright_offpick_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_bhright_offpick_efficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,5,0,0,,5,1,20.0,0,0,,20.0,0.0,0.0,player_pnr_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,4,1,0,0.0,3,1,33.3333,2,1,50.0,25.0,0.0,0.0,player_pnr_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,3,2,2,100.0,1,0,0.0,0,0,,100.0,0.0,0.0,player_pnr_efficiency.csv,,
+Jack Garside,Rochester (NY) Yellowjackets,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_pnr_efficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,4,0,0,,4,1,25.0,0,0,,25.0,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,4,1,0,0.0,3,1,33.3333,2,1,50.0,25.0,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,2,1,1,100.0,1,0,0.0,0,0,,75.0,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Jack Garside,Rochester (NY) Yellowjackets,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_pnr_offpick_efficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_pnr_rejectpick_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_leftshoulder_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_rightblock_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_post_rightblock_leftshoulder_efficiency.csv,,
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Tomiwa Adetosoye,Matt Wiele
+,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_efficiency.csv,Malachi Moore,Matt Wiele
+,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,0.0,1.0,player_rollman_efficiency.csv,Jack Garside,David Ackles
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_pop_efficiency.csv,Tomiwa Adetosoye,Matt Wiele
+,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_pop_efficiency.csv,Malachi Moore,Matt Wiele
+,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,0.0,1.0,player_rollman_roll_efficiency.csv,Jack Garside,David Ackles
+Corvin Oprea,Rochester (NY) Yellowjackets,2,0,0,,2,0,0.0,0,0,,0.0,0.0,0.0,player_spotup_drive_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,2,0,0,,2,0,0.0,0,0,,0.0,0.0,0.0,player_spotup_drive_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,4,2,0,0.0,2,0,0.0,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Corvin Oprea,Rochester (NY) Yellowjackets,3,1,0,0.0,2,0,0.0,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Matt Niemczura,Rochester (NY) Yellowjackets,3,3,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Mitchell Kershner,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_efficiency.csv,,
+Matt Niemczura,Rochester (NY) Yellowjackets,3,3,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Mitchell Kershner,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Corvin Oprea,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Corvin Oprea,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,2,0,0,,2,0,0.0,0,0,,0.0,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Corvin Oprea,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,3,0,0,,0,0,,0,0,,,1.0,2.0,player_transition_bh_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,3,0,0,,2,2,100.0,1,1,100.0,100.0,1.0,0.0,player_transition_bh_efficiency.csv,,
+Matt Niemczura,Rochester (NY) Yellowjackets,2,0,0,,1,0,0.0,0,0,,0.0,0.0,1.0,player_transition_bh_efficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,2,0,0,,0,0,,0,0,,,2.0,0.0,player_transition_bh_efficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,player_transition_bh_efficiency.csv,,
+Mitchell Kershner,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_transition_bh_efficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,,,player_transition_leakouts_efficiency.csv,,
+Matt Niemczura,Rochester (NY) Yellowjackets,3,1,0,0.0,1,1,100.0,0,0,,50.0,0.0,1.0,player_transition_rightwing_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,2,1,1,100.0,1,1,100.0,1,1,100.0,125.0,0.0,0.0,player_transition_rightwing_efficiency.csv,,
+Corvin Oprea,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_transition_rightwing_efficiency.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,23,7,3,42.8571,12,8,66.6667,3,2,66.6667,65.78947,3.0,0.0,playerefficiency.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,14,2,0,0.0,10,4,40.0,5,3,60.0,33.33333,1.0,1.0,playerefficiency.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,13,2,0,0.0,7,6,85.7143,0,0,,66.66667,2.0,2.0,playerefficiency.csv,,
+Matt Niemczura,Rochester (NY) Yellowjackets,12,4,0,0.0,5,2,40.0,0,0,,22.22222,1.0,2.0,playerefficiency.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,11,1,0,0.0,7,3,42.8571,0,0,,37.5,3.0,0.0,playerefficiency.csv,,
+Corvin Oprea,Rochester (NY) Yellowjackets,6,2,1,50.0,4,2,50.0,0,0,,58.33333,0.0,0.0,playerefficiency.csv,,
+Mitchell Kershner,Rochester (NY) Yellowjackets,4,2,0,0.0,1,0,0.0,0,0,,0.0,1.0,0.0,playerefficiency.csv,,
+Jack Garside,Rochester (NY) Yellowjackets,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,playerefficiency.csv,,
+David Ackles,Rochester (NY) Yellowjackets,2,0,0,,1,1,100.0,0,0,,100.0,0.0,1.0,playerefficiency.csv,,
+Mitchell Kershner,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,playerefficiencyleft.csv,,
+Corvin Oprea,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,playerefficiencyleft.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,playerefficiencyleft.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,playerefficiencyleft.csv,,
+Matt Wiele,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,playerefficiencyleft.csv,,
+Logan Jagodzinski,Rochester (NY) Yellowjackets,6,2,0,0.0,3,0,0.0,0,0,,0.0,0.0,0.0,playerefficiencyright.csv,,
+Malachi Moore,Rochester (NY) Yellowjackets,2,1,0,0.0,1,1,100.0,1,1,100.0,50.0,0.0,0.0,playerefficiencyright.csv,,
+Corvin Oprea,Rochester (NY) Yellowjackets,2,1,1,100.0,1,0,0.0,0,0,,75.0,0.0,0.0,playerefficiencyright.csv,,
+Matt Niemczura,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,playerefficiencyright.csv,,
+Tomiwa Adetosoye,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,playerefficiencyright.csv,,
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_bhhigh_rollmanpops_efficiency.csv,Tomiwa Adetosoye,Matt Wiele
+,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_bhhigh_rollmanpops_efficiency.csv,Malachi Moore,Matt Wiele
+,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_cut_efficiency.csv,Jack Garside,Logan Jagodzinski
+,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Jack Garside,Logan Jagodzinski
+,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Tomiwa Adetosoye,Corvin Oprea
+,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Jack Garside,Logan Jagodzinski
+,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Tomiwa Adetosoye,Corvin Oprea
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Tomiwa Adetosoye,Malachi Moore
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Logan Jagodzinski,Corvin Oprea
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Tomiwa Adetosoye,Logan Jagodzinski
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Tomiwa Adetosoye,Matt Niemczura
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Matt Wiele,Matt Niemczura
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Mitchell Kershner,Matt Wiele
+,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_cuts_efficiency.csv,Jack Garside,Logan Jagodzinski
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Tomiwa Adetosoye,Matt Wiele
+,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Malachi Moore,Matt Wiele
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Tomiwa Adetosoye,Matt Wiele
+,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Malachi Moore,Matt Wiele
+,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Jack Garside,Logan Jagodzinski
+,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Tomiwa Adetosoye,Corvin Oprea
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Logan Jagodzinski,Corvin Oprea
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Tomiwa Adetosoye,Matt Niemczura
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupjumper_efficiency.csv,Tomiwa Adetosoye,Logan Jagodzinski
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupjumper_efficiency.csv,Tomiwa Adetosoye,Malachi Moore
+,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnrbhright_rollman_efficiency.csv,Jack Garside,David Ackles
+,Rochester (NY) Yellowjackets,1,0,0,,0,0,,0,0,,,0.0,1.0,twoplayer_pnrbhright_rollmanrolls_efficiency.csv,Jack Garside,David Ackles
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Matt Wiele,Matt Niemczura
+,Rochester (NY) Yellowjackets,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_spotupjumper_efficiency.csv,Mitchell Kershner,Matt Wiele
+,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_post_cut_efficiency.csv,Matt Wiele,David Ackles
+,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_post_cut_efficiency.csv,C.J. Amsellem,Matt Wiele
+,Rochester (NY) Yellowjackets,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_post_cut_efficiency.csv,C.J. Amsellem,Logan Jagodzinski
+,Rochester (NY) Yellowjackets,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_post_cut_efficiency.csv,C.J. Amsellem,Malachi Moore

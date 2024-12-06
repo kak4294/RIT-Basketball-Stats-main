@@ -1,0 +1,250 @@
+Player,Team,TotalPlays,Total3ptShots,Total3ptMakes,3pt%,Total2ptShots,Total2ptMakes,2pt%,TotalMidRangeShots,TotalMidRangeMakes,MidRange%,EFG%,Turnover,Foul,SourceFile,PrimaryPlayer,SecondaryPlayer
+Nathan Denham,Vassar Brewers,7,0,0,,5,4,80.0,0,0,,80.0,0.0,2.0,player_cut_basket_efficiency.csv,,
+Case Parsons,Vassar Brewers,4,0,0,,3,1,33.3333,0,0,,33.33333,1.0,0.0,player_cut_basket_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,3,0,0,,3,2,66.6667,0,0,,66.66667,0.0,0.0,player_cut_basket_efficiency.csv,,
+Logan Scott,Vassar Brewers,2,0,0,,1,0,0.0,0,0,,0.0,0.0,1.0,player_cut_basket_efficiency.csv,,
+Devyn Benson,Vassar Brewers,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Kreekor Karageuzian,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Avery Lee,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_basket_efficiency.csv,,
+Nathan Denham,Vassar Brewers,8,0,0,,6,4,66.6667,0,0,,66.66667,0.0,2.0,player_cut_efficiency.csv,,
+Case Parsons,Vassar Brewers,4,0,0,,3,1,33.3333,0,0,,33.33333,1.0,0.0,player_cut_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,3,0,0,,3,2,66.6667,0,0,,66.66667,0.0,0.0,player_cut_efficiency.csv,,
+Logan Scott,Vassar Brewers,2,0,0,,1,0,0.0,0,0,,0.0,0.0,1.0,player_cut_efficiency.csv,,
+Devyn Benson,Vassar Brewers,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_cut_efficiency.csv,,
+Kreekor Karageuzian,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_cut_efficiency.csv,,
+Avery Lee,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_cut_efficiency.csv,,
+Nathan Denham,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_cut_screen_efficiency.csv,,
+Alex Walters,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_bhright_dribble_efficiency.csv,,
+Alex Walters,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_bhright_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,2,1,1,100.0,0,0,,0,0,,150.0,1.0,0.0,player_handoffs_dribble_efficiency.csv,,
+JP Miranda,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Alex Walters,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_dribble_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,3,1,1,100.0,1,1,100.0,0,0,,125.0,1.0,0.0,player_handoffs_efficiency.csv,,
+JP Miranda,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Alex Walters,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_handoffs_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_handoffs_stationary_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,2,1,1,100.0,0,0,,0,0,,150.0,1.0,0.0,player_handoffs_top_dribble_efficiency.csv,,
+JP Miranda,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_top_dribble_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,3,1,1,100.0,1,1,100.0,0,0,,125.0,1.0,0.0,player_handoffs_top_efficiency.csv,,
+JP Miranda,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_handoffs_top_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_handoffs_top_stationary_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,2,0,0,,2,0,0.0,1,0,0.0,0.0,0.0,0.0,player_iso_efficiency.csv,,
+Kreekor Karageuzian,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_iso_efficiency.csv,,
+Luke Adams,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_iso_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_iso_right_efficiency.csv,,
+Luke Adams,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_iso_right_efficiency.csv,,
+Kreekor Karageuzian,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_iso_top_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_iso_top_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,4,0,0,,0,0,,0,0,,,2.0,2.0,player_misc_efficiency.csv,,
+Sebastian Medina,Vassar Brewers,2,0,0,,2,0,0.0,0,0,,0.0,0.0,0.0,player_misc_efficiency.csv,,
+Nathan Denham,Vassar Brewers,2,0,0,,0,0,,0,0,,,1.0,1.0,player_misc_efficiency.csv,,
+Case Parsons,Vassar Brewers,2,0,0,,0,0,,0,0,,,2.0,0.0,player_misc_efficiency.csv,,
+Logan Scott,Vassar Brewers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_misc_efficiency.csv,,
+Devyn Benson,Vassar Brewers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_misc_efficiency.csv,,
+JP Miranda,Vassar Brewers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_misc_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,2,1,0,0.0,0,0,,0,0,,0.0,0.0,1.0,player_offscreens_efficiency.csv,,
+Alex Walters,Vassar Brewers,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_efficiency.csv,,
+Avery Lee,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_offscreens_efficiency.csv,,
+Alex Walters,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_flare_efficiency.csv,,
+Avery Lee,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_offscreens_leftshoulder_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,1,0,0,,0,0,,0,0,,,0.0,1.0,player_offscreens_leftshoulder_efficiency.csv,,
+Avery Lee,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_offscreens_leftshoulder_straight_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,1,0,0,,0,0,,0,0,,,0.0,1.0,player_offscreens_leftshoulder_straight_efficiency.csv,,
+Alex Walters,Vassar Brewers,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_rightshoulder_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_rightshoulder_efficiency.csv,,
+Alex Walters,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_rightshoulder_flare_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_rightshoulder_straight_efficiency.csv,,
+Alex Walters,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_rightshoulder_straight_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,2,1,0,0.0,0,0,,0,0,,0.0,0.0,1.0,player_offscreens_straight_efficiency.csv,,
+Alex Walters,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_offscreens_straight_efficiency.csv,,
+Avery Lee,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_offscreens_straight_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,3,0,0,,2,2,100.0,0,0,,100.0,0.0,1.0,player_pnr_bhhigh_efficiency.csv,,
+Avery Lee,Vassar Brewers,3,0,0,,3,2,66.6667,0,0,,66.66667,0.0,0.0,player_pnr_bhhigh_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,2,0,0,,1,1,100.0,0,0,,100.0,0.0,1.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Avery Lee,Vassar Brewers,2,0,0,,2,1,50.0,0,0,,50.0,0.0,0.0,player_pnr_bhhigh_offpick_efficiency.csv,,
+Avery Lee,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_pnr_bhhigh_rejectpick_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_pnr_bhhigh_rejectpick_efficiency.csv,,
+Avery Lee,Vassar Brewers,3,0,0,,2,0,0.0,1,0,0.0,0.0,1.0,0.0,player_pnr_bhleft_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,2,0,0,,0,0,,0,0,,,1.0,1.0,player_pnr_bhleft_efficiency.csv,,
+Avery Lee,Vassar Brewers,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,player_pnr_bhleft_offpick_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,2,0,0,,0,0,,0,0,,,1.0,1.0,player_pnr_bhleft_offpick_efficiency.csv,,
+Avery Lee,Vassar Brewers,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,player_pnr_bhleft_rejectpick_efficiency.csv,,
+Avery Lee,Vassar Brewers,2,0,0,,0,0,,0,0,,,1.0,1.0,player_pnr_bhright_efficiency.csv,,
+JP Miranda,Vassar Brewers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_pnr_bhright_efficiency.csv,,
+Avery Lee,Vassar Brewers,2,0,0,,0,0,,0,0,,,1.0,1.0,player_pnr_bhright_offpick_efficiency.csv,,
+JP Miranda,Vassar Brewers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_pnr_bhright_offpick_efficiency.csv,,
+Avery Lee,Vassar Brewers,8,0,0,,5,2,40.0,1,0,0.0,40.0,2.0,1.0,player_pnr_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,5,0,0,,2,2,100.0,0,0,,100.0,1.0,2.0,player_pnr_efficiency.csv,,
+JP Miranda,Vassar Brewers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_pnr_efficiency.csv,,
+Avery Lee,Vassar Brewers,6,0,0,,3,1,33.3333,0,0,,33.33333,2.0,1.0,player_pnr_offpick_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,4,0,0,,1,1,100.0,0,0,,100.0,1.0,2.0,player_pnr_offpick_efficiency.csv,,
+JP Miranda,Vassar Brewers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_pnr_offpick_efficiency.csv,,
+Avery Lee,Vassar Brewers,2,0,0,,2,1,50.0,1,0,0.0,50.0,0.0,0.0,player_pnr_rejectpick_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_pnr_rejectpick_efficiency.csv,,
+Case Parsons,Vassar Brewers,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,player_post_efficiency.csv,,
+Devyn Benson,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_efficiency.csv,,
+Logan Scott,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_efficiency.csv,,
+Case Parsons,Vassar Brewers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_post_leftblock_efficiency.csv,,
+Devyn Benson,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_leftblock_efficiency.csv,,
+Devyn Benson,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_leftblock_leftshoulder_efficiency.csv,,
+Devyn Benson,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_leftshoulder_efficiency.csv,,
+Case Parsons,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_leftshoulder_efficiency.csv,,
+Logan Scott,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_leftshoulder_efficiency.csv,,
+Case Parsons,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_rightblock_efficiency.csv,,
+Logan Scott,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_rightblock_efficiency.csv,,
+Case Parsons,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_rightblock_leftshoulder_efficiency.csv,,
+Logan Scott,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_post_rightblock_leftshoulder_efficiency.csv,,
+,Vassar Brewers,2,0,0,,2,2,100.0,0,0,,100.0,0.0,0.0,player_rollman_efficiency.csv,JP Miranda,Nathan Denham
+,Vassar Brewers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_rollman_efficiency.csv,JP Miranda,Alex Walters
+,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Shea Fitzgerald,Alex Walters
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_rollman_efficiency.csv,Luke Adams,Case Parsons
+,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Shea Fitzgerald,Nathan Denham
+,Vassar Brewers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_efficiency.csv,Avery Lee,Logan Scott
+,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,JP Miranda,Logan Scott
+,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_efficiency.csv,Luke Adams,Nathan Denham
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_rollman_efficiency.csv,Kreekor Karageuzian,Case Parsons
+,Vassar Brewers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_rollman_pop_efficiency.csv,JP Miranda,Alex Walters
+,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_rollman_pop_efficiency.csv,Shea Fitzgerald,Alex Walters
+,Vassar Brewers,2,0,0,,2,2,100.0,0,0,,100.0,0.0,0.0,player_rollman_roll_efficiency.csv,JP Miranda,Nathan Denham
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_rollman_roll_efficiency.csv,Luke Adams,Case Parsons
+,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_roll_efficiency.csv,Shea Fitzgerald,Nathan Denham
+,Vassar Brewers,1,0,0,,0,0,,0,0,,,1.0,0.0,player_rollman_roll_efficiency.csv,Avery Lee,Logan Scott
+,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_roll_efficiency.csv,JP Miranda,Logan Scott
+,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_rollman_slip_efficiency.csv,Luke Adams,Nathan Denham
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_rollman_slip_efficiency.csv,Kreekor Karageuzian,Case Parsons
+JP Miranda,Vassar Brewers,10,0,0,,10,4,40.0,2,0,0.0,40.0,0.0,0.0,player_spotup_drive_efficiency.csv,,
+Avery Lee,Vassar Brewers,5,0,0,,4,0,0.0,1,0,0.0,0.0,0.0,1.0,player_spotup_drive_efficiency.csv,,
+Sebastian Medina,Vassar Brewers,3,0,0,,2,1,50.0,0,0,,50.0,1.0,0.0,player_spotup_drive_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,3,0,0,,3,2,66.6667,1,0,0.0,66.66667,0.0,0.0,player_spotup_drive_efficiency.csv,,
+Kreekor Karageuzian,Vassar Brewers,2,0,0,,1,0,0.0,1,0,0.0,0.0,1.0,0.0,player_spotup_drive_efficiency.csv,,
+Luke Adams,Vassar Brewers,2,1,1,100.0,1,0,0.0,1,0,0.0,75.0,0.0,0.0,player_spotup_drive_efficiency.csv,,
+Nathan Denham,Vassar Brewers,2,0,0,,1,0,0.0,1,0,0.0,0.0,1.0,0.0,player_spotup_drive_efficiency.csv,,
+JP Miranda,Vassar Brewers,13,3,2,66.6667,10,4,40.0,2,0,0.0,53.84615,0.0,0.0,player_spotup_efficiency.csv,,
+Avery Lee,Vassar Brewers,10,5,1,20.0,4,0,0.0,1,0,0.0,16.66667,0.0,1.0,player_spotup_efficiency.csv,,
+Luke Adams,Vassar Brewers,8,7,3,42.8571,1,0,0.0,1,0,0.0,56.25,0.0,0.0,player_spotup_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,8,4,1,25.0,4,2,50.0,2,0,0.0,43.75,0.0,0.0,player_spotup_efficiency.csv,,
+Nathan Denham,Vassar Brewers,5,3,1,33.3333,1,0,0.0,1,0,0.0,37.5,1.0,0.0,player_spotup_efficiency.csv,,
+Sebastian Medina,Vassar Brewers,3,0,0,,2,1,50.0,0,0,,50.0,1.0,0.0,player_spotup_efficiency.csv,,
+Kreekor Karageuzian,Vassar Brewers,2,0,0,,1,0,0.0,1,0,0.0,0.0,1.0,0.0,player_spotup_efficiency.csv,,
+Alex Walters,Vassar Brewers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_spotup_efficiency.csv,,
+Luke Adams,Vassar Brewers,6,6,2,33.3333,0,0,,0,0,,50.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Avery Lee,Vassar Brewers,5,5,1,20.0,0,0,,0,0,,30.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,5,4,1,25.0,1,0,0.0,1,0,0.0,30.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Nathan Denham,Vassar Brewers,3,3,1,33.3333,0,0,,0,0,,50.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+JP Miranda,Vassar Brewers,3,3,2,66.6667,0,0,,0,0,,100.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+Alex Walters,Vassar Brewers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,player_spotup_jumpshot_efficiency.csv,,
+JP Miranda,Vassar Brewers,6,0,0,,6,2,33.3333,2,0,0.0,33.33333,0.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,3,0,0,,3,2,66.6667,1,0,0.0,66.66667,0.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Avery Lee,Vassar Brewers,2,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,1.0,player_spotup_leftdrive_efficiency.csv,,
+Nathan Denham,Vassar Brewers,2,0,0,,1,0,0.0,1,0,0.0,0.0,1.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Kreekor Karageuzian,Vassar Brewers,2,0,0,,1,0,0.0,1,0,0.0,0.0,1.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+Sebastian Medina,Vassar Brewers,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,player_spotup_leftdrive_efficiency.csv,,
+JP Miranda,Vassar Brewers,3,0,0,,3,1,33.3333,0,0,,33.33333,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Avery Lee,Vassar Brewers,3,0,0,,3,0,0.0,0,0,,0.0,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Luke Adams,Vassar Brewers,2,1,1,100.0,1,0,0.0,1,0,0.0,75.0,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+Sebastian Medina,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_spotup_rightdrive_efficiency.csv,,
+JP Miranda,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,player_spotup_straightdrive_efficiency.csv,,
+Nathan Denham,Vassar Brewers,4,0,0,,4,3,75.0,0,0,,75.0,0.0,0.0,player_transition_bh_efficiency.csv,,
+Kreekor Karageuzian,Vassar Brewers,3,0,0,,2,1,50.0,0,0,,50.0,1.0,0.0,player_transition_bh_efficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,2,0,0,,1,1,100.0,0,0,,100.0,0.0,1.0,player_transition_bh_efficiency.csv,,
+Avery Lee,Vassar Brewers,2,0,0,,1,1,100.0,0,0,,100.0,0.0,1.0,player_transition_bh_efficiency.csv,,
+JP Miranda,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,player_transition_bh_efficiency.csv,,
+JP Miranda,Vassar Brewers,2,0,0,,1,1,100.0,0,0,,100.0,1.0,0.0,player_transition_leftwing_efficiency.csv,,
+Luke Adams,Vassar Brewers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_transition_leftwing_efficiency.csv,,
+Avery Lee,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,player_transition_rightwing_efficiency.csv,,
+Case Parsons,Vassar Brewers,2,1,0,0.0,1,0,0.0,0,0,,0.0,0.0,0.0,player_transition_trailer_efficiency.csv,,
+Nathan Denham,Vassar Brewers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,player_transition_trailer_efficiency.csv,,
+Nathan Denham,Vassar Brewers,31,4,2,50.0,20,12,60.0,1,0,0.0,62.5,4.0,3.0,playerefficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,30,6,2,33.3333,14,9,64.2857,4,1,25.0,60.0,4.0,6.0,playerefficiency.csv,,
+Avery Lee,Vassar Brewers,25,6,1,16.6667,13,6,46.1538,2,0,0.0,39.47368,3.0,3.0,playerefficiency.csv,,
+JP Miranda,Vassar Brewers,19,3,2,66.6667,13,5,38.4615,2,0,0.0,50.0,3.0,0.0,playerefficiency.csv,,
+Case Parsons,Vassar Brewers,13,1,0,0.0,7,3,42.8571,0,0,,37.5,4.0,1.0,playerefficiency.csv,,
+Luke Adams,Vassar Brewers,11,8,4,50.0,2,0,0.0,1,0,0.0,60.0,0.0,1.0,playerefficiency.csv,,
+Alex Walters,Vassar Brewers,8,8,2,25.0,0,0,,0,0,,37.5,0.0,0.0,playerefficiency.csv,,
+Kreekor Karageuzian,Vassar Brewers,7,0,0,,5,2,40.0,1,0,0.0,40.0,2.0,0.0,playerefficiency.csv,,
+Logan Scott,Vassar Brewers,7,0,0,,4,1,25.0,0,0,,25.0,2.0,1.0,playerefficiency.csv,,
+Sebastian Medina,Vassar Brewers,7,0,0,,5,2,40.0,0,0,,40.0,1.0,1.0,playerefficiency.csv,,
+Devyn Benson,Vassar Brewers,7,0,0,,6,3,50.0,1,0,0.0,50.0,1.0,0.0,playerefficiency.csv,,
+Shea Fitzgerald,Vassar Brewers,6,1,0,0.0,3,2,66.6667,1,0,0.0,50.0,1.0,1.0,playerefficiencyleft.csv,,
+JP Miranda,Vassar Brewers,6,0,0,,6,2,33.3333,2,0,0.0,33.33333,0.0,0.0,playerefficiencyleft.csv,,
+Avery Lee,Vassar Brewers,5,0,0,,3,0,0.0,2,0,0.0,0.0,1.0,1.0,playerefficiencyleft.csv,,
+Alex Walters,Vassar Brewers,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,playerefficiencyleft.csv,,
+Sebastian Medina,Vassar Brewers,2,0,0,,1,0,0.0,0,0,,0.0,1.0,0.0,playerefficiencyleft.csv,,
+Kreekor Karageuzian,Vassar Brewers,2,0,0,,1,0,0.0,1,0,0.0,0.0,1.0,0.0,playerefficiencyleft.csv,,
+Nathan Denham,Vassar Brewers,2,0,0,,1,0,0.0,1,0,0.0,0.0,1.0,0.0,playerefficiencyleft.csv,,
+Devyn Benson,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,playerefficiencyleft.csv,,
+Case Parsons,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,playerefficiencyleft.csv,,
+Logan Scott,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,playerefficiencyleft.csv,,
+Avery Lee,Vassar Brewers,6,0,0,,4,1,25.0,0,0,,25.0,1.0,1.0,playerefficiencyright.csv,,
+JP Miranda,Vassar Brewers,4,0,0,,3,1,33.3333,0,0,,33.33333,1.0,0.0,playerefficiencyright.csv,,
+Luke Adams,Vassar Brewers,3,1,1,100.0,2,0,0.0,1,0,0.0,50.0,0.0,0.0,playerefficiencyright.csv,,
+Shea Fitzgerald,Vassar Brewers,2,0,0,,1,0,0.0,0,0,,0.0,0.0,1.0,playerefficiencyright.csv,,
+Alex Walters,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,playerefficiencyright.csv,,
+Sebastian Medina,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,playerefficiencyright.csv,,
+,Vassar Brewers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,twoplayer_bhhigh_rollmanpops_efficiency.csv,JP Miranda,Alex Walters
+,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_bhhigh_rollmanpops_efficiency.csv,Shea Fitzgerald,Alex Walters
+,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_iso_spotupjumpers_efficiency.csv,Shea Fitzgerald,Avery Lee
+,Vassar Brewers,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnr_cut_efficiency.csv,Kreekor Karageuzian,Case Parsons
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_cut_efficiency.csv,Luke Adams,Devyn Benson
+,Vassar Brewers,2,0,0,,2,1,50.0,1,0,0.0,50.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Luke Adams,Shea Fitzgerald
+,Vassar Brewers,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,JP Miranda,Nathan Denham
+,Vassar Brewers,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Kreekor Karageuzian,Nathan Denham
+,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Kreekor Karageuzian,JP Miranda
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Avery Lee,Shea Fitzgerald
+,Vassar Brewers,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Kreekor Karageuzian,Luke Adams
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Luke Adams,Sebastian Medina
+,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Shea Fitzgerald,Avery Lee
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_spotupdrives_efficiency.csv,Shea Fitzgerald,JP Miranda
+,Vassar Brewers,2,0,0,,2,1,50.0,1,0,0.0,50.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Luke Adams,Shea Fitzgerald
+,Vassar Brewers,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,JP Miranda,Nathan Denham
+,Vassar Brewers,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Kreekor Karageuzian,Nathan Denham
+,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Kreekor Karageuzian,JP Miranda
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Avery Lee,Shea Fitzgerald
+,Vassar Brewers,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Kreekor Karageuzian,Luke Adams
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Luke Adams,Sebastian Medina
+,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Shea Fitzgerald,Avery Lee
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnr_spotupsdrives_efficiency.csv,Shea Fitzgerald,JP Miranda
+,Vassar Brewers,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Shea Fitzgerald,Avery Lee
+,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Luke Adams,Alex Walters
+,Vassar Brewers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Avery Lee,Alex Walters
+,Vassar Brewers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Shea Fitzgerald,JP Miranda
+,Vassar Brewers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Avery Lee,Luke Adams
+,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnr_spotupsjumpers_efficiency.csv,Shea Fitzgerald,Luke Adams
+,Vassar Brewers,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhhigh_cuts_efficiency.csv,Kreekor Karageuzian,Case Parsons
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_cuts_efficiency.csv,Luke Adams,Devyn Benson
+,Vassar Brewers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,JP Miranda,Alex Walters
+,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,Shea Fitzgerald,Alex Walters
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,JP Miranda,Nathan Denham
+,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollman_efficiency.csv,JP Miranda,Logan Scott
+,Vassar Brewers,2,2,1,50.0,0,0,,0,0,,75.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,JP Miranda,Alex Walters
+,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanpops_efficiency.csv,Shea Fitzgerald,Alex Walters
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanrolls_efficiency.csv,JP Miranda,Nathan Denham
+,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_rollmanrolls_efficiency.csv,JP Miranda,Logan Scott
+,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Kreekor Karageuzian,JP Miranda
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Avery Lee,Shea Fitzgerald
+,Vassar Brewers,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Kreekor Karageuzian,Luke Adams
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Luke Adams,Sebastian Medina
+,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Shea Fitzgerald,Avery Lee
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhhigh_spotupdrives_efficiency.csv,Shea Fitzgerald,JP Miranda
+,Vassar Brewers,2,2,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Shea Fitzgerald,Avery Lee
+,Vassar Brewers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Avery Lee,Alex Walters
+,Vassar Brewers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Shea Fitzgerald,JP Miranda
+,Vassar Brewers,1,1,1,100.0,0,0,,0,0,,150.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Avery Lee,Luke Adams
+,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhhigh_spotupjumper_efficiency.csv,Shea Fitzgerald,Luke Adams
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhleft_rollman_efficiency.csv,JP Miranda,Nathan Denham
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhleft_rollman_efficiency.csv,Kreekor Karageuzian,Case Parsons
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhleft_rollmanrolls_efficiency.csv,JP Miranda,Nathan Denham
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhleft_rollmanslips_efficiency.csv,Kreekor Karageuzian,Case Parsons
+,Vassar Brewers,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhleft_spotupdrives_efficiency.csv,Kreekor Karageuzian,Nathan Denham
+,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_pnrbhleft_spotupjumper_efficiency.csv,Luke Adams,Alex Walters
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhright_rollman_efficiency.csv,Luke Adams,Case Parsons
+,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_rollman_efficiency.csv,Shea Fitzgerald,Nathan Denham
+,Vassar Brewers,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhright_rollman_efficiency.csv,Avery Lee,Logan Scott
+,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_rollman_efficiency.csv,Luke Adams,Nathan Denham
+,Vassar Brewers,1,0,0,,1,1,100.0,0,0,,100.0,0.0,0.0,twoplayer_pnrbhright_rollmanrolls_efficiency.csv,Luke Adams,Case Parsons
+,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_rollmanrolls_efficiency.csv,Shea Fitzgerald,Nathan Denham
+,Vassar Brewers,1,0,0,,0,0,,0,0,,,1.0,0.0,twoplayer_pnrbhright_rollmanrolls_efficiency.csv,Avery Lee,Logan Scott
+,Vassar Brewers,1,0,0,,1,0,0.0,0,0,,0.0,0.0,0.0,twoplayer_pnrbhright_rollmanslips_efficiency.csv,Luke Adams,Nathan Denham
+,Vassar Brewers,2,0,0,,2,1,50.0,1,0,0.0,50.0,0.0,0.0,twoplayer_pnrbhright_spotupdrives_efficiency.csv,Luke Adams,Shea Fitzgerald
+,Vassar Brewers,1,0,0,,1,0,0.0,1,0,0.0,0.0,0.0,0.0,twoplayer_pnrbhright_spotupdrives_efficiency.csv,JP Miranda,Nathan Denham
+,Vassar Brewers,1,1,0,0.0,0,0,,0,0,,0.0,0.0,0.0,twoplayer_post_spotupjumper_efficiency.csv,Logan Scott,Luke Adams

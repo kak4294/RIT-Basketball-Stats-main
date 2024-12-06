@@ -1,0 +1,1270 @@
+{
+    "PNR_insights": [
+        {
+            "PNR_Scorer": {
+                "File": "player_pnr_efficiency",
+                "TotalPlays": 204,
+                "Total3ptShots": 54,
+                "Total3ptMakes": 17,
+                "3pt%": 31.48,
+                "Total2ptShots": 99,
+                "Total2ptMakes": 41,
+                "2pt%": 41.41,
+                "TotalMidRangeShots": 32,
+                "TotalMidRangeMakes": 11,
+                "MidRange%": 34.38,
+                "EFG%": 29.39,
+                "Turnover": 30,
+                "Foul": 21
+            }
+        },
+        {
+            "PNR Accept": 0.837696335078534,
+            "PNR Reject": 0.16230366492146597,
+            "Total Plays": 191
+        },
+        {
+            "PNR_Off": {
+                "File": "player_pnr_offpick_efficiency",
+                "TotalPlays": 160,
+                "Total3ptShots": 42,
+                "Total3ptMakes": 13,
+                "3pt%": 30.95,
+                "Total2ptShots": 80,
+                "Total2ptMakes": 33,
+                "2pt%": 41.25,
+                "TotalMidRangeShots": 30,
+                "TotalMidRangeMakes": 10,
+                "MidRange%": 33.33,
+                "EFG%": 28.25,
+                "Turnover": 23,
+                "Foul": 15
+            }
+        },
+        {
+            "PNR_Reject": {
+                "File": "player_pnr_rejectpick_efficiency",
+                "TotalPlays": 31,
+                "Total3ptShots": 3,
+                "Total3ptMakes": 1,
+                "3pt%": 33.33,
+                "Total2ptShots": 17,
+                "Total2ptMakes": 7,
+                "2pt%": 41.18,
+                "TotalMidRangeShots": 2,
+                "TotalMidRangeMakes": 1,
+                "MidRange%": 50.0,
+                "EFG%": 48.61,
+                "Turnover": 6,
+                "Foul": 5
+            }
+        },
+        {
+            "PNR High": 0.5441176470588235,
+            "PNR Left": 0.18137254901960784,
+            "PNR Right": 0.27450980392156865,
+            "Total Plays": 204
+        },
+        {
+            "PNR_High": {
+                "File": "player_pnr_bhhigh_efficiency",
+                "TotalPlays": 111,
+                "Total3ptShots": 29,
+                "Total3ptMakes": 9,
+                "3pt%": 31.03,
+                "Total2ptShots": 56,
+                "Total2ptMakes": 24,
+                "2pt%": 42.86,
+                "TotalMidRangeShots": 22,
+                "TotalMidRangeMakes": 9,
+                "MidRange%": 40.91,
+                "EFG%": 32.04,
+                "Turnover": 14,
+                "Foul": 12
+            }
+        },
+        {
+            "PNR_Left": {
+                "File": "player_pnr_bhleft_efficiency",
+                "TotalPlays": 37,
+                "Total3ptShots": 9,
+                "Total3ptMakes": 4,
+                "3pt%": 44.44,
+                "Total2ptShots": 17,
+                "Total2ptMakes": 7,
+                "2pt%": 41.18,
+                "TotalMidRangeShots": 7,
+                "TotalMidRangeMakes": 2,
+                "MidRange%": 28.57,
+                "EFG%": 32.59,
+                "Turnover": 5,
+                "Foul": 6
+            }
+        },
+        {
+            "PNR_Right": {
+                "File": "player_pnr_bhright_efficiency",
+                "TotalPlays": 56,
+                "Total3ptShots": 16,
+                "Total3ptMakes": 4,
+                "3pt%": 25.0,
+                "Total2ptShots": 26,
+                "Total2ptMakes": 10,
+                "2pt%": 38.46,
+                "TotalMidRangeShots": 3,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": 0.0,
+                "EFG%": 30.64,
+                "Turnover": 11,
+                "Foul": 3
+            }
+        },
+        {
+            "PNR_High_Reject": {
+                "File": "player_pnr_bhhigh_rejectpick_efficiency",
+                "TotalPlays": 21,
+                "Total3ptShots": 3,
+                "Total3ptMakes": 1,
+                "3pt%": 33.33,
+                "Total2ptShots": 12,
+                "Total2ptMakes": 5,
+                "2pt%": 41.67,
+                "TotalMidRangeShots": 1,
+                "TotalMidRangeMakes": 1,
+                "MidRange%": 100.0,
+                "EFG%": 50.6,
+                "Turnover": 3,
+                "Foul": 3
+            }
+        },
+        {
+            "PNR_High_Off": {
+                "File": "player_pnr_bhhigh_offpick_efficiency",
+                "TotalPlays": 86,
+                "Total3ptShots": 22,
+                "Total3ptMakes": 8,
+                "3pt%": 36.36,
+                "Total2ptShots": 44,
+                "Total2ptMakes": 19,
+                "2pt%": 43.18,
+                "TotalMidRangeShots": 21,
+                "TotalMidRangeMakes": 8,
+                "MidRange%": 38.1,
+                "EFG%": 32.04,
+                "Turnover": 11,
+                "Foul": 9
+            }
+        },
+        {
+            "PNR_Left_Reject": {
+                "File": "player_pnr_bhleft_rejectpick_efficiency",
+                "TotalPlays": 4,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 2,
+                "Total2ptMakes": 0,
+                "2pt%": 0.0,
+                "TotalMidRangeShots": 1,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": 0.0,
+                "EFG%": 0.0,
+                "Turnover": 0,
+                "Foul": 2
+            }
+        },
+        {
+            "PNR_Left_Off": {
+                "File": "player_pnr_bhleft_offpick_efficiency",
+                "TotalPlays": 29,
+                "Total3ptShots": 7,
+                "Total3ptMakes": 2,
+                "3pt%": 28.57,
+                "Total2ptShots": 14,
+                "Total2ptMakes": 6,
+                "2pt%": 42.86,
+                "TotalMidRangeShots": 6,
+                "TotalMidRangeMakes": 2,
+                "MidRange%": 33.33,
+                "EFG%": 31.11,
+                "Turnover": 4,
+                "Foul": 4
+            }
+        },
+        {
+            "PNR_Right_Reject": {
+                "File": "player_pnr_bhright_rejectpick_efficiency",
+                "TotalPlays": 6,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 3,
+                "Total2ptMakes": 2,
+                "2pt%": 66.67,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 66.67,
+                "Turnover": 3,
+                "Foul": 0
+            }
+        },
+        {
+            "PNR_Right_Off": {
+                "File": "player_pnr_bhright_offpick_efficiency",
+                "TotalPlays": 45,
+                "Total3ptShots": 13,
+                "Total3ptMakes": 3,
+                "3pt%": 23.08,
+                "Total2ptShots": 22,
+                "Total2ptMakes": 8,
+                "2pt%": 36.36,
+                "TotalMidRangeShots": 3,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": 0.0,
+                "EFG%": 28.82,
+                "Turnover": 8,
+                "Foul": 2
+            }
+        }
+    ],
+    "Cut_insights": [
+        {
+            "Cut_Scorer": {
+                "File": "player_cut_efficiency",
+                "TotalPlays": 236,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 196,
+                "Total2ptMakes": 116,
+                "2pt%": 59.18,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 55.56,
+                "Turnover": 18,
+                "Foul": 22
+            }
+        },
+        [
+            {
+                "Basket Cut": 0.5889830508474576,
+                "Flash Cut": 0.1059322033898305,
+                "Screen Cut": 0.3050847457627119,
+                "Total Plays": 236
+            }
+        ],
+        {
+            "Basket_Cuts": {
+                "File": "player_cut_basket_efficiency",
+                "TotalPlays": 139,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 115,
+                "Total2ptMakes": 74,
+                "2pt%": 64.35,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 62.6,
+                "Turnover": 10,
+                "Foul": 14
+            }
+        },
+        {
+            "Flash_Cuts": {
+                "File": "player_cut_flash_efficiency",
+                "TotalPlays": 25,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 20,
+                "Total2ptMakes": 13,
+                "2pt%": 65.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 62.5,
+                "Turnover": 1,
+                "Foul": 4
+            }
+        },
+        {
+            "Screen_Cuts": {
+                "File": "player_cut_screen_efficiency",
+                "TotalPlays": 72,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 61,
+                "Total2ptMakes": 29,
+                "2pt%": 47.54,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 39.79,
+                "Turnover": 7,
+                "Foul": 4
+            }
+        }
+    ],
+    "Handoff_insights": [
+        {
+            "Handoff_Scorer": {
+                "File": "player_handoffs_efficiency",
+                "TotalPlays": 81,
+                "Total3ptShots": 28,
+                "Total3ptMakes": 12,
+                "3pt%": 42.86,
+                "Total2ptShots": 39,
+                "Total2ptMakes": 18,
+                "2pt%": 46.15,
+                "TotalMidRangeShots": 12,
+                "TotalMidRangeMakes": 4,
+                "MidRange%": 33.33,
+                "EFG%": 33.15,
+                "Turnover": 9,
+                "Foul": 5
+            }
+        },
+        {
+            "Handoff Left": 0.2839506172839506,
+            "Handoff Right": 0.37037037037037035,
+            "Handoff from Top": 0.345679012345679,
+            "Total Plays": 81
+        },
+        {
+            "BHLeft": {
+                "File": "player_handoffs_bhleft_efficiency",
+                "TotalPlays": 23,
+                "Total3ptShots": 9,
+                "Total3ptMakes": 3,
+                "3pt%": 33.33,
+                "Total2ptShots": 12,
+                "Total2ptMakes": 4,
+                "2pt%": 33.33,
+                "TotalMidRangeShots": 4,
+                "TotalMidRangeMakes": 1,
+                "MidRange%": 25.0,
+                "EFG%": 30.48,
+                "Turnover": 2,
+                "Foul": 0
+            }
+        },
+        {
+            "BHRight": {
+                "File": "player_handoffs_bhright_efficiency",
+                "TotalPlays": 30,
+                "Total3ptShots": 10,
+                "Total3ptMakes": 6,
+                "3pt%": 60.0,
+                "Total2ptShots": 14,
+                "Total2ptMakes": 9,
+                "2pt%": 64.29,
+                "TotalMidRangeShots": 4,
+                "TotalMidRangeMakes": 2,
+                "MidRange%": 50.0,
+                "EFG%": 54.76,
+                "Turnover": 3,
+                "Foul": 3
+            }
+        },
+        {
+            "BHTop": {
+                "File": "player_handoffs_top_efficiency",
+                "TotalPlays": 28,
+                "Total3ptShots": 9,
+                "Total3ptMakes": 3,
+                "3pt%": 33.33,
+                "Total2ptShots": 13,
+                "Total2ptMakes": 5,
+                "2pt%": 38.46,
+                "TotalMidRangeShots": 4,
+                "TotalMidRangeMakes": 1,
+                "MidRange%": 25.0,
+                "EFG%": 46.89,
+                "Turnover": 4,
+                "Foul": 2
+            }
+        },
+        {
+            "Handoffs Stationary": 0.14814814814814814,
+            "Handoffs Dribble": 0.8518518518518519,
+            "Total Plays": 81
+        },
+        {
+            "Stationary": {
+                "File": "player_handoffs_stationary_efficiency",
+                "TotalPlays": 12,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 9,
+                "Total2ptMakes": 5,
+                "2pt%": 55.56,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 68.75,
+                "Turnover": 0,
+                "Foul": 3
+            }
+        },
+        {
+            "Dribble": {
+                "File": "player_handoffs_dribble_efficiency",
+                "TotalPlays": 69,
+                "Total3ptShots": 28,
+                "Total3ptMakes": 12,
+                "3pt%": 42.86,
+                "Total2ptShots": 30,
+                "Total2ptMakes": 13,
+                "2pt%": 43.33,
+                "TotalMidRangeShots": 12,
+                "TotalMidRangeMakes": 4,
+                "MidRange%": 33.33,
+                "EFG%": 31.02,
+                "Turnover": 9,
+                "Foul": 2
+            }
+        },
+        {
+            "Left_Stationary": {
+                "File": "player_handoffs_bhleft_stationary_efficiency",
+                "TotalPlays": 1,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 1,
+                "Total2ptMakes": 0,
+                "2pt%": 0.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 0.0,
+                "Turnover": 0,
+                "Foul": 0
+            }
+        },
+        {
+            "Right_Stationary": {
+                "File": "player_handoffs_bhright_stationary_efficiency",
+                "TotalPlays": 3,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 2,
+                "Total2ptMakes": 2,
+                "2pt%": 100.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 100.0,
+                "Turnover": 0,
+                "Foul": 1
+            }
+        },
+        {
+            "Top_Stationary": {
+                "File": "player_handoffs_top_stationary_efficiency",
+                "TotalPlays": 8,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 6,
+                "Total2ptMakes": 3,
+                "2pt%": 50.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 55.56,
+                "Turnover": 0,
+                "Foul": 2
+            }
+        },
+        {
+            "Left_Dribble": {
+                "File": "player_handoffs_bhleft_dribble_efficiency",
+                "TotalPlays": 22,
+                "Total3ptShots": 9,
+                "Total3ptMakes": 3,
+                "3pt%": 33.33,
+                "Total2ptShots": 11,
+                "Total2ptMakes": 4,
+                "2pt%": 36.36,
+                "TotalMidRangeShots": 4,
+                "TotalMidRangeMakes": 1,
+                "MidRange%": 25.0,
+                "EFG%": 33.33,
+                "Turnover": 2,
+                "Foul": 0
+            }
+        },
+        {
+            "Right_Dribble": {
+                "File": "player_handoffs_bhright_dribble_efficiency",
+                "TotalPlays": 27,
+                "Total3ptShots": 10,
+                "Total3ptMakes": 6,
+                "3pt%": 60.0,
+                "Total2ptShots": 12,
+                "Total2ptMakes": 7,
+                "2pt%": 58.33,
+                "TotalMidRangeShots": 4,
+                "TotalMidRangeMakes": 2,
+                "MidRange%": 50.0,
+                "EFG%": 46.9,
+                "Turnover": 3,
+                "Foul": 2
+            }
+        },
+        {
+            "Top_Dribble": {
+                "File": "player_handoffs_top_dribble_efficiency",
+                "TotalPlays": 20,
+                "Total3ptShots": 9,
+                "Total3ptMakes": 3,
+                "3pt%": 33.33,
+                "Total2ptShots": 7,
+                "Total2ptMakes": 2,
+                "2pt%": 28.57,
+                "TotalMidRangeShots": 4,
+                "TotalMidRangeMakes": 1,
+                "MidRange%": 25.0,
+                "EFG%": 34.29,
+                "Turnover": 4,
+                "Foul": 0
+            }
+        }
+    ],
+    "Post_insights": [
+        {
+            "Post_Scorer": {
+                "File": "player_post_efficiency",
+                "TotalPlays": 72,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 48,
+                "Total2ptMakes": 21,
+                "2pt%": 43.75,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 48.88,
+                "Turnover": 16,
+                "Foul": 8
+            }
+        },
+        {
+            "Post Left Block": 0.5416666666666666,
+            "Post Right Block": 0.4166666666666667,
+            "Post Middle": 0.041666666666666664,
+            "Total Plays": 72
+        },
+        {
+            "Post_LeftBlock": {
+                "File": "player_post_leftblock_efficiency",
+                "TotalPlays": 39,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 27,
+                "Total2ptMakes": 11,
+                "2pt%": 40.74,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 55.44,
+                "Turnover": 8,
+                "Foul": 4
+            }
+        },
+        {
+            "Post_RightBlock": {
+                "File": "player_post_rightblock_efficiency",
+                "TotalPlays": 30,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 20,
+                "Total2ptMakes": 9,
+                "2pt%": 45.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 31.25,
+                "Turnover": 6,
+                "Foul": 4
+            }
+        },
+        {
+            "Post_Middle": {
+                "File": "player_post_middle_efficiency",
+                "TotalPlays": 3,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 1,
+                "Total2ptMakes": 1,
+                "2pt%": 100.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 100.0,
+                "Turnover": 2,
+                "Foul": 0
+            }
+        },
+        {
+            "Post Left Shoulder": 0.43661971830985913,
+            "Post Right Shoulder": 0.38028169014084506,
+            "Post Face Up": 0.18309859154929578,
+            "Total Plays": 71
+        },
+        {
+            "Post_LeftShoulder": {
+                "File": "player_post_leftshoulder_efficiency",
+                "TotalPlays": 31,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 22,
+                "Total2ptMakes": 7,
+                "2pt%": 31.82,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 36.25,
+                "Turnover": 5,
+                "Foul": 4
+            }
+        },
+        {
+            "Post_RightShoulder": {
+                "File": "player_post_rightshoulder_efficiency",
+                "TotalPlays": 27,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 18,
+                "Total2ptMakes": 11,
+                "2pt%": 61.11,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 56.36,
+                "Turnover": 7,
+                "Foul": 2
+            }
+        },
+        {
+            "Post_Faceup": {
+                "File": "player_post_faceup_efficiency",
+                "TotalPlays": 13,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 8,
+                "Total2ptMakes": 3,
+                "2pt%": 37.5,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 58.33,
+                "Turnover": 4,
+                "Foul": 1
+            }
+        },
+        {
+            "Post_LeftBlock_Faceup": {
+                "File": "player_post_leftblock_faceup_efficiency",
+                "TotalPlays": 4,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 2,
+                "Total2ptMakes": 0,
+                "2pt%": 0.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 0.0,
+                "Turnover": 2,
+                "Foul": 0
+            }
+        },
+        {
+            "Post_LeftBlock_LeftShoulder": {
+                "File": "player_post_leftblock_leftshoulder_efficiency",
+                "TotalPlays": 19,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 15,
+                "Total2ptMakes": 5,
+                "2pt%": 33.33,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 36.0,
+                "Turnover": 2,
+                "Foul": 2
+            }
+        },
+        {
+            "Post_LeftBlock_RightShoulder": {
+                "File": "player_post_leftblock_rightshoulder_efficiency",
+                "TotalPlays": 16,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 10,
+                "Total2ptMakes": 6,
+                "2pt%": 60.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 66.67,
+                "Turnover": 4,
+                "Foul": 2
+            }
+        },
+        {
+            "Post_RightBlock_Faceup": {
+                "File": "player_post_rightblock_faceup_efficiency",
+                "TotalPlays": 6,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 5,
+                "Total2ptMakes": 2,
+                "2pt%": 40.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 62.5,
+                "Turnover": 0,
+                "Foul": 1
+            }
+        },
+        {
+            "Post_RightBlock_LeftShoulder": {
+                "File": "player_post_rightblock_leftshoulder_efficiency",
+                "TotalPlays": 12,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 7,
+                "Total2ptMakes": 2,
+                "2pt%": 28.57,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 16.67,
+                "Turnover": 3,
+                "Foul": 2
+            }
+        },
+        {
+            "Post_RightBlock_RightShoulder": {
+                "File": "player_post_rightblock_rightshoulder_efficiency",
+                "TotalPlays": 11,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 8,
+                "Total2ptMakes": 5,
+                "2pt%": 62.5,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 33.33,
+                "Turnover": 3,
+                "Foul": 0
+            }
+        },
+        {
+            "Post_Middle_Faceup": {
+                "File": "player_post_middle_faceup_efficiency",
+                "TotalPlays": 3,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 1,
+                "Total2ptMakes": 1,
+                "2pt%": 100.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 100.0,
+                "Turnover": 2,
+                "Foul": 0
+            }
+        },
+        {},
+        {}
+    ],
+    "Spotup_insights": [
+        {
+            "SpotUp_Scorer": {
+                "File": "player_spotup_efficiency",
+                "TotalPlays": 606,
+                "Total3ptShots": 354,
+                "Total3ptMakes": 117,
+                "3pt%": 33.05,
+                "Total2ptShots": 184,
+                "Total2ptMakes": 75,
+                "2pt%": 40.76,
+                "TotalMidRangeShots": 75,
+                "TotalMidRangeMakes": 25,
+                "MidRange%": 33.33,
+                "EFG%": 35.67,
+                "Turnover": 41,
+                "Foul": 27
+            }
+        },
+        {
+            "Jumpshot": 0.594059405940594,
+            "Drive": 0.40594059405940597,
+            "Total Plays": 606
+        },
+        {
+            "SpotUp_Jumper": {
+                "File": "player_spotup_jumpshot_efficiency",
+                "TotalPlays": 360,
+                "Total3ptShots": 332,
+                "Total3ptMakes": 109,
+                "3pt%": 32.83,
+                "Total2ptShots": 25,
+                "Total2ptMakes": 6,
+                "2pt%": 24.0,
+                "TotalMidRangeShots": 25,
+                "TotalMidRangeMakes": 6,
+                "MidRange%": 24.0,
+                "EFG%": 35.69,
+                "Turnover": 0,
+                "Foul": 3
+            }
+        },
+        {
+            "SpotUp_Drive": {
+                "File": "spotup_drives_efficiency",
+                "TotalPlays": 246,
+                "Total3ptShots": 22,
+                "Total3ptMakes": 8,
+                "3pt%": 36.36,
+                "Total2ptShots": 159,
+                "Total2ptMakes": 69,
+                "2pt%": 43.4,
+                "TotalMidRangeShots": 50,
+                "TotalMidRangeMakes": 19,
+                "MidRange%": 38.0,
+                "EFG%": 46.97,
+                "Turnover": 41,
+                "Foul": 24
+            }
+        },
+        {
+            "SpotUp_LeftDrive": {
+                "File": "player_spotup_leftdrive_efficiency",
+                "TotalPlays": 116,
+                "Total3ptShots": 11,
+                "Total3ptMakes": 4,
+                "3pt%": 36.36,
+                "Total2ptShots": 76,
+                "Total2ptMakes": 32,
+                "2pt%": 42.11,
+                "TotalMidRangeShots": 19,
+                "TotalMidRangeMakes": 6,
+                "MidRange%": 31.58,
+                "EFG%": 32.89,
+                "Turnover": 16,
+                "Foul": 13
+            }
+        },
+        {
+            "SpotUp_RightDrive": {
+                "File": "player_spotup_rightdrive_efficiency",
+                "TotalPlays": 112,
+                "Total3ptShots": 5,
+                "Total3ptMakes": 2,
+                "3pt%": 40.0,
+                "Total2ptShots": 73,
+                "Total2ptMakes": 32,
+                "2pt%": 43.84,
+                "TotalMidRangeShots": 25,
+                "TotalMidRangeMakes": 9,
+                "MidRange%": 36.0,
+                "EFG%": 50.85,
+                "Turnover": 25,
+                "Foul": 9
+            }
+        },
+        {
+            "SpotUp_StraightDrive": {
+                "File": "player_spotup_straightdrive_efficiency",
+                "TotalPlays": 18,
+                "Total3ptShots": 6,
+                "Total3ptMakes": 2,
+                "3pt%": 33.33,
+                "Total2ptShots": 10,
+                "Total2ptMakes": 5,
+                "2pt%": 50.0,
+                "TotalMidRangeShots": 6,
+                "TotalMidRangeMakes": 4,
+                "MidRange%": 66.67,
+                "EFG%": 60.56,
+                "Turnover": 0,
+                "Foul": 2
+            }
+        }
+    ],
+    "Transition_insights": [
+        {
+            "Ball Handler": 0.356353591160221,
+            "Leakouts": 0.052486187845303865,
+            "Leftwing": 0.27071823204419887,
+            "Rightwing": 0.2292817679558011,
+            "Trailer": 0.09116022099447514,
+            "Total Plays": 362
+        },
+        {
+            "Transition_Scorer": {
+                "File": "transition_efficiency",
+                "TotalPlays": 362,
+                "Total3ptShots": 99,
+                "Total3ptMakes": 39,
+                "3pt%": 39.39,
+                "Total2ptShots": 167,
+                "Total2ptMakes": 93,
+                "2pt%": 55.69,
+                "TotalMidRangeShots": 17,
+                "TotalMidRangeMakes": 9,
+                "MidRange%": 52.94,
+                "EFG%": 55.99,
+                "Turnover": 59,
+                "Foul": 35
+            }
+        },
+        {
+            "Transition_BH": {
+                "File": "player_transition_bh_efficiency",
+                "TotalPlays": 129,
+                "Total3ptShots": 7,
+                "Total3ptMakes": 1,
+                "3pt%": 14.29,
+                "Total2ptShots": 67,
+                "Total2ptMakes": 40,
+                "2pt%": 59.7,
+                "TotalMidRangeShots": 9,
+                "TotalMidRangeMakes": 4,
+                "MidRange%": 44.44,
+                "EFG%": 58.2,
+                "Turnover": 32,
+                "Foul": 23
+            }
+        },
+        {
+            "Transition_Leakouts": {
+                "File": "player_transition_leakouts_efficiency",
+                "TotalPlays": 19,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 17,
+                "Total2ptMakes": 14,
+                "2pt%": 82.35,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 86.9,
+                "Turnover": 0,
+                "Foul": 0
+            }
+        },
+        {
+            "Transition_LeftWing": {
+                "File": "player_transition_leftwing_efficiency",
+                "TotalPlays": 98,
+                "Total3ptShots": 45,
+                "Total3ptMakes": 22,
+                "3pt%": 48.89,
+                "Total2ptShots": 37,
+                "Total2ptMakes": 17,
+                "2pt%": 45.95,
+                "TotalMidRangeShots": 3,
+                "TotalMidRangeMakes": 2,
+                "MidRange%": 66.67,
+                "EFG%": 60.76,
+                "Turnover": 12,
+                "Foul": 4
+            }
+        },
+        {
+            "Transition_RightWing": {
+                "File": "player_transition_rightwing_efficiency",
+                "TotalPlays": 83,
+                "Total3ptShots": 30,
+                "Total3ptMakes": 12,
+                "3pt%": 40.0,
+                "Total2ptShots": 34,
+                "Total2ptMakes": 16,
+                "2pt%": 47.06,
+                "TotalMidRangeShots": 3,
+                "TotalMidRangeMakes": 1,
+                "MidRange%": 33.33,
+                "EFG%": 54.01,
+                "Turnover": 13,
+                "Foul": 6
+            }
+        },
+        {
+            "Transition_Trailer": {
+                "File": "player_transition_trailer_efficiency",
+                "TotalPlays": 33,
+                "Total3ptShots": 17,
+                "Total3ptMakes": 4,
+                "3pt%": 23.53,
+                "Total2ptShots": 12,
+                "Total2ptMakes": 6,
+                "2pt%": 50.0,
+                "TotalMidRangeShots": 2,
+                "TotalMidRangeMakes": 2,
+                "MidRange%": 100.0,
+                "EFG%": 28.08,
+                "Turnover": 2,
+                "Foul": 2
+            }
+        }
+    ],
+    "Offscreen_insights": [],
+    "Iso_insights": [
+        {
+            "Iso_Scorer": {
+                "File": "player_iso_efficiency",
+                "TotalPlays": 114,
+                "Total3ptShots": 7,
+                "Total3ptMakes": 2,
+                "3pt%": 28.57,
+                "Total2ptShots": 82,
+                "Total2ptMakes": 34,
+                "2pt%": 41.46,
+                "TotalMidRangeShots": 32,
+                "TotalMidRangeMakes": 16,
+                "MidRange%": 50.0,
+                "EFG%": 28.68,
+                "Turnover": 9,
+                "Foul": 16
+            }
+        },
+        {
+            "Iso Left": 0.17543859649122806,
+            "Iso Right": 0.21929824561403508,
+            "Iso Top": 0.6052631578947368,
+            "Total Plays": 114
+        },
+        {
+            "Iso_Left": {
+                "File": "player_iso_left_efficiency",
+                "TotalPlays": 20,
+                "Total3ptShots": 3,
+                "Total3ptMakes": 1,
+                "3pt%": 33.33,
+                "Total2ptShots": 11,
+                "Total2ptMakes": 6,
+                "2pt%": 54.55,
+                "TotalMidRangeShots": 5,
+                "TotalMidRangeMakes": 4,
+                "MidRange%": 80.0,
+                "EFG%": 33.85,
+                "Turnover": 2,
+                "Foul": 4
+            }
+        },
+        {
+            "Iso_Right": {
+                "File": "player_iso_right_efficiency",
+                "TotalPlays": 25,
+                "Total3ptShots": 1,
+                "Total3ptMakes": 1,
+                "3pt%": 100.0,
+                "Total2ptShots": 17,
+                "Total2ptMakes": 7,
+                "2pt%": 41.18,
+                "TotalMidRangeShots": 8,
+                "TotalMidRangeMakes": 2,
+                "MidRange%": 25.0,
+                "EFG%": 27.5,
+                "Turnover": 3,
+                "Foul": 4
+            }
+        },
+        {
+            "Iso_Top": {
+                "File": "player_iso_top_efficiency",
+                "TotalPlays": 69,
+                "Total3ptShots": 3,
+                "Total3ptMakes": 0,
+                "3pt%": 0.0,
+                "Total2ptShots": 54,
+                "Total2ptMakes": 21,
+                "2pt%": 38.89,
+                "TotalMidRangeShots": 19,
+                "TotalMidRangeMakes": 10,
+                "MidRange%": 52.63,
+                "EFG%": 25.39,
+                "Turnover": 4,
+                "Foul": 8
+            }
+        }
+    ],
+    "Rollman_insights": [
+        {
+            "Rollman_Total": {
+                "File": "player_rollman_efficiency",
+                "TotalPlays": 62,
+                "Total3ptShots": 20,
+                "Total3ptMakes": 8,
+                "3pt%": 40.0,
+                "Total2ptShots": 30,
+                "Total2ptMakes": 14,
+                "2pt%": 46.67,
+                "TotalMidRangeShots": 2,
+                "TotalMidRangeMakes": 2,
+                "MidRange%": 100.0,
+                "EFG%": 54.75,
+                "Turnover": 8,
+                "Foul": 4
+            }
+        },
+        {
+            "Rollman Slip": 0.03225806451612903,
+            "Rollman Roll": 0.3709677419354839,
+            "Rollman Pop": 0.5967741935483871,
+            "Total Plays": 62
+        },
+        {
+            "Rollman_Slip": {
+                "File": "player_rollman_slip_efficiency",
+                "TotalPlays": 2,
+                "Total3ptShots": 1,
+                "Total3ptMakes": 0,
+                "3pt%": 0.0,
+                "Total2ptShots": 0,
+                "Total2ptMakes": 0,
+                "2pt%": "-",
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 0.0,
+                "Turnover": 1,
+                "Foul": 0
+            }
+        },
+        {
+            "Rollman_Roll": {
+                "File": "player_rollman_roll_efficiency",
+                "TotalPlays": 23,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 19,
+                "Total2ptMakes": 12,
+                "2pt%": 63.16,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 57.29,
+                "Turnover": 3,
+                "Foul": 1
+            }
+        },
+        {
+            "Rollman_Pop": {
+                "File": "player_rollman_pop_efficiency",
+                "TotalPlays": 37,
+                "Total3ptShots": 19,
+                "Total3ptMakes": 8,
+                "3pt%": 42.11,
+                "Total2ptShots": 11,
+                "Total2ptMakes": 2,
+                "2pt%": 18.18,
+                "TotalMidRangeShots": 2,
+                "TotalMidRangeMakes": 2,
+                "MidRange%": 100.0,
+                "EFG%": 56.79,
+                "Turnover": 4,
+                "Foul": 3
+            }
+        },
+        {
+            "Rollman Slip - Left": 0,
+            "Rollman Slip - Right": 0,
+            "Total Plays": 0
+        },
+        {
+            "Rollman_Pop_Drive": {
+                "File": "Efficiency for all Rollman drive plays together off of Pops.",
+                "TotalPlays": 4,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 2,
+                "Total2ptMakes": 0,
+                "2pt%": 0.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 0.0,
+                "Turnover": 1,
+                "Foul": 1
+            }
+        },
+        {},
+        {},
+        {
+            "Rollman Pop - Left": 0.5333333333333333,
+            "Rollman Pop - Right": 0.4666666666666667,
+            "Total Plays": 15
+        },
+        {
+            "Rollman_Pop_Left": {
+                "File": "player_rollman_leftdrive_pop_efficiency",
+                "TotalPlays": 8,
+                "Total3ptShots": 1,
+                "Total3ptMakes": 1,
+                "3pt%": 100.0,
+                "Total2ptShots": 4,
+                "Total2ptMakes": 0,
+                "2pt%": 0.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 37.5,
+                "Turnover": 2,
+                "Foul": 1
+            }
+        },
+        {
+            "Rollman_Pop_Right": {
+                "File": "player_rollman_rightdrive_pop_efficiency",
+                "TotalPlays": 7,
+                "Total3ptShots": 0,
+                "Total3ptMakes": 0,
+                "3pt%": "-",
+                "Total2ptShots": 4,
+                "Total2ptMakes": 0,
+                "2pt%": 0.0,
+                "TotalMidRangeShots": 0,
+                "TotalMidRangeMakes": 0,
+                "MidRange%": "-",
+                "EFG%": 0.0,
+                "Turnover": 1,
+                "Foul": 2
+            }
+        }
+    ]
+}
