@@ -2361,7 +2361,7 @@ if __name__ == "__main__":
     insights = analyze_player_performance(player_file, image_output_folder)
     
     # Specify the path for the output insights JSON file
-    output_insights_file = os.path.join(player_output_folder, 'insights_4.json')
+    output_insights_file = os.path.join(player_output_folder, 'insights.json')
 
     # Write the insights to the JSON file
     write_insights_to_json(insights, output_insights_file)

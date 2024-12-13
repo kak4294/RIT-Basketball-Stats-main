@@ -15,6 +15,9 @@ import pandas as pd
 import numpy as np
 import sys
 import os
+import shutil
+from Database.GameProcessor.process_games import add_game
+from Database.GameProcessor.csv_to_database import transfer_plays_to_db
 
 
 """
@@ -505,14 +508,26 @@ if __name__ == "__main__":
     #process csv files given 
     for csv_file in sys.argv[1:]:
         #Process each csv path
-        file_path = os.path.join('Data-Database/RIT/game_csv', csv_file)
-
-        #turn csv into pandas dataframe
-        df = pd.read_csv(file_path, index_col=False)
+        raw_file_path = os.path.join('/Users/kylekrebs/Documents/RIT-Basketball-Stats-main/data/2024_25/raw/unsaved_games', csv_file)
         
-        print(df.head())
-
-        final_df = process_plays(df)
+        # Creates a cleaned version of game data
+        raw_df = pd.read_csv(raw_file_path, index_col=False)
+        final_df = process_plays(raw_df)
+        
+        # Aggregates all team data together from one specific game and puts into csv file
+        add_game(raw_df, final_df)
+        
+        # Creates a new file with clean play data into seperate folder
         file_name = 'cleaned_' + csv_file
-        final_df.to_csv('Data-Database/RIT/RIT_clean_csv/' + file_name, encoding='utf-8', index=False)
+        cleaned_file_path = os.path.join('/Users/kylekrebs/Documents/RIT-Basketball-Stats-main/data/2024_25/cleaned/cleaned_game_csv/cleaned_csv', file_name)
+        final_df.to_csv(cleaned_file_path, encoding='utf-8', index=False)
+        
+        # Transfers each play into actual database
+        transfer_plays_to_db(cleaned_file_path)
+        
+        # Moves files to a saved location once they are in the database
+        source = os.path.join("/Users/kylekrebs/Documents/RIT-Basketball-Stats-main/data/2024_25/raw/unsaved_games", csv_file)
+        destination = os.path.join("/Users/kylekrebs/Documents/RIT-Basketball-Stats-main/data/2024_25/raw/saved_games", csv_file)
+        shutil.move(source, destination)
+
      

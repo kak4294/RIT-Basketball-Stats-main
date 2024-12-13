@@ -77,61 +77,13 @@ def find_playid(cur, playtype, playdirection, playaction):
     except mysql.connector.Error as e:
         print(f"Error: {e}")
 
-def map_opponents(team_name):
-  # Maps The result column values to their new outcome values
-    if team_name == 'Bar':
-        return 'Bard College'
-    elif team_name == 'CU':
-        return 'Clarkson'
-    elif team_name == 'HOB':
-        return 'Hobart'
-    elif team_name == 'IC':
-        return 'Ithaca'
-    elif team_name == 'NAZ':
-        return 'Nazareth'
-    elif team_name == 'RPI':
-        return 'RPI'
-    elif team_name == 'SKD':
-        return 'Skidmore'
-    elif team_name == 'SJC':
-        return 'St. John Fisher'
-    elif team_name == 'SLS':
-        return 'St. Lawrence'
-    elif team_name == 'UNY':
-        return 'Union College'
-    elif team_name == 'VC':
-        return 'Vassar'
-    elif team_name == 'IC':
-        return 'Wells'
-    elif team_name == 'ASU':
-        return 'Alfred State'
-    elif team_name == 'Elm':
-        return 'Elmira'
-    elif team_name == 'GUB':
-        return 'Gallaudent'
-    elif team_name == 'ROY':
-        return 'Rochester'
-    elif team_name == 'WEL':
-        return 'Wells'
-    else:
-        print(f'\nTeam Name: {team_name}\n')
-        return None
  
-def main():
+def transfer_plays_to_db(file_path):
     conn = connect_to_db()
     if conn:
         try:
-            if len(sys.argv) < 2:
-                print("Usage: python read_csv.py <csv file path_1> <csv file path_2>...")
-                sys.exit()
-            
-            for csv_file in sys.argv[1:]:
-                # Process each csv path
-                csv_file = 'cleaned_' + csv_file
-                file_path = os.path.join('/Users/kylekrebs/Documents/RIT-Basketball-Stats-main/data/2023_24/cleaned/cleaned_game_csv/RIT_clean_csv', csv_file)
-                data = read_csv(file_path)
-                insert_into_db(conn, data)
-            
+            data = read_csv(file_path)
+            insert_into_db(conn, data)
             conn.commit()  # Commit after all files are processed
         except Exception as e:
             print(f"An error occurred: {e}")
@@ -139,6 +91,3 @@ def main():
             conn.close()
     else:
         print("Failed to connect to the database")
-
-if __name__ == "__main__":
-    main()
