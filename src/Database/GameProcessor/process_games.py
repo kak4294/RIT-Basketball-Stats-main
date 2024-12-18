@@ -15,31 +15,45 @@ def update_score(row, new_df, one_or_two, team1, team2):
     - team1: Name of Team1.
     - team2: Name of Team2.
     """
-    # Initialize scores from the DataFrame
+    # Initialize scores from the DataFrame   
     if one_or_two == 1:
         if row['Result'] == 'Make 2 Pts':
             new_df.at[0, 'T1Pts'] += 2
         elif row['Result'] == 'Make 3 Pts':
             new_df.at[0, 'T1Pts'] += 3
-        elif row['Result'] == 'Free Throw' and 'FTM' in row['Synergy Tags']:
-            new_df.at[0, 'T1Pts'] += 1
+        elif row['Result'] == 'Free Throw':
+            if isinstance(row['Synergy Tags'], str):
+                if 'FTM' in row['Synergy Tags']:
+                    new_df.at[0, 'T1Pts'] += 1
+            else:
+                print(f"{team1} vs {team2}: Free Throw at Play #{row['#']} not accounted for.")
         elif row['Result'] in ['1 Pts', '0 Pts']:
-            if '3FGM' in row['Synergy Tags']:
-                new_df.at[0, 'T1Pts'] += 3
-            elif '2FGM' in row['Synergy Tags']:
-                new_df.at[0, 'T1Pts'] += 2
+            if isinstance(row['Synergy Tags'], str):
+                if '3FGM' in row['Synergy Tags']:
+                    new_df.at[0, 'T1Pts'] += 3
+                elif '2FGM' in row['Synergy Tags']:
+                    new_df.at[0, 'T1Pts'] += 2
+            else:
+                print(f"{team1} vs {team2}: And 1 at Play #{row['#']} not accounted for.")
     else:
         if row['Result'] == 'Make 2 Pts':
             new_df.at[0, 'T2Pts'] += 2
         elif row['Result'] == 'Make 3 Pts':
             new_df.at[0, 'T2Pts'] += 3
-        elif row['Result'] == 'Free Throw' and 'FTM' in row['Synergy Tags']:
-            new_df.at[0, 'T2Pts'] += 1
+        elif row['Result'] == 'Free Throw':
+            if isinstance(row['Synergy Tags'], str):
+                if 'FTM' in row['Synergy Tags']:
+                    new_df.at[0, 'T2Pts'] += 1
+            else:
+                print(f"{team1} vs {team2}: Free Throw at Play #{row['#']} not accounted for.")
         elif row['Result'] in ['1 Pts', '0 Pts']:
-            if '3FGM' in row['Synergy Tags']:
-                new_df.at[0, 'T2Pts'] += 3
-            elif '2FGM' in row['Synergy Tags']:
-                new_df.at[0, 'T2Pts'] += 2
+            if isinstance(row['Synergy Tags'], str):
+                if '3FGM' in row['Synergy Tags']:
+                    new_df.at[0, 'T2Pts'] += 3
+                elif '2FGM' in row['Synergy Tags']:
+                    new_df.at[0, 'T2Pts'] += 2
+            else:
+                print(f"{team1} vs {team2}: And 1 at Play #{row['#']} not accounted for.")
 
 def process_game(unprocessed_df: pd.DataFrame, processed_df: pd.DataFrame):
     """
@@ -190,7 +204,6 @@ def process_game(unprocessed_df: pd.DataFrame, processed_df: pd.DataFrame):
             elif key == 'Transition':  
                 update_transition(team1_update, row, game_df)
 
-    print(game_df.head())            
     return game_df
 
 def update_pnr(t1vt2, line, df: pd.DataFrame):
@@ -960,6 +973,5 @@ def add_game(csv_file: pd.DataFrame, processed_plays: pd.DataFrame):
         try:
             # Append the new game data without writing the headers
             game_df.to_csv(csv_path, mode='a', header=False, index=False)
-            print(f"Game data appended to '{csv_path}'.")
         except Exception as e:
             print(f"An error occurred while appending to the CSV file: {e}")
