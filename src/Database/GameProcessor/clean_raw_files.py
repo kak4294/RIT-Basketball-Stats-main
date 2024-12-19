@@ -62,7 +62,7 @@ def rename_files_replace_spaces(parent_dir):
             print(f"'{item_path}' is not a file. Skipping renaming.")
 
 def main():
-    parent_directory = "/Users/kylekrebs/Documents/RIT-Basketball-Stats-main/data/2023_24/raw/unsaved_games"
+    parent_directory = "/Users/kylekrebs/Documents/RIT-Basketball-Stats-main/data/2024_25/raw/unsaved_games"
     
     print("\n--- Processing Subdirectories ---")
     process_directories(parent_directory)

@@ -1,0 +1,141 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+SLS,RPI,St. Lawrence Saints,Turnover,N/A,Andrew Cowan,Post,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pmi,To Basket,PJ Scalisi,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,1.0,2025
+SLS,RPI,St. Lawrence Saints,Turnover,N/A,Andrew Cowan,Post,Middle,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,4.0,2025
+SLS,RPI,St. Lawrence Saints,2pmi,Dribble Jumper,Aiden Macaulay,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,3.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,1.0,2025
+SLS,RPI,St. Lawrence Saints,2pmi,Dribble Jumper,Gavin Macaulay,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,2.0,2025
+SLS,RPI,St. Lawrence Saints,Foul,To Basket,Aiden Macaulay,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,4.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,14,4.0,2025
+SLS,RPI,St. Lawrence Saints,Turnover,N/A,Aiden Macaulay,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,Liberty League,Liberty League,15,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Andrew Deppe,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,4.0,2025
+SLS,RPI,St. Lawrence Saints,2pmi,Dribble Jumper,Trey Syroka,PNR,High,Off,Adam Dudzinski,Spot Ups,Left,Drive,Liberty League,Liberty League,17,2.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,4.0,2025
+SLS,RPI,St. Lawrence Saints,2pmi,To Basket,Adam Dudzinski,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,19,1.0,2025
+SLS,RPI,St. Lawrence Saints,2pMa,Dribble Jumper,Trey Syroka,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,21,3.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,23,1.0,2025
+SLS,RPI,St. Lawrence Saints,3pmi,No Dribble Jumper,Gavin Macaulay,PNR,Left,Off,Chris Downs Jr.,Spot Ups,N/A,Shot,Liberty League,Liberty League,24,4.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pmi,Dribble Jumper,Dylan Matchett,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,25,2.0,2025
+SLS,RPI,St. Lawrence Saints,3pmi,No Dribble Jumper,Trey Syroka,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,4.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pMa,To Basket,Pat White,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,28,1.0,2025
+SLS,RPI,St. Lawrence Saints,2pMa,Dribble Jumper,Trey Syroka,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,29,3.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Pat White,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,4.0,2025
+SLS,RPI,St. Lawrence Saints,3pmi,No Dribble Jumper,Alexi Twahili,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,31,4.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,4.0,2025
+SLS,RPI,St. Lawrence Saints,3pmi,Dribble Jumper,Trey Syroka,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,4.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,35,4.0,2025
+SLS,RPI,St. Lawrence Saints,And1,To Basket,Aiden Macaulay,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,37,1.0,2025
+SLS,RPI,St. Lawrence Saints,2pmi,Dribble Jumper,Aiden Macaulay,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,41,3.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pmi,Dribble Jumper,Yechiel Stewart,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,42,4.0,2025
+SLS,RPI,St. Lawrence Saints,Turnover,N/A,Troy McPherson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,Turnover,To Basket,Chuck Clemons,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,45,1.0,2025
+SLS,RPI,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Iso,Right,N/A,Dan Anderson,Spot Ups,N/A,Shot,Liberty League,Liberty League,46,4.0,2025
+SLS,RPI,St. Lawrence Saints,Turnover,N/A,Trey Syroka,PNR,High,Off,Aiden Macaulay,Spot Ups,Right,Drive,Liberty League,Liberty League,48,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pmi,To Basket,Nate Tawiah-Boateng,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,,N/A,Chuck Clemons,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pmi,To Basket,Pat White,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,Foul,To Basket,Nate Tawiah-Boateng,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,55,1.0,2025
+SLS,RPI,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,58,4.0,2025
+SLS,RPI,St. Lawrence Saints,3pmi,No Dribble Jumper,Trey Syroka,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,4.0,2025
+SLS,RPI,St. Lawrence Saints,3pMa,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,4.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pmi,To Basket,Pat White,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,1.0,2025
+SLS,RPI,St. Lawrence Saints,2pmi,Dribble Jumper,Trey Syroka,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,3.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pMa,To Basket,Yechiel Stewart,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,65,1.0,2025
+SLS,RPI,St. Lawrence Saints,2pMa,To Basket,Aiden Macaulay,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,Turnover,N/A,Dylan Matchett,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,1.0,2025
+SLS,RPI,St. Lawrence Saints,Turnover,To Basket,Gavin Macaulay,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,68,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,Turnover,N/A,Dylan Matchett,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,69,1.0,2025
+SLS,RPI,St. Lawrence Saints,3pmi,No Dribble Jumper,Andrew Cowan,Post,Middle,N/A,Aiden Macaulay,Spot Ups,N/A,Shot,Liberty League,Liberty League,70,4.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,71,4.0,2025
+SLS,RPI,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,PNR,High,Away,Trey Syroka,Spot Ups,Left,Drive,Liberty League,Liberty League,72,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,74,4.0,2025
+SLS,RPI,St. Lawrence Saints,2pmi,To Basket,Gavin Macaulay,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,76,4.0,2025
+SLS,RPI,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,77,4.0,2025
+SLS,RPI,Rensselaer Polytechnic,Turnover,To Basket,Andrew Deppe,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,78,1.0,2025
+SLS,RPI,St. Lawrence Saints,2pmi,To Basket,Aiden Macaulay,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pmi,To Basket,Chuck Clemons,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,1.0,2025
+SLS,RPI,St. Lawrence Saints,2pmi,To Basket,Gavin Macaulay,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,81,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,PJ Scalisi,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,82,4.0,2025
+SLS,RPI,St. Lawrence Saints,Turnover,N/A,Adam Dudzinski,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,Turnover,N/A,Chuck Clemons,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,84,1.0,2025
+SLS,RPI,St. Lawrence Saints,Turnover,N/A,Trey Syroka,PNR,High,Off,Dan Anderson,Spot Ups,Left,Drive,Liberty League,Liberty League,85,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,86,4.0,2025
+SLS,RPI,St. Lawrence Saints,Turnover,N/A,Trey Syroka,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,4.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,90,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pmi,To Basket,Pat White,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,91,1.0,2025
+SLS,RPI,St. Lawrence Saints,3pmi,Dribble Jumper,Adam Dudzinski,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,93,4.0,2025
+SLS,RPI,St. Lawrence Saints,2pMa,To Basket,Dan Anderson,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,94,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pmi,Dribble Jumper,PJ Scalisi,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,2.0,2025
+SLS,RPI,St. Lawrence Saints,And1,To Basket,Dan Anderson,PNR,High,Away,Andrew Cowan,Cuts,N/A,Basket,Liberty League,Liberty League,96,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pmi,To Basket,Avery Eugster,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,1.0,2025
+SLS,RPI,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,4.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pmi,To Basket,Dylan Matchett,PNR,High,Off,Avery Eugster,Spot Ups,Right,Drive,Liberty League,Liberty League,101,1.0,2025
+SLS,RPI,St. Lawrence Saints,Turnover,N/A,Gavin Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,102,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,4.0,2025
+SLS,RPI,St. Lawrence Saints,3pMa,No Dribble Jumper,Gavin Macaulay,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,4.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,PJ Scalisi,PNR,High,Off,Dylan Matchett,Spot Ups,N/A,Shot,Liberty League,Liberty League,105,4.0,2025
+SLS,RPI,St. Lawrence Saints,Turnover,N/A,Dan Anderson,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,106,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pMa,To Basket,Dylan Matchett,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,107,1.0,2025
+SLS,RPI,St. Lawrence Saints,3pmi,No Dribble Jumper,Aiden Macaulay,PNR,Left,Off,Gavin Macaulay,Spot Ups,N/A,Shot,Liberty League,Liberty League,108,4.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,109,4.0,2025
+SLS,RPI,St. Lawrence Saints,3pMa,No Dribble Jumper,Adam Dudzinski,PNR,Right,Off,Dan Anderson,Spot Ups,N/A,Shot,Liberty League,Liberty League,110,4.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,4.0,2025
+SLS,RPI,St. Lawrence Saints,Turnover,N/A,Aiden Macaulay,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pmi,To Basket,Chuck Clemons,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,1.0,2025
+SLS,RPI,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,PNR,Left,Off,Adam Dudzinski,Spot Ups,Right,Drive,Liberty League,Liberty League,114,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Dylan Matchett,PNR,High,N/A,Chuck Clemons,Spot Ups,N/A,Shot,Liberty League,Liberty League,115,4.0,2025
+SLS,RPI,St. Lawrence Saints,Turnover,N/A,Trey Syroka,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,116,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,4.0,2025
+SLS,RPI,St. Lawrence Saints,Turnover,N/A,Trey Syroka,PNR,High,Off,Chris Downs Jr.,Spot Ups,N/A,N/A,Liberty League,Liberty League,118,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pmi,To Basket,Pat White,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,120,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pmi,To Basket,Pat White,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,121,1.0,2025
+SLS,RPI,St. Lawrence Saints,3pmi,No Dribble Jumper,Troy McPherson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,4.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,123,4.0,2025
+SLS,RPI,St. Lawrence Saints,3pmi,No Dribble Jumper,Chris Downs Jr.,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,124,4.0,2025
+SLS,RPI,St. Lawrence Saints,2pMa,To Basket,Chris Downs Jr.,Off Screens,Right,Curl,N/A,N/A,N/A,N/A,Liberty League,Liberty League,127,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pmi,To Basket,Nate Tawiah-Boateng,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,1.0,2025
+SLS,RPI,St. Lawrence Saints,2pmi,To Basket,Aiden Macaulay,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,129,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,4.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pmi,To Basket,Pat White,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,133,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pmi,Dribble Jumper,Chuck Clemons,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,135,4.0,2025
+SLS,RPI,Rensselaer Polytechnic,Turnover,N/A,Nate Tawiah-Boateng,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,136,1.0,2025
+SLS,RPI,St. Lawrence Saints,3pmi,No Dribble Jumper,Trey Syroka,PNR,Right,Off,Colton Suriano,Spot Ups,N/A,Shot,Liberty League,Liberty League,137,4.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Chuck Clemons,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,4.0,2025
+SLS,RPI,St. Lawrence Saints,Turnover,N/A,Andrew Cowan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,4.0,2025
+SLS,RPI,St. Lawrence Saints,2pMa,Dribble Jumper,Colton Suriano,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,142,2.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,143,4.0,2025
+SLS,RPI,Rensselaer Polytechnic,Foul,To Basket,Pat White,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,144,1.0,2025
+SLS,RPI,St. Lawrence Saints,Turnover,N/A,Aiden Macaulay,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,147,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pmi,To Basket,Dylan Matchett,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,1.0,2025
+SLS,RPI,St. Lawrence Saints,Turnover,N/A,Aiden Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,150,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pMa,To Basket,Dylan Matchett,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,151,1.0,2025
+SLS,RPI,St. Lawrence Saints,2pmi,Dribble Jumper,Trey Syroka,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,153,2.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pmi,To Basket,Chuck Clemons,PNR,High,Off,Avery Eugster,Cuts,N/A,Flash,Liberty League,Liberty League,154,1.0,2025
+SLS,RPI,St. Lawrence Saints,3pMa,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,4.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,156,4.0,2025
+SLS,RPI,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,PNR,Left,Away,Trey Syroka,Spot Ups,Right,Drive,Liberty League,Liberty League,158,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pmi,Dribble Jumper,Avery Eugster,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,160,3.0,2025
+SLS,RPI,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,4.0,2025
+SLS,RPI,St. Lawrence Saints,2pMa,To Basket,Dan Anderson,PNR,High,Off,Gavin Macaulay,Cuts,N/A,Basket,Liberty League,Liberty League,163,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,165,4.0,2025
+SLS,RPI,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,4.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,167,1.0,2025
+SLS,RPI,St. Lawrence Saints,Foul,N/A,Chris Downs Jr.,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,1.0,2025
+SLS,RPI,Rensselaer Polytechnic,Turnover,N/A,PJ Scalisi,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,171,1.0,2025
+SLS,RPI,St. Lawrence Saints,Turnover,To Basket,Chris Downs Jr.,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,172,1.0,2025
+SLS,RPI,,Foul,N/A,Chuck Clemons,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,1.0,2025
+SLS,RPI,,Foul,N/A,PJ Scalisi,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,180,1.0,2025
+SLS,RPI,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,183,4.0,2025
+SLS,RPI,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,184,1.0,2025
+SLS,RPI,St. Lawrence Saints,2pmi,Dribble Jumper,Trey Syroka,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,185,3.0,2025
+SLS,RPI,Rensselaer Polytechnic,Foul,N/A,Dylan Matchett,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,186,1.0,2025
+SLS,RPI,St. Lawrence Saints,Foul,To Basket,Chris Downs Jr.,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,191,1.0,2025
+SLS,RPI,,Foul,N/A,PJ Scalisi,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,194,1.0,2025
+SLS,RPI,St. Lawrence Saints,3pmi,No Dribble Jumper,Brayden Shepardson,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,197,4.0,2025
+SLS,RPI,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,199,4.0,2025

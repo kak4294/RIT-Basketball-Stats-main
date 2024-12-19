@@ -1,0 +1,142 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+RPI,VSUC,Vermont State University Castleton,3pmi,No Dribble Jumper,Ben Seiler,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,1,4.0,2025
+RPI,VSUC,Rensselaer Polytechnic,Turnover,To Basket,Avery Eugster,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,3,1.0,2025
+RPI,VSUC,Vermont State University Castleton,2pMa,Dribble Jumper,Ben Seiler,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,4,3.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pMa,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,5,4.0,2025
+RPI,VSUC,Vermont State University Castleton,2pmi,To Basket,Zach Thompson,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,6,1.0,2025
+RPI,VSUC,Vermont State University Castleton,2pmi,To Basket,Zach Thompson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,8,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Chuck Clemons,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,9,4.0,2025
+RPI,VSUC,Vermont State University Castleton,3pMa,No Dribble Jumper,Ben Seiler,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,10,4.0,2025
+RPI,VSUC,Rensselaer Polytechnic,Turnover,To Basket,PJ Scalisi,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,11,1.0,2025
+RPI,VSUC,Vermont State University Castleton,Turnover,N/A,Adam Bilodeau,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,14,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,Turnover,N/A,Chuck Clemons,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,15,1.0,2025
+RPI,VSUC,Vermont State University Castleton,2pMa,To Basket,Zach Thompson,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,16,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,PNR,High,Off,Andrew Deppe,P&R Roll Man,N/A,Pop,Liberty League,UNKNOWN,19,4.0,2025
+RPI,VSUC,Vermont State University Castleton,3pmi,Dribble Jumper,Zach Thompson,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,20,4.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,21,4.0,2025
+RPI,VSUC,Rensselaer Polytechnic,Turnover,N/A,Dylan Matchett,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,23,1.0,2025
+RPI,VSUC,Vermont State University Castleton,3pMa,No Dribble Jumper,Ben Seiler,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,24,4.0,2025
+RPI,VSUC,Rensselaer Polytechnic,Turnover,N/A,PJ Scalisi,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,25,1.0,2025
+RPI,VSUC,Vermont State University Castleton,2pmi,N/A,Justin Schwarzbeck,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,26,1.0,2025
+RPI,VSUC,Vermont State University Castleton,2pmi,To Basket,Justin Schwarzbeck,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,27,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,Turnover,N/A,PJ Scalisi,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,28,1.0,2025
+RPI,VSUC,Vermont State University Castleton,2pmi,Dribble Jumper,Crisrael Lithgow,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,29,3.0,2025
+RPI,VSUC,Rensselaer Polytechnic,2pmi,No Dribble Jumper,Abubacarr Camara,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,31,3.0,2025
+RPI,VSUC,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,32,1.0,2025
+RPI,VSUC,Vermont State University Castleton,3pmi,Dribble Jumper,Crisrael Lithgow,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,33,4.0,2025
+RPI,VSUC,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,34,1.0,2025
+RPI,VSUC,Vermont State University Castleton,Turnover,N/A,Adam Bilodeau,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,35,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,37,4.0,2025
+RPI,VSUC,Rensselaer Polytechnic,2pmi,To Basket,Pat White,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,38,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,And1,To Basket,Pat White,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,39,1.0,2025
+RPI,VSUC,Vermont State University Castleton,Turnover,N/A,Isaiah Francis,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,41,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,44,4.0,2025
+RPI,VSUC,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,45,1.0,2025
+RPI,VSUC,Vermont State University Castleton,2pmi,Dribble Jumper,Zach Thompson,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,46,2.0,2025
+RPI,VSUC,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,48,1.0,2025
+RPI,VSUC,Vermont State University Castleton,Turnover,N/A,Ben Seiler,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,50,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,2pmi,To Basket,Dylan Matchett,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,51,1.0,2025
+RPI,VSUC,Vermont State University Castleton,Turnover,N/A,Will Radcliff,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,52,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,Foul,To Basket,Nate Tawiah-Boateng,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,53,1.0,2025
+RPI,VSUC,Vermont State University Castleton,2pmi,To Basket,Ben Seiler,PNR,High,Off,Will Radcliff,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,56,1.0,2025
+RPI,VSUC,Vermont State University Castleton,2pMa,To Basket,Tray Blount,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,57,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,2pMa,To Basket,Pat White,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,58,1.0,2025
+RPI,VSUC,Vermont State University Castleton,And1,To Basket,Tray Blount,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,59,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,61,4.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,63,4.0,2025
+RPI,VSUC,Vermont State University Castleton,2pMa,To Basket,Tray Blount,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,64,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Yechiel Stewart,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,65,4.0,2025
+RPI,VSUC,Vermont State University Castleton,Turnover,N/A,Tray Blount,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,66,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Andrew Deppe,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,67,4.0,2025
+RPI,VSUC,Vermont State University Castleton,3pmi,No Dribble Jumper,Ben Seiler,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,68,4.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pMa,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,69,4.0,2025
+RPI,VSUC,Vermont State University Castleton,Foul,To Basket,Justin Schwarzbeck,Post,Middle,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,70,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,Turnover,N/A,PJ Scalisi,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,73,1.0,2025
+RPI,VSUC,Vermont State University Castleton,Turnover,N/A,Conner Mckearin,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,74,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Chuck Clemons,PNR,High,Off,Andrew Deppe,P&R Roll Man,N/A,Pop,Liberty League,UNKNOWN,75,4.0,2025
+RPI,VSUC,Vermont State University Castleton,3pmi,No Dribble Jumper,Ben Seiler,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,76,4.0,2025
+RPI,VSUC,Rensselaer Polytechnic,Turnover,To Basket,Andrew Deppe,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,77,1.0,2025
+RPI,VSUC,Vermont State University Castleton,2pMa,Dribble Jumper,Ben Seiler,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,79,2.0,2025
+RPI,VSUC,Rensselaer Polytechnic,Turnover,To Basket,Chuck Clemons,PNR,High,Off,Andrew Deppe,Cuts,N/A,Basket,Liberty League,UNKNOWN,80,1.0,2025
+RPI,VSUC,Vermont State University Castleton,3pmi,Dribble Jumper,Ben Seiler,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,81,4.0,2025
+RPI,VSUC,Vermont State University Castleton,3pmi,No Dribble Jumper,Justin Schwarzbeck,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,84,4.0,2025
+RPI,VSUC,Vermont State University Castleton,Turnover,N/A,Adam Bilodeau,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,86,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,87,4.0,2025
+RPI,VSUC,Vermont State University Castleton,Foul,To Basket,Ben Seiler,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,88,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,91,4.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Yechiel Stewart,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,93,4.0,2025
+RPI,VSUC,Vermont State University Castleton,2pmi,To Basket,Will Radcliff,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,95,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,2pMa,To Basket,PJ Scalisi,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,97,1.0,2025
+RPI,VSUC,Vermont State University Castleton,3pmi,Dribble Jumper,Ben Seiler,PNR,High,Off,Justin Schwarzbeck,Spot Ups,Right,Drive,Liberty League,UNKNOWN,98,4.0,2025
+RPI,VSUC,Rensselaer Polytechnic,2pMa,To Basket,PJ Scalisi,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,101,1.0,2025
+RPI,VSUC,Vermont State University Castleton,Turnover,N/A,Justin Schwarzbeck,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,102,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,103,4.0,2025
+RPI,VSUC,Vermont State University Castleton,3pMa,No Dribble Jumper,Zach Thompson,PNR,High,Off,Justin Schwarzbeck,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,104,4.0,2025
+RPI,VSUC,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,105,1.0,2025
+RPI,VSUC,Vermont State University Castleton,3pmi,Dribble Jumper,Ben Seiler,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,106,4.0,2025
+RPI,VSUC,Rensselaer Polytechnic,2pMa,To Basket,Chuck Clemons,PNR,High,Off,PJ Scalisi,Cuts,N/A,Basket,Liberty League,UNKNOWN,107,1.0,2025
+RPI,VSUC,Vermont State University Castleton,3pmi,No Dribble Jumper,Ben Seiler,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,108,4.0,2025
+RPI,VSUC,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,109,1.0,2025
+RPI,VSUC,Vermont State University Castleton,2pmi,To Basket,Will Radcliff,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,110,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Avery Eugster,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,111,4.0,2025
+RPI,VSUC,Vermont State University Castleton,2pmi,To Basket,Tray Blount,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,112,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,2pmi,Dribble Jumper,Chuck Clemons,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,113,2.0,2025
+RPI,VSUC,Vermont State University Castleton,3pMa,No Dribble Jumper,Zach Thompson,Post,Right,Right Shoulder,Ben Seiler,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,114,4.0,2025
+RPI,VSUC,Rensselaer Polytechnic,Turnover,N/A,Chuck Clemons,PNR,High,Off,PJ Scalisi,Spot Ups,Right,Drive,Liberty League,UNKNOWN,115,1.0,2025
+RPI,VSUC,Vermont State University Castleton,2pMa,To Basket,Will Radcliff,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,116,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Abubacarr Camara,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,117,4.0,2025
+RPI,VSUC,Vermont State University Castleton,Turnover,N/A,Will Radcliff,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,118,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,120,1.0,2025
+RPI,VSUC,Vermont State University Castleton,Turnover,N/A,Ben Seiler,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,121,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,2pmi,To Basket,Dylan Matchett,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,122,1.0,2025
+RPI,VSUC,Vermont State University Castleton,2pMa,Dribble Jumper,Tray Blount,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,124,3.0,2025
+RPI,VSUC,Rensselaer Polytechnic,Turnover,To Basket,Nate Tawiah-Boateng,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,125,1.0,2025
+RPI,VSUC,Vermont State University Castleton,Foul,To Basket,Crisrael Lithgow,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,126,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,129,4.0,2025
+RPI,VSUC,Rensselaer Polytechnic,Foul,To Basket,Pat White,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,130,1.0,2025
+RPI,VSUC,Vermont State University Castleton,Turnover,N/A,Crisrael Lithgow,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,133,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,And1,To Basket,Yechiel Stewart,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,134,1.0,2025
+RPI,VSUC,Vermont State University Castleton,Turnover,N/A,Tray Blount,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,136,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,2pmi,To Basket,Nate Tawiah-Boateng,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,137,1.0,2025
+RPI,VSUC,Vermont State University Castleton,Turnover,N/A,Ben Seiler,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,138,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,2pMa,To Basket,Nate Tawiah-Boateng,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,139,1.0,2025
+RPI,VSUC,Vermont State University Castleton,3pmi,No Dribble Jumper,Justin Schwarzbeck,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,140,4.0,2025
+RPI,VSUC,Rensselaer Polytechnic,Turnover,N/A,Nate Tawiah-Boateng,Post,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,141,1.0,2025
+RPI,VSUC,Vermont State University Castleton,2pmi,To Basket,Crisrael Lithgow,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,142,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Pat White,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,143,4.0,2025
+RPI,VSUC,Vermont State University Castleton,2pmi,To Basket,Zach Thompson,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,144,1.0,2025
+RPI,VSUC,Vermont State University Castleton,2pMa,To Basket,Will Radcliff,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,146,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,2pmi,To Basket,Tucker Tharpe,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,147,1.0,2025
+RPI,VSUC,Vermont State University Castleton,3pmi,Dribble Jumper,Zach Thompson,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,148,4.0,2025
+RPI,VSUC,Vermont State University Castleton,3pMa,No Dribble Jumper,Adam Bilodeau,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,150,4.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,151,4.0,2025
+RPI,VSUC,Vermont State University Castleton,2pMa,To Basket,Zach Thompson,PNR,High,Off,Will Radcliff,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,154,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,2pMa,To Basket,Pat White,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,156,1.0,2025
+RPI,VSUC,Vermont State University Castleton,Turnover,To Basket,Adam Bilodeau,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,157,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,158,4.0,2025
+RPI,VSUC,Rensselaer Polytechnic,2pmi,To Basket,Pat White,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,159,1.0,2025
+RPI,VSUC,Vermont State University Castleton,Turnover,To Basket,Conner Mckearin,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,160,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,161,4.0,2025
+RPI,VSUC,Vermont State University Castleton,2pMa,To Basket,Will Radcliff,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,162,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,And1,No Dribble Jumper,Pat White,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,163,4.0,2025
+RPI,VSUC,Vermont State University Castleton,2pmi,To Basket,Adam Bilodeau,PNR,Left,Off,Tray Blount,Spot Ups,Right,Drive,Liberty League,UNKNOWN,165,1.0,2025
+RPI,VSUC,Vermont State University Castleton,2pMa,To Basket,Will Radcliff,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,166,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,And1,To Basket,Pat White,Post,Left,Left Shoulder,PJ Scalisi,Spot Ups,Right,Drive,Liberty League,UNKNOWN,167,1.0,2025
+RPI,VSUC,Vermont State University Castleton,Turnover,N/A,Tray Blount,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,169,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,170,4.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,172,4.0,2025
+RPI,VSUC,Vermont State University Castleton,3pMa,No Dribble Jumper,Justin Schwarzbeck,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,173,4.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,174,4.0,2025
+RPI,VSUC,Vermont State University Castleton,3pMa,Dribble Jumper,Crisrael Lithgow,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,176,4.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,177,4.0,2025
+RPI,VSUC,Vermont State University Castleton,2pmi,To Basket,Crisrael Lithgow,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,178,1.0,2025
+RPI,VSUC,Vermont State University Castleton,3pMa,No Dribble Jumper,Ben Seiler,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,182,4.0,2025
+RPI,VSUC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,183,4.0,2025
+RPI,VSUC,Vermont State University Castleton,Turnover,N/A,Crisrael Lithgow,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,184,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,185,1.0,2025
+RPI,VSUC,Vermont State University Castleton,Turnover,N/A,Ben Seiler,Spot Ups,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,186,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,187,1.0,2025
+RPI,VSUC,Vermont State University Castleton,Foul,To Basket,Crisrael Lithgow,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,188,1.0,2025
+RPI,VSUC,,Foul,N/A,Chuck Clemons,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,191,1.0,2025
+RPI,VSUC,Rensselaer Polytechnic,Foul,N/A,Dylan Matchett,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,193,1.0,2025
+RPI,VSUC,Vermont State University Castleton,3pmi,Dribble Jumper,Zach Thompson,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,196,4.0,2025

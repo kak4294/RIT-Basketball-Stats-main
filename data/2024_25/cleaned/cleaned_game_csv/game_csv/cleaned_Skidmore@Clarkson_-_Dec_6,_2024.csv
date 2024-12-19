@@ -1,0 +1,166 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+CU,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Aidan Roy,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,3.0,2025
+CU,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,PNR,High,Off,Hakeem Daphnis,Spot Ups,N/A,Shot,Liberty League,Liberty League,3,4.0,2025
+CU,SKD,Clarkson University Golden Knights,2pmi,Dribble Jumper,Braeden Burns,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,2.0,2025
+CU,SKD,Skidmore Thoroughbreds,Turnover,N/A,Charlie Fantom,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,1.0,2025
+CU,SKD,Clarkson University Golden Knights,3pMa,Dribble Jumper,Lorenzo Rappa,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,4.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,1.0,2025
+CU,SKD,,Foul,To Basket,Braeden Burns,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pmi,No Dribble Jumper,Alexei Downie,Post,Middle,N/A,Joey Skoric,Spot Ups,N/A,Shot,Liberty League,Liberty League,11,3.0,2025
+CU,SKD,Clarkson University Golden Knights,2pMa,To Basket,Steve DeRegis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,4.0,2025
+CU,SKD,Clarkson University Golden Knights,3pmi,Dribble Jumper,Braeden Burns,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,14,4.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Alexei Downie,Post,Left,Dribble,Joey Skoric,Cuts,N/A,Basket,Liberty League,Liberty League,15,1.0,2025
+CU,SKD,Clarkson University Golden Knights,2pmi,To Basket,Finn Cork,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,1.0,2025
+CU,SKD,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,4.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Charlie Fantom,PNR,Right,Off,Aidan Roy,P&R Roll Man,Left,Pop,Liberty League,Liberty League,19,2.0,2025
+CU,SKD,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,4.0,2025
+CU,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,4.0,2025
+CU,SKD,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,23,4.0,2025
+CU,SKD,Clarkson University Golden Knights,3pmi,Dribble Jumper,Jack Dalgety,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,4.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Aidan Roy,PNR,Left,Off,Charlie Fantom,Spot Ups,Left,Drive,Liberty League,Liberty League,25,2.0,2025
+CU,SKD,Skidmore Thoroughbreds,Foul,To Basket,Hakeem Daphnis,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,1.0,2025
+CU,SKD,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,29,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Hakeem Daphnis,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,1.0,2025
+CU,SKD,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,31,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,Turnover,N/A,Aidan Roy,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,1.0,2025
+CU,SKD,Clarkson University Golden Knights,And1,To Basket,Braeden Burns,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Charlie Fantom,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,35,4.0,2025
+CU,SKD,Clarkson University Golden Knights,2pmi,To Basket,Steve DeRegis,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,37,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Charlie Fantom,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,38,2.0,2025
+CU,SKD,Clarkson University Golden Knights,Turnover,N/A,Steve DeRegis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,And1,To Basket,Aidan Roy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,41,1.0,2025
+CU,SKD,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Ben Rappa,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,45,4.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Jack LaGarde,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,46,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Jake Walsh,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,48,1.0,2025
+CU,SKD,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matthew Parent,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,4.0,2025
+CU,SKD,Clarkson University Golden Knights,Foul,To Basket,Ben Rappa,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Nick Padilla,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,4.0,2025
+CU,SKD,Clarkson University Golden Knights,2pmi,To Basket,Ben Rappa,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,54,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Nick Padilla,PNR,High,Off,Hakeem Daphnis,Spot Ups,Right,Drive,Liberty League,Liberty League,56,3.0,2025
+CU,SKD,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matthew Parent,PNR,Right,Off,Jack Dalgety,Spot Ups,N/A,Shot,Liberty League,Liberty League,57,4.0,2025
+CU,SKD,Clarkson University Golden Knights,Turnover,N/A,Jack Dalgety,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,59,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,Turnover,N/A,Jake Walsh,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,1.0,2025
+CU,SKD,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matthew Parent,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,61,4.0,2025
+CU,SKD,Skidmore Thoroughbreds,Turnover,N/A,Ethan Madeiros,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,1.0,2025
+CU,SKD,,Foul,N/A,Braeden Burns,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Charlie Fantom,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,3.0,2025
+CU,SKD,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Matt Toscano,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,4.0,2025
+CU,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,68,4.0,2025
+CU,SKD,Clarkson University Golden Knights,3pmi,Dribble Jumper,Casey Montesano,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,69,4.0,2025
+CU,SKD,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,71,4.0,2025
+CU,SKD,Skidmore Thoroughbreds,Turnover,N/A,Joey Skoric,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,1.0,2025
+CU,SKD,Clarkson University Golden Knights,2pMa,To Basket,Matt Toscano,PNR,High,Off,Braeden Burns,Spot Ups,Right,Drive,Liberty League,Liberty League,74,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Alexei Downie,Post,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,1.0,2025
+CU,SKD,Clarkson University Golden Knights,Turnover,N/A,Jack Dalgety,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,76,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Hakeem Daphnis,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,77,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,Turnover,N/A,Charlie Fantom,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,78,1.0,2025
+CU,SKD,Clarkson University Golden Knights,Turnover,N/A,Braeden Burns,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,4.0,2025
+CU,SKD,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matt Toscano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,81,4.0,2025
+CU,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,4.0,2025
+CU,SKD,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,84,4.0,2025
+CU,SKD,Skidmore Thoroughbreds,Turnover,To Basket,Nick Padilla,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,1.0,2025
+CU,SKD,Clarkson University Golden Knights,2pmi,To Basket,Casey Montesano,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,86,1.0,2025
+CU,SKD,Clarkson University Golden Knights,Foul,To Basket,Jack Dalgety,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Jake Walsh,PNR,High,Off,Prince Shyllon,Spot Ups,Left,Drive,Liberty League,Liberty League,90,2.0,2025
+CU,SKD,Clarkson University Golden Knights,Turnover,N/A,Ben Rappa,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,91,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pMa,No Dribble Jumper,Prince Shyllon,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,92,3.0,2025
+CU,SKD,Clarkson University Golden Knights,Foul,N/A,Lorenzo Rappa,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,94,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Nick Padilla,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,97,2.0,2025
+CU,SKD,Clarkson University Golden Knights,2pMa,To Basket,Steve DeRegis,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Jake Walsh,Off Screens,Left,Curl,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,And1,To Basket,Alexei Downie,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,1.0,2025
+CU,SKD,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,102,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Prince Shyllon,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,Foul,Dribble Jumper,Nick Padilla,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,2.0,2025
+CU,SKD,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Jack Dalgety,Post,Right,Right Shoulder,Ben Rappa,Spot Ups,N/A,Shot,Liberty League,Liberty League,107,4.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,108,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,Turnover,N/A,Ethan Madeiros,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,109,1.0,2025
+CU,SKD,Clarkson University Golden Knights,2pMa,To Basket,Steve DeRegis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,110,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Aidan Roy,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,2.0,2025
+CU,SKD,Clarkson University Golden Knights,Foul,N/A,Jack Dalgety,Post,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Nick Padilla,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,4.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,116,1.0,2025
+CU,SKD,Clarkson University Golden Knights,2pMa,To Basket,Lorenzo Rappa,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Joey Skoric,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,4.0,2025
+CU,SKD,Clarkson University Golden Knights,3pmi,Dribble Jumper,Steve DeRegis,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,4.0,2025
+CU,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,120,4.0,2025
+CU,SKD,Clarkson University Golden Knights,2pMa,Hook Shot,Finn Cork,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,121,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Charlie Fantom,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,Foul,To Basket,Alexei Downie,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,123,1.0,2025
+CU,SKD,Clarkson University Golden Knights,2pmi,Dribble Jumper,Braeden Burns,PNR,High,Off,Lorenzo Rappa,Spot Ups,Right,Drive,Liberty League,Liberty League,126,2.0,2025
+CU,SKD,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,4.0,2025
+CU,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,129,4.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Hakeem Daphnis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,130,1.0,2025
+CU,SKD,Clarkson University Golden Knights,2pMa,To Basket,Lorenzo Rappa,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Charlie Fantom,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,4.0,2025
+CU,SKD,Clarkson University Golden Knights,Turnover,N/A,Finn Cork,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,133,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Joey Skoric,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,134,1.0,2025
+CU,SKD,Clarkson University Golden Knights,3pMa,Dribble Jumper,Steve DeRegis,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,135,4.0,2025
+CU,SKD,Skidmore Thoroughbreds,Foul,N/A,Joey Skoric,Post,Left,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,136,1.0,2025
+CU,SKD,Clarkson University Golden Knights,Turnover,N/A,Lorenzo Rappa,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Charlie Fantom,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Aidan Roy,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,1.0,2025
+CU,SKD,Clarkson University Golden Knights,2pMa,To Basket,Steve DeRegis,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,Turnover,N/A,Joey Skoric,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,147,1.0,2025
+CU,SKD,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Lorenzo Rappa,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,148,4.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Aidan Roy,PNR,Left,Off,Jack LaGarde,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,149,1.0,2025
+CU,SKD,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,150,4.0,2025
+CU,SKD,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Aidan Roy,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,151,4.0,2025
+CU,SKD,Clarkson University Golden Knights,Turnover,N/A,Ben Rappa,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,152,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,153,4.0,2025
+CU,SKD,Clarkson University Golden Knights,2pmi,To Basket,Steve DeRegis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,154,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,Turnover,N/A,Jack LaGarde,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,156,1.0,2025
+CU,SKD,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Ben Rappa,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,4.0,2025
+CU,SKD,Clarkson University Golden Knights,Foul,To Basket,Finn Cork,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,162,4.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Joey Skoric,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,163,2.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,164,2.0,2025
+CU,SKD,Clarkson University Golden Knights,2pmi,Drop Step,Finn Cork,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,165,1.0,2025
+CU,SKD,Clarkson University Golden Knights,2pMa,To Basket,Jack Dalgety,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,Turnover,N/A,Charlie Fantom,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,167,1.0,2025
+CU,SKD,Clarkson University Golden Knights,2pmi,No Dribble Jumper,Finn Cork,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,3.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pmi,Hook Shot,Ethan Madeiros,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,169,1.0,2025
+CU,SKD,Clarkson University Golden Knights,2pMa,To Basket,Matt Toscano,PNR,High,Off,Braeden Burns,Spot Ups,Left,Drive,Liberty League,Liberty League,170,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,171,1.0,2025
+CU,SKD,Clarkson University Golden Knights,Turnover,N/A,Matt Toscano,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,172,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Charlie Fantom,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,1.0,2025
+CU,SKD,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,174,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,Iso,Right,N/A,Ethan Madeiros,Cuts,N/A,Basket,Liberty League,Liberty League,175,1.0,2025
+CU,SKD,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,176,4.0,2025
+CU,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Jake Walsh,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,4.0,2025
+CU,SKD,Clarkson University Golden Knights,2pmi,To Basket,Finn Cork,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,179,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,180,1.0,2025
+CU,SKD,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Matt Toscano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,4.0,2025
+CU,SKD,Skidmore Thoroughbreds,Foul,To Basket,Hakeem Daphnis,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,182,1.0,2025
+CU,SKD,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,185,1.0,2025
+CU,SKD,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,186,4.0,2025
+CU,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Alexei Downie,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,187,4.0,2025
+CU,SKD,Clarkson University Golden Knights,Turnover,N/A,Finn Cork,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,188,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Aidan Roy,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,189,4.0,2025
+CU,SKD,Clarkson University Golden Knights,Foul,To Basket,Braeden Burns,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,190,1.0,2025
+CU,SKD,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,194,4.0,2025
+CU,SKD,Clarkson University Golden Knights,2pMa,Hook Shot,Jack Dalgety,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,196,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,PNR,High,Off,Jake Walsh,Spot Ups,N/A,Shot,Liberty League,Liberty League,197,4.0,2025
+CU,SKD,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,198,4.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Aidan Roy,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,199,1.0,2025
+CU,SKD,Clarkson University Golden Knights,Turnover,N/A,Finn Cork,Post,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,200,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,Turnover,N/A,Charlie Fantom,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,201,1.0,2025
+CU,SKD,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,202,4.0,2025
+CU,SKD,Skidmore Thoroughbreds,And1,To Basket,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,203,1.0,2025
+CU,SKD,Clarkson University Golden Knights,Foul,N/A,Lorenzo Rappa,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,205,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,207,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,209,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Jack LaGarde,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,210,1.0,2025
+CU,SKD,Clarkson University Golden Knights,Turnover,To Basket,Steve DeRegis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,211,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Prince Shyllon,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,212,2.0,2025
+CU,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,214,4.0,2025
+CU,SKD,Clarkson University Golden Knights,Turnover,N/A,Jack Dalgety,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,215,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Dillon McCafferty,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,216,2.0,2025
+CU,SKD,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Sean Enelamah,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,217,4.0,2025
+CU,SKD,Skidmore Thoroughbreds,Foul,To Basket,Nick Padilla,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,218,1.0,2025
+CU,SKD,Clarkson University Golden Knights,Turnover,N/A,Casey Montesano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,221,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Dillon McCafferty,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,222,1.0,2025
+CU,SKD,Clarkson University Golden Knights,Turnover,N/A,Jeff Dewar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,224,1.0,2025
+CU,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,PNR,High,Off,Fumani Sithole,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,225,4.0,2025

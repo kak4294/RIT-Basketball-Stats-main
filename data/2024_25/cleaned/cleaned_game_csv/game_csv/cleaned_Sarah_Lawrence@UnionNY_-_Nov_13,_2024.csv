@@ -1,0 +1,168 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+UNY,SLC,Union (NY) Chargers,2pMa,Dribble Jumper,Jack Plesser,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,1,2.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pMa,No Dribble Jumper,Eamon Kelly,PNR,Right,Off,John Kairouz,P&R Roll Man,N/A,Pop,Liberty League,UNKNOWN,2,4.0,2025
+UNY,SLC,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,4,1.0,2025
+UNY,SLC,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,5,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pMa,To Basket,Braden Burman,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,6,1.0,2025
+UNY,SLC,Union (NY) Chargers,Turnover,N/A,Jack Plesser,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,7,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pmi,Dribble Jumper,Andrew Kim,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,8,4.0,2025
+UNY,SLC,Union (NY) Chargers,3pMa,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,9,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pMa,To Basket,Lemar Fulmore,PNR,High,Off,John Kairouz,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,10,1.0,2025
+UNY,SLC,Union (NY) Chargers,3pMa,No Dribble Jumper,Brendan Reid,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,11,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pmi,N/A,John Kairouz,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,12,1.0,2025
+UNY,SLC,Union (NY) Chargers,3pmi,Dribble Jumper,Tanner Tedesco,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,14,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pMa,Dribble Jumper,Dean Furlong,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,15,2.0,2025
+UNY,SLC,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,16,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,Turnover,N/A,John Kairouz,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,17,1.0,2025
+UNY,SLC,Union (NY) Chargers,Foul,To Basket,Jaden Jauregui,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,18,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,Turnover,N/A,Andrew Kim,PNR,Right,Off,Kyle Jefferson,Spot Ups,N/A,N/A,Liberty League,UNKNOWN,21,1.0,2025
+UNY,SLC,Union (NY) Chargers,2pMa,To Basket,Tanner Tedesco,PNR,High,Off,Jack Plesser,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,22,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,Turnover,N/A,Chris Dougherty,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,23,1.0,2025
+UNY,SLC,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,24,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pMa,Dribble Jumper,Andrew Kim,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,25,4.0,2025
+UNY,SLC,Union (NY) Chargers,2pmi,Dribble Jumper,Tanner Tedesco,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,26,2.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pMa,No Dribble Jumper,Thomas Matonti,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,27,4.0,2025
+UNY,SLC,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Post,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,30,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,Turnover,N/A,Chris Dougherty,Post,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,31,1.0,2025
+UNY,SLC,Union (NY) Chargers,2pmi,To Basket,Christian Dufort,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,32,1.0,2025
+UNY,SLC,Union (NY) Chargers,2pmi,To Basket,Aren Cummings,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,34,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Braden Burman,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,35,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pMa,N/A,Braden Burman,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,37,1.0,2025
+UNY,SLC,Union (NY) Chargers,Turnover,N/A,Matthew Garside,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,38,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pMa,No Dribble Jumper,Eamon Kelly,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,39,4.0,2025
+UNY,SLC,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,40,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Eamon Kelly,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,41,4.0,2025
+UNY,SLC,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,42,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pmi,To Basket,Braden Burman,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,43,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,Turnover,N/A,Andrew Kim,PNR,Right,Off,Thomas Matonti,Spot Ups,Right,Drive,Liberty League,UNKNOWN,44,1.0,2025
+UNY,SLC,Union (NY) Chargers,Foul,To Basket,Aren Cummings,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,45,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pMa,No Dribble Jumper,Eamon Kelly,PNR,Left,Off,Braden Burman,P&R Roll Man,N/A,Pop,Liberty League,UNKNOWN,48,4.0,2025
+UNY,SLC,Union (NY) Chargers,3pMa,No Dribble Jumper,Neil Daterao,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,49,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Aiden Morel,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,50,4.0,2025
+UNY,SLC,Union (NY) Chargers,3pmi,No Dribble Jumper,Neil Daterao,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,51,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,And1,To Basket,Lemar Fulmore,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,52,1.0,2025
+UNY,SLC,Union (NY) Chargers,2pmi,To Basket,Matthew Garside,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,54,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Braden Burman,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,55,4.0,2025
+UNY,SLC,Union (NY) Chargers,2pmi,To Basket,Aren Cummings,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,56,1.0,2025
+UNY,SLC,Union (NY) Chargers,Turnover,N/A,Brendan Reid,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,57,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pmi,Dribble Jumper,Braden Burman,Off Screens,Right,Curl,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,58,2.0,2025
+UNY,SLC,Union (NY) Chargers,Turnover,N/A,Matthew Garside,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,59,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pmi,To Basket,Lemar Fulmore,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,61,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pmi,Dribble Jumper,Andrew Kim,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,64,4.0,2025
+UNY,SLC,Union (NY) Chargers,2pmi,Hook Shot,Aren Cummings,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,65,1.0,2025
+UNY,SLC,Union (NY) Chargers,2pMa,Dribble Jumper,Tanner Tedesco,PNR,Right,Off,Brendan Reid,P&R Roll Man,N/A,Slips,Liberty League,UNKNOWN,67,2.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,Turnover,N/A,Andrew Kim,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,68,1.0,2025
+UNY,SLC,Union (NY) Chargers,2pMa,Hook Shot,Christian Dufort,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,69,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pmi,Dribble Jumper,Lemar Fulmore,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,70,2.0,2025
+UNY,SLC,Union (NY) Chargers,3pMa,No Dribble Jumper,Brendan Reid,Post,Right,Right Shoulder,Christian Dufort,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,71,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,Turnover,N/A,Andrew Kim,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,72,1.0,2025
+UNY,SLC,Union (NY) Chargers,2pmi,To Basket,Tanner Tedesco,PNR,Right,Off,Brendan Reid,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,73,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Andrew Kim,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,74,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pmi,To Basket,John Kairouz,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,75,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Dean Furlong,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,77,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pMa,No Dribble Jumper,Dean Furlong,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,79,4.0,2025
+UNY,SLC,Union (NY) Chargers,2pMa,To Basket,Matthew Garside,PNR,Left,Off,Brendan Reid,Spot Ups,Right,Drive,Liberty League,UNKNOWN,81,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pmi,To Basket,Eamon Kelly,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,82,1.0,2025
+UNY,SLC,Union (NY) Chargers,And1,To Basket,Christian Dufort,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,83,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Braden Burman,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,85,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pmi,To Basket,Eamon Kelly,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,87,1.0,2025
+UNY,SLC,Union (NY) Chargers,2pmi,Dribble Jumper,Jack Plesser,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,88,2.0,2025
+UNY,SLC,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,90,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,Foul,To Basket,Gavin Wright,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,91,1.0,2025
+UNY,SLC,Union (NY) Chargers,2pmi,To Basket,Tanner Tedesco,PNR,Left,Off,Jack Plesser,Cuts,N/A,Basket,Liberty League,UNKNOWN,94,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pMa,Dribble Jumper,Eamon Kelly,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,95,4.0,2025
+UNY,SLC,Union (NY) Chargers,Turnover,N/A,Brendan Reid,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,96,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,Turnover,To Basket,John Kairouz,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,97,1.0,2025
+UNY,SLC,Union (NY) Chargers,2pmi,Dribble Jumper,Matthew Garside,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,98,2.0,2025
+UNY,SLC,Union (NY) Chargers,2pMa,Dribble Jumper,Tanner Tedesco,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,99,2.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,Turnover,N/A,Lemar Fulmore,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,100,1.0,2025
+UNY,SLC,Union (NY) Chargers,3pmi,No Dribble Jumper,Jaden Jauregui,PNR,Right,Off,Brendan Reid,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,102,4.0,2025
+UNY,SLC,Union (NY) Chargers,2pMa,To Basket,Jaden Jauregui,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,103,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pMa,Dribble Jumper,Andrew Kim,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,104,2.0,2025
+UNY,SLC,Union (NY) Chargers,3pMa,No Dribble Jumper,Jack Plesser,Post,Left,N/A,Jaden Jauregui,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,105,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pmi,Dribble Jumper,Eamon Kelly,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,106,3.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pmi,No Dribble Jumper,Braden Burman,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,108,3.0,2025
+UNY,SLC,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,109,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pmi,To Basket,Lemar Fulmore,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,110,1.0,2025
+UNY,SLC,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,111,4.0,2025
+UNY,SLC,Union (NY) Chargers,Turnover,N/A,Christian Dufort,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,112,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pMa,No Dribble Jumper,Andrew Kim,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,113,4.0,2025
+UNY,SLC,Union (NY) Chargers,2pmi,Dribble Jumper,Jaden Jauregui,PNR,Left,Away,Tanner Tedesco,Spot Ups,Right,Drive,Liberty League,UNKNOWN,114,2.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Thomas Matonti,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,115,4.0,2025
+UNY,SLC,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,116,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Andrew Kim,PNR,High,Off,Eamon Kelly,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,117,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pmi,Dribble Jumper,Andrew Kim,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,119,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Thomas Matonti,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,121,4.0,2025
+UNY,SLC,Union (NY) Chargers,Foul,To Basket,Tanner Tedesco,PNR,High,Off,Jack Plesser,Cuts,N/A,Basket,Liberty League,UNKNOWN,122,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pmi,Hook Shot,Braden Burman,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,125,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pMa,Dribble Jumper,Eamon Kelly,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,127,3.0,2025
+UNY,SLC,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,128,4.0,2025
+UNY,SLC,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,130,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pmi,No Dribble Jumper,Eamon Kelly,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,131,2.0,2025
+UNY,SLC,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,132,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Eamon Kelly,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,133,4.0,2025
+UNY,SLC,Union (NY) Chargers,Turnover,N/A,Tanner Tedesco,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,134,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pMa,To Basket,Chris Dougherty,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,135,1.0,2025
+UNY,SLC,Union (NY) Chargers,3pMa,No Dribble Jumper,Jack Plesser,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,136,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pmi,To Basket,Lemar Fulmore,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,137,1.0,2025
+UNY,SLC,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,PNR,High,Off,Christian Dufort,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,138,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pMa,No Dribble Jumper,Aiden Morel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,139,4.0,2025
+UNY,SLC,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,PNR,High,Off,Brendan Reid,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,140,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,Turnover,N/A,Dean Furlong,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,141,1.0,2025
+UNY,SLC,Union (NY) Chargers,2pmi,To Basket,Matthew Garside,PNR,Left,Off,Jaden Jauregui,Spot Ups,Left,Drive,Liberty League,UNKNOWN,143,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,Turnover,N/A,Chris Dougherty,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,144,1.0,2025
+UNY,SLC,Union (NY) Chargers,2pmi,To Basket,Matthew Garside,PNR,High,Off,Aren Cummings,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,146,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Dean Furlong,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,147,4.0,2025
+UNY,SLC,Union (NY) Chargers,2pmi,To Basket,Aren Cummings,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,148,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pMa,No Dribble Jumper,Aiden Morel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,149,4.0,2025
+UNY,SLC,Union (NY) Chargers,2pmi,To Basket,Christian Dufort,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,150,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,Turnover,N/A,Dean Furlong,Transition,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,151,1.0,2025
+UNY,SLC,Union (NY) Chargers,Foul,To Basket,Tanner Tedesco,PNR,Right,Off,Christian Dufort,Spot Ups,Right,Drive,Liberty League,UNKNOWN,152,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Braden Burman,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,155,4.0,2025
+UNY,SLC,Union (NY) Chargers,Turnover,To Basket,Brendan Reid,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,156,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pMa,To Basket,John Kairouz,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,157,1.0,2025
+UNY,SLC,Union (NY) Chargers,Turnover,N/A,Christian Dufort,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,158,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pMa,No Dribble Jumper,Eamon Kelly,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,159,4.0,2025
+UNY,SLC,Union (NY) Chargers,2pmi,Dribble Jumper,Tanner Tedesco,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,160,2.0,2025
+UNY,SLC,Union (NY) Chargers,Foul,To Basket,Aren Cummings,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,161,1.0,2025
+UNY,SLC,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,165,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pMa,No Dribble Jumper,Braden Burman,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,166,4.0,2025
+UNY,SLC,Union (NY) Chargers,2pmi,To Basket,Aren Cummings,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,167,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Aiden Morel,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,168,4.0,2025
+UNY,SLC,Union (NY) Chargers,2pmi,To Basket,Tanner Tedesco,PNR,High,Off,Aren Cummings,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,169,1.0,2025
+UNY,SLC,Union (NY) Chargers,2pMa,To Basket,Aren Cummings,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,170,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,Turnover,To Basket,Andrew Kim,PNR,High,Off,Aiden Morel,Cuts,N/A,Basket,Liberty League,UNKNOWN,171,1.0,2025
+UNY,SLC,Union (NY) Chargers,2pmi,Dribble Jumper,Tanner Tedesco,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,172,2.0,2025
+UNY,SLC,Union (NY) Chargers,Turnover,N/A,Brendan Reid,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,173,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pmi,Dribble Jumper,Eamon Kelly,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,174,2.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pmi,To Basket,Eamon Kelly,PNR,Left,Off,Chris Dougherty,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,175,1.0,2025
+UNY,SLC,Union (NY) Chargers,3pMa,No Dribble Jumper,Jack Plesser,Post,Left,N/A,Matthew Garside,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,176,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pmi,To Basket,Andrew Kim,PNR,High,Off,Braden Burman,Cuts,N/A,Flash,Liberty League,UNKNOWN,177,1.0,2025
+UNY,SLC,Union (NY) Chargers,2pMa,To Basket,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,178,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,Turnover,N/A,Andrew Kim,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,179,1.0,2025
+UNY,SLC,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,180,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Andrew Kim,PNR,High,Off,Braden Burman,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,182,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,Turnover,N/A,Chris Dougherty,Post,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,184,1.0,2025
+UNY,SLC,Union (NY) Chargers,Turnover,N/A,Tanner Tedesco,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,185,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pmi,To Basket,Braden Burman,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,186,1.0,2025
+UNY,SLC,Union (NY) Chargers,3pMa,No Dribble Jumper,Jaden Jauregui,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,187,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pmi,To Basket,Andrew Kim,PNR,High,Off,John Kairouz,Cuts,N/A,Basket,Liberty League,UNKNOWN,188,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Andrew Kim,PNR,High,Off,Aiden Morel,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,189,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pMa,No Dribble Jumper,Eamon Kelly,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,191,4.0,2025
+UNY,SLC,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,PNR,High,Off,Jack Plesser,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,192,4.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Aiden Morel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,193,4.0,2025
+UNY,SLC,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,194,4.0,2025
+UNY,SLC,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,195,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Eamon Kelly,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,196,4.0,2025
+UNY,SLC,Union (NY) Chargers,Turnover,N/A,Christian Dufort,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,197,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,And1,To Basket,Braden Burman,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,198,1.0,2025
+UNY,SLC,Union (NY) Chargers,Foul,N/A,Tanner Tedesco,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,200,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pmi,Dribble Jumper,Andrew Kim,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,203,3.0,2025
+UNY,SLC,,Foul,N/A,Jaden Jauregui,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,204,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pMa,No Dribble Jumper,Thomas Matonti,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,206,4.0,2025
+UNY,SLC,Union (NY) Chargers,Turnover,N/A,Jack Plesser,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,207,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,2pmi,Dribble Jumper,Braden Burman,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,208,2.0,2025
+UNY,SLC,,Foul,N/A,Jack Plesser,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,209,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,Turnover,N/A,John Kairouz,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,212,1.0,2025
+UNY,SLC,,Foul,N/A,Tanner Tedesco,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,214,1.0,2025
+UNY,SLC,Sarah Lawrence College Gryphons,3pmi,Dribble Jumper,Andrew Kim,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,218,4.0,2025

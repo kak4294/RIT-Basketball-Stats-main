@@ -950,7 +950,7 @@ def add_game(csv_file: pd.DataFrame, processed_plays: pd.DataFrame):
         return
     
     # Define the CSV path
-    csv_path = Path('/Users/kylekrebs/Documents/RIT-Basketball-Stats-main/data/2024_25/cleaned/cleaned_game_csv/all_proccessed_games.csv')
+    csv_path = Path('/Users/kylekrebs/Documents/RIT-Basketball-Stats-main/data/2024_25/cleaned/cleaned_game_csv/unprocessed_games.csv')
 
     # Ensure the parent directory exists
     if not csv_path.parent.exists():

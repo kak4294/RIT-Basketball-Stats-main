@@ -1,0 +1,164 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+IC,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,1.0,2025
+IC,Bar,Ithaca College,2pmi,To Basket,Aidan Holmes,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,1.0,2025
+IC,Bar,Ithaca College,3pmi,No Dribble Jumper,Jaylon O'Neal,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,4.0,2025
+IC,Bar,Bard College,3pMa,No Dribble Jumper,Rowan Heinze,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,4.0,2025
+IC,Bar,Ithaca College,Turnover,N/A,Jaylon O'Neal,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,1.0,2025
+IC,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,4.0,2025
+IC,Bar,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,4.0,2025
+IC,Bar,Bard College,3pMa,No Dribble Jumper,Ahmad Rauf,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,4.0,2025
+IC,Bar,Ithaca College,Foul,To Basket,Jaylon O'Neal,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,1.0,2025
+IC,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,4.0,2025
+IC,Bar,Ithaca College,2pmi,To Basket,Evan Cabral,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,1.0,2025
+IC,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,15,4.0,2025
+IC,Bar,Ithaca College,2pMa,To Basket,Chris Leysath,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,1.0,2025
+IC,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,1.0,2025
+IC,Bar,Ithaca College,Turnover,N/A,Evan Cabral,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,1.0,2025
+IC,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,19,1.0,2025
+IC,Bar,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,4.0,2025
+IC,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,21,4.0,2025
+IC,Bar,Ithaca College,Foul,To Basket,Jaylon O'Neal,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,1.0,2025
+IC,Bar,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,25,4.0,2025
+IC,Bar,Ithaca College,2pmi,To Basket,Jaylon O'Neal,PNR,Right,Off,Aidan Holmes,Spot Ups,Right,Drive,Liberty League,Liberty League,26,1.0,2025
+IC,Bar,Bard College,2pmi,Dribble Jumper,Azriel Almodovar,Post,Left,Right Shoulder,Max Frei,Spot Ups,Straight,Drive,Liberty League,Liberty League,27,2.0,2025
+IC,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,29,4.0,2025
+IC,Bar,Bard College,Foul,To Basket,Rowan Heinze,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,1.0,2025
+IC,Bar,Ithaca College,3pMa,No Dribble Jumper,Evan Cabral,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,4.0,2025
+IC,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,1.0,2025
+IC,Bar,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,36,4.0,2025
+IC,Bar,Ithaca College,Turnover,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,37,1.0,2025
+IC,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,38,1.0,2025
+IC,Bar,Ithaca College,2pMa,To Basket,Jaylon O'Neal,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,1.0,2025
+IC,Bar,Bard College,3pmi,No Dribble Jumper,Max Frei,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,4.0,2025
+IC,Bar,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,PNR,High,Off,Alex Penders,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,41,4.0,2025
+IC,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,42,1.0,2025
+IC,Bar,Bard College,3pmi,No Dribble Jumper,Lucas Tovar,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,44,4.0,2025
+IC,Bar,Ithaca College,3pmi,No Dribble Jumper,Jose Padilla,Iso,Top,N/A,Cole Wissink,Spot Ups,N/A,Shot,Liberty League,Liberty League,45,4.0,2025
+IC,Bar,Bard College,2pmi,To Basket,Lucas Tovar,Iso,Right,N/A,Sean Wilcox,Cuts,N/A,Flash,Liberty League,Liberty League,46,1.0,2025
+IC,Bar,Bard College,2pmi,To Basket,Sean Wilcox,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,47,1.0,2025
+IC,Bar,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,PNR,High,Off,Alex Penders,Spot Ups,N/A,Shot,Liberty League,Liberty League,48,4.0,2025
+IC,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,4.0,2025
+IC,Bar,Bard College,2pmi,Dribble Jumper,Rowan Heinze,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,51,2.0,2025
+IC,Bar,Ithaca College,Foul,To Basket,Logan Wendell,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,1.0,2025
+IC,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,55,1.0,2025
+IC,Bar,Ithaca College,3pMa,No Dribble Jumper,Jose Padilla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,56,4.0,2025
+IC,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,PNR,High,Off,Jalen Umstead,Cuts,N/A,Basket,Liberty League,Liberty League,58,1.0,2025
+IC,Bar,Ithaca College,2pMa,To Basket,Jose Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,59,1.0,2025
+IC,Bar,Bard College,Turnover,N/A,Seth Dyer,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,1.0,2025
+IC,Bar,Ithaca College,Turnover,N/A,Cole Wissink,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,61,1.0,2025
+IC,Bar,Bard College,2pmi,To Basket,Jalen Umstead,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,1.0,2025
+IC,Bar,Ithaca College,3pmi,No Dribble Jumper,Cole Wissink,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,4.0,2025
+IC,Bar,Ithaca College,Turnover,N/A,Alex Penders,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,65,1.0,2025
+IC,Bar,Bard College,2pmi,Dribble Jumper,Laz Panagiotounis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,2.0,2025
+IC,Bar,Ithaca College,2pmi,To Basket,Jaylon O'Neal,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,1.0,2025
+IC,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,68,4.0,2025
+IC,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,70,1.0,2025
+IC,Bar,Bard College,Foul,To Basket,Seth Dyer,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,1.0,2025
+IC,Bar,Ithaca College,2pmi,To Basket,Aidan Holmes,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,1.0,2025
+IC,Bar,Bard College,Turnover,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,76,1.0,2025
+IC,Bar,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,77,4.0,2025
+IC,Bar,Ithaca College,Turnover,N/A,Aidan Holmes,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,1.0,2025
+IC,Bar,Bard College,3pMa,No Dribble Jumper,Azriel Almodovar,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,4.0,2025
+IC,Bar,Ithaca College,2pMa,To Basket,Laurence Brady,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,81,1.0,2025
+IC,Bar,Bard College,Turnover,N/A,Ahmad Rauf,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,82,1.0,2025
+IC,Bar,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,4.0,2025
+IC,Bar,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,4.0,2025
+IC,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,86,1.0,2025
+IC,Bar,Ithaca College,2pmi,To Basket,Jaylon O'Neal,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,1.0,2025
+IC,Bar,Bard College,Foul,To Basket,Sean Wilcox,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,1.0,2025
+IC,Bar,Ithaca College,3pmi,No Dribble Jumper,Jose Padilla,PNR,Right,Off,Cole Wissink,Spot Ups,N/A,Shot,Liberty League,Liberty League,92,4.0,2025
+IC,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,PNR,High,Off,Rowan Heinze,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,94,1.0,2025
+IC,Bar,Ithaca College,Foul,To Basket,Chris Leysath,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,1.0,2025
+IC,Bar,Ithaca College,3pMa,No Dribble Jumper,Jose Padilla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,4.0,2025
+IC,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,1.0,2025
+IC,Bar,Bard College,Turnover,N/A,Rowan Heinze,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,101,1.0,2025
+IC,Bar,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,PNR,Left,Off,Cole Wissink,Spot Ups,N/A,Shot,Liberty League,Liberty League,102,4.0,2025
+IC,Bar,Ithaca College,And1,No Dribble Jumper,Jose Padilla,Iso,Top,N/A,Cole Wissink,Spot Ups,N/A,Shot,Liberty League,Liberty League,104,4.0,2025
+IC,Bar,Bard College,3pMa,No Dribble Jumper,Azriel Almodovar,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,106,4.0,2025
+IC,Bar,Ithaca College,Turnover,N/A,Logan Wendell,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,107,1.0,2025
+IC,Bar,Bard College,3pMa,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,108,4.0,2025
+IC,Bar,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,PNR,Right,Off,Alex Penders,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,109,4.0,2025
+IC,Bar,Bard College,2pMa,To Basket,Max Frei,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,110,1.0,2025
+IC,Bar,Ithaca College,2pMa,To Basket,Laurence Brady,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,1.0,2025
+IC,Bar,Bard College,3pmi,No Dribble Jumper,Rowan Heinze,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,4.0,2025
+IC,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,114,1.0,2025
+IC,Bar,,Foul,N/A,Jaylon O'Neal,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,1.0,2025
+IC,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,PNR,High,Away,Ahmad Rauf,Spot Ups,N/A,Shot,Liberty League,Liberty League,118,4.0,2025
+IC,Bar,Bard College,2pMa,To Basket,Ahmad Rauf,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,120,1.0,2025
+IC,Bar,Ithaca College,Foul,To Basket,Jaylon O'Neal,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,1.0,2025
+IC,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,125,1.0,2025
+IC,Bar,Ithaca College,2pMa,To Basket,Evan Cabral,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,126,1.0,2025
+IC,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,129,1.0,2025
+IC,Bar,Ithaca College,2pmi,To Basket,Aidan Holmes,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,130,1.0,2025
+IC,Bar,Bard College,2pmi,Hook Shot,Ahmad Rauf,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,1.0,2025
+IC,Bar,Ithaca College,3pMa,No Dribble Jumper,Evan Cabral,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,4.0,2025
+IC,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,133,4.0,2025
+IC,Bar,Ithaca College,3pMa,No Dribble Jumper,Chris Leysath,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,134,4.0,2025
+IC,Bar,Bard College,3pmi,No Dribble Jumper,Azriel Almodovar,PNR,Left,Off,Seth Dyer,Spot Ups,N/A,Shot,Liberty League,Liberty League,135,4.0,2025
+IC,Bar,Ithaca College,Foul,No Dribble Jumper,Jaylon O'Neal,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,136,4.0,2025
+IC,Bar,Bard College,2pMa,Dribble Jumper,Azriel Almodovar,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,2.0,2025
+IC,Bar,Ithaca College,Turnover,To Basket,Evan Cabral,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,1.0,2025
+IC,Bar,Bard College,2pmi,To Basket,Laz Panagiotounis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,142,1.0,2025
+IC,Bar,Ithaca College,2pmi,To Basket,Aidan Holmes,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,143,1.0,2025
+IC,Bar,Ithaca College,Turnover,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,145,1.0,2025
+IC,Bar,Bard College,2pmi,To Basket,Laz Panagiotounis,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,1.0,2025
+IC,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,148,1.0,2025
+IC,Bar,Ithaca College,3pmi,No Dribble Jumper,Jose Padilla,PNR,High,Off,Evan Cabral,Spot Ups,N/A,Shot,Liberty League,Liberty League,149,4.0,2025
+IC,Bar,Bard College,Foul,To Basket,Max Frei,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,150,1.0,2025
+IC,Bar,Ithaca College,Turnover,N/A,Logan Wendell,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,153,1.0,2025
+IC,Bar,Bard College,Foul,To Basket,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,154,1.0,2025
+IC,Bar,Ithaca College,Turnover,N/A,Laurence Brady,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,1.0,2025
+IC,Bar,Bard College,2pmi,To Basket,Max Frei,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,1.0,2025
+IC,Bar,Ithaca College,3pmi,No Dribble Jumper,Jose Padilla,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,160,4.0,2025
+IC,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,1.0,2025
+IC,Bar,Ithaca College,3pMa,No Dribble Jumper,Cole Wissink,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,162,4.0,2025
+IC,Bar,Bard College,2pmi,To Basket,Max Frei,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,163,1.0,2025
+IC,Bar,Bard College,Turnover,N/A,Lucas Tovar,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,165,1.0,2025
+IC,Bar,Ithaca College,3pMa,No Dribble Jumper,Alex Penders,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,4.0,2025
+IC,Bar,Bard College,Turnover,N/A,Ahmad Rauf,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,167,1.0,2025
+IC,Bar,Ithaca College,3pMa,Dribble Jumper,Evan Cabral,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,4.0,2025
+IC,Bar,Bard College,Turnover,N/A,Lucas Tovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,169,1.0,2025
+IC,Bar,Ithaca College,2pMa,To Basket,Evan Cabral,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,170,1.0,2025
+IC,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,171,1.0,2025
+IC,Bar,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,172,4.0,2025
+IC,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,1.0,2025
+IC,Bar,Ithaca College,3pmi,No Dribble Jumper,Laurence Brady,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,175,4.0,2025
+IC,Bar,Ithaca College,2pMa,To Basket,Chris Leysath,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,1.0,2025
+IC,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,178,4.0,2025
+IC,Bar,Ithaca College,2pmi,To Basket,Evan Cabral,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,179,1.0,2025
+IC,Bar,Bard College,2pmi,To Basket,Sean Wilcox,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,180,1.0,2025
+IC,Bar,Bard College,2pMa,To Basket,Sean Wilcox,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,1.0,2025
+IC,Bar,Ithaca College,2pmi,To Basket,Evan Cabral,PNR,High,Off,Jaylon O'Neal,Spot Ups,Left,Drive,Liberty League,Liberty League,182,1.0,2025
+IC,Bar,Ithaca College,3pMa,No Dribble Jumper,Cole Wissink,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,184,4.0,2025
+IC,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,185,4.0,2025
+IC,Bar,Ithaca College,Turnover,N/A,Chris Leysath,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,186,1.0,2025
+IC,Bar,Bard College,And1,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,187,1.0,2025
+IC,Bar,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,189,4.0,2025
+IC,Bar,Bard College,2pmi,To Basket,Laz Panagiotounis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,190,1.0,2025
+IC,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,191,1.0,2025
+IC,Bar,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,192,4.0,2025
+IC,Bar,Ithaca College,3pMa,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,194,4.0,2025
+IC,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,195,1.0,2025
+IC,Bar,Ithaca College,2pMa,To Basket,Alex Penders,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,196,1.0,2025
+IC,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,197,4.0,2025
+IC,Bar,Ithaca College,Foul,To Basket,Logan Wendell,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,198,1.0,2025
+IC,Bar,Bard College,Foul,N/A,Laz Panagiotounis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,201,1.0,2025
+IC,Bar,Ithaca College,3pmi,Dribble Jumper,Jaylon O'Neal,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,204,4.0,2025
+IC,Bar,Ithaca College,Foul,Dribble Jumper,Logan Wendell,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,207,2.0,2025
+IC,Bar,Bard College,2pmi,To Basket,Jalen Umstead,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,210,1.0,2025
+IC,Bar,,Foul,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,211,1.0,2025
+IC,Bar,Bard College,2pmi,To Basket,Lucas Tovar,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,214,1.0,2025
+IC,Bar,Bard College,2pmi,To Basket,Jalen Umstead,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,215,1.0,2025
+IC,Bar,Ithaca College,Turnover,N/A,Chris Leysath,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,216,1.0,2025
+IC,Bar,Bard College,Turnover,To Basket,Jalen Umstead,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,217,1.0,2025
+IC,Bar,Ithaca College,2pMa,To Basket,Logan Wendell,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,218,1.0,2025
+IC,Bar,Bard College,3pMa,No Dribble Jumper,Lucas Tovar,PNR,High,Off,Jalen Umstead,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,219,4.0,2025
+IC,Bar,Ithaca College,Turnover,N/A,Michael Porter,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,220,1.0,2025
+IC,Bar,Bard College,2pmi,To Basket,Lucas Tovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,221,1.0,2025
+IC,Bar,Ithaca College,2pMa,To Basket,Chris Leysath,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,222,1.0,2025
+IC,Bar,Bard College,3pmi,No Dribble Jumper,Lucas Tovar,PNR,High,Away,Jalen Umstead,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,223,4.0,2025
+IC,Bar,Ithaca College,3pmi,No Dribble Jumper,Chris Leysath,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,224,4.0,2025
+IC,Bar,Bard College,2pmi,To Basket,Lucas Tovar,PNR,Right,Off,Seth Dyer,Spot Ups,Right,Drive,Liberty League,Liberty League,225,1.0,2025
+IC,Bar,Ithaca College,Turnover,N/A,Thomas Mckiernan,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,226,1.0,2025
+IC,Bar,Bard College,Turnover,To Basket,Azikiwe Cuffy-Scott,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,227,1.0,2025
+IC,Bar,Ithaca College,3pmi,No Dribble Jumper,Thomas Mckiernan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,228,4.0,2025

@@ -1,0 +1,138 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+SLS,OST,St. Lawrence Saints,2pMa,To Basket,Aiden Macaulay,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,2,1.0,2025
+SLS,OST,Oswego State Lakers,3pmi,No Dribble Jumper,Steven Bradley,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,3,4.0,2025
+SLS,OST,Oswego State Lakers,Turnover,N/A,Ahkee Anderson,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,5,1.0,2025
+SLS,OST,St. Lawrence Saints,2pMa,To Basket,Gavin Macaulay,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,6,1.0,2025
+SLS,OST,Oswego State Lakers,Turnover,N/A,Steven Bradley,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,7,1.0,2025
+SLS,OST,St. Lawrence Saints,3pmi,Dribble Jumper,Dan Anderson,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,8,4.0,2025
+SLS,OST,Oswego State Lakers,3pmi,No Dribble Jumper,Billy Reyes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,10,4.0,2025
+SLS,OST,St. Lawrence Saints,3pmi,No Dribble Jumper,Gavin Macaulay,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,11,4.0,2025
+SLS,OST,Oswego State Lakers,3pmi,No Dribble Jumper,Cole Kattan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,12,4.0,2025
+SLS,OST,Oswego State Lakers,2pmi,To Basket,Deacon Judd,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,13,1.0,2025
+SLS,OST,Oswego State Lakers,2pMa,To Basket,Ahkee Anderson,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,14,1.0,2025
+SLS,OST,St. Lawrence Saints,2pmi,Dribble Jumper,Aiden Macaulay,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,15,3.0,2025
+SLS,OST,St. Lawrence Saints,2pmi,To Basket,Aiden Macaulay,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,16,1.0,2025
+SLS,OST,Oswego State Lakers,3pmi,No Dribble Jumper,Billy Reyes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,17,4.0,2025
+SLS,OST,St. Lawrence Saints,Foul,To Basket,Andrew Cowan,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,19,1.0,2025
+SLS,OST,Oswego State Lakers,2pmi,To Basket,Billy Reyes,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,22,1.0,2025
+SLS,OST,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,23,4.0,2025
+SLS,OST,Oswego State Lakers,3pmi,No Dribble Jumper,Xavier Allen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,24,4.0,2025
+SLS,OST,St. Lawrence Saints,Foul,To Basket,Andrew Cowan,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,25,1.0,2025
+SLS,OST,Oswego State Lakers,3pmi,No Dribble Jumper,Ahkee Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,29,4.0,2025
+SLS,OST,Oswego State Lakers,Turnover,N/A,Ahkee Anderson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,31,1.0,2025
+SLS,OST,St. Lawrence Saints,2pmi,Dribble Jumper,Adam Dudzinski,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,32,2.0,2025
+SLS,OST,Oswego State Lakers,2pmi,To Basket,Ahkee Anderson,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,33,1.0,2025
+SLS,OST,Oswego State Lakers,3pMa,No Dribble Jumper,Billy Reyes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,36,4.0,2025
+SLS,OST,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,PNR,High,Away,Adam Dudzinski,Spot Ups,N/A,Shot,Liberty League,SUNYAC,37,4.0,2025
+SLS,OST,St. Lawrence Saints,3pmi,No Dribble Jumper,Troy McPherson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,38,4.0,2025
+SLS,OST,St. Lawrence Saints,2pMa,Dribble Jumper,Troy McPherson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,40,2.0,2025
+SLS,OST,Oswego State Lakers,2pMa,Dribble Jumper,Ahkee Anderson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,41,2.0,2025
+SLS,OST,St. Lawrence Saints,2pMa,To Basket,Gavin Macaulay,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,42,1.0,2025
+SLS,OST,Oswego State Lakers,3pmi,No Dribble Jumper,Ahkee Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,43,4.0,2025
+SLS,OST,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,PNR,High,Off,Colton Suriano,Spot Ups,N/A,Shot,Liberty League,SUNYAC,44,4.0,2025
+SLS,OST,Oswego State Lakers,2pMa,To Basket,Ahkee Anderson,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,45,1.0,2025
+SLS,OST,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,46,1.0,2025
+SLS,OST,Oswego State Lakers,3pmi,Dribble Jumper,Billy Reyes,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,47,4.0,2025
+SLS,OST,Oswego State Lakers,3pmi,No Dribble Jumper,Billy Reyes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,49,4.0,2025
+SLS,OST,St. Lawrence Saints,2pmi,Dribble Jumper,Jack Wirtanen,Post,Left,Left Shoulder,Gavin Macaulay,Spot Ups,Right,Drive,Liberty League,SUNYAC,50,3.0,2025
+SLS,OST,Oswego State Lakers,Turnover,N/A,Arthur Foster,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,52,1.0,2025
+SLS,OST,St. Lawrence Saints,Turnover,N/A,Jack Wirtanen,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,53,1.0,2025
+SLS,OST,Oswego State Lakers,2pMa,Dribble Jumper,Gary Mclane,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,54,2.0,2025
+SLS,OST,St. Lawrence Saints,Turnover,N/A,Aiden Macaulay,PNR,Right,Off,Gavin Macaulay,Spot Ups,Left,Drive,Liberty League,SUNYAC,55,1.0,2025
+SLS,OST,Oswego State Lakers,Turnover,N/A,Gary Mclane,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,56,1.0,2025
+SLS,OST,St. Lawrence Saints,Turnover,N/A,Aiden Macaulay,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,57,1.0,2025
+SLS,OST,Oswego State Lakers,3pMa,No Dribble Jumper,Xavier Allen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,58,4.0,2025
+SLS,OST,St. Lawrence Saints,2pMa,To Basket,Brayden Shepardson,PNR,Left,Off,Andrew Cowan,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,61,1.0,2025
+SLS,OST,Oswego State Lakers,2pMa,Dribble Jumper,Ahkee Anderson,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,63,2.0,2025
+SLS,OST,St. Lawrence Saints,3pmi,Dribble Jumper,Adam Dudzinski,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,64,4.0,2025
+SLS,OST,Oswego State Lakers,3pmi,No Dribble Jumper,Steven Bradley,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,65,4.0,2025
+SLS,OST,St. Lawrence Saints,3pmi,Dribble Jumper,Aiden Macaulay,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,66,4.0,2025
+SLS,OST,Oswego State Lakers,3pmi,No Dribble Jumper,Ahkee Anderson,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,67,4.0,2025
+SLS,OST,Oswego State Lakers,2pmi,To Basket,Xavier Allen,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,68,1.0,2025
+SLS,OST,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,69,1.0,2025
+SLS,OST,Oswego State Lakers,2pmi,To Basket,Ahkee Anderson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,71,1.0,2025
+SLS,OST,Oswego State Lakers,3pmi,No Dribble Jumper,Steven Bradley,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,73,4.0,2025
+SLS,OST,St. Lawrence Saints,2pMa,To Basket,Andrew Cowan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,74,1.0,2025
+SLS,OST,Oswego State Lakers,Turnover,N/A,Sean Edwards,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,75,1.0,2025
+SLS,OST,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,76,4.0,2025
+SLS,OST,Oswego State Lakers,Turnover,N/A,Gary Mclane,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,77,1.0,2025
+SLS,OST,St. Lawrence Saints,Turnover,N/A,Dan Anderson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,78,1.0,2025
+SLS,OST,Oswego State Lakers,3pMa,No Dribble Jumper,Steven Bradley,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,79,4.0,2025
+SLS,OST,St. Lawrence Saints,Foul,To Basket,Dan Anderson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,80,1.0,2025
+SLS,OST,Oswego State Lakers,And1,To Basket,Deacon Judd,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,83,1.0,2025
+SLS,OST,St. Lawrence Saints,Foul,N/A,Adam Dudzinski,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,85,1.0,2025
+SLS,OST,Oswego State Lakers,2pmi,To Basket,Ahkee Anderson,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,88,1.0,2025
+SLS,OST,St. Lawrence Saints,3pMa,Dribble Jumper,Aiden Macaulay,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,89,4.0,2025
+SLS,OST,Oswego State Lakers,3pMa,Dribble Jumper,Xavier Allen,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,90,4.0,2025
+SLS,OST,St. Lawrence Saints,3pmi,No Dribble Jumper,Aiden Macaulay,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,91,4.0,2025
+SLS,OST,Oswego State Lakers,2pmi,Dribble Jumper,Xavier Allen,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,95,3.0,2025
+SLS,OST,St. Lawrence Saints,2pMa,To Basket,Dan Anderson,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,96,1.0,2025
+SLS,OST,Oswego State Lakers,3pmi,No Dribble Jumper,Steven Bradley,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,98,4.0,2025
+SLS,OST,St. Lawrence Saints,2pMa,To Basket,Gavin Macaulay,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,99,1.0,2025
+SLS,OST,Oswego State Lakers,3pmi,Dribble Jumper,Billy Reyes,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,103,4.0,2025
+SLS,OST,Oswego State Lakers,Turnover,N/A,Steven Bradley,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,104,1.0,2025
+SLS,OST,St. Lawrence Saints,2pMa,To Basket,Andrew Cowan,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,105,1.0,2025
+SLS,OST,Oswego State Lakers,2pmi,Dribble Jumper,Xavier Allen,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,106,3.0,2025
+SLS,OST,St. Lawrence Saints,Turnover,N/A,Aiden Macaulay,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,107,1.0,2025
+SLS,OST,Oswego State Lakers,2pmi,Dribble Jumper,Steven Bradley,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,108,3.0,2025
+SLS,OST,St. Lawrence Saints,3pMa,Dribble Jumper,Dan Anderson,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,109,4.0,2025
+SLS,OST,Oswego State Lakers,2pMa,Dribble Jumper,Cole Kattan,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,110,2.0,2025
+SLS,OST,St. Lawrence Saints,3pmi,No Dribble Jumper,Andrew Cowan,Post,Right,Right Shoulder,Gavin Macaulay,Spot Ups,N/A,Shot,Liberty League,SUNYAC,111,4.0,2025
+SLS,OST,Oswego State Lakers,3pmi,No Dribble Jumper,Xavier Allen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,112,4.0,2025
+SLS,OST,St. Lawrence Saints,3pMa,No Dribble Jumper,Dan Anderson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,113,4.0,2025
+SLS,OST,Oswego State Lakers,Foul,No Dribble Jumper,Ahkee Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,114,4.0,2025
+SLS,OST,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,Post,Left,Right Shoulder,Dan Anderson,Cuts,N/A,Basket,Liberty League,SUNYAC,118,1.0,2025
+SLS,OST,Oswego State Lakers,3pmi,No Dribble Jumper,Billy Reyes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,119,4.0,2025
+SLS,OST,St. Lawrence Saints,Turnover,N/A,Andrew Cowan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,120,1.0,2025
+SLS,OST,Oswego State Lakers,3pmi,No Dribble Jumper,Cole Kattan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,121,4.0,2025
+SLS,OST,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,PNR,Right,Off,Troy McPherson,Spot Ups,N/A,Shot,Liberty League,SUNYAC,122,4.0,2025
+SLS,OST,Oswego State Lakers,Turnover,N/A,Gary Mclane,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,123,1.0,2025
+SLS,OST,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,124,1.0,2025
+SLS,OST,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,125,1.0,2025
+SLS,OST,Oswego State Lakers,2pmi,To Basket,Ahkee Anderson,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,127,1.0,2025
+SLS,OST,St. Lawrence Saints,2pmi,Dribble Jumper,Gavin Macaulay,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,128,3.0,2025
+SLS,OST,Oswego State Lakers,3pmi,No Dribble Jumper,Billy Reyes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,129,4.0,2025
+SLS,OST,St. Lawrence Saints,Turnover,N/A,Troy McPherson,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,130,1.0,2025
+SLS,OST,Oswego State Lakers,Foul,To Basket,Ahkee Anderson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,131,1.0,2025
+SLS,OST,St. Lawrence Saints,3pmi,No Dribble Jumper,Alexi Twahili,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,134,4.0,2025
+SLS,OST,Oswego State Lakers,3pmi,No Dribble Jumper,Jaden Kennedy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,135,4.0,2025
+SLS,OST,Oswego State Lakers,2pmi,To Basket,Deacon Judd,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,137,1.0,2025
+SLS,OST,Oswego State Lakers,Foul,To Basket,Deacon Judd,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,138,1.0,2025
+SLS,OST,St. Lawrence Saints,2pMa,N/A,Andrew Cowan,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,141,1.0,2025
+SLS,OST,Oswego State Lakers,2pmi,No Dribble Jumper,Deacon Judd,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,142,3.0,2025
+SLS,OST,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Post,Left,Face Up,Brayden Shepardson,Spot Ups,N/A,Shot,Liberty League,SUNYAC,143,4.0,2025
+SLS,OST,St. Lawrence Saints,2pmi,Dribble Jumper,Aiden Macaulay,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,145,3.0,2025
+SLS,OST,Oswego State Lakers,2pMa,To Basket,Gary Mclane,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,146,1.0,2025
+SLS,OST,St. Lawrence Saints,3pmi,No Dribble Jumper,Brayden Shepardson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,147,4.0,2025
+SLS,OST,Oswego State Lakers,2pmi,To Basket,Xavier Allen,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,148,1.0,2025
+SLS,OST,Oswego State Lakers,2pMa,Dribble Jumper,Cole Kattan,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,150,3.0,2025
+SLS,OST,St. Lawrence Saints,3pmi,Dribble Jumper,Aiden Macaulay,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,151,4.0,2025
+SLS,OST,Oswego State Lakers,2pmi,To Basket,Cole Kattan,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,152,1.0,2025
+SLS,OST,Oswego State Lakers,2pmi,To Basket,Gary Mclane,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,153,1.0,2025
+SLS,OST,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,154,1.0,2025
+SLS,OST,Oswego State Lakers,And1,To Basket,Gary Mclane,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,155,1.0,2025
+SLS,OST,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,157,4.0,2025
+SLS,OST,Oswego State Lakers,2pmi,Dribble Jumper,Xavier Allen,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,158,3.0,2025
+SLS,OST,Oswego State Lakers,And1,To Basket,Deacon Judd,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,160,1.0,2025
+SLS,OST,St. Lawrence Saints,Turnover,N/A,Dan Anderson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,162,1.0,2025
+SLS,OST,Oswego State Lakers,3pmi,Dribble Jumper,Xavier Allen,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,163,4.0,2025
+SLS,OST,St. Lawrence Saints,2pmi,Dribble Jumper,Dan Anderson,PNR,High,Off,Adam Dudzinski,Spot Ups,Left,Drive,Liberty League,SUNYAC,164,2.0,2025
+SLS,OST,Oswego State Lakers,Turnover,N/A,Xavier Allen,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,165,1.0,2025
+SLS,OST,St. Lawrence Saints,3pMa,Dribble Jumper,Adam Dudzinski,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,166,4.0,2025
+SLS,OST,Oswego State Lakers,3pmi,Dribble Jumper,Ahkee Anderson,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,167,4.0,2025
+SLS,OST,St. Lawrence Saints,2pMa,To Basket,Dan Anderson,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,169,1.0,2025
+SLS,OST,Oswego State Lakers,Foul,N/A,Cole Kattan,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,170,1.0,2025
+SLS,OST,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,173,4.0,2025
+SLS,OST,Oswego State Lakers,3pmi,No Dribble Jumper,Xavier Allen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,174,4.0,2025
+SLS,OST,St. Lawrence Saints,3pmi,No Dribble Jumper,Aiden Macaulay,PNR,High,Away,Gavin Macaulay,Spot Ups,N/A,Shot,Liberty League,SUNYAC,175,4.0,2025
+SLS,OST,St. Lawrence Saints,3pmi,Dribble Jumper,Aiden Macaulay,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,176,4.0,2025
+SLS,OST,Oswego State Lakers,2pmi,To Basket,Gary Mclane,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,177,1.0,2025
+SLS,OST,Oswego State Lakers,2pmi,To Basket,Deacon Judd,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,178,1.0,2025
+SLS,OST,St. Lawrence Saints,3pmi,Dribble Jumper,Dan Anderson,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,179,4.0,2025
+SLS,OST,Oswego State Lakers,3pmi,No Dribble Jumper,Xavier Allen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,180,4.0,2025
+SLS,OST,St. Lawrence Saints,Foul,To Basket,Adam Dudzinski,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,182,1.0,2025
+SLS,OST,Oswego State Lakers,Turnover,N/A,Ahkee Anderson,Spot Ups,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,185,1.0,2025
+SLS,OST,St. Lawrence Saints,Turnover,N/A,Aiden Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,186,1.0,2025
+SLS,OST,Oswego State Lakers,Foul,To Basket,Gary Mclane,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,187,1.0,2025
+SLS,OST,,Foul,N/A,Adam Dudzinski,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,191,1.0,2025
+SLS,OST,Oswego State Lakers,3pmi,Dribble Jumper,Xavier Allen,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,193,4.0,2025

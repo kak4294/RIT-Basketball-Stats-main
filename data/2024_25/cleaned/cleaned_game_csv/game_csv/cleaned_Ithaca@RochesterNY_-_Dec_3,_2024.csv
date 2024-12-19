@@ -1,0 +1,179 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+ROY,IC,Rochester (NY) Yellowjackets,2pMa,To Basket,Logan Jagodzinski,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,1,1.0,2025
+ROY,IC,Ithaca College,3pMa,No Dribble Jumper,Jaylon O'Neal,PNR,Left,Off,Laurence Brady,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,3,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Ethan McEachern,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,4,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pMa,To Basket,David Ackles,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,5,1.0,2025
+ROY,IC,Ithaca College,2pmi,Dribble Jumper,Laurence Brady,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,6,2.0,2025
+ROY,IC,Ithaca College,Turnover,To Basket,Chris Leysath,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,7,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pMa,To Basket,Nate Sock,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,8,1.0,2025
+ROY,IC,Ithaca College,2pmi,To Basket,Evan Cabral,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,9,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Turnover,N/A,Nate Sock,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,10,1.0,2025
+ROY,IC,Ithaca College,Turnover,N/A,Aidan Holmes,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,11,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,3pMa,No Dribble Jumper,Nate Sock,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,12,4.0,2025
+ROY,IC,Ithaca College,3pmi,No Dribble Jumper,Laurence Brady,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,13,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Turnover,N/A,David Ackles,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,14,1.0,2025
+ROY,IC,Ithaca College,2pmi,To Basket,Jaylon O'Neal,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,15,1.0,2025
+ROY,IC,Ithaca College,3pMa,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,17,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pMa,Hook Shot,Bennett Kwiecinski,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,18,1.0,2025
+ROY,IC,Ithaca College,2pmi,To Basket,Aidan Holmes,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,19,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pMa,To Basket,Savvas Gonatas,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,22,1.0,2025
+ROY,IC,Ithaca College,2pmi,To Basket,Jaylon O'Neal,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,23,1.0,2025
+ROY,IC,Ithaca College,2pMa,To Basket,Chris Leysath,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,24,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Nate Sock,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,25,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pMa,To Basket,Savvas Gonatas,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,26,1.0,2025
+ROY,IC,Ithaca College,Turnover,N/A,Aidan Holmes,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,27,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Turnover,N/A,Theo Murray,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,28,1.0,2025
+ROY,IC,Ithaca College,Turnover,N/A,Jose Padilla,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,29,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pmi,To Basket,Luke Razi,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,30,1.0,2025
+ROY,IC,Ithaca College,2pmi,Dribble Jumper,Aidan Holmes,Iso,Right,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,31,2.0,2025
+ROY,IC,Ithaca College,2pmi,To Basket,Chris Leysath,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,32,1.0,2025
+ROY,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,34,4.0,2025
+ROY,IC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,36,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pmi,To Basket,Theo Murray,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,37,1.0,2025
+ROY,IC,Ithaca College,3pmi,No Dribble Jumper,Jose Padilla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,38,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Luke Razi,PNR,Right,Off,Camden Fleming,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,39,4.0,2025
+ROY,IC,Ithaca College,3pmi,Dribble Jumper,Logan Wendell,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,40,4.0,2025
+ROY,IC,Ithaca College,3pmi,No Dribble Jumper,Cole Wissink,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,42,4.0,2025
+ROY,IC,Ithaca College,3pmi,Dribble Jumper,Logan Wendell,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,44,4.0,2025
+ROY,IC,Ithaca College,2pMa,To Basket,Cole Wissink,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,46,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Turnover,N/A,Theo Murray,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,47,1.0,2025
+ROY,IC,Ithaca College,Turnover,N/A,Logan Wendell,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,48,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Nate Beitel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,49,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,3pmi,Dribble Jumper,Luke Razi,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,51,4.0,2025
+ROY,IC,Ithaca College,3pMa,No Dribble Jumper,Aidan Holmes,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,52,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pMa,To Basket,Camden Fleming,PNR,High,Off,Nate Beitel,Cuts,N/A,Basket,UNKNOWN,Liberty League,53,1.0,2025
+ROY,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,54,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pmi,Dribble Jumper,Logan Jagodzinski,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,55,3.0,2025
+ROY,IC,Ithaca College,Turnover,N/A,Aidan Holmes,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,56,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pmi,N/A,David Ackles,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,58,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Foul,To Basket,David Ackles,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,59,1.0,2025
+ROY,IC,Ithaca College,2pmi,Dribble Jumper,Thomas Mckiernan,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,62,2.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Ethan McEachern,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,64,4.0,2025
+ROY,IC,Ithaca College,2pmi,To Basket,Cole Wissink,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,65,1.0,2025
+ROY,IC,Ithaca College,2pmi,Dribble Jumper,Cole Wissink,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,66,2.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pmi,To Basket,David Ackles,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,67,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pMa,To Basket,David Ackles,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,68,1.0,2025
+ROY,IC,Ithaca College,3pmi,No Dribble Jumper,Jaylon O'Neal,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,69,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Foul,To Basket,David Ackles,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,70,1.0,2025
+ROY,IC,Ithaca College,2pMa,To Basket,Jaylon O'Neal,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,73,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Turnover,N/A,Ethan McEachern,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,74,1.0,2025
+ROY,IC,Ithaca College,2pmi,To Basket,Logan Wendell,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,75,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Foul,To Basket,David Ackles,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,76,1.0,2025
+ROY,IC,Ithaca College,Foul,To Basket,Jaylon O'Neal,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,79,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Ethan McEachern,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,83,4.0,2025
+ROY,IC,Ithaca College,Turnover,N/A,Logan Wendell,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,84,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pMa,To Basket,Logan Jagodzinski,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,85,1.0,2025
+ROY,IC,Ithaca College,Turnover,N/A,Chris Leysath,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,86,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pmi,To Basket,Bennett Kwiecinski,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,87,1.0,2025
+ROY,IC,Ithaca College,2pmi,To Basket,Jaylon O'Neal,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,88,1.0,2025
+ROY,IC,Ithaca College,2pmi,Dribble Jumper,Aidan Holmes,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,89,2.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,And1,No Dribble Jumper,Nate Sock,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,90,4.0,2025
+ROY,IC,Ithaca College,3pmi,No Dribble Jumper,Jose Padilla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,92,4.0,2025
+ROY,IC,Ithaca College,3pMa,No Dribble Jumper,Jose Padilla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,94,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,3pMa,No Dribble Jumper,Logan Jagodzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,95,4.0,2025
+ROY,IC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,PNR,Left,Off,Laurence Brady,P&R Roll Man,N/A,Slips,UNKNOWN,Liberty League,96,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Luke Razi,PNR,Right,Off,Camden Fleming,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,97,4.0,2025
+ROY,IC,Ithaca College,2pmi,To Basket,Logan Wendell,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,98,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pmi,Dribble Jumper,Nate Sock,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,100,3.0,2025
+ROY,IC,Ithaca College,Turnover,N/A,Chris Leysath,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,101,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Turnover,N/A,Nate Sock,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,102,1.0,2025
+ROY,IC,Ithaca College,3pMa,No Dribble Jumper,Jose Padilla,PNR,High,Off,Chris Leysath,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,103,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Turnover,To Basket,Logan Jagodzinski,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,104,1.0,2025
+ROY,IC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,105,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Foul,To Basket,Luke Razi,PNR,High,Off,Bennett Kwiecinski,Cuts,N/A,Basket,UNKNOWN,Liberty League,106,1.0,2025
+ROY,IC,Ithaca College,3pmi,No Dribble Jumper,Jose Padilla,PNR,High,Off,Evan Cabral,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,109,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pmi,Dribble Jumper,Nate Sock,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,110,3.0,2025
+ROY,IC,Ithaca College,3pmi,Dribble Jumper,Aidan Holmes,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,111,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pmi,To Basket,Luke Razi,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,112,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Turnover,N/A,Camden Fleming,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,113,1.0,2025
+ROY,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,PNR,Right,Off,Evan Cabral,P&R Roll Man,N/A,Pop,UNKNOWN,Liberty League,114,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,3pmi,Dribble Jumper,Luke Razi,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,115,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Turnover,To Basket,David Ackles,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,116,1.0,2025
+ROY,IC,Ithaca College,Turnover,N/A,Evan Cabral,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,117,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,3pMa,No Dribble Jumper,Ethan McEachern,Iso,Top,N/A,Logan Jagodzinski,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,118,4.0,2025
+ROY,IC,Ithaca College,2pmi,To Basket,Laurence Brady,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,119,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pMa,Hook Shot,Bennett Kwiecinski,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,120,1.0,2025
+ROY,IC,Ithaca College,Turnover,N/A,Chris Leysath,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,121,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pMa,To Basket,Bennett Kwiecinski,Iso,Right,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,122,1.0,2025
+ROY,IC,Ithaca College,And1,To Basket,Evan Cabral,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,123,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Turnover,N/A,David Ackles,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,125,1.0,2025
+ROY,IC,Ithaca College,3pMa,No Dribble Jumper,Jaylon O'Neal,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,126,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pmi,To Basket,Bennett Kwiecinski,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,128,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pMa,To Basket,Logan Jagodzinski,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,131,1.0,2025
+ROY,IC,Ithaca College,2pmi,Dribble Jumper,Logan Wendell,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,132,2.0,2025
+ROY,IC,Ithaca College,Foul,To Basket,Jaylon O'Neal,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,135,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,3pMa,No Dribble Jumper,Ethan McEachern,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,138,4.0,2025
+ROY,IC,Ithaca College,Turnover,N/A,Laurence Brady,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,139,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Ethan McEachern,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,140,4.0,2025
+ROY,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,PNR,Left,Off,Laurence Brady,P&R Roll Man,N/A,Pop,UNKNOWN,Liberty League,141,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Turnover,N/A,Ethan McEachern,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,142,1.0,2025
+ROY,IC,Ithaca College,2pmi,Dribble Jumper,Cole Wissink,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,143,2.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Turnover,To Basket,Nate Sock,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,144,1.0,2025
+ROY,IC,Ithaca College,3pmi,No Dribble Jumper,Jaylon O'Neal,PNR,High,Off,Aidan Holmes,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,146,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pMa,To Basket,Ethan McEachern,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,147,1.0,2025
+ROY,IC,Ithaca College,3pmi,No Dribble Jumper,Cole Wissink,Post,Left,Left Shoulder,Logan Wendell,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,148,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Turnover,N/A,Ethan McEachern,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,149,1.0,2025
+ROY,IC,Ithaca College,2pMa,Dribble Jumper,Chris Leysath,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,150,2.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Camden Fleming,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,151,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pMa,To Basket,Logan Jagodzinski,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,152,1.0,2025
+ROY,IC,Ithaca College,And1,To Basket,Aidan Holmes,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,153,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,3pMa,No Dribble Jumper,Nate Sock,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,155,4.0,2025
+ROY,IC,Ithaca College,3pmi,Dribble Jumper,Jose Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,156,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pMa,To Basket,Luke Razi,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,157,1.0,2025
+ROY,IC,Ithaca College,3pmi,No Dribble Jumper,Thomas Mckiernan,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,158,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Turnover,N/A,Theo Murray,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,159,1.0,2025
+ROY,IC,Ithaca College,Turnover,N/A,Laurence Brady,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,160,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Foul,N/A,Logan Jagodzinski,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,161,1.0,2025
+ROY,IC,Ithaca College,2pmi,To Basket,Laurence Brady,Post,Left,Right Shoulder,Jaylon O'Neal,Cuts,N/A,Basket,UNKNOWN,Liberty League,164,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Turnover,N/A,Luke Razi,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,166,1.0,2025
+ROY,IC,Ithaca College,2pmi,To Basket,Thomas Mckiernan,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,167,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pmi,To Basket,Luke Razi,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,168,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pmi,To Basket,Logan Jagodzinski,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,170,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pMa,To Basket,Bennett Kwiecinski,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,171,1.0,2025
+ROY,IC,Ithaca College,3pmi,No Dribble Jumper,Thomas Mckiernan,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,173,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Turnover,N/A,Nate Sock,PNR,Left,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,174,1.0,2025
+ROY,IC,Ithaca College,3pmi,No Dribble Jumper,Cole Wissink,PNR,Right,Off,Logan Wendell,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,175,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Foul,To Basket,Nate Sock,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,176,1.0,2025
+ROY,IC,Ithaca College,2pMa,To Basket,Evan Cabral,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,179,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pMa,To Basket,David Ackles,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,180,1.0,2025
+ROY,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Iso,Top,N/A,Cole Wissink,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,181,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,3pMa,No Dribble Jumper,David Ackles,Post,Middle,Left Shoulder,Nate Sock,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,182,4.0,2025
+ROY,IC,Ithaca College,2pmi,Dribble Jumper,Logan Wendell,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,183,2.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pmi,Dribble Jumper,Ethan McEachern,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,184,2.0,2025
+ROY,IC,Ithaca College,2pmi,To Basket,Jaylon O'Neal,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,185,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Turnover,N/A,Nate Sock,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,186,1.0,2025
+ROY,IC,Ithaca College,2pmi,To Basket,Evan Cabral,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,187,1.0,2025
+ROY,IC,,Foul,N/A,Ethan McEachern,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,188,1.0,2025
+ROY,IC,Ithaca College,Foul,To Basket,Evan Cabral,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,191,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pMa,To Basket,Ethan McEachern,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,194,1.0,2025
+ROY,IC,Ithaca College,2pMa,To Basket,Logan Wendell,Iso,Left,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,195,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pmi,To Basket,Ethan McEachern,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,197,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Turnover,N/A,David Ackles,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,199,1.0,2025
+ROY,IC,Ithaca College,Foul,To Basket,Logan Wendell,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,200,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Turnover,N/A,Ethan McEachern,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,203,1.0,2025
+ROY,IC,,Foul,To Basket,Evan Cabral,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,204,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pMa,To Basket,Bennett Kwiecinski,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,208,1.0,2025
+ROY,IC,Ithaca College,3pmi,Dribble Jumper,Logan Wendell,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,209,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,3pMa,No Dribble Jumper,Logan Jagodzinski,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,211,4.0,2025
+ROY,IC,Ithaca College,3pMa,Dribble Jumper,Evan Cabral,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,212,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Foul,N/A,Luke Razi,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,213,1.0,2025
+ROY,IC,Ithaca College,2pMa,To Basket,Logan Wendell,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,215,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Turnover,N/A,Bennett Kwiecinski,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,217,1.0,2025
+ROY,IC,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,218,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pMa,To Basket,Logan Jagodzinski,Iso,Left,N/A,Bennett Kwiecinski,Cuts,N/A,Basket,UNKNOWN,Liberty League,219,1.0,2025
+ROY,IC,Ithaca College,3pmi,Dribble Jumper,Logan Wendell,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,220,4.0,2025
+ROY,IC,Ithaca College,And1,To Basket,Chris Leysath,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,221,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Turnover,N/A,Nate Sock,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,223,1.0,2025
+ROY,IC,Ithaca College,Turnover,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,224,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pMa,To Basket,Bennett Kwiecinski,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,225,1.0,2025
+ROY,IC,Ithaca College,And1,To Basket,Logan Wendell,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,226,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Turnover,N/A,Ethan McEachern,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,230,1.0,2025
+ROY,IC,Ithaca College,Turnover,N/A,Evan Cabral,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,231,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pMa,To Basket,Bennett Kwiecinski,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,232,1.0,2025
+ROY,IC,Ithaca College,2pmi,To Basket,Aidan Holmes,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,233,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,Turnover,N/A,Luke Razi,Iso,Left,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,234,1.0,2025
+ROY,IC,Ithaca College,3pmi,Dribble Jumper,Michael Porter,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,235,4.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pMa,To Basket,Theo Murray,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,237,1.0,2025
+ROY,IC,Ithaca College,2pMa,To Basket,Michael Porter,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,241,1.0,2025
+ROY,IC,Rochester (NY) Yellowjackets,2pMa,To Basket,Bernard Dushie Jr.,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,242,1.0,2025
+ROY,IC,Ithaca College,2pmi,To Basket,Yoav Regev,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,243,1.0,2025

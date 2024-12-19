@@ -1,0 +1,177 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+UNY,COL,Colby Mules,3pMa,No Dribble Jumper,Nate Kwiecinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,1,4.0,2025
+UNY,COL,Union (NY) Chargers,Turnover,N/A,Tanner Tedesco,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,2,1.0,2025
+UNY,COL,Colby Mules,3pMa,No Dribble Jumper,Marcos Montiel,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,3,4.0,2025
+UNY,COL,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,4,4.0,2025
+UNY,COL,Colby Mules,3pMa,No Dribble Jumper,Jack Lawson,Post,Right,Right Shoulder,Marcos Montiel,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,5,4.0,2025
+UNY,COL,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,6,1.0,2025
+UNY,COL,Colby Mules,Foul,To Basket,Savion Stroud,PNR,Left,Off,Jack Lawson,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,7,1.0,2025
+UNY,COL,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,10,1.0,2025
+UNY,COL,Colby Mules,2pMa,N/A,Nate Kwiecinski,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,11,1.0,2025
+UNY,COL,Union (NY) Chargers,2pmi,No Dribble Jumper,Jack Plesser,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,12,2.0,2025
+UNY,COL,Colby Mules,2pmi,Dribble Jumper,Savion Stroud,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,13,3.0,2025
+UNY,COL,Union (NY) Chargers,2pMa,To Basket,Matthew Garside,PNR,Left,Off,Jaden Jauregui,Spot Ups,Left,Drive,Liberty League,UNKNOWN,14,1.0,2025
+UNY,COL,Colby Mules,2pMa,To Basket,Savion Stroud,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,15,1.0,2025
+UNY,COL,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,16,4.0,2025
+UNY,COL,Colby Mules,3pmi,No Dribble Jumper,Max Poulton,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,17,4.0,2025
+UNY,COL,Colby Mules,2pMa,To Basket,Savion Stroud,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,18,2.0,2025
+UNY,COL,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,19,1.0,2025
+UNY,COL,Colby Mules,2pmi,To Basket,Jack Lawson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,20,1.0,2025
+UNY,COL,Union (NY) Chargers,2pMa,To Basket,Christian Dufort,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,21,1.0,2025
+UNY,COL,Colby Mules,3pMa,No Dribble Jumper,Savion Stroud,PNR,High,Off,Max Poulton,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,22,4.0,2025
+UNY,COL,Union (NY) Chargers,2pMa,No Dribble Jumper,Jack Plesser,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,23,3.0,2025
+UNY,COL,Colby Mules,Turnover,N/A,Max Poulton,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,24,1.0,2025
+UNY,COL,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,26,4.0,2025
+UNY,COL,Colby Mules,2pmi,Hook Shot,Dan Civello,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,28,1.0,2025
+UNY,COL,Colby Mules,2pmi,To Basket,Rashard Doyal,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,29,1.0,2025
+UNY,COL,Union (NY) Chargers,3pmi,No Dribble Jumper,Neil Daterao,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,30,4.0,2025
+UNY,COL,Colby Mules,3pmi,No Dribble Jumper,Sam Hinman,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,31,4.0,2025
+UNY,COL,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,32,4.0,2025
+UNY,COL,Colby Mules,2pMa,To Basket,Dan Civello,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,33,1.0,2025
+UNY,COL,Union (NY) Chargers,2pmi,To Basket,Christian Dufort,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,35,1.0,2025
+UNY,COL,Colby Mules,3pmi,No Dribble Jumper,Jack Gatjanis,PNR,High,Off,Dan Civello,P&R Roll Man,N/A,Pop,Liberty League,UNKNOWN,36,4.0,2025
+UNY,COL,Union (NY) Chargers,2pmi,Dribble Jumper,Tanner Tedesco,PNR,High,Off,Jack Plesser,P&R Roll Man,Right,Pop,Liberty League,UNKNOWN,37,2.0,2025
+UNY,COL,Colby Mules,2pMa,Dribble Jumper,Rashard Doyal,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,38,3.0,2025
+UNY,COL,Union (NY) Chargers,3pMa,Dribble Jumper,Neil Daterao,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,39,4.0,2025
+UNY,COL,Colby Mules,3pMa,No Dribble Jumper,Rashard Doyal,PNR,Right,Off,Sam Hinman,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,40,4.0,2025
+UNY,COL,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,41,4.0,2025
+UNY,COL,Colby Mules,2pmi,To Basket,Kameran Rodriguez,PNR,High,Off,Dan Civello,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,42,1.0,2025
+UNY,COL,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,43,4.0,2025
+UNY,COL,Union (NY) Chargers,3pmi,Dribble Jumper,Tanner Tedesco,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,45,4.0,2025
+UNY,COL,Colby Mules,Foul,To Basket,Sam Hinman,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,46,1.0,2025
+UNY,COL,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,49,4.0,2025
+UNY,COL,Union (NY) Chargers,3pmi,Dribble Jumper,Christian Dufort,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,51,4.0,2025
+UNY,COL,Colby Mules,Turnover,N/A,Kameran Rodriguez,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,52,1.0,2025
+UNY,COL,Union (NY) Chargers,2pmi,Dribble Jumper,Tanner Tedesco,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,53,3.0,2025
+UNY,COL,Colby Mules,3pMa,No Dribble Jumper,Rashard Doyal,PNR,Right,Off,Sam Hinman,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,54,4.0,2025
+UNY,COL,Union (NY) Chargers,Turnover,To Basket,Jack Plesser,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,56,1.0,2025
+UNY,COL,Colby Mules,Foul,To Basket,Marcos Montiel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,57,1.0,2025
+UNY,COL,Union (NY) Chargers,2pmi,To Basket,Christian Dufort,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,60,1.0,2025
+UNY,COL,Colby Mules,3pmi,No Dribble Jumper,Marcos Montiel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,61,4.0,2025
+UNY,COL,Colby Mules,3pmi,No Dribble Jumper,Max Poulton,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,63,4.0,2025
+UNY,COL,Union (NY) Chargers,2pMa,N/A,Jack Plesser,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,64,1.0,2025
+UNY,COL,Colby Mules,3pMa,No Dribble Jumper,Nate Kwiecinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,65,4.0,2025
+UNY,COL,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,66,4.0,2025
+UNY,COL,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,67,4.0,2025
+UNY,COL,Colby Mules,2pMa,To Basket,Max Poulton,PNR,High,Off,Jack Lawson,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,68,1.0,2025
+UNY,COL,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,69,1.0,2025
+UNY,COL,Colby Mules,2pMa,To Basket,Jack Lawson,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,70,1.0,2025
+UNY,COL,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,71,4.0,2025
+UNY,COL,Colby Mules,3pmi,No Dribble Jumper,Max Poulton,PNR,High,Off,Sam Hinman,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,72,4.0,2025
+UNY,COL,Colby Mules,2pMa,To Basket,Jack Lawson,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,74,1.0,2025
+UNY,COL,Union (NY) Chargers,2pmi,To Basket,Christian Dufort,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,75,1.0,2025
+UNY,COL,Colby Mules,3pMa,No Dribble Jumper,Max Poulton,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,76,4.0,2025
+UNY,COL,Union (NY) Chargers,Turnover,N/A,Jaden Jauregui,PNR,Left,Away,Matthew Garside,Spot Ups,Right,Drive,Liberty League,UNKNOWN,77,1.0,2025
+UNY,COL,Colby Mules,2pmi,To Basket,Nate Kwiecinski,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,78,1.0,2025
+UNY,COL,Union (NY) Chargers,2pmi,Dribble Jumper,Jaden Jauregui,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,79,2.0,2025
+UNY,COL,Colby Mules,2pMa,To Basket,Max Poulton,PNR,High,Off,Jack Lawson,P&R Roll Man,N/A,Slips,Liberty League,UNKNOWN,80,1.0,2025
+UNY,COL,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,81,4.0,2025
+UNY,COL,Colby Mules,3pmi,No Dribble Jumper,Max Poulton,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,82,4.0,2025
+UNY,COL,Union (NY) Chargers,2pMa,To Basket,Christian Dufort,PNR,Right,Off,Jack Plesser,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,83,1.0,2025
+UNY,COL,Colby Mules,Turnover,N/A,Nate Kwiecinski,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,84,1.0,2025
+UNY,COL,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,PNR,High,Off,Jack Plesser,P&R Roll Man,N/A,Pop,Liberty League,UNKNOWN,85,4.0,2025
+UNY,COL,Colby Mules,2pmi,To Basket,Nate Kwiecinski,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,86,1.0,2025
+UNY,COL,Union (NY) Chargers,3pmi,No Dribble Jumper,Jack Plesser,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,87,4.0,2025
+UNY,COL,Colby Mules,2pMa,To Basket,Jack Lawson,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,88,1.0,2025
+UNY,COL,Union (NY) Chargers,2pMa,To Basket,Tanner Tedesco,PNR,Right,Off,Jaden Jauregui,Spot Ups,Left,Drive,Liberty League,UNKNOWN,92,1.0,2025
+UNY,COL,Colby Mules,Turnover,N/A,Savion Stroud,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,93,1.0,2025
+UNY,COL,Union (NY) Chargers,Foul,N/A,Will Yakoobian,Post,Left,Face Up,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,94,1.0,2025
+UNY,COL,Colby Mules,2pMa,Hook Shot,Dan Civello,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,97,1.0,2025
+UNY,COL,Union (NY) Chargers,3pmi,No Dribble Jumper,Jaden Jauregui,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,98,4.0,2025
+UNY,COL,Union (NY) Chargers,3pmi,Dribble Jumper,Tanner Tedesco,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,101,4.0,2025
+UNY,COL,Colby Mules,Foul,To Basket,Sam Hinman,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,102,1.0,2025
+UNY,COL,Union (NY) Chargers,Turnover,N/A,Matthew Garside,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,106,1.0,2025
+UNY,COL,Colby Mules,2pmi,To Basket,Marcos Montiel,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,107,1.0,2025
+UNY,COL,Colby Mules,Foul,To Basket,Dan Civello,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,108,1.0,2025
+UNY,COL,Union (NY) Chargers,3pmi,No Dribble Jumper,Jaden Jauregui,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,111,4.0,2025
+UNY,COL,Union (NY) Chargers,2pmi,To Basket,Matthew Garside,PNR,Left,Off,Christian Dufort,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,112,1.0,2025
+UNY,COL,Union (NY) Chargers,Foul,To Basket,Christian Dufort,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,113,1.0,2025
+UNY,COL,Colby Mules,2pmi,To Basket,Savion Stroud,PNR,Right,Off,Jack Lawson,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,116,1.0,2025
+UNY,COL,Colby Mules,2pMa,To Basket,Jack Lawson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,117,1.0,2025
+UNY,COL,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,118,4.0,2025
+UNY,COL,Colby Mules,2pmi,To Basket,Jack Lawson,Post,Middle,Left Shoulder,Nate Kwiecinski,Spot Ups,Right,Drive,Liberty League,UNKNOWN,119,1.0,2025
+UNY,COL,Colby Mules,Turnover,N/A,Savion Stroud,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,120,1.0,2025
+UNY,COL,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,121,4.0,2025
+UNY,COL,Colby Mules,2pmi,To Basket,Nate Kwiecinski,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,122,1.0,2025
+UNY,COL,Colby Mules,Foul,To Basket,Jack Lawson,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,124,1.0,2025
+UNY,COL,Colby Mules,2pMa,To Basket,Max Poulton,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,127,1.0,2025
+UNY,COL,Union (NY) Chargers,2pmi,To Basket,Jaden Jauregui,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,128,1.0,2025
+UNY,COL,Colby Mules,2pmi,To Basket,Nate Kwiecinski,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,129,1.0,2025
+UNY,COL,Colby Mules,2pmi,To Basket,Jack Lawson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,130,1.0,2025
+UNY,COL,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,131,4.0,2025
+UNY,COL,Colby Mules,Turnover,N/A,Savion Stroud,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,132,1.0,2025
+UNY,COL,Union (NY) Chargers,Foul,To Basket,Jack Plesser,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,133,1.0,2025
+UNY,COL,Union (NY) Chargers,Turnover,N/A,Jack Plesser,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,136,1.0,2025
+UNY,COL,Colby Mules,3pmi,No Dribble Jumper,Max Poulton,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,137,4.0,2025
+UNY,COL,Union (NY) Chargers,2pMa,To Basket,Matthew Garside,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,139,1.0,2025
+UNY,COL,Colby Mules,Foul,To Basket,Max Poulton,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,140,1.0,2025
+UNY,COL,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,143,4.0,2025
+UNY,COL,Colby Mules,3pmi,No Dribble Jumper,Max Poulton,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,144,4.0,2025
+UNY,COL,Union (NY) Chargers,2pMa,To Basket,Tanner Tedesco,PNR,High,Away,Jack Plesser,P&R Roll Man,Left,Pop,Liberty League,UNKNOWN,145,1.0,2025
+UNY,COL,Colby Mules,2pmi,To Basket,Dan Civello,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,146,1.0,2025
+UNY,COL,Colby Mules,And1,To Basket,Dan Civello,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,148,1.0,2025
+UNY,COL,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,150,1.0,2025
+UNY,COL,Union (NY) Chargers,2pMa,To Basket,Jaden Jauregui,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,151,1.0,2025
+UNY,COL,Colby Mules,3pmi,No Dribble Jumper,Dan Civello,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,152,4.0,2025
+UNY,COL,Colby Mules,2pmi,To Basket,Max Poulton,Off Screens,Right,Curl,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,153,1.0,2025
+UNY,COL,Colby Mules,3pmi,No Dribble Jumper,Sam Hinman,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,155,4.0,2025
+UNY,COL,Colby Mules,Foul,To Basket,Dan Civello,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,156,1.0,2025
+UNY,COL,Union (NY) Chargers,And1,To Basket,Tanner Tedesco,PNR,High,Off,Jack Plesser,P&R Roll Man,N/A,Slips,Liberty League,UNKNOWN,159,1.0,2025
+UNY,COL,Colby Mules,2pmi,To Basket,Marcos Montiel,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,161,1.0,2025
+UNY,COL,Union (NY) Chargers,Turnover,Drop Step,Christian Dufort,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,162,1.0,2025
+UNY,COL,Colby Mules,2pmi,To Basket,Jack Lawson,Iso,Top,N/A,Sam Hinman,Cuts,N/A,Flash,Liberty League,UNKNOWN,163,1.0,2025
+UNY,COL,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,164,4.0,2025
+UNY,COL,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,165,1.0,2025
+UNY,COL,Colby Mules,Turnover,N/A,Jack Gatjanis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,166,1.0,2025
+UNY,COL,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,167,1.0,2025
+UNY,COL,Colby Mules,3pmi,Dribble Jumper,Kameran Rodriguez,PNR,High,Off,Rashard Doyal,Spot Ups,Left,Drive,Liberty League,UNKNOWN,168,4.0,2025
+UNY,COL,Union (NY) Chargers,3pMa,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,169,4.0,2025
+UNY,COL,Colby Mules,2pmi,To Basket,Jack Lawson,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,170,1.0,2025
+UNY,COL,Union (NY) Chargers,2pmi,To Basket,Neil Daterao,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,171,1.0,2025
+UNY,COL,Colby Mules,3pmi,No Dribble Jumper,Jack Lawson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,172,4.0,2025
+UNY,COL,Colby Mules,2pmi,To Basket,Nate Kwiecinski,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,173,1.0,2025
+UNY,COL,Colby Mules,2pmi,To Basket,Jack Lawson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,174,1.0,2025
+UNY,COL,Union (NY) Chargers,2pmi,To Basket,Christian Dufort,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,175,1.0,2025
+UNY,COL,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,176,1.0,2025
+UNY,COL,,Foul,N/A,Sam Hinman,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,177,1.0,2025
+UNY,COL,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,179,4.0,2025
+UNY,COL,Colby Mules,3pmi,No Dribble Jumper,Savion Stroud,PNR,High,Off,Sam Hinman,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,180,4.0,2025
+UNY,COL,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,PNR,High,Away,Jack Plesser,P&R Roll Man,N/A,Pop,Liberty League,UNKNOWN,181,4.0,2025
+UNY,COL,Colby Mules,2pMa,To Basket,Jack Lawson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,182,1.0,2025
+UNY,COL,Union (NY) Chargers,2pmi,No Dribble Jumper,Jack Plesser,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,183,3.0,2025
+UNY,COL,Union (NY) Chargers,2pmi,To Basket,Tanner Tedesco,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,184,1.0,2025
+UNY,COL,Colby Mules,Foul,N/A,Marcos Montiel,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,185,1.0,2025
+UNY,COL,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,187,4.0,2025
+UNY,COL,Union (NY) Chargers,3pMa,No Dribble Jumper,Jaden Jauregui,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,189,4.0,2025
+UNY,COL,Colby Mules,2pMa,To Basket,Savion Stroud,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,190,1.0,2025
+UNY,COL,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,192,1.0,2025
+UNY,COL,Colby Mules,2pMa,To Basket,Jack Lawson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,193,1.0,2025
+UNY,COL,Union (NY) Chargers,2pmi,Dribble Jumper,Christian Dufort,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,194,2.0,2025
+UNY,COL,Colby Mules,2pMa,To Basket,Marcos Montiel,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,195,1.0,2025
+UNY,COL,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,196,4.0,2025
+UNY,COL,Union (NY) Chargers,Foul,To Basket,Jaden Jauregui,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,197,1.0,2025
+UNY,COL,Colby Mules,3pMa,No Dribble Jumper,Marcos Montiel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,200,4.0,2025
+UNY,COL,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,201,1.0,2025
+UNY,COL,Union (NY) Chargers,3pMa,No Dribble Jumper,Jaden Jauregui,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,203,4.0,2025
+UNY,COL,Colby Mules,3pMa,No Dribble Jumper,Max Poulton,PNR,Left,Off,Sam Hinman,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,204,4.0,2025
+UNY,COL,Union (NY) Chargers,Turnover,N/A,Matthew Garside,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,205,1.0,2025
+UNY,COL,Colby Mules,2pMa,Hook Shot,Jack Lawson,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,206,1.0,2025
+UNY,COL,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,Iso,Right,N/A,Jaden Jauregui,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,207,4.0,2025
+UNY,COL,Colby Mules,2pMa,To Basket,Jack Lawson,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,208,1.0,2025
+UNY,COL,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,209,1.0,2025
+UNY,COL,Colby Mules,3pmi,Dribble Jumper,Marcos Montiel,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,210,4.0,2025
+UNY,COL,Union (NY) Chargers,2pmi,To Basket,Jaden Jauregui,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,211,1.0,2025
+UNY,COL,Colby Mules,2pMa,To Basket,Savion Stroud,PNR,High,Off,Jack Lawson,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,212,1.0,2025
+UNY,COL,Union (NY) Chargers,2pmi,To Basket,Christian Dufort,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,213,1.0,2025
+UNY,COL,Colby Mules,Foul,To Basket,Max Poulton,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,214,1.0,2025
+UNY,COL,Union (NY) Chargers,2pMa,Dribble Jumper,Jaden Jauregui,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,218,2.0,2025
+UNY,COL,Colby Mules,3pmi,No Dribble Jumper,Max Poulton,PNR,High,Off,Marcos Montiel,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,220,4.0,2025
+UNY,COL,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,221,1.0,2025
+UNY,COL,Colby Mules,2pMa,To Basket,Savion Stroud,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,222,1.0,2025
+UNY,COL,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,223,4.0,2025
+UNY,COL,Colby Mules,Foul,N/A,Sam Hinman,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,224,1.0,2025
+UNY,COL,Union (NY) Chargers,Foul,N/A,Will Yakoobian,Post,Middle,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,227,1.0,2025
+UNY,COL,Colby Mules,3pmi,No Dribble Jumper,Mitch Humphrey,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,229,4.0,2025
+UNY,COL,Colby Mules,2pMa,To Basket,Mitch Humphrey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,230,1.0,2025
+UNY,COL,Union (NY) Chargers,2pmi,To Basket,Harrison Collins,Iso,Top,N/A,Will Yakoobian,Cuts,N/A,Basket,Liberty League,UNKNOWN,231,1.0,2025
+UNY,COL,Union (NY) Chargers,2pmi,To Basket,Harrison Collins,PNR,Right,Off,Will Yakoobian,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,233,1.0,2025

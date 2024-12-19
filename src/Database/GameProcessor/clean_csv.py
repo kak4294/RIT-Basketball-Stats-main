@@ -501,16 +501,32 @@ def run_clean_csv(csv_file):
     #Process csv path
     raw_file_path = os.path.join('/Users/kylekrebs/Documents/RIT-Basketball-Stats-main/data/2024_25/raw/unsaved_games', csv_file)
     
-    # Creates a cleaned version of game data
-    raw_df = pd.read_csv(raw_file_path, index_col=False)
-    final_df = process_plays(raw_df)
+    try:
+        # Try reading the CSV file with utf-8 encoding, using errors='replace' to handle invalid characters
+        raw_df = pd.read_csv(raw_file_path, index_col=False, encoding='utf-8')
+    except UnicodeDecodeError as e:
+        # If utf-8 fails, try ISO-8859-1 or latin1 encoding
+        print(f"Error reading {csv_file} with UTF-8. Trying ISO-8859-1 encoding.")
+        try:
+            raw_df = pd.read_csv(raw_file_path, index_col=False, encoding='ISO-8859-1', errors='replace')
+        except Exception as ex:
+            print(f"Failed to read the file {csv_file} with ISO-8859-1 encoding. Error: {ex}")
+            return
+
+    # If file is successfully read, continue processing
+    try:
+        # Process the dataframe (e.g., clean or transform the data)
+        final_df = process_plays(raw_df)
+    except Exception as e:
+        print(f"Error in processing plays for {csv_file}: {e}")
+        return
     
     # Aggregates all team data together from one specific game and puts into csv file
     add_game(raw_df, final_df)
     
     # Creates a new file with clean play data into seperate folder
     file_name = 'cleaned_' + csv_file
-    cleaned_file_path = os.path.join('/Users/kylekrebs/Documents/RIT-Basketball-Stats-main/data/2024_25/cleaned/cleaned_game_csv/cleaned_csv', file_name)
+    cleaned_file_path = os.path.join('/Users/kylekrebs/Documents/RIT-Basketball-Stats-main/data/2024_25/cleaned/cleaned_game_csv/game_csv', file_name)
     final_df.to_csv(cleaned_file_path, encoding='utf-8', index=False)
     
     # Transfers each play into actual database

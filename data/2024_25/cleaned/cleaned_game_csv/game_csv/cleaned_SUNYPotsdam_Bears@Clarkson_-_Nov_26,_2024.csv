@@ -1,0 +1,157 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+CU,SUN,Clarkson University Golden Knights,2pmi,To Basket,Lorenzo Rappa,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,1,1.0,2025
+CU,SUN,Clarkson University Golden Knights,2pMa,To Basket,Lorenzo Rappa,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,3,1.0,2025
+CU,SUN,SUNY Potsdam Bears,2pmi,To Basket,Walter Defreitas,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,4,1.0,2025
+CU,SUN,Clarkson University Golden Knights,2pMa,To Basket,Steve DeRegis,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,5,1.0,2025
+CU,SUN,SUNY Potsdam Bears,2pmi,To Basket,Mohammad Sylla,Iso,Right,N/A,Mike Hancock,Cuts,N/A,Basket,Liberty League,SUNYAC,6,1.0,2025
+CU,SUN,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,7,1.0,2025
+CU,SUN,SUNY Potsdam Bears,2pMa,No Dribble Jumper,Parker Kelly,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,8,3.0,2025
+CU,SUN,Clarkson University Golden Knights,Foul,No Dribble Jumper,Steve DeRegis,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,9,4.0,2025
+CU,SUN,SUNY Potsdam Bears,3pMa,Dribble Jumper,Parker Kelly,PNR,High,Off,Mohammad Sylla,P&R Roll Man,Left,Pop,Liberty League,SUNYAC,13,4.0,2025
+CU,SUN,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Ben Rappa,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,14,4.0,2025
+CU,SUN,SUNY Potsdam Bears,Turnover,To Basket,Mike Hancock,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,15,1.0,2025
+CU,SUN,Clarkson University Golden Knights,2pmi,To Basket,Finn Cork,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,18,1.0,2025
+CU,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Walter Defreitas,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,19,4.0,2025
+CU,SUN,Clarkson University Golden Knights,Turnover,N/A,Finn Cork,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,20,1.0,2025
+CU,SUN,SUNY Potsdam Bears,2pMa,Dribble Jumper,Nicholas Cortez,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,21,2.0,2025
+CU,SUN,Clarkson University Golden Knights,2pmi,To Basket,Lorenzo Rappa,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,22,1.0,2025
+CU,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Parker Kelly,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,24,4.0,2025
+CU,SUN,Clarkson University Golden Knights,2pMa,Dribble Jumper,Braeden Burns,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,25,2.0,2025
+CU,SUN,SUNY Potsdam Bears,3pMa,No Dribble Jumper,Mohammad Sylla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,26,4.0,2025
+CU,SUN,Clarkson University Golden Knights,And1,To Basket,Finn Cork,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,27,1.0,2025
+CU,SUN,Clarkson University Golden Knights,Turnover,N/A,Finn Cork,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,30,1.0,2025
+CU,SUN,SUNY Potsdam Bears,2pMa,Dribble Jumper,Mohammad Sylla,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,31,3.0,2025
+CU,SUN,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,32,4.0,2025
+CU,SUN,SUNY Potsdam Bears,2pmi,To Basket,Mohammad Sylla,PNR,High,Off,Parker Kelly,P&R Roll Man,N/A,Pop,Liberty League,SUNYAC,33,1.0,2025
+CU,SUN,Clarkson University Golden Knights,2pMa,To Basket,Lorenzo Rappa,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,34,1.0,2025
+CU,SUN,SUNY Potsdam Bears,3pMa,No Dribble Jumper,Walter Defreitas,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,35,4.0,2025
+CU,SUN,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Ben Rappa,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,36,4.0,2025
+CU,SUN,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,37,1.0,2025
+CU,SUN,SUNY Potsdam Bears,3pMa,No Dribble Jumper,Parker Kelly,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,38,4.0,2025
+CU,SUN,Clarkson University Golden Knights,Turnover,Drop Step,Finn Cork,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,39,1.0,2025
+CU,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Bryson Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,40,4.0,2025
+CU,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Mohammad Sylla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,41,4.0,2025
+CU,SUN,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Aydin Kocak,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,42,4.0,2025
+CU,SUN,SUNY Potsdam Bears,2pMa,Dribble Jumper,Mohammad Sylla,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,43,3.0,2025
+CU,SUN,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Aydin Kocak,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,44,4.0,2025
+CU,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Nicholas Cortez,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,45,4.0,2025
+CU,SUN,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jeff Dewar,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,46,4.0,2025
+CU,SUN,SUNY Potsdam Bears,2pmi,To Basket,Mohammad Sylla,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,47,1.0,2025
+CU,SUN,Clarkson University Golden Knights,Foul,To Basket,Matt Toscano,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,48,1.0,2025
+CU,SUN,SUNY Potsdam Bears,Turnover,To Basket,Walter Defreitas,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,51,1.0,2025
+CU,SUN,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matthew Parent,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,52,4.0,2025
+CU,SUN,SUNY Potsdam Bears,2pMa,To Basket,Bryson Brown,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,53,1.0,2025
+CU,SUN,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matthew Parent,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,54,4.0,2025
+CU,SUN,Clarkson University Golden Knights,2pmi,To Basket,Matt Toscano,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,55,1.0,2025
+CU,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Bryson Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,56,4.0,2025
+CU,SUN,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Matthew Parent,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,57,4.0,2025
+CU,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Erik Wall,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,58,4.0,2025
+CU,SUN,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matthew Parent,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,59,4.0,2025
+CU,SUN,SUNY Potsdam Bears,2pmi,Hook Shot,Parker Kelly,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,61,1.0,2025
+CU,SUN,SUNY Potsdam Bears,Foul,To Basket,Walter Defreitas,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,62,1.0,2025
+CU,SUN,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,65,1.0,2025
+CU,SUN,SUNY Potsdam Bears,2pMa,To Basket,Parker Kelly,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,66,1.0,2025
+CU,SUN,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,67,4.0,2025
+CU,SUN,SUNY Potsdam Bears,2pMa,To Basket,Mohammad Sylla,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,68,1.0,2025
+CU,SUN,Clarkson University Golden Knights,Foul,To Basket,Matt Toscano,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,69,1.0,2025
+CU,SUN,SUNY Potsdam Bears,2pMa,Dribble Jumper,Mohammad Sylla,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,72,3.0,2025
+CU,SUN,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,73,1.0,2025
+CU,SUN,SUNY Potsdam Bears,3pmi,Dribble Jumper,Mohammad Sylla,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,74,4.0,2025
+CU,SUN,Clarkson University Golden Knights,Foul,To Basket,Finn Cork,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,75,1.0,2025
+CU,SUN,SUNY Potsdam Bears,Turnover,N/A,Mohammad Sylla,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,78,1.0,2025
+CU,SUN,Clarkson University Golden Knights,Foul,N/A,Braeden Burns,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,79,1.0,2025
+CU,SUN,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,82,1.0,2025
+CU,SUN,SUNY Potsdam Bears,2pmi,N/A,Parker Kelly,Post,Left,Face Up,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,83,1.0,2025
+CU,SUN,Clarkson University Golden Knights,2pmi,To Basket,Lorenzo Rappa,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,84,1.0,2025
+CU,SUN,Clarkson University Golden Knights,Turnover,To Basket,Finn Cork,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,86,1.0,2025
+CU,SUN,SUNY Potsdam Bears,Foul,To Basket,Nicholas Cortez,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,87,1.0,2025
+CU,SUN,Clarkson University Golden Knights,Turnover,N/A,Braeden Burns,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,90,1.0,2025
+CU,SUN,SUNY Potsdam Bears,2pmi,To Basket,Mike Hancock,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,91,1.0,2025
+CU,SUN,SUNY Potsdam Bears,2pmi,To Basket,Mike Hancock,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,92,1.0,2025
+CU,SUN,SUNY Potsdam Bears,Foul,To Basket,Lauwensky Astrel,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,93,1.0,2025
+CU,SUN,Clarkson University Golden Knights,2pmi,To Basket,Finn Cork,Post,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,96,1.0,2025
+CU,SUN,SUNY Potsdam Bears,2pmi,To Basket,Mohammad Sylla,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,98,1.0,2025
+CU,SUN,SUNY Potsdam Bears,Turnover,N/A,Mohammad Sylla,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,99,1.0,2025
+CU,SUN,Clarkson University Golden Knights,Turnover,N/A,Braeden Burns,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,100,1.0,2025
+CU,SUN,SUNY Potsdam Bears,3pmi,Dribble Jumper,Nicholas Cortez,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,101,4.0,2025
+CU,SUN,SUNY Potsdam Bears,2pMa,To Basket,Nicholas Cortez,PNR,Right,Off,Walter Defreitas,Spot Ups,Right,Drive,Liberty League,SUNYAC,102,1.0,2025
+CU,SUN,Clarkson University Golden Knights,2pmi,To Basket,Finn Cork,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,103,1.0,2025
+CU,SUN,SUNY Potsdam Bears,Foul,To Basket,Nicholas Cortez,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,104,1.0,2025
+CU,SUN,Clarkson University Golden Knights,Turnover,N/A,Ben Rappa,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,107,1.0,2025
+CU,SUN,SUNY Potsdam Bears,Foul,To Basket,Mohammad Sylla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,108,1.0,2025
+CU,SUN,Clarkson University Golden Knights,2pmi,Dribble Jumper,Braeden Burns,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,112,2.0,2025
+CU,SUN,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Ben Rappa,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,114,4.0,2025
+CU,SUN,SUNY Potsdam Bears,2pMa,To Basket,Nicholas Cortez,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,115,1.0,2025
+CU,SUN,Clarkson University Golden Knights,2pmi,Dribble Jumper,Lorenzo Rappa,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,116,2.0,2025
+CU,SUN,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,118,4.0,2025
+CU,SUN,SUNY Potsdam Bears,Turnover,N/A,Nicholas Cortez,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,119,1.0,2025
+CU,SUN,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,120,4.0,2025
+CU,SUN,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Post,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,122,1.0,2025
+CU,SUN,SUNY Potsdam Bears,2pmi,To Basket,Mohammad Sylla,Post,Right,Right Shoulder,Nicholas Cortez,Spot Ups,Left,Drive,Liberty League,SUNYAC,123,1.0,2025
+CU,SUN,Clarkson University Golden Knights,2pMa,Dribble Jumper,Steve DeRegis,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,125,3.0,2025
+CU,SUN,SUNY Potsdam Bears,2pMa,To Basket,Mike Hancock,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,126,1.0,2025
+CU,SUN,Clarkson University Golden Knights,Turnover,N/A,Steve DeRegis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,127,1.0,2025
+CU,SUN,SUNY Potsdam Bears,3pMa,Dribble Jumper,Mohammad Sylla,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,128,4.0,2025
+CU,SUN,Clarkson University Golden Knights,Turnover,To Basket,Matthew Parent,PNR,Right,Off,Finn Cork,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,129,1.0,2025
+CU,SUN,SUNY Potsdam Bears,Turnover,N/A,Walter Defreitas,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,130,1.0,2025
+CU,SUN,Clarkson University Golden Knights,Turnover,N/A,Braeden Burns,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,133,1.0,2025
+CU,SUN,SUNY Potsdam Bears,Turnover,N/A,Mohammad Sylla,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,134,1.0,2025
+CU,SUN,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,135,1.0,2025
+CU,SUN,SUNY Potsdam Bears,2pMa,To Basket,Walter Defreitas,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,138,1.0,2025
+CU,SUN,Clarkson University Golden Knights,2pmi,To Basket,Lorenzo Rappa,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,139,1.0,2025
+CU,SUN,Clarkson University Golden Knights,2pmi,To Basket,Lorenzo Rappa,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,140,1.0,2025
+CU,SUN,Clarkson University Golden Knights,2pmi,Dribble Jumper,Matthew Parent,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,142,2.0,2025
+CU,SUN,SUNY Potsdam Bears,Turnover,N/A,Nicholas Cortez,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,143,1.0,2025
+CU,SUN,Clarkson University Golden Knights,And1,To Basket,Finn Cork,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,144,1.0,2025
+CU,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Mike Hancock,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,146,4.0,2025
+CU,SUN,Clarkson University Golden Knights,2pMa,To Basket,Steve DeRegis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,147,1.0,2025
+CU,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Walter Defreitas,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,149,4.0,2025
+CU,SUN,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,150,4.0,2025
+CU,SUN,SUNY Potsdam Bears,3pmi,Dribble Jumper,Mohammad Sylla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,152,4.0,2025
+CU,SUN,Clarkson University Golden Knights,Turnover,N/A,Finn Cork,Post,Middle,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,154,1.0,2025
+CU,SUN,SUNY Potsdam Bears,2pmi,No Dribble Jumper,Walter Defreitas,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,155,3.0,2025
+CU,SUN,SUNY Potsdam Bears,2pmi,To Basket,John Blackwood,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,156,1.0,2025
+CU,SUN,SUNY Potsdam Bears,Turnover,N/A,Bryson Brown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,157,1.0,2025
+CU,SUN,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,PNR,High,Off,Casey Montesano,Spot Ups,N/A,Shot,Liberty League,SUNYAC,158,4.0,2025
+CU,SUN,Clarkson University Golden Knights,2pMa,Hook Shot,Finn Cork,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,160,1.0,2025
+CU,SUN,SUNY Potsdam Bears,2pmi,To Basket,Walter Defreitas,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,161,1.0,2025
+CU,SUN,SUNY Potsdam Bears,3pMa,No Dribble Jumper,John Blackwood,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,163,4.0,2025
+CU,SUN,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Casey Montesano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,164,4.0,2025
+CU,SUN,SUNY Potsdam Bears,Turnover,N/A,Bryson Brown,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,165,1.0,2025
+CU,SUN,Clarkson University Golden Knights,2pmi,To Basket,Matt Toscano,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,166,1.0,2025
+CU,SUN,SUNY Potsdam Bears,2pmi,To Basket,Lauwensky Astrel,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,167,1.0,2025
+CU,SUN,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,168,4.0,2025
+CU,SUN,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,PNR,Right,Off,Casey Montesano,Spot Ups,N/A,Shot,Liberty League,SUNYAC,170,4.0,2025
+CU,SUN,Clarkson University Golden Knights,2pMa,N/A,Finn Cork,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,171,2.0,2025
+CU,SUN,SUNY Potsdam Bears,2pMa,To Basket,Nicholas Cortez,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,172,1.0,2025
+CU,SUN,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,173,1.0,2025
+CU,SUN,SUNY Potsdam Bears,3pMa,Dribble Jumper,John Blackwood,PNR,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,174,4.0,2025
+CU,SUN,Clarkson University Golden Knights,2pmi,Hook Shot,Finn Cork,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,175,1.0,2025
+CU,SUN,Clarkson University Golden Knights,2pmi,To Basket,Casey Montesano,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,176,1.0,2025
+CU,SUN,SUNY Potsdam Bears,Foul,To Basket,Mohammad Sylla,PNR,High,Off,Nicholas Cortez,Spot Ups,Right,Drive,Liberty League,SUNYAC,177,1.0,2025
+CU,SUN,Clarkson University Golden Knights,2pMa,To Basket,Steve DeRegis,PNR,High,Off,Lorenzo Rappa,Spot Ups,Right,Drive,Liberty League,SUNYAC,180,1.0,2025
+CU,SUN,SUNY Potsdam Bears,Foul,To Basket,Mohammad Sylla,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,181,1.0,2025
+CU,SUN,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Lorenzo Rappa,PNR,High,Off,Braeden Burns,Spot Ups,N/A,Shot,Liberty League,SUNYAC,184,4.0,2025
+CU,SUN,Clarkson University Golden Knights,And1,To Basket,Finn Cork,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,185,1.0,2025
+CU,SUN,Clarkson University Golden Knights,2pmi,To Basket,Steve DeRegis,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,187,1.0,2025
+CU,SUN,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,188,1.0,2025
+CU,SUN,SUNY Potsdam Bears,2pmi,To Basket,Parker Kelly,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,190,1.0,2025
+CU,SUN,Clarkson University Golden Knights,Foul,N/A,Lorenzo Rappa,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,191,1.0,2025
+CU,SUN,SUNY Potsdam Bears,Turnover,N/A,Mohammad Sylla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,193,1.0,2025
+CU,SUN,Clarkson University Golden Knights,2pmi,To Basket,Steve DeRegis,PNR,Right,Off,Ben Phillips,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,194,1.0,2025
+CU,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Mohammad Sylla,Iso,Left,N/A,Bryson Brown,Spot Ups,N/A,Shot,Liberty League,SUNYAC,195,4.0,2025
+CU,SUN,Clarkson University Golden Knights,Foul,N/A,Steve DeRegis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,196,1.0,2025
+CU,SUN,SUNY Potsdam Bears,2pmi,To Basket,Mohammad Sylla,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,199,1.0,2025
+CU,SUN,Clarkson University Golden Knights,2pMa,To Basket,Lorenzo Rappa,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,200,1.0,2025
+CU,SUN,SUNY Potsdam Bears,3pMa,No Dribble Jumper,Mohammad Sylla,PNR,Right,Off,Parker Kelly,P&R Roll Man,N/A,Pop,Liberty League,SUNYAC,201,4.0,2025
+CU,SUN,Clarkson University Golden Knights,2pMa,Hook Shot,Finn Cork,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,202,1.0,2025
+CU,SUN,SUNY Potsdam Bears,Foul,To Basket,Mohammad Sylla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,203,1.0,2025
+CU,SUN,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Ben Rappa,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,206,4.0,2025
+CU,SUN,SUNY Potsdam Bears,Foul,To Basket,Nicholas Cortez,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,207,1.0,2025
+CU,SUN,Clarkson University Golden Knights,2pmi,Dribble Jumper,Ben Rappa,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,210,2.0,2025
+CU,SUN,Clarkson University Golden Knights,Turnover,N/A,Steve DeRegis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,211,1.0,2025
+CU,SUN,SUNY Potsdam Bears,2pMa,To Basket,Mohammad Sylla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,212,1.0,2025
+CU,SUN,,Foul,N/A,Matthew Parent,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,214,1.0,2025
+CU,SUN,SUNY Potsdam Bears,2pmi,To Basket,Mohammad Sylla,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,218,1.0,2025
+CU,SUN,,Foul,N/A,Lorenzo Rappa,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,219,1.0,2025
+CU,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Nicholas Cortez,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,222,4.0,2025

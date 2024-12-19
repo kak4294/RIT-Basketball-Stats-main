@@ -1,0 +1,168 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+IC,VC,Vassar Brewers,Turnover,To Basket,Kreekor Karageuzian,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,1.0,2025
+IC,VC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,4.0,2025
+IC,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,4.0,2025
+IC,VC,Ithaca College,2pmi,To Basket,Aidan Holmes,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,1.0,2025
+IC,VC,Vassar Brewers,Foul,To Basket,Sebastian Medina,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,1.0,2025
+IC,VC,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,4.0,2025
+IC,VC,Ithaca College,2pMa,To Basket,Chris Leysath,Post,Middle,Dribble,Jaylon O'Neal,Spot Ups,Left,Drive,Liberty League,Liberty League,9,1.0,2025
+IC,VC,Vassar Brewers,Turnover,N/A,Kreekor Karageuzian,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,1.0,2025
+IC,VC,Ithaca College,Turnover,N/A,Evan Cabral,PNR,Left,Off,Aidan Holmes,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,11,1.0,2025
+IC,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,4.0,2025
+IC,VC,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,15,1.0,2025
+IC,VC,Vassar Brewers,2pmi,To Basket,Nathan Denham,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,2.0,2025
+IC,VC,Ithaca College,2pmi,To Basket,Logan Wendell,PNR,Left,Off,Chris Leysath,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,17,1.0,2025
+IC,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,4.0,2025
+IC,VC,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,21,2.0,2025
+IC,VC,Ithaca College,2pmi,To Basket,Logan Wendell,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,1.0,2025
+IC,VC,Vassar Brewers,3pmi,No Dribble Jumper,Luke Adams,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,23,4.0,2025
+IC,VC,Ithaca College,2pmi,To Basket,Cole Wissink,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,1.0,2025
+IC,VC,Ithaca College,2pmi,To Basket,Chris Leysath,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,25,1.0,2025
+IC,VC,Vassar Brewers,Turnover,N/A,Kreekor Karageuzian,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,1.0,2025
+IC,VC,Ithaca College,Foul,No Dribble Jumper,Logan Wendell,PNR,High,Off,Aidan Holmes,Spot Ups,N/A,Shot,Liberty League,Liberty League,27,4.0,2025
+IC,VC,Vassar Brewers,2pMa,To Basket,Eric Zhang,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,31,1.0,2025
+IC,VC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,4.0,2025
+IC,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,1.0,2025
+IC,VC,Ithaca College,2pMa,To Basket,Logan Wendell,PNR,Left,Off,Cole Wissink,Cuts,N/A,Basket,Liberty League,Liberty League,35,1.0,2025
+IC,VC,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,PNR,High,Off,Nathan Denham,Spot Ups,N/A,N/A,Liberty League,Liberty League,36,1.0,2025
+IC,VC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,37,4.0,2025
+IC,VC,Vassar Brewers,2pMa,To Basket,Sacha Greenberg,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,38,1.0,2025
+IC,VC,Ithaca College,Turnover,N/A,Logan Wendell,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,1.0,2025
+IC,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,1.0,2025
+IC,VC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,PNR,High,Off,Jose Padilla,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,41,4.0,2025
+IC,VC,Vassar Brewers,2pMa,To Basket,Kreekor Karageuzian,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,1.0,2025
+IC,VC,Ithaca College,2pMa,To Basket,Jose Padilla,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,45,1.0,2025
+IC,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,46,1.0,2025
+IC,VC,Ithaca College,3pmi,No Dribble Jumper,Laurence Brady,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,47,4.0,2025
+IC,VC,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,1.0,2025
+IC,VC,Ithaca College,3pmi,No Dribble Jumper,Thomas Mckiernan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,4.0,2025
+IC,VC,Vassar Brewers,3pmi,No Dribble Jumper,Kreekor Karageuzian,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,51,4.0,2025
+IC,VC,Ithaca College,Turnover,N/A,Jose Padilla,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,1.0,2025
+IC,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,1.0,2025
+IC,VC,Ithaca College,2pmi,To Basket,Chris Leysath,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,56,1.0,2025
+IC,VC,Vassar Brewers,Foul,To Basket,Kreekor Karageuzian,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,57,1.0,2025
+IC,VC,Ithaca College,Turnover,N/A,Evan Cabral,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,1.0,2025
+IC,VC,Vassar Brewers,2pmi,To Basket,JP Miranda,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,61,1.0,2025
+IC,VC,Ithaca College,3pmi,No Dribble Jumper,Thomas Mckiernan,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,4.0,2025
+IC,VC,Vassar Brewers,Foul,To Basket,JP Miranda,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,1.0,2025
+IC,VC,Ithaca College,Foul,To Basket,Logan Wendell,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,1.0,2025
+IC,VC,Vassar Brewers,2pMa,To Basket,Kreekor Karageuzian,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,71,1.0,2025
+IC,VC,Ithaca College,2pMa,To Basket,Logan Wendell,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,1.0,2025
+IC,VC,Vassar Brewers,3pmi,No Dribble Jumper,Luke Adams,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,4.0,2025
+IC,VC,Ithaca College,2pMa,Dribble Jumper,Logan Wendell,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,74,2.0,2025
+IC,VC,Vassar Brewers,2pMa,To Basket,Kreekor Karageuzian,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,1.0,2025
+IC,VC,Ithaca College,Foul,N/A,Logan Wendell,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,76,1.0,2025
+IC,VC,Vassar Brewers,Turnover,N/A,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,1.0,2025
+IC,VC,Ithaca College,Foul,To Basket,Logan Wendell,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,1.0,2025
+IC,VC,Vassar Brewers,Turnover,N/A,Nathan Denham,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,84,1.0,2025
+IC,VC,Ithaca College,Foul,To Basket,Logan Wendell,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,1.0,2025
+IC,VC,Vassar Brewers,3pMa,No Dribble Jumper,Shea Fitzgerald,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,4.0,2025
+IC,VC,Ithaca College,And1,To Basket,Logan Wendell,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,1.0,2025
+IC,VC,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,91,1.0,2025
+IC,VC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,PNR,High,Off,Cole Wissink,Spot Ups,N/A,Shot,Liberty League,Liberty League,92,4.0,2025
+IC,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,PNR,High,Off,Sacha Greenberg,Spot Ups,N/A,Shot,Liberty League,Liberty League,93,4.0,2025
+IC,VC,Ithaca College,Turnover,N/A,Laurence Brady,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,94,1.0,2025
+IC,VC,Vassar Brewers,3pmi,No Dribble Jumper,Sacha Greenberg,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,4.0,2025
+IC,VC,Ithaca College,Turnover,To Basket,Logan Wendell,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,96,1.0,2025
+IC,VC,Vassar Brewers,Turnover,N/A,Kreekor Karageuzian,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,97,1.0,2025
+IC,VC,Ithaca College,2pMa,To Basket,Jaylon O'Neal,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,1.0,2025
+IC,VC,Vassar Brewers,3pmi,No Dribble Jumper,Eric Zhang,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,4.0,2025
+IC,VC,Ithaca College,Turnover,N/A,Jaylon O'Neal,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,1.0,2025
+IC,VC,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,101,1.0,2025
+IC,VC,Ithaca College,2pMa,To Basket,Aidan Holmes,PNR,High,Off,Cole Wissink,Cuts,N/A,Basket,Liberty League,Liberty League,102,1.0,2025
+IC,VC,Vassar Brewers,3pMa,Dribble Jumper,Avery Lee,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,4.0,2025
+IC,VC,Ithaca College,3pmi,Dribble Jumper,Jaylon O'Neal,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,4.0,2025
+IC,VC,Vassar Brewers,Turnover,N/A,Luke Adams,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,1.0,2025
+IC,VC,Ithaca College,2pMa,To Basket,Aidan Holmes,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,106,1.0,2025
+IC,VC,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,107,2.0,2025
+IC,VC,Ithaca College,3pmi,Dribble Jumper,Logan Wendell,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,108,4.0,2025
+IC,VC,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,109,1.0,2025
+IC,VC,Ithaca College,2pMa,To Basket,Evan Cabral,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,110,1.0,2025
+IC,VC,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,2.0,2025
+IC,VC,Ithaca College,Turnover,N/A,Evan Cabral,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,1.0,2025
+IC,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,1.0,2025
+IC,VC,Ithaca College,Turnover,To Basket,Chris Leysath,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,1.0,2025
+IC,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,1.0,2025
+IC,VC,Ithaca College,Foul,To Basket,Evan Cabral,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,123,1.0,2025
+IC,VC,Ithaca College,3pMa,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,127,4.0,2025
+IC,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,1.0,2025
+IC,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,129,1.0,2025
+IC,VC,Ithaca College,2pmi,To Basket,Evan Cabral,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,1.0,2025
+IC,VC,Ithaca College,And1,To Basket,Evan Cabral,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,133,1.0,2025
+IC,VC,Vassar Brewers,Turnover,N/A,Avery Lee,Hand Offs,Left,Stationary,N/A,N/A,N/A,N/A,Liberty League,Liberty League,135,1.0,2025
+IC,VC,Ithaca College,Foul,To Basket,Chris Leysath,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,136,1.0,2025
+IC,VC,Vassar Brewers,3pMa,No Dribble Jumper,Sacha Greenberg,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,4.0,2025
+IC,VC,Ithaca College,2pMa,To Basket,Chris Leysath,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,1.0,2025
+IC,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,142,1.0,2025
+IC,VC,Ithaca College,Turnover,N/A,Jaylon O'Neal,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,143,1.0,2025
+IC,VC,Vassar Brewers,Turnover,N/A,Luke Adams,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,144,1.0,2025
+IC,VC,Ithaca College,2pmi,To Basket,Evan Cabral,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,145,1.0,2025
+IC,VC,Ithaca College,2pMa,To Basket,Jaylon O'Neal,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,1.0,2025
+IC,VC,Vassar Brewers,3pMa,No Dribble Jumper,Shea Fitzgerald,Iso,Top,N/A,Eric Zhang,Spot Ups,N/A,Shot,Liberty League,Liberty League,147,4.0,2025
+IC,VC,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,148,4.0,2025
+IC,VC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,150,4.0,2025
+IC,VC,Vassar Brewers,2pMa,To Basket,Eric Zhang,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,151,1.0,2025
+IC,VC,Ithaca College,2pmi,Dribble Jumper,Logan Wendell,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,153,2.0,2025
+IC,VC,Vassar Brewers,2pMa,Dribble Jumper,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,154,2.0,2025
+IC,VC,,Foul,N/A,Cole Wissink,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,1.0,2025
+IC,VC,Vassar Brewers,And1,To Basket,Shea Fitzgerald,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,158,1.0,2025
+IC,VC,Ithaca College,2pMa,To Basket,Evan Cabral,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,160,1.0,2025
+IC,VC,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,1.0,2025
+IC,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,164,1.0,2025
+IC,VC,Ithaca College,Foul,To Basket,Evan Cabral,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,165,1.0,2025
+IC,VC,Vassar Brewers,Foul,To Basket,Kreekor Karageuzian,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,1.0,2025
+IC,VC,Vassar Brewers,3pMa,No Dribble Jumper,JP Miranda,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,172,4.0,2025
+IC,VC,Ithaca College,3pmi,No Dribble Jumper,Cole Wissink,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,4.0,2025
+IC,VC,Vassar Brewers,And1,To Basket,Shea Fitzgerald,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,174,1.0,2025
+IC,VC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,176,4.0,2025
+IC,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,PNR,Right,Off,Alex Walters,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,177,4.0,2025
+IC,VC,,Foul,To Basket,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,178,1.0,2025
+IC,VC,Vassar Brewers,Foul,N/A,Avery Lee,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,1.0,2025
+IC,VC,Ithaca College,2pMa,To Basket,Logan Wendell,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,184,1.0,2025
+IC,VC,Vassar Brewers,2pMa,To Basket,Avery Lee,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,185,1.0,2025
+IC,VC,Ithaca College,2pmi,To Basket,Logan Wendell,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,186,1.0,2025
+IC,VC,Vassar Brewers,Turnover,N/A,Kreekor Karageuzian,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,187,1.0,2025
+IC,VC,,Foul,N/A,Evan Cabral,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,188,1.0,2025
+IC,VC,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,PNR,High,Off,Avery Lee,Cuts,N/A,Flash,Liberty League,Liberty League,191,1.0,2025
+IC,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,192,1.0,2025
+IC,VC,Ithaca College,2pmi,To Basket,Evan Cabral,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,193,1.0,2025
+IC,VC,,Foul,N/A,Jaylon O'Neal,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,194,1.0,2025
+IC,VC,Vassar Brewers,3pMa,No Dribble Jumper,Alex Walters,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,197,4.0,2025
+IC,VC,Ithaca College,2pmi,Dribble Jumper,Alex Penders,Post,Left,Left Shoulder,Cole Wissink,Spot Ups,Left,Drive,Liberty League,Liberty League,198,2.0,2025
+IC,VC,Vassar Brewers,Foul,To Basket,Luke Adams,PNR,High,Off,Shea Fitzgerald,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,199,1.0,2025
+IC,VC,Ithaca College,2pmi,To Basket,Evan Cabral,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,202,1.0,2025
+IC,VC,,Foul,N/A,Aidan Holmes,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,203,1.0,2025
+IC,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,206,4.0,2025
+IC,VC,Ithaca College,Foul,N/A,Evan Cabral,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,207,1.0,2025
+IC,VC,Vassar Brewers,Turnover,N/A,Avery Lee,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,210,1.0,2025
+IC,VC,Ithaca College,2pmi,To Basket,Jaylon O'Neal,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,211,1.0,2025
+IC,VC,Ithaca College,2pMa,To Basket,Chris Leysath,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,212,1.0,2025
+IC,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,213,4.0,2025
+IC,VC,Ithaca College,2pmi,To Basket,Logan Wendell,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,214,1.0,2025
+IC,VC,Vassar Brewers,3pmi,No Dribble Jumper,Luke Adams,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,215,4.0,2025
+IC,VC,Ithaca College,And1,To Basket,Aidan Holmes,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,216,1.0,2025
+IC,VC,Vassar Brewers,2pMa,To Basket,Sacha Greenberg,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,219,1.0,2025
+IC,VC,Ithaca College,2pmi,To Basket,Evan Cabral,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,220,1.0,2025
+IC,VC,Vassar Brewers,3pmi,No Dribble Jumper,Luke Adams,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,221,4.0,2025
+IC,VC,Ithaca College,Foul,N/A,Jaylon O'Neal,PNR,High,Off,Logan Wendell,Spot Ups,Right,Drive,Liberty League,Liberty League,222,1.0,2025
+IC,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,225,1.0,2025
+IC,VC,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,226,4.0,2025
+IC,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,227,1.0,2025
+IC,VC,Ithaca College,Foul,N/A,Laurence Brady,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,228,1.0,2025
+IC,VC,Vassar Brewers,Turnover,N/A,Avery Lee,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,231,1.0,2025
+IC,VC,Ithaca College,2pMa,To Basket,Logan Wendell,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,232,1.0,2025
+IC,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,233,1.0,2025
+IC,VC,Ithaca College,2pMa,To Basket,Logan Wendell,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,234,1.0,2025
+IC,VC,Vassar Brewers,2pmi,To Basket,Eric Zhang,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,235,1.0,2025
+IC,VC,Ithaca College,3pmi,No Dribble Jumper,Max Nierenberg,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,236,4.0,2025
+IC,VC,Vassar Brewers,Turnover,N/A,Collin France,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,237,1.0,2025
+IC,VC,Ithaca College,Turnover,N/A,Chris Leysath,Post,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,238,1.0,2025
+IC,VC,Vassar Brewers,3pmi,No Dribble Jumper,Will Gregory,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,239,4.0,2025
+IC,VC,Vassar Brewers,Turnover,N/A,Sacha Greenberg,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,240,1.0,2025
+IC,VC,Ithaca College,Turnover,N/A,Michael Porter,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,241,1.0,2025
+IC,VC,Vassar Brewers,3pmi,No Dribble Jumper,Collin France,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,242,4.0,2025
+IC,VC,Vassar Brewers,Foul,To Basket,Sacha Greenberg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,243,1.0,2025
+IC,VC,Ithaca College,2pMa,To Basket,Yoav Regev,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,246,1.0,2025
+IC,VC,Vassar Brewers,2pmi,To Basket,JP Miranda,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,247,1.0,2025
+IC,VC,,Foul,N/A,Chris Leysath,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,248,1.0,2025
+IC,VC,Vassar Brewers,2pMa,To Basket,JP Miranda,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,251,1.0,2025

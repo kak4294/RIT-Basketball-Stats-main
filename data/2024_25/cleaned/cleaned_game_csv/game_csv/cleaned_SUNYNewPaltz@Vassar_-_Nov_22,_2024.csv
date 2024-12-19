@@ -1,0 +1,175 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+VC,SNP,SUNY New Paltz Hawks,3pMa,No Dribble Jumper,Ethan St. Lucia,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,1,4.0,2025
+VC,SNP,Vassar Brewers,2pmi,To Basket,Avery Lee,PNR,Left,Off,Nathan Denham,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,2,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,Ethan St. Lucia,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,3,4.0,2025
+VC,SNP,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,4,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pMa,To Basket,Sean St Lucia,PNR,Right,Off,Lucas Seyoum,Cuts,N/A,Basket,Liberty League,SUNYAC,5,1.0,2025
+VC,SNP,Vassar Brewers,3pmi,No Dribble Jumper,Kreekor Karageuzian,PNR,Right,Off,Avery Lee,Spot Ups,N/A,Shot,Liberty League,SUNYAC,6,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pmi,To Basket,A.J. Knight,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,7,1.0,2025
+VC,SNP,Vassar Brewers,Foul,To Basket,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,8,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,3pmi,Dribble Jumper,Ethan St. Lucia,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,12,4.0,2025
+VC,SNP,Vassar Brewers,3pMa,No Dribble Jumper,Kreekor Karageuzian,PNR,Right,Away,Shea Fitzgerald,Spot Ups,N/A,Shot,Liberty League,SUNYAC,13,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pmi,To Basket,Ethan St. Lucia,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,14,1.0,2025
+VC,SNP,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,15,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pMa,Dribble Jumper,LaMar Matthews,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,16,2.0,2025
+VC,SNP,Vassar Brewers,2pmi,To Basket,Avery Lee,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,17,1.0,2025
+VC,SNP,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,19,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pmi,To Basket,A.J. Knight,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,20,1.0,2025
+VC,SNP,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,PNR,High,N/A,Luke Adams,Spot Ups,N/A,Shot,Liberty League,SUNYAC,21,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,Turnover,N/A,LaMar Matthews,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,22,1.0,2025
+VC,SNP,Vassar Brewers,Turnover,N/A,Luke Adams,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,23,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pmi,Dribble Jumper,Lucas Seyoum,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,24,2.0,2025
+VC,SNP,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,25,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pmi,To Basket,Sean St Lucia,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,26,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pMa,To Basket,LaMar Matthews,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,28,1.0,2025
+VC,SNP,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,29,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pMa,Dribble Jumper,Sean St Lucia,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,30,2.0,2025
+VC,SNP,Vassar Brewers,3pmi,No Dribble Jumper,Luke Adams,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,31,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pMa,To Basket,Sean St Lucia,PNR,High,Off,LaMar Matthews,Spot Ups,Left,Drive,Liberty League,SUNYAC,32,1.0,2025
+VC,SNP,Vassar Brewers,2pmi,To Basket,Luke Adams,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,33,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,3pmi,Dribble Jumper,LaMar Matthews,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,34,4.0,2025
+VC,SNP,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,35,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,3pmi,Dribble Jumper,Ethan St. Lucia,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,36,4.0,2025
+VC,SNP,Vassar Brewers,3pMa,No Dribble Jumper,Alex Walters,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,37,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pmi,To Basket,Dakoda Smith,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,38,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,Alex Krupinski,PNR,High,Off,Thomas Keane,Spot Ups,N/A,Shot,Liberty League,SUNYAC,39,4.0,2025
+VC,SNP,Vassar Brewers,3pmi,Dribble Jumper,Avery Lee,PNR,High,Away,Sacha Greenberg,Spot Ups,Left,Drive,Liberty League,SUNYAC,40,4.0,2025
+VC,SNP,Vassar Brewers,Turnover,N/A,Sacha Greenberg,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,42,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,Turnover,To Basket,Trevor Amalfitano,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,43,1.0,2025
+VC,SNP,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,PNR,High,Off,JP Miranda,Spot Ups,N/A,Shot,Liberty League,SUNYAC,44,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,And1,To Basket,Isaiah Rivera,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,45,1.0,2025
+VC,SNP,Vassar Brewers,Turnover,To Basket,Sebastian Medina,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,47,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pMa,To Basket,Dakoda Smith,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,48,1.0,2025
+VC,SNP,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,49,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pMa,To Basket,Dakoda Smith,Post,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,50,1.0,2025
+VC,SNP,Vassar Brewers,2pmi,To Basket,JP Miranda,PNR,High,Off,Nathan Denham,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,51,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,Turnover,N/A,Alex Krupinski,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,52,1.0,2025
+VC,SNP,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,PNR,Right,Off,Sebastian Medina,Cuts,N/A,Basket,Liberty League,SUNYAC,53,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pMa,To Basket,Isaiah Rivera,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,54,1.0,2025
+VC,SNP,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,55,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pmi,To Basket,Trevor Amalfitano,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,56,1.0,2025
+VC,SNP,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,58,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,Dakoda Smith,Post,Left,Left Shoulder,Alex Krupinski,Spot Ups,N/A,Shot,Liberty League,SUNYAC,59,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,Foul,To Basket,Dakoda Smith,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,60,1.0,2025
+VC,SNP,Vassar Brewers,And1,To Basket,Avery Lee,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,63,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,3pmi,Dribble Jumper,A.J. Knight,PNR,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,65,4.0,2025
+VC,SNP,Vassar Brewers,2pMa,To Basket,Avery Lee,PNR,High,Off,Nathan Denham,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,66,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pmi,To Basket,Luke Van Slyke,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,67,1.0,2025
+VC,SNP,Vassar Brewers,3pmi,Dribble Jumper,Shea Fitzgerald,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,68,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pmi,N/A,Luke Van Slyke,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,69,1.0,2025
+VC,SNP,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,PNR,High,Off,Nathan Denham,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,70,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pmi,To Basket,A.J. Knight,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,71,1.0,2025
+VC,SNP,Vassar Brewers,3pmi,No Dribble Jumper,Luke Adams,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,72,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,3pMa,No Dribble Jumper,Trevor Amalfitano,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,73,4.0,2025
+VC,SNP,Vassar Brewers,3pMa,No Dribble Jumper,Shea Fitzgerald,PNR,High,Away,Avery Lee,Spot Ups,N/A,Shot,Liberty League,SUNYAC,74,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,And1,To Basket,Isaiah Rivera,PNR,High,Off,Luke Van Slyke,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,75,1.0,2025
+VC,SNP,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,77,4.0,2025
+VC,SNP,Vassar Brewers,3pmi,No Dribble Jumper,Luke Adams,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,79,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pmi,Dribble Jumper,A.J. Knight,PNR,High,Off,LaMar Matthews,Spot Ups,Left,Drive,Liberty League,SUNYAC,81,2.0,2025
+VC,SNP,Vassar Brewers,Turnover,N/A,Luke Adams,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,82,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pmi,To Basket,Sean St Lucia,PNR,High,Off,Lucas Seyoum,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,83,1.0,2025
+VC,SNP,Vassar Brewers,Turnover,N/A,Kreekor Karageuzian,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,84,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pmi,To Basket,LaMar Matthews,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,85,1.0,2025
+VC,SNP,Vassar Brewers,Turnover,N/A,Sebastian Medina,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,86,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,Turnover,N/A,Ethan St. Lucia,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,87,1.0,2025
+VC,SNP,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,88,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,Turnover,N/A,Ethan St. Lucia,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,89,1.0,2025
+VC,SNP,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,PNR,High,Off,Shea Fitzgerald,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,90,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pMa,To Basket,A.J. Knight,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,91,1.0,2025
+VC,SNP,Vassar Brewers,2pmi,To Basket,Avery Lee,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,92,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,A.J. Knight,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,93,4.0,2025
+VC,SNP,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,PNR,Right,Off,Avery Lee,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,95,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pMa,To Basket,LaMar Matthews,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,98,1.0,2025
+VC,SNP,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,99,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pMa,To Basket,Lucas Seyoum,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,101,1.0,2025
+VC,SNP,Vassar Brewers,2pMa,To Basket,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,102,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pMa,To Basket,A.J. Knight,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,103,1.0,2025
+VC,SNP,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,PNR,High,Off,Shea Fitzgerald,Spot Ups,N/A,Shot,Liberty League,SUNYAC,104,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,Turnover,To Basket,Ethan St. Lucia,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,105,1.0,2025
+VC,SNP,Vassar Brewers,2pMa,To Basket,Kreekor Karageuzian,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,106,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,Foul,To Basket,A.J. Knight,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,107,1.0,2025
+VC,SNP,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,110,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,3pmi,Dribble Jumper,A.J. Knight,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,111,4.0,2025
+VC,SNP,Vassar Brewers,2pmi,To Basket,Nathan Denham,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,112,1.0,2025
+VC,SNP,Vassar Brewers,2pMa,To Basket,Nathan Denham,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,113,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pmi,To Basket,Sean St Lucia,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,114,1.0,2025
+VC,SNP,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,115,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,Foul,To Basket,LaMar Matthews,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,116,1.0,2025
+VC,SNP,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,119,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,Turnover,N/A,LaMar Matthews,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,120,1.0,2025
+VC,SNP,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,121,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pmi,To Basket,Sean St Lucia,PNR,High,Off,Dakoda Smith,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,122,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pMa,Dribble Jumper,Sean St Lucia,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,124,2.0,2025
+VC,SNP,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,PNR,High,Away,Luke Adams,Spot Ups,N/A,Shot,Liberty League,SUNYAC,125,4.0,2025
+VC,SNP,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,127,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,Foul,To Basket,Sean St Lucia,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,128,1.0,2025
+VC,SNP,Vassar Brewers,3pMa,No Dribble Jumper,Alex Walters,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,132,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,Foul,No Dribble Jumper,Sean St Lucia,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,133,4.0,2025
+VC,SNP,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,137,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pmi,To Basket,Dakoda Smith,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,138,1.0,2025
+VC,SNP,Vassar Brewers,2pmi,Dribble Jumper,Sacha Greenberg,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,139,2.0,2025
+VC,SNP,Vassar Brewers,Turnover,N/A,Sacha Greenberg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,140,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,3pmi,Dribble Jumper,Sean St Lucia,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,141,4.0,2025
+VC,SNP,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,142,1.0,2025
+VC,SNP,Vassar Brewers,2pMa,Dribble Jumper,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,143,2.0,2025
+VC,SNP,SUNY New Paltz Hawks,3pMa,Dribble Jumper,A.J. Knight,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,144,4.0,2025
+VC,SNP,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,145,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pmi,To Basket,A.J. Knight,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,146,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pmi,No Dribble Jumper,A.J. Knight,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,148,3.0,2025
+VC,SNP,Vassar Brewers,3pmi,No Dribble Jumper,Luke Adams,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,149,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,Alex Krupinski,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,150,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,Turnover,N/A,Isaiah Rivera,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,152,1.0,2025
+VC,SNP,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,156,1.0,2025
+VC,SNP,Vassar Brewers,2pmi,Dribble Jumper,Alex Walters,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,158,2.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pmi,To Basket,A.J. Knight,PNR,High,Away,Alex Krupinski,P&R Roll Man,Left,Pop,Liberty League,SUNYAC,159,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pmi,To Basket,Isaiah Rivera,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,161,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pMa,To Basket,Isaiah Rivera,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,163,1.0,2025
+VC,SNP,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,166,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,3pMa,No Dribble Jumper,Isaiah Rivera,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,167,4.0,2025
+VC,SNP,Vassar Brewers,2pmi,To Basket,Sebastian Medina,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,168,1.0,2025
+VC,SNP,Vassar Brewers,Foul,N/A,Sebastian Medina,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,169,1.0,2025
+VC,SNP,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,171,4.0,2025
+VC,SNP,Vassar Brewers,2pmi,To Basket,Nathan Denham,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,172,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pmi,Hook Shot,Dakoda Smith,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,173,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,3pMa,No Dribble Jumper,Isaiah Rivera,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,175,4.0,2025
+VC,SNP,Vassar Brewers,2pMa,To Basket,Sebastian Medina,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,177,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pmi,To Basket,Isaiah Rivera,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,178,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,Turnover,N/A,Alex Krupinski,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,179,1.0,2025
+VC,SNP,Vassar Brewers,Foul,To Basket,Avery Lee,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,182,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pmi,To Basket,Trevor Amalfitano,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,185,1.0,2025
+VC,SNP,Vassar Brewers,2pmi,N/A,Sebastian Medina,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,187,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pMa,To Basket,Trevor Amalfitano,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,188,1.0,2025
+VC,SNP,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,PNR,High,Off,Avery Lee,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,189,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,Thomas Keane,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,192,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,Foul,To Basket,Alex Krupinski,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,193,1.0,2025
+VC,SNP,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,196,2.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pMa,Dribble Jumper,Isaiah Rivera,Iso,Right,N/A,Alex Krupinski,Spot Ups,Left,Drive,Liberty League,SUNYAC,197,2.0,2025
+VC,SNP,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,Post,Right,Right Shoulder,Alex Walters,Spot Ups,N/A,Shot,Liberty League,SUNYAC,198,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,Foul,To Basket,Isaiah Rivera,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,199,1.0,2025
+VC,SNP,Vassar Brewers,Foul,No Dribble Jumper,Shea Fitzgerald,PNR,Right,Away,Alex Walters,Spot Ups,N/A,Shot,Liberty League,SUNYAC,202,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,3pMa,No Dribble Jumper,Alex Krupinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,206,4.0,2025
+VC,SNP,Vassar Brewers,Turnover,N/A,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,207,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,Thomas Keane,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,208,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pMa,Dribble Jumper,Isaiah Rivera,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,210,2.0,2025
+VC,SNP,SUNY New Paltz Hawks,Foul,N/A,Isaiah Rivera,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,211,1.0,2025
+VC,SNP,Vassar Brewers,Foul,N/A,Nathan Denham,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,214,1.0,2025
+VC,SNP,Vassar Brewers,Foul,To Basket,Avery Lee,PNR,High,Away,Sebastian Medina,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,217,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,Sean St Lucia,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,220,4.0,2025
+VC,SNP,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,221,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,2pMa,To Basket,Trevor Amalfitano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,222,1.0,2025
+VC,SNP,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,223,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,Foul,To Basket,Sean St Lucia,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,225,1.0,2025
+VC,SNP,Vassar Brewers,Foul,Dribble Jumper,Shea Fitzgerald,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,228,2.0,2025
+VC,SNP,SUNY New Paltz Hawks,3pmi,Dribble Jumper,Alex Krupinski,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,231,4.0,2025
+VC,SNP,Vassar Brewers,Turnover,N/A,Avery Lee,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,232,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,Turnover,N/A,Isaiah Rivera,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,233,1.0,2025
+VC,SNP,Vassar Brewers,Turnover,N/A,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,234,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,Foul,N/A,A.J. Knight,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,235,1.0,2025
+VC,SNP,Vassar Brewers,2pmi,To Basket,Avery Lee,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,239,1.0,2025
+VC,SNP,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,240,1.0,2025
+VC,SNP,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,PNR,High,Off,Shea Fitzgerald,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,241,4.0,2025
+VC,SNP,SUNY New Paltz Hawks,Foul,N/A,Sean St Lucia,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,242,1.0,2025
+VC,SNP,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,245,1.0,2025
+VC,SNP,Vassar Brewers,Foul,N/A,Kreekor Karageuzian,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,246,1.0,2025
+VC,SNP,SUNY New Paltz Hawks,Foul,N/A,A.J. Knight,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,251,1.0,2025
+VC,SNP,Vassar Brewers,3pmi,Dribble Jumper,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,254,4.0,2025

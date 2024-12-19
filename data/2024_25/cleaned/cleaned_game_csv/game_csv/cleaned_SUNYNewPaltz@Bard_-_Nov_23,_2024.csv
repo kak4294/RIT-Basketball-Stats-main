@@ -1,0 +1,173 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+Bar,SNP,SUNY New Paltz Hawks,2pMa,To Basket,A.J. Knight,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,1,1.0,2025
+Bar,SNP,Bard College,Turnover,N/A,Azriel Almodovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,2,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pMa,To Basket,A.J. Knight,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,3,1.0,2025
+Bar,SNP,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,5,4.0,2025
+Bar,SNP,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,7,4.0,2025
+Bar,SNP,SUNY New Paltz Hawks,3pMa,No Dribble Jumper,LaMar Matthews,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,8,4.0,2025
+Bar,SNP,Bard College,2pmi,To Basket,Azriel Almodovar,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,9,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,Lucas Seyoum,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,10,4.0,2025
+Bar,SNP,Bard College,2pMa,To Basket,Ahmad Rauf,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,11,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pMa,To Basket,LaMar Matthews,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,12,1.0,2025
+Bar,SNP,Bard College,2pMa,To Basket,Rowan Heinze,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,14,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pmi,To Basket,A.J. Knight,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,15,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,LaMar Matthews,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,17,4.0,2025
+Bar,SNP,Bard College,2pmi,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,18,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,Sean St Lucia,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,19,4.0,2025
+Bar,SNP,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,21,4.0,2025
+Bar,SNP,Bard College,Foul,To Basket,Rowan Heinze,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,23,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,Turnover,N/A,Ethan St. Lucia,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,26,1.0,2025
+Bar,SNP,Bard College,2pMa,To Basket,Laz Panagiotounis,PNR,High,Off,Rowan Heinze,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,28,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,Turnover,N/A,A.J. Knight,PNR,High,Off,LaMar Matthews,Spot Ups,Right,Drive,Liberty League,SUNYAC,29,1.0,2025
+Bar,SNP,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,30,4.0,2025
+Bar,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,Sean St Lucia,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,31,4.0,2025
+Bar,SNP,Bard College,3pMa,No Dribble Jumper,Laz Panagiotounis,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,32,4.0,2025
+Bar,SNP,SUNY New Paltz Hawks,Turnover,N/A,A.J. Knight,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,33,1.0,2025
+Bar,SNP,Bard College,2pMa,To Basket,Rowan Heinze,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,34,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pMa,To Basket,Dakoda Smith,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,35,1.0,2025
+Bar,SNP,Bard College,2pMa,To Basket,Laz Panagiotounis,PNR,High,Off,Rowan Heinze,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,36,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,Turnover,N/A,Isaiah Rivera,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,37,1.0,2025
+Bar,SNP,Bard College,2pMa,To Basket,Rowan Heinze,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,38,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pmi,To Basket,Trevor Amalfitano,PNR,High,Off,Dakoda Smith,Spot Ups,Right,Drive,Liberty League,SUNYAC,39,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pmi,To Basket,Isaiah Rivera,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,40,1.0,2025
+Bar,SNP,Bard College,3pmi,No Dribble Jumper,Rowan Heinze,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,41,4.0,2025
+Bar,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,Sean St Lucia,PNR,High,Off,Dakoda Smith,P&R Roll Man,N/A,Pop,Liberty League,SUNYAC,42,4.0,2025
+Bar,SNP,Bard College,3pMa,Dribble Jumper,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,43,4.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pmi,Dribble Jumper,Sean St Lucia,PNR,High,Off,Alex Krupinski,P&R Roll Man,Left,Pop,Liberty League,SUNYAC,44,3.0,2025
+Bar,SNP,Bard College,Turnover,N/A,Lucas Tovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,45,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pmi,Dribble Jumper,Alex Krupinski,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,46,3.0,2025
+Bar,SNP,Bard College,2pmi,To Basket,Sean Wilcox,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,47,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,Turnover,N/A,Trevor Amalfitano,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,48,1.0,2025
+Bar,SNP,Bard College,Turnover,N/A,Laz Panagiotounis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,49,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pmi,Dribble Jumper,Trevor Amalfitano,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,50,2.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pmi,To Basket,Alex Krupinski,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,51,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pMa,To Basket,Dakoda Smith,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,52,1.0,2025
+Bar,SNP,Bard College,2pmi,Dribble Jumper,Laz Panagiotounis,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,53,3.0,2025
+Bar,SNP,SUNY New Paltz Hawks,Turnover,N/A,Trevor Amalfitano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,54,1.0,2025
+Bar,SNP,Bard College,2pmi,To Basket,Azriel Almodovar,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,55,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pMa,To Basket,Isaiah Rivera,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,57,1.0,2025
+Bar,SNP,Bard College,2pmi,To Basket,Sean Wilcox,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,58,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pMa,To Basket,Thomas Keane,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,59,1.0,2025
+Bar,SNP,Bard College,2pmi,To Basket,Azriel Almodovar,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,60,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pmi,Dribble Jumper,A.J. Knight,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,61,2.0,2025
+Bar,SNP,Bard College,3pMa,No Dribble Jumper,Joshua Bayne,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,62,4.0,2025
+Bar,SNP,SUNY New Paltz Hawks,3pMa,No Dribble Jumper,Alex Krupinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,63,4.0,2025
+Bar,SNP,Bard College,2pmi,To Basket,Azriel Almodovar,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,64,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,Alex Krupinski,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,65,4.0,2025
+Bar,SNP,Bard College,Turnover,N/A,Lucas Tovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,66,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pmi,To Basket,LaMar Matthews,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,67,1.0,2025
+Bar,SNP,Bard College,2pmi,Hook Shot,Rowan Heinze,Post,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,68,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,LaMar Matthews,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,69,4.0,2025
+Bar,SNP,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Post,Right,Right Shoulder,Laz Panagiotounis,Spot Ups,N/A,Shot,Liberty League,SUNYAC,70,4.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pMa,Dribble Jumper,A.J. Knight,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,71,3.0,2025
+Bar,SNP,Bard College,Turnover,N/A,Jalen Umstead,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,74,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pMa,Dribble Jumper,A.J. Knight,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,75,3.0,2025
+Bar,SNP,Bard College,Turnover,N/A,Seth Dyer,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,76,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pMa,To Basket,LaMar Matthews,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,77,1.0,2025
+Bar,SNP,Bard College,Turnover,N/A,Laz Panagiotounis,PNR,Right,Away,Jalen Umstead,P&R Roll Man,Right,Pop,Liberty League,SUNYAC,79,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,Foul,To Basket,LaMar Matthews,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,80,1.0,2025
+Bar,SNP,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,83,4.0,2025
+Bar,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,Ethan St. Lucia,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,84,4.0,2025
+Bar,SNP,,Foul,N/A,Seth Dyer,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,85,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,Turnover,N/A,Sean St Lucia,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,88,1.0,2025
+Bar,SNP,Bard College,2pMa,To Basket,Rowan Heinze,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,89,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pmi,To Basket,LaMar Matthews,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,91,1.0,2025
+Bar,SNP,Bard College,Foul,To Basket,Laz Panagiotounis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,92,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,3pMa,No Dribble Jumper,A.J. Knight,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,95,4.0,2025
+Bar,SNP,Bard College,3pMa,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,96,4.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pmi,Dribble Jumper,Ethan St. Lucia,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,97,3.0,2025
+Bar,SNP,Bard College,2pMa,To Basket,Laz Panagiotounis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,98,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pmi,To Basket,A.J. Knight,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,99,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pMa,To Basket,Ethan St. Lucia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,100,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,Lucas Seyoum,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,101,4.0,2025
+Bar,SNP,Bard College,2pMa,To Basket,Laz Panagiotounis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,102,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,Sean St Lucia,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,103,4.0,2025
+Bar,SNP,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Iso,Right,N/A,Azriel Almodovar,Spot Ups,N/A,Shot,Liberty League,SUNYAC,104,4.0,2025
+Bar,SNP,Bard College,2pmi,To Basket,Azriel Almodovar,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,106,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pMa,To Basket,LaMar Matthews,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,107,1.0,2025
+Bar,SNP,Bard College,2pmi,To Basket,Rowan Heinze,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,108,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,Foul,To Basket,LaMar Matthews,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,109,1.0,2025
+Bar,SNP,Bard College,2pMa,To Basket,Sean Wilcox,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,112,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pMa,To Basket,LaMar Matthews,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,113,1.0,2025
+Bar,SNP,Bard College,2pmi,To Basket,Ahmad Rauf,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,114,1.0,2025
+Bar,SNP,Bard College,2pMa,To Basket,Ahmad Rauf,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,115,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,Sean St Lucia,PNR,High,Off,Lucas Seyoum,P&R Roll Man,N/A,Pop,Liberty League,SUNYAC,116,4.0,2025
+Bar,SNP,Bard College,2pMa,To Basket,Rowan Heinze,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,117,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,Lucas Seyoum,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,118,4.0,2025
+Bar,SNP,SUNY New Paltz Hawks,Turnover,N/A,LaMar Matthews,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,119,1.0,2025
+Bar,SNP,Bard College,And1,To Basket,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,120,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,Sean St Lucia,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,122,4.0,2025
+Bar,SNP,Bard College,2pMa,To Basket,Lucas Tovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,123,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,Foul,To Basket,Dakoda Smith,Post,Left,N/A,Isaiah Rivera,Spot Ups,Right,Drive,Liberty League,SUNYAC,124,1.0,2025
+Bar,SNP,Bard College,2pMa,To Basket,Laz Panagiotounis,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,127,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,A.J. Knight,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,128,4.0,2025
+Bar,SNP,SUNY New Paltz Hawks,Foul,To Basket,Dakoda Smith,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,130,1.0,2025
+Bar,SNP,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,134,4.0,2025
+Bar,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,Isaiah Rivera,PNR,High,Off,Dakoda Smith,P&R Roll Man,N/A,Pop,Liberty League,SUNYAC,135,4.0,2025
+Bar,SNP,Bard College,2pMa,To Basket,Rowan Heinze,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,136,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pmi,To Basket,Isaiah Rivera,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,137,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,Turnover,N/A,LaMar Matthews,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,138,1.0,2025
+Bar,SNP,Bard College,2pMa,To Basket,Lucas Tovar,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,139,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pMa,To Basket,Isaiah Rivera,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,140,1.0,2025
+Bar,SNP,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,141,4.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pmi,Dribble Jumper,Thomas Keane,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,142,3.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pmi,Dribble Jumper,A.J. Knight,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,144,2.0,2025
+Bar,SNP,Bard College,Turnover,N/A,Sean Wilcox,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,145,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pmi,Dribble Jumper,Isaiah Rivera,PNR,High,Away,Thomas Keane,Spot Ups,Right,Drive,Liberty League,SUNYAC,146,2.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pMa,To Basket,Alex Krupinski,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,147,1.0,2025
+Bar,SNP,Bard College,Turnover,N/A,Lucas Tovar,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,149,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pmi,Dribble Jumper,Isaiah Rivera,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,150,2.0,2025
+Bar,SNP,Bard College,Turnover,N/A,Lucas Tovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,151,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,And1,To Basket,Dakoda Smith,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,152,1.0,2025
+Bar,SNP,Bard College,2pMa,To Basket,Laz Panagiotounis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,155,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,Turnover,N/A,Thomas Keane,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,157,1.0,2025
+Bar,SNP,Bard College,3pmi,No Dribble Jumper,Seth Dyer,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,159,4.0,2025
+Bar,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,Trevor Amalfitano,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,160,4.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pmi,To Basket,Trevor Amalfitano,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,162,1.0,2025
+Bar,SNP,Bard College,2pmi,To Basket,Lucas Tovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,163,1.0,2025
+Bar,SNP,Bard College,3pmi,No Dribble Jumper,Joshua Bayne,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,165,4.0,2025
+Bar,SNP,Bard College,3pmi,No Dribble Jumper,Lucas Tovar,PNR,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,168,4.0,2025
+Bar,SNP,Bard College,Turnover,N/A,Joshua Bayne,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,169,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,3pMa,No Dribble Jumper,Isaiah Rivera,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,170,4.0,2025
+Bar,SNP,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,171,4.0,2025
+Bar,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,Trevor Amalfitano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,172,4.0,2025
+Bar,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,Alex Krupinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,174,4.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pmi,To Basket,Isaiah Rivera,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,175,1.0,2025
+Bar,SNP,,Foul,N/A,Isaiah Rivera,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,176,1.0,2025
+Bar,SNP,Bard College,Foul,To Basket,Rowan Heinze,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,179,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,Foul,N/A,A.J. Knight,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,182,1.0,2025
+Bar,SNP,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,186,4.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pmi,Dribble Jumper,Alex Krupinski,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,187,2.0,2025
+Bar,SNP,,Foul,N/A,Trevor Amalfitano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,188,1.0,2025
+Bar,SNP,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,191,4.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pMa,Dribble Jumper,A.J. Knight,PNR,High,Off,Alex Krupinski,Spot Ups,Left,Drive,Liberty League,SUNYAC,192,2.0,2025
+Bar,SNP,Bard College,2pMa,To Basket,Laz Panagiotounis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,194,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pMa,Dribble Jumper,Alex Krupinski,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,195,3.0,2025
+Bar,SNP,Bard College,2pmi,To Basket,Azriel Almodovar,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,196,1.0,2025
+Bar,SNP,Bard College,2pMa,To Basket,Azriel Almodovar,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,197,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,LaMar Matthews,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,199,4.0,2025
+Bar,SNP,Bard College,2pmi,Dribble Jumper,Laz Panagiotounis,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,200,2.0,2025
+Bar,SNP,Bard College,2pmi,To Basket,Rowan Heinze,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,202,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,3pmi,Dribble Jumper,A.J. Knight,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,203,4.0,2025
+Bar,SNP,SUNY New Paltz Hawks,Turnover,To Basket,Isaiah Rivera,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,206,1.0,2025
+Bar,SNP,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,208,4.0,2025
+Bar,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,LaMar Matthews,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,209,4.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pMa,To Basket,Isaiah Rivera,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,210,1.0,2025
+Bar,SNP,Bard College,2pmi,To Basket,Seth Dyer,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,211,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,And1,To Basket,Dakoda Smith,Post,Right,Face Up,Sean St Lucia,Cuts,N/A,Basket,Liberty League,SUNYAC,212,1.0,2025
+Bar,SNP,Bard College,Foul,N/A,Laz Panagiotounis,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,214,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pmi,To Basket,Sean St Lucia,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,217,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pMa,To Basket,Dakoda Smith,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,218,1.0,2025
+Bar,SNP,Bard College,Turnover,N/A,Max Frei,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,219,1.0,2025
+Bar,SNP,SUNY New Paltz Hawks,3pmi,No Dribble Jumper,Isaiah Rivera,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,220,4.0,2025
+Bar,SNP,SUNY New Paltz Hawks,2pMa,To Basket,Dakoda Smith,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,221,1.0,2025
+Bar,SNP,Bard College,3pMa,Dribble Jumper,Azriel Almodovar,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,222,4.0,2025
+Bar,SNP,,Foul,N/A,Alex Krupinski,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,223,1.0,2025
+Bar,SNP,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,226,4.0,2025
+Bar,SNP,,Foul,N/A,Isaiah Rivera,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,227,1.0,2025
+Bar,SNP,Bard College,2pMa,To Basket,Lucas Tovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,230,1.0,2025
+Bar,SNP,,Foul,N/A,Alex Krupinski,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,231,1.0,2025
+Bar,SNP,Bard College,2pMa,To Basket,Ahmad Rauf,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,234,1.0,2025
+Bar,SNP,,Foul,N/A,LaMar Matthews,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,235,1.0,2025
+Bar,SNP,Bard College,3pmi,Dribble Jumper,Joshua Bayne,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,238,4.0,2025
+Bar,SNP,Bard College,Turnover,N/A,Lucas Tovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,239,1.0,2025

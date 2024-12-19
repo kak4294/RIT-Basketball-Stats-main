@@ -1,0 +1,176 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+UNY,SCF,Union (NY) Chargers,3pmi,No Dribble Jumper,Jaden Jauregui,PNR,High,Off,Brendan Reid,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,1,4.0,2025
+UNY,SCF,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,3,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,Turnover,N/A,Quanire Greene,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,4,1.0,2025
+UNY,SCF,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,5,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pmi,Dribble Jumper,Elijah Morris,PNR,Left,Off,Chace Peterson,P&R Roll Man,Right,Pop,Liberty League,UNKNOWN,6,2.0,2025
+UNY,SCF,Union (NY) Chargers,3pMa,No Dribble Jumper,Christian Dufort,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,7,4.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,3pmi,No Dribble Jumper,Chace Peterson,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,8,4.0,2025
+UNY,SCF,Union (NY) Chargers,2pMa,To Basket,Jaden Jauregui,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,9,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,3pmi,Dribble Jumper,Elijah Morris,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,10,4.0,2025
+UNY,SCF,Union (NY) Chargers,2pmi,Dribble Jumper,Jaden Jauregui,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,11,2.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pmi,To Basket,Elijah Morris,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,12,1.0,2025
+UNY,SCF,Union (NY) Chargers,2pMa,No Dribble Jumper,Tanner Tedesco,PNR,High,Off,Jack Plesser,P&R Roll Man,N/A,Slips,Liberty League,UNKNOWN,13,2.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pmi,Dribble Jumper,Quanire Greene,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,14,2.0,2025
+UNY,SCF,Union (NY) Chargers,2pMa,To Basket,Jaden Jauregui,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,15,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pmi,To Basket,Elijah Morris,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,16,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pMa,To Basket,Jermaine Wheeler,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,17,1.0,2025
+UNY,SCF,Union (NY) Chargers,2pMa,To Basket,Jaden Jauregui,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,18,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pmi,To Basket,Devin Dennard,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,19,1.0,2025
+UNY,SCF,Union (NY) Chargers,Turnover,N/A,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,20,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pmi,Dribble Jumper,Chace Peterson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,21,3.0,2025
+UNY,SCF,Union (NY) Chargers,3pMa,Dribble Jumper,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,22,4.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,3pMa,Dribble Jumper,Quanire Greene,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,23,4.0,2025
+UNY,SCF,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,24,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,Foul,To Basket,Quanire Greene,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,25,1.0,2025
+UNY,SCF,Union (NY) Chargers,2pMa,No Dribble Jumper,Aidan Duffy,PNR,Left,Off,Jack Plesser,P&R Roll Man,N/A,Slips,Liberty League,UNKNOWN,28,2.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,3pMa,Dribble Jumper,Quanire Greene,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,29,4.0,2025
+UNY,SCF,Union (NY) Chargers,2pmi,To Basket,Matthew Garside,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,30,1.0,2025
+UNY,SCF,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,32,4.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pMa,Dribble Jumper,Quanire Greene,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,33,2.0,2025
+UNY,SCF,Union (NY) Chargers,Foul,To Basket,Aren Cummings,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,34,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,3pmi,Dribble Jumper,Quanire Greene,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,37,4.0,2025
+UNY,SCF,Union (NY) Chargers,2pmi,To Basket,Aren Cummings,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,38,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pmi,Dribble Jumper,Quanire Greene,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,39,2.0,2025
+UNY,SCF,Union (NY) Chargers,And1,To Basket,Aren Cummings,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,40,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pmi,Dribble Jumper,Marquay Tanksley,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,42,2.0,2025
+UNY,SCF,Union (NY) Chargers,2pMa,To Basket,Aren Cummings,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,43,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pmi,To Basket,Elijah Morris,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,44,1.0,2025
+UNY,SCF,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,PNR,Left,Off,Brendan Reid,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,45,4.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pmi,To Basket,Elijah Morris,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,46,1.0,2025
+UNY,SCF,Union (NY) Chargers,2pMa,To Basket,Tanner Tedesco,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,47,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,3pMa,No Dribble Jumper,Chrischen Chung,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,48,4.0,2025
+UNY,SCF,Union (NY) Chargers,2pMa,To Basket,Matthew Garside,PNR,Right,Off,Aren Cummings,Cuts,N/A,Basket,Liberty League,UNKNOWN,49,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,Turnover,N/A,Devin Dennard,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,50,1.0,2025
+UNY,SCF,Union (NY) Chargers,2pMa,To Basket,Aren Cummings,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,51,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,Turnover,N/A,Chrischen Chung,PNR,High,Off,Marquay Tanksley,Spot Ups,Right,Drive,Liberty League,UNKNOWN,52,1.0,2025
+UNY,SCF,Union (NY) Chargers,Foul,Dribble Jumper,Harrison Collins,PNR,High,Off,Brendan Reid,P&R Roll Man,Left,Pop,Liberty League,UNKNOWN,53,2.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pmi,Dribble Jumper,Marquay Tanksley,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,56,2.0,2025
+UNY,SCF,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,57,4.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,3pMa,No Dribble Jumper,Marquay Tanksley,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,58,4.0,2025
+UNY,SCF,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,59,4.0,2025
+UNY,SCF,Union (NY) Chargers,2pmi,To Basket,Neil Daterao,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,60,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,3pmi,No Dribble Jumper,Devin Dennard,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,61,4.0,2025
+UNY,SCF,Union (NY) Chargers,3pMa,No Dribble Jumper,Harrison Collins,PNR,Left,Off,Matthew Garside,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,62,4.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,3pmi,Dribble Jumper,Chrischen Chung,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,63,4.0,2025
+UNY,SCF,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,64,4.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pMa,To Basket,Andrew Wright,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,65,1.0,2025
+UNY,SCF,Union (NY) Chargers,Turnover,N/A,Harrison Collins,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,66,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pmi,Dribble Jumper,Quanire Greene,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,67,2.0,2025
+UNY,SCF,Union (NY) Chargers,2pMa,To Basket,Jaden Jauregui,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,68,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,Turnover,N/A,Chace Peterson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,69,1.0,2025
+UNY,SCF,Union (NY) Chargers,Turnover,N/A,Matthew Garside,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,71,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,Turnover,To Basket,Chace Peterson,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,72,1.0,2025
+UNY,SCF,Union (NY) Chargers,3pMa,Dribble Jumper,Tanner Tedesco,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,73,4.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pMa,To Basket,Elijah Morris,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,74,1.0,2025
+UNY,SCF,Union (NY) Chargers,Foul,To Basket,Christian Dufort,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,75,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,And1,To Basket,Quanire Greene,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,78,1.0,2025
+UNY,SCF,Union (NY) Chargers,2pmi,Dribble Jumper,Tanner Tedesco,PNR,High,Off,Jack Plesser,Spot Ups,Right,Drive,Liberty League,UNKNOWN,80,2.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,3pmi,No Dribble Jumper,Quanire Greene,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,81,4.0,2025
+UNY,SCF,Union (NY) Chargers,2pMa,To Basket,Christian Dufort,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,82,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pMa,Dribble Jumper,Elijah Morris,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,83,3.0,2025
+UNY,SCF,Union (NY) Chargers,2pMa,Dribble Jumper,Jack Plesser,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,84,2.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,3pMa,No Dribble Jumper,Elijah Morris,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,85,4.0,2025
+UNY,SCF,Union (NY) Chargers,2pMa,To Basket,Tanner Tedesco,PNR,High,Off,Aren Cummings,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,86,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,3pmi,No Dribble Jumper,Elijah Morris,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,87,4.0,2025
+UNY,SCF,Union (NY) Chargers,2pMa,Drop Step,Jack Plesser,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,88,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,Turnover,N/A,Elijah Morris,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,89,1.0,2025
+UNY,SCF,Union (NY) Chargers,2pmi,No Dribble Jumper,Tanner Tedesco,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,90,3.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,Foul,To Basket,Marquay Tanksley,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,91,1.0,2025
+UNY,SCF,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,94,4.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pmi,To Basket,Quanire Greene,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,95,1.0,2025
+UNY,SCF,Union (NY) Chargers,3pMa,Dribble Jumper,Tanner Tedesco,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,96,4.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,Turnover,N/A,Elijah Morris,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,98,1.0,2025
+UNY,SCF,Union (NY) Chargers,3pMa,No Dribble Jumper,Christian Dufort,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,99,4.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,Turnover,N/A,Devin Dennard,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,100,1.0,2025
+UNY,SCF,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,101,1.0,2025
+UNY,SCF,Union (NY) Chargers,Turnover,N/A,Tanner Tedesco,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,102,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,Turnover,N/A,Quanire Greene,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,103,1.0,2025
+UNY,SCF,Union (NY) Chargers,Turnover,N/A,Tanner Tedesco,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,104,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pmi,To Basket,Jermaine Wheeler,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,105,1.0,2025
+UNY,SCF,Union (NY) Chargers,2pmi,To Basket,Jaden Jauregui,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,106,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,3pMa,No Dribble Jumper,Devin Dennard,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,107,4.0,2025
+UNY,SCF,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,108,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,Turnover,To Basket,Devin Dennard,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,109,1.0,2025
+UNY,SCF,Union (NY) Chargers,2pMa,To Basket,Christian Dufort,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,110,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,3pMa,Dribble Jumper,Elijah Morris,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,111,4.0,2025
+UNY,SCF,Union (NY) Chargers,3pMa,No Dribble Jumper,Jaden Jauregui,PNR,High,Off,Christian Dufort,P&R Roll Man,N/A,Pop,Liberty League,UNKNOWN,112,4.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,3pmi,Dribble Jumper,Elijah Morris,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,113,4.0,2025
+UNY,SCF,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,PNR,Right,Off,Brendan Reid,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,114,4.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,3pmi,No Dribble Jumper,Devin Dennard,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,115,4.0,2025
+UNY,SCF,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,116,4.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,Turnover,N/A,Chace Peterson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,117,1.0,2025
+UNY,SCF,Union (NY) Chargers,2pmi,To Basket,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,118,1.0,2025
+UNY,SCF,Union (NY) Chargers,Foul,To Basket,Brendan Reid,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,119,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pmi,To Basket,Quanire Greene,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,122,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pmi,To Basket,Jermaine Wheeler,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,123,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,And1,To Basket,Jermaine Wheeler,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,124,1.0,2025
+UNY,SCF,Union (NY) Chargers,Foul,Dribble Jumper,Jack Plesser,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,126,2.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,Foul,To Basket,Jermaine Wheeler,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,129,1.0,2025
+UNY,SCF,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,PNR,High,Off,Jaden Jauregui,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,132,4.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,3pMa,No Dribble Jumper,Elijah Morris,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,133,4.0,2025
+UNY,SCF,Union (NY) Chargers,2pMa,To Basket,Jaden Jauregui,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,134,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pmi,N/A,Chace Peterson,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,135,1.0,2025
+UNY,SCF,Union (NY) Chargers,Turnover,To Basket,Jaden Jauregui,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,136,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pMa,Dribble Jumper,Elijah Morris,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,137,3.0,2025
+UNY,SCF,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,PNR,Right,Off,Christian Dufort,P&R Roll Man,N/A,Pop,Liberty League,UNKNOWN,138,4.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,Foul,Dribble Jumper,Marquay Tanksley,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,139,2.0,2025
+UNY,SCF,Union (NY) Chargers,2pmi,To Basket,Aren Cummings,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,142,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,3pMa,Dribble Jumper,Elijah Morris,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,143,4.0,2025
+UNY,SCF,Union (NY) Chargers,3pmi,No Dribble Jumper,Jack Plesser,Post,Middle,Right Shoulder,Matthew Garside,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,144,4.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,Foul,To Basket,Tristian George,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,145,1.0,2025
+UNY,SCF,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,148,4.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,Turnover,N/A,Devin Dennard,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,149,1.0,2025
+UNY,SCF,Union (NY) Chargers,Foul,To Basket,Aren Cummings,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,150,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pmi,To Basket,Chrischen Chung,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,153,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,3pmi,No Dribble Jumper,Devin Dennard,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,155,4.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pMa,To Basket,Brady Whipple,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,156,1.0,2025
+UNY,SCF,Union (NY) Chargers,2pMa,To Basket,Aren Cummings,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,157,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,Turnover,N/A,Chrischen Chung,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,158,1.0,2025
+UNY,SCF,Union (NY) Chargers,2pMa,Dribble Jumper,Tanner Tedesco,PNR,High,Off,Aren Cummings,P&R Roll Man,N/A,Pop,Liberty League,UNKNOWN,159,2.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,3pMa,Dribble Jumper,Tristian George,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,160,4.0,2025
+UNY,SCF,Union (NY) Chargers,And1,To Basket,Jack Plesser,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,161,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,3pmi,Dribble Jumper,Marquay Tanksley,PNR,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,163,4.0,2025
+UNY,SCF,Union (NY) Chargers,3pmi,Dribble Jumper,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,164,4.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pmi,To Basket,Devin Dennard,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,165,1.0,2025
+UNY,SCF,Union (NY) Chargers,2pmi,Dribble Jumper,Tanner Tedesco,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,166,3.0,2025
+UNY,SCF,Union (NY) Chargers,3pmi,No Dribble Jumper,Jack Plesser,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,168,4.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pMa,To Basket,Marquay Tanksley,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,169,1.0,2025
+UNY,SCF,Union (NY) Chargers,2pMa,Dribble Jumper,Tanner Tedesco,PNR,Left,Off,Jack Plesser,P&R Roll Man,N/A,Slips,Liberty League,UNKNOWN,170,2.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pMa,To Basket,Marquay Tanksley,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,171,1.0,2025
+UNY,SCF,Union (NY) Chargers,Turnover,N/A,Neil Daterao,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,172,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,3pmi,No Dribble Jumper,Chrischen Chung,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,173,4.0,2025
+UNY,SCF,Union (NY) Chargers,2pMa,To Basket,Matthew Garside,PNR,Right,Off,Brendan Reid,Spot Ups,Right,Drive,Liberty League,UNKNOWN,174,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,Foul,To Basket,Marquay Tanksley,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,175,1.0,2025
+UNY,SCF,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,179,4.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pmi,To Basket,Marquay Tanksley,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,180,1.0,2025
+UNY,SCF,Union (NY) Chargers,Turnover,N/A,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,181,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,3pmi,No Dribble Jumper,Marquay Tanksley,PNR,Right,Off,Tristian George,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,182,4.0,2025
+UNY,SCF,,Foul,N/A,Jermaine Wheeler,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,183,1.0,2025
+UNY,SCF,Union (NY) Chargers,2pmi,Dribble Jumper,Brendan Reid,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,186,2.0,2025
+UNY,SCF,Union (NY) Chargers,3pmi,No Dribble Jumper,Harrison Collins,PNR,High,Off,Christian Dufort,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,188,4.0,2025
+UNY,SCF,Union (NY) Chargers,Turnover,N/A,Will Yakoobian,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,189,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pmi,To Basket,Elijah Morris,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,190,1.0,2025
+UNY,SCF,Union (NY) Chargers,2pmi,To Basket,Matthew Garside,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,191,1.0,2025
+UNY,SCF,Union (NY) Chargers,2pMa,To Basket,Brendan Reid,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,192,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pmi,To Basket,Quanire Greene,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,193,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,Foul,To Basket,Jermaine Wheeler,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,194,1.0,2025
+UNY,SCF,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,197,4.0,2025
+UNY,SCF,Union (NY) Chargers,3pmi,Dribble Jumper,Harrison Collins,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,198,4.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pmi,Dribble Jumper,Adrian Beato,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,199,3.0,2025
+UNY,SCF,Union (NY) Chargers,3pmi,No Dribble Jumper,Zach Benmorits,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,200,4.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,And1,To Basket,Jason Kinscy,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,201,1.0,2025
+UNY,SCF,Union (NY) Chargers,2pmi,Hook Shot,Will Yakoobian,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,203,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pmi,To Basket,Jason Kinscy,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,204,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pMa,To Basket,Brady Whipple,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,205,1.0,2025
+UNY,SCF,Union (NY) Chargers,2pMa,Dribble Jumper,Sam O'Toole,PNR,Right,Off,Cameron Perez,Spot Ups,Right,Drive,Liberty League,UNKNOWN,206,2.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pMa,To Basket,Jason Kinscy,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,207,1.0,2025
+UNY,SCF,,Foul,N/A,Sam O'Toole,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,208,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,3pmi,Dribble Jumper,Jason Kinscy,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,211,4.0,2025
+UNY,SCF,Union (NY) Chargers,Turnover,N/A,Sam O'Toole,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,212,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,Turnover,N/A,Adrian Beato,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,213,1.0,2025
+UNY,SCF,Union (NY) Chargers,3pMa,No Dribble Jumper,Zach Benmorits,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,214,4.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,Foul,To Basket,Adrian Beato,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,215,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,Turnover,To Basket,Brady Whipple,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,219,1.0,2025
+UNY,SCF,Union (NY) Chargers,Foul,N/A,Cameron Perez,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,220,1.0,2025
+UNY,SCF,SUNY Cobleskill Fighting Tigers,2pmi,Dribble Jumper,Adrian Beato,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,222,3.0,2025

@@ -1,0 +1,181 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+RIT,FIT,Rochester Institute of Technology Tigers,2pmi,Hook Shot,Kenny Wilburn,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,1,1.0,2025
+RIT,FIT,Fitchburg State,2pmi,Dribble Jumper,Braeden White,PNR,High,Off,Kamau Franks,Spot Ups,Right,Drive,Liberty League,UNKNOWN,2,2.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,5,4.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Foul,To Basket,Chase Dickens,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,7,1.0,2025
+RIT,FIT,Fitchburg State,2pmi,To Basket,Jalen Jackson,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,10,1.0,2025
+RIT,FIT,Fitchburg State,Foul,To Basket,Jalen Jackson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,11,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,14,4.0,2025
+RIT,FIT,Fitchburg State,Turnover,N/A,Jeremiah Simeon,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,15,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Post,Right,Right Shoulder,Chase Dickens,Spot Ups,Right,Drive,Liberty League,UNKNOWN,16,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,And1,To Basket,Kenny Wilburn,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,17,1.0,2025
+RIT,FIT,Fitchburg State,2pmi,No Dribble Jumper,Alex Moemeka,PNR,Right,Off,Kamau Franks,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,19,3.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Brody Brown,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,20,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,22,4.0,2025
+RIT,FIT,Fitchburg State,2pmi,To Basket,Alex Moemeka,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,23,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,24,1.0,2025
+RIT,FIT,Fitchburg State,2pmi,To Basket,Jalen Jackson,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,25,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,26,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Foul,To Basket,Chase Dickens,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,27,1.0,2025
+RIT,FIT,Fitchburg State,Turnover,N/A,Alex Moemeka,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,33,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Turnover,N/A,Nolan Smih,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,34,1.0,2025
+RIT,FIT,Fitchburg State,Foul,To Basket,Jalen Jackson,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,35,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,High,Off,Brody Brown,Spot Ups,Left,Drive,Liberty League,UNKNOWN,38,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Turnover,N/A,Mark Osime,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,39,1.0,2025
+RIT,FIT,Fitchburg State,2pMa,To Basket,Jalen Jackson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,40,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Mark Osime,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,41,1.0,2025
+RIT,FIT,Fitchburg State,Foul,To Basket,Joshua Jean Charles,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,42,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,PNR,High,Away,Chase Dickens,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,45,4.0,2025
+RIT,FIT,Fitchburg State,Turnover,N/A,Matthew Drayton,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,46,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,Post,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,47,1.0,2025
+RIT,FIT,Fitchburg State,2pmi,Dribble Jumper,Nathaniel Semedo,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,50,2.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Turnover,N/A,Mark Osime,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,51,1.0,2025
+RIT,FIT,Fitchburg State,Turnover,To Basket,Jalen Jackson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,52,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,53,1.0,2025
+RIT,FIT,Fitchburg State,3pMa,No Dribble Jumper,Jalen Jackson,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,54,4.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Brock Bowen,PNR,High,Off,Chase Dickens,Spot Ups,Left,Drive,Liberty League,UNKNOWN,55,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,56,1.0,2025
+RIT,FIT,Fitchburg State,2pMa,No Dribble Jumper,Kamau Franks,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,57,3.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Mark Osime,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,58,1.0,2025
+RIT,FIT,Fitchburg State,3pMa,No Dribble Jumper,Braeden White,PNR,Left,Off,Kamau Franks,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,59,4.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,60,1.0,2025
+RIT,FIT,Fitchburg State,3pmi,No Dribble Jumper,Jalen Jackson,Post,Left,Left Shoulder,Braeden White,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,61,4.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,PNR,High,Off,Brock Bowen,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,62,4.0,2025
+RIT,FIT,Fitchburg State,3pmi,No Dribble Jumper,Kamau Franks,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,63,4.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,64,1.0,2025
+RIT,FIT,Fitchburg State,Turnover,N/A,Braeden White,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,66,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Foul,To Basket,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,67,1.0,2025
+RIT,FIT,Fitchburg State,3pMa,Dribble Jumper,Kamau Franks,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,70,4.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,71,1.0,2025
+RIT,FIT,Fitchburg State,2pmi,To Basket,Alex Moemeka,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,72,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Zac Ditzel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,73,4.0,2025
+RIT,FIT,Fitchburg State,2pmi,Dribble Jumper,Braeden White,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,74,3.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Hand Offs,Left,Stationary,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,75,1.0,2025
+RIT,FIT,Fitchburg State,Foul,No Dribble Jumper,Alex Moemeka,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,76,4.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Kenny Wilburn,Post,Left,Left Shoulder,Luke Granto,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,80,4.0,2025
+RIT,FIT,Fitchburg State,2pmi,To Basket,Jalen Jackson,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,81,1.0,2025
+RIT,FIT,Fitchburg State,2pMa,To Basket,Jalen Jackson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,82,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,3pMa,Dribble Jumper,Chase Dickens,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,83,4.0,2025
+RIT,FIT,Fitchburg State,2pMa,Dribble Jumper,Matthew Drayton,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,84,3.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,85,3.0,2025
+RIT,FIT,Fitchburg State,2pMa,To Basket,Kamau Franks,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,86,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,PNR,Right,Off,Matt Caggiano,Cuts,N/A,Basket,Liberty League,UNKNOWN,87,1.0,2025
+RIT,FIT,Fitchburg State,3pmi,No Dribble Jumper,Jalen Jackson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,88,4.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Turnover,N/A,Zac Ditzel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,89,1.0,2025
+RIT,FIT,Fitchburg State,Foul,To Basket,Nathaniel Semedo,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,90,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,Iso,Right,N/A,Luke Granto,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,93,4.0,2025
+RIT,FIT,Fitchburg State,2pMa,Dribble Jumper,Matthew Drayton,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,94,2.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,95,1.0,2025
+RIT,FIT,Fitchburg State,Foul,To Basket,Nathaniel Semedo,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,96,1.0,2025
+RIT,FIT,Fitchburg State,3pmi,No Dribble Jumper,Nathaniel Semedo,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,100,4.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Chase Dickens,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,101,2.0,2025
+RIT,FIT,Fitchburg State,Turnover,N/A,Matthew Drayton,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,102,1.0,2025
+RIT,FIT,,Foul,N/A,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,103,1.0,2025
+RIT,FIT,Fitchburg State,2pmi,To Basket,Jeremiah Simeon,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,106,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,High,Off,Chase Dickens,Spot Ups,Right,Drive,Liberty League,UNKNOWN,108,1.0,2025
+RIT,FIT,Fitchburg State,2pmi,To Basket,Jalen Jackson,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,109,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Mark Osime,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,110,3.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,112,4.0,2025
+RIT,FIT,Fitchburg State,Foul,N/A,Kamau Franks,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,114,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Foul,To Basket,Nolan Smih,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,116,1.0,2025
+RIT,FIT,Fitchburg State,Foul,To Basket,Matthew Drayton,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,119,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Chase Dickens,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,122,4.0,2025
+RIT,FIT,Fitchburg State,Turnover,To Basket,Jalen Jackson,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,123,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Brock Bowen,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,124,4.0,2025
+RIT,FIT,Fitchburg State,2pmi,To Basket,Matthew Drayton,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,125,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,126,4.0,2025
+RIT,FIT,Fitchburg State,2pmi,To Basket,Nathaniel Semedo,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,127,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Brock Bowen,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,128,1.0,2025
+RIT,FIT,Fitchburg State,2pmi,To Basket,Jalen Jackson,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,129,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Turnover,N/A,Zac Ditzel,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,130,1.0,2025
+RIT,FIT,Fitchburg State,2pmi,Dribble Jumper,Jeremiah Simeon,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,131,3.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,132,1.0,2025
+RIT,FIT,Fitchburg State,2pMa,Dribble Jumper,Kamau Franks,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,133,2.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,134,1.0,2025
+RIT,FIT,Fitchburg State,2pMa,To Basket,Jalen Jackson,Post,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,135,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Brody Brown,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,136,4.0,2025
+RIT,FIT,Fitchburg State,2pmi,Drop Step,Jalen Jackson,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,137,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Chase Dickens,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,138,4.0,2025
+RIT,FIT,Fitchburg State,3pMa,No Dribble Jumper,Kamau Franks,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,139,4.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,PNR,Left,Off,Matt Caggiano,Spot Ups,Right,Drive,Liberty League,UNKNOWN,140,1.0,2025
+RIT,FIT,Fitchburg State,2pmi,To Basket,Matthew Drayton,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,142,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Zac Ditzel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,143,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,144,1.0,2025
+RIT,FIT,Fitchburg State,Turnover,N/A,Kamau Franks,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,145,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,146,1.0,2025
+RIT,FIT,Fitchburg State,2pMa,To Basket,Jeremiah Simeon,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,147,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,148,1.0,2025
+RIT,FIT,Fitchburg State,Foul,To Basket,Jeremiah Simeon,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,149,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,152,1.0,2025
+RIT,FIT,Fitchburg State,2pMa,To Basket,Jalen Jackson,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,153,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,154,4.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Foul,To Basket,Brody Brown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,155,1.0,2025
+RIT,FIT,Fitchburg State,2pmi,To Basket,Jalen Jackson,PNR,High,Off,Matthew Drayton,P&R Roll Man,Left,Pop,Liberty League,UNKNOWN,158,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,159,1.0,2025
+RIT,FIT,Fitchburg State,Foul,To Basket,Matthew Drayton,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,160,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,165,1.0,2025
+RIT,FIT,Fitchburg State,3pmi,Dribble Jumper,Jalen Jackson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,166,4.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,168,4.0,2025
+RIT,FIT,Fitchburg State,2pMa,To Basket,Alex Moemeka,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,169,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,171,4.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Foul,To Basket,Chase Dickens,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,173,1.0,2025
+RIT,FIT,Fitchburg State,2pMa,To Basket,Nathaniel Semedo,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,176,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Turnover,N/A,Brody Brown,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,177,1.0,2025
+RIT,FIT,Fitchburg State,2pmi,To Basket,Jalen Jackson,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,178,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Brock Bowen,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,179,1.0,2025
+RIT,FIT,Fitchburg State,2pmi,Dribble Jumper,Matthew Drayton,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,180,2.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,181,1.0,2025
+RIT,FIT,Fitchburg State,Foul,To Basket,Matthew Drayton,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,182,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Brock Bowen,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,185,2.0,2025
+RIT,FIT,Fitchburg State,Turnover,N/A,Jeremiah Simeon,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,186,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Mark Osime,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,187,1.0,2025
+RIT,FIT,Fitchburg State,2pmi,Dribble Jumper,Alex Moemeka,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,188,2.0,2025
+RIT,FIT,Fitchburg State,3pMa,No Dribble Jumper,Matthew Drayton,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,190,4.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Turnover,N/A,Kenny Wilburn,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,191,1.0,2025
+RIT,FIT,Fitchburg State,Foul,To Basket,Jalen Jackson,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,192,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Luke Granto,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,195,2.0,2025
+RIT,FIT,Fitchburg State,3pMa,No Dribble Jumper,Jalen Jackson,Post,Left,Left Shoulder,Kamau Franks,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,196,4.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,198,1.0,2025
+RIT,FIT,Fitchburg State,2pmi,To Basket,Jalen Jackson,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,200,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,201,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Foul,To Basket,Matt Caggiano,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,203,1.0,2025
+RIT,FIT,Fitchburg State,3pmi,No Dribble Jumper,Kamau Franks,Iso,Right,N/A,Alex Moemeka,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,206,4.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,207,1.0,2025
+RIT,FIT,Fitchburg State,3pmi,No Dribble Jumper,Braeden White,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,208,4.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,209,1.0,2025
+RIT,FIT,Fitchburg State,3pmi,No Dribble Jumper,Braeden White,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,210,4.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,211,1.0,2025
+RIT,FIT,Fitchburg State,3pmi,No Dribble Jumper,Matthew Drayton,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,213,4.0,2025
+RIT,FIT,Fitchburg State,3pmi,Dribble Jumper,Kamau Franks,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,215,4.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,216,1.0,2025
+RIT,FIT,Fitchburg State,2pMa,To Basket,Matthew Drayton,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,217,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,PNR,High,Off,Brody Brown,Spot Ups,N/A,N/A,Liberty League,UNKNOWN,218,1.0,2025
+RIT,FIT,Fitchburg State,And1,To Basket,Jeremiah Simeon,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,219,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Turnover,N/A,Kenny Wilburn,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,221,1.0,2025
+RIT,FIT,Fitchburg State,2pmi,To Basket,Matthew Drayton,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,222,1.0,2025
+RIT,FIT,Fitchburg State,2pmi,To Basket,Jalen Jackson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,223,1.0,2025
+RIT,FIT,Fitchburg State,2pmi,Dribble Jumper,Matthew Drayton,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,225,3.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Turnover,N/A,Zac Ditzel,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,226,1.0,2025
+RIT,FIT,Fitchburg State,3pMa,No Dribble Jumper,Braeden White,PNR,High,Off,Nathaniel Semedo,P&R Roll Man,N/A,Pop,Liberty League,UNKNOWN,227,4.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Foul,To Basket,Matt Caggiano,PNR,High,Off,Chase Dickens,Spot Ups,Right,Drive,Liberty League,UNKNOWN,228,1.0,2025
+RIT,FIT,Fitchburg State,Foul,N/A,Alex Moemeka,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,231,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Danny Cohen,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,234,1.0,2025
+RIT,FIT,Fitchburg State,2pmi,To Basket,Nathaniel Semedo,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,235,1.0,2025
+RIT,FIT,Fitchburg State,2pmi,Dribble Jumper,Alex Moemeka,Iso,Right,N/A,Kamau Franks,Spot Ups,Left,Drive,Liberty League,UNKNOWN,237,2.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,238,4.0,2025
+RIT,FIT,Fitchburg State,Foul,To Basket,Nathaniel Semedo,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,239,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Matt Caggiano,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,242,4.0,2025
+RIT,FIT,Fitchburg State,2pMa,To Basket,Matthew Drayton,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,243,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pmi,No Dribble Jumper,Chase Dickens,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,245,3.0,2025
+RIT,FIT,Fitchburg State,2pmi,Dribble Jumper,Kamau Franks,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,246,3.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Chase Dickens,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,247,4.0,2025
+RIT,FIT,Fitchburg State,Turnover,To Basket,Jeremiah Simeon,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,248,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,249,1.0,2025
+RIT,FIT,Fitchburg State,2pmi,To Basket,Jalen Jackson,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,252,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,Turnover,N/A,Danny Cohen,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,253,1.0,2025
+RIT,FIT,Fitchburg State,Turnover,N/A,Braeden White,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,254,1.0,2025
+RIT,FIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,255,1.0,2025
+RIT,FIT,Fitchburg State,Turnover,To Basket,Kamau Franks,Iso,Top,N/A,Matthew Drayton,Cuts,N/A,Basket,Liberty League,UNKNOWN,256,1.0,2025
+RIT,FIT,,Foul,N/A,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,258,1.0,2025
+RIT,FIT,Fitchburg State,3pmi,No Dribble Jumper,Matthew Drayton,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,261,4.0,2025
+RIT,FIT,Fitchburg State,Foul,N/A,Matthew Drayton,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,262,1.0,2025

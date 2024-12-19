@@ -1,0 +1,158 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+YPA,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Alex Moesch,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,1,3.0,2025
+YPA,HOB,Hobart College Statesmen,Turnover,N/A,Allen Mordi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,2,1.0,2025
+YPA,HOB,York (PA) Spartans,3pmi,No Dribble Jumper,Tate Landis,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,3,4.0,2025
+YPA,HOB,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,4,1.0,2025
+YPA,HOB,York (PA) Spartans,2pMa,To Basket,Kai Cipalla,Post,Left,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,5,1.0,2025
+YPA,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,7,4.0,2025
+YPA,HOB,York (PA) Spartans,3pmi,No Dribble Jumper,Nick Schroeder,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,8,4.0,2025
+YPA,HOB,Hobart College Statesmen,2pMa,To Basket,Alex Moesch,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,9,1.0,2025
+YPA,HOB,York (PA) Spartans,2pMa,To Basket,Jayden Rowe,Hand Offs,Left,Stationary,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,10,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pMa,To Basket,Dorian Paki,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,11,1.0,2025
+YPA,HOB,York (PA) Spartans,And1,N/A,Kai Cipalla,Post,Right,Face Up,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,12,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,PNR,Right,Off,Carter Meshanic,Spot Ups,Left,Drive,UNKNOWN,Liberty League,14,1.0,2025
+YPA,HOB,York (PA) Spartans,3pmi,No Dribble Jumper,Jayden Rowe,PNR,High,Off,Tate Landis,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,15,4.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,16,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,17,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,18,1.0,2025
+YPA,HOB,York (PA) Spartans,3pmi,No Dribble Jumper,Pat Gilhool,PNR,High,N/A,Jackson Mascari,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,19,4.0,2025
+YPA,HOB,Hobart College Statesmen,2pMa,Dribble Jumper,Alex Moesch,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,20,3.0,2025
+YPA,HOB,York (PA) Spartans,3pmi,No Dribble Jumper,Pat Gilhool,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,21,4.0,2025
+YPA,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Aidan Rodgers,PNR,Right,Off,Alex Moesch,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,22,4.0,2025
+YPA,HOB,York (PA) Spartans,3pMa,Dribble Jumper,Jayden Rowe,Iso,Right,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,23,4.0,2025
+YPA,HOB,Hobart College Statesmen,2pMa,To Basket,Dorian Paki,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,24,1.0,2025
+YPA,HOB,York (PA) Spartans,3pmi,No Dribble Jumper,Jayden Rowe,PNR,Left,Off,Jackson Mascari,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,25,4.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,To Basket,Alex Moesch,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,26,1.0,2025
+YPA,HOB,York (PA) Spartans,Turnover,N/A,Jayden Rowe,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,27,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,28,1.0,2025
+YPA,HOB,York (PA) Spartans,2pMa,To Basket,Ben Troyer,PNR,High,Off,Tate Landis,Spot Ups,Right,Drive,UNKNOWN,Liberty League,29,1.0,2025
+YPA,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,30,4.0,2025
+YPA,HOB,York (PA) Spartans,3pMa,No Dribble Jumper,Pat Gilhool,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,31,4.0,2025
+YPA,HOB,Hobart College Statesmen,Turnover,N/A,Alex Moesch,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,33,1.0,2025
+YPA,HOB,York (PA) Spartans,3pmi,No Dribble Jumper,Pat Gilhool,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,34,4.0,2025
+YPA,HOB,Hobart College Statesmen,Foul,To Basket,Hunter Meshanic,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,35,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,38,1.0,2025
+YPA,HOB,York (PA) Spartans,3pMa,No Dribble Jumper,Nick Schroeder,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,39,4.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,N/A,Hunter Meshanic,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,40,1.0,2025
+YPA,HOB,York (PA) Spartans,2pMa,To Basket,Pat Gilhool,PNR,High,Off,Jackson Mascari,P&R Roll Man,Left,Pop,UNKNOWN,Liberty League,41,1.0,2025
+YPA,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Niko Lutz,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,42,4.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,To Basket,Gabriel Bergeron,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,43,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,To Basket,Monty Nedd,PNR,High,Off,Niko Lutz,P&R Roll Man,N/A,Roll,UNKNOWN,Liberty League,45,1.0,2025
+YPA,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Hunter Meshanic,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,47,4.0,2025
+YPA,HOB,York (PA) Spartans,2pMa,To Basket,Aleks Smith,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,48,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,50,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,To Basket,Allen Mordi,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,51,1.0,2025
+YPA,HOB,York (PA) Spartans,2pmi,To Basket,Pat Gilhool,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,52,1.0,2025
+YPA,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Gabriel Bergeron,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,53,4.0,2025
+YPA,HOB,York (PA) Spartans,2pMa,To Basket,Kai Cipalla,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,55,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,To Basket,Monty Nedd,PNR,High,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,56,1.0,2025
+YPA,HOB,Hobart College Statesmen,Foul,To Basket,Aidan Rodgers,Iso,Right,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,57,1.0,2025
+YPA,HOB,York (PA) Spartans,3pmi,No Dribble Jumper,Kai Cipalla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,60,4.0,2025
+YPA,HOB,York (PA) Spartans,2pmi,Dribble Jumper,Kai Cipalla,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,63,2.0,2025
+YPA,HOB,Hobart College Statesmen,Turnover,N/A,Allen Mordi,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,65,1.0,2025
+YPA,HOB,York (PA) Spartans,3pMa,No Dribble Jumper,Kai Cipalla,Post,Left,Left Shoulder,Ben Troyer,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,66,4.0,2025
+YPA,HOB,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,67,1.0,2025
+YPA,HOB,York (PA) Spartans,3pmi,No Dribble Jumper,Jackson Mascari,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,69,4.0,2025
+YPA,HOB,Hobart College Statesmen,Turnover,N/A,Monty Nedd,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,70,1.0,2025
+YPA,HOB,York (PA) Spartans,Turnover,N/A,Ben Troyer,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,71,1.0,2025
+YPA,HOB,Hobart College Statesmen,Foul,To Basket,Monty Nedd,Iso,Right,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,72,1.0,2025
+YPA,HOB,York (PA) Spartans,2pmi,To Basket,Kai Cipalla,Post,Middle,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,75,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,77,1.0,2025
+YPA,HOB,York (PA) Spartans,3pmi,Dribble Jumper,Jayden Rowe,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,78,4.0,2025
+YPA,HOB,Hobart College Statesmen,Turnover,N/A,Carter Meshanic,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,79,1.0,2025
+YPA,HOB,York (PA) Spartans,Foul,To Basket,Kai Cipalla,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,81,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pMa,No Dribble Jumper,Niko Lutz,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,84,3.0,2025
+YPA,HOB,York (PA) Spartans,2pMa,Dribble Jumper,Jackson Mascari,PNR,Right,Off,Tate Landis,Spot Ups,Right,Drive,UNKNOWN,Liberty League,85,2.0,2025
+YPA,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Niko Lutz,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,86,4.0,2025
+YPA,HOB,York (PA) Spartans,2pmi,Dribble Jumper,Tate Landis,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,87,2.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,88,1.0,2025
+YPA,HOB,York (PA) Spartans,Turnover,To Basket,Kai Cipalla,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,89,1.0,2025
+YPA,HOB,Hobart College Statesmen,Turnover,N/A,Justin Price,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,90,1.0,2025
+YPA,HOB,York (PA) Spartans,3pmi,No Dribble Jumper,Tate Landis,PNR,Left,Off,Jackson Mascari,P&R Roll Man,N/A,Pop,UNKNOWN,Liberty League,91,4.0,2025
+YPA,HOB,,Foul,N/A,Niko Lutz,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,92,1.0,2025
+YPA,HOB,York (PA) Spartans,3pmi,Dribble Jumper,Tate Landis,PNR,Right,Off,Jayden Rowe,P&R Roll Man,Right,Pop,UNKNOWN,Liberty League,95,4.0,2025
+YPA,HOB,York (PA) Spartans,3pMa,Dribble Jumper,Jayden Rowe,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,96,4.0,2025
+YPA,HOB,Hobart College Statesmen,Turnover,N/A,Alex Moesch,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,97,1.0,2025
+YPA,HOB,York (PA) Spartans,3pMa,Dribble Jumper,Jayden Rowe,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,98,4.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,99,1.0,2025
+YPA,HOB,Hobart College Statesmen,Foul,To Basket,Dorian Paki,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,100,1.0,2025
+YPA,HOB,York (PA) Spartans,2pMa,To Basket,Jayden Rowe,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,103,1.0,2025
+YPA,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Aidan Rodgers,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,106,4.0,2025
+YPA,HOB,York (PA) Spartans,Turnover,N/A,Jayden Rowe,PNR,High,Off,Jackson Mascari,Spot Ups,Right,Drive,UNKNOWN,Liberty League,108,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pMa,To Basket,Dorian Paki,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,109,1.0,2025
+YPA,HOB,York (PA) Spartans,3pmi,No Dribble Jumper,Kai Cipalla,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,110,4.0,2025
+YPA,HOB,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,PNR,Left,Away,Allen Mordi,Spot Ups,Right,Drive,UNKNOWN,Liberty League,112,1.0,2025
+YPA,HOB,York (PA) Spartans,3pmi,Dribble Jumper,Jayden Rowe,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,113,4.0,2025
+YPA,HOB,York (PA) Spartans,2pMa,To Basket,Jayden Rowe,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,114,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,115,1.0,2025
+YPA,HOB,York (PA) Spartans,2pMa,To Basket,Kai Cipalla,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,116,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pMa,To Basket,Allen Mordi,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,117,1.0,2025
+YPA,HOB,York (PA) Spartans,2pmi,To Basket,Jayden Rowe,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,118,1.0,2025
+YPA,HOB,York (PA) Spartans,Foul,To Basket,Kai Cipalla,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,119,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Iso,Left,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,122,1.0,2025
+YPA,HOB,York (PA) Spartans,Turnover,N/A,Ben Troyer,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,123,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,124,1.0,2025
+YPA,HOB,York (PA) Spartans,3pMa,No Dribble Jumper,Ben Troyer,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,125,4.0,2025
+YPA,HOB,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,PNR,Right,Off,Carter Meshanic,P&R Roll Man,N/A,Roll,UNKNOWN,Liberty League,126,1.0,2025
+YPA,HOB,York (PA) Spartans,2pMa,To Basket,Jackson Mascari,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,127,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,To Basket,Monty Nedd,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,128,1.0,2025
+YPA,HOB,Hobart College Statesmen,Turnover,N/A,Hunter Meshanic,Iso,Right,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,129,1.0,2025
+YPA,HOB,York (PA) Spartans,2pMa,To Basket,Pat Gilhool,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,130,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,131,1.0,2025
+YPA,HOB,York (PA) Spartans,Turnover,N/A,Jayden Rowe,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,132,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,133,1.0,2025
+YPA,HOB,York (PA) Spartans,3pMa,No Dribble Jumper,Jackson Mascari,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,135,4.0,2025
+YPA,HOB,Hobart College Statesmen,3pmi,Dribble Jumper,Alex Moesch,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,136,4.0,2025
+YPA,HOB,York (PA) Spartans,Turnover,N/A,Ben Troyer,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,137,1.0,2025
+YPA,HOB,Hobart College Statesmen,Foul,To Basket,Monty Nedd,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,138,1.0,2025
+YPA,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,PNR,High,Off,Niko Lutz,P&R Roll Man,N/A,Pop,UNKNOWN,Liberty League,142,4.0,2025
+YPA,HOB,York (PA) Spartans,2pMa,To Basket,Tate Landis,PNR,High,Off,Nick Schroeder,Spot Ups,Left,Drive,UNKNOWN,Liberty League,143,1.0,2025
+YPA,HOB,Hobart College Statesmen,Turnover,N/A,Niko Lutz,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,145,1.0,2025
+YPA,HOB,York (PA) Spartans,3pmi,Dribble Jumper,Tate Landis,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,146,4.0,2025
+YPA,HOB,York (PA) Spartans,Foul,To Basket,Tate Landis,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,148,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Alex Moesch,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,151,2.0,2025
+YPA,HOB,York (PA) Spartans,Turnover,N/A,Tate Landis,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,152,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,PNR,High,Off,Hunter Meshanic,P&R Roll Man,N/A,Roll,UNKNOWN,Liberty League,154,1.0,2025
+YPA,HOB,York (PA) Spartans,2pmi,To Basket,Kai Cipalla,Post,Right,Face Up,Pat Gilhool,Cuts,N/A,Basket,UNKNOWN,Liberty League,155,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Alex Moesch,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,157,2.0,2025
+YPA,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Monty Nedd,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,159,4.0,2025
+YPA,HOB,,Foul,N/A,Jackson Mascari,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,160,1.0,2025
+YPA,HOB,Hobart College Statesmen,Foul,N/A,Monty Nedd,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,162,1.0,2025
+YPA,HOB,York (PA) Spartans,Turnover,To Basket,Jayden Rowe,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,165,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,166,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,167,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,169,1.0,2025
+YPA,HOB,Hobart College Statesmen,Foul,To Basket,Hunter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,171,1.0,2025
+YPA,HOB,York (PA) Spartans,3pmi,No Dribble Jumper,Jayden Rowe,PNR,High,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,174,4.0,2025
+YPA,HOB,Hobart College Statesmen,Turnover,N/A,Carter Meshanic,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,175,1.0,2025
+YPA,HOB,York (PA) Spartans,Foul,N/A,Tate Landis,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,176,1.0,2025
+YPA,HOB,Hobart College Statesmen,Turnover,To Basket,Carter Meshanic,Post,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,178,1.0,2025
+YPA,HOB,York (PA) Spartans,Turnover,N/A,Kai Cipalla,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,180,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,181,1.0,2025
+YPA,HOB,York (PA) Spartans,3pmi,No Dribble Jumper,Kai Cipalla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,182,4.0,2025
+YPA,HOB,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,183,1.0,2025
+YPA,HOB,,Foul,N/A,Ben Troyer,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,184,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pMa,To Basket,Dorian Paki,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,187,1.0,2025
+YPA,HOB,York (PA) Spartans,Turnover,N/A,Jayden Rowe,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,188,1.0,2025
+YPA,HOB,Hobart College Statesmen,Foul,N/A,Aidan Rodgers,PNR,High,Off,Monty Nedd,Spot Ups,Right,Drive,UNKNOWN,Liberty League,189,1.0,2025
+YPA,HOB,York (PA) Spartans,Turnover,N/A,Jackson Mascari,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,192,1.0,2025
+YPA,HOB,Hobart College Statesmen,3pmi,Dribble Jumper,Aidan Rodgers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,193,4.0,2025
+YPA,HOB,York (PA) Spartans,Turnover,N/A,Ben Troyer,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,195,1.0,2025
+YPA,HOB,Hobart College Statesmen,Turnover,To Basket,Monty Nedd,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,196,1.0,2025
+YPA,HOB,York (PA) Spartans,3pMa,No Dribble Jumper,Tate Landis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,198,4.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,PNR,High,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,199,1.0,2025
+YPA,HOB,York (PA) Spartans,3pmi,No Dribble Jumper,Tate Landis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,200,4.0,2025
+YPA,HOB,,Foul,N/A,Jayden Rowe,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,201,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,204,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,205,1.0,2025
+YPA,HOB,York (PA) Spartans,2pMa,To Basket,Kai Cipalla,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,206,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,208,1.0,2025
+YPA,HOB,,Foul,N/A,Jackson Mascari,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,209,1.0,2025
+YPA,HOB,Hobart College Statesmen,Foul,Dribble Jumper,Monty Nedd,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,212,4.0,2025
+YPA,HOB,,Foul,N/A,Jayden Rowe,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,216,1.0,2025
+YPA,HOB,Hobart College Statesmen,3pmi,Dribble Jumper,Monty Nedd,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,219,4.0,2025
+YPA,HOB,,Foul,N/A,Tate Landis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,220,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,223,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,224,1.0,2025
+YPA,HOB,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,226,1.0,2025
+YPA,HOB,,Foul,N/A,Kai Cipalla,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,227,1.0,2025

@@ -1,0 +1,154 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+SLS,SUP,St. Lawrence Saints,3pmi,Dribble Jumper,Daimarr Miller,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,1,4.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,3pmi,No Dribble Jumper,Aiden Macaulay,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,2,4.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,Turnover,N/A,Aiden Macaulay,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,4,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pmi,To Basket,Cheickne Toure,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Empire 8,5,1.0,2025
+SLS,SUP,St. Lawrence Saints,Turnover,N/A,Daimarr Miller,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,6,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pMa,To Basket,Gavin Macaulay,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Empire 8,7,1.0,2025
+SLS,SUP,St. Lawrence Saints,3pmi,No Dribble Jumper,Daimarr Miller,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,8,4.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,Turnover,N/A,Andrew Cowan,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,10,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pMa,To Basket,Jackson Casey,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,11,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pMa,N/A,Adam Dudzinski,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Empire 8,12,1.0,2025
+SLS,SUP,St. Lawrence Saints,3pmi,No Dribble Jumper,Trevor Hofer,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,13,4.0,2025
+SLS,SUP,St. Lawrence Saints,2pmi,To Basket,Trevor Hofer,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,14,1.0,2025
+SLS,SUP,St. Lawrence Saints,3pmi,No Dribble Jumper,Daimarr Miller,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,16,4.0,2025
+SLS,SUP,St. Lawrence Saints,3pmi,Dribble Jumper,Cheickne Toure,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,19,4.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pmi,To Basket,Chris Downs Jr.,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,21,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pmi,To Basket,Chris Downs Jr.,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Empire 8,22,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pmi,To Basket,Daimarr Miller,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,23,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,3pmi,No Dribble Jumper,Aiden Macaulay,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Empire 8,24,4.0,2025
+SLS,SUP,St. Lawrence Saints,Turnover,N/A,Trevor Hofer,PNR,Right,Off,Daimarr Miller,Spot Ups,Left,Drive,Liberty League,Empire 8,25,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pmi,To Basket,Dan Anderson,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,26,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pmi,To Basket,Chris Downs Jr.,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,27,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,Turnover,To Basket,Chris Downs Jr.,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Empire 8,29,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pmi,To Basket,Cheickne Toure,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,30,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pMa,To Basket,Cheickne Toure,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,31,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pmi,To Basket,Adam Dudzinski,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,32,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pMa,Dribble Jumper,Alexi Twahili,PNR,Left,Off,Troy McPherson,Spot Ups,Right,Drive,Liberty League,Empire 8,35,2.0,2025
+SLS,SUP,St. Lawrence Saints,Turnover,To Basket,Alex Schmidt,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Empire 8,36,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,3pmi,No Dribble Jumper,Trey Syroka,PNR,High,Off,Adam Dudzinski,Spot Ups,N/A,Shot,Liberty League,Empire 8,37,4.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,3pmi,No Dribble Jumper,Alexi Twahili,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,39,4.0,2025
+SLS,SUP,St. Lawrence Saints,2pMa,To Basket,Trevor Hofer,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Empire 8,40,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pMa,To Basket,Adam Dudzinski,Post,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,41,1.0,2025
+SLS,SUP,St. Lawrence Saints,Turnover,N/A,Cheickne Toure,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,42,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pmi,To Basket,Alexi Twahili,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,43,1.0,2025
+SLS,SUP,St. Lawrence Saints,Foul,To Basket,Alec Bartone,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Empire 8,46,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pmi,To Basket,Troy McPherson,Off Screens,Left,Curl,N/A,N/A,N/A,N/A,Liberty League,Empire 8,49,1.0,2025
+SLS,SUP,St. Lawrence Saints,3pMa,No Dribble Jumper,Robert Perocolosi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,50,4.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pmi,To Basket,Andrew Cowan,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Empire 8,52,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pMa,To Basket,Cheickne Toure,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,53,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pmi,To Basket,Gavin Macaulay,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,54,1.0,2025
+SLS,SUP,St. Lawrence Saints,3pmi,No Dribble Jumper,Daimarr Miller,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,55,4.0,2025
+SLS,SUP,St. Lawrence Saints,3pMa,No Dribble Jumper,Daimarr Miller,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,56,4.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pMa,To Basket,Trey Syroka,PNR,High,Off,Adam Dudzinski,Spot Ups,Left,Drive,Liberty League,Empire 8,57,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pMa,To Basket,Robert Perocolosi,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Empire 8,58,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pMa,Dribble Jumper,Adam Dudzinski,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,59,2.0,2025
+SLS,SUP,St. Lawrence Saints,2pmi,To Basket,Trevor Hofer,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Empire 8,60,1.0,2025
+SLS,SUP,St. Lawrence Saints,Turnover,N/A,Jackson Casey,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,61,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,Foul,To Basket,Aiden Macaulay,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,62,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pMa,To Basket,Cheickne Toure,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Empire 8,65,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pmi,To Basket,Trey Syroka,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,66,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,3pmi,No Dribble Jumper,Chris Downs Jr.,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,68,4.0,2025
+SLS,SUP,St. Lawrence Saints,2pmi,Dribble Jumper,Trevor Hofer,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,69,3.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pmi,To Basket,Chris Downs Jr.,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,71,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pmi,To Basket,Jackson Casey,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Empire 8,74,1.0,2025
+SLS,SUP,St. Lawrence Saints,3pmi,No Dribble Jumper,Daimarr Miller,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,75,4.0,2025
+SLS,SUP,St. Lawrence Saints,2pmi,To Basket,Jarrett Wilbur,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,76,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pmi,To Basket,Jackson Casey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,77,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pmi,To Basket,Andrew Cowan,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Empire 8,79,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,Foul,To Basket,Dan Anderson,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,81,1.0,2025
+SLS,SUP,St. Lawrence Saints,3pmi,Dribble Jumper,Cheickne Toure,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,85,4.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pmi,To Basket,Adam Dudzinski,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Empire 8,87,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pmi,To Basket,Jackson Casey,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,88,1.0,2025
+SLS,SUP,St. Lawrence Saints,And1,To Basket,Robert Perocolosi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,89,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,And1,To Basket,Trey Syroka,PNR,High,Off,Chris Downs Jr.,P&R Roll Man,N/A,Roll,Liberty League,Empire 8,91,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pmi,To Basket,Jackson Casey,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Empire 8,93,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,Turnover,N/A,Aiden Macaulay,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,94,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pmi,Dribble Jumper,Jackson Casey,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,96,2.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pMa,To Basket,Chris Downs Jr.,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Empire 8,97,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pmi,To Basket,Robert Perocolosi,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Empire 8,98,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pmi,To Basket,Robert Perocolosi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,99,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pmi,To Basket,Adam Dudzinski,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Empire 8,100,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pMa,To Basket,Adam Dudzinski,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,101,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pmi,To Basket,Cheickne Toure,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,102,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,3pMa,No Dribble Jumper,Adam Dudzinski,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Empire 8,103,4.0,2025
+SLS,SUP,St. Lawrence Saints,Foul,Dribble Jumper,Daimarr Miller,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,104,3.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,Foul,N/A,Brayden Shepardson,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,107,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pmi,Dribble Jumper,Daimarr Miller,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,110,3.0,2025
+SLS,SUP,St. Lawrence Saints,2pMa,To Basket,Jackson Casey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,111,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pMa,Dribble Jumper,Cheickne Toure,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,113,2.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,3pmi,No Dribble Jumper,Dan Anderson,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,Empire 8,114,4.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pMa,To Basket,Andrew Cowan,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Empire 8,116,1.0,2025
+SLS,SUP,St. Lawrence Saints,3pmi,No Dribble Jumper,Daimarr Miller,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,117,4.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pMa,To Basket,Dan Anderson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,118,1.0,2025
+SLS,SUP,St. Lawrence Saints,Turnover,N/A,Daimarr Miller,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,119,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pmi,To Basket,Aiden Macaulay,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Empire 8,120,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pmi,Dribble Jumper,Daimarr Miller,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,122,2.0,2025
+SLS,SUP,St. Lawrence Saints,2pMa,To Basket,Robert Perocolosi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,123,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,Foul,To Basket,Gavin Macaulay,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,124,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pmi,To Basket,Jackson Casey,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Empire 8,127,1.0,2025
+SLS,SUP,St. Lawrence Saints,Foul,To Basket,Jackson Casey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,128,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pMa,To Basket,Aiden Macaulay,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Empire 8,131,1.0,2025
+SLS,SUP,St. Lawrence Saints,Turnover,N/A,Robert Perocolosi,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,132,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pMa,To Basket,Dan Anderson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,133,1.0,2025
+SLS,SUP,St. Lawrence Saints,3pmi,No Dribble Jumper,Trevor Hofer,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,134,4.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pmi,N/A,Adam Dudzinski,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Empire 8,136,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pMa,To Basket,Cheickne Toure,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,138,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pMa,To Basket,Chris Downs Jr.,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Empire 8,139,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pmi,To Basket,Trevor Hofer,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,140,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,3pMa,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,141,4.0,2025
+SLS,SUP,St. Lawrence Saints,2pmi,To Basket,Jackson Casey,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,142,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pmi,To Basket,Jackson Casey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,143,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pmi,To Basket,Trevor Hofer,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,145,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pmi,To Basket,Daimarr Miller,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,146,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pMa,To Basket,Trevor Hofer,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,147,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,Turnover,N/A,Adam Dudzinski,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Empire 8,148,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pMa,To Basket,Trevor Hofer,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Empire 8,149,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pMa,Hook Shot,Chris Downs Jr.,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Empire 8,150,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pMa,To Basket,Jackson Casey,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,151,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,3pMa,No Dribble Jumper,Trey Syroka,Iso,Left,N/A,Adam Dudzinski,Spot Ups,N/A,Shot,Liberty League,Empire 8,152,4.0,2025
+SLS,SUP,St. Lawrence Saints,2pMa,To Basket,Alec Bartone,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Empire 8,153,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pmi,To Basket,Dan Anderson,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Empire 8,154,1.0,2025
+SLS,SUP,St. Lawrence Saints,Turnover,N/A,Cheickne Toure,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Empire 8,155,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,Foul,To Basket,Aiden Macaulay,PNR,High,Off,Gavin Macaulay,Spot Ups,Right,Drive,Liberty League,Empire 8,157,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pmi,To Basket,Cheickne Toure,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Empire 8,160,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pMa,To Basket,Jackson Casey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,161,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,Turnover,N/A,Aiden Macaulay,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,162,1.0,2025
+SLS,SUP,St. Lawrence Saints,3pmi,No Dribble Jumper,Wallace Rahmaan,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,163,4.0,2025
+SLS,SUP,St. Lawrence Saints,2pmi,To Basket,Trevor Hofer,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,164,1.0,2025
+SLS,SUP,St. Lawrence Saints,Foul,To Basket,Jackson Casey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,165,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,Foul,To Basket,Dan Anderson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,168,1.0,2025
+SLS,SUP,St. Lawrence Saints,3pmi,No Dribble Jumper,Cheickne Toure,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,171,4.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pMa,N/A,Adam Dudzinski,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Empire 8,173,1.0,2025
+SLS,SUP,St. Lawrence Saints,3pmi,No Dribble Jumper,Trevor Hofer,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,174,4.0,2025
+SLS,SUP,St. Lawrence Saints,2pMa,To Basket,Robert Perocolosi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,175,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pmi,To Basket,Adam Dudzinski,PNR,Left,N/A,Chris Downs Jr.,P&R Roll Man,N/A,Roll,Liberty League,Empire 8,176,1.0,2025
+SLS,SUP,St. Lawrence Saints,3pmi,Dribble Jumper,Daimarr Miller,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,177,4.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,Turnover,To Basket,Adam Dudzinski,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,179,1.0,2025
+SLS,SUP,St. Lawrence Saints,Turnover,N/A,Cheickne Toure,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,180,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pmi,To Basket,Adam Dudzinski,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Empire 8,181,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,Foul,N/A,Adam Dudzinski,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,183,1.0,2025
+SLS,SUP,St. Lawrence Saints,3pmi,No Dribble Jumper,Cheickne Toure,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,186,4.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,Turnover,N/A,Trey Syroka,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,187,1.0,2025
+SLS,SUP,St. Lawrence Saints,Foul,To Basket,Daimarr Miller,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,188,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,Turnover,N/A,Chris Downs Jr.,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,191,1.0,2025
+SLS,SUP,St. Lawrence Saints,Turnover,N/A,Trevor Hofer,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Empire 8,192,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pmi,To Basket,Chris Downs Jr.,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Empire 8,194,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pMa,To Basket,Jackson Casey,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,195,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pMa,Dribble Jumper,Adam Dudzinski,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,196,2.0,2025
+SLS,SUP,St. Lawrence Saints,2pmi,To Basket,Robert Perocolosi,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Empire 8,197,1.0,2025
+SLS,SUP,St. Lawrence Saints,Turnover,To Basket,Robert Perocolosi,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Empire 8,200,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pmi,Drop Step,Andrew Cowan,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Empire 8,201,1.0,2025
+SLS,SUP,St. Lawrence Saints,Foul,To Basket,Trevor Hofer,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Empire 8,202,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pmi,Dribble Jumper,Dan Anderson,PNR,Left,Off,Aiden Macaulay,Spot Ups,Right,Drive,Liberty League,Empire 8,205,2.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pMa,To Basket,Dan Anderson,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,207,1.0,2025
+SLS,SUP,St. Lawrence Saints,3pMa,Dribble Jumper,Cheickne Toure,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,208,4.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,Foul,N/A,Adam Dudzinski,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,209,1.0,2025
+SLS,SUP,St. Lawrence Saints,Turnover,N/A,Daimarr Miller,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,212,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,3pmi,No Dribble Jumper,Aiden Macaulay,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,214,4.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,2pmi,To Basket,Andrew Cowan,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Empire 8,216,1.0,2025
+SLS,SUP,St. Lawrence Saints,3pmi,No Dribble Jumper,Trevor Hofer,PNR,High,Off,Daimarr Miller,Spot Ups,N/A,Shot,Liberty League,Empire 8,218,4.0,2025
+SLS,SUP,St. Lawrence Saints,3pmi,Dribble Jumper,Cheickne Toure,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,220,4.0,2025
+SLS,SUP,St. Lawrence Saints,2pMa,To Basket,Trevor Hofer,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,221,1.0,2025
+SLS,SUP,SUNY Polytechnic Wildcats,Foul,N/A,Dan Anderson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,222,1.0,2025
+SLS,SUP,St. Lawrence Saints,2pMa,To Basket,Trevor Hofer,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,226,1.0,2025

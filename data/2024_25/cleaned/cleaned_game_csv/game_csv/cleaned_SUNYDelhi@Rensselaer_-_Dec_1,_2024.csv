@@ -1,0 +1,150 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+RPI,SDB,Rensselaer Polytechnic,3pmi,Dribble Jumper,PJ Scalisi,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,4,4.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pmi,N/A,Jason Tagios,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,5,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pmi,To Basket,Dylan Matchett,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,6,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,PNR,Left,Away,Andrew Deppe,P&R Roll Man,N/A,Pop,Liberty League,UNKNOWN,7,4.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pmi,Hook Shot,Warren Davis,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,8,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pmi,To Basket,PJ Scalisi,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,9,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pMa,Hook Shot,Dylan Matchett,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,10,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pmi,To Basket,Isiah Barnes,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,11,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pMa,To Basket,Chuck Clemons,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,12,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pMa,Dribble Jumper,Isiah Barnes,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,13,2.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pMa,To Basket,Dylan Matchett,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,14,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,Turnover,N/A,Isiah Barnes,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,15,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,16,4.0,2025
+RPI,SDB,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Chuck Clemons,PNR,Left,Off,Andrew Deppe,P&R Roll Man,N/A,Pop,Liberty League,UNKNOWN,18,4.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pmi,To Basket,Noah Colin,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,19,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,Turnover,N/A,Avery Eugster,Post,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,20,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,3pmi,No Dribble Jumper,Brennan Heaven,PNR,High,Off,Noah Colin,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,21,4.0,2025
+RPI,SDB,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,22,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,3pMa,No Dribble Jumper,Brennan Heaven,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,23,4.0,2025
+RPI,SDB,Rensselaer Polytechnic,And1,To Basket,Abubacarr Camara,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,25,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pmi,No Dribble Jumper,Ijaaz Greene-Burks,PNR,High,Off,Jason Tagios,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,27,3.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,Post,Left,N/A,Pat White,Cuts,N/A,Basket,Liberty League,UNKNOWN,28,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pmi,No Dribble Jumper,Brennan Heaven,PNR,Left,Off,Ijaaz Greene-Burks,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,29,3.0,2025
+RPI,SDB,Rensselaer Polytechnic,Foul,To Basket,Pat White,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,30,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,Foul,To Basket,Isiah Barnes,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,33,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,Turnover,N/A,Nate Tawiah-Boateng,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,36,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,Foul,To Basket,Noah Colin,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,37,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,41,4.0,2025
+RPI,SDB,SUNY Delhi Broncos,Turnover,N/A,Isiah Barnes,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,42,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pMa,To Basket,Yechiel Stewart,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,44,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,Turnover,N/A,Adan Madera,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,45,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Yechiel Stewart,PNR,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,47,4.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pMa,To Basket,Noah Colin,PNR,High,Away,Adan Madera,Cuts,N/A,Basket,Liberty League,UNKNOWN,48,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,Foul,N/A,Chuck Clemons,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,49,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pmi,Dribble Jumper,Isiah Barnes,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,52,2.0,2025
+RPI,SDB,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,54,4.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pmi,To Basket,Isiah Barnes,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,55,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,Turnover,N/A,Yechiel Stewart,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,57,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,Turnover,N/A,Abdul-Jaleel Ibrahim,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,59,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,60,4.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pmi,Dribble Jumper,Abdul-Jaleel Ibrahim,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,61,2.0,2025
+RPI,SDB,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,62,4.0,2025
+RPI,SDB,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Post,Right,N/A,PJ Scalisi,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,64,4.0,2025
+RPI,SDB,SUNY Delhi Broncos,Turnover,N/A,Solomon Mason,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,65,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,Foul,To Basket,PJ Scalisi,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,66,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pmi,To Basket,Warren Davis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,69,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,Iso,Left,N/A,Tucker Tharpe,Cuts,N/A,Basket,Liberty League,UNKNOWN,70,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pmi,Hook Shot,Yechiel Stewart,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,71,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,Turnover,N/A,Tucker Tharpe,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,73,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,3pmi,No Dribble Jumper,Giovanni Germain,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,74,4.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pmi,N/A,Dylan Matchett,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,75,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,Foul,Hook Shot,Warren Davis,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,76,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,PNR,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,80,4.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pmi,To Basket,Isiah Barnes,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,81,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,82,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pmi,Dribble Jumper,Isiah Barnes,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,83,3.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pMa,No Dribble Jumper,Chuck Clemons,PNR,Left,Off,Andrew Deppe,P&R Roll Man,N/A,Pop,Liberty League,UNKNOWN,84,2.0,2025
+RPI,SDB,SUNY Delhi Broncos,3pmi,No Dribble Jumper,Solomon Mason,PNR,High,Off,Brennan Heaven,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,85,4.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pMa,To Basket,Chuck Clemons,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,86,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pmi,Dribble Jumper,Isiah Barnes,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,87,2.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pMa,To Basket,Noah Colin,Iso,Right,N/A,Warren Davis,Cuts,N/A,Basket,Liberty League,UNKNOWN,90,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pmi,Hook Shot,Dylan Matchett,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,91,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,Turnover,N/A,Isiah Barnes,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,93,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,Foul,To Basket,Chuck Clemons,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,94,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pmi,Dribble Jumper,Isiah Barnes,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,97,2.0,2025
+RPI,SDB,Rensselaer Polytechnic,Turnover,To Basket,Dylan Matchett,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,98,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,Turnover,N/A,Isiah Barnes,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,99,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Avery Eugster,Post,Right,Face Up,Chuck Clemons,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,101,4.0,2025
+RPI,SDB,SUNY Delhi Broncos,Turnover,N/A,Noah Colin,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,102,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,103,4.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pMa,Dribble Jumper,Noah Colin,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,104,2.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pmi,To Basket,Chuck Clemons,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,105,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,Foul,To Basket,Isiah Barnes,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,107,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pMa,N/A,PJ Scalisi,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,110,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pmi,To Basket,Warren Davis,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,111,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pmi,N/A,Avery Eugster,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,112,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pMa,To Basket,Isiah Barnes,PNR,High,Off,Noah Colin,Spot Ups,Left,Drive,Liberty League,UNKNOWN,114,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,Foul,To Basket,PJ Scalisi,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,115,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pMa,Dribble Jumper,Isiah Barnes,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,118,3.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pMa,No Dribble Jumper,Chuck Clemons,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,119,2.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pmi,No Dribble Jumper,Isiah Barnes,PNR,Left,Away,Warren Davis,P&R Roll Man,N/A,Pop,Liberty League,UNKNOWN,120,3.0,2025
+RPI,SDB,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,121,4.0,2025
+RPI,SDB,SUNY Delhi Broncos,Turnover,N/A,Noah Colin,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,122,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,123,4.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pmi,Dribble Jumper,Isiah Barnes,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,125,2.0,2025
+RPI,SDB,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Yechiel Stewart,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,126,4.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pMa,Hook Shot,Warren Davis,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,128,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,Foul,To Basket,Dylan Matchett,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,129,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pMa,To Basket,Noah Colin,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,132,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pmi,To Basket,Dylan Matchett,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,133,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pMa,To Basket,Brennan Heaven,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,134,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pMa,To Basket,Dylan Matchett,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,135,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pmi,To Basket,Noah Colin,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,136,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,3pMa,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,137,4.0,2025
+RPI,SDB,SUNY Delhi Broncos,3pMa,No Dribble Jumper,Abdul-Jaleel Ibrahim,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,138,4.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pmi,To Basket,Chuck Clemons,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,139,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,Turnover,N/A,Isiah Barnes,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,140,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pmi,To Basket,Yechiel Stewart,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,141,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pmi,To Basket,Ijaaz Greene-Burks,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,142,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pMa,To Basket,Yechiel Stewart,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,143,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,Turnover,N/A,Isiah Barnes,PNR,Right,Away,Warren Davis,P&R Roll Man,Left,Pop,Liberty League,UNKNOWN,144,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Avery Eugster,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,145,4.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pmi,Dribble Jumper,Isiah Barnes,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,146,2.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pMa,N/A,Avery Eugster,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,147,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,3pmi,No Dribble Jumper,Jason Tagios,Post,Right,Left Shoulder,Abdul-Jaleel Ibrahim,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,148,4.0,2025
+RPI,SDB,Rensselaer Polytechnic,And1,To Basket,Yechiel Stewart,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,149,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pmi,To Basket,Abdul-Jaleel Ibrahim,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,151,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pmi,To Basket,Pat White,Post,Right,N/A,Nate Tawiah-Boateng,Cuts,N/A,Basket,Liberty League,UNKNOWN,152,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,3pmi,No Dribble Jumper,Jason Tagios,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,153,4.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pmi,To Basket,Pat White,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,154,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,3pmi,No Dribble Jumper,Abdul-Jaleel Ibrahim,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,155,4.0,2025
+RPI,SDB,Rensselaer Polytechnic,Turnover,N/A,Abubacarr Camara,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,156,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pMa,To Basket,Anthony Graffeo - Jackson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,157,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,,N/A,Chuck Clemons,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,158,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,Foul,Drop Step,Pat White,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,159,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,Turnover,N/A,Abdul-Jaleel Ibrahim,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,162,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,Foul,To Basket,Pat White,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,163,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Pat White,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,167,4.0,2025
+RPI,SDB,SUNY Delhi Broncos,Turnover,N/A,Noah Colin,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,168,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pMa,To Basket,Pat White,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,169,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pMa,To Basket,Solomon Mason,PNR,Right,Off,Adan Madera,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,170,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pMa,To Basket,Dylan Matchett,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,171,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pMa,To Basket,Solomon Mason,PNR,Right,Away,Adan Madera,Cuts,N/A,Basket,Liberty League,UNKNOWN,172,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Pat White,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,173,4.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pmi,Dribble Jumper,Solomon Mason,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,174,2.0,2025
+RPI,SDB,SUNY Delhi Broncos,Turnover,N/A,Isiah Barnes,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,177,1.0,2025
+RPI,SDB,,Foul,N/A,Blake Smith,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,178,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pMa,Dribble Jumper,Isiah Barnes,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,180,2.0,2025
+RPI,SDB,Rensselaer Polytechnic,And1,To Basket,Tucker Tharpe,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,182,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pMa,To Basket,Noah Colin,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,184,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,Foul,To Basket,Abubacarr Camara,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,185,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pmi,To Basket,Zisi Blades,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,188,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,Foul,To Basket,Isiah Barnes,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,189,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pmi,To Basket,Olu Olaniran,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,192,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pmi,To Basket,Brennan Heaven,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,193,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pmi,To Basket,Harrison Neil,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,194,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pMa,To Basket,Brennan Heaven,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,195,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Olu Olaniran,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,196,4.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pmi,Dribble Jumper,Isiah Barnes,PNR,Right,Off,Brennan Heaven,Spot Ups,Right,Drive,Liberty League,UNKNOWN,197,3.0,2025
+RPI,SDB,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Ryan Jackson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,198,4.0,2025
+RPI,SDB,SUNY Delhi Broncos,Foul,N/A,Omotola Oladeji,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,199,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Ryan Jackson,PNR,Right,Away,Olu Olaniran,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,202,4.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pmi,To Basket,Zisi Blades,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,203,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,2pMa,To Basket,Olu Olaniran,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,204,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,Turnover,N/A,Tristen Green,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,205,1.0,2025
+RPI,SDB,Rensselaer Polytechnic,Turnover,N/A,Olu Olaniran,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,206,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pmi,To Basket,Tristen Green,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,207,1.0,2025
+RPI,SDB,,Foul,N/A,Olu Olaniran,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,208,1.0,2025
+RPI,SDB,SUNY Delhi Broncos,2pMa,To Basket,Justin Duscher,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,211,1.0,2025

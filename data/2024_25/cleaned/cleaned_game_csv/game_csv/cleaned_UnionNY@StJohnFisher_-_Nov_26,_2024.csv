@@ -1,0 +1,176 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+SJC,UNY,St. John Fisher Cardinals,2pMa,To Basket,Maximus Michalski,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,2,1.0,2025
+SJC,UNY,Union (NY) Chargers,Turnover,N/A,Tanner Tedesco,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,3,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pmi,To Basket,Maxwell Schneider,PNR,Left,Off,Parker Rey,Cuts,N/A,Flash,Empire 8,Liberty League,4,1.0,2025
+SJC,UNY,Union (NY) Chargers,2pmi,To Basket,Christian Dufort,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,6,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pmi,Dribble Jumper,Tanner Tedesco,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,7,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,Turnover,To Basket,josh Lopez,PNR,Right,Off,Parker Rey,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,8,1.0,2025
+SJC,UNY,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Empire 8,Liberty League,9,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Maxwell Schneider,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,10,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pMa,To Basket,josh Lopez,PNR,Left,Off,Maximus Michalski,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,12,1.0,2025
+SJC,UNY,Union (NY) Chargers,2pmi,To Basket,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,13,1.0,2025
+SJC,UNY,Union (NY) Chargers,2pmi,To Basket,Brendan Reid,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,15,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,Turnover,N/A,josh Lopez,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,16,1.0,2025
+SJC,UNY,Union (NY) Chargers,2pMa,Dribble Jumper,Jaden Jauregui,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,17,2.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pMa,To Basket,Connor Williams,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,19,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,PNR,Left,Off,Brendan Reid,Spot Ups,N/A,Shot,Empire 8,Liberty League,20,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pmi,Drop Step,Connor Williams,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,21,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pMa,To Basket,Eric Kegler,PNR,Right,Off,josh Lopez,Spot Ups,Left,Drive,Empire 8,Liberty League,22,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pmi,No Dribble Jumper,Jaden Jauregui,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,23,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,Turnover,To Basket,Connor Williams,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,24,1.0,2025
+SJC,UNY,Union (NY) Chargers,2pmi,To Basket,Tanner Tedesco,PNR,Left,Off,Jack Plesser,P&R Roll Man,N/A,Slips,Empire 8,Liberty League,25,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pMa,To Basket,Connor Williams,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,26,1.0,2025
+SJC,UNY,Union (NY) Chargers,2pmi,Dribble Jumper,Tanner Tedesco,PNR,High,Off,Jaden Jauregui,Spot Ups,Left,Drive,Empire 8,Liberty League,27,2.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pmi,To Basket,Maximus Michalski,Post,Middle,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,28,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,3pmi,Dribble Jumper,Eric Kegler,PNR,High,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,30,4.0,2025
+SJC,UNY,Union (NY) Chargers,3pmi,No Dribble Jumper,Brendan Reid,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,31,4.0,2025
+SJC,UNY,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,32,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Maxwell Schneider,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,33,4.0,2025
+SJC,UNY,Union (NY) Chargers,3pmi,Dribble Jumper,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,34,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pMa,Drop Step,Maximus Michalski,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,35,1.0,2025
+SJC,UNY,Union (NY) Chargers,2pmi,To Basket,Christian Dufort,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,36,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pmi,To Basket,josh Lopez,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,37,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,Turnover,N/A,Matt Larusch,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,38,1.0,2025
+SJC,UNY,Union (NY) Chargers,2pMa,To Basket,Aren Cummings,Iso,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,40,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,PNR,Right,Off,Giovanni Schillaci,Spot Ups,Right,Drive,Empire 8,Liberty League,41,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Empire 8,Liberty League,42,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pMa,To Basket,Connor Williams,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,43,1.0,2025
+SJC,UNY,Union (NY) Chargers,2pmi,To Basket,Aren Cummings,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,44,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pmi,To Basket,Cole Thompson,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,45,1.0,2025
+SJC,UNY,Union (NY) Chargers,2pMa,Hook Shot,Jack Plesser,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,46,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,3pMa,No Dribble Jumper,Ephraim Chase,PNR,Left,Off,Giovanni Schillaci,Spot Ups,N/A,Shot,Empire 8,Liberty League,47,4.0,2025
+SJC,UNY,Union (NY) Chargers,2pmi,To Basket,Tanner Tedesco,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,48,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pmi,To Basket,Ephraim Chase,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,49,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,Turnover,N/A,Matt Larusch,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,50,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pmi,No Dribble Jumper,Brendan Reid,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,52,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pMa,Drop Step,Matt Larusch,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,53,1.0,2025
+SJC,UNY,Union (NY) Chargers,Foul,To Basket,Neil Daterao,PNR,Left,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,54,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,Turnover,N/A,Maximus Michalski,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,57,1.0,2025
+SJC,UNY,Union (NY) Chargers,Foul,To Basket,Brendan Reid,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,58,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,Turnover,N/A,Ephraim Chase,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,61,1.0,2025
+SJC,UNY,Union (NY) Chargers,Turnover,N/A,Aren Cummings,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,62,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pMa,To Basket,Maximus Michalski,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,63,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pmi,No Dribble Jumper,Harrison Collins,PNR,Left,Off,Neil Daterao,Spot Ups,N/A,Shot,Empire 8,Liberty League,64,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,3pmi,Dribble Jumper,Giovanni Schillaci,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,65,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pMa,To Basket,Connor Williams,Post,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,66,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pMa,No Dribble Jumper,Brendan Reid,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Empire 8,Liberty League,67,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,3pMa,No Dribble Jumper,Connor Williams,Post,Middle,N/A,josh Lopez,Spot Ups,N/A,Shot,Empire 8,Liberty League,68,4.0,2025
+SJC,UNY,Union (NY) Chargers,Turnover,N/A,Aren Cummings,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,69,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pMa,To Basket,Connor Williams,Post,Middle,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,70,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pmi,Dribble Jumper,Tanner Tedesco,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,71,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Eric Kegler,PNR,Right,Off,josh Lopez,Spot Ups,N/A,Shot,Empire 8,Liberty League,72,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pMa,To Basket,Eric Kegler,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,74,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,75,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Connor Williams,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,76,4.0,2025
+SJC,UNY,Union (NY) Chargers,2pMa,To Basket,Aren Cummings,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,77,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,Turnover,N/A,Eric Kegler,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,78,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pmi,No Dribble Jumper,Jaden Jauregui,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,79,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pmi,Dribble Jumper,josh Lopez,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,80,2.0,2025
+SJC,UNY,Union (NY) Chargers,2pMa,To Basket,Christian Dufort,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,81,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pMa,To Basket,Maxwell Schneider,PNR,Left,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,82,1.0,2025
+SJC,UNY,Union (NY) Chargers,Foul,N/A,Jack Plesser,Post,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,83,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,86,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,87,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pMa,To Basket,Connor Williams,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,88,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,89,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,Foul,To Basket,josh Lopez,PNR,Right,Off,Maximus Michalski,Cuts,N/A,Basket,Empire 8,Liberty League,90,1.0,2025
+SJC,UNY,Union (NY) Chargers,Turnover,N/A,Tanner Tedesco,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,93,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pmi,Dribble Jumper,josh Lopez,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,94,2.0,2025
+SJC,UNY,Union (NY) Chargers,Foul,To Basket,Jack Plesser,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,95,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,Foul,To Basket,josh Lopez,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,98,1.0,2025
+SJC,UNY,Union (NY) Chargers,And1,To Basket,Matthew Garside,PNR,Right,Off,Jack Plesser,P&R Roll Man,N/A,Slips,Empire 8,Liberty League,101,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pMa,N/A,Maximus Michalski,Post,Right,Face Up,N/A,N/A,N/A,N/A,Empire 8,Liberty League,103,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,PNR,Right,Off,Matthew Garside,Spot Ups,N/A,Shot,Empire 8,Liberty League,105,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,And1,To Basket,josh Lopez,PNR,High,Off,Parker Rey,Spot Ups,Right,Drive,Empire 8,Liberty League,106,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pmi,No Dribble Jumper,Jack Plesser,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Empire 8,Liberty League,108,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Parker Rey,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,109,4.0,2025
+SJC,UNY,Union (NY) Chargers,Turnover,N/A,Jack Plesser,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,110,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,Turnover,N/A,Maximus Michalski,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,111,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,112,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pMa,To Basket,josh Lopez,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,113,1.0,2025
+SJC,UNY,Union (NY) Chargers,Turnover,N/A,Christian Dufort,Transition,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,114,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pMa,To Basket,Maxwell Schneider,PNR,High,N/A,Maximus Michalski,Cuts,N/A,Basket,Empire 8,Liberty League,115,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,PNR,Left,Off,Brendan Reid,Spot Ups,N/A,Shot,Empire 8,Liberty League,116,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Connor Williams,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,117,4.0,2025
+SJC,UNY,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Empire 8,Liberty League,118,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,Turnover,N/A,josh Lopez,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,119,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,PNR,Right,Off,Christian Dufort,Spot Ups,N/A,Shot,Empire 8,Liberty League,120,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pmi,Dribble Jumper,josh Lopez,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,122,3.0,2025
+SJC,UNY,Union (NY) Chargers,2pMa,To Basket,Christian Dufort,PNR,Left,Off,Jack Plesser,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,123,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Eric Kegler,PNR,Left,N/A,Maxwell Schneider,Spot Ups,N/A,Shot,Empire 8,Liberty League,124,4.0,2025
+SJC,UNY,Union (NY) Chargers,3pMa,No Dribble Jumper,Jack Plesser,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,125,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,Turnover,N/A,Maximus Michalski,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,126,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,PNR,High,Off,Jack Plesser,P&R Roll Man,N/A,Pop,Empire 8,Liberty League,127,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pMa,To Basket,Eric Kegler,PNR,Left,N/A,Louis Fay,Spot Ups,Right,Drive,Empire 8,Liberty League,128,1.0,2025
+SJC,UNY,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,129,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,Foul,To Basket,Eric Kegler,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,130,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,133,4.0,2025
+SJC,UNY,Union (NY) Chargers,And1,To Basket,Christian Dufort,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,135,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,137,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,138,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,PNR,High,Off,Cole Thompson,Spot Ups,Right,Drive,Empire 8,Liberty League,139,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,141,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,PNR,Right,Off,Matthew Garside,Spot Ups,N/A,Shot,Empire 8,Liberty League,142,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,3pMa,No Dribble Jumper,Cole Thompson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,143,4.0,2025
+SJC,UNY,Union (NY) Chargers,3pmi,Dribble Jumper,Tanner Tedesco,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,144,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pMa,To Basket,Eric Kegler,PNR,Right,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,145,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,PNR,Right,Off,Brendan Reid,Spot Ups,N/A,Shot,Empire 8,Liberty League,146,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pmi,To Basket,Louis Fay,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Empire 8,Liberty League,148,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,150,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Andrew Violante,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,151,4.0,2025
+SJC,UNY,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,152,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,Foul,To Basket,Louis Fay,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,153,1.0,2025
+SJC,UNY,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,156,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pMa,Hook Shot,Connor Williams,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,157,1.0,2025
+SJC,UNY,Union (NY) Chargers,Foul,To Basket,Tanner Tedesco,PNR,High,Off,Aren Cummings,Cuts,N/A,Flash,Empire 8,Liberty League,158,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pMa,Drop Step,Connor Williams,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,161,1.0,2025
+SJC,UNY,Union (NY) Chargers,2pMa,To Basket,Matthew Garside,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,162,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,And1,To Basket,Louis Fay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,163,1.0,2025
+SJC,UNY,Union (NY) Chargers,Foul,Hook Shot,Jack Plesser,Post,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,165,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pMa,To Basket,Cole Thompson,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,168,1.0,2025
+SJC,UNY,Union (NY) Chargers,Turnover,N/A,Matthew Garside,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,169,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pMa,Dribble Jumper,Cole Thompson,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,170,3.0,2025
+SJC,UNY,Union (NY) Chargers,2pmi,Drop Step,Jack Plesser,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,171,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,173,1.0,2025
+SJC,UNY,Union (NY) Chargers,Turnover,N/A,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,174,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,And1,To Basket,josh Lopez,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,175,1.0,2025
+SJC,UNY,Union (NY) Chargers,Turnover,To Basket,Jack Plesser,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,177,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pmi,To Basket,josh Lopez,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,178,1.0,2025
+SJC,UNY,,Foul,N/A,Jack Plesser,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,179,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,Turnover,N/A,Cole Thompson,Spot Ups,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,182,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,PNR,High,Off,Matthew Garside,Spot Ups,N/A,Shot,Empire 8,Liberty League,183,4.0,2025
+SJC,UNY,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,184,1.0,2025
+SJC,UNY,Union (NY) Chargers,2pmi,To Basket,Brendan Reid,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,185,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,3pmi,No Dribble Jumper,josh Lopez,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,186,4.0,2025
+SJC,UNY,Union (NY) Chargers,Turnover,N/A,Matthew Garside,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,189,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,Foul,N/A,Eric Kegler,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,190,1.0,2025
+SJC,UNY,,Foul,N/A,Jack Plesser,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,194,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,3pmi,Dribble Jumper,Eric Kegler,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,198,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,3pMa,No Dribble Jumper,Cole Thompson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,200,4.0,2025
+SJC,UNY,Union (NY) Chargers,2pmi,To Basket,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,201,1.0,2025
+SJC,UNY,Union (NY) Chargers,Turnover,N/A,Matthew Garside,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,202,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pMa,To Basket,Connor Williams,Post,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,203,1.0,2025
+SJC,UNY,Union (NY) Chargers,Foul,To Basket,Matthew Garside,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,205,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,Foul,N/A,Connor Williams,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,208,1.0,2025
+SJC,UNY,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,211,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,3pmi,Dribble Jumper,Eric Kegler,Iso,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,212,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pMa,To Basket,Louis Fay,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,213,1.0,2025
+SJC,UNY,Union (NY) Chargers,2pmi,To Basket,Jaden Jauregui,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,214,1.0,2025
+SJC,UNY,Union (NY) Chargers,2pmi,N/A,Jack Plesser,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,215,1.0,2025
+SJC,UNY,,Foul,N/A,Eric Kegler,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,216,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,219,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pMa,To Basket,Eric Kegler,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,220,1.0,2025
+SJC,UNY,Union (NY) Chargers,2pMa,To Basket,Aren Cummings,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,221,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,3pMa,Dribble Jumper,Cole Thompson,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,222,4.0,2025
+SJC,UNY,,Foul,N/A,Tanner Tedesco,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,224,1.0,2025
+SJC,UNY,St. John Fisher Cardinals,2pMa,To Basket,Eric Kegler,Iso,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,227,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pmi,Dribble Jumper,Tanner Tedesco,PNR,High,Off,Christian Dufort,P&R Roll Man,N/A,Pop,Empire 8,Liberty League,228,4.0,2025
+SJC,UNY,Union (NY) Chargers,3pmi,N/A,Christian Dufort,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,229,4.0,2025
+SJC,UNY,,Foul,N/A,josh Lopez,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,230,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pmi,Dribble Jumper,Jaden Jauregui,PNR,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,233,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,Turnover,N/A,Eric Kegler,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,235,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pMa,Dribble Jumper,Christian Dufort,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,236,4.0,2025
+SJC,UNY,St. John Fisher Cardinals,Turnover,N/A,Eric Kegler,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,237,1.0,2025
+SJC,UNY,Union (NY) Chargers,Foul,To Basket,Tanner Tedesco,Hand Offs,Left,Stationary,N/A,N/A,N/A,N/A,Empire 8,Liberty League,238,1.0,2025
+SJC,UNY,,Foul,N/A,josh Lopez,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,241,1.0,2025
+SJC,UNY,Union (NY) Chargers,3pMa,Dribble Jumper,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,244,4.0,2025

@@ -1,0 +1,152 @@
+Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
+Bar,WAC,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,1,4.0,2025
+Bar,WAC,Washington (MD) Shoremen,3pMa,No Dribble Jumper,Precieux Tshibangu,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,2,4.0,2025
+Bar,WAC,Bard College,Turnover,To Basket,Rowan Heinze,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,3,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,3pmi,Dribble Jumper,Nolan Waldon,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,4,4.0,2025
+Bar,WAC,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,6,4.0,2025
+Bar,WAC,Washington (MD) Shoremen,Turnover,N/A,Precieux Tshibangu,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,7,1.0,2025
+Bar,WAC,Bard College,2pmi,To Basket,Rowan Heinze,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,8,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,2pmi,To Basket,Nolan Waldon,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,9,1.0,2025
+Bar,WAC,Bard College,Turnover,N/A,Laz Panagiotounis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,10,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,3pmi,Dribble Jumper,Davis Bland,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,11,4.0,2025
+Bar,WAC,Bard College,Foul,To Basket,Sean Wilcox,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,12,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,3pmi,Dribble Jumper,Nicho Simes,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,16,4.0,2025
+Bar,WAC,Bard College,Turnover,N/A,Jalen Umstead,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,18,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,3pMa,No Dribble Jumper,Nicho Simes,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,19,4.0,2025
+Bar,WAC,Bard College,3pMa,No Dribble Jumper,Azriel Almodovar,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,20,4.0,2025
+Bar,WAC,Washington (MD) Shoremen,Turnover,N/A,Nolan Waldon,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,21,1.0,2025
+Bar,WAC,Bard College,3pmi,No Dribble Jumper,Max Frei,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,22,4.0,2025
+Bar,WAC,Washington (MD) Shoremen,Turnover,N/A,Nolan Waldon,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,23,1.0,2025
+Bar,WAC,Bard College,3pmi,No Dribble Jumper,Lucas Tovar,PNR,Right,Off,Laz Panagiotounis,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,24,4.0,2025
+Bar,WAC,Bard College,Turnover,N/A,Laz Panagiotounis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,26,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,Foul,To Basket,Ben Costello,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,27,1.0,2025
+Bar,WAC,Bard College,2pmi,To Basket,Sean Wilcox,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,30,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,3pMa,No Dribble Jumper,Ethan Schwantes,Post,Left,N/A,Ben Costello,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,31,4.0,2025
+Bar,WAC,Bard College,3pmi,No Dribble Jumper,Lucas Tovar,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,32,4.0,2025
+Bar,WAC,Washington (MD) Shoremen,3pmi,No Dribble Jumper,Anthony Seoage,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,34,4.0,2025
+Bar,WAC,Bard College,Turnover,N/A,Ahmad Rauf,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,35,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,2pMa,To Basket,Nolan Waldon,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,36,1.0,2025
+Bar,WAC,Bard College,Turnover,N/A,Lucas Tovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,37,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,2pMa,N/A,Ethan Schwantes,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,38,1.0,2025
+Bar,WAC,Bard College,3pMa,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,39,4.0,2025
+Bar,WAC,Washington (MD) Shoremen,Turnover,N/A,Anthony Seoage,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,41,1.0,2025
+Bar,WAC,Bard College,2pMa,To Basket,Ahmad Rauf,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,42,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,3pMa,No Dribble Jumper,Ryan Lang,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,44,4.0,2025
+Bar,WAC,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,45,4.0,2025
+Bar,WAC,Washington (MD) Shoremen,2pmi,To Basket,Ty Woodland,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,46,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,Turnover,N/A,Ryan Lang,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,47,1.0,2025
+Bar,WAC,Bard College,3pmi,No Dribble Jumper,Seth Dyer,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,48,4.0,2025
+Bar,WAC,Washington (MD) Shoremen,3pmi,No Dribble Jumper,Nicho Simes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,50,4.0,2025
+Bar,WAC,Bard College,3pmi,No Dribble Jumper,Seth Dyer,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,51,4.0,2025
+Bar,WAC,Washington (MD) Shoremen,Turnover,To Basket,Ben Costello,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,52,1.0,2025
+Bar,WAC,Bard College,2pmi,To Basket,Seth Dyer,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,53,1.0,2025
+Bar,WAC,Bard College,2pMa,To Basket,Ahmad Rauf,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,55,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,2pMa,Dribble Jumper,Nolan Waldon,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,56,3.0,2025
+Bar,WAC,Bard College,2pmi,To Basket,Azriel Almodovar,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,57,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,3pmi,Dribble Jumper,Nicho Simes,PNR,High,Off,Nolan Waldon,Spot Ups,Right,Drive,Liberty League,UNKNOWN,58,4.0,2025
+Bar,WAC,Bard College,2pMa,To Basket,Jalen Umstead,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,61,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,3pMa,Dribble Jumper,Davis Bland,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,63,4.0,2025
+Bar,WAC,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,64,4.0,2025
+Bar,WAC,Washington (MD) Shoremen,3pMa,No Dribble Jumper,Ben Costello,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,65,4.0,2025
+Bar,WAC,Bard College,2pmi,To Basket,Max Frei,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,67,1.0,2025
+Bar,WAC,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,69,4.0,2025
+Bar,WAC,Washington (MD) Shoremen,2pMa,To Basket,Anthony Seoage,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,70,1.0,2025
+Bar,WAC,Bard College,2pmi,To Basket,Jalen Umstead,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,71,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,3pmi,No Dribble Jumper,Ben Costello,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,73,4.0,2025
+Bar,WAC,Bard College,2pMa,Dribble Jumper,Laz Panagiotounis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,74,2.0,2025
+Bar,WAC,Washington (MD) Shoremen,3pmi,Dribble Jumper,Nolan Waldon,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,75,4.0,2025
+Bar,WAC,Bard College,3pMa,No Dribble Jumper,Laz Panagiotounis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,76,4.0,2025
+Bar,WAC,Washington (MD) Shoremen,2pmi,No Dribble Jumper,Ty Woodland,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,77,3.0,2025
+Bar,WAC,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,78,4.0,2025
+Bar,WAC,Washington (MD) Shoremen,2pmi,To Basket,Nolan Waldon,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,79,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,Foul,To Basket,Ben Costello,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,80,1.0,2025
+Bar,WAC,Bard College,Turnover,To Basket,Azriel Almodovar,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,84,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,2pmi,Dribble Jumper,Nicho Simes,PNR,Right,Off,Nolan Waldon,Spot Ups,Left,Drive,Liberty League,UNKNOWN,85,3.0,2025
+Bar,WAC,Bard College,2pMa,To Basket,Seth Dyer,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,86,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,Turnover,N/A,Nicho Simes,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,87,1.0,2025
+Bar,WAC,Bard College,2pmi,To Basket,Seth Dyer,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,88,1.0,2025
+Bar,WAC,Bard College,Foul,To Basket,Seth Dyer,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,89,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,3pmi,Dribble Jumper,Nicho Simes,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,92,4.0,2025
+Bar,WAC,Bard College,3pMa,No Dribble Jumper,Jalen Umstead,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,93,4.0,2025
+Bar,WAC,Washington (MD) Shoremen,2pmi,To Basket,Ethan Schwantes,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,94,1.0,2025
+Bar,WAC,Bard College,3pmi,Dribble Jumper,Ahmad Rauf,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,95,4.0,2025
+Bar,WAC,Washington (MD) Shoremen,3pMa,No Dribble Jumper,Anthony Seoage,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,96,4.0,2025
+Bar,WAC,Bard College,Foul,N/A,Laz Panagiotounis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,98,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,3pmi,No Dribble Jumper,Precieux Tshibangu,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,100,4.0,2025
+Bar,WAC,Washington (MD) Shoremen,Turnover,N/A,Ty Woodland,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,102,1.0,2025
+Bar,WAC,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,104,4.0,2025
+Bar,WAC,Bard College,2pMa,To Basket,Azriel Almodovar,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,105,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,2pmi,Dribble Jumper,Precieux Tshibangu,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,107,2.0,2025
+Bar,WAC,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,108,4.0,2025
+Bar,WAC,Washington (MD) Shoremen,Foul,To Basket,Nicho Simes,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,109,1.0,2025
+Bar,WAC,Bard College,3pmi,No Dribble Jumper,Rowan Heinze,Post,Right,Right Shoulder,Ahmad Rauf,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,112,4.0,2025
+Bar,WAC,Bard College,2pmi,To Basket,Rowan Heinze,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,114,1.0,2025
+Bar,WAC,Bard College,3pMa,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,116,4.0,2025
+Bar,WAC,Washington (MD) Shoremen,Foul,To Basket,Precieux Tshibangu,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,117,1.0,2025
+Bar,WAC,Bard College,2pmi,To Basket,Rowan Heinze,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,121,1.0,2025
+Bar,WAC,Bard College,2pMa,Dribble Jumper,Laz Panagiotounis,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,123,2.0,2025
+Bar,WAC,Washington (MD) Shoremen,3pMa,No Dribble Jumper,Nicho Simes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,124,4.0,2025
+Bar,WAC,Bard College,2pmi,To Basket,Rowan Heinze,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,125,1.0,2025
+Bar,WAC,Bard College,2pmi,To Basket,Sean Wilcox,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,126,1.0,2025
+Bar,WAC,Bard College,2pMa,To Basket,Azriel Almodovar,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,127,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,Turnover,N/A,Ben Costello,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,128,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,Turnover,N/A,Ethan Schwantes,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,129,1.0,2025
+Bar,WAC,Bard College,2pmi,To Basket,Azriel Almodovar,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,130,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,Turnover,N/A,Ben Costello,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,131,1.0,2025
+Bar,WAC,Bard College,3pMa,No Dribble Jumper,Azriel Almodovar,PNR,Right,Off,Laz Panagiotounis,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,132,4.0,2025
+Bar,WAC,Washington (MD) Shoremen,Turnover,N/A,Ethan Schwantes,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,133,1.0,2025
+Bar,WAC,Bard College,2pmi,To Basket,Jalen Umstead,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,134,1.0,2025
+Bar,WAC,Bard College,Turnover,N/A,Max Frei,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,135,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,Foul,N/A,Davis Bland,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,138,1.0,2025
+Bar,WAC,Bard College,3pmi,No Dribble Jumper,Azriel Almodovar,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,141,4.0,2025
+Bar,WAC,Bard College,2pmi,To Basket,Jalen Umstead,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,142,1.0,2025
+Bar,WAC,Bard College,3pmi,No Dribble Jumper,Azriel Almodovar,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,144,4.0,2025
+Bar,WAC,Washington (MD) Shoremen,3pMa,No Dribble Jumper,Anthony Seoage,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,145,4.0,2025
+Bar,WAC,Bard College,Turnover,N/A,Azriel Almodovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,146,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,Foul,To Basket,Nolan Waldon,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,147,1.0,2025
+Bar,WAC,Bard College,Turnover,N/A,Joshua Bayne,Spot Ups,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,150,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,3pmi,No Dribble Jumper,Nicho Simes,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,151,4.0,2025
+Bar,WAC,Bard College,Turnover,N/A,Lucas Tovar,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,153,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,3pmi,No Dribble Jumper,Anthony Seoage,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,154,4.0,2025
+Bar,WAC,Bard College,2pmi,To Basket,Sean Wilcox,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,155,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,Foul,To Basket,Davis Bland,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,156,1.0,2025
+Bar,WAC,Bard College,3pMa,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,160,4.0,2025
+Bar,WAC,Washington (MD) Shoremen,2pmi,To Basket,Anthony Seoage,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,161,1.0,2025
+Bar,WAC,Bard College,3pMa,Dribble Jumper,Laz Panagiotounis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,163,4.0,2025
+Bar,WAC,Washington (MD) Shoremen,Turnover,N/A,Ty Woodland,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,166,1.0,2025
+Bar,WAC,Bard College,Foul,To Basket,Azriel Almodovar,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,168,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,2pmi,To Basket,Precieux Tshibangu,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,171,1.0,2025
+Bar,WAC,Bard College,Turnover,N/A,Rowan Heinze,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,173,1.0,2025
+Bar,WAC,,Foul,N/A,Anthony Seoage,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,174,1.0,2025
+Bar,WAC,Bard College,3pmi,No Dribble Jumper,Seth Dyer,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,177,4.0,2025
+Bar,WAC,Bard College,2pmi,To Basket,Rowan Heinze,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,179,1.0,2025
+Bar,WAC,Bard College,And1,To Basket,Azriel Almodovar,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,180,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,2pmi,To Basket,Nolan Waldon,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,182,1.0,2025
+Bar,WAC,Bard College,2pmi,To Basket,Azriel Almodovar,PNR,Right,Off,Sean Wilcox,Cuts,N/A,Basket,Liberty League,UNKNOWN,183,1.0,2025
+Bar,WAC,Bard College,3pMa,Dribble Jumper,Laz Panagiotounis,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,184,4.0,2025
+Bar,WAC,Washington (MD) Shoremen,2pmi,To Basket,Ben Costello,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,185,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,3pmi,No Dribble Jumper,Nolan Waldon,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,187,4.0,2025
+Bar,WAC,Bard College,2pMa,To Basket,Azriel Almodovar,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,188,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,Turnover,N/A,Nolan Waldon,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,190,1.0,2025
+Bar,WAC,Bard College,2pMa,Dribble Jumper,Laz Panagiotounis,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,191,3.0,2025
+Bar,WAC,Washington (MD) Shoremen,Foul,To Basket,Nolan Waldon,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,192,1.0,2025
+Bar,WAC,Bard College,Turnover,N/A,Joshua Bayne,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,195,1.0,2025
+Bar,WAC,Bard College,Foul,To Basket,Sean Wilcox,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,196,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,Foul,To Basket,Ben Costello,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,199,1.0,2025
+Bar,WAC,Bard College,3pMa,No Dribble Jumper,Azriel Almodovar,PNR,Right,Away,Joshua Bayne,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,202,4.0,2025
+Bar,WAC,Washington (MD) Shoremen,3pmi,No Dribble Jumper,Ben Costello,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,203,4.0,2025
+Bar,WAC,Bard College,2pMa,To Basket,Sean Wilcox,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,204,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,2pmi,To Basket,Davis Bland,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,206,1.0,2025
+Bar,WAC,Bard College,Foul,To Basket,Sean Wilcox,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,207,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,3pmi,No Dribble Jumper,Nicho Simes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,210,4.0,2025
+Bar,WAC,Bard College,2pMa,To Basket,Sean Wilcox,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,211,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,3pmi,Dribble Jumper,Nolan Waldon,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,212,4.0,2025
+Bar,WAC,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,213,4.0,2025
+Bar,WAC,Washington (MD) Shoremen,Foul,To Basket,Nolan Waldon,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,214,1.0,2025
+Bar,WAC,Bard College,Foul,N/A,Azriel Almodovar,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,217,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,2pmi,Dribble Jumper,Davis Bland,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,220,2.0,2025
+Bar,WAC,Washington (MD) Shoremen,3pmi,No Dribble Jumper,Anthony Seoage,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,222,4.0,2025
+Bar,WAC,Bard College,Foul,N/A,Lucas Tovar,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,224,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,Turnover,N/A,Nicho Simes,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,227,1.0,2025
+Bar,WAC,Bard College,Turnover,N/A,Lucas Tovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,229,1.0,2025
+Bar,WAC,Washington (MD) Shoremen,2pmi,To Basket,Anthony Seoage,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,230,1.0,2025
