@@ -1,139 +1,139 @@
-Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
-HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Dolan Waldo,Post,Right,Face Up,Matthew McDonough,Spot Ups,N/A,Shot,Liberty League,SUNYAC,1,4.0,2025
-HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,2,1.0,2025
-HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,4,1.0,2025
-HOB,PSC,PennState-Behrend,2pmi,No Dribble Jumper,Mason Blankenberg,PNR,Right,Off,Dolan Waldo,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,5,2.0,2025
-HOB,PSC,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,Off Screens,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,6,4.0,2025
-HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Matthew McDonough,PNR,High,Off,Mason Blankenberg,Spot Ups,N/A,Shot,Liberty League,SUNYAC,7,4.0,2025
-HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Allen Mordi,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,8,1.0,2025
-HOB,PSC,PennState-Behrend,2pMa,Dribble Jumper,Dolan Waldo,Post,Left,Left Shoulder,Mason Blankenberg,Spot Ups,Left,Drive,Liberty League,SUNYAC,9,2.0,2025
-HOB,PSC,Hobart College Statesmen,Foul,To Basket,Carter Meshanic,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,10,1.0,2025
-HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,14,1.0,2025
-HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,15,1.0,2025
-HOB,PSC,PennState-Behrend,2pmi,To Basket,Tommy DiRienzo,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,16,1.0,2025
-HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,17,1.0,2025
-HOB,PSC,PennState-Behrend,Turnover,N/A,Tommy DiRienzo,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,18,1.0,2025
-HOB,PSC,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,19,1.0,2025
-HOB,PSC,PennState-Behrend,Turnover,To Basket,Tommy DiRienzo,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,20,1.0,2025
-HOB,PSC,PennState-Behrend,2pmi,To Basket,Tommy DiRienzo,PNR,Right,Off,Matthew McDonough,Spot Ups,Left,Drive,Liberty League,SUNYAC,22,1.0,2025
-HOB,PSC,Hobart College Statesmen,Turnover,N/A,Carter Meshanic,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,23,1.0,2025
-HOB,PSC,PennState-Behrend,2pMa,To Basket,Nate Edwards,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,24,1.0,2025
-HOB,PSC,Hobart College Statesmen,2pmi,No Dribble Jumper,Alex Moesch,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,25,2.0,2025
-HOB,PSC,PennState-Behrend,2pMa,To Basket,Sam Petrarca,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,26,1.0,2025
-HOB,PSC,Hobart College Statesmen,Foul,To Basket,Dorian Paki,Post,Right,N/A,Monty Nedd,Spot Ups,Right,Drive,Liberty League,SUNYAC,27,1.0,2025
-HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Michael Sopko,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,31,4.0,2025
-HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Dorian Paki,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,32,1.0,2025
-HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Nate Edwards,PNR,High,Off,Isaac DeGregorio,Spot Ups,N/A,Shot,Liberty League,SUNYAC,33,4.0,2025
-HOB,PSC,PennState-Behrend,2pMa,To Basket,Nate Edwards,PNR,Right,Off,Sam Petrarca,Spot Ups,Left,Drive,Liberty League,SUNYAC,35,1.0,2025
-HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,36,1.0,2025
-HOB,PSC,PennState-Behrend,Turnover,N/A,Sam Petrarca,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,37,1.0,2025
-HOB,PSC,Hobart College Statesmen,3pmi,No Dribble Jumper,Monty Nedd,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,38,4.0,2025
-HOB,PSC,Hobart College Statesmen,Foul,To Basket,Monty Nedd,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,40,1.0,2025
-HOB,PSC,PennState-Behrend,2pmi,To Basket,Dolan Waldo,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,43,1.0,2025
-HOB,PSC,PennState-Behrend,2pMa,To Basket,Dolan Waldo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,44,1.0,2025
-HOB,PSC,Hobart College Statesmen,2pmi,Dribble Jumper,Justin Price,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,45,2.0,2025
-HOB,PSC,PennState-Behrend,2pmi,Dribble Jumper,Mason Blankenberg,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,46,2.0,2025
-HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,47,1.0,2025
-HOB,PSC,Hobart College Statesmen,Foul,To Basket,Niko Lutz,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,48,1.0,2025
-HOB,PSC,PennState-Behrend,3pMa,No Dribble Jumper,Tommy DiRienzo,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,51,4.0,2025
-HOB,PSC,Hobart College Statesmen,2pmi,Drop Step,Carter Meshanic,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,52,1.0,2025
-HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Tommy DiRienzo,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,53,4.0,2025
-HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Tommy DiRienzo,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,55,4.0,2025
-HOB,PSC,Hobart College Statesmen,Turnover,N/A,Monty Nedd,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,56,1.0,2025
-HOB,PSC,PennState-Behrend,Foul,To Basket,Matthew McDonough,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,57,1.0,2025
-HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Niko Lutz,Post,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,60,1.0,2025
-HOB,PSC,PennState-Behrend,Turnover,N/A,Tommy DiRienzo,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,61,1.0,2025
-HOB,PSC,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,62,1.0,2025
-HOB,PSC,PennState-Behrend,Turnover,N/A,Tommy DiRienzo,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,63,1.0,2025
-HOB,PSC,Hobart College Statesmen,2pMa,Drop Step,Niko Lutz,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,64,1.0,2025
-HOB,PSC,PennState-Behrend,2pMa,To Basket,Nate Edwards,PNR,Right,Off,Matthew McDonough,Cuts,N/A,Flash,Liberty League,SUNYAC,65,1.0,2025
-HOB,PSC,Hobart College Statesmen,3pMa,No Dribble Jumper,Aidan Rodgers,PNR,Right,Off,Gabriel Bergeron,Spot Ups,N/A,Shot,Liberty League,SUNYAC,66,4.0,2025
-HOB,PSC,PennState-Behrend,2pmi,To Basket,Tommy DiRienzo,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,67,1.0,2025
-HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Matthew McDonough,PNR,Left,Off,Nate Edwards,Spot Ups,N/A,Shot,Liberty League,SUNYAC,68,4.0,2025
-HOB,PSC,Hobart College Statesmen,3pmi,No Dribble Jumper,Niko Lutz,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,69,4.0,2025
-HOB,PSC,PennState-Behrend,3pMa,No Dribble Jumper,Matthew McDonough,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,70,4.0,2025
-HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,72,1.0,2025
-HOB,PSC,PennState-Behrend,2pmi,To Basket,Matthew McDonough,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,73,1.0,2025
-HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Hunter Meshanic,Post,Right,N/A,Alex Moesch,Spot Ups,Left,Drive,Liberty League,SUNYAC,74,1.0,2025
-HOB,PSC,PennState-Behrend,Turnover,N/A,Sam Petrarca,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,75,1.0,2025
-HOB,PSC,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,76,4.0,2025
-HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Niko Lutz,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,77,1.0,2025
-HOB,PSC,PennState-Behrend,Turnover,N/A,Nate Edwards,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,78,1.0,2025
-HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,79,1.0,2025
-HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Matthew McDonough,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,80,4.0,2025
-HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Gabriel Bergeron,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,81,1.0,2025
-HOB,PSC,PennState-Behrend,3pMa,No Dribble Jumper,Jake Ziegler,Iso,Right,N/A,Nate Edwards,Spot Ups,N/A,Shot,Liberty League,SUNYAC,82,4.0,2025
-HOB,PSC,Hobart College Statesmen,2pmi,Dribble Jumper,Aidan Rodgers,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,83,2.0,2025
-HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Jake Ziegler,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,84,4.0,2025
-HOB,PSC,Hobart College Statesmen,Turnover,To Basket,Alex Moesch,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,86,1.0,2025
-HOB,PSC,PennState-Behrend,2pmi,To Basket,Tommy DiRienzo,PNR,Right,Off,Sam Petrarca,Spot Ups,Left,Drive,Liberty League,SUNYAC,87,1.0,2025
-HOB,PSC,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,88,1.0,2025
-HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Matthew McDonough,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,89,4.0,2025
-HOB,PSC,Hobart College Statesmen,2pmi,No Dribble Jumper,Carter Meshanic,Post,Right,Right Shoulder,Alex Moesch,Spot Ups,N/A,Shot,Liberty League,SUNYAC,90,3.0,2025
-HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Tommy DiRienzo,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,91,4.0,2025
-HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Post,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,92,1.0,2025
-HOB,PSC,PennState-Behrend,2pmi,Dribble Jumper,Matthew McDonough,PNR,Right,Off,Mason Blankenberg,Spot Ups,Left,Drive,Liberty League,SUNYAC,93,2.0,2025
-HOB,PSC,Hobart College Statesmen,3pMa,No Dribble Jumper,Allen Mordi,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,94,4.0,2025
-HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Dolan Waldo,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,95,4.0,2025
-HOB,PSC,Hobart College Statesmen,2pmi,Dribble Jumper,Alex Moesch,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,97,2.0,2025
-HOB,PSC,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,99,4.0,2025
-HOB,PSC,PennState-Behrend,2pMa,To Basket,Mason Blankenberg,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,100,1.0,2025
-HOB,PSC,Hobart College Statesmen,3pmi,Dribble Jumper,Aidan Rodgers,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,101,4.0,2025
-HOB,PSC,PennState-Behrend,Turnover,N/A,Matthew McDonough,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,102,1.0,2025
-HOB,PSC,Hobart College Statesmen,Foul,To Basket,Hunter Meshanic,Post,Right,N/A,Carter Meshanic,Cuts,N/A,Basket,Liberty League,SUNYAC,103,1.0,2025
-HOB,PSC,PennState-Behrend,3pMa,No Dribble Jumper,Michael Sopko,PNR,Left,Off,Tommy DiRienzo,Spot Ups,N/A,Shot,Liberty League,SUNYAC,106,4.0,2025
-HOB,PSC,Hobart College Statesmen,3pMa,No Dribble Jumper,Allen Mordi,PNR,Left,Off,Alex Moesch,Spot Ups,N/A,Shot,Liberty League,SUNYAC,107,4.0,2025
-HOB,PSC,PennState-Behrend,Turnover,To Basket,Sam Petrarca,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,109,1.0,2025
-HOB,PSC,Hobart College Statesmen,Foul,To Basket,Carter Meshanic,Post,Right,Right Shoulder,Aidan Rodgers,Spot Ups,Right,Drive,Liberty League,SUNYAC,110,1.0,2025
-HOB,PSC,PennState-Behrend,3pMa,No Dribble Jumper,Mason Blankenberg,PNR,High,Off,Matthew McDonough,Spot Ups,N/A,Shot,Liberty League,SUNYAC,113,4.0,2025
-HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,114,1.0,2025
-HOB,PSC,PennState-Behrend,And1,To Basket,Tommy DiRienzo,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,115,1.0,2025
-HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,117,1.0,2025
-HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Hunter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,118,1.0,2025
-HOB,PSC,PennState-Behrend,2pmi,To Basket,Mason Blankenberg,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,120,1.0,2025
-HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Niko Lutz,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,121,1.0,2025
-HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Dorian Paki,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,122,1.0,2025
-HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Tommy DiRienzo,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,124,4.0,2025
-HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Matthew McDonough,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,126,4.0,2025
-HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Nate Edwards,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,128,4.0,2025
-HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Mason Blankenberg,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,130,4.0,2025
-HOB,PSC,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,131,1.0,2025
-HOB,PSC,PennState-Behrend,2pMa,To Basket,Nate Edwards,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,132,1.0,2025
-HOB,PSC,Hobart College Statesmen,3pMa,No Dribble Jumper,Gabriel Bergeron,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,133,4.0,2025
-HOB,PSC,PennState-Behrend,2pmi,To Basket,Tommy DiRienzo,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,134,1.0,2025
-HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,135,1.0,2025
-HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,137,1.0,2025
-HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Nate Edwards,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,138,4.0,2025
-HOB,PSC,Hobart College Statesmen,3pmi,No Dribble Jumper,Gabriel Bergeron,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,139,4.0,2025
-HOB,PSC,PennState-Behrend,Foul,To Basket,Dolan Waldo,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,141,1.0,2025
-HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Dorian Paki,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,144,1.0,2025
-HOB,PSC,PennState-Behrend,3pMa,No Dribble Jumper,Isaac DeGregorio,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,147,4.0,2025
-HOB,PSC,Hobart College Statesmen,3pmi,No Dribble Jumper,Dorian Paki,Post,Left,Left Shoulder,Gabriel Bergeron,Spot Ups,N/A,Shot,Liberty League,SUNYAC,148,4.0,2025
-HOB,PSC,PennState-Behrend,3pMa,No Dribble Jumper,Matthew McDonough,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,149,4.0,2025
-HOB,PSC,Hobart College Statesmen,3pmi,No Dribble Jumper,Monty Nedd,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,151,4.0,2025
-HOB,PSC,PennState-Behrend,Turnover,N/A,Mason Blankenberg,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,152,1.0,2025
-HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,153,1.0,2025
-HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,154,1.0,2025
-HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Mason Blankenberg,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,155,4.0,2025
-HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,Post,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,156,1.0,2025
-HOB,PSC,PennState-Behrend,3pMa,Dribble Jumper,Isaac DeGregorio,PNR,Right,Off,Matthew McDonough,Spot Ups,Left,Drive,Liberty League,SUNYAC,157,4.0,2025
-HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Monty Nedd,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,158,1.0,2025
-HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Tommy DiRienzo,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,159,4.0,2025
-HOB,PSC,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,161,4.0,2025
-HOB,PSC,PennState-Behrend,Turnover,To Basket,Mason Blankenberg,PNR,High,Off,Sam Petrarca,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,162,1.0,2025
-HOB,PSC,Hobart College Statesmen,Turnover,To Basket,Allen Mordi,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,163,1.0,2025
-HOB,PSC,PennState-Behrend,2pMa,To Basket,Mason Blankenberg,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,164,1.0,2025
-HOB,PSC,Hobart College Statesmen,3pmi,No Dribble Jumper,Allen Mordi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,165,4.0,2025
-HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,166,1.0,2025
-HOB,PSC,PennState-Behrend,Foul,To Basket,Sam Petrarca,Post,Left,Left Shoulder,Tommy DiRienzo,Spot Ups,Left,Drive,Liberty League,SUNYAC,167,1.0,2025
-HOB,PSC,Hobart College Statesmen,3pmi,Dribble Jumper,Alex Moesch,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,170,4.0,2025
-HOB,PSC,Hobart College Statesmen,2pMa,N/A,Carter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,171,2.0,2025
-HOB,PSC,PennState-Behrend,2pmi,To Basket,Mason Blankenberg,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,172,1.0,2025
-HOB,PSC,PennState-Behrend,2pmi,To Basket,Dolan Waldo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,173,1.0,2025
-HOB,PSC,PennState-Behrend,Foul,N/A,Matthew McDonough,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,174,1.0,2025
-HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,176,1.0,2025
-HOB,PSC,Hobart College Statesmen,3pmi,To Basket,Allen Mordi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,177,4.0,2025
-HOB,PSC,,Foul,N/A,Aidan Rodgers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,183,1.0,2025
-HOB,PSC,PennState-Behrend,3pMa,No Dribble Jumper,Mason Blankenberg,PNR,Right,Off,Dolan Waldo,P&R Roll Man,N/A,Pop,Liberty League,SUNYAC,186,4.0,2025
-HOB,PSC,,Foul,N/A,Alex Moesch,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,187,1.0,2025
-HOB,PSC,PennState-Behrend,2pMa,To Basket,Mason Blankenberg,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,189,1.0,2025
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Dolan Waldo,Post,Right,Face Up,Matthew McDonough,Spot Ups,N/A,Shot,Liberty League,SUNYAC,1,4.0,2024-11-23
+1,HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,2,1.0,2024-11-23
+3,HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,4,1.0,2024-11-23
+4,HOB,PSC,PennState-Behrend,2pmi,No Dribble Jumper,Mason Blankenberg,PNR,Right,Off,Dolan Waldo,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,5,2.0,2024-11-23
+5,HOB,PSC,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,Off Screens,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,6,4.0,2024-11-23
+6,HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Matthew McDonough,PNR,High,Off,Mason Blankenberg,Spot Ups,N/A,Shot,Liberty League,SUNYAC,7,4.0,2024-11-23
+7,HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Allen Mordi,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,8,1.0,2024-11-23
+8,HOB,PSC,PennState-Behrend,2pMa,Dribble Jumper,Dolan Waldo,Post,Left,Left Shoulder,Mason Blankenberg,Spot Ups,Left,Drive,Liberty League,SUNYAC,9,2.0,2024-11-23
+9,HOB,PSC,Hobart College Statesmen,Foul,To Basket,Carter Meshanic,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,10,1.0,2024-11-23
+13,HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,14,1.0,2024-11-23
+14,HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,15,1.0,2024-11-23
+15,HOB,PSC,PennState-Behrend,2pmi,To Basket,Tommy DiRienzo,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,16,1.0,2024-11-23
+16,HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,17,1.0,2024-11-23
+17,HOB,PSC,PennState-Behrend,Turnover,N/A,Tommy DiRienzo,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,18,1.0,2024-11-23
+18,HOB,PSC,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,19,1.0,2024-11-23
+19,HOB,PSC,PennState-Behrend,Turnover,To Basket,Tommy DiRienzo,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,20,1.0,2024-11-23
+21,HOB,PSC,PennState-Behrend,2pmi,To Basket,Tommy DiRienzo,PNR,Right,Off,Matthew McDonough,Spot Ups,Left,Drive,Liberty League,SUNYAC,22,1.0,2024-11-23
+22,HOB,PSC,Hobart College Statesmen,Turnover,N/A,Carter Meshanic,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,23,1.0,2024-11-23
+23,HOB,PSC,PennState-Behrend,2pMa,To Basket,Nate Edwards,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,24,1.0,2024-11-23
+24,HOB,PSC,Hobart College Statesmen,2pmi,No Dribble Jumper,Alex Moesch,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,25,2.0,2024-11-23
+25,HOB,PSC,PennState-Behrend,2pMa,To Basket,Sam Petrarca,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,26,1.0,2024-11-23
+26,HOB,PSC,Hobart College Statesmen,Foul,To Basket,Dorian Paki,Post,Right,N/A,Monty Nedd,Spot Ups,Right,Drive,Liberty League,SUNYAC,27,1.0,2024-11-23
+30,HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Michael Sopko,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,31,4.0,2024-11-23
+31,HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Dorian Paki,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,32,1.0,2024-11-23
+32,HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Nate Edwards,PNR,High,Off,Isaac DeGregorio,Spot Ups,N/A,Shot,Liberty League,SUNYAC,33,4.0,2024-11-23
+34,HOB,PSC,PennState-Behrend,2pMa,To Basket,Nate Edwards,PNR,Right,Off,Sam Petrarca,Spot Ups,Left,Drive,Liberty League,SUNYAC,35,1.0,2024-11-23
+35,HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,36,1.0,2024-11-23
+36,HOB,PSC,PennState-Behrend,Turnover,N/A,Sam Petrarca,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,37,1.0,2024-11-23
+37,HOB,PSC,Hobart College Statesmen,3pmi,No Dribble Jumper,Monty Nedd,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,38,4.0,2024-11-23
+39,HOB,PSC,Hobart College Statesmen,Foul,To Basket,Monty Nedd,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,40,1.0,2024-11-23
+42,HOB,PSC,PennState-Behrend,2pmi,To Basket,Dolan Waldo,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,43,1.0,2024-11-23
+43,HOB,PSC,PennState-Behrend,2pMa,To Basket,Dolan Waldo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,44,1.0,2024-11-23
+44,HOB,PSC,Hobart College Statesmen,2pmi,Dribble Jumper,Justin Price,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,45,2.0,2024-11-23
+45,HOB,PSC,PennState-Behrend,2pmi,Dribble Jumper,Mason Blankenberg,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,46,2.0,2024-11-23
+46,HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,47,1.0,2024-11-23
+47,HOB,PSC,Hobart College Statesmen,Foul,To Basket,Niko Lutz,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,48,1.0,2024-11-23
+50,HOB,PSC,PennState-Behrend,3pMa,No Dribble Jumper,Tommy DiRienzo,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,51,4.0,2024-11-23
+51,HOB,PSC,Hobart College Statesmen,2pmi,Drop Step,Carter Meshanic,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,52,1.0,2024-11-23
+52,HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Tommy DiRienzo,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,53,4.0,2024-11-23
+54,HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Tommy DiRienzo,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,55,4.0,2024-11-23
+55,HOB,PSC,Hobart College Statesmen,Turnover,N/A,Monty Nedd,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,56,1.0,2024-11-23
+56,HOB,PSC,PennState-Behrend,Foul,To Basket,Matthew McDonough,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,57,1.0,2024-11-23
+59,HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Niko Lutz,Post,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,60,1.0,2024-11-23
+60,HOB,PSC,PennState-Behrend,Turnover,N/A,Tommy DiRienzo,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,61,1.0,2024-11-23
+61,HOB,PSC,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,62,1.0,2024-11-23
+62,HOB,PSC,PennState-Behrend,Turnover,N/A,Tommy DiRienzo,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,63,1.0,2024-11-23
+63,HOB,PSC,Hobart College Statesmen,2pMa,Drop Step,Niko Lutz,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,64,1.0,2024-11-23
+64,HOB,PSC,PennState-Behrend,2pMa,To Basket,Nate Edwards,PNR,Right,Off,Matthew McDonough,Cuts,N/A,Flash,Liberty League,SUNYAC,65,1.0,2024-11-23
+65,HOB,PSC,Hobart College Statesmen,3pMa,No Dribble Jumper,Aidan Rodgers,PNR,Right,Off,Gabriel Bergeron,Spot Ups,N/A,Shot,Liberty League,SUNYAC,66,4.0,2024-11-23
+66,HOB,PSC,PennState-Behrend,2pmi,To Basket,Tommy DiRienzo,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,67,1.0,2024-11-23
+67,HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Matthew McDonough,PNR,Left,Off,Nate Edwards,Spot Ups,N/A,Shot,Liberty League,SUNYAC,68,4.0,2024-11-23
+68,HOB,PSC,Hobart College Statesmen,3pmi,No Dribble Jumper,Niko Lutz,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,69,4.0,2024-11-23
+69,HOB,PSC,PennState-Behrend,3pMa,No Dribble Jumper,Matthew McDonough,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,70,4.0,2024-11-23
+71,HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,72,1.0,2024-11-23
+72,HOB,PSC,PennState-Behrend,2pmi,To Basket,Matthew McDonough,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,73,1.0,2024-11-23
+73,HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Hunter Meshanic,Post,Right,N/A,Alex Moesch,Spot Ups,Left,Drive,Liberty League,SUNYAC,74,1.0,2024-11-23
+74,HOB,PSC,PennState-Behrend,Turnover,N/A,Sam Petrarca,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,75,1.0,2024-11-23
+75,HOB,PSC,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,76,4.0,2024-11-23
+76,HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Niko Lutz,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,77,1.0,2024-11-23
+77,HOB,PSC,PennState-Behrend,Turnover,N/A,Nate Edwards,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,78,1.0,2024-11-23
+78,HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,79,1.0,2024-11-23
+79,HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Matthew McDonough,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,80,4.0,2024-11-23
+80,HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Gabriel Bergeron,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,81,1.0,2024-11-23
+81,HOB,PSC,PennState-Behrend,3pMa,No Dribble Jumper,Jake Ziegler,Iso,Right,N/A,Nate Edwards,Spot Ups,N/A,Shot,Liberty League,SUNYAC,82,4.0,2024-11-23
+82,HOB,PSC,Hobart College Statesmen,2pmi,Dribble Jumper,Aidan Rodgers,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,83,2.0,2024-11-23
+83,HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Jake Ziegler,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,84,4.0,2024-11-23
+85,HOB,PSC,Hobart College Statesmen,Turnover,To Basket,Alex Moesch,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,86,1.0,2024-11-23
+86,HOB,PSC,PennState-Behrend,2pmi,To Basket,Tommy DiRienzo,PNR,Right,Off,Sam Petrarca,Spot Ups,Left,Drive,Liberty League,SUNYAC,87,1.0,2024-11-23
+87,HOB,PSC,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,88,1.0,2024-11-23
+88,HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Matthew McDonough,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,89,4.0,2024-11-23
+89,HOB,PSC,Hobart College Statesmen,2pmi,No Dribble Jumper,Carter Meshanic,Post,Right,Right Shoulder,Alex Moesch,Spot Ups,N/A,Shot,Liberty League,SUNYAC,90,3.0,2024-11-23
+90,HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Tommy DiRienzo,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,91,4.0,2024-11-23
+91,HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Post,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,92,1.0,2024-11-23
+92,HOB,PSC,PennState-Behrend,2pmi,Dribble Jumper,Matthew McDonough,PNR,Right,Off,Mason Blankenberg,Spot Ups,Left,Drive,Liberty League,SUNYAC,93,2.0,2024-11-23
+93,HOB,PSC,Hobart College Statesmen,3pMa,No Dribble Jumper,Allen Mordi,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,94,4.0,2024-11-23
+94,HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Dolan Waldo,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,95,4.0,2024-11-23
+96,HOB,PSC,Hobart College Statesmen,2pmi,Dribble Jumper,Alex Moesch,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,97,2.0,2024-11-23
+98,HOB,PSC,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,99,4.0,2024-11-23
+99,HOB,PSC,PennState-Behrend,2pMa,To Basket,Mason Blankenberg,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,100,1.0,2024-11-23
+100,HOB,PSC,Hobart College Statesmen,3pmi,Dribble Jumper,Aidan Rodgers,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,101,4.0,2024-11-23
+101,HOB,PSC,PennState-Behrend,Turnover,N/A,Matthew McDonough,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,102,1.0,2024-11-23
+102,HOB,PSC,Hobart College Statesmen,Foul,To Basket,Hunter Meshanic,Post,Right,N/A,Carter Meshanic,Cuts,N/A,Basket,Liberty League,SUNYAC,103,1.0,2024-11-23
+105,HOB,PSC,PennState-Behrend,3pMa,No Dribble Jumper,Michael Sopko,PNR,Left,Off,Tommy DiRienzo,Spot Ups,N/A,Shot,Liberty League,SUNYAC,106,4.0,2024-11-23
+106,HOB,PSC,Hobart College Statesmen,3pMa,No Dribble Jumper,Allen Mordi,PNR,Left,Off,Alex Moesch,Spot Ups,N/A,Shot,Liberty League,SUNYAC,107,4.0,2024-11-23
+108,HOB,PSC,PennState-Behrend,Turnover,To Basket,Sam Petrarca,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,109,1.0,2024-11-23
+109,HOB,PSC,Hobart College Statesmen,Foul,To Basket,Carter Meshanic,Post,Right,Right Shoulder,Aidan Rodgers,Spot Ups,Right,Drive,Liberty League,SUNYAC,110,1.0,2024-11-23
+112,HOB,PSC,PennState-Behrend,3pMa,No Dribble Jumper,Mason Blankenberg,PNR,High,Off,Matthew McDonough,Spot Ups,N/A,Shot,Liberty League,SUNYAC,113,4.0,2024-11-23
+113,HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,114,1.0,2024-11-23
+114,HOB,PSC,PennState-Behrend,And1,To Basket,Tommy DiRienzo,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,115,1.0,2024-11-23
+116,HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,117,1.0,2024-11-23
+117,HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Hunter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,118,1.0,2024-11-23
+119,HOB,PSC,PennState-Behrend,2pmi,To Basket,Mason Blankenberg,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,120,1.0,2024-11-23
+120,HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Niko Lutz,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,121,1.0,2024-11-23
+121,HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Dorian Paki,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,122,1.0,2024-11-23
+123,HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Tommy DiRienzo,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,124,4.0,2024-11-23
+125,HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Matthew McDonough,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,126,4.0,2024-11-23
+127,HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Nate Edwards,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,128,4.0,2024-11-23
+129,HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Mason Blankenberg,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,130,4.0,2024-11-23
+130,HOB,PSC,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,131,1.0,2024-11-23
+131,HOB,PSC,PennState-Behrend,2pMa,To Basket,Nate Edwards,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,132,1.0,2024-11-23
+132,HOB,PSC,Hobart College Statesmen,3pMa,No Dribble Jumper,Gabriel Bergeron,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,133,4.0,2024-11-23
+133,HOB,PSC,PennState-Behrend,2pmi,To Basket,Tommy DiRienzo,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,134,1.0,2024-11-23
+134,HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,135,1.0,2024-11-23
+136,HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,137,1.0,2024-11-23
+137,HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Nate Edwards,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,138,4.0,2024-11-23
+138,HOB,PSC,Hobart College Statesmen,3pmi,No Dribble Jumper,Gabriel Bergeron,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,139,4.0,2024-11-23
+140,HOB,PSC,PennState-Behrend,Foul,To Basket,Dolan Waldo,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,141,1.0,2024-11-23
+143,HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Dorian Paki,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,144,1.0,2024-11-23
+146,HOB,PSC,PennState-Behrend,3pMa,No Dribble Jumper,Isaac DeGregorio,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,147,4.0,2024-11-23
+147,HOB,PSC,Hobart College Statesmen,3pmi,No Dribble Jumper,Dorian Paki,Post,Left,Left Shoulder,Gabriel Bergeron,Spot Ups,N/A,Shot,Liberty League,SUNYAC,148,4.0,2024-11-23
+148,HOB,PSC,PennState-Behrend,3pMa,No Dribble Jumper,Matthew McDonough,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,149,4.0,2024-11-23
+150,HOB,PSC,Hobart College Statesmen,3pmi,No Dribble Jumper,Monty Nedd,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,151,4.0,2024-11-23
+151,HOB,PSC,PennState-Behrend,Turnover,N/A,Mason Blankenberg,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,152,1.0,2024-11-23
+152,HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,153,1.0,2024-11-23
+153,HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,154,1.0,2024-11-23
+154,HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Mason Blankenberg,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,155,4.0,2024-11-23
+155,HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,Post,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,156,1.0,2024-11-23
+156,HOB,PSC,PennState-Behrend,3pMa,Dribble Jumper,Isaac DeGregorio,PNR,Right,Off,Matthew McDonough,Spot Ups,Left,Drive,Liberty League,SUNYAC,157,4.0,2024-11-23
+157,HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Monty Nedd,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,158,1.0,2024-11-23
+158,HOB,PSC,PennState-Behrend,3pmi,No Dribble Jumper,Tommy DiRienzo,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,159,4.0,2024-11-23
+160,HOB,PSC,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,161,4.0,2024-11-23
+161,HOB,PSC,PennState-Behrend,Turnover,To Basket,Mason Blankenberg,PNR,High,Off,Sam Petrarca,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,162,1.0,2024-11-23
+162,HOB,PSC,Hobart College Statesmen,Turnover,To Basket,Allen Mordi,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,163,1.0,2024-11-23
+163,HOB,PSC,PennState-Behrend,2pMa,To Basket,Mason Blankenberg,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,164,1.0,2024-11-23
+164,HOB,PSC,Hobart College Statesmen,3pmi,No Dribble Jumper,Allen Mordi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,165,4.0,2024-11-23
+165,HOB,PSC,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,166,1.0,2024-11-23
+166,HOB,PSC,PennState-Behrend,Foul,To Basket,Sam Petrarca,Post,Left,Left Shoulder,Tommy DiRienzo,Spot Ups,Left,Drive,Liberty League,SUNYAC,167,1.0,2024-11-23
+169,HOB,PSC,Hobart College Statesmen,3pmi,Dribble Jumper,Alex Moesch,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,170,4.0,2024-11-23
+170,HOB,PSC,Hobart College Statesmen,2pMa,N/A,Carter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,171,2.0,2024-11-23
+171,HOB,PSC,PennState-Behrend,2pmi,To Basket,Mason Blankenberg,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,172,1.0,2024-11-23
+172,HOB,PSC,PennState-Behrend,2pmi,To Basket,Dolan Waldo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,173,1.0,2024-11-23
+173,HOB,PSC,PennState-Behrend,Foul,N/A,Matthew McDonough,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,174,1.0,2024-11-23
+175,HOB,PSC,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,176,1.0,2024-11-23
+176,HOB,PSC,Hobart College Statesmen,3pmi,To Basket,Allen Mordi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,177,4.0,2024-11-23
+182,HOB,PSC,,Foul,N/A,Aidan Rodgers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,183,1.0,2024-11-23
+185,HOB,PSC,PennState-Behrend,3pMa,No Dribble Jumper,Mason Blankenberg,PNR,Right,Off,Dolan Waldo,P&R Roll Man,N/A,Pop,Liberty League,SUNYAC,186,4.0,2024-11-23
+186,HOB,PSC,,Foul,N/A,Alex Moesch,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,187,1.0,2024-11-23
+188,HOB,PSC,PennState-Behrend,2pMa,To Basket,Mason Blankenberg,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,189,1.0,2024-11-23

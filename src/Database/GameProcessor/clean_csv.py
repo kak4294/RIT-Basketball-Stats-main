@@ -43,7 +43,7 @@ def process_plays(csv_df: pd.DataFrame):
     find_players(filtered_df, final_df)
     find_playnumber(filtered_df, final_df)
     find_levelshot(filtered_df, final_df)
-    find_year(filtered_df, final_df)
+    find_date(filtered_df, final_df)
 
     
     final_df.fillna({'PrimaryPlayType':'N/A'}, inplace=True)
@@ -55,20 +55,8 @@ def process_plays(csv_df: pd.DataFrame):
 
     final_df.replace('None', 'N/A', inplace=True)
 
-    
-    # print(final_df.isnull().sum())
-    
-    condition1 = final_df['Outcome'].isnull()
-    condition2 = final_df['PrimaryPlayType'].isnull()
-    
-    conditions = condition1 | condition2
-
-    filtered_rows = final_df.loc[conditions]
-    
-    # print(filtered_rows)
-    
-    # print('\n')
-    
+    final_df.reset_index(inplace=True)
+        
     return final_df
 
 
@@ -112,23 +100,17 @@ def finds_opponent_site_and_conference(df: pd.DataFrame, final_df: pd.DataFrame)
 def find_offensive_team(df: pd.DataFrame, final_df: pd.DataFrame):
     final_df['OffensivePossession'] = df['Team']
 
-def find_year(df: pd.DataFrame, final_df: pd.DataFrame):
-    
+def find_date(df: pd.DataFrame, final_df: pd.DataFrame):
     dates = []
     
     for index, row in df.iterrows():
         date_list = row['Date'].split('/')
         
-        date = None
-        
-        if int(date_list[0]) > 6:
-            date = int(date_list[2]) + 1
-        else:
-            date = int(date_list[2])
+        date = date_list[2] + '-' + date_list[0] + '-' + date_list[1]
             
         dates.append(date)
             
-    final_df['Year'] = dates
+    final_df['Date'] = dates
         
 def find_playoutcomes(df: pd.DataFrame, final_df: pd.DataFrame):
     # Maps The result column values to their new outcome values
@@ -502,10 +484,9 @@ def run_clean_csv(csv_file):
     raw_file_path = os.path.join('/Users/kylekrebs/Documents/RIT-Basketball-Stats-main/data/2024_25/raw/unsaved_games', csv_file)
     
     try:
-        # Try reading the CSV file with utf-8 encoding, using errors='replace' to handle invalid characters
         raw_df = pd.read_csv(raw_file_path, index_col=False, encoding='utf-8')
+        
     except UnicodeDecodeError as e:
-        # If utf-8 fails, try ISO-8859-1 or latin1 encoding
         print(f"Error reading {csv_file} with UTF-8. Trying ISO-8859-1 encoding.")
         try:
             raw_df = pd.read_csv(raw_file_path, index_col=False, encoding='ISO-8859-1', errors='replace')
@@ -513,28 +494,24 @@ def run_clean_csv(csv_file):
             print(f"Failed to read the file {csv_file} with ISO-8859-1 encoding. Error: {ex}")
             return
 
-    # If file is successfully read, continue processing
     try:
-        # Process the dataframe (e.g., clean or transform the data)
         final_df = process_plays(raw_df)
     except Exception as e:
         print(f"Error in processing plays for {csv_file}: {e}")
         return
-    
+        
     # Aggregates all team data together from one specific game and puts into csv file
-    add_game(raw_df, final_df)
+    game_df, play_not_counted = add_game(raw_df, final_df)
     
-    # Creates a new file with clean play data into seperate folder
-    file_name = 'cleaned_' + csv_file
-    cleaned_file_path = os.path.join('/Users/kylekrebs/Documents/RIT-Basketball-Stats-main/data/2024_25/cleaned/cleaned_game_csv/game_csv', file_name)
-    final_df.to_csv(cleaned_file_path, encoding='utf-8', index=False)
     
-    # Transfers each play into actual database
-    transfer_plays_to_db(cleaned_file_path)
-    
-    # Moves files to a saved location once they are in the database
-    source = os.path.join("/Users/kylekrebs/Documents/RIT-Basketball-Stats-main/data/2024_25/raw/unsaved_games", csv_file)
-    destination = os.path.join("/Users/kylekrebs/Documents/RIT-Basketball-Stats-main/data/2024_25/raw/saved_games", csv_file)
-    shutil.move(source, destination)
+    unique_teams = final_df['OffensivePossession'].unique().tolist()
+    if len(unique_teams) < 2:
+        print("Error: Less than two unique teams found in 'OffensivePossession'.")
+        return None
+    team1 = unique_teams[0]
+    team2 = unique_teams[1]
+        
+    return  final_df, team1, team2, final_df.at[0, 'Date'], play_not_counted, \
+            game_df.at[0, 'T1Pts'], game_df.at[0, 'T2Pts'], game_df
 
      

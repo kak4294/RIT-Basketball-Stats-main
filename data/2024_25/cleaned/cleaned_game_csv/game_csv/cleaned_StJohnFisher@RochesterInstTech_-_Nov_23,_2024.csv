@@ -1,168 +1,168 @@
-Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
-RIT,SJC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,Empire 8,1,4.0,2025
-RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Giovanni Schillaci,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,2,4.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Kenny Wilburn,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,3,2.0,2025
-RIT,SJC,St. John Fisher Cardinals,Turnover,N/A,Eric Kegler,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,4,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,5,4.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Connor Williams,Post,Left,Left Shoulder,Eric Kegler,Cuts,N/A,Basket,Liberty League,Empire 8,6,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,PNR,High,Off,Nolan Smih,Spot Ups,Right,Drive,Liberty League,Empire 8,7,2.0,2025
-RIT,SJC,St. John Fisher Cardinals,Turnover,N/A,josh Lopez,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,8,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Empire 8,9,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,10,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Maxwell Schneider,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Empire 8,11,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Matt Caggiano,Iso,Right,N/A,Kenny Wilburn,Spot Ups,Left,Drive,Liberty League,Empire 8,12,2.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Maxwell Schneider,PNR,Left,Off,Maximus Michalski,P&R Roll Man,N/A,Roll,Liberty League,Empire 8,13,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Brock Bowen,Spot Ups,N/A,Shot,Liberty League,Empire 8,14,4.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,15,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Kenny Wilburn,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Empire 8,16,4.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,Dribble Jumper,josh Lopez,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Empire 8,17,3.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,18,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Maximus Michalski,Post,Right,Face Up,josh Lopez,Spot Ups,Right,Drive,Liberty League,Empire 8,19,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,Foul,To Basket,Matt Caggiano,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,20,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,Dribble Jumper,Maxwell Schneider,PNR,High,Off,Giovanni Schillaci,Spot Ups,Right,Drive,Liberty League,Empire 8,24,2.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,25,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,And1,Dribble Jumper,Eric Kegler,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,26,2.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Post,Middle,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,31,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Andrew Violante,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,32,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Parker Rey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,33,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,Empire 8,34,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Parker Rey,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,35,4.0,2025
-RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Maxwell Schneider,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,37,4.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Luke Granto,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,38,4.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,Dribble Jumper,Andrew Violante,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,39,3.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Parker Rey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,40,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,41,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Maxwell Schneider,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,44,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Luke Granto,PNR,Left,Off,Josiah Turner,P&R Roll Man,N/A,Slips,Liberty League,Empire 8,45,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Eric Kegler,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Empire 8,46,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Empire 8,47,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pMa,Dribble Jumper,Eric Kegler,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,50,3.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,51,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,And1,To Basket,Parker Rey,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Empire 8,54,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Luke Granto,PNR,High,Off,Kenny Wilburn,P&R Roll Man,N/A,Roll,Liberty League,Empire 8,56,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,57,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,josh Lopez,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Empire 8,58,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Parker Rey,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,59,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Empire 8,60,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,Foul,To Basket,Parker Rey,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,61,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Mark Osime,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Empire 8,64,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,Turnover,N/A,Andrew Violante,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Empire 8,65,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Jackson Otis,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Empire 8,66,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,And1,To Basket,Kenny Wilburn,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,67,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Eric Kegler,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,69,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pMa,No Dribble Jumper,Kenny Wilburn,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,70,3.0,2025
-RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,josh Lopez,PNR,Right,Off,Jake Pangrazio,Spot Ups,N/A,Shot,Liberty League,Empire 8,71,4.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,72,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pMa,Dribble Jumper,josh Lopez,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,73,3.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,PNR,Left,Off,Zac Ditzel,Spot Ups,N/A,N/A,Liberty League,Empire 8,74,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,josh Lopez,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,75,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,PNR,Right,N/A,Kenny Wilburn,P&R Roll Man,N/A,Slips,Liberty League,Empire 8,76,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,Foul,To Basket,josh Lopez,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,77,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Zac Ditzel,Spot Ups,N/A,Shot,Liberty League,Empire 8,81,4.0,2025
-RIT,SJC,St. John Fisher Cardinals,Turnover,N/A,Maxwell Schneider,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,82,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,83,2.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,85,2.0,2025
-RIT,SJC,St. John Fisher Cardinals,Turnover,N/A,Jake Pangrazio,PNR,Left,Off,Parker Rey,Spot Ups,Right,Drive,Liberty League,Empire 8,86,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Nolan Smih,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Empire 8,87,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Maxwell Schneider,PNR,Left,Off,Maximus Michalski,P&R Roll Man,N/A,Slips,Liberty League,Empire 8,88,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Maximus Michalski,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,89,2.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,90,4.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,92,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Ephraim Chase,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,94,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,95,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Jonathan McCaffrey,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,96,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Kenny Wilburn,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,97,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,josh Lopez,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,98,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Matt Caggiano,PNR,High,Off,Brock Bowen,Spot Ups,Left,Drive,Liberty League,Empire 8,100,2.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Maximus Michalski,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Empire 8,102,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Nolan Smih,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Empire 8,103,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,Dribble Jumper,Eric Kegler,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Empire 8,104,2.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Empire 8,105,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,106,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Kenny Wilburn,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,107,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,108,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Empire 8,109,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,josh Lopez,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,110,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,High,Off,Brock Bowen,Spot Ups,Right,Drive,Liberty League,Empire 8,111,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,Foul,To Basket,Eric Kegler,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Empire 8,112,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pMa,Drop Step,Kenny Wilburn,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Empire 8,115,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,Turnover,N/A,Maxwell Schneider,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,116,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Nolan Smih,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,117,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,118,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,Turnover,To Basket,Nolan Smih,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Empire 8,120,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Empire 8,121,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Empire 8,122,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Eric Kegler,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,123,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,124,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pMa,Dribble Jumper,josh Lopez,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,125,3.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,127,2.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,129,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,josh Lopez,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,130,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,Turnover,Drop Step,Josiah Turner,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Empire 8,131,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,Dribble Jumper,Eric Kegler,PNR,Right,Off,Giovanni Schillaci,Spot Ups,Left,Drive,Liberty League,Empire 8,132,2.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Parker Rey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,133,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,134,4.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,Dribble Jumper,Eric Kegler,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,135,2.0,2025
-RIT,SJC,St. John Fisher Cardinals,And1,To Basket,Eric Kegler,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,136,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Empire 8,138,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Maxwell Schneider,Iso,Right,N/A,Eric Kegler,Spot Ups,Left,Drive,Liberty League,Empire 8,139,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Luke Granto,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,140,4.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,142,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Eric Kegler,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,145,4.0,2025
-RIT,SJC,St. John Fisher Cardinals,Foul,To Basket,Eric Kegler,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Empire 8,147,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,And1,To Basket,Chase Dickens,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,151,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Andrew Violante,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,153,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,154,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,3pmi,Dribble Jumper,josh Lopez,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,155,4.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,Liberty League,Empire 8,157,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Empire 8,159,4.0,2025
-RIT,SJC,St. John Fisher Cardinals,Foul,To Basket,Parker Rey,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,161,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,164,4.0,2025
-RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Andrew Violante,PNR,High,Off,Parker Rey,P&R Roll Man,N/A,Pop,Liberty League,Empire 8,165,4.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,166,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,167,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,3pmi,Dribble Jumper,Eric Kegler,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,168,4.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Louis Fay,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,169,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,PNR,High,Off,Josiah Turner,P&R Roll Man,N/A,Roll,Liberty League,Empire 8,170,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,172,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,Turnover,N/A,Eric Kegler,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,173,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,174,4.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,175,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Andrew Violante,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,176,4.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Chase Dickens,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,177,2.0,2025
-RIT,SJC,,Foul,N/A,Brock Bowen,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,178,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,N/A,josh Lopez,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Empire 8,180,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,Foul,N/A,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,181,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,PNR,Left,Off,Parker Rey,Cuts,N/A,Basket,Liberty League,Empire 8,184,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,185,4.0,2025
-RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Giovanni Schillaci,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,186,4.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,187,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Giovanni Schillaci,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Empire 8,188,4.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,PNR,Right,Off,Mark Osime,Spot Ups,N/A,Shot,Liberty League,Empire 8,189,4.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Eric Kegler,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Empire 8,190,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pmi,No Dribble Jumper,Mark Osime,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Empire 8,192,2.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Mark Osime,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,193,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,Turnover,To Basket,Eric Kegler,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Empire 8,194,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,195,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,And1,To Basket,Matt Caggiano,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,Liberty League,Empire 8,196,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,Foul,To Basket,Eric Kegler,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,198,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,PNR,High,Off,Kenny Wilburn,P&R Roll Man,N/A,Roll,Liberty League,Empire 8,202,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,Turnover,N/A,Maxwell Schneider,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,203,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,PNR,Left,Off,Mark Osime,Spot Ups,Left,Drive,Liberty League,Empire 8,204,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Louis Fay,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,205,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pMa,Dribble Jumper,Eric Kegler,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,207,2.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,Foul,N/A,Chase Dickens,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Empire 8,208,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Empire 8,211,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Louis Fay,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,212,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Empire 8,213,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,Foul,To Basket,josh Lopez,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,214,1.0,2025
-RIT,SJC,,Foul,N/A,Mark Osime,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,217,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Maxwell Schneider,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Empire 8,220,1.0,2025
-RIT,SJC,,Foul,N/A,Mark Osime,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,221,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,3pMa,Dribble Jumper,josh Lopez,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,224,4.0,2025
-RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,josh Lopez,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,225,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Nolan Smih,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,226,1.0,2025
-RIT,SJC,Rochester Institute of Technology Tigers,Foul,N/A,Mark Osime,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Empire 8,227,1.0,2025
-RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Maxwell Schneider,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,230,4.0,2025
-RIT,SJC,St. John Fisher Cardinals,3pmi,Dribble Jumper,Giovanni Schillaci,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,232,4.0,2025
-RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Giovanni Schillaci,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,234,4.0,2025
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,RIT,SJC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,Empire 8,1,4.0,2024-11-23
+1,RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Giovanni Schillaci,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,2,4.0,2024-11-23
+2,RIT,SJC,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Kenny Wilburn,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,3,2.0,2024-11-23
+3,RIT,SJC,St. John Fisher Cardinals,Turnover,N/A,Eric Kegler,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,4,1.0,2024-11-23
+4,RIT,SJC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,5,4.0,2024-11-23
+5,RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Connor Williams,Post,Left,Left Shoulder,Eric Kegler,Cuts,N/A,Basket,Liberty League,Empire 8,6,1.0,2024-11-23
+6,RIT,SJC,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,PNR,High,Off,Nolan Smih,Spot Ups,Right,Drive,Liberty League,Empire 8,7,2.0,2024-11-23
+7,RIT,SJC,St. John Fisher Cardinals,Turnover,N/A,josh Lopez,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,8,1.0,2024-11-23
+8,RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Empire 8,9,1.0,2024-11-23
+9,RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,10,1.0,2024-11-23
+10,RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Maxwell Schneider,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Empire 8,11,1.0,2024-11-23
+11,RIT,SJC,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Matt Caggiano,Iso,Right,N/A,Kenny Wilburn,Spot Ups,Left,Drive,Liberty League,Empire 8,12,2.0,2024-11-23
+12,RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Maxwell Schneider,PNR,Left,Off,Maximus Michalski,P&R Roll Man,N/A,Roll,Liberty League,Empire 8,13,1.0,2024-11-23
+13,RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Brock Bowen,Spot Ups,N/A,Shot,Liberty League,Empire 8,14,4.0,2024-11-23
+14,RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,15,1.0,2024-11-23
+15,RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Kenny Wilburn,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Empire 8,16,4.0,2024-11-23
+16,RIT,SJC,St. John Fisher Cardinals,2pmi,Dribble Jumper,josh Lopez,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Empire 8,17,3.0,2024-11-23
+17,RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,18,1.0,2024-11-23
+18,RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Maximus Michalski,Post,Right,Face Up,josh Lopez,Spot Ups,Right,Drive,Liberty League,Empire 8,19,1.0,2024-11-23
+19,RIT,SJC,Rochester Institute of Technology Tigers,Foul,To Basket,Matt Caggiano,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,20,1.0,2024-11-23
+23,RIT,SJC,St. John Fisher Cardinals,2pmi,Dribble Jumper,Maxwell Schneider,PNR,High,Off,Giovanni Schillaci,Spot Ups,Right,Drive,Liberty League,Empire 8,24,2.0,2024-11-23
+24,RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,25,1.0,2024-11-23
+25,RIT,SJC,St. John Fisher Cardinals,And1,Dribble Jumper,Eric Kegler,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,26,2.0,2024-11-23
+30,RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Post,Middle,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,31,1.0,2024-11-23
+31,RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Andrew Violante,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,32,1.0,2024-11-23
+32,RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Parker Rey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,33,1.0,2024-11-23
+33,RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,Empire 8,34,1.0,2024-11-23
+34,RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Parker Rey,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,35,4.0,2024-11-23
+36,RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Maxwell Schneider,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,37,4.0,2024-11-23
+37,RIT,SJC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Luke Granto,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,38,4.0,2024-11-23
+38,RIT,SJC,St. John Fisher Cardinals,2pmi,Dribble Jumper,Andrew Violante,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,39,3.0,2024-11-23
+39,RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Parker Rey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,40,1.0,2024-11-23
+40,RIT,SJC,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,41,1.0,2024-11-23
+43,RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Maxwell Schneider,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,44,1.0,2024-11-23
+44,RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Luke Granto,PNR,Left,Off,Josiah Turner,P&R Roll Man,N/A,Slips,Liberty League,Empire 8,45,1.0,2024-11-23
+45,RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Eric Kegler,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Empire 8,46,1.0,2024-11-23
+46,RIT,SJC,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Empire 8,47,1.0,2024-11-23
+49,RIT,SJC,St. John Fisher Cardinals,2pMa,Dribble Jumper,Eric Kegler,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,50,3.0,2024-11-23
+50,RIT,SJC,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,51,1.0,2024-11-23
+53,RIT,SJC,St. John Fisher Cardinals,And1,To Basket,Parker Rey,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Empire 8,54,1.0,2024-11-23
+55,RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Luke Granto,PNR,High,Off,Kenny Wilburn,P&R Roll Man,N/A,Roll,Liberty League,Empire 8,56,1.0,2024-11-23
+56,RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,57,1.0,2024-11-23
+57,RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,josh Lopez,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Empire 8,58,1.0,2024-11-23
+58,RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Parker Rey,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,59,1.0,2024-11-23
+59,RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Empire 8,60,1.0,2024-11-23
+60,RIT,SJC,St. John Fisher Cardinals,Foul,To Basket,Parker Rey,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,61,1.0,2024-11-23
+63,RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Mark Osime,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Empire 8,64,1.0,2024-11-23
+64,RIT,SJC,St. John Fisher Cardinals,Turnover,N/A,Andrew Violante,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Empire 8,65,1.0,2024-11-23
+65,RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Jackson Otis,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Empire 8,66,1.0,2024-11-23
+66,RIT,SJC,Rochester Institute of Technology Tigers,And1,To Basket,Kenny Wilburn,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,67,1.0,2024-11-23
+68,RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Eric Kegler,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,69,1.0,2024-11-23
+69,RIT,SJC,Rochester Institute of Technology Tigers,2pMa,No Dribble Jumper,Kenny Wilburn,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,70,3.0,2024-11-23
+70,RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,josh Lopez,PNR,Right,Off,Jake Pangrazio,Spot Ups,N/A,Shot,Liberty League,Empire 8,71,4.0,2024-11-23
+71,RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,72,1.0,2024-11-23
+72,RIT,SJC,St. John Fisher Cardinals,2pMa,Dribble Jumper,josh Lopez,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,73,3.0,2024-11-23
+73,RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,PNR,Left,Off,Zac Ditzel,Spot Ups,N/A,N/A,Liberty League,Empire 8,74,1.0,2024-11-23
+74,RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,josh Lopez,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,75,1.0,2024-11-23
+75,RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,PNR,Right,N/A,Kenny Wilburn,P&R Roll Man,N/A,Slips,Liberty League,Empire 8,76,1.0,2024-11-23
+76,RIT,SJC,St. John Fisher Cardinals,Foul,To Basket,josh Lopez,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,77,1.0,2024-11-23
+80,RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Zac Ditzel,Spot Ups,N/A,Shot,Liberty League,Empire 8,81,4.0,2024-11-23
+81,RIT,SJC,St. John Fisher Cardinals,Turnover,N/A,Maxwell Schneider,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,82,1.0,2024-11-23
+82,RIT,SJC,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,83,2.0,2024-11-23
+84,RIT,SJC,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,85,2.0,2024-11-23
+85,RIT,SJC,St. John Fisher Cardinals,Turnover,N/A,Jake Pangrazio,PNR,Left,Off,Parker Rey,Spot Ups,Right,Drive,Liberty League,Empire 8,86,1.0,2024-11-23
+86,RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Nolan Smih,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Empire 8,87,1.0,2024-11-23
+87,RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Maxwell Schneider,PNR,Left,Off,Maximus Michalski,P&R Roll Man,N/A,Slips,Liberty League,Empire 8,88,1.0,2024-11-23
+88,RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Maximus Michalski,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,89,2.0,2024-11-23
+89,RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,90,4.0,2024-11-23
+91,RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,92,1.0,2024-11-23
+93,RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Ephraim Chase,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,94,1.0,2024-11-23
+94,RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,95,1.0,2024-11-23
+95,RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Jonathan McCaffrey,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,96,1.0,2024-11-23
+96,RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Kenny Wilburn,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,97,1.0,2024-11-23
+97,RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,josh Lopez,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,98,1.0,2024-11-23
+99,RIT,SJC,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Matt Caggiano,PNR,High,Off,Brock Bowen,Spot Ups,Left,Drive,Liberty League,Empire 8,100,2.0,2024-11-23
+101,RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Maximus Michalski,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Empire 8,102,1.0,2024-11-23
+102,RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Nolan Smih,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Empire 8,103,1.0,2024-11-23
+103,RIT,SJC,St. John Fisher Cardinals,2pmi,Dribble Jumper,Eric Kegler,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Empire 8,104,2.0,2024-11-23
+104,RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Empire 8,105,1.0,2024-11-23
+105,RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,106,1.0,2024-11-23
+106,RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Kenny Wilburn,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,107,1.0,2024-11-23
+107,RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,108,1.0,2024-11-23
+108,RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Empire 8,109,1.0,2024-11-23
+109,RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,josh Lopez,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,110,1.0,2024-11-23
+110,RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,High,Off,Brock Bowen,Spot Ups,Right,Drive,Liberty League,Empire 8,111,1.0,2024-11-23
+111,RIT,SJC,St. John Fisher Cardinals,Foul,To Basket,Eric Kegler,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Empire 8,112,1.0,2024-11-23
+114,RIT,SJC,Rochester Institute of Technology Tigers,2pMa,Drop Step,Kenny Wilburn,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Empire 8,115,1.0,2024-11-23
+115,RIT,SJC,St. John Fisher Cardinals,Turnover,N/A,Maxwell Schneider,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,116,1.0,2024-11-23
+116,RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Nolan Smih,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,117,1.0,2024-11-23
+117,RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,118,1.0,2024-11-23
+119,RIT,SJC,Rochester Institute of Technology Tigers,Turnover,To Basket,Nolan Smih,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Empire 8,120,1.0,2024-11-23
+120,RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Empire 8,121,1.0,2024-11-23
+121,RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Empire 8,122,1.0,2024-11-23
+122,RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Eric Kegler,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,123,1.0,2024-11-23
+123,RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,124,1.0,2024-11-23
+124,RIT,SJC,St. John Fisher Cardinals,2pMa,Dribble Jumper,josh Lopez,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,125,3.0,2024-11-23
+126,RIT,SJC,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,127,2.0,2024-11-23
+128,RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,129,1.0,2024-11-23
+129,RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,josh Lopez,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,130,1.0,2024-11-23
+130,RIT,SJC,Rochester Institute of Technology Tigers,Turnover,Drop Step,Josiah Turner,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Empire 8,131,1.0,2024-11-23
+131,RIT,SJC,St. John Fisher Cardinals,2pmi,Dribble Jumper,Eric Kegler,PNR,Right,Off,Giovanni Schillaci,Spot Ups,Left,Drive,Liberty League,Empire 8,132,2.0,2024-11-23
+132,RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Parker Rey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,133,1.0,2024-11-23
+133,RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,134,4.0,2024-11-23
+134,RIT,SJC,St. John Fisher Cardinals,2pmi,Dribble Jumper,Eric Kegler,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,135,2.0,2024-11-23
+135,RIT,SJC,St. John Fisher Cardinals,And1,To Basket,Eric Kegler,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,136,1.0,2024-11-23
+137,RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Empire 8,138,1.0,2024-11-23
+138,RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Maxwell Schneider,Iso,Right,N/A,Eric Kegler,Spot Ups,Left,Drive,Liberty League,Empire 8,139,1.0,2024-11-23
+139,RIT,SJC,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Luke Granto,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,140,4.0,2024-11-23
+141,RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,142,1.0,2024-11-23
+144,RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Eric Kegler,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,145,4.0,2024-11-23
+146,RIT,SJC,St. John Fisher Cardinals,Foul,To Basket,Eric Kegler,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Empire 8,147,1.0,2024-11-23
+150,RIT,SJC,Rochester Institute of Technology Tigers,And1,To Basket,Chase Dickens,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,151,1.0,2024-11-23
+152,RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Andrew Violante,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,153,1.0,2024-11-23
+153,RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,154,1.0,2024-11-23
+154,RIT,SJC,St. John Fisher Cardinals,3pmi,Dribble Jumper,josh Lopez,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,155,4.0,2024-11-23
+156,RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,Liberty League,Empire 8,157,1.0,2024-11-23
+158,RIT,SJC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Empire 8,159,4.0,2024-11-23
+160,RIT,SJC,St. John Fisher Cardinals,Foul,To Basket,Parker Rey,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,161,1.0,2024-11-23
+163,RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,164,4.0,2024-11-23
+164,RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Andrew Violante,PNR,High,Off,Parker Rey,P&R Roll Man,N/A,Pop,Liberty League,Empire 8,165,4.0,2024-11-23
+165,RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,166,1.0,2024-11-23
+166,RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,167,1.0,2024-11-23
+167,RIT,SJC,St. John Fisher Cardinals,3pmi,Dribble Jumper,Eric Kegler,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,168,4.0,2024-11-23
+168,RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Louis Fay,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,169,1.0,2024-11-23
+169,RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,PNR,High,Off,Josiah Turner,P&R Roll Man,N/A,Roll,Liberty League,Empire 8,170,1.0,2024-11-23
+171,RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,172,1.0,2024-11-23
+172,RIT,SJC,St. John Fisher Cardinals,Turnover,N/A,Eric Kegler,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,173,1.0,2024-11-23
+173,RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,174,4.0,2024-11-23
+174,RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,175,1.0,2024-11-23
+175,RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Andrew Violante,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Empire 8,176,4.0,2024-11-23
+176,RIT,SJC,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Chase Dickens,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,177,2.0,2024-11-23
+177,RIT,SJC,,Foul,N/A,Brock Bowen,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,178,1.0,2024-11-23
+179,RIT,SJC,St. John Fisher Cardinals,2pmi,N/A,josh Lopez,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Empire 8,180,1.0,2024-11-23
+180,RIT,SJC,Rochester Institute of Technology Tigers,Foul,N/A,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,181,1.0,2024-11-23
+183,RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,PNR,Left,Off,Parker Rey,Cuts,N/A,Basket,Liberty League,Empire 8,184,1.0,2024-11-23
+184,RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,185,4.0,2024-11-23
+185,RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Giovanni Schillaci,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,186,4.0,2024-11-23
+186,RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,187,1.0,2024-11-23
+187,RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Giovanni Schillaci,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Empire 8,188,4.0,2024-11-23
+188,RIT,SJC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,PNR,Right,Off,Mark Osime,Spot Ups,N/A,Shot,Liberty League,Empire 8,189,4.0,2024-11-23
+189,RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Eric Kegler,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Empire 8,190,1.0,2024-11-23
+191,RIT,SJC,Rochester Institute of Technology Tigers,2pmi,No Dribble Jumper,Mark Osime,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Empire 8,192,2.0,2024-11-23
+192,RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Mark Osime,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,193,1.0,2024-11-23
+193,RIT,SJC,St. John Fisher Cardinals,Turnover,To Basket,Eric Kegler,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Empire 8,194,1.0,2024-11-23
+194,RIT,SJC,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,195,1.0,2024-11-23
+195,RIT,SJC,Rochester Institute of Technology Tigers,And1,To Basket,Matt Caggiano,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,Liberty League,Empire 8,196,1.0,2024-11-23
+197,RIT,SJC,St. John Fisher Cardinals,Foul,To Basket,Eric Kegler,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Empire 8,198,1.0,2024-11-23
+201,RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,PNR,High,Off,Kenny Wilburn,P&R Roll Man,N/A,Roll,Liberty League,Empire 8,202,1.0,2024-11-23
+202,RIT,SJC,St. John Fisher Cardinals,Turnover,N/A,Maxwell Schneider,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,203,1.0,2024-11-23
+203,RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,PNR,Left,Off,Mark Osime,Spot Ups,Left,Drive,Liberty League,Empire 8,204,1.0,2024-11-23
+204,RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Louis Fay,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,205,1.0,2024-11-23
+206,RIT,SJC,St. John Fisher Cardinals,2pMa,Dribble Jumper,Eric Kegler,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,207,2.0,2024-11-23
+207,RIT,SJC,Rochester Institute of Technology Tigers,Foul,N/A,Chase Dickens,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Empire 8,208,1.0,2024-11-23
+210,RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Empire 8,211,1.0,2024-11-23
+211,RIT,SJC,St. John Fisher Cardinals,2pmi,To Basket,Louis Fay,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,212,1.0,2024-11-23
+212,RIT,SJC,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Empire 8,213,1.0,2024-11-23
+213,RIT,SJC,St. John Fisher Cardinals,Foul,To Basket,josh Lopez,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Empire 8,214,1.0,2024-11-23
+216,RIT,SJC,,Foul,N/A,Mark Osime,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,217,1.0,2024-11-23
+219,RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,Maxwell Schneider,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Empire 8,220,1.0,2024-11-23
+220,RIT,SJC,,Foul,N/A,Mark Osime,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,221,1.0,2024-11-23
+223,RIT,SJC,St. John Fisher Cardinals,3pMa,Dribble Jumper,josh Lopez,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,224,4.0,2024-11-23
+224,RIT,SJC,St. John Fisher Cardinals,2pMa,To Basket,josh Lopez,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,225,1.0,2024-11-23
+225,RIT,SJC,Rochester Institute of Technology Tigers,Turnover,N/A,Nolan Smih,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Empire 8,226,1.0,2024-11-23
+226,RIT,SJC,Rochester Institute of Technology Tigers,Foul,N/A,Mark Osime,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Empire 8,227,1.0,2024-11-23
+229,RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Maxwell Schneider,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,230,4.0,2024-11-23
+231,RIT,SJC,St. John Fisher Cardinals,3pmi,Dribble Jumper,Giovanni Schillaci,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Empire 8,232,4.0,2024-11-23
+233,RIT,SJC,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Giovanni Schillaci,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Empire 8,234,4.0,2024-11-23

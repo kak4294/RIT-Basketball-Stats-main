@@ -1,154 +1,154 @@
-Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
-SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,4.0,2025
-SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Aiden Macaulay,PNR,Right,Off,Gavin Macaulay,Spot Ups,N/A,Shot,Liberty League,Liberty League,2,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,4.0,2025
-SLS,SKD,St. Lawrence Saints,2pmi,Dribble Jumper,Gavin Macaulay,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,2.0,2025
-SLS,SKD,St. Lawrence Saints,3pMa,No Dribble Jumper,Gavin Macaulay,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Joey Skoric,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,1.0,2025
-SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Gavin Macaulay,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,4.0,2025
-SLS,SKD,St. Lawrence Saints,2pMa,Dribble Jumper,Adam Dudzinski,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,3.0,2025
-SLS,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,1.0,2025
-SLS,SKD,St. Lawrence Saints,2pmi,To Basket,Andrew Cowan,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,4.0,2025
-SLS,SKD,St. Lawrence Saints,2pmi,N/A,Adam Dudzinski,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,15,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Aidan Roy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,4.0,2025
-SLS,SKD,St. Lawrence Saints,Foul,To Basket,Gavin Macaulay,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,21,4.0,2025
-SLS,SKD,St. Lawrence Saints,3pMa,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Joey Skoric,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,23,1.0,2025
-SLS,SKD,St. Lawrence Saints,2pmi,To Basket,Gavin Macaulay,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,1.0,2025
-SLS,SKD,St. Lawrence Saints,2pmi,To Basket,Chris Downs Jr.,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,25,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Hakeem Daphnis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,28,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Joey Skoric,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,1.0,2025
-SLS,SKD,St. Lawrence Saints,3pMa,No Dribble Jumper,Gavin Macaulay,PNR,Right,Off,Troy McPherson,Spot Ups,N/A,Shot,Liberty League,Liberty League,31,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Alexei Downie,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,1.0,2025
-SLS,SKD,St. Lawrence Saints,2pMa,No Dribble Jumper,Dan Anderson,Iso,Top,N/A,Chris Downs Jr.,Spot Ups,N/A,Shot,Liberty League,Liberty League,35,3.0,2025
-SLS,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Joey Skoric,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,36,1.0,2025
-SLS,SKD,St. Lawrence Saints,3pMa,No Dribble Jumper,Dan Anderson,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,37,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,4.0,2025
-SLS,SKD,St. Lawrence Saints,Foul,To Basket,Alexi Twahili,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,4.0,2025
-SLS,SKD,St. Lawrence Saints,3pmi,Dribble Jumper,Troy McPherson,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,44,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,45,1.0,2025
-SLS,SKD,St. Lawrence Saints,2pMa,To Basket,Troy McPherson,PNR,Left,Off,Andrew Cowan,Cuts,N/A,Basket,Liberty League,Liberty League,46,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Aidan Roy,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,47,3.0,2025
-SLS,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,1.0,2025
-SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Andrew Cowan,Post,Right,N/A,Alexi Twahili,Spot Ups,N/A,Shot,Liberty League,Liberty League,51,4.0,2025
-SLS,SKD,St. Lawrence Saints,Turnover,N/A,Troy McPherson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,1.0,2025
-SLS,SKD,St. Lawrence Saints,3pMa,No Dribble Jumper,Chris Downs Jr.,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,54,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,55,4.0,2025
-SLS,SKD,St. Lawrence Saints,3pmi,Dribble Jumper,Aiden Macaulay,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,57,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Jake Walsh,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,58,1.0,2025
-SLS,SKD,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,59,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,1.0,2025
-SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,61,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,1.0,2025
-SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,PNR,High,Off,Adam Dudzinski,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,63,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Joey Skoric,Transition,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,1.0,2025
-SLS,SKD,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,PNR,High,Off,Chris Downs Jr.,Cuts,N/A,Flash,Liberty League,Liberty League,65,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,4.0,2025
-SLS,SKD,St. Lawrence Saints,Turnover,To Basket,Patrick Mulholland,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,68,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,69,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,Foul,To Basket,Joey Skoric,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,70,1.0,2025
-SLS,SKD,St. Lawrence Saints,Turnover,To Basket,Aiden Macaulay,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Alexei Downie,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,74,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,77,4.0,2025
-SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,78,4.0,2025
-SLS,SKD,St. Lawrence Saints,2pmi,To Basket,Andrew Cowan,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,81,1.0,2025
-SLS,SKD,St. Lawrence Saints,2pMa,To Basket,Dan Anderson,PNR,Left,Off,Adam Dudzinski,P&R Roll Man,Left,Pop,Liberty League,Liberty League,82,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,4.0,2025
-SLS,SKD,St. Lawrence Saints,2pmi,To Basket,Chris Downs Jr.,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,84,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Charlie Fantom,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,86,4.0,2025
-SLS,SKD,St. Lawrence Saints,2pmi,Dribble Jumper,Troy McPherson,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,2.0,2025
-SLS,SKD,St. Lawrence Saints,2pMa,To Basket,Chris Downs Jr.,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,2pmi,No Dribble Jumper,Joey Skoric,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,3.0,2025
-SLS,SKD,St. Lawrence Saints,Foul,N/A,Gavin Macaulay,PNR,High,Off,Adam Dudzinski,Spot Ups,Right,Drive,Liberty League,Liberty League,90,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Hakeem Daphnis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,3.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,97,4.0,2025
-SLS,SKD,St. Lawrence Saints,2pmi,N/A,Andrew Cowan,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Joey Skoric,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,1.0,2025
-SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,4.0,2025
-SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Gavin Macaulay,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,102,4.0,2025
-SLS,SKD,St. Lawrence Saints,3pmi,Dribble Jumper,Adam Dudzinski,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Aidan Roy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,1.0,2025
-SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Aiden Macaulay,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,106,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Aidan Roy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,107,1.0,2025
-SLS,SKD,St. Lawrence Saints,3pMa,No Dribble Jumper,Andrew Cowan,Post,Middle,Left Shoulder,Adam Dudzinski,Spot Ups,N/A,Shot,Liberty League,Liberty League,109,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Joey Skoric,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,110,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Charlie Fantom,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,3.0,2025
-SLS,SKD,St. Lawrence Saints,And1,To Basket,Andrew Cowan,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,1.0,2025
-SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,116,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Jake Walsh,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,4.0,2025
-SLS,SKD,St. Lawrence Saints,2pmi,To Basket,Gavin Macaulay,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,4.0,2025
-SLS,SKD,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,121,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Jake Walsh,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,124,4.0,2025
-SLS,SKD,St. Lawrence Saints,Foul,To Basket,Dan Anderson,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,125,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Alexei Downie,Post,Left,N/A,Aidan Roy,Spot Ups,Right,Drive,Liberty League,Liberty League,128,1.0,2025
-SLS,SKD,St. Lawrence Saints,2pMa,Dribble Jumper,Gavin Macaulay,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,129,3.0,2025
-SLS,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Charlie Fantom,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,130,3.0,2025
-SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Jake Walsh,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,1.0,2025
-SLS,SKD,St. Lawrence Saints,2pmi,To Basket,Andrew Cowan,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,133,1.0,2025
-SLS,SKD,St. Lawrence Saints,Turnover,N/A,Dan Anderson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,135,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,136,1.0,2025
-SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,137,4.0,2025
-SLS,SKD,St. Lawrence Saints,3pMa,No Dribble Jumper,Gavin Macaulay,Post,Left,Left Shoulder,Troy McPherson,Spot Ups,N/A,Shot,Liberty League,Liberty League,139,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,Foul,To Basket,Alexei Downie,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,1.0,2025
-SLS,SKD,St. Lawrence Saints,Foul,Hook Shot,Andrew Cowan,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,144,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Alexei Downie,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,147,4.0,2025
-SLS,SKD,St. Lawrence Saints,3pMa,No Dribble Jumper,Brayden Shepardson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,148,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,Turnover,To Basket,Jack LaGarde,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,1.0,2025
-SLS,SKD,St. Lawrence Saints,Turnover,N/A,Alexi Twahili,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,150,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Fumani Sithole,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,152,4.0,2025
-SLS,SKD,St. Lawrence Saints,Turnover,N/A,Aiden Macaulay,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,153,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Charlie Fantom,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,154,1.0,2025
-SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Brayden Shepardson,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Fumani Sithole,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,156,4.0,2025
-SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Brayden Shepardson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,4.0,2025
-SLS,SKD,,Foul,N/A,Alexi Twahili,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,158,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Fumani Sithole,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,1.0,2025
-SLS,SKD,,Foul,N/A,Chris Downs Jr.,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,162,1.0,2025
-SLS,SKD,St. Lawrence Saints,2pMa,To Basket,Alexi Twahili,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,165,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,Foul,Hook Shot,Alexei Downie,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,1.0,2025
-SLS,SKD,St. Lawrence Saints,Turnover,N/A,Adam Dudzinski,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,169,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Prince Shyllon,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,170,1.0,2025
-SLS,SKD,St. Lawrence Saints,2pmi,To Basket,Gavin Macaulay,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,171,1.0,2025
-SLS,SKD,St. Lawrence Saints,2pMa,To Basket,Alexi Twahili,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,172,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,Foul,To Basket,Aidan Roy,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,175,1.0,2025
-SLS,SKD,St. Lawrence Saints,3pMa,No Dribble Jumper,Gavin Macaulay,PNR,High,Off,Dan Anderson,Spot Ups,N/A,Shot,Liberty League,Liberty League,182,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,2pmi,N/A,Alexei Downie,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,184,1.0,2025
-SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Aiden Macaulay,PNR,High,Off,Adam Dudzinski,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,185,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,186,1.0,2025
-SLS,SKD,St. Lawrence Saints,Foul,N/A,Aiden Macaulay,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,187,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,PNR,Left,Off,Charlie Fantom,Spot Ups,N/A,Shot,Liberty League,Liberty League,191,4.0,2025
-SLS,SKD,St. Lawrence Saints,Foul,To Basket,Aiden Macaulay,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,192,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,And1,To Basket,Charlie Fantom,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,195,1.0,2025
-SLS,SKD,St. Lawrence Saints,And1,Hook Shot,Jack Wirtanen,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,197,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,200,4.0,2025
-SLS,SKD,St. Lawrence Saints,Foul,N/A,Gavin Macaulay,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,201,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Charlie Fantom,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,204,2.0,2025
-SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Dillon McCafferty,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,206,1.0,2025
-SLS,SKD,St. Lawrence Saints,Turnover,N/A,Patrick Mulholland,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,207,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Charlie Fantom,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,208,1.0,2025
-SLS,SKD,St. Lawrence Saints,2pmi,Dribble Jumper,Chris Downs Jr.,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,209,2.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,210,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Harry Luo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,211,1.0,2025
-SLS,SKD,St. Lawrence Saints,2pmi,To Basket,Jack Wirtanen,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,212,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Charlie Fantom,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,213,1.0,2025
-SLS,SKD,St. Lawrence Saints,2pMa,To Basket,Patrick Mulholland,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,214,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Prince Shyllon,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,215,4.0,2025
-SLS,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Harry Luo,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,217,1.0,2025
-SLS,SKD,St. Lawrence Saints,Turnover,N/A,Jack Wirtanen,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,218,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Harry Luo,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,220,4.0,2025
-SLS,SKD,St. Lawrence Saints,Turnover,N/A,Caden Mirliani,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,223,1.0,2025
-SLS,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,224,1.0,2025
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,4.0,2024-12-07
+1,SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Aiden Macaulay,PNR,Right,Off,Gavin Macaulay,Spot Ups,N/A,Shot,Liberty League,Liberty League,2,4.0,2024-12-07
+2,SLS,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,4.0,2024-12-07
+3,SLS,SKD,St. Lawrence Saints,2pmi,Dribble Jumper,Gavin Macaulay,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,2.0,2024-12-07
+5,SLS,SKD,St. Lawrence Saints,3pMa,No Dribble Jumper,Gavin Macaulay,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,4.0,2024-12-07
+6,SLS,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Joey Skoric,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,1.0,2024-12-07
+7,SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Gavin Macaulay,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,4.0,2024-12-07
+8,SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,4.0,2024-12-07
+9,SLS,SKD,St. Lawrence Saints,2pMa,Dribble Jumper,Adam Dudzinski,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,3.0,2024-12-07
+10,SLS,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,1.0,2024-12-07
+11,SLS,SKD,St. Lawrence Saints,2pmi,To Basket,Andrew Cowan,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,1.0,2024-12-07
+12,SLS,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,4.0,2024-12-07
+14,SLS,SKD,St. Lawrence Saints,2pmi,N/A,Adam Dudzinski,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,15,1.0,2024-12-07
+15,SLS,SKD,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Aidan Roy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,4.0,2024-12-07
+17,SLS,SKD,St. Lawrence Saints,Foul,To Basket,Gavin Macaulay,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,1.0,2024-12-07
+20,SLS,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,21,4.0,2024-12-07
+21,SLS,SKD,St. Lawrence Saints,3pMa,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,4.0,2024-12-07
+22,SLS,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Joey Skoric,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,23,1.0,2024-12-07
+23,SLS,SKD,St. Lawrence Saints,2pmi,To Basket,Gavin Macaulay,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,1.0,2024-12-07
+24,SLS,SKD,St. Lawrence Saints,2pmi,To Basket,Chris Downs Jr.,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,25,1.0,2024-12-07
+25,SLS,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Hakeem Daphnis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,4.0,2024-12-07
+27,SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,28,4.0,2024-12-07
+29,SLS,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Joey Skoric,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,1.0,2024-12-07
+30,SLS,SKD,St. Lawrence Saints,3pMa,No Dribble Jumper,Gavin Macaulay,PNR,Right,Off,Troy McPherson,Spot Ups,N/A,Shot,Liberty League,Liberty League,31,4.0,2024-12-07
+31,SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,4.0,2024-12-07
+33,SLS,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Alexei Downie,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,1.0,2024-12-07
+34,SLS,SKD,St. Lawrence Saints,2pMa,No Dribble Jumper,Dan Anderson,Iso,Top,N/A,Chris Downs Jr.,Spot Ups,N/A,Shot,Liberty League,Liberty League,35,3.0,2024-12-07
+35,SLS,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Joey Skoric,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,36,1.0,2024-12-07
+36,SLS,SKD,St. Lawrence Saints,3pMa,No Dribble Jumper,Dan Anderson,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,37,4.0,2024-12-07
+38,SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,4.0,2024-12-07
+39,SLS,SKD,St. Lawrence Saints,Foul,To Basket,Alexi Twahili,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,1.0,2024-12-07
+42,SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,4.0,2024-12-07
+43,SLS,SKD,St. Lawrence Saints,3pmi,Dribble Jumper,Troy McPherson,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,44,4.0,2024-12-07
+44,SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,45,1.0,2024-12-07
+45,SLS,SKD,St. Lawrence Saints,2pMa,To Basket,Troy McPherson,PNR,Left,Off,Andrew Cowan,Cuts,N/A,Basket,Liberty League,Liberty League,46,1.0,2024-12-07
+46,SLS,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Aidan Roy,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,47,3.0,2024-12-07
+48,SLS,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,1.0,2024-12-07
+49,SLS,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,1.0,2024-12-07
+50,SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Andrew Cowan,Post,Right,N/A,Alexi Twahili,Spot Ups,N/A,Shot,Liberty League,Liberty League,51,4.0,2024-12-07
+51,SLS,SKD,St. Lawrence Saints,Turnover,N/A,Troy McPherson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,1.0,2024-12-07
+52,SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,1.0,2024-12-07
+53,SLS,SKD,St. Lawrence Saints,3pMa,No Dribble Jumper,Chris Downs Jr.,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,54,4.0,2024-12-07
+54,SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,55,4.0,2024-12-07
+56,SLS,SKD,St. Lawrence Saints,3pmi,Dribble Jumper,Aiden Macaulay,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,57,4.0,2024-12-07
+57,SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Jake Walsh,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,58,1.0,2024-12-07
+58,SLS,SKD,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,59,1.0,2024-12-07
+59,SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,1.0,2024-12-07
+60,SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,61,4.0,2024-12-07
+61,SLS,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,1.0,2024-12-07
+62,SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,PNR,High,Off,Adam Dudzinski,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,63,4.0,2024-12-07
+63,SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Joey Skoric,Transition,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,1.0,2024-12-07
+64,SLS,SKD,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,PNR,High,Off,Chris Downs Jr.,Cuts,N/A,Flash,Liberty League,Liberty League,65,1.0,2024-12-07
+65,SLS,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,4.0,2024-12-07
+67,SLS,SKD,St. Lawrence Saints,Turnover,To Basket,Patrick Mulholland,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,68,1.0,2024-12-07
+68,SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,69,4.0,2024-12-07
+69,SLS,SKD,Skidmore Thoroughbreds,Foul,To Basket,Joey Skoric,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,70,1.0,2024-12-07
+72,SLS,SKD,St. Lawrence Saints,Turnover,To Basket,Aiden Macaulay,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,1.0,2024-12-07
+73,SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Alexei Downie,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,74,4.0,2024-12-07
+76,SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,77,4.0,2024-12-07
+77,SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,78,4.0,2024-12-07
+79,SLS,SKD,St. Lawrence Saints,2pmi,To Basket,Andrew Cowan,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,1.0,2024-12-07
+80,SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,81,1.0,2024-12-07
+81,SLS,SKD,St. Lawrence Saints,2pMa,To Basket,Dan Anderson,PNR,Left,Off,Adam Dudzinski,P&R Roll Man,Left,Pop,Liberty League,Liberty League,82,1.0,2024-12-07
+82,SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,4.0,2024-12-07
+83,SLS,SKD,St. Lawrence Saints,2pmi,To Basket,Chris Downs Jr.,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,84,1.0,2024-12-07
+84,SLS,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Charlie Fantom,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,4.0,2024-12-07
+85,SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,86,4.0,2024-12-07
+86,SLS,SKD,St. Lawrence Saints,2pmi,Dribble Jumper,Troy McPherson,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,2.0,2024-12-07
+87,SLS,SKD,St. Lawrence Saints,2pMa,To Basket,Chris Downs Jr.,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,1.0,2024-12-07
+88,SLS,SKD,Skidmore Thoroughbreds,2pmi,No Dribble Jumper,Joey Skoric,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,3.0,2024-12-07
+89,SLS,SKD,St. Lawrence Saints,Foul,N/A,Gavin Macaulay,PNR,High,Off,Adam Dudzinski,Spot Ups,Right,Drive,Liberty League,Liberty League,90,1.0,2024-12-07
+94,SLS,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Hakeem Daphnis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,3.0,2024-12-07
+96,SLS,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,97,4.0,2024-12-07
+97,SLS,SKD,St. Lawrence Saints,2pmi,N/A,Andrew Cowan,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,1.0,2024-12-07
+98,SLS,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Joey Skoric,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,1.0,2024-12-07
+99,SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,4.0,2024-12-07
+101,SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Gavin Macaulay,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,102,4.0,2024-12-07
+103,SLS,SKD,St. Lawrence Saints,3pmi,Dribble Jumper,Adam Dudzinski,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,4.0,2024-12-07
+104,SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Aidan Roy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,1.0,2024-12-07
+105,SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Aiden Macaulay,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,106,4.0,2024-12-07
+106,SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Aidan Roy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,107,1.0,2024-12-07
+108,SLS,SKD,St. Lawrence Saints,3pMa,No Dribble Jumper,Andrew Cowan,Post,Middle,Left Shoulder,Adam Dudzinski,Spot Ups,N/A,Shot,Liberty League,Liberty League,109,4.0,2024-12-07
+109,SLS,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Joey Skoric,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,110,1.0,2024-12-07
+111,SLS,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Charlie Fantom,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,3.0,2024-12-07
+112,SLS,SKD,St. Lawrence Saints,And1,To Basket,Andrew Cowan,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,1.0,2024-12-07
+114,SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,1.0,2024-12-07
+115,SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,116,4.0,2024-12-07
+116,SLS,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Jake Walsh,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,4.0,2024-12-07
+117,SLS,SKD,St. Lawrence Saints,2pmi,To Basket,Gavin Macaulay,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,1.0,2024-12-07
+118,SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,4.0,2024-12-07
+120,SLS,SKD,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,121,1.0,2024-12-07
+121,SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Jake Walsh,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,4.0,2024-12-07
+123,SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,124,4.0,2024-12-07
+124,SLS,SKD,St. Lawrence Saints,Foul,To Basket,Dan Anderson,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,125,1.0,2024-12-07
+127,SLS,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Alexei Downie,Post,Left,N/A,Aidan Roy,Spot Ups,Right,Drive,Liberty League,Liberty League,128,1.0,2024-12-07
+128,SLS,SKD,St. Lawrence Saints,2pMa,Dribble Jumper,Gavin Macaulay,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,129,3.0,2024-12-07
+129,SLS,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Charlie Fantom,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,130,3.0,2024-12-07
+131,SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Jake Walsh,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,1.0,2024-12-07
+132,SLS,SKD,St. Lawrence Saints,2pmi,To Basket,Andrew Cowan,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,133,1.0,2024-12-07
+134,SLS,SKD,St. Lawrence Saints,Turnover,N/A,Dan Anderson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,135,1.0,2024-12-07
+135,SLS,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,136,1.0,2024-12-07
+136,SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,137,4.0,2024-12-07
+138,SLS,SKD,St. Lawrence Saints,3pMa,No Dribble Jumper,Gavin Macaulay,Post,Left,Left Shoulder,Troy McPherson,Spot Ups,N/A,Shot,Liberty League,Liberty League,139,4.0,2024-12-07
+140,SLS,SKD,Skidmore Thoroughbreds,Foul,To Basket,Alexei Downie,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,1.0,2024-12-07
+143,SLS,SKD,St. Lawrence Saints,Foul,Hook Shot,Andrew Cowan,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,144,1.0,2024-12-07
+146,SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Alexei Downie,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,147,4.0,2024-12-07
+147,SLS,SKD,St. Lawrence Saints,3pMa,No Dribble Jumper,Brayden Shepardson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,148,4.0,2024-12-07
+148,SLS,SKD,Skidmore Thoroughbreds,Turnover,To Basket,Jack LaGarde,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,1.0,2024-12-07
+149,SLS,SKD,St. Lawrence Saints,Turnover,N/A,Alexi Twahili,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,150,1.0,2024-12-07
+151,SLS,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Fumani Sithole,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,152,4.0,2024-12-07
+152,SLS,SKD,St. Lawrence Saints,Turnover,N/A,Aiden Macaulay,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,153,1.0,2024-12-07
+153,SLS,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Charlie Fantom,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,154,1.0,2024-12-07
+154,SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Brayden Shepardson,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,4.0,2024-12-07
+155,SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Fumani Sithole,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,156,4.0,2024-12-07
+156,SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Brayden Shepardson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,4.0,2024-12-07
+157,SLS,SKD,,Foul,N/A,Alexi Twahili,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,158,1.0,2024-12-07
+160,SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Fumani Sithole,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,1.0,2024-12-07
+161,SLS,SKD,,Foul,N/A,Chris Downs Jr.,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,162,1.0,2024-12-07
+164,SLS,SKD,St. Lawrence Saints,2pMa,To Basket,Alexi Twahili,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,165,1.0,2024-12-07
+165,SLS,SKD,Skidmore Thoroughbreds,Foul,Hook Shot,Alexei Downie,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,1.0,2024-12-07
+168,SLS,SKD,St. Lawrence Saints,Turnover,N/A,Adam Dudzinski,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,169,1.0,2024-12-07
+169,SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Prince Shyllon,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,170,1.0,2024-12-07
+170,SLS,SKD,St. Lawrence Saints,2pmi,To Basket,Gavin Macaulay,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,171,1.0,2024-12-07
+171,SLS,SKD,St. Lawrence Saints,2pMa,To Basket,Alexi Twahili,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,172,1.0,2024-12-07
+172,SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,4.0,2024-12-07
+174,SLS,SKD,Skidmore Thoroughbreds,Foul,To Basket,Aidan Roy,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,175,1.0,2024-12-07
+181,SLS,SKD,St. Lawrence Saints,3pMa,No Dribble Jumper,Gavin Macaulay,PNR,High,Off,Dan Anderson,Spot Ups,N/A,Shot,Liberty League,Liberty League,182,4.0,2024-12-07
+183,SLS,SKD,Skidmore Thoroughbreds,2pmi,N/A,Alexei Downie,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,184,1.0,2024-12-07
+184,SLS,SKD,St. Lawrence Saints,3pmi,No Dribble Jumper,Aiden Macaulay,PNR,High,Off,Adam Dudzinski,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,185,4.0,2024-12-07
+185,SLS,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,186,1.0,2024-12-07
+186,SLS,SKD,St. Lawrence Saints,Foul,N/A,Aiden Macaulay,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,187,1.0,2024-12-07
+190,SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,PNR,Left,Off,Charlie Fantom,Spot Ups,N/A,Shot,Liberty League,Liberty League,191,4.0,2024-12-07
+191,SLS,SKD,St. Lawrence Saints,Foul,To Basket,Aiden Macaulay,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,192,1.0,2024-12-07
+194,SLS,SKD,Skidmore Thoroughbreds,And1,To Basket,Charlie Fantom,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,195,1.0,2024-12-07
+196,SLS,SKD,St. Lawrence Saints,And1,Hook Shot,Jack Wirtanen,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,197,1.0,2024-12-07
+199,SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,200,4.0,2024-12-07
+200,SLS,SKD,St. Lawrence Saints,Foul,N/A,Gavin Macaulay,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,201,1.0,2024-12-07
+203,SLS,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Charlie Fantom,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,204,2.0,2024-12-07
+205,SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Dillon McCafferty,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,206,1.0,2024-12-07
+206,SLS,SKD,St. Lawrence Saints,Turnover,N/A,Patrick Mulholland,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,207,1.0,2024-12-07
+207,SLS,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Charlie Fantom,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,208,1.0,2024-12-07
+208,SLS,SKD,St. Lawrence Saints,2pmi,Dribble Jumper,Chris Downs Jr.,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,209,2.0,2024-12-07
+209,SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,210,4.0,2024-12-07
+210,SLS,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Harry Luo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,211,1.0,2024-12-07
+211,SLS,SKD,St. Lawrence Saints,2pmi,To Basket,Jack Wirtanen,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,212,1.0,2024-12-07
+212,SLS,SKD,Skidmore Thoroughbreds,Turnover,N/A,Charlie Fantom,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,213,1.0,2024-12-07
+213,SLS,SKD,St. Lawrence Saints,2pMa,To Basket,Patrick Mulholland,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,214,1.0,2024-12-07
+214,SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Prince Shyllon,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,215,4.0,2024-12-07
+216,SLS,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Harry Luo,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,217,1.0,2024-12-07
+217,SLS,SKD,St. Lawrence Saints,Turnover,N/A,Jack Wirtanen,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,218,1.0,2024-12-07
+219,SLS,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Harry Luo,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,220,4.0,2024-12-07
+222,SLS,SKD,St. Lawrence Saints,Turnover,N/A,Caden Mirliani,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,223,1.0,2024-12-07
+223,SLS,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,224,1.0,2024-12-07

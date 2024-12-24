@@ -1,161 +1,161 @@
-Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
-PSC,SLS,St. Lawrence Saints,2pmi,N/A,Andrew Cowan,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,1,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Ladan Graves,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,2,1.0,2025
-PSC,SLS,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,PNR,High,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,3,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,Turnover,N/A,Ikechukwu Ezike,Iso,Left,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,4,1.0,2025
-PSC,SLS,St. Lawrence Saints,2pmi,To Basket,Aiden Macaulay,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,5,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Jeremiah Smith,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,6,1.0,2025
-PSC,SLS,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,7,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,3pMa,No Dribble Jumper,Franklin Infante,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,8,4.0,2025
-PSC,SLS,St. Lawrence Saints,Turnover,N/A,Gavin Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,9,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Ikechukwu Ezike,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,10,1.0,2025
-PSC,SLS,St. Lawrence Saints,Turnover,N/A,Andrew Cowan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,11,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,Turnover,N/A,Ikechukwu Ezike,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,12,1.0,2025
-PSC,SLS,St. Lawrence Saints,2pmi,To Basket,Aiden Macaulay,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,13,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Jeremiah Smith,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,14,1.0,2025
-PSC,SLS,St. Lawrence Saints,2pMa,To Basket,Gavin Macaulay,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,15,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Kareem Welch,Iso,Right,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,16,1.0,2025
-PSC,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,17,4.0,2025
-PSC,SLS,Plattsburgh State Cardinals,Foul,To Basket,Kareem Welch,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,19,1.0,2025
-PSC,SLS,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,23,1.0,2025
-PSC,SLS,St. Lawrence Saints,2pmi,To Basket,Adam Dudzinski,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,25,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Nate Pondexter Jr,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,26,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,Turnover,N/A,Kevin Tabb,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,28,1.0,2025
-PSC,SLS,St. Lawrence Saints,Turnover,N/A,Troy McPherson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,29,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,Foul,To Basket,Kevin Tabb,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,30,1.0,2025
-PSC,SLS,St. Lawrence Saints,Turnover,N/A,Andrew Cowan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,33,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Irwayne Connell Jr,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,34,1.0,2025
-PSC,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Troy McPherson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,35,4.0,2025
-PSC,SLS,Plattsburgh State Cardinals,3pMa,No Dribble Jumper,Sasha Vidrini,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,36,4.0,2025
-PSC,SLS,St. Lawrence Saints,2pmi,To Basket,Aiden Macaulay,PNR,High,Off,Troy McPherson,Cuts,N/A,Basket,SUNYAC,Liberty League,38,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Sasha Vidrini,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,40,1.0,2025
-PSC,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Colton Suriano,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,41,4.0,2025
-PSC,SLS,Plattsburgh State Cardinals,3pmi,No Dribble Jumper,Kareem Welch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,42,4.0,2025
-PSC,SLS,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,43,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Irwayne Connell Jr,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,45,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Irwayne Connell Jr,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,46,1.0,2025
-PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,47,4.0,2025
-PSC,SLS,Plattsburgh State Cardinals,3pmi,No Dribble Jumper,Kevin Tabb,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,48,4.0,2025
-PSC,SLS,St. Lawrence Saints,2pMa,To Basket,Aiden Macaulay,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,49,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,Turnover,N/A,Sasha Vidrini,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,50,1.0,2025
-PSC,SLS,St. Lawrence Saints,2pMa,To Basket,Dan Anderson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,51,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Kevin Tabb,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,53,1.0,2025
-PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Colton Suriano,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,54,4.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,Dribble Jumper,Kevin Tabb,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,56,3.0,2025
-PSC,SLS,Plattsburgh State Cardinals,Turnover,N/A,Franklin Infante,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,58,1.0,2025
-PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Brayden Shepardson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,59,4.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Franklin Infante,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,60,1.0,2025
-PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Aiden Macaulay,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,61,4.0,2025
-PSC,SLS,Plattsburgh State Cardinals,Turnover,N/A,Ikechukwu Ezike,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,62,1.0,2025
-PSC,SLS,St. Lawrence Saints,Turnover,N/A,Dan Anderson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,63,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,3pmi,No Dribble Jumper,Kevin Tabb,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,64,4.0,2025
-PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,65,4.0,2025
-PSC,SLS,Plattsburgh State Cardinals,Turnover,To Basket,Ladan Graves,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,66,1.0,2025
-PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Aiden Macaulay,PNR,High,N/A,Brayden Shepardson,Spot Ups,N/A,Shot,SUNYAC,Liberty League,67,4.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Ikechukwu Ezike,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,68,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,Foul,To Basket,Ikechukwu Ezike,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,69,1.0,2025
-PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Troy McPherson,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,72,4.0,2025
-PSC,SLS,St. Lawrence Saints,2pmi,Hook Shot,Andrew Cowan,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,75,1.0,2025
-PSC,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Troy McPherson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,77,4.0,2025
-PSC,SLS,Plattsburgh State Cardinals,Turnover,N/A,Jaiden Gladney,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,78,1.0,2025
-PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Aiden Macaulay,PNR,High,Off,Patrick Mulholland,Spot Ups,N/A,Shot,SUNYAC,Liberty League,79,4.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Franklin Infante,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,80,1.0,2025
-PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Alexi Twahili,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,81,4.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pMa,Dribble Jumper,Franklin Infante,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,82,2.0,2025
-PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Troy McPherson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,83,4.0,2025
-PSC,SLS,Plattsburgh State Cardinals,Foul,To Basket,Nate Pondexter Jr,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,84,1.0,2025
-PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Post,Right,Right Shoulder,Dan Anderson,Spot Ups,N/A,Shot,SUNYAC,Liberty League,87,4.0,2025
-PSC,SLS,Plattsburgh State Cardinals,3pmi,No Dribble Jumper,Damari Johnson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,89,4.0,2025
-PSC,SLS,St. Lawrence Saints,2pMa,To Basket,Aiden Macaulay,Off Screens,Right,Curl,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,91,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,Turnover,N/A,Kareem Welch,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,92,1.0,2025
-PSC,SLS,St. Lawrence Saints,3pmi,Dribble Jumper,Adam Dudzinski,Iso,Top,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,93,4.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Jeremiah Smith,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,94,1.0,2025
-PSC,SLS,St. Lawrence Saints,2pMa,Dribble Jumper,Aiden Macaulay,PNR,High,Off,Troy McPherson,Spot Ups,Right,Drive,SUNYAC,Liberty League,95,3.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,Dribble Jumper,Damari Johnson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,96,2.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Irwayne Connell Jr,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,97,1.0,2025
-PSC,SLS,St. Lawrence Saints,2pMa,To Basket,Troy McPherson,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,98,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Jeremiah Smith,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,101,1.0,2025
-PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,102,4.0,2025
-PSC,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Aiden Macaulay,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,104,4.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Ikechukwu Ezike,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,105,1.0,2025
-PSC,SLS,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,PNR,High,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,107,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,3pmi,No Dribble Jumper,Franklin Infante,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,109,4.0,2025
-PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Gavin Macaulay,PNR,High,Off,Adam Dudzinski,P&R Roll Man,N/A,Slips,SUNYAC,Liberty League,110,4.0,2025
-PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,112,4.0,2025
-PSC,SLS,St. Lawrence Saints,2pmi,To Basket,Gavin Macaulay,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,114,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Kareem Welch,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,115,1.0,2025
-PSC,SLS,St. Lawrence Saints,Foul,To Basket,Adam Dudzinski,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,116,1.0,2025
-PSC,SLS,St. Lawrence Saints,2pmi,To Basket,Adam Dudzinski,Post,Right,Right Shoulder,Andrew Cowan,Cuts,N/A,Basket,SUNYAC,Liberty League,119,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pMa,Dribble Jumper,Jeremiah Smith,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,120,3.0,2025
-PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Aiden Macaulay,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,121,4.0,2025
-PSC,SLS,St. Lawrence Saints,Turnover,N/A,Andrew Cowan,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,124,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,Foul,To Basket,Irwayne Connell Jr,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,126,1.0,2025
-PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Colton Suriano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,129,4.0,2025
-PSC,SLS,St. Lawrence Saints,2pMa,To Basket,Aiden Macaulay,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,130,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Nate Pondexter Jr,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,131,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Franklin Infante,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,132,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Nate Pondexter Jr,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,133,1.0,2025
-PSC,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Troy McPherson,Off Screens,Right,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,134,2.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,No Dribble Jumper,Irwayne Connell Jr,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,135,3.0,2025
-PSC,SLS,St. Lawrence Saints,Foul,To Basket,Aiden Macaulay,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,136,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Irwayne Connell Jr,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,139,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,No Dribble Jumper,Kevin Tabb,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,141,2.0,2025
-PSC,SLS,St. Lawrence Saints,Turnover,N/A,Colton Suriano,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,142,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Kareem Welch,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,143,1.0,2025
-PSC,SLS,St. Lawrence Saints,Turnover,N/A,Adam Dudzinski,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,144,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Kevin Tabb,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,145,1.0,2025
-PSC,SLS,St. Lawrence Saints,2pMa,To Basket,Gavin Macaulay,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,146,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,No Dribble Jumper,Sasha Vidrini,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,147,3.0,2025
-PSC,SLS,St. Lawrence Saints,Turnover,N/A,Gavin Macaulay,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,148,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Sasha Vidrini,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,149,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Nate Pondexter Jr,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,150,1.0,2025
-PSC,SLS,St. Lawrence Saints,Turnover,N/A,Aiden Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,151,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,Turnover,N/A,Kareem Welch,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,152,1.0,2025
-PSC,SLS,St. Lawrence Saints,Turnover,N/A,Aiden Macaulay,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,153,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,Foul,To Basket,Ikechukwu Ezike,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,154,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,3pMa,No Dribble Jumper,Damari Johnson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,158,4.0,2025
-PSC,SLS,St. Lawrence Saints,2pMa,No Dribble Jumper,Patrick Mulholland,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,159,3.0,2025
-PSC,SLS,Plattsburgh State Cardinals,3pmi,Dribble Jumper,Damari Johnson,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,160,4.0,2025
-PSC,SLS,St. Lawrence Saints,Foul,Drop Step,Andrew Cowan,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,161,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Irwayne Connell Jr,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,164,1.0,2025
-PSC,SLS,St. Lawrence Saints,Foul,To Basket,Adam Dudzinski,PNR,High,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,165,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,Turnover,N/A,Kevin Tabb,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,168,1.0,2025
-PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,169,4.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Sasha Vidrini,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,170,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,Turnover,N/A,Damari Johnson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,172,1.0,2025
-PSC,SLS,St. Lawrence Saints,Turnover,N/A,Dan Anderson,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,173,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,Foul,To Basket,Irwayne Connell Jr,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,174,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,3pmi,No Dribble Jumper,Franklin Infante,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,178,4.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Jeremiah Smith,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,180,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,Turnover,N/A,Irwayne Connell Jr,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,181,1.0,2025
-PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,PNR,High,Off,Adam Dudzinski,P&R Roll Man,N/A,Pop,SUNYAC,Liberty League,182,4.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Kevin Tabb,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,183,1.0,2025
-PSC,SLS,St. Lawrence Saints,And1,To Basket,Adam Dudzinski,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,184,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,Turnover,N/A,Jeremiah Smith,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,186,1.0,2025
-PSC,SLS,,Foul,N/A,Andrew Cowan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,187,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pMa,Dribble Jumper,Kevin Tabb,PNR,Left,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,191,2.0,2025
-PSC,SLS,St. Lawrence Saints,Foul,To Basket,Adam Dudzinski,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,192,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Franklin Infante,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,195,1.0,2025
-PSC,SLS,,Foul,N/A,Colton Suriano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,196,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,Foul,To Basket,Nate Pondexter Jr,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,199,1.0,2025
-PSC,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Gavin Macaulay,Iso,Top,N/A,Colton Suriano,Spot Ups,N/A,Shot,SUNYAC,Liberty League,202,4.0,2025
-PSC,SLS,Plattsburgh State Cardinals,3pmi,No Dribble Jumper,Kareem Welch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,203,4.0,2025
-PSC,SLS,St. Lawrence Saints,2pMa,To Basket,Gavin Macaulay,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,204,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,3pmi,No Dribble Jumper,Kevin Tabb,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,205,4.0,2025
-PSC,SLS,Plattsburgh State Cardinals,3pmi,No Dribble Jumper,Kareem Welch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,207,4.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Nate Pondexter Jr,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,208,1.0,2025
-PSC,SLS,St. Lawrence Saints,2pmi,To Basket,Adam Dudzinski,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,209,1.0,2025
-PSC,SLS,St. Lawrence Saints,And1,To Basket,Adam Dudzinski,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,210,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Jeremiah Smith,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,212,1.0,2025
-PSC,SLS,,Foul,N/A,Gavin Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,216,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,Dribble Jumper,Franklin Infante,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,219,2.0,2025
-PSC,SLS,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,PNR,High,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,220,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,Foul,N/A,Kevin Tabb,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,221,1.0,2025
-PSC,SLS,St. Lawrence Saints,3pmi,Dribble Jumper,Adam Dudzinski,PNR,Right,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,224,4.0,2025
-PSC,SLS,St. Lawrence Saints,Foul,N/A,Dan Anderson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,225,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pmi,Dribble Jumper,Kevin Tabb,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,228,2.0,2025
-PSC,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Andrew Cowan,Post,Right,N/A,Aiden Macaulay,Spot Ups,N/A,Shot,SUNYAC,Liberty League,229,4.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Nate Pondexter Jr,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,230,1.0,2025
-PSC,SLS,St. Lawrence Saints,Turnover,N/A,Gavin Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,231,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Kevin Tabb,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,232,1.0,2025
-PSC,SLS,Plattsburgh State Cardinals,3pMa,Dribble Jumper,Kevin Tabb,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,234,4.0,2025
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,PSC,SLS,St. Lawrence Saints,2pmi,N/A,Andrew Cowan,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,1,1.0,2024-11-19
+1,PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Ladan Graves,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,2,1.0,2024-11-19
+2,PSC,SLS,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,PNR,High,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,3,1.0,2024-11-19
+3,PSC,SLS,Plattsburgh State Cardinals,Turnover,N/A,Ikechukwu Ezike,Iso,Left,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,4,1.0,2024-11-19
+4,PSC,SLS,St. Lawrence Saints,2pmi,To Basket,Aiden Macaulay,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,5,1.0,2024-11-19
+5,PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Jeremiah Smith,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,6,1.0,2024-11-19
+6,PSC,SLS,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,7,1.0,2024-11-19
+7,PSC,SLS,Plattsburgh State Cardinals,3pMa,No Dribble Jumper,Franklin Infante,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,8,4.0,2024-11-19
+8,PSC,SLS,St. Lawrence Saints,Turnover,N/A,Gavin Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,9,1.0,2024-11-19
+9,PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Ikechukwu Ezike,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,10,1.0,2024-11-19
+10,PSC,SLS,St. Lawrence Saints,Turnover,N/A,Andrew Cowan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,11,1.0,2024-11-19
+11,PSC,SLS,Plattsburgh State Cardinals,Turnover,N/A,Ikechukwu Ezike,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,12,1.0,2024-11-19
+12,PSC,SLS,St. Lawrence Saints,2pmi,To Basket,Aiden Macaulay,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,13,1.0,2024-11-19
+13,PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Jeremiah Smith,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,14,1.0,2024-11-19
+14,PSC,SLS,St. Lawrence Saints,2pMa,To Basket,Gavin Macaulay,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,15,1.0,2024-11-19
+15,PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Kareem Welch,Iso,Right,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,16,1.0,2024-11-19
+16,PSC,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,17,4.0,2024-11-19
+18,PSC,SLS,Plattsburgh State Cardinals,Foul,To Basket,Kareem Welch,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,19,1.0,2024-11-19
+22,PSC,SLS,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,23,1.0,2024-11-19
+24,PSC,SLS,St. Lawrence Saints,2pmi,To Basket,Adam Dudzinski,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,25,1.0,2024-11-19
+25,PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Nate Pondexter Jr,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,26,1.0,2024-11-19
+27,PSC,SLS,Plattsburgh State Cardinals,Turnover,N/A,Kevin Tabb,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,28,1.0,2024-11-19
+28,PSC,SLS,St. Lawrence Saints,Turnover,N/A,Troy McPherson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,29,1.0,2024-11-19
+29,PSC,SLS,Plattsburgh State Cardinals,Foul,To Basket,Kevin Tabb,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,30,1.0,2024-11-19
+32,PSC,SLS,St. Lawrence Saints,Turnover,N/A,Andrew Cowan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,33,1.0,2024-11-19
+33,PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Irwayne Connell Jr,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,34,1.0,2024-11-19
+34,PSC,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Troy McPherson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,35,4.0,2024-11-19
+35,PSC,SLS,Plattsburgh State Cardinals,3pMa,No Dribble Jumper,Sasha Vidrini,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,36,4.0,2024-11-19
+37,PSC,SLS,St. Lawrence Saints,2pmi,To Basket,Aiden Macaulay,PNR,High,Off,Troy McPherson,Cuts,N/A,Basket,SUNYAC,Liberty League,38,1.0,2024-11-19
+39,PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Sasha Vidrini,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,40,1.0,2024-11-19
+40,PSC,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Colton Suriano,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,41,4.0,2024-11-19
+41,PSC,SLS,Plattsburgh State Cardinals,3pmi,No Dribble Jumper,Kareem Welch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,42,4.0,2024-11-19
+42,PSC,SLS,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,43,1.0,2024-11-19
+44,PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Irwayne Connell Jr,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,45,1.0,2024-11-19
+45,PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Irwayne Connell Jr,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,46,1.0,2024-11-19
+46,PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,47,4.0,2024-11-19
+47,PSC,SLS,Plattsburgh State Cardinals,3pmi,No Dribble Jumper,Kevin Tabb,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,48,4.0,2024-11-19
+48,PSC,SLS,St. Lawrence Saints,2pMa,To Basket,Aiden Macaulay,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,49,1.0,2024-11-19
+49,PSC,SLS,Plattsburgh State Cardinals,Turnover,N/A,Sasha Vidrini,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,50,1.0,2024-11-19
+50,PSC,SLS,St. Lawrence Saints,2pMa,To Basket,Dan Anderson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,51,1.0,2024-11-19
+52,PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Kevin Tabb,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,53,1.0,2024-11-19
+53,PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Colton Suriano,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,54,4.0,2024-11-19
+55,PSC,SLS,Plattsburgh State Cardinals,2pmi,Dribble Jumper,Kevin Tabb,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,56,3.0,2024-11-19
+57,PSC,SLS,Plattsburgh State Cardinals,Turnover,N/A,Franklin Infante,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,58,1.0,2024-11-19
+58,PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Brayden Shepardson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,59,4.0,2024-11-19
+59,PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Franklin Infante,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,60,1.0,2024-11-19
+60,PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Aiden Macaulay,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,61,4.0,2024-11-19
+61,PSC,SLS,Plattsburgh State Cardinals,Turnover,N/A,Ikechukwu Ezike,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,62,1.0,2024-11-19
+62,PSC,SLS,St. Lawrence Saints,Turnover,N/A,Dan Anderson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,63,1.0,2024-11-19
+63,PSC,SLS,Plattsburgh State Cardinals,3pmi,No Dribble Jumper,Kevin Tabb,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,64,4.0,2024-11-19
+64,PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,65,4.0,2024-11-19
+65,PSC,SLS,Plattsburgh State Cardinals,Turnover,To Basket,Ladan Graves,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,66,1.0,2024-11-19
+66,PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Aiden Macaulay,PNR,High,N/A,Brayden Shepardson,Spot Ups,N/A,Shot,SUNYAC,Liberty League,67,4.0,2024-11-19
+67,PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Ikechukwu Ezike,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,68,1.0,2024-11-19
+68,PSC,SLS,Plattsburgh State Cardinals,Foul,To Basket,Ikechukwu Ezike,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,69,1.0,2024-11-19
+71,PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Troy McPherson,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,72,4.0,2024-11-19
+74,PSC,SLS,St. Lawrence Saints,2pmi,Hook Shot,Andrew Cowan,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,75,1.0,2024-11-19
+76,PSC,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Troy McPherson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,77,4.0,2024-11-19
+77,PSC,SLS,Plattsburgh State Cardinals,Turnover,N/A,Jaiden Gladney,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,78,1.0,2024-11-19
+78,PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Aiden Macaulay,PNR,High,Off,Patrick Mulholland,Spot Ups,N/A,Shot,SUNYAC,Liberty League,79,4.0,2024-11-19
+79,PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Franklin Infante,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,80,1.0,2024-11-19
+80,PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Alexi Twahili,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,81,4.0,2024-11-19
+81,PSC,SLS,Plattsburgh State Cardinals,2pMa,Dribble Jumper,Franklin Infante,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,82,2.0,2024-11-19
+82,PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Troy McPherson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,83,4.0,2024-11-19
+83,PSC,SLS,Plattsburgh State Cardinals,Foul,To Basket,Nate Pondexter Jr,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,84,1.0,2024-11-19
+86,PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Post,Right,Right Shoulder,Dan Anderson,Spot Ups,N/A,Shot,SUNYAC,Liberty League,87,4.0,2024-11-19
+88,PSC,SLS,Plattsburgh State Cardinals,3pmi,No Dribble Jumper,Damari Johnson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,89,4.0,2024-11-19
+90,PSC,SLS,St. Lawrence Saints,2pMa,To Basket,Aiden Macaulay,Off Screens,Right,Curl,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,91,1.0,2024-11-19
+91,PSC,SLS,Plattsburgh State Cardinals,Turnover,N/A,Kareem Welch,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,92,1.0,2024-11-19
+92,PSC,SLS,St. Lawrence Saints,3pmi,Dribble Jumper,Adam Dudzinski,Iso,Top,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,93,4.0,2024-11-19
+93,PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Jeremiah Smith,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,94,1.0,2024-11-19
+94,PSC,SLS,St. Lawrence Saints,2pMa,Dribble Jumper,Aiden Macaulay,PNR,High,Off,Troy McPherson,Spot Ups,Right,Drive,SUNYAC,Liberty League,95,3.0,2024-11-19
+95,PSC,SLS,Plattsburgh State Cardinals,2pmi,Dribble Jumper,Damari Johnson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,96,2.0,2024-11-19
+96,PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Irwayne Connell Jr,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,97,1.0,2024-11-19
+97,PSC,SLS,St. Lawrence Saints,2pMa,To Basket,Troy McPherson,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,98,1.0,2024-11-19
+100,PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Jeremiah Smith,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,101,1.0,2024-11-19
+101,PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,102,4.0,2024-11-19
+103,PSC,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Aiden Macaulay,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,104,4.0,2024-11-19
+104,PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Ikechukwu Ezike,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,105,1.0,2024-11-19
+106,PSC,SLS,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,PNR,High,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,107,1.0,2024-11-19
+108,PSC,SLS,Plattsburgh State Cardinals,3pmi,No Dribble Jumper,Franklin Infante,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,109,4.0,2024-11-19
+109,PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Gavin Macaulay,PNR,High,Off,Adam Dudzinski,P&R Roll Man,N/A,Slips,SUNYAC,Liberty League,110,4.0,2024-11-19
+111,PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,112,4.0,2024-11-19
+113,PSC,SLS,St. Lawrence Saints,2pmi,To Basket,Gavin Macaulay,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,114,1.0,2024-11-19
+114,PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Kareem Welch,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,115,1.0,2024-11-19
+115,PSC,SLS,St. Lawrence Saints,Foul,To Basket,Adam Dudzinski,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,116,1.0,2024-11-19
+118,PSC,SLS,St. Lawrence Saints,2pmi,To Basket,Adam Dudzinski,Post,Right,Right Shoulder,Andrew Cowan,Cuts,N/A,Basket,SUNYAC,Liberty League,119,1.0,2024-11-19
+119,PSC,SLS,Plattsburgh State Cardinals,2pMa,Dribble Jumper,Jeremiah Smith,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,120,3.0,2024-11-19
+120,PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Aiden Macaulay,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,121,4.0,2024-11-19
+123,PSC,SLS,St. Lawrence Saints,Turnover,N/A,Andrew Cowan,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,124,1.0,2024-11-19
+125,PSC,SLS,Plattsburgh State Cardinals,Foul,To Basket,Irwayne Connell Jr,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,126,1.0,2024-11-19
+128,PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Colton Suriano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,129,4.0,2024-11-19
+129,PSC,SLS,St. Lawrence Saints,2pMa,To Basket,Aiden Macaulay,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,130,1.0,2024-11-19
+130,PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Nate Pondexter Jr,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,131,1.0,2024-11-19
+131,PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Franklin Infante,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,132,1.0,2024-11-19
+132,PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Nate Pondexter Jr,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,133,1.0,2024-11-19
+133,PSC,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Troy McPherson,Off Screens,Right,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,134,2.0,2024-11-19
+134,PSC,SLS,Plattsburgh State Cardinals,2pmi,No Dribble Jumper,Irwayne Connell Jr,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,135,3.0,2024-11-19
+135,PSC,SLS,St. Lawrence Saints,Foul,To Basket,Aiden Macaulay,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,136,1.0,2024-11-19
+138,PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Irwayne Connell Jr,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,139,1.0,2024-11-19
+140,PSC,SLS,Plattsburgh State Cardinals,2pmi,No Dribble Jumper,Kevin Tabb,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,141,2.0,2024-11-19
+141,PSC,SLS,St. Lawrence Saints,Turnover,N/A,Colton Suriano,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,142,1.0,2024-11-19
+142,PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Kareem Welch,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,143,1.0,2024-11-19
+143,PSC,SLS,St. Lawrence Saints,Turnover,N/A,Adam Dudzinski,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,144,1.0,2024-11-19
+144,PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Kevin Tabb,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,145,1.0,2024-11-19
+145,PSC,SLS,St. Lawrence Saints,2pMa,To Basket,Gavin Macaulay,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,146,1.0,2024-11-19
+146,PSC,SLS,Plattsburgh State Cardinals,2pmi,No Dribble Jumper,Sasha Vidrini,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,147,3.0,2024-11-19
+147,PSC,SLS,St. Lawrence Saints,Turnover,N/A,Gavin Macaulay,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,148,1.0,2024-11-19
+148,PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Sasha Vidrini,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,149,1.0,2024-11-19
+149,PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Nate Pondexter Jr,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,150,1.0,2024-11-19
+150,PSC,SLS,St. Lawrence Saints,Turnover,N/A,Aiden Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,151,1.0,2024-11-19
+151,PSC,SLS,Plattsburgh State Cardinals,Turnover,N/A,Kareem Welch,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,152,1.0,2024-11-19
+152,PSC,SLS,St. Lawrence Saints,Turnover,N/A,Aiden Macaulay,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,153,1.0,2024-11-19
+153,PSC,SLS,Plattsburgh State Cardinals,Foul,To Basket,Ikechukwu Ezike,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,154,1.0,2024-11-19
+157,PSC,SLS,Plattsburgh State Cardinals,3pMa,No Dribble Jumper,Damari Johnson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,158,4.0,2024-11-19
+158,PSC,SLS,St. Lawrence Saints,2pMa,No Dribble Jumper,Patrick Mulholland,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,159,3.0,2024-11-19
+159,PSC,SLS,Plattsburgh State Cardinals,3pmi,Dribble Jumper,Damari Johnson,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,160,4.0,2024-11-19
+160,PSC,SLS,St. Lawrence Saints,Foul,Drop Step,Andrew Cowan,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,161,1.0,2024-11-19
+163,PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Irwayne Connell Jr,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,164,1.0,2024-11-19
+164,PSC,SLS,St. Lawrence Saints,Foul,To Basket,Adam Dudzinski,PNR,High,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,165,1.0,2024-11-19
+167,PSC,SLS,Plattsburgh State Cardinals,Turnover,N/A,Kevin Tabb,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,168,1.0,2024-11-19
+168,PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,169,4.0,2024-11-19
+169,PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Sasha Vidrini,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,170,1.0,2024-11-19
+171,PSC,SLS,Plattsburgh State Cardinals,Turnover,N/A,Damari Johnson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,172,1.0,2024-11-19
+172,PSC,SLS,St. Lawrence Saints,Turnover,N/A,Dan Anderson,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,173,1.0,2024-11-19
+173,PSC,SLS,Plattsburgh State Cardinals,Foul,To Basket,Irwayne Connell Jr,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,174,1.0,2024-11-19
+177,PSC,SLS,Plattsburgh State Cardinals,3pmi,No Dribble Jumper,Franklin Infante,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,178,4.0,2024-11-19
+179,PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Jeremiah Smith,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,180,1.0,2024-11-19
+180,PSC,SLS,Plattsburgh State Cardinals,Turnover,N/A,Irwayne Connell Jr,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,181,1.0,2024-11-19
+181,PSC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,PNR,High,Off,Adam Dudzinski,P&R Roll Man,N/A,Pop,SUNYAC,Liberty League,182,4.0,2024-11-19
+182,PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Kevin Tabb,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,183,1.0,2024-11-19
+183,PSC,SLS,St. Lawrence Saints,And1,To Basket,Adam Dudzinski,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,184,1.0,2024-11-19
+185,PSC,SLS,Plattsburgh State Cardinals,Turnover,N/A,Jeremiah Smith,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,186,1.0,2024-11-19
+186,PSC,SLS,,Foul,N/A,Andrew Cowan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,187,1.0,2024-11-19
+190,PSC,SLS,Plattsburgh State Cardinals,2pMa,Dribble Jumper,Kevin Tabb,PNR,Left,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,191,2.0,2024-11-19
+191,PSC,SLS,St. Lawrence Saints,Foul,To Basket,Adam Dudzinski,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,192,1.0,2024-11-19
+194,PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Franklin Infante,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,195,1.0,2024-11-19
+195,PSC,SLS,,Foul,N/A,Colton Suriano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,196,1.0,2024-11-19
+198,PSC,SLS,Plattsburgh State Cardinals,Foul,To Basket,Nate Pondexter Jr,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,199,1.0,2024-11-19
+201,PSC,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Gavin Macaulay,Iso,Top,N/A,Colton Suriano,Spot Ups,N/A,Shot,SUNYAC,Liberty League,202,4.0,2024-11-19
+202,PSC,SLS,Plattsburgh State Cardinals,3pmi,No Dribble Jumper,Kareem Welch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,203,4.0,2024-11-19
+203,PSC,SLS,St. Lawrence Saints,2pMa,To Basket,Gavin Macaulay,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,204,1.0,2024-11-19
+204,PSC,SLS,Plattsburgh State Cardinals,3pmi,No Dribble Jumper,Kevin Tabb,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,205,4.0,2024-11-19
+206,PSC,SLS,Plattsburgh State Cardinals,3pmi,No Dribble Jumper,Kareem Welch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,207,4.0,2024-11-19
+207,PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Nate Pondexter Jr,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,208,1.0,2024-11-19
+208,PSC,SLS,St. Lawrence Saints,2pmi,To Basket,Adam Dudzinski,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,209,1.0,2024-11-19
+209,PSC,SLS,St. Lawrence Saints,And1,To Basket,Adam Dudzinski,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,210,1.0,2024-11-19
+211,PSC,SLS,Plattsburgh State Cardinals,2pmi,To Basket,Jeremiah Smith,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,212,1.0,2024-11-19
+215,PSC,SLS,,Foul,N/A,Gavin Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,216,1.0,2024-11-19
+218,PSC,SLS,Plattsburgh State Cardinals,2pmi,Dribble Jumper,Franklin Infante,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,219,2.0,2024-11-19
+219,PSC,SLS,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,PNR,High,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,220,1.0,2024-11-19
+220,PSC,SLS,Plattsburgh State Cardinals,Foul,N/A,Kevin Tabb,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,221,1.0,2024-11-19
+223,PSC,SLS,St. Lawrence Saints,3pmi,Dribble Jumper,Adam Dudzinski,PNR,Right,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,224,4.0,2024-11-19
+224,PSC,SLS,St. Lawrence Saints,Foul,N/A,Dan Anderson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,225,1.0,2024-11-19
+227,PSC,SLS,Plattsburgh State Cardinals,2pmi,Dribble Jumper,Kevin Tabb,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,228,2.0,2024-11-19
+228,PSC,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Andrew Cowan,Post,Right,N/A,Aiden Macaulay,Spot Ups,N/A,Shot,SUNYAC,Liberty League,229,4.0,2024-11-19
+229,PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Nate Pondexter Jr,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,230,1.0,2024-11-19
+230,PSC,SLS,St. Lawrence Saints,Turnover,N/A,Gavin Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,231,1.0,2024-11-19
+231,PSC,SLS,Plattsburgh State Cardinals,2pMa,To Basket,Kevin Tabb,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,232,1.0,2024-11-19
+233,PSC,SLS,Plattsburgh State Cardinals,3pMa,Dribble Jumper,Kevin Tabb,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,234,4.0,2024-11-19

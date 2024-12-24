@@ -1,171 +1,171 @@
-Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
-IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Isaiah Austin,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,1,1.0,2025
-IC,SCD,Ithaca College,2pmi,To Basket,Jaylon O'Neal,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,2,1.0,2025
-IC,SCD,Ithaca College,2pMa,To Basket,Jaylon O'Neal,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,3,1.0,2025
-IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Joel Davis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,4,1.0,2025
-IC,SCD,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,PNR,Right,Off,Laurence Brady,Spot Ups,N/A,Shot,Liberty League,SUNYAC,5,4.0,2025
-IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Jaylen Warmack,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,6,1.0,2025
-IC,SCD,Ithaca College,2pmi,Drop Step,Chris Leysath,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,7,1.0,2025
-IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Jaylen Warmack,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,9,1.0,2025
-IC,SCD,Ithaca College,2pMa,To Basket,Logan Wendell,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,10,1.0,2025
-IC,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Jaylen Warmack,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,11,4.0,2025
-IC,SCD,Ithaca College,2pmi,To Basket,Jaylon O'Neal,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,12,1.0,2025
-IC,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Aaron Coston,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,13,4.0,2025
-IC,SCD,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,14,4.0,2025
-IC,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Kendall Arcuri,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,15,4.0,2025
-IC,SCD,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,17,4.0,2025
-IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Aaron Coston,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,18,1.0,2025
-IC,SCD,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,19,4.0,2025
-IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Aaron Coston,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,20,1.0,2025
-IC,SCD,Ithaca College,2pmi,To Basket,Cole Wissink,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,21,1.0,2025
-IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Isaiah Austin,PNR,Left,Off,Jaylen Warmack,Spot Ups,Left,Drive,Liberty League,SUNYAC,22,1.0,2025
-IC,SCD,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,23,4.0,2025
-IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Isaiah Austin,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,24,1.0,2025
-IC,SCD,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,25,4.0,2025
-IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,26,4.0,2025
-IC,SCD,Ithaca College,2pmi,To Basket,Logan Wendell,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,27,1.0,2025
-IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Aaron Coston,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,28,4.0,2025
-IC,SCD,Ithaca College,2pMa,To Basket,Chris Leysath,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,29,1.0,2025
-IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,30,4.0,2025
-IC,SCD,SUNY Cortland Dragons,3pmi,N/A,Jaylen Warmack,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,31,4.0,2025
-IC,SCD,Ithaca College,2pmi,To Basket,Cole Wissink,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,32,1.0,2025
-IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Isaiah Austin,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,33,4.0,2025
-IC,SCD,Ithaca College,2pMa,To Basket,Jose Padilla,PNR,Left,Off,Cole Wissink,Cuts,N/A,Basket,Liberty League,SUNYAC,34,1.0,2025
-IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Jaylen Warmack,PNR,Left,Off,Joel Davis,P&R Roll Man,Left,Pop,Liberty League,SUNYAC,36,1.0,2025
-IC,SCD,Ithaca College,3pmi,No Dribble Jumper,Cole Wissink,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,37,4.0,2025
-IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,Post,Right,Right Shoulder,Gaige Armbrewster,Spot Ups,N/A,Shot,Liberty League,SUNYAC,38,4.0,2025
-IC,SCD,Ithaca College,3pmi,No Dribble Jumper,Jose Padilla,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,39,4.0,2025
-IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Jaylen Warmack,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,40,1.0,2025
-IC,SCD,Ithaca College,2pmi,To Basket,Jose Padilla,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,41,1.0,2025
-IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Kendall Arcuri,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,42,1.0,2025
-IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Gerrad Beaubrun,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,43,1.0,2025
-IC,SCD,Ithaca College,2pmi,To Basket,Aidan Holmes,PNR,Left,Off,Laurence Brady,P&R Roll Man,Left,Pop,Liberty League,SUNYAC,44,1.0,2025
-IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Joel Davis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,45,1.0,2025
-IC,SCD,Ithaca College,2pmi,To Basket,Jose Padilla,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,46,1.0,2025
-IC,SCD,Ithaca College,2pmi,To Basket,Chris Leysath,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,48,1.0,2025
-IC,SCD,SUNY Cortland Dragons,Foul,To Basket,Gerrad Beaubrun,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,49,1.0,2025
-IC,SCD,Ithaca College,Foul,To Basket,Logan Wendell,Iso,Left,N/A,Jaylon O'Neal,Cuts,N/A,Basket,Liberty League,SUNYAC,52,1.0,2025
-IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Kendrick Wilson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,56,1.0,2025
-IC,SCD,Ithaca College,3pmi,No Dribble Jumper,Thomas Mckiernan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,57,4.0,2025
-IC,SCD,Ithaca College,Turnover,N/A,Jaylon O'Neal,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,58,1.0,2025
-IC,SCD,SUNY Cortland Dragons,Foul,To Basket,Gerrad Beaubrun,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,59,1.0,2025
-IC,SCD,Ithaca College,2pMa,To Basket,Chris Leysath,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,62,1.0,2025
-IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Kendrick Wilson,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,63,1.0,2025
-IC,SCD,Ithaca College,Foul,To Basket,Aidan Holmes,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,65,1.0,2025
-IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendrick Wilson,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,68,4.0,2025
-IC,SCD,Ithaca College,Turnover,N/A,Jaylon O'Neal,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,69,1.0,2025
-IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Kendrick Wilson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,70,1.0,2025
-IC,SCD,Ithaca College,Turnover,N/A,Chris Leysath,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,71,1.0,2025
-IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Gaige Armbrewster,PNR,Right,Off,Kendall Arcuri,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,72,4.0,2025
-IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Joel Davis,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,73,1.0,2025
-IC,SCD,Ithaca College,Foul,To Basket,Aidan Holmes,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,74,1.0,2025
-IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Kendall Arcuri,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,77,1.0,2025
-IC,SCD,Ithaca College,2pMa,To Basket,Chris Leysath,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,78,1.0,2025
-IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Joel Davis,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,79,1.0,2025
-IC,SCD,Ithaca College,Turnover,N/A,Logan Wendell,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,80,1.0,2025
-IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendrick Wilson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,81,4.0,2025
-IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Kendall Arcuri,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,82,1.0,2025
-IC,SCD,Ithaca College,3pmi,No Dribble Jumper,Cole Wissink,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,83,4.0,2025
-IC,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Kendall Arcuri,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,84,4.0,2025
-IC,SCD,Ithaca College,2pmi,To Basket,Aidan Holmes,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,85,1.0,2025
-IC,SCD,Ithaca College,Turnover,N/A,Aidan Holmes,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,87,1.0,2025
-IC,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Kendall Arcuri,Post,Left,Face Up,Isaiah Austin,Spot Ups,N/A,Shot,Liberty League,SUNYAC,88,4.0,2025
-IC,SCD,Ithaca College,Turnover,N/A,Cole Wissink,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,89,1.0,2025
-IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Isaiah Austin,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,90,1.0,2025
-IC,SCD,Ithaca College,2pMa,To Basket,Chris Leysath,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,92,1.0,2025
-IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,Post,Right,Left Shoulder,Isaiah Austin,Spot Ups,N/A,Shot,Liberty League,SUNYAC,93,4.0,2025
-IC,SCD,,Foul,N/A,Chris Leysath,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,94,1.0,2025
-IC,SCD,SUNY Cortland Dragons,Foul,To Basket,Jaylen Warmack,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,96,1.0,2025
-IC,SCD,Ithaca College,2pMa,To Basket,Jose Padilla,PNR,Left,Off,Logan Wendell,Spot Ups,Right,Drive,Liberty League,SUNYAC,99,1.0,2025
-IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Kendrick Wilson,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,100,1.0,2025
-IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,102,4.0,2025
-IC,SCD,Ithaca College,2pMa,Dribble Jumper,Jose Padilla,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,103,2.0,2025
-IC,SCD,SUNY Cortland Dragons,And1,No Dribble Jumper,Jaylen Warmack,PNR,High,Away,Kendall Arcuri,P&R Roll Man,N/A,Pop,Liberty League,SUNYAC,104,4.0,2025
-IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Joel Davis,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,106,1.0,2025
-IC,SCD,Ithaca College,2pMa,To Basket,Logan Wendell,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,108,1.0,2025
-IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Aaron Coston,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,109,1.0,2025
-IC,SCD,Ithaca College,2pMa,To Basket,Evan Cabral,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,112,1.0,2025
-IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Jaylen Warmack,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,113,1.0,2025
-IC,SCD,Ithaca College,2pMa,To Basket,Laurence Brady,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,114,1.0,2025
-IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Joel Davis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,115,1.0,2025
-IC,SCD,Ithaca College,2pmi,N/A,Chris Leysath,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,117,1.0,2025
-IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Joel Davis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,118,1.0,2025
-IC,SCD,Ithaca College,Foul,To Basket,Logan Wendell,PNR,Left,Off,Evan Cabral,P&R Roll Man,Left,Pop,Liberty League,SUNYAC,119,1.0,2025
-IC,SCD,Ithaca College,Turnover,N/A,Chris Leysath,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,122,1.0,2025
-IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Kendall Arcuri,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,123,1.0,2025
-IC,SCD,Ithaca College,2pMa,To Basket,Evan Cabral,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,124,1.0,2025
-IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Jaylen Warmack,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,125,1.0,2025
-IC,SCD,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,126,4.0,2025
-IC,SCD,Ithaca College,2pMa,To Basket,Evan Cabral,PNR,Left,Off,Chris Leysath,Cuts,N/A,Basket,Liberty League,SUNYAC,128,1.0,2025
-IC,SCD,SUNY Cortland Dragons,Foul,To Basket,Kendall Arcuri,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,129,1.0,2025
-IC,SCD,Ithaca College,Foul,To Basket,Evan Cabral,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,133,1.0,2025
-IC,SCD,SUNY Cortland Dragons,2pmi,Dribble Jumper,Isaiah Austin,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,136,3.0,2025
-IC,SCD,Ithaca College,3pMa,No Dribble Jumper,Aidan Holmes,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,138,4.0,2025
-IC,SCD,SUNY Cortland Dragons,3pmi,Dribble Jumper,Jaylen Warmack,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,139,4.0,2025
-IC,SCD,Ithaca College,2pmi,To Basket,Logan Wendell,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,140,1.0,2025
-IC,SCD,Ithaca College,2pmi,To Basket,Chris Leysath,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,141,1.0,2025
-IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Aaron Coston,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,143,1.0,2025
-IC,SCD,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,146,4.0,2025
-IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Jaylen Warmack,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,147,1.0,2025
-IC,SCD,Ithaca College,Turnover,To Basket,Jose Padilla,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,148,1.0,2025
-IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Joel Davis,Post,Left,Right Shoulder,Isaiah Austin,Spot Ups,N/A,Shot,Liberty League,SUNYAC,149,4.0,2025
-IC,SCD,Ithaca College,2pmi,To Basket,Aidan Holmes,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,150,1.0,2025
-IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Jaylen Warmack,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,151,4.0,2025
-IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Isaiah Austin,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,153,1.0,2025
-IC,SCD,Ithaca College,2pmi,To Basket,Cole Wissink,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,154,1.0,2025
-IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Jaylen Warmack,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,155,1.0,2025
-IC,SCD,,Foul,To Basket,Kendrick Wilson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,157,1.0,2025
-IC,SCD,Ithaca College,2pMa,To Basket,Jose Padilla,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,160,1.0,2025
-IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,161,4.0,2025
-IC,SCD,Ithaca College,Turnover,To Basket,Cole Wissink,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,162,1.0,2025
-IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendrick Wilson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,163,4.0,2025
-IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Gaige Armbrewster,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,165,4.0,2025
-IC,SCD,Ithaca College,2pmi,Dribble Jumper,Jose Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,166,2.0,2025
-IC,SCD,Ithaca College,2pMa,To Basket,Chris Leysath,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,167,1.0,2025
-IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Gaige Armbrewster,PNR,Right,Off,Aaron Coston,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,168,1.0,2025
-IC,SCD,Ithaca College,Turnover,N/A,Jose Padilla,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,169,1.0,2025
-IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Jaylen Warmack,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,171,1.0,2025
-IC,SCD,Ithaca College,Turnover,N/A,Logan Wendell,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,172,1.0,2025
-IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Kendrick Wilson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,173,1.0,2025
-IC,SCD,Ithaca College,2pMa,To Basket,Logan Wendell,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,174,1.0,2025
-IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Aaron Coston,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,175,1.0,2025
-IC,SCD,Ithaca College,3pmi,Dribble Jumper,Logan Wendell,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,176,4.0,2025
-IC,SCD,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,178,4.0,2025
-IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Aaron Coston,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,179,1.0,2025
-IC,SCD,Ithaca College,Turnover,N/A,Chris Leysath,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,180,1.0,2025
-IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Joel Davis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,181,1.0,2025
-IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Joel Davis,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,182,1.0,2025
-IC,SCD,Ithaca College,Turnover,N/A,Evan Cabral,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,183,1.0,2025
-IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Jaylen Warmack,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,184,1.0,2025
-IC,SCD,Ithaca College,2pMa,To Basket,Chris Leysath,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,185,1.0,2025
-IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Joel Davis,Post,Left,Face Up,Gerrad Beaubrun,Spot Ups,Left,Drive,Liberty League,SUNYAC,186,1.0,2025
-IC,SCD,Ithaca College,Turnover,N/A,Evan Cabral,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,187,1.0,2025
-IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Gerrad Beaubrun,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,188,4.0,2025
-IC,SCD,SUNY Cortland Dragons,2pmi,N/A,Joel Davis,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,189,2.0,2025
-IC,SCD,Ithaca College,2pMa,To Basket,Evan Cabral,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,190,1.0,2025
-IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,191,4.0,2025
-IC,SCD,,Foul,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,192,1.0,2025
-IC,SCD,SUNY Cortland Dragons,Turnover,To Basket,Aaron Coston,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,195,1.0,2025
-IC,SCD,Ithaca College,2pmi,To Basket,Logan Wendell,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,196,1.0,2025
-IC,SCD,Ithaca College,2pMa,To Basket,Chris Leysath,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,197,1.0,2025
-IC,SCD,SUNY Cortland Dragons,Turnover,To Basket,Aaron Coston,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,198,1.0,2025
-IC,SCD,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,199,4.0,2025
-IC,SCD,Ithaca College,2pmi,To Basket,Laurence Brady,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,201,1.0,2025
-IC,SCD,Ithaca College,2pmi,Dribble Jumper,Jaylon O'Neal,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,203,2.0,2025
-IC,SCD,SUNY Cortland Dragons,2pmi,Drop Step,Aaron Coston,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,204,1.0,2025
-IC,SCD,SUNY Cortland Dragons,And1,To Basket,Aaron Coston,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,205,1.0,2025
-IC,SCD,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,207,4.0,2025
-IC,SCD,Ithaca College,Turnover,To Basket,Logan Wendell,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,209,1.0,2025
-IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Jaylen Warmack,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,210,1.0,2025
-IC,SCD,,Foul,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,211,1.0,2025
-IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Jaylen Warmack,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,215,1.0,2025
-IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Joel Davis,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,216,1.0,2025
-IC,SCD,,Foul,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,217,1.0,2025
-IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Aaron Coston,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,220,4.0,2025
-IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Gaige Armbrewster,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,222,1.0,2025
-IC,SCD,,Foul,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,224,1.0,2025
-IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Joel Davis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,227,1.0,2025
-IC,SCD,,Foul,N/A,Jose Padilla,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,229,1.0,2025
-IC,SCD,SUNY Cortland Dragons,3pmi,Dribble Jumper,Aaron Coston,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,232,4.0,2025
-IC,SCD,,Foul,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,233,1.0,2025
-IC,SCD,SUNY Cortland Dragons,3pmi,Dribble Jumper,Kendall Arcuri,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,236,4.0,2025
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Isaiah Austin,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,1,1.0,2024-11-13
+1,IC,SCD,Ithaca College,2pmi,To Basket,Jaylon O'Neal,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,2,1.0,2024-11-13
+2,IC,SCD,Ithaca College,2pMa,To Basket,Jaylon O'Neal,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,3,1.0,2024-11-13
+3,IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Joel Davis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,4,1.0,2024-11-13
+4,IC,SCD,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,PNR,Right,Off,Laurence Brady,Spot Ups,N/A,Shot,Liberty League,SUNYAC,5,4.0,2024-11-13
+5,IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Jaylen Warmack,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,6,1.0,2024-11-13
+6,IC,SCD,Ithaca College,2pmi,Drop Step,Chris Leysath,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,7,1.0,2024-11-13
+8,IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Jaylen Warmack,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,9,1.0,2024-11-13
+9,IC,SCD,Ithaca College,2pMa,To Basket,Logan Wendell,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,10,1.0,2024-11-13
+10,IC,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Jaylen Warmack,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,11,4.0,2024-11-13
+11,IC,SCD,Ithaca College,2pmi,To Basket,Jaylon O'Neal,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,12,1.0,2024-11-13
+12,IC,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Aaron Coston,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,13,4.0,2024-11-13
+13,IC,SCD,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,14,4.0,2024-11-13
+14,IC,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Kendall Arcuri,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,15,4.0,2024-11-13
+16,IC,SCD,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,17,4.0,2024-11-13
+17,IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Aaron Coston,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,18,1.0,2024-11-13
+18,IC,SCD,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,19,4.0,2024-11-13
+19,IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Aaron Coston,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,20,1.0,2024-11-13
+20,IC,SCD,Ithaca College,2pmi,To Basket,Cole Wissink,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,21,1.0,2024-11-13
+21,IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Isaiah Austin,PNR,Left,Off,Jaylen Warmack,Spot Ups,Left,Drive,Liberty League,SUNYAC,22,1.0,2024-11-13
+22,IC,SCD,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,23,4.0,2024-11-13
+23,IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Isaiah Austin,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,24,1.0,2024-11-13
+24,IC,SCD,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,25,4.0,2024-11-13
+25,IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,26,4.0,2024-11-13
+26,IC,SCD,Ithaca College,2pmi,To Basket,Logan Wendell,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,27,1.0,2024-11-13
+27,IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Aaron Coston,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,28,4.0,2024-11-13
+28,IC,SCD,Ithaca College,2pMa,To Basket,Chris Leysath,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,29,1.0,2024-11-13
+29,IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,30,4.0,2024-11-13
+30,IC,SCD,SUNY Cortland Dragons,3pmi,N/A,Jaylen Warmack,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,31,4.0,2024-11-13
+31,IC,SCD,Ithaca College,2pmi,To Basket,Cole Wissink,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,32,1.0,2024-11-13
+32,IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Isaiah Austin,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,33,4.0,2024-11-13
+33,IC,SCD,Ithaca College,2pMa,To Basket,Jose Padilla,PNR,Left,Off,Cole Wissink,Cuts,N/A,Basket,Liberty League,SUNYAC,34,1.0,2024-11-13
+35,IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Jaylen Warmack,PNR,Left,Off,Joel Davis,P&R Roll Man,Left,Pop,Liberty League,SUNYAC,36,1.0,2024-11-13
+36,IC,SCD,Ithaca College,3pmi,No Dribble Jumper,Cole Wissink,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,37,4.0,2024-11-13
+37,IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,Post,Right,Right Shoulder,Gaige Armbrewster,Spot Ups,N/A,Shot,Liberty League,SUNYAC,38,4.0,2024-11-13
+38,IC,SCD,Ithaca College,3pmi,No Dribble Jumper,Jose Padilla,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,39,4.0,2024-11-13
+39,IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Jaylen Warmack,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,40,1.0,2024-11-13
+40,IC,SCD,Ithaca College,2pmi,To Basket,Jose Padilla,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,41,1.0,2024-11-13
+41,IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Kendall Arcuri,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,42,1.0,2024-11-13
+42,IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Gerrad Beaubrun,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,43,1.0,2024-11-13
+43,IC,SCD,Ithaca College,2pmi,To Basket,Aidan Holmes,PNR,Left,Off,Laurence Brady,P&R Roll Man,Left,Pop,Liberty League,SUNYAC,44,1.0,2024-11-13
+44,IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Joel Davis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,45,1.0,2024-11-13
+45,IC,SCD,Ithaca College,2pmi,To Basket,Jose Padilla,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,46,1.0,2024-11-13
+47,IC,SCD,Ithaca College,2pmi,To Basket,Chris Leysath,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,48,1.0,2024-11-13
+48,IC,SCD,SUNY Cortland Dragons,Foul,To Basket,Gerrad Beaubrun,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,49,1.0,2024-11-13
+51,IC,SCD,Ithaca College,Foul,To Basket,Logan Wendell,Iso,Left,N/A,Jaylon O'Neal,Cuts,N/A,Basket,Liberty League,SUNYAC,52,1.0,2024-11-13
+55,IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Kendrick Wilson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,56,1.0,2024-11-13
+56,IC,SCD,Ithaca College,3pmi,No Dribble Jumper,Thomas Mckiernan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,57,4.0,2024-11-13
+57,IC,SCD,Ithaca College,Turnover,N/A,Jaylon O'Neal,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,58,1.0,2024-11-13
+58,IC,SCD,SUNY Cortland Dragons,Foul,To Basket,Gerrad Beaubrun,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,59,1.0,2024-11-13
+61,IC,SCD,Ithaca College,2pMa,To Basket,Chris Leysath,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,62,1.0,2024-11-13
+62,IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Kendrick Wilson,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,63,1.0,2024-11-13
+64,IC,SCD,Ithaca College,Foul,To Basket,Aidan Holmes,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,65,1.0,2024-11-13
+67,IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendrick Wilson,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,68,4.0,2024-11-13
+68,IC,SCD,Ithaca College,Turnover,N/A,Jaylon O'Neal,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,69,1.0,2024-11-13
+69,IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Kendrick Wilson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,70,1.0,2024-11-13
+70,IC,SCD,Ithaca College,Turnover,N/A,Chris Leysath,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,71,1.0,2024-11-13
+71,IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Gaige Armbrewster,PNR,Right,Off,Kendall Arcuri,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,72,4.0,2024-11-13
+72,IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Joel Davis,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,73,1.0,2024-11-13
+73,IC,SCD,Ithaca College,Foul,To Basket,Aidan Holmes,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,74,1.0,2024-11-13
+76,IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Kendall Arcuri,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,77,1.0,2024-11-13
+77,IC,SCD,Ithaca College,2pMa,To Basket,Chris Leysath,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,78,1.0,2024-11-13
+78,IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Joel Davis,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,79,1.0,2024-11-13
+79,IC,SCD,Ithaca College,Turnover,N/A,Logan Wendell,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,80,1.0,2024-11-13
+80,IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendrick Wilson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,81,4.0,2024-11-13
+81,IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Kendall Arcuri,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,82,1.0,2024-11-13
+82,IC,SCD,Ithaca College,3pmi,No Dribble Jumper,Cole Wissink,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,83,4.0,2024-11-13
+83,IC,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Kendall Arcuri,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,84,4.0,2024-11-13
+84,IC,SCD,Ithaca College,2pmi,To Basket,Aidan Holmes,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,85,1.0,2024-11-13
+86,IC,SCD,Ithaca College,Turnover,N/A,Aidan Holmes,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,87,1.0,2024-11-13
+87,IC,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Kendall Arcuri,Post,Left,Face Up,Isaiah Austin,Spot Ups,N/A,Shot,Liberty League,SUNYAC,88,4.0,2024-11-13
+88,IC,SCD,Ithaca College,Turnover,N/A,Cole Wissink,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,89,1.0,2024-11-13
+89,IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Isaiah Austin,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,90,1.0,2024-11-13
+91,IC,SCD,Ithaca College,2pMa,To Basket,Chris Leysath,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,92,1.0,2024-11-13
+92,IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,Post,Right,Left Shoulder,Isaiah Austin,Spot Ups,N/A,Shot,Liberty League,SUNYAC,93,4.0,2024-11-13
+93,IC,SCD,,Foul,N/A,Chris Leysath,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,94,1.0,2024-11-13
+95,IC,SCD,SUNY Cortland Dragons,Foul,To Basket,Jaylen Warmack,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,96,1.0,2024-11-13
+98,IC,SCD,Ithaca College,2pMa,To Basket,Jose Padilla,PNR,Left,Off,Logan Wendell,Spot Ups,Right,Drive,Liberty League,SUNYAC,99,1.0,2024-11-13
+99,IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Kendrick Wilson,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,100,1.0,2024-11-13
+101,IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,102,4.0,2024-11-13
+102,IC,SCD,Ithaca College,2pMa,Dribble Jumper,Jose Padilla,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,103,2.0,2024-11-13
+103,IC,SCD,SUNY Cortland Dragons,And1,No Dribble Jumper,Jaylen Warmack,PNR,High,Away,Kendall Arcuri,P&R Roll Man,N/A,Pop,Liberty League,SUNYAC,104,4.0,2024-11-13
+105,IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Joel Davis,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,106,1.0,2024-11-13
+107,IC,SCD,Ithaca College,2pMa,To Basket,Logan Wendell,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,108,1.0,2024-11-13
+108,IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Aaron Coston,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,109,1.0,2024-11-13
+111,IC,SCD,Ithaca College,2pMa,To Basket,Evan Cabral,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,112,1.0,2024-11-13
+112,IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Jaylen Warmack,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,113,1.0,2024-11-13
+113,IC,SCD,Ithaca College,2pMa,To Basket,Laurence Brady,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,114,1.0,2024-11-13
+114,IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Joel Davis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,115,1.0,2024-11-13
+116,IC,SCD,Ithaca College,2pmi,N/A,Chris Leysath,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,117,1.0,2024-11-13
+117,IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Joel Davis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,118,1.0,2024-11-13
+118,IC,SCD,Ithaca College,Foul,To Basket,Logan Wendell,PNR,Left,Off,Evan Cabral,P&R Roll Man,Left,Pop,Liberty League,SUNYAC,119,1.0,2024-11-13
+121,IC,SCD,Ithaca College,Turnover,N/A,Chris Leysath,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,122,1.0,2024-11-13
+122,IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Kendall Arcuri,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,123,1.0,2024-11-13
+123,IC,SCD,Ithaca College,2pMa,To Basket,Evan Cabral,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,124,1.0,2024-11-13
+124,IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Jaylen Warmack,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,125,1.0,2024-11-13
+125,IC,SCD,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,126,4.0,2024-11-13
+127,IC,SCD,Ithaca College,2pMa,To Basket,Evan Cabral,PNR,Left,Off,Chris Leysath,Cuts,N/A,Basket,Liberty League,SUNYAC,128,1.0,2024-11-13
+128,IC,SCD,SUNY Cortland Dragons,Foul,To Basket,Kendall Arcuri,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,129,1.0,2024-11-13
+132,IC,SCD,Ithaca College,Foul,To Basket,Evan Cabral,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,133,1.0,2024-11-13
+135,IC,SCD,SUNY Cortland Dragons,2pmi,Dribble Jumper,Isaiah Austin,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,136,3.0,2024-11-13
+137,IC,SCD,Ithaca College,3pMa,No Dribble Jumper,Aidan Holmes,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,138,4.0,2024-11-13
+138,IC,SCD,SUNY Cortland Dragons,3pmi,Dribble Jumper,Jaylen Warmack,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,139,4.0,2024-11-13
+139,IC,SCD,Ithaca College,2pmi,To Basket,Logan Wendell,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,140,1.0,2024-11-13
+140,IC,SCD,Ithaca College,2pmi,To Basket,Chris Leysath,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,141,1.0,2024-11-13
+142,IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Aaron Coston,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,143,1.0,2024-11-13
+145,IC,SCD,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,146,4.0,2024-11-13
+146,IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Jaylen Warmack,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,147,1.0,2024-11-13
+147,IC,SCD,Ithaca College,Turnover,To Basket,Jose Padilla,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,148,1.0,2024-11-13
+148,IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Joel Davis,Post,Left,Right Shoulder,Isaiah Austin,Spot Ups,N/A,Shot,Liberty League,SUNYAC,149,4.0,2024-11-13
+149,IC,SCD,Ithaca College,2pmi,To Basket,Aidan Holmes,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,150,1.0,2024-11-13
+150,IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Jaylen Warmack,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,151,4.0,2024-11-13
+152,IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Isaiah Austin,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,153,1.0,2024-11-13
+153,IC,SCD,Ithaca College,2pmi,To Basket,Cole Wissink,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,154,1.0,2024-11-13
+154,IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Jaylen Warmack,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,155,1.0,2024-11-13
+156,IC,SCD,,Foul,To Basket,Kendrick Wilson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,157,1.0,2024-11-13
+159,IC,SCD,Ithaca College,2pMa,To Basket,Jose Padilla,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,160,1.0,2024-11-13
+160,IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,161,4.0,2024-11-13
+161,IC,SCD,Ithaca College,Turnover,To Basket,Cole Wissink,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,162,1.0,2024-11-13
+162,IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendrick Wilson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,163,4.0,2024-11-13
+164,IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Gaige Armbrewster,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,165,4.0,2024-11-13
+165,IC,SCD,Ithaca College,2pmi,Dribble Jumper,Jose Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,166,2.0,2024-11-13
+166,IC,SCD,Ithaca College,2pMa,To Basket,Chris Leysath,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,167,1.0,2024-11-13
+167,IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Gaige Armbrewster,PNR,Right,Off,Aaron Coston,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,168,1.0,2024-11-13
+168,IC,SCD,Ithaca College,Turnover,N/A,Jose Padilla,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,169,1.0,2024-11-13
+170,IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Jaylen Warmack,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,171,1.0,2024-11-13
+171,IC,SCD,Ithaca College,Turnover,N/A,Logan Wendell,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,172,1.0,2024-11-13
+172,IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Kendrick Wilson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,173,1.0,2024-11-13
+173,IC,SCD,Ithaca College,2pMa,To Basket,Logan Wendell,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,174,1.0,2024-11-13
+174,IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Aaron Coston,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,175,1.0,2024-11-13
+175,IC,SCD,Ithaca College,3pmi,Dribble Jumper,Logan Wendell,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,176,4.0,2024-11-13
+177,IC,SCD,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,178,4.0,2024-11-13
+178,IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Aaron Coston,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,179,1.0,2024-11-13
+179,IC,SCD,Ithaca College,Turnover,N/A,Chris Leysath,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,180,1.0,2024-11-13
+180,IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Joel Davis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,181,1.0,2024-11-13
+181,IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Joel Davis,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,182,1.0,2024-11-13
+182,IC,SCD,Ithaca College,Turnover,N/A,Evan Cabral,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,183,1.0,2024-11-13
+183,IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Jaylen Warmack,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,184,1.0,2024-11-13
+184,IC,SCD,Ithaca College,2pMa,To Basket,Chris Leysath,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,185,1.0,2024-11-13
+185,IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Joel Davis,Post,Left,Face Up,Gerrad Beaubrun,Spot Ups,Left,Drive,Liberty League,SUNYAC,186,1.0,2024-11-13
+186,IC,SCD,Ithaca College,Turnover,N/A,Evan Cabral,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,187,1.0,2024-11-13
+187,IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Gerrad Beaubrun,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,188,4.0,2024-11-13
+188,IC,SCD,SUNY Cortland Dragons,2pmi,N/A,Joel Davis,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,189,2.0,2024-11-13
+189,IC,SCD,Ithaca College,2pMa,To Basket,Evan Cabral,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,190,1.0,2024-11-13
+190,IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,191,4.0,2024-11-13
+191,IC,SCD,,Foul,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,192,1.0,2024-11-13
+194,IC,SCD,SUNY Cortland Dragons,Turnover,To Basket,Aaron Coston,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,195,1.0,2024-11-13
+195,IC,SCD,Ithaca College,2pmi,To Basket,Logan Wendell,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,196,1.0,2024-11-13
+196,IC,SCD,Ithaca College,2pMa,To Basket,Chris Leysath,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,197,1.0,2024-11-13
+197,IC,SCD,SUNY Cortland Dragons,Turnover,To Basket,Aaron Coston,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,198,1.0,2024-11-13
+198,IC,SCD,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,199,4.0,2024-11-13
+200,IC,SCD,Ithaca College,2pmi,To Basket,Laurence Brady,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,201,1.0,2024-11-13
+202,IC,SCD,Ithaca College,2pmi,Dribble Jumper,Jaylon O'Neal,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,203,2.0,2024-11-13
+203,IC,SCD,SUNY Cortland Dragons,2pmi,Drop Step,Aaron Coston,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,204,1.0,2024-11-13
+204,IC,SCD,SUNY Cortland Dragons,And1,To Basket,Aaron Coston,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,205,1.0,2024-11-13
+206,IC,SCD,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,207,4.0,2024-11-13
+208,IC,SCD,Ithaca College,Turnover,To Basket,Logan Wendell,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,209,1.0,2024-11-13
+209,IC,SCD,SUNY Cortland Dragons,Turnover,N/A,Jaylen Warmack,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,210,1.0,2024-11-13
+210,IC,SCD,,Foul,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,211,1.0,2024-11-13
+214,IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Jaylen Warmack,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,215,1.0,2024-11-13
+215,IC,SCD,SUNY Cortland Dragons,2pmi,To Basket,Joel Davis,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,216,1.0,2024-11-13
+216,IC,SCD,,Foul,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,217,1.0,2024-11-13
+219,IC,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Aaron Coston,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,220,4.0,2024-11-13
+221,IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Gaige Armbrewster,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,222,1.0,2024-11-13
+223,IC,SCD,,Foul,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,224,1.0,2024-11-13
+226,IC,SCD,SUNY Cortland Dragons,2pMa,To Basket,Joel Davis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,227,1.0,2024-11-13
+228,IC,SCD,,Foul,N/A,Jose Padilla,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,229,1.0,2024-11-13
+231,IC,SCD,SUNY Cortland Dragons,3pmi,Dribble Jumper,Aaron Coston,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,232,4.0,2024-11-13
+232,IC,SCD,,Foul,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,233,1.0,2024-11-13
+235,IC,SCD,SUNY Cortland Dragons,3pmi,Dribble Jumper,Kendall Arcuri,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,236,4.0,2024-11-13

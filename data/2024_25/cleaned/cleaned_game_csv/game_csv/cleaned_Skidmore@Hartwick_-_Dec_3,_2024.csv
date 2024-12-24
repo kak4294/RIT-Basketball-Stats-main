@@ -1,163 +1,163 @@
-Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
-HAR,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Hakeem Daphnis,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,2,3.0,2025
-HAR,SKD,Hartwick,2pMa,To Basket,Henry Perkins,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,3,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Joey Skoric,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Empire 8,Liberty League,4,1.0,2025
-HAR,SKD,Hartwick,2pmi,N/A,Henry Perkins,Post,Right,Face Up,N/A,N/A,N/A,N/A,Empire 8,Liberty League,5,1.0,2025
-HAR,SKD,Hartwick,2pMa,To Basket,Henry Perkins,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,6,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,7,4.0,2025
-HAR,SKD,Hartwick,3pMa,Dribble Jumper,Brian Bonin,Iso,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,8,4.0,2025
-HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,9,4.0,2025
-HAR,SKD,Hartwick,2pmi,No Dribble Jumper,John Bangel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,10,3.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Hakeem Daphnis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,11,3.0,2025
-HAR,SKD,Hartwick,3pmi,Dribble Jumper,Mike Gitz,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,12,4.0,2025
-HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Alexei Downie,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,13,4.0,2025
-HAR,SKD,Hartwick,2pmi,To Basket,Henry Perkins,Post,Left,Left Shoulder,John Bangel,Cuts,N/A,Basket,Empire 8,Liberty League,16,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Aidan Roy,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,17,1.0,2025
-HAR,SKD,Hartwick,Foul,Dribble Jumper,Brian Bonin,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,18,2.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Alexei Downie,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,21,1.0,2025
-HAR,SKD,Hartwick,2pmi,To Basket,Mike Gitz,PNR,Left,Off,John Bangel,P&R Roll Man,N/A,Slips,Empire 8,Liberty League,22,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Aidan Roy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,23,4.0,2025
-HAR,SKD,Hartwick,Turnover,To Basket,Brian Bonin,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,24,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Nick Padilla,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,25,3.0,2025
-HAR,SKD,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,27,1.0,2025
-HAR,SKD,Hartwick,Turnover,To Basket,Malachi Polson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,28,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,30,1.0,2025
-HAR,SKD,Hartwick,Turnover,N/A,Brian Bonin,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,31,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Alexei Downie,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,32,2.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Jake Walsh,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,34,3.0,2025
-HAR,SKD,Hartwick,2pmi,To Basket,Joey Mclaurin,PNR,Right,Off,Henry Perkins,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,35,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,Turnover,N/A,Jake Walsh,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,36,1.0,2025
-HAR,SKD,Hartwick,2pmi,To Basket,Joey Mclaurin,PNR,High,Off,Cosmo Hardinson,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,37,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,38,4.0,2025
-HAR,SKD,Hartwick,Turnover,N/A,Cosmo Hardinson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,40,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Jake Walsh,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,41,1.0,2025
-HAR,SKD,Hartwick,Turnover,To Basket,Joey Mclaurin,PNR,Left,N/A,Henry Perkins,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,42,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Charlie Fantom,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,43,3.0,2025
-HAR,SKD,Hartwick,2pMa,To Basket,Joey Mclaurin,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,45,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pmi,No Dribble Jumper,Joey Skoric,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,47,3.0,2025
-HAR,SKD,Hartwick,3pMa,No Dribble Jumper,Joey Mclaurin,PNR,High,Away,Shane Micallef,Spot Ups,N/A,Shot,Empire 8,Liberty League,48,4.0,2025
-HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,49,4.0,2025
-HAR,SKD,Hartwick,2pMa,N/A,Henry Perkins,Post,Left,Face Up,N/A,N/A,N/A,N/A,Empire 8,Liberty League,50,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,Foul,To Basket,Joey Skoric,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,51,1.0,2025
-HAR,SKD,Hartwick,3pMa,Dribble Jumper,Shane Micallef,PNR,High,Off,Joey Mclaurin,Spot Ups,Left,Drive,Empire 8,Liberty League,55,4.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pMa,No Dribble Jumper,Joey Skoric,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,56,3.0,2025
-HAR,SKD,Hartwick,3pmi,No Dribble Jumper,Shane Micallef,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,57,4.0,2025
-HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Empire 8,Liberty League,58,4.0,2025
-HAR,SKD,Hartwick,Foul,To Basket,Joe Bangel,Post,Right,Right Shoulder,John Bangel,Cuts,N/A,Basket,Empire 8,Liberty League,59,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,Turnover,N/A,Aidan Roy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,61,1.0,2025
-HAR,SKD,Hartwick,2pmi,Dribble Jumper,Joey Mclaurin,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,62,3.0,2025
-HAR,SKD,Hartwick,3pmi,No Dribble Jumper,Joey Mclaurin,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,64,4.0,2025
-HAR,SKD,Hartwick,Turnover,N/A,Cosmo Hardinson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,66,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Aidan Roy,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,67,1.0,2025
-HAR,SKD,Hartwick,2pmi,To Basket,Shane Micallef,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,68,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,69,4.0,2025
-HAR,SKD,Hartwick,Turnover,N/A,Shane Micallef,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,70,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Hakeem Daphnis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,71,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Charlie Fantom,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,72,1.0,2025
-HAR,SKD,Hartwick,Foul,N/A,John Bangel,Post,Middle,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,73,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Alexei Downie,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,76,4.0,2025
-HAR,SKD,Hartwick,2pmi,N/A,Henry Perkins,Post,Left,Face Up,N/A,N/A,N/A,N/A,Empire 8,Liberty League,77,1.0,2025
-HAR,SKD,Hartwick,2pmi,To Basket,John Bangel,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,78,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Hakeem Daphnis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,79,3.0,2025
-HAR,SKD,Hartwick,2pmi,To Basket,John Bangel,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,80,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Hakeem Daphnis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,81,4.0,2025
-HAR,SKD,Hartwick,2pMa,To Basket,Henry Perkins,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,82,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Hakeem Daphnis,Iso,Left,N/A,Alexei Downie,Cuts,N/A,Basket,Empire 8,Liberty League,83,1.0,2025
-HAR,SKD,Hartwick,Turnover,N/A,Henry Perkins,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,84,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,Turnover,To Basket,Hakeem Daphnis,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,85,1.0,2025
-HAR,SKD,Hartwick,Turnover,N/A,Mike Gitz,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,86,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Joey Skoric,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,87,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,88,1.0,2025
-HAR,SKD,Hartwick,2pmi,Drop Step,Brian Bonin,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,89,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Hakeem Daphnis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,90,4.0,2025
-HAR,SKD,Hartwick,2pmi,To Basket,Malachi Polson,PNR,Right,Off,Henry Perkins,P&R Roll Man,N/A,Slips,Empire 8,Liberty League,91,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Alexei Downie,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,93,4.0,2025
-HAR,SKD,Hartwick,2pmi,To Basket,Malachi Polson,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,94,1.0,2025
-HAR,SKD,Hartwick,2pMa,To Basket,Henry Perkins,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,95,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,PNR,High,Off,Hakeem Daphnis,Spot Ups,N/A,Shot,Empire 8,Liberty League,96,4.0,2025
-HAR,SKD,Hartwick,3pmi,No Dribble Jumper,Brian Bonin,PNR,High,Off,Malachi Polson,Spot Ups,N/A,Shot,Empire 8,Liberty League,98,4.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Charlie Fantom,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,99,3.0,2025
-HAR,SKD,Hartwick,2pmi,N/A,Henry Perkins,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,100,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Aidan Roy,PNR,High,Off,Alexei Downie,Cuts,N/A,Basket,Empire 8,Liberty League,101,1.0,2025
-HAR,SKD,Hartwick,2pmi,To Basket,Brian Bonin,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,102,1.0,2025
-HAR,SKD,Hartwick,2pMa,To Basket,Henry Perkins,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,104,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,Iso,Right,N/A,Nick Padilla,Spot Ups,N/A,N/A,Empire 8,Liberty League,106,1.0,2025
-HAR,SKD,Hartwick,3pmi,No Dribble Jumper,Mike Gitz,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,107,4.0,2025
-HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Alexei Downie,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,108,4.0,2025
-HAR,SKD,Hartwick,2pMa,N/A,Henry Perkins,Post,Left,Face Up,N/A,N/A,N/A,N/A,Empire 8,Liberty League,109,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,110,1.0,2025
-HAR,SKD,Hartwick,2pmi,Drop Step,Henry Perkins,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,111,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Charlie Fantom,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Empire 8,Liberty League,112,1.0,2025
-HAR,SKD,Hartwick,Turnover,N/A,Malachi Polson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,113,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,114,1.0,2025
-HAR,SKD,Hartwick,3pMa,Dribble Jumper,Mike Gitz,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,115,4.0,2025
-HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,116,4.0,2025
-HAR,SKD,Hartwick,Turnover,N/A,Mike Gitz,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,117,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pMa,No Dribble Jumper,Nick Padilla,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,118,3.0,2025
-HAR,SKD,Hartwick,2pMa,To Basket,Joe Bangel,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,119,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,120,4.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,121,1.0,2025
-HAR,SKD,Hartwick,2pMa,To Basket,Xymier Thomas,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,122,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Alexei Downie,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,123,4.0,2025
-HAR,SKD,Hartwick,3pmi,No Dribble Jumper,Brian Bonin,Iso,Right,N/A,Xymier Thomas,Spot Ups,N/A,Shot,Empire 8,Liberty League,124,4.0,2025
-HAR,SKD,Skidmore Thoroughbreds,And1,To Basket,Charlie Fantom,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,125,1.0,2025
-HAR,SKD,Hartwick,3pmi,Dribble Jumper,Joey Mclaurin,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,127,4.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Charlie Fantom,PNR,High,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,128,2.0,2025
-HAR,SKD,Skidmore Thoroughbreds,Foul,To Basket,Joey Skoric,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,129,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,Foul,To Basket,Charlie Fantom,PNR,High,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,133,1.0,2025
-HAR,SKD,Hartwick,2pmi,To Basket,Joey Mclaurin,PNR,High,Away,Cosmo Hardinson,Cuts,N/A,Basket,Empire 8,Liberty League,136,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,Turnover,N/A,Charlie Fantom,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,137,1.0,2025
-HAR,SKD,Hartwick,2pMa,To Basket,Cosmo Hardinson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,138,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,139,4.0,2025
-HAR,SKD,Hartwick,And1,To Basket,Malachi Polson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,140,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Jake Walsh,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,142,4.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Charlie Fantom,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,144,1.0,2025
-HAR,SKD,Hartwick,Turnover,N/A,Joe Bangel,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,146,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Hakeem Daphnis,PNR,High,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,147,1.0,2025
-HAR,SKD,Hartwick,3pMa,No Dribble Jumper,Shane Micallef,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,148,4.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Jake Walsh,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,149,1.0,2025
-HAR,SKD,Hartwick,Turnover,N/A,Cosmo Hardinson,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,150,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Jake Walsh,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Empire 8,Liberty League,151,1.0,2025
-HAR,SKD,Hartwick,Turnover,N/A,Malachi Polson,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,152,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,153,4.0,2025
-HAR,SKD,Hartwick,3pMa,No Dribble Jumper,Mike Gitz,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Empire 8,Liberty League,154,4.0,2025
-HAR,SKD,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,155,1.0,2025
-HAR,SKD,Hartwick,Turnover,N/A,Joey Mclaurin,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,156,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Hakeem Daphnis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,157,1.0,2025
-HAR,SKD,Hartwick,2pmi,To Basket,Brian Bonin,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,159,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,Foul,To Basket,Jake Walsh,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,160,1.0,2025
-HAR,SKD,Hartwick,Foul,To Basket,Henry Perkins,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Empire 8,Liberty League,163,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Joey Skoric,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,166,1.0,2025
-HAR,SKD,Hartwick,Turnover,N/A,Joey Mclaurin,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,167,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,Foul,To Basket,Aidan Roy,PNR,High,Off,Joey Skoric,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,168,1.0,2025
-HAR,SKD,Hartwick,3pMa,No Dribble Jumper,Malachi Polson,PNR,High,Off,Shane Micallef,P&R Roll Man,N/A,Slips,Empire 8,Liberty League,171,4.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Hakeem Daphnis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,172,3.0,2025
-HAR,SKD,Hartwick,3pmi,No Dribble Jumper,Cosmo Hardinson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,173,4.0,2025
-HAR,SKD,Skidmore Thoroughbreds,Foul,To Basket,Joey Skoric,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,174,1.0,2025
-HAR,SKD,Hartwick,Turnover,N/A,Joey Mclaurin,PNR,High,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,177,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,Foul,To Basket,Aidan Roy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,178,1.0,2025
-HAR,SKD,Hartwick,2pmi,To Basket,Shane Micallef,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,181,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,182,1.0,2025
-HAR,SKD,Hartwick,2pmi,To Basket,Xymier Thomas,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,183,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,184,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,185,1.0,2025
-HAR,SKD,Hartwick,3pmi,Dribble Jumper,Shane Micallef,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,186,4.0,2025
-HAR,SKD,Hartwick,2pmi,To Basket,Cosmo Hardinson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,187,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,Iso,Left,N/A,Alexei Downie,Cuts,N/A,Flash,Empire 8,Liberty League,188,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,190,1.0,2025
-HAR,SKD,Hartwick,Turnover,N/A,Joey Mclaurin,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,191,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Hakeem Daphnis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,192,1.0,2025
-HAR,SKD,Hartwick,2pmi,Drop Step,John Bangel,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,193,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Nick Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,194,2.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Jack LaGarde,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,195,1.0,2025
-HAR,SKD,Hartwick,Foul,To Basket,Shane Micallef,PNR,High,Off,Xymier Thomas,Cuts,N/A,Basket,Empire 8,Liberty League,196,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Fumani Sithole,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,199,4.0,2025
-HAR,SKD,Hartwick,2pmi,To Basket,John Bangel,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,200,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Jack LaGarde,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,201,1.0,2025
-HAR,SKD,Hartwick,2pMa,To Basket,John Bangel,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,202,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Prince Shyllon,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,204,4.0,2025
-HAR,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Prince Shyllon,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,206,4.0,2025
-HAR,SKD,Hartwick,Foul,To Basket,Joey Mclaurin,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,207,1.0,2025
-HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Prince Shyllon,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,211,4.0,2025
-HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Ethan Madeiros,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,212,1.0,2025
-HAR,SKD,Hartwick,3pMa,No Dribble Jumper,Shane Micallef,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,213,4.0,2025
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+1,HAR,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Hakeem Daphnis,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,2,3.0,2024-12-03
+2,HAR,SKD,Hartwick,2pMa,To Basket,Henry Perkins,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,3,1.0,2024-12-03
+3,HAR,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Joey Skoric,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Empire 8,Liberty League,4,1.0,2024-12-03
+4,HAR,SKD,Hartwick,2pmi,N/A,Henry Perkins,Post,Right,Face Up,N/A,N/A,N/A,N/A,Empire 8,Liberty League,5,1.0,2024-12-03
+5,HAR,SKD,Hartwick,2pMa,To Basket,Henry Perkins,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,6,1.0,2024-12-03
+6,HAR,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,7,4.0,2024-12-03
+7,HAR,SKD,Hartwick,3pMa,Dribble Jumper,Brian Bonin,Iso,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,8,4.0,2024-12-03
+8,HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,9,4.0,2024-12-03
+9,HAR,SKD,Hartwick,2pmi,No Dribble Jumper,John Bangel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,10,3.0,2024-12-03
+10,HAR,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Hakeem Daphnis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,11,3.0,2024-12-03
+11,HAR,SKD,Hartwick,3pmi,Dribble Jumper,Mike Gitz,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,12,4.0,2024-12-03
+12,HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Alexei Downie,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,13,4.0,2024-12-03
+15,HAR,SKD,Hartwick,2pmi,To Basket,Henry Perkins,Post,Left,Left Shoulder,John Bangel,Cuts,N/A,Basket,Empire 8,Liberty League,16,1.0,2024-12-03
+16,HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Aidan Roy,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,17,1.0,2024-12-03
+17,HAR,SKD,Hartwick,Foul,Dribble Jumper,Brian Bonin,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,18,2.0,2024-12-03
+20,HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Alexei Downie,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,21,1.0,2024-12-03
+21,HAR,SKD,Hartwick,2pmi,To Basket,Mike Gitz,PNR,Left,Off,John Bangel,P&R Roll Man,N/A,Slips,Empire 8,Liberty League,22,1.0,2024-12-03
+22,HAR,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Aidan Roy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,23,4.0,2024-12-03
+23,HAR,SKD,Hartwick,Turnover,To Basket,Brian Bonin,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,24,1.0,2024-12-03
+24,HAR,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Nick Padilla,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,25,3.0,2024-12-03
+26,HAR,SKD,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,27,1.0,2024-12-03
+27,HAR,SKD,Hartwick,Turnover,To Basket,Malachi Polson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,28,1.0,2024-12-03
+29,HAR,SKD,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,30,1.0,2024-12-03
+30,HAR,SKD,Hartwick,Turnover,N/A,Brian Bonin,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,31,1.0,2024-12-03
+31,HAR,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Alexei Downie,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,32,2.0,2024-12-03
+33,HAR,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Jake Walsh,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,34,3.0,2024-12-03
+34,HAR,SKD,Hartwick,2pmi,To Basket,Joey Mclaurin,PNR,Right,Off,Henry Perkins,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,35,1.0,2024-12-03
+35,HAR,SKD,Skidmore Thoroughbreds,Turnover,N/A,Jake Walsh,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,36,1.0,2024-12-03
+36,HAR,SKD,Hartwick,2pmi,To Basket,Joey Mclaurin,PNR,High,Off,Cosmo Hardinson,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,37,1.0,2024-12-03
+37,HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,38,4.0,2024-12-03
+39,HAR,SKD,Hartwick,Turnover,N/A,Cosmo Hardinson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,40,1.0,2024-12-03
+40,HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Jake Walsh,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,41,1.0,2024-12-03
+41,HAR,SKD,Hartwick,Turnover,To Basket,Joey Mclaurin,PNR,Left,N/A,Henry Perkins,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,42,1.0,2024-12-03
+42,HAR,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Charlie Fantom,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,43,3.0,2024-12-03
+44,HAR,SKD,Hartwick,2pMa,To Basket,Joey Mclaurin,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,45,1.0,2024-12-03
+46,HAR,SKD,Skidmore Thoroughbreds,2pmi,No Dribble Jumper,Joey Skoric,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,47,3.0,2024-12-03
+47,HAR,SKD,Hartwick,3pMa,No Dribble Jumper,Joey Mclaurin,PNR,High,Away,Shane Micallef,Spot Ups,N/A,Shot,Empire 8,Liberty League,48,4.0,2024-12-03
+48,HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,49,4.0,2024-12-03
+49,HAR,SKD,Hartwick,2pMa,N/A,Henry Perkins,Post,Left,Face Up,N/A,N/A,N/A,N/A,Empire 8,Liberty League,50,1.0,2024-12-03
+50,HAR,SKD,Skidmore Thoroughbreds,Foul,To Basket,Joey Skoric,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,51,1.0,2024-12-03
+54,HAR,SKD,Hartwick,3pMa,Dribble Jumper,Shane Micallef,PNR,High,Off,Joey Mclaurin,Spot Ups,Left,Drive,Empire 8,Liberty League,55,4.0,2024-12-03
+55,HAR,SKD,Skidmore Thoroughbreds,2pMa,No Dribble Jumper,Joey Skoric,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,56,3.0,2024-12-03
+56,HAR,SKD,Hartwick,3pmi,No Dribble Jumper,Shane Micallef,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,57,4.0,2024-12-03
+57,HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Empire 8,Liberty League,58,4.0,2024-12-03
+58,HAR,SKD,Hartwick,Foul,To Basket,Joe Bangel,Post,Right,Right Shoulder,John Bangel,Cuts,N/A,Basket,Empire 8,Liberty League,59,1.0,2024-12-03
+60,HAR,SKD,Skidmore Thoroughbreds,Turnover,N/A,Aidan Roy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,61,1.0,2024-12-03
+61,HAR,SKD,Hartwick,2pmi,Dribble Jumper,Joey Mclaurin,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,62,3.0,2024-12-03
+63,HAR,SKD,Hartwick,3pmi,No Dribble Jumper,Joey Mclaurin,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,64,4.0,2024-12-03
+65,HAR,SKD,Hartwick,Turnover,N/A,Cosmo Hardinson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,66,1.0,2024-12-03
+66,HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Aidan Roy,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,67,1.0,2024-12-03
+67,HAR,SKD,Hartwick,2pmi,To Basket,Shane Micallef,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,68,1.0,2024-12-03
+68,HAR,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,69,4.0,2024-12-03
+69,HAR,SKD,Hartwick,Turnover,N/A,Shane Micallef,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,70,1.0,2024-12-03
+70,HAR,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Hakeem Daphnis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,71,1.0,2024-12-03
+71,HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Charlie Fantom,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,72,1.0,2024-12-03
+72,HAR,SKD,Hartwick,Foul,N/A,John Bangel,Post,Middle,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,73,1.0,2024-12-03
+75,HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Alexei Downie,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,76,4.0,2024-12-03
+76,HAR,SKD,Hartwick,2pmi,N/A,Henry Perkins,Post,Left,Face Up,N/A,N/A,N/A,N/A,Empire 8,Liberty League,77,1.0,2024-12-03
+77,HAR,SKD,Hartwick,2pmi,To Basket,John Bangel,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,78,1.0,2024-12-03
+78,HAR,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Hakeem Daphnis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,79,3.0,2024-12-03
+79,HAR,SKD,Hartwick,2pmi,To Basket,John Bangel,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,80,1.0,2024-12-03
+80,HAR,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Hakeem Daphnis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,81,4.0,2024-12-03
+81,HAR,SKD,Hartwick,2pMa,To Basket,Henry Perkins,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,82,1.0,2024-12-03
+82,HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Hakeem Daphnis,Iso,Left,N/A,Alexei Downie,Cuts,N/A,Basket,Empire 8,Liberty League,83,1.0,2024-12-03
+83,HAR,SKD,Hartwick,Turnover,N/A,Henry Perkins,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,84,1.0,2024-12-03
+84,HAR,SKD,Skidmore Thoroughbreds,Turnover,To Basket,Hakeem Daphnis,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,85,1.0,2024-12-03
+85,HAR,SKD,Hartwick,Turnover,N/A,Mike Gitz,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,86,1.0,2024-12-03
+86,HAR,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Joey Skoric,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,87,1.0,2024-12-03
+87,HAR,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,88,1.0,2024-12-03
+88,HAR,SKD,Hartwick,2pmi,Drop Step,Brian Bonin,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,89,1.0,2024-12-03
+89,HAR,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Hakeem Daphnis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,90,4.0,2024-12-03
+90,HAR,SKD,Hartwick,2pmi,To Basket,Malachi Polson,PNR,Right,Off,Henry Perkins,P&R Roll Man,N/A,Slips,Empire 8,Liberty League,91,1.0,2024-12-03
+92,HAR,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Alexei Downie,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,93,4.0,2024-12-03
+93,HAR,SKD,Hartwick,2pmi,To Basket,Malachi Polson,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,94,1.0,2024-12-03
+94,HAR,SKD,Hartwick,2pMa,To Basket,Henry Perkins,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,95,1.0,2024-12-03
+95,HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,PNR,High,Off,Hakeem Daphnis,Spot Ups,N/A,Shot,Empire 8,Liberty League,96,4.0,2024-12-03
+97,HAR,SKD,Hartwick,3pmi,No Dribble Jumper,Brian Bonin,PNR,High,Off,Malachi Polson,Spot Ups,N/A,Shot,Empire 8,Liberty League,98,4.0,2024-12-03
+98,HAR,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Charlie Fantom,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,99,3.0,2024-12-03
+99,HAR,SKD,Hartwick,2pmi,N/A,Henry Perkins,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,100,1.0,2024-12-03
+100,HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Aidan Roy,PNR,High,Off,Alexei Downie,Cuts,N/A,Basket,Empire 8,Liberty League,101,1.0,2024-12-03
+101,HAR,SKD,Hartwick,2pmi,To Basket,Brian Bonin,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,102,1.0,2024-12-03
+103,HAR,SKD,Hartwick,2pMa,To Basket,Henry Perkins,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,104,1.0,2024-12-03
+105,HAR,SKD,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,Iso,Right,N/A,Nick Padilla,Spot Ups,N/A,N/A,Empire 8,Liberty League,106,1.0,2024-12-03
+106,HAR,SKD,Hartwick,3pmi,No Dribble Jumper,Mike Gitz,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,107,4.0,2024-12-03
+107,HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Alexei Downie,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,108,4.0,2024-12-03
+108,HAR,SKD,Hartwick,2pMa,N/A,Henry Perkins,Post,Left,Face Up,N/A,N/A,N/A,N/A,Empire 8,Liberty League,109,1.0,2024-12-03
+109,HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,110,1.0,2024-12-03
+110,HAR,SKD,Hartwick,2pmi,Drop Step,Henry Perkins,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,111,1.0,2024-12-03
+111,HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Charlie Fantom,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Empire 8,Liberty League,112,1.0,2024-12-03
+112,HAR,SKD,Hartwick,Turnover,N/A,Malachi Polson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,113,1.0,2024-12-03
+113,HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,114,1.0,2024-12-03
+114,HAR,SKD,Hartwick,3pMa,Dribble Jumper,Mike Gitz,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,115,4.0,2024-12-03
+115,HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,116,4.0,2024-12-03
+116,HAR,SKD,Hartwick,Turnover,N/A,Mike Gitz,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,117,1.0,2024-12-03
+117,HAR,SKD,Skidmore Thoroughbreds,2pMa,No Dribble Jumper,Nick Padilla,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,118,3.0,2024-12-03
+118,HAR,SKD,Hartwick,2pMa,To Basket,Joe Bangel,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,119,1.0,2024-12-03
+119,HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,120,4.0,2024-12-03
+120,HAR,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,121,1.0,2024-12-03
+121,HAR,SKD,Hartwick,2pMa,To Basket,Xymier Thomas,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,122,1.0,2024-12-03
+122,HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Alexei Downie,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,123,4.0,2024-12-03
+123,HAR,SKD,Hartwick,3pmi,No Dribble Jumper,Brian Bonin,Iso,Right,N/A,Xymier Thomas,Spot Ups,N/A,Shot,Empire 8,Liberty League,124,4.0,2024-12-03
+124,HAR,SKD,Skidmore Thoroughbreds,And1,To Basket,Charlie Fantom,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,125,1.0,2024-12-03
+126,HAR,SKD,Hartwick,3pmi,Dribble Jumper,Joey Mclaurin,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,127,4.0,2024-12-03
+127,HAR,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Charlie Fantom,PNR,High,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,128,2.0,2024-12-03
+128,HAR,SKD,Skidmore Thoroughbreds,Foul,To Basket,Joey Skoric,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,129,1.0,2024-12-03
+132,HAR,SKD,Skidmore Thoroughbreds,Foul,To Basket,Charlie Fantom,PNR,High,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,133,1.0,2024-12-03
+135,HAR,SKD,Hartwick,2pmi,To Basket,Joey Mclaurin,PNR,High,Away,Cosmo Hardinson,Cuts,N/A,Basket,Empire 8,Liberty League,136,1.0,2024-12-03
+136,HAR,SKD,Skidmore Thoroughbreds,Turnover,N/A,Charlie Fantom,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,137,1.0,2024-12-03
+137,HAR,SKD,Hartwick,2pMa,To Basket,Cosmo Hardinson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,138,1.0,2024-12-03
+138,HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,139,4.0,2024-12-03
+139,HAR,SKD,Hartwick,And1,To Basket,Malachi Polson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,140,1.0,2024-12-03
+141,HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Jake Walsh,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,142,4.0,2024-12-03
+143,HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Charlie Fantom,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,144,1.0,2024-12-03
+145,HAR,SKD,Hartwick,Turnover,N/A,Joe Bangel,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,146,1.0,2024-12-03
+146,HAR,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Hakeem Daphnis,PNR,High,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,147,1.0,2024-12-03
+147,HAR,SKD,Hartwick,3pMa,No Dribble Jumper,Shane Micallef,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,148,4.0,2024-12-03
+148,HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Jake Walsh,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,149,1.0,2024-12-03
+149,HAR,SKD,Hartwick,Turnover,N/A,Cosmo Hardinson,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,150,1.0,2024-12-03
+150,HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Jake Walsh,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Empire 8,Liberty League,151,1.0,2024-12-03
+151,HAR,SKD,Hartwick,Turnover,N/A,Malachi Polson,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,152,1.0,2024-12-03
+152,HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,153,4.0,2024-12-03
+153,HAR,SKD,Hartwick,3pMa,No Dribble Jumper,Mike Gitz,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Empire 8,Liberty League,154,4.0,2024-12-03
+154,HAR,SKD,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,155,1.0,2024-12-03
+155,HAR,SKD,Hartwick,Turnover,N/A,Joey Mclaurin,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,156,1.0,2024-12-03
+156,HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Hakeem Daphnis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,157,1.0,2024-12-03
+158,HAR,SKD,Hartwick,2pmi,To Basket,Brian Bonin,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,159,1.0,2024-12-03
+159,HAR,SKD,Skidmore Thoroughbreds,Foul,To Basket,Jake Walsh,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,160,1.0,2024-12-03
+162,HAR,SKD,Hartwick,Foul,To Basket,Henry Perkins,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Empire 8,Liberty League,163,1.0,2024-12-03
+165,HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Joey Skoric,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,166,1.0,2024-12-03
+166,HAR,SKD,Hartwick,Turnover,N/A,Joey Mclaurin,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,167,1.0,2024-12-03
+167,HAR,SKD,Skidmore Thoroughbreds,Foul,To Basket,Aidan Roy,PNR,High,Off,Joey Skoric,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,168,1.0,2024-12-03
+170,HAR,SKD,Hartwick,3pMa,No Dribble Jumper,Malachi Polson,PNR,High,Off,Shane Micallef,P&R Roll Man,N/A,Slips,Empire 8,Liberty League,171,4.0,2024-12-03
+171,HAR,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Hakeem Daphnis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,172,3.0,2024-12-03
+172,HAR,SKD,Hartwick,3pmi,No Dribble Jumper,Cosmo Hardinson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,173,4.0,2024-12-03
+173,HAR,SKD,Skidmore Thoroughbreds,Foul,To Basket,Joey Skoric,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,174,1.0,2024-12-03
+176,HAR,SKD,Hartwick,Turnover,N/A,Joey Mclaurin,PNR,High,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,177,1.0,2024-12-03
+177,HAR,SKD,Skidmore Thoroughbreds,Foul,To Basket,Aidan Roy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,178,1.0,2024-12-03
+180,HAR,SKD,Hartwick,2pmi,To Basket,Shane Micallef,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,181,1.0,2024-12-03
+181,HAR,SKD,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,182,1.0,2024-12-03
+182,HAR,SKD,Hartwick,2pmi,To Basket,Xymier Thomas,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,183,1.0,2024-12-03
+183,HAR,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,184,1.0,2024-12-03
+184,HAR,SKD,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,185,1.0,2024-12-03
+185,HAR,SKD,Hartwick,3pmi,Dribble Jumper,Shane Micallef,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,186,4.0,2024-12-03
+186,HAR,SKD,Hartwick,2pmi,To Basket,Cosmo Hardinson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,187,1.0,2024-12-03
+187,HAR,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,Iso,Left,N/A,Alexei Downie,Cuts,N/A,Flash,Empire 8,Liberty League,188,1.0,2024-12-03
+189,HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,190,1.0,2024-12-03
+190,HAR,SKD,Hartwick,Turnover,N/A,Joey Mclaurin,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,191,1.0,2024-12-03
+191,HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Hakeem Daphnis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,192,1.0,2024-12-03
+192,HAR,SKD,Hartwick,2pmi,Drop Step,John Bangel,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,193,1.0,2024-12-03
+193,HAR,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Nick Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,194,2.0,2024-12-03
+194,HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Jack LaGarde,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,195,1.0,2024-12-03
+195,HAR,SKD,Hartwick,Foul,To Basket,Shane Micallef,PNR,High,Off,Xymier Thomas,Cuts,N/A,Basket,Empire 8,Liberty League,196,1.0,2024-12-03
+198,HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Fumani Sithole,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,199,4.0,2024-12-03
+199,HAR,SKD,Hartwick,2pmi,To Basket,John Bangel,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,200,1.0,2024-12-03
+200,HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Jack LaGarde,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,201,1.0,2024-12-03
+201,HAR,SKD,Hartwick,2pMa,To Basket,John Bangel,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,202,1.0,2024-12-03
+203,HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Prince Shyllon,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,204,4.0,2024-12-03
+205,HAR,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Prince Shyllon,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,206,4.0,2024-12-03
+206,HAR,SKD,Hartwick,Foul,To Basket,Joey Mclaurin,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,207,1.0,2024-12-03
+210,HAR,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Prince Shyllon,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,211,4.0,2024-12-03
+211,HAR,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Ethan Madeiros,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,212,1.0,2024-12-03
+212,HAR,SKD,Hartwick,3pMa,No Dribble Jumper,Shane Micallef,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,213,4.0,2024-12-03

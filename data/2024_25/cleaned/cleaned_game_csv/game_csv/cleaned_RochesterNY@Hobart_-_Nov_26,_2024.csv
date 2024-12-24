@@ -1,160 +1,160 @@
-Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
-HOB,ROY,Hobart College Statesmen,2pmi,Drop Step,Carter Meshanic,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,1,1.0,2025
-HOB,ROY,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,3,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,3pmi,Dribble Jumper,Ethan McEachern,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,4,4.0,2025
-HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Hunter Meshanic,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,5,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,Turnover,N/A,Ethan McEachern,PNR,High,Off,Logan Jagodzinski,Spot Ups,Right,Drive,Liberty League,UNKNOWN,6,1.0,2025
-HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,7,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Logan Jagodzinski,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,8,1.0,2025
-HOB,ROY,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,9,4.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,Turnover,N/A,David Ackles,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,10,1.0,2025
-HOB,ROY,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,11,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pMa,To Basket,Corvin Oprea,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,12,1.0,2025
-HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,PNR,Left,Away,Allen Mordi,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,13,4.0,2025
-HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Hunter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,15,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,3pMa,No Dribble Jumper,Ethan McEachern,PNR,High,Off,Corvin Oprea,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,16,4.0,2025
-HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Carter Meshanic,Post,Right,Right Shoulder,Alex Moesch,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,17,4.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Corvin Oprea,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,18,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,3pMa,No Dribble Jumper,Ethan McEachern,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,20,4.0,2025
-HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,21,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,3pMa,No Dribble Jumper,Logan Jagodzinski,Post,Right,N/A,Nate Sock,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,22,4.0,2025
-HOB,ROY,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,23,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pmi,Dribble Jumper,Nate Sock,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,24,2.0,2025
-HOB,ROY,Hobart College Statesmen,3pMa,No Dribble Jumper,Aidan Rodgers,PNR,High,Away,Allen Mordi,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,25,4.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,Foul,Dribble Jumper,Luke Razi,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,26,2.0,2025
-HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Allen Mordi,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,29,4.0,2025
-HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Dorian Paki,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,30,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pmi,N/A,Bennett Kwiecinski,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,31,1.0,2025
-HOB,ROY,Hobart College Statesmen,2pmi,Dribble Jumper,Hunter Meshanic,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,32,2.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pMa,To Basket,Theo Murray,Iso,Right,N/A,Camden Fleming,Cuts,N/A,Basket,Liberty League,UNKNOWN,33,1.0,2025
-HOB,ROY,Hobart College Statesmen,3pmi,Dribble Jumper,Monty Nedd,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,34,4.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Luke Razi,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,35,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Bennett Kwiecinski,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,36,1.0,2025
-HOB,ROY,Hobart College Statesmen,3pmi,Dribble Jumper,Alex Moesch,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,37,4.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,Turnover,N/A,Theo Murray,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,38,1.0,2025
-HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Justin Price,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,39,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Bennett Kwiecinski,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,40,1.0,2025
-HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Dorian Paki,Post,Left,Right Shoulder,Alex Moesch,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,41,4.0,2025
-HOB,ROY,Hobart College Statesmen,Turnover,N/A,Monty Nedd,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,44,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Luke Razi,PNR,High,Off,Camden Fleming,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,45,4.0,2025
-HOB,ROY,Hobart College Statesmen,Turnover,N/A,Gabriel Bergeron,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,46,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,Turnover,N/A,Logan Jagodzinski,PNR,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,47,1.0,2025
-HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Dorian Paki,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,48,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,Foul,To Basket,Theo Murray,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,49,1.0,2025
-HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,52,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,3pmi,Dribble Jumper,Logan Jagodzinski,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,53,4.0,2025
-HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Dorian Paki,Post,Right,Right Shoulder,Gabriel Bergeron,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,54,4.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,3pmi,Dribble Jumper,Ethan McEachern,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,55,4.0,2025
-HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Dorian Paki,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,56,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Logan Jagodzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,57,4.0,2025
-HOB,ROY,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,60,1.0,2025
-HOB,ROY,Hobart College Statesmen,Turnover,N/A,Gabriel Bergeron,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,62,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pmi,Dribble Jumper,Nate Beitel,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,63,3.0,2025
-HOB,ROY,Hobart College Statesmen,2pmi,No Dribble Jumper,Carter Meshanic,Post,Left,Left Shoulder,Allen Mordi,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,64,3.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pmi,No Dribble Jumper,David Ackles,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,65,3.0,2025
-HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,PNR,Left,Off,Niko Lutz,P&R Roll Man,N/A,Pop,Liberty League,UNKNOWN,66,4.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Corvin Oprea,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,67,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Logan Jagodzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,69,4.0,2025
-HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Carter Meshanic,Post,Left,Left Shoulder,Niko Lutz,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,70,4.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Logan Jagodzinski,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,71,4.0,2025
-HOB,ROY,Hobart College Statesmen,2pmi,Dribble Jumper,Allen Mordi,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,73,2.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,Turnover,N/A,Luke Razi,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,74,1.0,2025
-HOB,ROY,Hobart College Statesmen,3pmi,Dribble Jumper,Aidan Rodgers,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,75,4.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pMa,To Basket,Nate Sock,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,76,1.0,2025
-HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,77,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pMa,To Basket,Bennett Kwiecinski,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,78,1.0,2025
-HOB,ROY,Hobart College Statesmen,Turnover,N/A,Carter Meshanic,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,79,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,Turnover,N/A,Bennett Kwiecinski,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,80,1.0,2025
-HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Off Screens,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,82,4.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pmi,N/A,Theo Murray,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,83,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Logan Jagodzinski,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,85,4.0,2025
-HOB,ROY,Hobart College Statesmen,3pMa,Dribble Jumper,Aidan Rodgers,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,86,4.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Logan Jagodzinski,Post,Left,N/A,Nate Sock,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,88,4.0,2025
-HOB,ROY,Hobart College Statesmen,2pmi,Dribble Jumper,Carter Meshanic,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,90,2.0,2025
-HOB,ROY,Hobart College Statesmen,2pmi,N/A,Carter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,91,1.0,2025
-HOB,ROY,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,92,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Theo Murray,PNR,High,Off,Logan Jagodzinski,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,93,4.0,2025
-HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,Iso,Left,N/A,Allen Mordi,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,97,4.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Nate Sock,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,98,4.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pMa,To Basket,Logan Jagodzinski,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,99,1.0,2025
-HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Allen Mordi,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,100,4.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Corvin Oprea,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,101,4.0,2025
-HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Alex Moesch,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,102,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pmi,Drop Step,David Ackles,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,103,1.0,2025
-HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,PNR,Left,Away,Hunter Meshanic,Spot Ups,Right,Drive,Liberty League,UNKNOWN,104,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pmi,Dribble Jumper,Ethan McEachern,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,105,2.0,2025
-HOB,ROY,Hobart College Statesmen,2pmi,To Basket,Alex Moesch,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,106,1.0,2025
-HOB,ROY,Hobart College Statesmen,Turnover,To Basket,Carter Meshanic,Post,Left,Left Shoulder,Allen Mordi,Cuts,N/A,Basket,Liberty League,UNKNOWN,107,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pMa,To Basket,Bennett Kwiecinski,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,108,1.0,2025
-HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,109,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,3pMa,Dribble Jumper,Ethan McEachern,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,110,4.0,2025
-HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,PNR,High,Off,Alex Moesch,Spot Ups,Right,Drive,Liberty League,UNKNOWN,111,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,3pMa,No Dribble Jumper,Ethan McEachern,PNR,High,Off,Logan Jagodzinski,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,112,4.0,2025
-HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,PNR,High,Off,Alex Moesch,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,113,4.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,Turnover,N/A,Nate Sock,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,114,1.0,2025
-HOB,ROY,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Hand Offs,Left,Stationary,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,116,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,Turnover,N/A,Bennett Kwiecinski,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,117,1.0,2025
-HOB,ROY,Hobart College Statesmen,3pMa,No Dribble Jumper,Hunter Meshanic,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,118,4.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,Turnover,N/A,Camden Fleming,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,119,1.0,2025
-HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Hunter Meshanic,Post,Left,Left Shoulder,Allen Mordi,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,120,4.0,2025
-HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,121,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Bennett Kwiecinski,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,122,1.0,2025
-HOB,ROY,Hobart College Statesmen,3pmi,Dribble Jumper,Aidan Rodgers,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,123,4.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,Foul,To Basket,Luke Razi,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,124,1.0,2025
-HOB,ROY,Hobart College Statesmen,3pmi,Dribble Jumper,Aidan Rodgers,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,127,4.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,Foul,To Basket,Camden Fleming,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,128,1.0,2025
-HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,PNR,High,Off,Carter Meshanic,Spot Ups,Right,Drive,Liberty League,UNKNOWN,131,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Bennett Kwiecinski,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,132,1.0,2025
-HOB,ROY,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,PNR,High,Off,Carter Meshanic,Spot Ups,Left,Drive,Liberty League,UNKNOWN,133,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Corvin Oprea,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,135,4.0,2025
-HOB,ROY,Hobart College Statesmen,Turnover,N/A,Dorian Paki,Post,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,136,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pMa,To Basket,Nate Sock,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,137,1.0,2025
-HOB,ROY,Hobart College Statesmen,2pmi,Dribble Jumper,Aidan Rodgers,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,138,2.0,2025
-HOB,ROY,Hobart College Statesmen,Foul,To Basket,Dorian Paki,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,139,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pMa,To Basket,Savvas Gonatas,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,142,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pMa,Dribble Jumper,Nate Sock,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,145,2.0,2025
-HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Allen Mordi,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,147,4.0,2025
-HOB,ROY,Hobart College Statesmen,2pmi,To Basket,Allen Mordi,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,149,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Nate Sock,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,150,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Corvin Oprea,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,151,1.0,2025
-HOB,ROY,Hobart College Statesmen,2pmi,To Basket,Monty Nedd,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,152,1.0,2025
-HOB,ROY,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,153,1.0,2025
-HOB,ROY,Hobart College Statesmen,3pMa,No Dribble Jumper,Monty Nedd,PNR,High,Off,Carter Meshanic,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,155,4.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pMa,Dribble Jumper,Luke Razi,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,156,2.0,2025
-HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Allen Mordi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,157,4.0,2025
-HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,159,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,And1,To Basket,Nate Sock,PNR,High,Off,Logan Jagodzinski,Spot Ups,Right,Drive,Liberty League,UNKNOWN,160,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Bennett Kwiecinski,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,165,1.0,2025
-HOB,ROY,Hobart College Statesmen,Foul,To Basket,Carter Meshanic,Post,Left,Left Shoulder,Monty Nedd,Spot Ups,Right,Drive,Liberty League,UNKNOWN,166,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Savvas Gonatas,Post,Right,N/A,Camden Fleming,Cuts,N/A,Basket,Liberty League,UNKNOWN,169,1.0,2025
-HOB,ROY,Hobart College Statesmen,Turnover,N/A,Alex Moesch,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,170,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Logan Jagodzinski,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,171,1.0,2025
-HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Monty Nedd,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,172,4.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Luke Razi,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,173,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Camden Fleming,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,174,4.0,2025
-HOB,ROY,Hobart College Statesmen,2pMa,Dribble Jumper,Alex Moesch,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,175,2.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pmi,Drop Step,Nate Sock,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,176,1.0,2025
-HOB,ROY,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,177,1.0,2025
-HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Hunter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,178,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,3pMa,Dribble Jumper,Nate Sock,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,179,4.0,2025
-HOB,ROY,Hobart College Statesmen,Foul,To Basket,Dorian Paki,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,180,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,Foul,To Basket,Ethan McEachern,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,183,1.0,2025
-HOB,ROY,Hobart College Statesmen,Turnover,N/A,Alex Moesch,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,187,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Logan Jagodzinski,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,188,4.0,2025
-HOB,ROY,Hobart College Statesmen,Foul,Drop Step,Hunter Meshanic,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,189,1.0,2025
-HOB,ROY,,Foul,N/A,Logan Jagodzinski,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,192,1.0,2025
-HOB,ROY,Hobart College Statesmen,,N/A,Aidan Rodgers,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,195,1.0,2025
-HOB,ROY,,Foul,N/A,Logan Jagodzinski,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,197,1.0,2025
-HOB,ROY,,Foul,N/A,Aidan Rodgers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,200,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,2pMa,To Basket,Ethan McEachern,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,202,1.0,2025
-HOB,ROY,Hobart College Statesmen,,N/A,Hunter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,203,1.0,2025
-HOB,ROY,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,204,4.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,3pMa,No Dribble Jumper,Nate Sock,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,205,4.0,2025
-HOB,ROY,,Foul,N/A,Monty Nedd,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,206,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,3pMa,Dribble Jumper,Ethan McEachern,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,208,4.0,2025
-HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Alex Moesch,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,209,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,Foul,Dribble Jumper,Logan Jagodzinski,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,210,4.0,2025
-HOB,ROY,,Foul,N/A,Alex Moesch,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,215,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,Turnover,N/A,Nate Sock,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,218,1.0,2025
-HOB,ROY,,Foul,N/A,Carter Meshanic,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,219,1.0,2025
-HOB,ROY,Rochester (NY) Yellowjackets,3pmi,Dribble Jumper,Bennett Kwiecinski,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,222,4.0,2025
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,HOB,ROY,Hobart College Statesmen,2pmi,Drop Step,Carter Meshanic,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,1,1.0,2024-11-26
+2,HOB,ROY,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,3,1.0,2024-11-26
+3,HOB,ROY,Rochester (NY) Yellowjackets,3pmi,Dribble Jumper,Ethan McEachern,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,4,4.0,2024-11-26
+4,HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Hunter Meshanic,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,5,1.0,2024-11-26
+5,HOB,ROY,Rochester (NY) Yellowjackets,Turnover,N/A,Ethan McEachern,PNR,High,Off,Logan Jagodzinski,Spot Ups,Right,Drive,Liberty League,UNKNOWN,6,1.0,2024-11-26
+6,HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,7,1.0,2024-11-26
+7,HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Logan Jagodzinski,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,8,1.0,2024-11-26
+8,HOB,ROY,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,9,4.0,2024-11-26
+9,HOB,ROY,Rochester (NY) Yellowjackets,Turnover,N/A,David Ackles,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,10,1.0,2024-11-26
+10,HOB,ROY,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,11,1.0,2024-11-26
+11,HOB,ROY,Rochester (NY) Yellowjackets,2pMa,To Basket,Corvin Oprea,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,12,1.0,2024-11-26
+12,HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,PNR,Left,Away,Allen Mordi,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,13,4.0,2024-11-26
+14,HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Hunter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,15,1.0,2024-11-26
+15,HOB,ROY,Rochester (NY) Yellowjackets,3pMa,No Dribble Jumper,Ethan McEachern,PNR,High,Off,Corvin Oprea,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,16,4.0,2024-11-26
+16,HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Carter Meshanic,Post,Right,Right Shoulder,Alex Moesch,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,17,4.0,2024-11-26
+17,HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Corvin Oprea,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,18,1.0,2024-11-26
+19,HOB,ROY,Rochester (NY) Yellowjackets,3pMa,No Dribble Jumper,Ethan McEachern,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,20,4.0,2024-11-26
+20,HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,21,1.0,2024-11-26
+21,HOB,ROY,Rochester (NY) Yellowjackets,3pMa,No Dribble Jumper,Logan Jagodzinski,Post,Right,N/A,Nate Sock,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,22,4.0,2024-11-26
+22,HOB,ROY,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,23,1.0,2024-11-26
+23,HOB,ROY,Rochester (NY) Yellowjackets,2pmi,Dribble Jumper,Nate Sock,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,24,2.0,2024-11-26
+24,HOB,ROY,Hobart College Statesmen,3pMa,No Dribble Jumper,Aidan Rodgers,PNR,High,Away,Allen Mordi,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,25,4.0,2024-11-26
+25,HOB,ROY,Rochester (NY) Yellowjackets,Foul,Dribble Jumper,Luke Razi,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,26,2.0,2024-11-26
+28,HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Allen Mordi,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,29,4.0,2024-11-26
+29,HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Dorian Paki,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,30,1.0,2024-11-26
+30,HOB,ROY,Rochester (NY) Yellowjackets,2pmi,N/A,Bennett Kwiecinski,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,31,1.0,2024-11-26
+31,HOB,ROY,Hobart College Statesmen,2pmi,Dribble Jumper,Hunter Meshanic,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,32,2.0,2024-11-26
+32,HOB,ROY,Rochester (NY) Yellowjackets,2pMa,To Basket,Theo Murray,Iso,Right,N/A,Camden Fleming,Cuts,N/A,Basket,Liberty League,UNKNOWN,33,1.0,2024-11-26
+33,HOB,ROY,Hobart College Statesmen,3pmi,Dribble Jumper,Monty Nedd,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,34,4.0,2024-11-26
+34,HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Luke Razi,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,35,1.0,2024-11-26
+35,HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Bennett Kwiecinski,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,36,1.0,2024-11-26
+36,HOB,ROY,Hobart College Statesmen,3pmi,Dribble Jumper,Alex Moesch,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,37,4.0,2024-11-26
+37,HOB,ROY,Rochester (NY) Yellowjackets,Turnover,N/A,Theo Murray,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,38,1.0,2024-11-26
+38,HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Justin Price,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,39,1.0,2024-11-26
+39,HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Bennett Kwiecinski,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,40,1.0,2024-11-26
+40,HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Dorian Paki,Post,Left,Right Shoulder,Alex Moesch,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,41,4.0,2024-11-26
+43,HOB,ROY,Hobart College Statesmen,Turnover,N/A,Monty Nedd,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,44,1.0,2024-11-26
+44,HOB,ROY,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Luke Razi,PNR,High,Off,Camden Fleming,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,45,4.0,2024-11-26
+45,HOB,ROY,Hobart College Statesmen,Turnover,N/A,Gabriel Bergeron,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,46,1.0,2024-11-26
+46,HOB,ROY,Rochester (NY) Yellowjackets,Turnover,N/A,Logan Jagodzinski,PNR,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,47,1.0,2024-11-26
+47,HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Dorian Paki,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,48,1.0,2024-11-26
+48,HOB,ROY,Rochester (NY) Yellowjackets,Foul,To Basket,Theo Murray,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,49,1.0,2024-11-26
+51,HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,52,1.0,2024-11-26
+52,HOB,ROY,Rochester (NY) Yellowjackets,3pmi,Dribble Jumper,Logan Jagodzinski,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,53,4.0,2024-11-26
+53,HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Dorian Paki,Post,Right,Right Shoulder,Gabriel Bergeron,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,54,4.0,2024-11-26
+54,HOB,ROY,Rochester (NY) Yellowjackets,3pmi,Dribble Jumper,Ethan McEachern,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,55,4.0,2024-11-26
+55,HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Dorian Paki,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,56,1.0,2024-11-26
+56,HOB,ROY,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Logan Jagodzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,57,4.0,2024-11-26
+59,HOB,ROY,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,60,1.0,2024-11-26
+61,HOB,ROY,Hobart College Statesmen,Turnover,N/A,Gabriel Bergeron,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,62,1.0,2024-11-26
+62,HOB,ROY,Rochester (NY) Yellowjackets,2pmi,Dribble Jumper,Nate Beitel,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,63,3.0,2024-11-26
+63,HOB,ROY,Hobart College Statesmen,2pmi,No Dribble Jumper,Carter Meshanic,Post,Left,Left Shoulder,Allen Mordi,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,64,3.0,2024-11-26
+64,HOB,ROY,Rochester (NY) Yellowjackets,2pmi,No Dribble Jumper,David Ackles,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,65,3.0,2024-11-26
+65,HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,PNR,Left,Off,Niko Lutz,P&R Roll Man,N/A,Pop,Liberty League,UNKNOWN,66,4.0,2024-11-26
+66,HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Corvin Oprea,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,67,1.0,2024-11-26
+68,HOB,ROY,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Logan Jagodzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,69,4.0,2024-11-26
+69,HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Carter Meshanic,Post,Left,Left Shoulder,Niko Lutz,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,70,4.0,2024-11-26
+70,HOB,ROY,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Logan Jagodzinski,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,71,4.0,2024-11-26
+72,HOB,ROY,Hobart College Statesmen,2pmi,Dribble Jumper,Allen Mordi,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,73,2.0,2024-11-26
+73,HOB,ROY,Rochester (NY) Yellowjackets,Turnover,N/A,Luke Razi,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,74,1.0,2024-11-26
+74,HOB,ROY,Hobart College Statesmen,3pmi,Dribble Jumper,Aidan Rodgers,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,75,4.0,2024-11-26
+75,HOB,ROY,Rochester (NY) Yellowjackets,2pMa,To Basket,Nate Sock,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,76,1.0,2024-11-26
+76,HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,77,1.0,2024-11-26
+77,HOB,ROY,Rochester (NY) Yellowjackets,2pMa,To Basket,Bennett Kwiecinski,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,78,1.0,2024-11-26
+78,HOB,ROY,Hobart College Statesmen,Turnover,N/A,Carter Meshanic,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,79,1.0,2024-11-26
+79,HOB,ROY,Rochester (NY) Yellowjackets,Turnover,N/A,Bennett Kwiecinski,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,80,1.0,2024-11-26
+81,HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Off Screens,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,82,4.0,2024-11-26
+82,HOB,ROY,Rochester (NY) Yellowjackets,2pmi,N/A,Theo Murray,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,83,1.0,2024-11-26
+84,HOB,ROY,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Logan Jagodzinski,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,85,4.0,2024-11-26
+85,HOB,ROY,Hobart College Statesmen,3pMa,Dribble Jumper,Aidan Rodgers,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,86,4.0,2024-11-26
+87,HOB,ROY,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Logan Jagodzinski,Post,Left,N/A,Nate Sock,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,88,4.0,2024-11-26
+89,HOB,ROY,Hobart College Statesmen,2pmi,Dribble Jumper,Carter Meshanic,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,90,2.0,2024-11-26
+90,HOB,ROY,Hobart College Statesmen,2pmi,N/A,Carter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,91,1.0,2024-11-26
+91,HOB,ROY,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,92,1.0,2024-11-26
+92,HOB,ROY,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Theo Murray,PNR,High,Off,Logan Jagodzinski,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,93,4.0,2024-11-26
+96,HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,Iso,Left,N/A,Allen Mordi,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,97,4.0,2024-11-26
+97,HOB,ROY,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Nate Sock,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,98,4.0,2024-11-26
+98,HOB,ROY,Rochester (NY) Yellowjackets,2pMa,To Basket,Logan Jagodzinski,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,99,1.0,2024-11-26
+99,HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Allen Mordi,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,100,4.0,2024-11-26
+100,HOB,ROY,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Corvin Oprea,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,101,4.0,2024-11-26
+101,HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Alex Moesch,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,102,1.0,2024-11-26
+102,HOB,ROY,Rochester (NY) Yellowjackets,2pmi,Drop Step,David Ackles,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,103,1.0,2024-11-26
+103,HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,PNR,Left,Away,Hunter Meshanic,Spot Ups,Right,Drive,Liberty League,UNKNOWN,104,1.0,2024-11-26
+104,HOB,ROY,Rochester (NY) Yellowjackets,2pmi,Dribble Jumper,Ethan McEachern,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,105,2.0,2024-11-26
+105,HOB,ROY,Hobart College Statesmen,2pmi,To Basket,Alex Moesch,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,106,1.0,2024-11-26
+106,HOB,ROY,Hobart College Statesmen,Turnover,To Basket,Carter Meshanic,Post,Left,Left Shoulder,Allen Mordi,Cuts,N/A,Basket,Liberty League,UNKNOWN,107,1.0,2024-11-26
+107,HOB,ROY,Rochester (NY) Yellowjackets,2pMa,To Basket,Bennett Kwiecinski,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,108,1.0,2024-11-26
+108,HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,109,1.0,2024-11-26
+109,HOB,ROY,Rochester (NY) Yellowjackets,3pMa,Dribble Jumper,Ethan McEachern,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,110,4.0,2024-11-26
+110,HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,PNR,High,Off,Alex Moesch,Spot Ups,Right,Drive,Liberty League,UNKNOWN,111,1.0,2024-11-26
+111,HOB,ROY,Rochester (NY) Yellowjackets,3pMa,No Dribble Jumper,Ethan McEachern,PNR,High,Off,Logan Jagodzinski,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,112,4.0,2024-11-26
+112,HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,PNR,High,Off,Alex Moesch,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,113,4.0,2024-11-26
+113,HOB,ROY,Rochester (NY) Yellowjackets,Turnover,N/A,Nate Sock,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,114,1.0,2024-11-26
+115,HOB,ROY,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Hand Offs,Left,Stationary,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,116,1.0,2024-11-26
+116,HOB,ROY,Rochester (NY) Yellowjackets,Turnover,N/A,Bennett Kwiecinski,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,117,1.0,2024-11-26
+117,HOB,ROY,Hobart College Statesmen,3pMa,No Dribble Jumper,Hunter Meshanic,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,118,4.0,2024-11-26
+118,HOB,ROY,Rochester (NY) Yellowjackets,Turnover,N/A,Camden Fleming,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,119,1.0,2024-11-26
+119,HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Hunter Meshanic,Post,Left,Left Shoulder,Allen Mordi,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,120,4.0,2024-11-26
+120,HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,121,1.0,2024-11-26
+121,HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Bennett Kwiecinski,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,122,1.0,2024-11-26
+122,HOB,ROY,Hobart College Statesmen,3pmi,Dribble Jumper,Aidan Rodgers,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,123,4.0,2024-11-26
+123,HOB,ROY,Rochester (NY) Yellowjackets,Foul,To Basket,Luke Razi,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,124,1.0,2024-11-26
+126,HOB,ROY,Hobart College Statesmen,3pmi,Dribble Jumper,Aidan Rodgers,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,127,4.0,2024-11-26
+127,HOB,ROY,Rochester (NY) Yellowjackets,Foul,To Basket,Camden Fleming,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,128,1.0,2024-11-26
+130,HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,PNR,High,Off,Carter Meshanic,Spot Ups,Right,Drive,Liberty League,UNKNOWN,131,1.0,2024-11-26
+131,HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Bennett Kwiecinski,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,132,1.0,2024-11-26
+132,HOB,ROY,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,PNR,High,Off,Carter Meshanic,Spot Ups,Left,Drive,Liberty League,UNKNOWN,133,1.0,2024-11-26
+134,HOB,ROY,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Corvin Oprea,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,135,4.0,2024-11-26
+135,HOB,ROY,Hobart College Statesmen,Turnover,N/A,Dorian Paki,Post,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,136,1.0,2024-11-26
+136,HOB,ROY,Rochester (NY) Yellowjackets,2pMa,To Basket,Nate Sock,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,137,1.0,2024-11-26
+137,HOB,ROY,Hobart College Statesmen,2pmi,Dribble Jumper,Aidan Rodgers,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,138,2.0,2024-11-26
+138,HOB,ROY,Hobart College Statesmen,Foul,To Basket,Dorian Paki,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,139,1.0,2024-11-26
+141,HOB,ROY,Rochester (NY) Yellowjackets,2pMa,To Basket,Savvas Gonatas,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,142,1.0,2024-11-26
+144,HOB,ROY,Rochester (NY) Yellowjackets,2pMa,Dribble Jumper,Nate Sock,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,145,2.0,2024-11-26
+146,HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Allen Mordi,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,147,4.0,2024-11-26
+148,HOB,ROY,Hobart College Statesmen,2pmi,To Basket,Allen Mordi,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,149,1.0,2024-11-26
+149,HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Nate Sock,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,150,1.0,2024-11-26
+150,HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Corvin Oprea,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,151,1.0,2024-11-26
+151,HOB,ROY,Hobart College Statesmen,2pmi,To Basket,Monty Nedd,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,152,1.0,2024-11-26
+152,HOB,ROY,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,153,1.0,2024-11-26
+154,HOB,ROY,Hobart College Statesmen,3pMa,No Dribble Jumper,Monty Nedd,PNR,High,Off,Carter Meshanic,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,155,4.0,2024-11-26
+155,HOB,ROY,Rochester (NY) Yellowjackets,2pMa,Dribble Jumper,Luke Razi,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,156,2.0,2024-11-26
+156,HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Allen Mordi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,157,4.0,2024-11-26
+158,HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,159,1.0,2024-11-26
+159,HOB,ROY,Rochester (NY) Yellowjackets,And1,To Basket,Nate Sock,PNR,High,Off,Logan Jagodzinski,Spot Ups,Right,Drive,Liberty League,UNKNOWN,160,1.0,2024-11-26
+164,HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Bennett Kwiecinski,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,165,1.0,2024-11-26
+165,HOB,ROY,Hobart College Statesmen,Foul,To Basket,Carter Meshanic,Post,Left,Left Shoulder,Monty Nedd,Spot Ups,Right,Drive,Liberty League,UNKNOWN,166,1.0,2024-11-26
+168,HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Savvas Gonatas,Post,Right,N/A,Camden Fleming,Cuts,N/A,Basket,Liberty League,UNKNOWN,169,1.0,2024-11-26
+169,HOB,ROY,Hobart College Statesmen,Turnover,N/A,Alex Moesch,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,170,1.0,2024-11-26
+170,HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Logan Jagodzinski,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,171,1.0,2024-11-26
+171,HOB,ROY,Hobart College Statesmen,3pmi,No Dribble Jumper,Monty Nedd,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,172,4.0,2024-11-26
+172,HOB,ROY,Rochester (NY) Yellowjackets,2pmi,To Basket,Luke Razi,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,173,1.0,2024-11-26
+173,HOB,ROY,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Camden Fleming,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,174,4.0,2024-11-26
+174,HOB,ROY,Hobart College Statesmen,2pMa,Dribble Jumper,Alex Moesch,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,175,2.0,2024-11-26
+175,HOB,ROY,Rochester (NY) Yellowjackets,2pmi,Drop Step,Nate Sock,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,176,1.0,2024-11-26
+176,HOB,ROY,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,177,1.0,2024-11-26
+177,HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Hunter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,178,1.0,2024-11-26
+178,HOB,ROY,Rochester (NY) Yellowjackets,3pMa,Dribble Jumper,Nate Sock,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,179,4.0,2024-11-26
+179,HOB,ROY,Hobart College Statesmen,Foul,To Basket,Dorian Paki,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,180,1.0,2024-11-26
+182,HOB,ROY,Rochester (NY) Yellowjackets,Foul,To Basket,Ethan McEachern,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,183,1.0,2024-11-26
+186,HOB,ROY,Hobart College Statesmen,Turnover,N/A,Alex Moesch,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,187,1.0,2024-11-26
+187,HOB,ROY,Rochester (NY) Yellowjackets,3pmi,No Dribble Jumper,Logan Jagodzinski,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,188,4.0,2024-11-26
+188,HOB,ROY,Hobart College Statesmen,Foul,Drop Step,Hunter Meshanic,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,189,1.0,2024-11-26
+191,HOB,ROY,,Foul,N/A,Logan Jagodzinski,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,192,1.0,2024-11-26
+194,HOB,ROY,Hobart College Statesmen,,N/A,Aidan Rodgers,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,195,1.0,2024-11-26
+196,HOB,ROY,,Foul,N/A,Logan Jagodzinski,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,197,1.0,2024-11-26
+199,HOB,ROY,,Foul,N/A,Aidan Rodgers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,200,1.0,2024-11-26
+201,HOB,ROY,Rochester (NY) Yellowjackets,2pMa,To Basket,Ethan McEachern,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,202,1.0,2024-11-26
+202,HOB,ROY,Hobart College Statesmen,,N/A,Hunter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,203,1.0,2024-11-26
+203,HOB,ROY,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,204,4.0,2024-11-26
+204,HOB,ROY,Rochester (NY) Yellowjackets,3pMa,No Dribble Jumper,Nate Sock,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,205,4.0,2024-11-26
+205,HOB,ROY,,Foul,N/A,Monty Nedd,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,206,1.0,2024-11-26
+207,HOB,ROY,Rochester (NY) Yellowjackets,3pMa,Dribble Jumper,Ethan McEachern,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,208,4.0,2024-11-26
+208,HOB,ROY,Hobart College Statesmen,2pMa,To Basket,Alex Moesch,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,209,1.0,2024-11-26
+209,HOB,ROY,Rochester (NY) Yellowjackets,Foul,Dribble Jumper,Logan Jagodzinski,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,210,4.0,2024-11-26
+214,HOB,ROY,,Foul,N/A,Alex Moesch,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,215,1.0,2024-11-26
+217,HOB,ROY,Rochester (NY) Yellowjackets,Turnover,N/A,Nate Sock,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,218,1.0,2024-11-26
+218,HOB,ROY,,Foul,N/A,Carter Meshanic,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,219,1.0,2024-11-26
+221,HOB,ROY,Rochester (NY) Yellowjackets,3pmi,Dribble Jumper,Bennett Kwiecinski,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,222,4.0,2024-11-26

@@ -1,153 +1,153 @@
-Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
-RPI,HOB,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,1.0,2025
-RPI,HOB,Hobart College Statesmen,2pMa,N/A,Carter Meshanic,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pMa,To Basket,Dylan Matchett,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,1.0,2025
-RPI,HOB,Hobart College Statesmen,2pmi,To Basket,Allen Mordi,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,1.0,2025
-RPI,HOB,Hobart College Statesmen,Turnover,N/A,Hunter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pMa,To Basket,Chuck Clemons,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,1.0,2025
-RPI,HOB,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,1.0,2025
-RPI,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,4.0,2025
-RPI,HOB,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Dylan Matchett,PNR,Right,N/A,Avery Eugster,Spot Ups,N/A,Shot,Liberty League,Liberty League,11,4.0,2025
-RPI,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Alex Moesch,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,2.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pmi,To Basket,Chuck Clemons,PNR,Right,N/A,Andrew Deppe,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,13,1.0,2025
-RPI,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Allen Mordi,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,14,4.0,2025
-RPI,HOB,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,Post,Right,Left Shoulder,Dylan Matchett,Spot Ups,N/A,Shot,Liberty League,Liberty League,15,4.0,2025
-RPI,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,4.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pMa,To Basket,Chuck Clemons,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,1.0,2025
-RPI,HOB,Hobart College Statesmen,Foul,To Basket,Aidan Rodgers,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,Post,Left,Left Shoulder,Pat White,Spot Ups,Left,Drive,Liberty League,Liberty League,21,1.0,2025
-RPI,HOB,Hobart College Statesmen,2pMa,To Basket,Dorian Paki,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,3pmi,Dribble Jumper,Chuck Clemons,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,25,4.0,2025
-RPI,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Aidan Rodgers,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,3.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pmi,Dribble Jumper,Yechiel Stewart,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,27,3.0,2025
-RPI,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,28,4.0,2025
-RPI,HOB,Rensselaer Polytechnic,Turnover,N/A,Chuck Clemons,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,29,1.0,2025
-RPI,HOB,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pmi,To Basket,Yechiel Stewart,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,31,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pmi,To Basket,Nate Tawiah-Boateng,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pmi,To Basket,Nate Tawiah-Boateng,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,1.0,2025
-RPI,HOB,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,Foul,To Basket,Avery Eugster,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,35,1.0,2025
-RPI,HOB,Hobart College Statesmen,2pmi,To Basket,Gabriel Bergeron,PNR,Right,Off,Monty Nedd,Spot Ups,Right,Drive,Liberty League,Liberty League,38,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pmi,Drop Step,Dylan Matchett,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,1.0,2025
-RPI,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Gabriel Bergeron,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,4.0,2025
-RPI,HOB,Rensselaer Polytechnic,Foul,To Basket,Avery Eugster,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,41,1.0,2025
-RPI,HOB,Hobart College Statesmen,2pmi,To Basket,Justin Price,PNR,High,Away,Hunter Meshanic,Spot Ups,Right,Drive,Liberty League,Liberty League,44,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pmi,To Basket,Yechiel Stewart,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,45,1.0,2025
-RPI,HOB,Hobart College Statesmen,Turnover,N/A,Monty Nedd,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,46,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,Turnover,To Basket,Yechiel Stewart,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,47,1.0,2025
-RPI,HOB,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,PNR,Right,Off,Alex Moesch,Spot Ups,Right,Drive,Liberty League,Liberty League,49,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pmi,Drop Step,Nate Tawiah-Boateng,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pmi,To Basket,Nate Tawiah-Boateng,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,51,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pmi,To Basket,Nate Tawiah-Boateng,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,Foul,To Basket,Nate Tawiah-Boateng,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,1.0,2025
-RPI,HOB,Hobart College Statesmen,Turnover,N/A,Monty Nedd,PNR,High,Off,Alex Moesch,Spot Ups,Left,Drive,Liberty League,Liberty League,56,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pmi,N/A,Dylan Matchett,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,57,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,Turnover,N/A,Nate Tawiah-Boateng,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,59,1.0,2025
-RPI,HOB,Hobart College Statesmen,2pMa,N/A,Carter Meshanic,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pmi,Hook Shot,Tucker Tharpe,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,61,1.0,2025
-RPI,HOB,Hobart College Statesmen,Turnover,N/A,Carter Meshanic,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pmi,To Basket,PJ Scalisi,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,1.0,2025
-RPI,HOB,Hobart College Statesmen,Foul,To Basket,Monty Nedd,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Chuck Clemons,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,4.0,2025
-RPI,HOB,Hobart College Statesmen,Foul,To Basket,Aidan Rodgers,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,69,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pmi,N/A,Andrew Deppe,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,1.0,2025
-RPI,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Alex Moesch,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,3.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pmi,To Basket,Avery Eugster,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,1.0,2025
-RPI,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,PNR,Right,Off,Allen Mordi,Spot Ups,N/A,Shot,Liberty League,Liberty League,77,4.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,PNR,High,N/A,Andrew Deppe,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,78,1.0,2025
-RPI,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,81,4.0,2025
-RPI,HOB,Hobart College Statesmen,Foul,To Basket,Dorian Paki,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,82,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Post,Left,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,1.0,2025
-RPI,HOB,Hobart College Statesmen,Foul,To Basket,Carter Meshanic,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,86,1.0,2025
-RPI,HOB,,Foul,N/A,Pat White,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,1.0,2025
-RPI,HOB,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Iso,Right,N/A,Dorian Paki,Cuts,N/A,Basket,Liberty League,Liberty League,91,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,Turnover,To Basket,Dylan Matchett,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,93,1.0,2025
-RPI,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,94,4.0,2025
-RPI,HOB,Rensselaer Polytechnic,Foul,N/A,Chuck Clemons,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,1.0,2025
-RPI,HOB,Hobart College Statesmen,3pmi,Dribble Jumper,Aidan Rodgers,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,4.0,2025
-RPI,HOB,,Foul,N/A,PJ Scalisi,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,1.0,2025
-RPI,HOB,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,PNR,High,Off,Monty Nedd,Spot Ups,Right,Drive,Liberty League,Liberty League,102,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,3pmi,Dribble Jumper,Chuck Clemons,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,4.0,2025
-RPI,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,PNR,Right,Away,Monty Nedd,Spot Ups,N/A,Shot,Liberty League,Liberty League,104,4.0,2025
-RPI,HOB,Rensselaer Polytechnic,Foul,N/A,Dylan Matchett,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,1.0,2025
-RPI,HOB,Hobart College Statesmen,Foul,To Basket,Aidan Rodgers,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,108,1.0,2025
-RPI,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,4.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pMa,N/A,Andrew Deppe,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,1.0,2025
-RPI,HOB,Hobart College Statesmen,2pMa,To Basket,Allen Mordi,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,114,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,And1,To Basket,Dylan Matchett,PNR,Right,Off,Andrew Deppe,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,116,1.0,2025
-RPI,HOB,Hobart College Statesmen,2pMa,To Basket,Allen Mordi,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pmi,N/A,Dylan Matchett,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,1.0,2025
-RPI,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,120,4.0,2025
-RPI,HOB,Hobart College Statesmen,Turnover,N/A,Allen Mordi,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,3pMa,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,123,4.0,2025
-RPI,HOB,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Avery Eugster,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,125,4.0,2025
-RPI,HOB,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,126,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,127,4.0,2025
-RPI,HOB,Hobart College Statesmen,Turnover,N/A,Carter Meshanic,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Andrew Deppe,Post,Left,N/A,Chuck Clemons,Spot Ups,N/A,Shot,Liberty League,Liberty League,129,4.0,2025
-RPI,HOB,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,Foul,To Basket,Avery Eugster,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,133,1.0,2025
-RPI,HOB,Hobart College Statesmen,2pMa,Dribble Jumper,Aidan Rodgers,PNR,High,Off,Alex Moesch,Spot Ups,Left,Drive,Liberty League,Liberty League,136,2.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pmi,N/A,Dylan Matchett,Post,Left,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,137,1.0,2025
-RPI,HOB,Hobart College Statesmen,3pmi,Dribble Jumper,Gabriel Bergeron,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,4.0,2025
-RPI,HOB,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Andrew Deppe,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,4.0,2025
-RPI,HOB,Hobart College Statesmen,Turnover,To Basket,Niko Lutz,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,Turnover,N/A,Chuck Clemons,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,142,1.0,2025
-RPI,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,143,4.0,2025
-RPI,HOB,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,144,1.0,2025
-RPI,HOB,Hobart College Statesmen,Turnover,N/A,Niko Lutz,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,145,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,1.0,2025
-RPI,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,147,4.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pmi,To Basket,Pat White,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,148,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,Foul,To Basket,Nate Tawiah-Boateng,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,1.0,2025
-RPI,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Carter Meshanic,Post,Left,N/A,Alex Moesch,Spot Ups,Left,Drive,Liberty League,Liberty League,152,3.0,2025
-RPI,HOB,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Nate Tawiah-Boateng,Post,Left,Face Up,Yechiel Stewart,Spot Ups,N/A,Shot,Liberty League,Liberty League,153,4.0,2025
-RPI,HOB,Hobart College Statesmen,Turnover,To Basket,Carter Meshanic,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,156,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pMa,To Basket,Yechiel Stewart,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,1.0,2025
-RPI,HOB,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,158,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Yechiel Stewart,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,4.0,2025
-RPI,HOB,Hobart College Statesmen,Foul,N/A,Carter Meshanic,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,160,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,Turnover,N/A,Nate Tawiah-Boateng,Post,Left,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,163,1.0,2025
-RPI,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,164,4.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,165,1.0,2025
-RPI,HOB,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,PNR,Right,Away,Carter Meshanic,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,166,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pmi,Drop Step,Avery Eugster,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,167,1.0,2025
-RPI,HOB,Hobart College Statesmen,Foul,To Basket,Carter Meshanic,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,Turnover,N/A,Yechiel Stewart,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,171,1.0,2025
-RPI,HOB,Hobart College Statesmen,Foul,To Basket,Monty Nedd,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,172,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,Turnover,N/A,PJ Scalisi,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,175,1.0,2025
-RPI,HOB,Hobart College Statesmen,Foul,N/A,Hunter Meshanic,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,178,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,Turnover,To Basket,Nate Tawiah-Boateng,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,182,1.0,2025
-RPI,HOB,Hobart College Statesmen,Foul,To Basket,Monty Nedd,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,183,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,Foul,N/A,Andrew Deppe,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,186,1.0,2025
-RPI,HOB,Hobart College Statesmen,Foul,To Basket,Monty Nedd,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,189,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,193,1.0,2025
-RPI,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,194,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,3pMa,No Dribble Jumper,PJ Scalisi,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,195,4.0,2025
-RPI,HOB,Hobart College Statesmen,And1,Dribble Jumper,Monty Nedd,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,196,4.0,2025
-RPI,HOB,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,198,1.0,2025
-RPI,HOB,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,199,1.0,2025
-RPI,HOB,,Foul,N/A,Andrew Deppe,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,200,1.0,2025
-RPI,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Monty Nedd,PNR,High,Away,Hunter Meshanic,Spot Ups,N/A,Shot,Liberty League,Liberty League,203,4.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pmi,To Basket,Chuck Clemons,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,204,1.0,2025
-RPI,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,205,4.0,2025
-RPI,HOB,Hobart College Statesmen,2pMa,No Dribble Jumper,Alex Moesch,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,206,3.0,2025
-RPI,HOB,,Foul,N/A,Dylan Matchett,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,207,1.0,2025
-RPI,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,210,1.0,2025
-RPI,HOB,,Foul,N/A,Chuck Clemons,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,211,1.0,2025
-RPI,HOB,Hobart College Statesmen,2pmi,To Basket,Jean Marc Togodgue,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,215,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,3pMa,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,216,4.0,2025
-RPI,HOB,Hobart College Statesmen,3pmi,Dribble Jumper,Axel Traina,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,217,4.0,2025
-RPI,HOB,Hobart College Statesmen,Turnover,N/A,Jean Marc Togodgue,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,218,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pmi,To Basket,Harrison Neil,Post,Right,Right Shoulder,Suley Shah,Spot Ups,Right,Drive,Liberty League,Liberty League,219,1.0,2025
-RPI,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Jaymon Pysnack,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,220,4.0,2025
-RPI,HOB,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Ryan Jackson,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,221,4.0,2025
-RPI,HOB,Hobart College Statesmen,2pmi,To Basket,Andrew Hanna,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,222,1.0,2025
-RPI,HOB,Rensselaer Polytechnic,2pMa,To Basket,Blake Smith,Post,Right,N/A,Harrison Neil,Cuts,N/A,Basket,Liberty League,Liberty League,223,1.0,2025
-RPI,HOB,Hobart College Statesmen,3pMa,Dribble Jumper,Axel Traina,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,224,4.0,2025
-RPI,HOB,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Harrison Neil,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,225,4.0,2025
-RPI,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Jean Marc Togodgue,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,226,4.0,2025
-RPI,HOB,,Foul,N/A,Billy Freeks,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,227,1.0,2025
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,RPI,HOB,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,1.0,2024-11-19
+1,RPI,HOB,Hobart College Statesmen,2pMa,N/A,Carter Meshanic,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,1.0,2024-11-19
+2,RPI,HOB,Rensselaer Polytechnic,2pMa,To Basket,Dylan Matchett,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,1.0,2024-11-19
+3,RPI,HOB,Hobart College Statesmen,2pmi,To Basket,Allen Mordi,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,1.0,2024-11-19
+4,RPI,HOB,Hobart College Statesmen,Turnover,N/A,Hunter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,1.0,2024-11-19
+5,RPI,HOB,Rensselaer Polytechnic,2pMa,To Basket,Chuck Clemons,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,1.0,2024-11-19
+7,RPI,HOB,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,1.0,2024-11-19
+8,RPI,HOB,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,1.0,2024-11-19
+9,RPI,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,4.0,2024-11-19
+10,RPI,HOB,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Dylan Matchett,PNR,Right,N/A,Avery Eugster,Spot Ups,N/A,Shot,Liberty League,Liberty League,11,4.0,2024-11-19
+11,RPI,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Alex Moesch,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,2.0,2024-11-19
+12,RPI,HOB,Rensselaer Polytechnic,2pmi,To Basket,Chuck Clemons,PNR,Right,N/A,Andrew Deppe,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,13,1.0,2024-11-19
+13,RPI,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Allen Mordi,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,14,4.0,2024-11-19
+14,RPI,HOB,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,Post,Right,Left Shoulder,Dylan Matchett,Spot Ups,N/A,Shot,Liberty League,Liberty League,15,4.0,2024-11-19
+15,RPI,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,4.0,2024-11-19
+16,RPI,HOB,Rensselaer Polytechnic,2pMa,To Basket,Chuck Clemons,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,1.0,2024-11-19
+17,RPI,HOB,Hobart College Statesmen,Foul,To Basket,Aidan Rodgers,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,1.0,2024-11-19
+20,RPI,HOB,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,Post,Left,Left Shoulder,Pat White,Spot Ups,Left,Drive,Liberty League,Liberty League,21,1.0,2024-11-19
+21,RPI,HOB,Hobart College Statesmen,2pMa,To Basket,Dorian Paki,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,1.0,2024-11-19
+24,RPI,HOB,Rensselaer Polytechnic,3pmi,Dribble Jumper,Chuck Clemons,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,25,4.0,2024-11-19
+25,RPI,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Aidan Rodgers,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,3.0,2024-11-19
+26,RPI,HOB,Rensselaer Polytechnic,2pmi,Dribble Jumper,Yechiel Stewart,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,27,3.0,2024-11-19
+27,RPI,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,28,4.0,2024-11-19
+28,RPI,HOB,Rensselaer Polytechnic,Turnover,N/A,Chuck Clemons,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,29,1.0,2024-11-19
+29,RPI,HOB,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,1.0,2024-11-19
+30,RPI,HOB,Rensselaer Polytechnic,2pmi,To Basket,Yechiel Stewart,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,31,1.0,2024-11-19
+31,RPI,HOB,Rensselaer Polytechnic,2pmi,To Basket,Nate Tawiah-Boateng,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,1.0,2024-11-19
+32,RPI,HOB,Rensselaer Polytechnic,2pmi,To Basket,Nate Tawiah-Boateng,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,1.0,2024-11-19
+33,RPI,HOB,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,1.0,2024-11-19
+34,RPI,HOB,Rensselaer Polytechnic,Foul,To Basket,Avery Eugster,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,35,1.0,2024-11-19
+37,RPI,HOB,Hobart College Statesmen,2pmi,To Basket,Gabriel Bergeron,PNR,Right,Off,Monty Nedd,Spot Ups,Right,Drive,Liberty League,Liberty League,38,1.0,2024-11-19
+38,RPI,HOB,Rensselaer Polytechnic,2pmi,Drop Step,Dylan Matchett,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,1.0,2024-11-19
+39,RPI,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Gabriel Bergeron,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,4.0,2024-11-19
+40,RPI,HOB,Rensselaer Polytechnic,Foul,To Basket,Avery Eugster,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,41,1.0,2024-11-19
+43,RPI,HOB,Hobart College Statesmen,2pmi,To Basket,Justin Price,PNR,High,Away,Hunter Meshanic,Spot Ups,Right,Drive,Liberty League,Liberty League,44,1.0,2024-11-19
+44,RPI,HOB,Rensselaer Polytechnic,2pmi,To Basket,Yechiel Stewart,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,45,1.0,2024-11-19
+45,RPI,HOB,Hobart College Statesmen,Turnover,N/A,Monty Nedd,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,46,1.0,2024-11-19
+46,RPI,HOB,Rensselaer Polytechnic,Turnover,To Basket,Yechiel Stewart,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,47,1.0,2024-11-19
+48,RPI,HOB,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,PNR,Right,Off,Alex Moesch,Spot Ups,Right,Drive,Liberty League,Liberty League,49,1.0,2024-11-19
+49,RPI,HOB,Rensselaer Polytechnic,2pmi,Drop Step,Nate Tawiah-Boateng,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,1.0,2024-11-19
+50,RPI,HOB,Rensselaer Polytechnic,2pmi,To Basket,Nate Tawiah-Boateng,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,51,1.0,2024-11-19
+51,RPI,HOB,Rensselaer Polytechnic,2pmi,To Basket,Nate Tawiah-Boateng,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,1.0,2024-11-19
+52,RPI,HOB,Rensselaer Polytechnic,Foul,To Basket,Nate Tawiah-Boateng,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,1.0,2024-11-19
+55,RPI,HOB,Hobart College Statesmen,Turnover,N/A,Monty Nedd,PNR,High,Off,Alex Moesch,Spot Ups,Left,Drive,Liberty League,Liberty League,56,1.0,2024-11-19
+56,RPI,HOB,Rensselaer Polytechnic,2pmi,N/A,Dylan Matchett,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,57,1.0,2024-11-19
+58,RPI,HOB,Rensselaer Polytechnic,Turnover,N/A,Nate Tawiah-Boateng,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,59,1.0,2024-11-19
+59,RPI,HOB,Hobart College Statesmen,2pMa,N/A,Carter Meshanic,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,1.0,2024-11-19
+60,RPI,HOB,Rensselaer Polytechnic,2pmi,Hook Shot,Tucker Tharpe,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,61,1.0,2024-11-19
+61,RPI,HOB,Hobart College Statesmen,Turnover,N/A,Carter Meshanic,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,1.0,2024-11-19
+62,RPI,HOB,Rensselaer Polytechnic,2pmi,To Basket,PJ Scalisi,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,1.0,2024-11-19
+63,RPI,HOB,Hobart College Statesmen,Foul,To Basket,Monty Nedd,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,1.0,2024-11-19
+66,RPI,HOB,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Chuck Clemons,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,4.0,2024-11-19
+68,RPI,HOB,Hobart College Statesmen,Foul,To Basket,Aidan Rodgers,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,69,1.0,2024-11-19
+71,RPI,HOB,Rensselaer Polytechnic,2pmi,N/A,Andrew Deppe,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,1.0,2024-11-19
+72,RPI,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Alex Moesch,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,3.0,2024-11-19
+74,RPI,HOB,Rensselaer Polytechnic,2pmi,To Basket,Avery Eugster,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,1.0,2024-11-19
+76,RPI,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,PNR,Right,Off,Allen Mordi,Spot Ups,N/A,Shot,Liberty League,Liberty League,77,4.0,2024-11-19
+77,RPI,HOB,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,PNR,High,N/A,Andrew Deppe,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,78,1.0,2024-11-19
+80,RPI,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,81,4.0,2024-11-19
+81,RPI,HOB,Hobart College Statesmen,Foul,To Basket,Dorian Paki,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,82,1.0,2024-11-19
+84,RPI,HOB,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Post,Left,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,1.0,2024-11-19
+85,RPI,HOB,Hobart College Statesmen,Foul,To Basket,Carter Meshanic,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,86,1.0,2024-11-19
+88,RPI,HOB,,Foul,N/A,Pat White,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,1.0,2024-11-19
+90,RPI,HOB,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Iso,Right,N/A,Dorian Paki,Cuts,N/A,Basket,Liberty League,Liberty League,91,1.0,2024-11-19
+92,RPI,HOB,Rensselaer Polytechnic,Turnover,To Basket,Dylan Matchett,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,93,1.0,2024-11-19
+93,RPI,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,94,4.0,2024-11-19
+94,RPI,HOB,Rensselaer Polytechnic,Foul,N/A,Chuck Clemons,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,1.0,2024-11-19
+97,RPI,HOB,Hobart College Statesmen,3pmi,Dribble Jumper,Aidan Rodgers,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,4.0,2024-11-19
+98,RPI,HOB,,Foul,N/A,PJ Scalisi,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,1.0,2024-11-19
+101,RPI,HOB,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,PNR,High,Off,Monty Nedd,Spot Ups,Right,Drive,Liberty League,Liberty League,102,1.0,2024-11-19
+102,RPI,HOB,Rensselaer Polytechnic,3pmi,Dribble Jumper,Chuck Clemons,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,4.0,2024-11-19
+103,RPI,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,PNR,Right,Away,Monty Nedd,Spot Ups,N/A,Shot,Liberty League,Liberty League,104,4.0,2024-11-19
+104,RPI,HOB,Rensselaer Polytechnic,Foul,N/A,Dylan Matchett,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,1.0,2024-11-19
+107,RPI,HOB,Hobart College Statesmen,Foul,To Basket,Aidan Rodgers,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,108,1.0,2024-11-19
+111,RPI,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,4.0,2024-11-19
+112,RPI,HOB,Rensselaer Polytechnic,2pMa,N/A,Andrew Deppe,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,1.0,2024-11-19
+113,RPI,HOB,Hobart College Statesmen,2pMa,To Basket,Allen Mordi,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,114,1.0,2024-11-19
+115,RPI,HOB,Rensselaer Polytechnic,And1,To Basket,Dylan Matchett,PNR,Right,Off,Andrew Deppe,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,116,1.0,2024-11-19
+117,RPI,HOB,Hobart College Statesmen,2pMa,To Basket,Allen Mordi,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,1.0,2024-11-19
+118,RPI,HOB,Rensselaer Polytechnic,2pmi,N/A,Dylan Matchett,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,1.0,2024-11-19
+119,RPI,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,120,4.0,2024-11-19
+121,RPI,HOB,Hobart College Statesmen,Turnover,N/A,Allen Mordi,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,1.0,2024-11-19
+122,RPI,HOB,Rensselaer Polytechnic,3pMa,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,123,4.0,2024-11-19
+124,RPI,HOB,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Avery Eugster,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,125,4.0,2024-11-19
+125,RPI,HOB,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,126,1.0,2024-11-19
+126,RPI,HOB,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,127,4.0,2024-11-19
+127,RPI,HOB,Hobart College Statesmen,Turnover,N/A,Carter Meshanic,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,1.0,2024-11-19
+128,RPI,HOB,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Andrew Deppe,Post,Left,N/A,Chuck Clemons,Spot Ups,N/A,Shot,Liberty League,Liberty League,129,4.0,2024-11-19
+130,RPI,HOB,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,1.0,2024-11-19
+131,RPI,HOB,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,1.0,2024-11-19
+132,RPI,HOB,Rensselaer Polytechnic,Foul,To Basket,Avery Eugster,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,133,1.0,2024-11-19
+135,RPI,HOB,Hobart College Statesmen,2pMa,Dribble Jumper,Aidan Rodgers,PNR,High,Off,Alex Moesch,Spot Ups,Left,Drive,Liberty League,Liberty League,136,2.0,2024-11-19
+136,RPI,HOB,Rensselaer Polytechnic,2pmi,N/A,Dylan Matchett,Post,Left,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,137,1.0,2024-11-19
+138,RPI,HOB,Hobart College Statesmen,3pmi,Dribble Jumper,Gabriel Bergeron,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,4.0,2024-11-19
+139,RPI,HOB,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Andrew Deppe,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,4.0,2024-11-19
+140,RPI,HOB,Hobart College Statesmen,Turnover,To Basket,Niko Lutz,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,1.0,2024-11-19
+141,RPI,HOB,Rensselaer Polytechnic,Turnover,N/A,Chuck Clemons,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,142,1.0,2024-11-19
+142,RPI,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,143,4.0,2024-11-19
+143,RPI,HOB,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,144,1.0,2024-11-19
+144,RPI,HOB,Hobart College Statesmen,Turnover,N/A,Niko Lutz,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,145,1.0,2024-11-19
+145,RPI,HOB,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,1.0,2024-11-19
+146,RPI,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,147,4.0,2024-11-19
+147,RPI,HOB,Rensselaer Polytechnic,2pmi,To Basket,Pat White,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,148,1.0,2024-11-19
+148,RPI,HOB,Rensselaer Polytechnic,Foul,To Basket,Nate Tawiah-Boateng,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,1.0,2024-11-19
+151,RPI,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Carter Meshanic,Post,Left,N/A,Alex Moesch,Spot Ups,Left,Drive,Liberty League,Liberty League,152,3.0,2024-11-19
+152,RPI,HOB,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Nate Tawiah-Boateng,Post,Left,Face Up,Yechiel Stewart,Spot Ups,N/A,Shot,Liberty League,Liberty League,153,4.0,2024-11-19
+155,RPI,HOB,Hobart College Statesmen,Turnover,To Basket,Carter Meshanic,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,156,1.0,2024-11-19
+156,RPI,HOB,Rensselaer Polytechnic,2pMa,To Basket,Yechiel Stewart,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,1.0,2024-11-19
+157,RPI,HOB,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,158,1.0,2024-11-19
+158,RPI,HOB,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Yechiel Stewart,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,4.0,2024-11-19
+159,RPI,HOB,Hobart College Statesmen,Foul,N/A,Carter Meshanic,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,160,1.0,2024-11-19
+162,RPI,HOB,Rensselaer Polytechnic,Turnover,N/A,Nate Tawiah-Boateng,Post,Left,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,163,1.0,2024-11-19
+163,RPI,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,164,4.0,2024-11-19
+164,RPI,HOB,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,165,1.0,2024-11-19
+165,RPI,HOB,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,PNR,Right,Away,Carter Meshanic,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,166,1.0,2024-11-19
+166,RPI,HOB,Rensselaer Polytechnic,2pmi,Drop Step,Avery Eugster,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,167,1.0,2024-11-19
+167,RPI,HOB,Hobart College Statesmen,Foul,To Basket,Carter Meshanic,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,1.0,2024-11-19
+170,RPI,HOB,Rensselaer Polytechnic,Turnover,N/A,Yechiel Stewart,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,171,1.0,2024-11-19
+171,RPI,HOB,Hobart College Statesmen,Foul,To Basket,Monty Nedd,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,172,1.0,2024-11-19
+174,RPI,HOB,Rensselaer Polytechnic,Turnover,N/A,PJ Scalisi,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,175,1.0,2024-11-19
+177,RPI,HOB,Hobart College Statesmen,Foul,N/A,Hunter Meshanic,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,178,1.0,2024-11-19
+181,RPI,HOB,Rensselaer Polytechnic,Turnover,To Basket,Nate Tawiah-Boateng,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,182,1.0,2024-11-19
+182,RPI,HOB,Hobart College Statesmen,Foul,To Basket,Monty Nedd,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,183,1.0,2024-11-19
+185,RPI,HOB,Rensselaer Polytechnic,Foul,N/A,Andrew Deppe,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,186,1.0,2024-11-19
+188,RPI,HOB,Hobart College Statesmen,Foul,To Basket,Monty Nedd,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,189,1.0,2024-11-19
+192,RPI,HOB,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,193,1.0,2024-11-19
+193,RPI,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,194,1.0,2024-11-19
+194,RPI,HOB,Rensselaer Polytechnic,3pMa,No Dribble Jumper,PJ Scalisi,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,195,4.0,2024-11-19
+195,RPI,HOB,Hobart College Statesmen,And1,Dribble Jumper,Monty Nedd,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,196,4.0,2024-11-19
+197,RPI,HOB,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,198,1.0,2024-11-19
+198,RPI,HOB,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,199,1.0,2024-11-19
+199,RPI,HOB,,Foul,N/A,Andrew Deppe,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,200,1.0,2024-11-19
+202,RPI,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Monty Nedd,PNR,High,Away,Hunter Meshanic,Spot Ups,N/A,Shot,Liberty League,Liberty League,203,4.0,2024-11-19
+203,RPI,HOB,Rensselaer Polytechnic,2pmi,To Basket,Chuck Clemons,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,204,1.0,2024-11-19
+204,RPI,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,205,4.0,2024-11-19
+205,RPI,HOB,Hobart College Statesmen,2pMa,No Dribble Jumper,Alex Moesch,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,206,3.0,2024-11-19
+206,RPI,HOB,,Foul,N/A,Dylan Matchett,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,207,1.0,2024-11-19
+209,RPI,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,210,1.0,2024-11-19
+210,RPI,HOB,,Foul,N/A,Chuck Clemons,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,211,1.0,2024-11-19
+214,RPI,HOB,Hobart College Statesmen,2pmi,To Basket,Jean Marc Togodgue,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,215,1.0,2024-11-19
+215,RPI,HOB,Rensselaer Polytechnic,3pMa,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,216,4.0,2024-11-19
+216,RPI,HOB,Hobart College Statesmen,3pmi,Dribble Jumper,Axel Traina,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,217,4.0,2024-11-19
+217,RPI,HOB,Hobart College Statesmen,Turnover,N/A,Jean Marc Togodgue,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,218,1.0,2024-11-19
+218,RPI,HOB,Rensselaer Polytechnic,2pmi,To Basket,Harrison Neil,Post,Right,Right Shoulder,Suley Shah,Spot Ups,Right,Drive,Liberty League,Liberty League,219,1.0,2024-11-19
+219,RPI,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Jaymon Pysnack,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,220,4.0,2024-11-19
+220,RPI,HOB,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Ryan Jackson,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,221,4.0,2024-11-19
+221,RPI,HOB,Hobart College Statesmen,2pmi,To Basket,Andrew Hanna,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,222,1.0,2024-11-19
+222,RPI,HOB,Rensselaer Polytechnic,2pMa,To Basket,Blake Smith,Post,Right,N/A,Harrison Neil,Cuts,N/A,Basket,Liberty League,Liberty League,223,1.0,2024-11-19
+223,RPI,HOB,Hobart College Statesmen,3pMa,Dribble Jumper,Axel Traina,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,224,4.0,2024-11-19
+224,RPI,HOB,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Harrison Neil,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,225,4.0,2024-11-19
+225,RPI,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Jean Marc Togodgue,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,226,4.0,2024-11-19
+226,RPI,HOB,,Foul,N/A,Billy Freeks,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,227,1.0,2024-11-19

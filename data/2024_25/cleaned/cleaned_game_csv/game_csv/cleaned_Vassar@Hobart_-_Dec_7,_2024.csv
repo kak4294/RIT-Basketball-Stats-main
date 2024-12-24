@@ -1,179 +1,179 @@
-Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
-HOB,VC,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,1.0,2025
-HOB,VC,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,1.0,2025
-HOB,VC,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,4.0,2025
-HOB,VC,Vassar Brewers,2pMa,To Basket,Kreekor Karageuzian,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,1.0,2025
-HOB,VC,Hobart College Statesmen,3pmi,No Dribble Jumper,Carter Meshanic,Post,Left,N/A,Alex Moesch,Spot Ups,N/A,Shot,Liberty League,Liberty League,6,4.0,2025
-HOB,VC,Vassar Brewers,2pmi,To Basket,Nathan Denham,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,1.0,2025
-HOB,VC,Hobart College Statesmen,Turnover,N/A,Alex Moesch,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,1.0,2025
-HOB,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,4.0,2025
-HOB,VC,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,1.0,2025
-HOB,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,4.0,2025
-HOB,VC,Vassar Brewers,Turnover,To Basket,Sebastian Medina,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,1.0,2025
-HOB,VC,Hobart College Statesmen,Foul,To Basket,Aidan Rodgers,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,14,1.0,2025
-HOB,VC,Vassar Brewers,2pMa,To Basket,Avery Lee,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,1.0,2025
-HOB,VC,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,19,1.0,2025
-HOB,VC,Vassar Brewers,2pmi,To Basket,Nathan Denham,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,21,1.0,2025
-HOB,VC,Vassar Brewers,3pmi,N/A,Luke Adams,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,4.0,2025
-HOB,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,23,1.0,2025
-HOB,VC,Hobart College Statesmen,3pmi,No Dribble Jumper,Carter Meshanic,Post,Right,N/A,Alex Moesch,Spot Ups,N/A,Shot,Liberty League,Liberty League,24,4.0,2025
-HOB,VC,Vassar Brewers,3pMa,No Dribble Jumper,Alex Walters,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,25,4.0,2025
-HOB,VC,Hobart College Statesmen,Turnover,N/A,Carter Meshanic,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,1.0,2025
-HOB,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,27,1.0,2025
-HOB,VC,Hobart College Statesmen,And1,To Basket,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,28,1.0,2025
-HOB,VC,Vassar Brewers,3pmi,No Dribble Jumper,Nathan Denham,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,4.0,2025
-HOB,VC,Vassar Brewers,2pMa,To Basket,Luke Adams,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,31,1.0,2025
-HOB,VC,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,1.0,2025
-HOB,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,1.0,2025
-HOB,VC,Hobart College Statesmen,3pmi,No Dribble Jumper,Dorian Paki,Post,Left,N/A,Aidan Rodgers,Spot Ups,N/A,Shot,Liberty League,Liberty League,35,4.0,2025
-HOB,VC,Vassar Brewers,3pmi,No Dribble Jumper,Kreekor Karageuzian,PNR,Left,Off,Shea Fitzgerald,Spot Ups,N/A,Shot,Liberty League,Liberty League,36,4.0,2025
-HOB,VC,Hobart College Statesmen,Foul,To Basket,Gabriel Bergeron,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,37,1.0,2025
-HOB,VC,Vassar Brewers,3pMa,Dribble Jumper,Sacha Greenberg,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,4.0,2025
-HOB,VC,Hobart College Statesmen,Turnover,N/A,Dorian Paki,Post,Middle,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,41,1.0,2025
-HOB,VC,Vassar Brewers,Turnover,N/A,Sebastian Medina,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,42,1.0,2025
-HOB,VC,Hobart College Statesmen,2pMa,To Basket,Dorian Paki,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,1.0,2025
-HOB,VC,Vassar Brewers,Foul,To Basket,Avery Lee,PNR,Left,Off,Kreekor Karageuzian,Cuts,N/A,Basket,Liberty League,Liberty League,44,1.0,2025
-HOB,VC,Hobart College Statesmen,Turnover,N/A,Monty Nedd,PNR,Right,Off,Alex Moesch,Spot Ups,Right,Drive,Liberty League,Liberty League,47,1.0,2025
-HOB,VC,Vassar Brewers,2pmi,Dribble Jumper,Eric Zhang,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,48,2.0,2025
-HOB,VC,Vassar Brewers,Turnover,N/A,Kreekor Karageuzian,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,1.0,2025
-HOB,VC,Hobart College Statesmen,Turnover,N/A,Pat Healy,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,51,1.0,2025
-HOB,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,1.0,2025
-HOB,VC,,Foul,N/A,Carter Meshanic,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,1.0,2025
-HOB,VC,Hobart College Statesmen,Turnover,N/A,Niko Lutz,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,54,1.0,2025
-HOB,VC,Vassar Brewers,Turnover,N/A,Avery Lee,PNR,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,55,1.0,2025
-HOB,VC,Hobart College Statesmen,Foul,To Basket,Monty Nedd,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,56,1.0,2025
-HOB,VC,Vassar Brewers,2pMa,To Basket,Avery Lee,PNR,Left,Off,Nathan Denham,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,59,1.0,2025
-HOB,VC,,Foul,N/A,Carter Meshanic,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,1.0,2025
-HOB,VC,Vassar Brewers,2pMa,To Basket,Kreekor Karageuzian,PNR,Left,Off,Nathan Denham,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,63,1.0,2025
-HOB,VC,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,1.0,2025
-HOB,VC,Vassar Brewers,And1,N/A,Shea Fitzgerald,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,65,1.0,2025
-HOB,VC,Hobart College Statesmen,Foul,N/A,Monty Nedd,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,1.0,2025
-HOB,VC,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,70,4.0,2025
-HOB,VC,Hobart College Statesmen,2pmi,To Basket,Monty Nedd,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,71,1.0,2025
-HOB,VC,Vassar Brewers,3pMa,No Dribble Jumper,Luke Adams,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,4.0,2025
-HOB,VC,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Post,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,1.0,2025
-HOB,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,Liberty League,Liberty League,74,1.0,2025
-HOB,VC,Hobart College Statesmen,2pmi,Dribble Jumper,Monty Nedd,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,77,3.0,2025
-HOB,VC,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,78,4.0,2025
-HOB,VC,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Post,Right,Right Shoulder,Aidan Rodgers,Spot Ups,Left,Drive,Liberty League,Liberty League,79,1.0,2025
-HOB,VC,Vassar Brewers,2pMa,To Basket,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,1.0,2025
-HOB,VC,Hobart College Statesmen,3pmi,Dribble Jumper,Monty Nedd,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,81,4.0,2025
-HOB,VC,Hobart College Statesmen,2pmi,Dribble Jumper,Alex Moesch,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,82,3.0,2025
-HOB,VC,Vassar Brewers,3pmi,No Dribble Jumper,Luke Adams,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,4.0,2025
-HOB,VC,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,84,4.0,2025
-HOB,VC,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,2.0,2025
-HOB,VC,Hobart College Statesmen,Foul,To Basket,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,86,1.0,2025
-HOB,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,1.0,2025
-HOB,VC,Hobart College Statesmen,Foul,N/A,Hunter Meshanic,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,90,1.0,2025
-HOB,VC,Vassar Brewers,3pMa,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,93,4.0,2025
-HOB,VC,Hobart College Statesmen,3pmi,No Dribble Jumper,Carter Meshanic,Post,Right,N/A,Pat Healy,Spot Ups,N/A,Shot,Liberty League,Liberty League,94,4.0,2025
-HOB,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,1.0,2025
-HOB,VC,Hobart College Statesmen,And1,To Basket,Pat Healy,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,96,1.0,2025
-HOB,VC,Vassar Brewers,2pmi,Dribble Jumper,Shea Fitzgerald,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,2.0,2025
-HOB,VC,Hobart College Statesmen,3pMa,No Dribble Jumper,Hunter Meshanic,Post,Left,N/A,Pat Healy,Spot Ups,N/A,Shot,Liberty League,Liberty League,99,4.0,2025
-HOB,VC,Vassar Brewers,2pMa,To Basket,Eric Zhang,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,1.0,2025
-HOB,VC,Hobart College Statesmen,3pMa,No Dribble Jumper,Carter Meshanic,Post,Left,N/A,Aidan Rodgers,Spot Ups,N/A,Shot,Liberty League,Liberty League,101,4.0,2025
-HOB,VC,Vassar Brewers,3pmi,No Dribble Jumper,Kreekor Karageuzian,PNR,High,Off,Shea Fitzgerald,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,102,4.0,2025
-HOB,VC,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,1.0,2025
-HOB,VC,Vassar Brewers,2pmi,To Basket,JP Miranda,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,1.0,2025
-HOB,VC,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,4.0,2025
-HOB,VC,Hobart College Statesmen,3pMa,No Dribble Jumper,Aidan Rodgers,Iso,Right,N/A,Allen Mordi,Spot Ups,N/A,Shot,Liberty League,Liberty League,106,4.0,2025
-HOB,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,108,1.0,2025
-HOB,VC,Hobart College Statesmen,2pMa,Dribble Jumper,Carter Meshanic,Post,Left,N/A,Alex Moesch,Spot Ups,Right,Drive,Liberty League,Liberty League,109,2.0,2025
-HOB,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,110,1.0,2025
-HOB,VC,Vassar Brewers,2pmi,Dribble Jumper,Shea Fitzgerald,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,3.0,2025
-HOB,VC,Hobart College Statesmen,2pmi,To Basket,Allen Mordi,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,1.0,2025
-HOB,VC,Vassar Brewers,2pMa,To Basket,Kreekor Karageuzian,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,1.0,2025
-HOB,VC,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Post,Left,N/A,Carter Meshanic,Cuts,N/A,Basket,Liberty League,Liberty League,114,1.0,2025
-HOB,VC,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,1.0,2025
-HOB,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,116,4.0,2025
-HOB,VC,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,1.0,2025
-HOB,VC,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,1.0,2025
-HOB,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,120,1.0,2025
-HOB,VC,Hobart College Statesmen,2pmi,To Basket,Allen Mordi,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,121,1.0,2025
-HOB,VC,Hobart College Statesmen,2pmi,To Basket,Allen Mordi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,1.0,2025
-HOB,VC,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,123,1.0,2025
-HOB,VC,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,124,1.0,2025
-HOB,VC,Hobart College Statesmen,Foul,To Basket,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,125,1.0,2025
-HOB,VC,Vassar Brewers,Foul,To Basket,Nathan Denham,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,1.0,2025
-HOB,VC,Hobart College Statesmen,Turnover,N/A,Carter Meshanic,Iso,Right,N/A,Hunter Meshanic,Spot Ups,Right,Drive,Liberty League,Liberty League,131,1.0,2025
-HOB,VC,Vassar Brewers,3pmi,No Dribble Jumper,Nathan Denham,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,4.0,2025
-HOB,VC,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,PNR,High,Away,Allen Mordi,Spot Ups,N/A,Shot,Liberty League,Liberty League,133,4.0,2025
-HOB,VC,Vassar Brewers,3pMa,No Dribble Jumper,Luke Adams,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,134,4.0,2025
-HOB,VC,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,135,1.0,2025
-HOB,VC,Vassar Brewers,Turnover,N/A,Luke Adams,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,136,1.0,2025
-HOB,VC,Hobart College Statesmen,2pmi,To Basket,Allen Mordi,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,137,1.0,2025
-HOB,VC,Vassar Brewers,2pmi,To Basket,Sebastian Medina,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,138,1.0,2025
-HOB,VC,Hobart College Statesmen,2pMa,To Basket,Hunter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,1.0,2025
-HOB,VC,Vassar Brewers,2pmi,Dribble Jumper,Luke Adams,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,2.0,2025
-HOB,VC,Hobart College Statesmen,And1,To Basket,Dorian Paki,Post,Middle,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,1.0,2025
-HOB,VC,Vassar Brewers,Foul,To Basket,Avery Lee,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,143,1.0,2025
-HOB,VC,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,1.0,2025
-HOB,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,148,1.0,2025
-HOB,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,150,1.0,2025
-HOB,VC,Hobart College Statesmen,Foul,To Basket,Dorian Paki,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,151,1.0,2025
-HOB,VC,Vassar Brewers,2pMa,To Basket,Eric Zhang,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,154,1.0,2025
-HOB,VC,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,156,1.0,2025
-HOB,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,1.0,2025
-HOB,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,4.0,2025
-HOB,VC,Vassar Brewers,2pMa,To Basket,Avery Lee,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,160,1.0,2025
-HOB,VC,Hobart College Statesmen,Turnover,N/A,Pat Healy,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,1.0,2025
-HOB,VC,Vassar Brewers,3pmi,Dribble Jumper,Shea Fitzgerald,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,162,4.0,2025
-HOB,VC,Hobart College Statesmen,2pmi,To Basket,Monty Nedd,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,163,1.0,2025
-HOB,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,1.0,2025
-HOB,VC,Hobart College Statesmen,2pMa,To Basket,Pat Healy,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,167,1.0,2025
-HOB,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,169,1.0,2025
-HOB,VC,Hobart College Statesmen,Turnover,N/A,Dorian Paki,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,170,1.0,2025
-HOB,VC,Vassar Brewers,Foul,N/A,Kreekor Karageuzian,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,171,1.0,2025
-HOB,VC,Vassar Brewers,2pMa,To Basket,Avery Lee,PNR,Left,Off,Nathan Denham,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,174,1.0,2025
-HOB,VC,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,175,1.0,2025
-HOB,VC,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,176,2.0,2025
-HOB,VC,Vassar Brewers,Foul,N/A,Alex Walters,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,1.0,2025
-HOB,VC,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,180,1.0,2025
-HOB,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,1.0,2025
-HOB,VC,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,182,1.0,2025
-HOB,VC,Hobart College Statesmen,2pmi,Dribble Jumper,Carter Meshanic,Post,Right,Right Shoulder,Alex Moesch,Spot Ups,Straight,Drive,Liberty League,Liberty League,183,3.0,2025
-HOB,VC,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,PNR,High,Off,Shea Fitzgerald,Spot Ups,Left,Drive,Liberty League,Liberty League,184,2.0,2025
-HOB,VC,Hobart College Statesmen,3pMa,No Dribble Jumper,Hunter Meshanic,Post,Left,Left Shoulder,Aidan Rodgers,Spot Ups,N/A,Shot,Liberty League,Liberty League,185,4.0,2025
-HOB,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,PNR,Right,Off,Avery Lee,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,186,1.0,2025
-HOB,VC,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Post,Left,Left Shoulder,Hunter Meshanic,Cuts,N/A,Basket,Liberty League,Liberty League,187,1.0,2025
-HOB,VC,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,188,1.0,2025
-HOB,VC,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,190,4.0,2025
-HOB,VC,,Foul,N/A,Nathan Denham,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,191,1.0,2025
-HOB,VC,Hobart College Statesmen,Foul,To Basket,Aidan Rodgers,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,196,1.0,2025
-HOB,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,200,4.0,2025
-HOB,VC,Hobart College Statesmen,Turnover,N/A,Hunter Meshanic,Post,Middle,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,201,1.0,2025
-HOB,VC,Vassar Brewers,Turnover,N/A,Nathan Denham,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,202,1.0,2025
-HOB,VC,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,203,1.0,2025
-HOB,VC,Vassar Brewers,2pmi,Drop Step,Shea Fitzgerald,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,204,1.0,2025
-HOB,VC,Hobart College Statesmen,2pmi,To Basket,Monty Nedd,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,205,1.0,2025
-HOB,VC,,Foul,N/A,Avery Lee,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,206,1.0,2025
-HOB,VC,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,209,1.0,2025
-HOB,VC,Vassar Brewers,Foul,To Basket,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,210,1.0,2025
-HOB,VC,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,213,1.0,2025
-HOB,VC,,Foul,N/A,Avery Lee,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,214,1.0,2025
-HOB,VC,Hobart College Statesmen,Foul,N/A,Alex Moesch,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,217,1.0,2025
-HOB,VC,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,220,1.0,2025
-HOB,VC,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,221,1.0,2025
-HOB,VC,,Foul,N/A,Avery Lee,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,223,1.0,2025
-HOB,VC,Hobart College Statesmen,And1,To Basket,Aidan Rodgers,PNR,High,Off,Alex Moesch,P&R Roll Man,Left,Pop,Liberty League,Liberty League,226,1.0,2025
-HOB,VC,Vassar Brewers,2pmi,Dribble Jumper,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,228,2.0,2025
-HOB,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,230,1.0,2025
-HOB,VC,Hobart College Statesmen,3pmi,No Dribble Jumper,Pat Healy,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,231,4.0,2025
-HOB,VC,Hobart College Statesmen,3pMa,No Dribble Jumper,Aidan Rodgers,PNR,Left,Off,Alex Moesch,Spot Ups,N/A,Shot,Liberty League,Liberty League,233,4.0,2025
-HOB,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,234,4.0,2025
-HOB,VC,Hobart College Statesmen,2pmi,To Basket,Pat Healy,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,235,1.0,2025
-HOB,VC,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,PNR,High,Off,Shea Fitzgerald,Cuts,N/A,Basket,Liberty League,Liberty League,236,1.0,2025
-HOB,VC,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,237,1.0,2025
-HOB,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,238,1.0,2025
-HOB,VC,Hobart College Statesmen,Foul,To Basket,Alex Moesch,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,242,1.0,2025
-HOB,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,245,1.0,2025
-HOB,VC,Hobart College Statesmen,2pmi,Dribble Jumper,Alex Moesch,PNR,High,Off,Pat Healy,Spot Ups,Right,Drive,Liberty League,Liberty League,248,3.0,2025
-HOB,VC,,Foul,N/A,Kreekor Karageuzian,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,249,1.0,2025
-HOB,VC,,Foul,N/A,Carter Meshanic,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,252,1.0,2025
-HOB,VC,Vassar Brewers,3pMa,No Dribble Jumper,Shea Fitzgerald,PNR,Left,Off,Alex Walters,Spot Ups,N/A,Shot,Liberty League,Liberty League,255,4.0,2025
-HOB,VC,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,256,1.0,2025
-HOB,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,257,1.0,2025
-HOB,VC,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,259,1.0,2025
-HOB,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,PNR,High,Off,Shea Fitzgerald,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,261,1.0,2025
-HOB,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,262,1.0,2025
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+1,HOB,VC,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,1.0,2024-12-07
+2,HOB,VC,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,1.0,2024-12-07
+3,HOB,VC,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,4.0,2024-12-07
+4,HOB,VC,Vassar Brewers,2pMa,To Basket,Kreekor Karageuzian,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,1.0,2024-12-07
+5,HOB,VC,Hobart College Statesmen,3pmi,No Dribble Jumper,Carter Meshanic,Post,Left,N/A,Alex Moesch,Spot Ups,N/A,Shot,Liberty League,Liberty League,6,4.0,2024-12-07
+6,HOB,VC,Vassar Brewers,2pmi,To Basket,Nathan Denham,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,1.0,2024-12-07
+7,HOB,VC,Hobart College Statesmen,Turnover,N/A,Alex Moesch,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,1.0,2024-12-07
+8,HOB,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,4.0,2024-12-07
+9,HOB,VC,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,1.0,2024-12-07
+10,HOB,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,4.0,2024-12-07
+12,HOB,VC,Vassar Brewers,Turnover,To Basket,Sebastian Medina,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,1.0,2024-12-07
+13,HOB,VC,Hobart College Statesmen,Foul,To Basket,Aidan Rodgers,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,14,1.0,2024-12-07
+16,HOB,VC,Vassar Brewers,2pMa,To Basket,Avery Lee,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,1.0,2024-12-07
+18,HOB,VC,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,19,1.0,2024-12-07
+20,HOB,VC,Vassar Brewers,2pmi,To Basket,Nathan Denham,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,21,1.0,2024-12-07
+21,HOB,VC,Vassar Brewers,3pmi,N/A,Luke Adams,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,4.0,2024-12-07
+22,HOB,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,23,1.0,2024-12-07
+23,HOB,VC,Hobart College Statesmen,3pmi,No Dribble Jumper,Carter Meshanic,Post,Right,N/A,Alex Moesch,Spot Ups,N/A,Shot,Liberty League,Liberty League,24,4.0,2024-12-07
+24,HOB,VC,Vassar Brewers,3pMa,No Dribble Jumper,Alex Walters,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,25,4.0,2024-12-07
+25,HOB,VC,Hobart College Statesmen,Turnover,N/A,Carter Meshanic,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,1.0,2024-12-07
+26,HOB,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,27,1.0,2024-12-07
+27,HOB,VC,Hobart College Statesmen,And1,To Basket,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,28,1.0,2024-12-07
+29,HOB,VC,Vassar Brewers,3pmi,No Dribble Jumper,Nathan Denham,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,4.0,2024-12-07
+30,HOB,VC,Vassar Brewers,2pMa,To Basket,Luke Adams,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,31,1.0,2024-12-07
+32,HOB,VC,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,1.0,2024-12-07
+33,HOB,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,1.0,2024-12-07
+34,HOB,VC,Hobart College Statesmen,3pmi,No Dribble Jumper,Dorian Paki,Post,Left,N/A,Aidan Rodgers,Spot Ups,N/A,Shot,Liberty League,Liberty League,35,4.0,2024-12-07
+35,HOB,VC,Vassar Brewers,3pmi,No Dribble Jumper,Kreekor Karageuzian,PNR,Left,Off,Shea Fitzgerald,Spot Ups,N/A,Shot,Liberty League,Liberty League,36,4.0,2024-12-07
+36,HOB,VC,Hobart College Statesmen,Foul,To Basket,Gabriel Bergeron,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,37,1.0,2024-12-07
+39,HOB,VC,Vassar Brewers,3pMa,Dribble Jumper,Sacha Greenberg,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,4.0,2024-12-07
+40,HOB,VC,Hobart College Statesmen,Turnover,N/A,Dorian Paki,Post,Middle,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,41,1.0,2024-12-07
+41,HOB,VC,Vassar Brewers,Turnover,N/A,Sebastian Medina,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,42,1.0,2024-12-07
+42,HOB,VC,Hobart College Statesmen,2pMa,To Basket,Dorian Paki,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,1.0,2024-12-07
+43,HOB,VC,Vassar Brewers,Foul,To Basket,Avery Lee,PNR,Left,Off,Kreekor Karageuzian,Cuts,N/A,Basket,Liberty League,Liberty League,44,1.0,2024-12-07
+46,HOB,VC,Hobart College Statesmen,Turnover,N/A,Monty Nedd,PNR,Right,Off,Alex Moesch,Spot Ups,Right,Drive,Liberty League,Liberty League,47,1.0,2024-12-07
+47,HOB,VC,Vassar Brewers,2pmi,Dribble Jumper,Eric Zhang,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,48,2.0,2024-12-07
+49,HOB,VC,Vassar Brewers,Turnover,N/A,Kreekor Karageuzian,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,1.0,2024-12-07
+50,HOB,VC,Hobart College Statesmen,Turnover,N/A,Pat Healy,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,51,1.0,2024-12-07
+51,HOB,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,1.0,2024-12-07
+52,HOB,VC,,Foul,N/A,Carter Meshanic,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,1.0,2024-12-07
+53,HOB,VC,Hobart College Statesmen,Turnover,N/A,Niko Lutz,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,54,1.0,2024-12-07
+54,HOB,VC,Vassar Brewers,Turnover,N/A,Avery Lee,PNR,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,55,1.0,2024-12-07
+55,HOB,VC,Hobart College Statesmen,Foul,To Basket,Monty Nedd,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,56,1.0,2024-12-07
+58,HOB,VC,Vassar Brewers,2pMa,To Basket,Avery Lee,PNR,Left,Off,Nathan Denham,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,59,1.0,2024-12-07
+59,HOB,VC,,Foul,N/A,Carter Meshanic,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,1.0,2024-12-07
+62,HOB,VC,Vassar Brewers,2pMa,To Basket,Kreekor Karageuzian,PNR,Left,Off,Nathan Denham,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,63,1.0,2024-12-07
+63,HOB,VC,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,1.0,2024-12-07
+64,HOB,VC,Vassar Brewers,And1,N/A,Shea Fitzgerald,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,65,1.0,2024-12-07
+66,HOB,VC,Hobart College Statesmen,Foul,N/A,Monty Nedd,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,1.0,2024-12-07
+69,HOB,VC,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,70,4.0,2024-12-07
+70,HOB,VC,Hobart College Statesmen,2pmi,To Basket,Monty Nedd,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,71,1.0,2024-12-07
+71,HOB,VC,Vassar Brewers,3pMa,No Dribble Jumper,Luke Adams,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,4.0,2024-12-07
+72,HOB,VC,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Post,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,1.0,2024-12-07
+73,HOB,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,Liberty League,Liberty League,74,1.0,2024-12-07
+76,HOB,VC,Hobart College Statesmen,2pmi,Dribble Jumper,Monty Nedd,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,77,3.0,2024-12-07
+77,HOB,VC,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,78,4.0,2024-12-07
+78,HOB,VC,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Post,Right,Right Shoulder,Aidan Rodgers,Spot Ups,Left,Drive,Liberty League,Liberty League,79,1.0,2024-12-07
+79,HOB,VC,Vassar Brewers,2pMa,To Basket,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,1.0,2024-12-07
+80,HOB,VC,Hobart College Statesmen,3pmi,Dribble Jumper,Monty Nedd,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,81,4.0,2024-12-07
+81,HOB,VC,Hobart College Statesmen,2pmi,Dribble Jumper,Alex Moesch,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,82,3.0,2024-12-07
+82,HOB,VC,Vassar Brewers,3pmi,No Dribble Jumper,Luke Adams,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,4.0,2024-12-07
+83,HOB,VC,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,84,4.0,2024-12-07
+84,HOB,VC,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,2.0,2024-12-07
+85,HOB,VC,Hobart College Statesmen,Foul,To Basket,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,86,1.0,2024-12-07
+88,HOB,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,1.0,2024-12-07
+89,HOB,VC,Hobart College Statesmen,Foul,N/A,Hunter Meshanic,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,90,1.0,2024-12-07
+92,HOB,VC,Vassar Brewers,3pMa,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,93,4.0,2024-12-07
+93,HOB,VC,Hobart College Statesmen,3pmi,No Dribble Jumper,Carter Meshanic,Post,Right,N/A,Pat Healy,Spot Ups,N/A,Shot,Liberty League,Liberty League,94,4.0,2024-12-07
+94,HOB,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,1.0,2024-12-07
+95,HOB,VC,Hobart College Statesmen,And1,To Basket,Pat Healy,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,96,1.0,2024-12-07
+97,HOB,VC,Vassar Brewers,2pmi,Dribble Jumper,Shea Fitzgerald,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,2.0,2024-12-07
+98,HOB,VC,Hobart College Statesmen,3pMa,No Dribble Jumper,Hunter Meshanic,Post,Left,N/A,Pat Healy,Spot Ups,N/A,Shot,Liberty League,Liberty League,99,4.0,2024-12-07
+99,HOB,VC,Vassar Brewers,2pMa,To Basket,Eric Zhang,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,1.0,2024-12-07
+100,HOB,VC,Hobart College Statesmen,3pMa,No Dribble Jumper,Carter Meshanic,Post,Left,N/A,Aidan Rodgers,Spot Ups,N/A,Shot,Liberty League,Liberty League,101,4.0,2024-12-07
+101,HOB,VC,Vassar Brewers,3pmi,No Dribble Jumper,Kreekor Karageuzian,PNR,High,Off,Shea Fitzgerald,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,102,4.0,2024-12-07
+102,HOB,VC,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,1.0,2024-12-07
+103,HOB,VC,Vassar Brewers,2pmi,To Basket,JP Miranda,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,1.0,2024-12-07
+104,HOB,VC,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,4.0,2024-12-07
+105,HOB,VC,Hobart College Statesmen,3pMa,No Dribble Jumper,Aidan Rodgers,Iso,Right,N/A,Allen Mordi,Spot Ups,N/A,Shot,Liberty League,Liberty League,106,4.0,2024-12-07
+107,HOB,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,108,1.0,2024-12-07
+108,HOB,VC,Hobart College Statesmen,2pMa,Dribble Jumper,Carter Meshanic,Post,Left,N/A,Alex Moesch,Spot Ups,Right,Drive,Liberty League,Liberty League,109,2.0,2024-12-07
+109,HOB,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,110,1.0,2024-12-07
+110,HOB,VC,Vassar Brewers,2pmi,Dribble Jumper,Shea Fitzgerald,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,3.0,2024-12-07
+111,HOB,VC,Hobart College Statesmen,2pmi,To Basket,Allen Mordi,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,1.0,2024-12-07
+112,HOB,VC,Vassar Brewers,2pMa,To Basket,Kreekor Karageuzian,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,1.0,2024-12-07
+113,HOB,VC,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Post,Left,N/A,Carter Meshanic,Cuts,N/A,Basket,Liberty League,Liberty League,114,1.0,2024-12-07
+114,HOB,VC,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,1.0,2024-12-07
+115,HOB,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,116,4.0,2024-12-07
+116,HOB,VC,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,1.0,2024-12-07
+118,HOB,VC,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,1.0,2024-12-07
+119,HOB,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,120,1.0,2024-12-07
+120,HOB,VC,Hobart College Statesmen,2pmi,To Basket,Allen Mordi,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,121,1.0,2024-12-07
+121,HOB,VC,Hobart College Statesmen,2pmi,To Basket,Allen Mordi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,1.0,2024-12-07
+122,HOB,VC,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,123,1.0,2024-12-07
+123,HOB,VC,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,124,1.0,2024-12-07
+124,HOB,VC,Hobart College Statesmen,Foul,To Basket,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,125,1.0,2024-12-07
+127,HOB,VC,Vassar Brewers,Foul,To Basket,Nathan Denham,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,1.0,2024-12-07
+130,HOB,VC,Hobart College Statesmen,Turnover,N/A,Carter Meshanic,Iso,Right,N/A,Hunter Meshanic,Spot Ups,Right,Drive,Liberty League,Liberty League,131,1.0,2024-12-07
+131,HOB,VC,Vassar Brewers,3pmi,No Dribble Jumper,Nathan Denham,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,4.0,2024-12-07
+132,HOB,VC,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,PNR,High,Away,Allen Mordi,Spot Ups,N/A,Shot,Liberty League,Liberty League,133,4.0,2024-12-07
+133,HOB,VC,Vassar Brewers,3pMa,No Dribble Jumper,Luke Adams,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,134,4.0,2024-12-07
+134,HOB,VC,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,135,1.0,2024-12-07
+135,HOB,VC,Vassar Brewers,Turnover,N/A,Luke Adams,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,136,1.0,2024-12-07
+136,HOB,VC,Hobart College Statesmen,2pmi,To Basket,Allen Mordi,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,137,1.0,2024-12-07
+137,HOB,VC,Vassar Brewers,2pmi,To Basket,Sebastian Medina,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,138,1.0,2024-12-07
+138,HOB,VC,Hobart College Statesmen,2pMa,To Basket,Hunter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,1.0,2024-12-07
+139,HOB,VC,Vassar Brewers,2pmi,Dribble Jumper,Luke Adams,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,2.0,2024-12-07
+140,HOB,VC,Hobart College Statesmen,And1,To Basket,Dorian Paki,Post,Middle,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,1.0,2024-12-07
+142,HOB,VC,Vassar Brewers,Foul,To Basket,Avery Lee,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,143,1.0,2024-12-07
+145,HOB,VC,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,1.0,2024-12-07
+147,HOB,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,148,1.0,2024-12-07
+149,HOB,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,150,1.0,2024-12-07
+150,HOB,VC,Hobart College Statesmen,Foul,To Basket,Dorian Paki,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,151,1.0,2024-12-07
+153,HOB,VC,Vassar Brewers,2pMa,To Basket,Eric Zhang,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,154,1.0,2024-12-07
+155,HOB,VC,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,156,1.0,2024-12-07
+156,HOB,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,1.0,2024-12-07
+158,HOB,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,4.0,2024-12-07
+159,HOB,VC,Vassar Brewers,2pMa,To Basket,Avery Lee,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,160,1.0,2024-12-07
+160,HOB,VC,Hobart College Statesmen,Turnover,N/A,Pat Healy,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,1.0,2024-12-07
+161,HOB,VC,Vassar Brewers,3pmi,Dribble Jumper,Shea Fitzgerald,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,162,4.0,2024-12-07
+162,HOB,VC,Hobart College Statesmen,2pmi,To Basket,Monty Nedd,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,163,1.0,2024-12-07
+165,HOB,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,1.0,2024-12-07
+166,HOB,VC,Hobart College Statesmen,2pMa,To Basket,Pat Healy,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,167,1.0,2024-12-07
+168,HOB,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,169,1.0,2024-12-07
+169,HOB,VC,Hobart College Statesmen,Turnover,N/A,Dorian Paki,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,170,1.0,2024-12-07
+170,HOB,VC,Vassar Brewers,Foul,N/A,Kreekor Karageuzian,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,171,1.0,2024-12-07
+173,HOB,VC,Vassar Brewers,2pMa,To Basket,Avery Lee,PNR,Left,Off,Nathan Denham,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,174,1.0,2024-12-07
+174,HOB,VC,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,175,1.0,2024-12-07
+175,HOB,VC,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,176,2.0,2024-12-07
+176,HOB,VC,Vassar Brewers,Foul,N/A,Alex Walters,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,1.0,2024-12-07
+179,HOB,VC,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,180,1.0,2024-12-07
+180,HOB,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,1.0,2024-12-07
+181,HOB,VC,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,182,1.0,2024-12-07
+182,HOB,VC,Hobart College Statesmen,2pmi,Dribble Jumper,Carter Meshanic,Post,Right,Right Shoulder,Alex Moesch,Spot Ups,Straight,Drive,Liberty League,Liberty League,183,3.0,2024-12-07
+183,HOB,VC,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,PNR,High,Off,Shea Fitzgerald,Spot Ups,Left,Drive,Liberty League,Liberty League,184,2.0,2024-12-07
+184,HOB,VC,Hobart College Statesmen,3pMa,No Dribble Jumper,Hunter Meshanic,Post,Left,Left Shoulder,Aidan Rodgers,Spot Ups,N/A,Shot,Liberty League,Liberty League,185,4.0,2024-12-07
+185,HOB,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,PNR,Right,Off,Avery Lee,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,186,1.0,2024-12-07
+186,HOB,VC,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Post,Left,Left Shoulder,Hunter Meshanic,Cuts,N/A,Basket,Liberty League,Liberty League,187,1.0,2024-12-07
+187,HOB,VC,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,188,1.0,2024-12-07
+189,HOB,VC,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,190,4.0,2024-12-07
+190,HOB,VC,,Foul,N/A,Nathan Denham,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,191,1.0,2024-12-07
+195,HOB,VC,Hobart College Statesmen,Foul,To Basket,Aidan Rodgers,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,196,1.0,2024-12-07
+199,HOB,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,200,4.0,2024-12-07
+200,HOB,VC,Hobart College Statesmen,Turnover,N/A,Hunter Meshanic,Post,Middle,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,201,1.0,2024-12-07
+201,HOB,VC,Vassar Brewers,Turnover,N/A,Nathan Denham,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,202,1.0,2024-12-07
+202,HOB,VC,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,203,1.0,2024-12-07
+203,HOB,VC,Vassar Brewers,2pmi,Drop Step,Shea Fitzgerald,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,204,1.0,2024-12-07
+204,HOB,VC,Hobart College Statesmen,2pmi,To Basket,Monty Nedd,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,205,1.0,2024-12-07
+205,HOB,VC,,Foul,N/A,Avery Lee,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,206,1.0,2024-12-07
+208,HOB,VC,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,209,1.0,2024-12-07
+209,HOB,VC,Vassar Brewers,Foul,To Basket,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,210,1.0,2024-12-07
+212,HOB,VC,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,213,1.0,2024-12-07
+213,HOB,VC,,Foul,N/A,Avery Lee,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,214,1.0,2024-12-07
+216,HOB,VC,Hobart College Statesmen,Foul,N/A,Alex Moesch,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,217,1.0,2024-12-07
+219,HOB,VC,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,220,1.0,2024-12-07
+220,HOB,VC,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,221,1.0,2024-12-07
+222,HOB,VC,,Foul,N/A,Avery Lee,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,223,1.0,2024-12-07
+225,HOB,VC,Hobart College Statesmen,And1,To Basket,Aidan Rodgers,PNR,High,Off,Alex Moesch,P&R Roll Man,Left,Pop,Liberty League,Liberty League,226,1.0,2024-12-07
+227,HOB,VC,Vassar Brewers,2pmi,Dribble Jumper,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,228,2.0,2024-12-07
+229,HOB,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,230,1.0,2024-12-07
+230,HOB,VC,Hobart College Statesmen,3pmi,No Dribble Jumper,Pat Healy,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,231,4.0,2024-12-07
+232,HOB,VC,Hobart College Statesmen,3pMa,No Dribble Jumper,Aidan Rodgers,PNR,Left,Off,Alex Moesch,Spot Ups,N/A,Shot,Liberty League,Liberty League,233,4.0,2024-12-07
+233,HOB,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,234,4.0,2024-12-07
+234,HOB,VC,Hobart College Statesmen,2pmi,To Basket,Pat Healy,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,235,1.0,2024-12-07
+235,HOB,VC,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,PNR,High,Off,Shea Fitzgerald,Cuts,N/A,Basket,Liberty League,Liberty League,236,1.0,2024-12-07
+236,HOB,VC,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,237,1.0,2024-12-07
+237,HOB,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,238,1.0,2024-12-07
+241,HOB,VC,Hobart College Statesmen,Foul,To Basket,Alex Moesch,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,242,1.0,2024-12-07
+244,HOB,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,245,1.0,2024-12-07
+247,HOB,VC,Hobart College Statesmen,2pmi,Dribble Jumper,Alex Moesch,PNR,High,Off,Pat Healy,Spot Ups,Right,Drive,Liberty League,Liberty League,248,3.0,2024-12-07
+248,HOB,VC,,Foul,N/A,Kreekor Karageuzian,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,249,1.0,2024-12-07
+251,HOB,VC,,Foul,N/A,Carter Meshanic,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,252,1.0,2024-12-07
+254,HOB,VC,Vassar Brewers,3pMa,No Dribble Jumper,Shea Fitzgerald,PNR,Left,Off,Alex Walters,Spot Ups,N/A,Shot,Liberty League,Liberty League,255,4.0,2024-12-07
+255,HOB,VC,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,256,1.0,2024-12-07
+256,HOB,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,257,1.0,2024-12-07
+258,HOB,VC,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,259,1.0,2024-12-07
+260,HOB,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,PNR,High,Off,Shea Fitzgerald,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,261,1.0,2024-12-07
+261,HOB,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,262,1.0,2024-12-07

@@ -1,168 +1,168 @@
-Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
-SKD,SUN,SUNY Potsdam Bears,2pMa,Dribble Jumper,Parker Kelly,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,1,2.0,2025
-SKD,SUN,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,PNR,High,Off,Hakeem Daphnis,Spot Ups,N/A,N/A,Liberty League,SUNYAC,2,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pmi,To Basket,Walter Defreitas,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,3,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,Foul,To Basket,Alexei Downie,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,4,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,Turnover,To Basket,Mohammad Sylla,PNR,High,Off,Parker Kelly,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,8,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,9,4.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pmi,To Basket,Nicholas Cortez,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,10,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,Foul,To Basket,Jack LaGarde,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,11,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pMa,No Dribble Jumper,Mike Hancock,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,15,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Hakeem Daphnis,PNR,Left,Off,Charlie Fantom,Spot Ups,Left,Drive,Liberty League,SUNYAC,16,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pMa,To Basket,Nicholas Cortez,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,17,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Charlie Fantom,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,19,4.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pMa,To Basket,Mohammad Sylla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,20,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,21,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,23,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,Turnover,N/A,Mohammad Sylla,PNR,Left,Off,Lauwensky Astrel,Spot Ups,Left,Drive,Liberty League,SUNYAC,24,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,Turnover,To Basket,Jack LaGarde,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,26,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,Turnover,N/A,Parker Kelly,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,27,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,28,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pmi,To Basket,Mohammad Sylla,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,29,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Charlie Fantom,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,30,2.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Nicholas Cortez,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,32,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Joey Skoric,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,33,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,34,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,Foul,To Basket,Nicholas Cortez,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,35,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Hakeem Daphnis,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,38,2.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pmi,Dribble Jumper,Lauwensky Astrel,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,39,3.0,2025
-SKD,SUN,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Jake Walsh,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,40,4.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Nicholas Cortez,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,41,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Charlie Fantom,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,42,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,Turnover,N/A,Nicholas Cortez,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,43,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Jake Walsh,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,44,4.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Parker Kelly,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,45,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Charlie Fantom,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,46,4.0,2025
-SKD,SUN,SUNY Potsdam Bears,Turnover,N/A,Mohammad Sylla,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,47,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,Turnover,N/A,Jake Walsh,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,48,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Mike Hancock,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,50,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,Turnover,N/A,Prince Shyllon,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,51,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pMa,To Basket,Mohammad Sylla,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,52,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Jake Walsh,PNR,High,Away,Ethan Madeiros,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,53,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pMa,To Basket,Erik Wall,PNR,Right,Off,Bryson Brown,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,54,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Charlie Fantom,PNR,Left,Away,Prince Shyllon,Cuts,N/A,Flash,Liberty League,SUNYAC,55,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pMa,To Basket,Mike Hancock,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,56,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Fumani Sithole,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,57,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,Turnover,N/A,Mohammad Sylla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,58,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,Turnover,N/A,Alexei Downie,Post,Right,N/A,Nick Padilla,Spot Ups,Left,Drive,Liberty League,SUNYAC,61,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,Turnover,N/A,Walter Defreitas,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,62,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Alexei Downie,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,63,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Fumani Sithole,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,65,4.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Walter Defreitas,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,66,4.0,2025
-SKD,SUN,SUNY Potsdam Bears,Turnover,N/A,Mike Hancock,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,68,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Jack LaGarde,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,70,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Joey Skoric,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,71,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pMa,No Dribble Jumper,Mohammad Sylla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,72,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,73,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Nick Padilla,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,74,2.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Jack LaGarde,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,75,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pmi,To Basket,Mohammad Sylla,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,76,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,77,4.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pMa,To Basket,Mohammad Sylla,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,78,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,79,4.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Mike Hancock,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,80,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,PNR,High,Off,Joey Skoric,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,81,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pmi,To Basket,Mohammad Sylla,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,82,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Hakeem Daphnis,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,83,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,85,4.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pmi,Dribble Jumper,Erik Wall,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,86,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Nick Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,87,3.0,2025
-SKD,SUN,SUNY Potsdam Bears,Foul,N/A,Mohammad Sylla,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,88,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,91,4.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Parker Kelly,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,92,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,93,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Alexei Downie,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,94,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,Turnover,N/A,Mike Hancock,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,95,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,Turnover,To Basket,Nick Padilla,PNR,Right,Off,Ethan Madeiros,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,96,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Mohammad Sylla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,97,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,Foul,To Basket,Nick Padilla,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,98,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pMa,No Dribble Jumper,Nicholas Cortez,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,101,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Hakeem Daphnis,PNR,Right,Off,Jake Walsh,Spot Ups,N/A,Shot,Liberty League,SUNYAC,102,4.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pMa,To Basket,Mohammad Sylla,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,103,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,Turnover,N/A,Ethan Madeiros,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,104,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Erik Wall,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,105,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Hakeem Daphnis,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,106,3.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pMa,Dribble Jumper,Nicholas Cortez,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,107,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Jake Walsh,Off Screens,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,108,4.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pmi,Dribble Jumper,Nicholas Cortez,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,110,2.0,2025
-SKD,SUN,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,PNR,High,Off,Hakeem Daphnis,Spot Ups,N/A,Shot,Liberty League,SUNYAC,111,4.0,2025
-SKD,SUN,SUNY Potsdam Bears,Turnover,To Basket,Mohammad Sylla,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,113,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Hakeem Daphnis,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,114,3.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pmi,Dribble Jumper,Mohammad Sylla,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,115,2.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Hakeem Daphnis,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,116,3.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Nicholas Cortez,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,117,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Hakeem Daphnis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,118,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pmi,To Basket,Mohammad Sylla,PNR,High,Off,Nicholas Cortez,Spot Ups,Right,Drive,Liberty League,SUNYAC,119,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,120,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pMa,Dribble Jumper,Walter Defreitas,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,121,3.0,2025
-SKD,SUN,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,122,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Walter Defreitas,PNR,Left,Off,Mike Hancock,Spot Ups,N/A,Shot,Liberty League,SUNYAC,123,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,124,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,Foul,To Basket,Walter Defreitas,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,125,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Joey Skoric,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,129,4.0,2025
-SKD,SUN,SUNY Potsdam Bears,And1,Drop Step,Parker Kelly,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,130,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Alexei Downie,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,132,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Nicholas Cortez,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,133,4.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Parker Kelly,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,135,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,136,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Joey Skoric,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,137,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pMa,No Dribble Jumper,Mohammad Sylla,PNR,High,Off,Walter Defreitas,Spot Ups,N/A,Shot,Liberty League,SUNYAC,138,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Hakeem Daphnis,Iso,Right,N/A,Charlie Fantom,Spot Ups,Left,Drive,Liberty League,SUNYAC,139,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pMa,To Basket,Mohammad Sylla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,140,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,141,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Charlie Fantom,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,143,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Walter Defreitas,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,144,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,Turnover,N/A,Alexei Downie,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,146,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pMa,To Basket,Walter Defreitas,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,147,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pmi,No Dribble Jumper,Nick Padilla,PNR,Left,Away,Joey Skoric,P&R Roll Man,N/A,Pop,Liberty League,SUNYAC,149,3.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pMa,No Dribble Jumper,Parker Kelly,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,150,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,151,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pMa,To Basket,Mohammad Sylla,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,152,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Charlie Fantom,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,154,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Jake Walsh,PNR,High,Off,Joey Skoric,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,156,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pmi,To Basket,Mohammad Sylla,Iso,Right,N/A,Nicholas Cortez,Spot Ups,Left,Drive,Liberty League,SUNYAC,157,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,Turnover,N/A,Jake Walsh,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,158,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pmi,Dribble Jumper,Mohammad Sylla,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,159,2.0,2025
-SKD,SUN,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,161,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pmi,To Basket,Jace Hammond,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,162,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pMa,No Dribble Jumper,Nick Padilla,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,163,2.0,2025
-SKD,SUN,SUNY Potsdam Bears,Foul,To Basket,Parker Kelly,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,164,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Joey Skoric,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,167,4.0,2025
-SKD,SUN,SUNY Potsdam Bears,Foul,To Basket,Mohammad Sylla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,168,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pmi,No Dribble Jumper,Jake Walsh,PNR,Left,Off,Ethan Madeiros,Spot Ups,N/A,Shot,Liberty League,SUNYAC,172,3.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Nicholas Cortez,PNR,Right,Off,Jace Hammond,Spot Ups,N/A,Shot,Liberty League,SUNYAC,175,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Ethan Madeiros,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,176,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,Foul,To Basket,Nicholas Cortez,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,177,1.0,2025
-SKD,SUN,,Foul,N/A,Alexei Downie,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,182,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pmi,To Basket,Mohammad Sylla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,184,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,185,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,Turnover,N/A,Walter Defreitas,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,186,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Hakeem Daphnis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,187,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,Foul,To Basket,Nicholas Cortez,PNR,High,N/A,Parker Kelly,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,189,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,192,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pmi,To Basket,Nicholas Cortez,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,193,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Jake Walsh,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,194,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Jake Walsh,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,196,4.0,2025
-SKD,SUN,SUNY Potsdam Bears,Turnover,N/A,Walter Defreitas,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,199,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,PNR,High,Off,Hakeem Daphnis,Spot Ups,Right,Drive,Liberty League,SUNYAC,200,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,Foul,To Basket,Walter Defreitas,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,201,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,And1,To Basket,Nick Padilla,PNR,Left,Off,Joey Skoric,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,204,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pmi,N/A,Mohammad Sylla,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,206,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,207,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,PNR,Left,Off,Jack LaGarde,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,208,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Walter Defreitas,Iso,Right,N/A,Parker Kelly,Spot Ups,N/A,Shot,Liberty League,SUNYAC,209,4.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pmi,N/A,Nicholas Cortez,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,210,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Nick Padilla,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,211,2.0,2025
-SKD,SUN,Skidmore Thoroughbreds,Foul,N/A,Jack LaGarde,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,212,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,And1,To Basket,Mohammad Sylla,Post,Middle,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,214,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,Foul,N/A,Jake Walsh,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,216,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pmi,To Basket,Nicholas Cortez,PNR,High,Off,Parker Kelly,Cuts,N/A,Screen,Liberty League,SUNYAC,219,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Nick Padilla,PNR,Right,Off,Hakeem Daphnis,Spot Ups,Right,Drive,Liberty League,SUNYAC,220,2.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pMa,No Dribble Jumper,Erik Wall,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,222,4.0,2025
-SKD,SUN,,Foul,N/A,Nick Padilla,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,223,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pmi,To Basket,Erik Wall,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,226,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pmi,Dribble Jumper,Erik Wall,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,228,4.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Joey Skoric,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,230,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,2pMa,To Basket,Nicholas Cortez,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,231,1.0,2025
-SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,232,1.0,2025
-SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Nicholas Cortez,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,233,4.0,2025
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,SKD,SUN,SUNY Potsdam Bears,2pMa,Dribble Jumper,Parker Kelly,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,1,2.0,2024-11-20
+1,SKD,SUN,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,PNR,High,Off,Hakeem Daphnis,Spot Ups,N/A,N/A,Liberty League,SUNYAC,2,1.0,2024-11-20
+2,SKD,SUN,SUNY Potsdam Bears,2pmi,To Basket,Walter Defreitas,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,3,1.0,2024-11-20
+3,SKD,SUN,Skidmore Thoroughbreds,Foul,To Basket,Alexei Downie,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,4,1.0,2024-11-20
+7,SKD,SUN,SUNY Potsdam Bears,Turnover,To Basket,Mohammad Sylla,PNR,High,Off,Parker Kelly,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,8,1.0,2024-11-20
+8,SKD,SUN,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,9,4.0,2024-11-20
+9,SKD,SUN,SUNY Potsdam Bears,2pmi,To Basket,Nicholas Cortez,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,10,1.0,2024-11-20
+10,SKD,SUN,Skidmore Thoroughbreds,Foul,To Basket,Jack LaGarde,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,11,1.0,2024-11-20
+14,SKD,SUN,SUNY Potsdam Bears,3pMa,No Dribble Jumper,Mike Hancock,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,15,4.0,2024-11-20
+15,SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Hakeem Daphnis,PNR,Left,Off,Charlie Fantom,Spot Ups,Left,Drive,Liberty League,SUNYAC,16,1.0,2024-11-20
+16,SKD,SUN,SUNY Potsdam Bears,2pMa,To Basket,Nicholas Cortez,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,17,1.0,2024-11-20
+18,SKD,SUN,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Charlie Fantom,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,19,4.0,2024-11-20
+19,SKD,SUN,SUNY Potsdam Bears,2pMa,To Basket,Mohammad Sylla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,20,1.0,2024-11-20
+20,SKD,SUN,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,21,4.0,2024-11-20
+22,SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,23,1.0,2024-11-20
+23,SKD,SUN,SUNY Potsdam Bears,Turnover,N/A,Mohammad Sylla,PNR,Left,Off,Lauwensky Astrel,Spot Ups,Left,Drive,Liberty League,SUNYAC,24,1.0,2024-11-20
+25,SKD,SUN,Skidmore Thoroughbreds,Turnover,To Basket,Jack LaGarde,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,26,1.0,2024-11-20
+26,SKD,SUN,SUNY Potsdam Bears,Turnover,N/A,Parker Kelly,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,27,1.0,2024-11-20
+27,SKD,SUN,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,28,1.0,2024-11-20
+28,SKD,SUN,SUNY Potsdam Bears,2pmi,To Basket,Mohammad Sylla,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,29,1.0,2024-11-20
+29,SKD,SUN,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Charlie Fantom,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,30,2.0,2024-11-20
+31,SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Nicholas Cortez,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,32,4.0,2024-11-20
+32,SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Joey Skoric,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,33,1.0,2024-11-20
+33,SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,34,1.0,2024-11-20
+34,SKD,SUN,SUNY Potsdam Bears,Foul,To Basket,Nicholas Cortez,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,35,1.0,2024-11-20
+37,SKD,SUN,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Hakeem Daphnis,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,38,2.0,2024-11-20
+38,SKD,SUN,SUNY Potsdam Bears,2pmi,Dribble Jumper,Lauwensky Astrel,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,39,3.0,2024-11-20
+39,SKD,SUN,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Jake Walsh,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,40,4.0,2024-11-20
+40,SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Nicholas Cortez,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,41,4.0,2024-11-20
+41,SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Charlie Fantom,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,42,1.0,2024-11-20
+42,SKD,SUN,SUNY Potsdam Bears,Turnover,N/A,Nicholas Cortez,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,43,1.0,2024-11-20
+43,SKD,SUN,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Jake Walsh,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,44,4.0,2024-11-20
+44,SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Parker Kelly,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,45,4.0,2024-11-20
+45,SKD,SUN,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Charlie Fantom,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,46,4.0,2024-11-20
+46,SKD,SUN,SUNY Potsdam Bears,Turnover,N/A,Mohammad Sylla,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,47,1.0,2024-11-20
+47,SKD,SUN,Skidmore Thoroughbreds,Turnover,N/A,Jake Walsh,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,48,1.0,2024-11-20
+49,SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Mike Hancock,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,50,4.0,2024-11-20
+50,SKD,SUN,Skidmore Thoroughbreds,Turnover,N/A,Prince Shyllon,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,51,1.0,2024-11-20
+51,SKD,SUN,SUNY Potsdam Bears,2pMa,To Basket,Mohammad Sylla,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,52,1.0,2024-11-20
+52,SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Jake Walsh,PNR,High,Away,Ethan Madeiros,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,53,1.0,2024-11-20
+53,SKD,SUN,SUNY Potsdam Bears,2pMa,To Basket,Erik Wall,PNR,Right,Off,Bryson Brown,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,54,1.0,2024-11-20
+54,SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Charlie Fantom,PNR,Left,Away,Prince Shyllon,Cuts,N/A,Flash,Liberty League,SUNYAC,55,1.0,2024-11-20
+55,SKD,SUN,SUNY Potsdam Bears,2pMa,To Basket,Mike Hancock,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,56,1.0,2024-11-20
+56,SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Fumani Sithole,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,57,1.0,2024-11-20
+57,SKD,SUN,SUNY Potsdam Bears,Turnover,N/A,Mohammad Sylla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,58,1.0,2024-11-20
+60,SKD,SUN,Skidmore Thoroughbreds,Turnover,N/A,Alexei Downie,Post,Right,N/A,Nick Padilla,Spot Ups,Left,Drive,Liberty League,SUNYAC,61,1.0,2024-11-20
+61,SKD,SUN,SUNY Potsdam Bears,Turnover,N/A,Walter Defreitas,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,62,1.0,2024-11-20
+62,SKD,SUN,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Alexei Downie,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,63,4.0,2024-11-20
+64,SKD,SUN,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Fumani Sithole,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,65,4.0,2024-11-20
+65,SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Walter Defreitas,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,66,4.0,2024-11-20
+67,SKD,SUN,SUNY Potsdam Bears,Turnover,N/A,Mike Hancock,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,68,1.0,2024-11-20
+69,SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Jack LaGarde,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,70,1.0,2024-11-20
+70,SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Joey Skoric,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,71,1.0,2024-11-20
+71,SKD,SUN,SUNY Potsdam Bears,3pMa,No Dribble Jumper,Mohammad Sylla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,72,4.0,2024-11-20
+72,SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,73,1.0,2024-11-20
+73,SKD,SUN,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Nick Padilla,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,74,2.0,2024-11-20
+74,SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Jack LaGarde,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,75,1.0,2024-11-20
+75,SKD,SUN,SUNY Potsdam Bears,2pmi,To Basket,Mohammad Sylla,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,76,1.0,2024-11-20
+76,SKD,SUN,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,77,4.0,2024-11-20
+77,SKD,SUN,SUNY Potsdam Bears,2pMa,To Basket,Mohammad Sylla,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,78,1.0,2024-11-20
+78,SKD,SUN,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,79,4.0,2024-11-20
+79,SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Mike Hancock,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,80,4.0,2024-11-20
+80,SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,PNR,High,Off,Joey Skoric,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,81,1.0,2024-11-20
+81,SKD,SUN,SUNY Potsdam Bears,2pmi,To Basket,Mohammad Sylla,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,82,1.0,2024-11-20
+82,SKD,SUN,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Hakeem Daphnis,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,83,4.0,2024-11-20
+84,SKD,SUN,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,85,4.0,2024-11-20
+85,SKD,SUN,SUNY Potsdam Bears,3pmi,Dribble Jumper,Erik Wall,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,86,4.0,2024-11-20
+86,SKD,SUN,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Nick Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,87,3.0,2024-11-20
+87,SKD,SUN,SUNY Potsdam Bears,Foul,N/A,Mohammad Sylla,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,88,1.0,2024-11-20
+90,SKD,SUN,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,91,4.0,2024-11-20
+91,SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Parker Kelly,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,92,4.0,2024-11-20
+92,SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,93,1.0,2024-11-20
+93,SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Alexei Downie,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,94,1.0,2024-11-20
+94,SKD,SUN,SUNY Potsdam Bears,Turnover,N/A,Mike Hancock,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,95,1.0,2024-11-20
+95,SKD,SUN,Skidmore Thoroughbreds,Turnover,To Basket,Nick Padilla,PNR,Right,Off,Ethan Madeiros,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,96,1.0,2024-11-20
+96,SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Mohammad Sylla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,97,4.0,2024-11-20
+97,SKD,SUN,Skidmore Thoroughbreds,Foul,To Basket,Nick Padilla,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,98,1.0,2024-11-20
+100,SKD,SUN,SUNY Potsdam Bears,3pMa,No Dribble Jumper,Nicholas Cortez,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,101,4.0,2024-11-20
+101,SKD,SUN,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Hakeem Daphnis,PNR,Right,Off,Jake Walsh,Spot Ups,N/A,Shot,Liberty League,SUNYAC,102,4.0,2024-11-20
+102,SKD,SUN,SUNY Potsdam Bears,2pMa,To Basket,Mohammad Sylla,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,103,1.0,2024-11-20
+103,SKD,SUN,Skidmore Thoroughbreds,Turnover,N/A,Ethan Madeiros,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,104,1.0,2024-11-20
+104,SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Erik Wall,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,105,4.0,2024-11-20
+105,SKD,SUN,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Hakeem Daphnis,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,106,3.0,2024-11-20
+106,SKD,SUN,SUNY Potsdam Bears,3pMa,Dribble Jumper,Nicholas Cortez,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,107,4.0,2024-11-20
+107,SKD,SUN,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Jake Walsh,Off Screens,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,108,4.0,2024-11-20
+109,SKD,SUN,SUNY Potsdam Bears,2pmi,Dribble Jumper,Nicholas Cortez,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,110,2.0,2024-11-20
+110,SKD,SUN,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,PNR,High,Off,Hakeem Daphnis,Spot Ups,N/A,Shot,Liberty League,SUNYAC,111,4.0,2024-11-20
+112,SKD,SUN,SUNY Potsdam Bears,Turnover,To Basket,Mohammad Sylla,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,113,1.0,2024-11-20
+113,SKD,SUN,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Hakeem Daphnis,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,114,3.0,2024-11-20
+114,SKD,SUN,SUNY Potsdam Bears,2pmi,Dribble Jumper,Mohammad Sylla,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,115,2.0,2024-11-20
+115,SKD,SUN,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Hakeem Daphnis,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,116,3.0,2024-11-20
+116,SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Nicholas Cortez,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,117,4.0,2024-11-20
+117,SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Hakeem Daphnis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,118,1.0,2024-11-20
+118,SKD,SUN,SUNY Potsdam Bears,2pmi,To Basket,Mohammad Sylla,PNR,High,Off,Nicholas Cortez,Spot Ups,Right,Drive,Liberty League,SUNYAC,119,1.0,2024-11-20
+119,SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,120,1.0,2024-11-20
+120,SKD,SUN,SUNY Potsdam Bears,2pMa,Dribble Jumper,Walter Defreitas,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,121,3.0,2024-11-20
+121,SKD,SUN,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,122,1.0,2024-11-20
+122,SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Walter Defreitas,PNR,Left,Off,Mike Hancock,Spot Ups,N/A,Shot,Liberty League,SUNYAC,123,4.0,2024-11-20
+123,SKD,SUN,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,124,1.0,2024-11-20
+124,SKD,SUN,SUNY Potsdam Bears,Foul,To Basket,Walter Defreitas,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,125,1.0,2024-11-20
+128,SKD,SUN,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Joey Skoric,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,129,4.0,2024-11-20
+129,SKD,SUN,SUNY Potsdam Bears,And1,Drop Step,Parker Kelly,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,130,1.0,2024-11-20
+131,SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Alexei Downie,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,132,1.0,2024-11-20
+132,SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Nicholas Cortez,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,133,4.0,2024-11-20
+134,SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Parker Kelly,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,135,4.0,2024-11-20
+135,SKD,SUN,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,136,4.0,2024-11-20
+136,SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Joey Skoric,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,137,1.0,2024-11-20
+137,SKD,SUN,SUNY Potsdam Bears,3pMa,No Dribble Jumper,Mohammad Sylla,PNR,High,Off,Walter Defreitas,Spot Ups,N/A,Shot,Liberty League,SUNYAC,138,4.0,2024-11-20
+138,SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Hakeem Daphnis,Iso,Right,N/A,Charlie Fantom,Spot Ups,Left,Drive,Liberty League,SUNYAC,139,1.0,2024-11-20
+139,SKD,SUN,SUNY Potsdam Bears,2pMa,To Basket,Mohammad Sylla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,140,1.0,2024-11-20
+140,SKD,SUN,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,141,4.0,2024-11-20
+142,SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Charlie Fantom,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,143,1.0,2024-11-20
+143,SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Walter Defreitas,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,144,4.0,2024-11-20
+145,SKD,SUN,Skidmore Thoroughbreds,Turnover,N/A,Alexei Downie,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,146,1.0,2024-11-20
+146,SKD,SUN,SUNY Potsdam Bears,2pMa,To Basket,Walter Defreitas,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,147,1.0,2024-11-20
+148,SKD,SUN,Skidmore Thoroughbreds,2pmi,No Dribble Jumper,Nick Padilla,PNR,Left,Away,Joey Skoric,P&R Roll Man,N/A,Pop,Liberty League,SUNYAC,149,3.0,2024-11-20
+149,SKD,SUN,SUNY Potsdam Bears,3pMa,No Dribble Jumper,Parker Kelly,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,150,4.0,2024-11-20
+150,SKD,SUN,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,151,1.0,2024-11-20
+151,SKD,SUN,SUNY Potsdam Bears,2pMa,To Basket,Mohammad Sylla,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,152,1.0,2024-11-20
+153,SKD,SUN,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Charlie Fantom,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,154,4.0,2024-11-20
+155,SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Jake Walsh,PNR,High,Off,Joey Skoric,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,156,1.0,2024-11-20
+156,SKD,SUN,SUNY Potsdam Bears,2pmi,To Basket,Mohammad Sylla,Iso,Right,N/A,Nicholas Cortez,Spot Ups,Left,Drive,Liberty League,SUNYAC,157,1.0,2024-11-20
+157,SKD,SUN,Skidmore Thoroughbreds,Turnover,N/A,Jake Walsh,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,158,1.0,2024-11-20
+158,SKD,SUN,SUNY Potsdam Bears,2pmi,Dribble Jumper,Mohammad Sylla,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,159,2.0,2024-11-20
+160,SKD,SUN,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,161,1.0,2024-11-20
+161,SKD,SUN,SUNY Potsdam Bears,2pmi,To Basket,Jace Hammond,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,162,1.0,2024-11-20
+162,SKD,SUN,Skidmore Thoroughbreds,2pMa,No Dribble Jumper,Nick Padilla,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,163,2.0,2024-11-20
+163,SKD,SUN,SUNY Potsdam Bears,Foul,To Basket,Parker Kelly,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,164,1.0,2024-11-20
+166,SKD,SUN,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Joey Skoric,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,167,4.0,2024-11-20
+167,SKD,SUN,SUNY Potsdam Bears,Foul,To Basket,Mohammad Sylla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,168,1.0,2024-11-20
+171,SKD,SUN,Skidmore Thoroughbreds,2pmi,No Dribble Jumper,Jake Walsh,PNR,Left,Off,Ethan Madeiros,Spot Ups,N/A,Shot,Liberty League,SUNYAC,172,3.0,2024-11-20
+174,SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Nicholas Cortez,PNR,Right,Off,Jace Hammond,Spot Ups,N/A,Shot,Liberty League,SUNYAC,175,4.0,2024-11-20
+175,SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Ethan Madeiros,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,176,1.0,2024-11-20
+176,SKD,SUN,SUNY Potsdam Bears,Foul,To Basket,Nicholas Cortez,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,177,1.0,2024-11-20
+181,SKD,SUN,,Foul,N/A,Alexei Downie,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,182,1.0,2024-11-20
+183,SKD,SUN,SUNY Potsdam Bears,2pmi,To Basket,Mohammad Sylla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,184,1.0,2024-11-20
+184,SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,185,1.0,2024-11-20
+185,SKD,SUN,SUNY Potsdam Bears,Turnover,N/A,Walter Defreitas,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,186,1.0,2024-11-20
+186,SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Hakeem Daphnis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,187,1.0,2024-11-20
+188,SKD,SUN,SUNY Potsdam Bears,Foul,To Basket,Nicholas Cortez,PNR,High,N/A,Parker Kelly,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,189,1.0,2024-11-20
+191,SKD,SUN,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,192,1.0,2024-11-20
+192,SKD,SUN,SUNY Potsdam Bears,2pmi,To Basket,Nicholas Cortez,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,193,1.0,2024-11-20
+193,SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Jake Walsh,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,194,1.0,2024-11-20
+195,SKD,SUN,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Jake Walsh,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,196,4.0,2024-11-20
+198,SKD,SUN,SUNY Potsdam Bears,Turnover,N/A,Walter Defreitas,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,199,1.0,2024-11-20
+199,SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,PNR,High,Off,Hakeem Daphnis,Spot Ups,Right,Drive,Liberty League,SUNYAC,200,1.0,2024-11-20
+200,SKD,SUN,SUNY Potsdam Bears,Foul,To Basket,Walter Defreitas,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,201,1.0,2024-11-20
+203,SKD,SUN,Skidmore Thoroughbreds,And1,To Basket,Nick Padilla,PNR,Left,Off,Joey Skoric,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,204,1.0,2024-11-20
+205,SKD,SUN,SUNY Potsdam Bears,2pmi,N/A,Mohammad Sylla,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,206,1.0,2024-11-20
+206,SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,207,1.0,2024-11-20
+207,SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,PNR,Left,Off,Jack LaGarde,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,208,1.0,2024-11-20
+208,SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Walter Defreitas,Iso,Right,N/A,Parker Kelly,Spot Ups,N/A,Shot,Liberty League,SUNYAC,209,4.0,2024-11-20
+209,SKD,SUN,SUNY Potsdam Bears,3pmi,N/A,Nicholas Cortez,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,210,4.0,2024-11-20
+210,SKD,SUN,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Nick Padilla,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,211,2.0,2024-11-20
+211,SKD,SUN,Skidmore Thoroughbreds,Foul,N/A,Jack LaGarde,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,212,1.0,2024-11-20
+213,SKD,SUN,SUNY Potsdam Bears,And1,To Basket,Mohammad Sylla,Post,Middle,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,214,1.0,2024-11-20
+215,SKD,SUN,Skidmore Thoroughbreds,Foul,N/A,Jake Walsh,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,216,1.0,2024-11-20
+218,SKD,SUN,SUNY Potsdam Bears,2pmi,To Basket,Nicholas Cortez,PNR,High,Off,Parker Kelly,Cuts,N/A,Screen,Liberty League,SUNYAC,219,1.0,2024-11-20
+219,SKD,SUN,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Nick Padilla,PNR,Right,Off,Hakeem Daphnis,Spot Ups,Right,Drive,Liberty League,SUNYAC,220,2.0,2024-11-20
+221,SKD,SUN,SUNY Potsdam Bears,3pMa,No Dribble Jumper,Erik Wall,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,222,4.0,2024-11-20
+222,SKD,SUN,,Foul,N/A,Nick Padilla,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,223,1.0,2024-11-20
+225,SKD,SUN,SUNY Potsdam Bears,2pmi,To Basket,Erik Wall,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,226,1.0,2024-11-20
+227,SKD,SUN,SUNY Potsdam Bears,3pmi,Dribble Jumper,Erik Wall,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,228,4.0,2024-11-20
+229,SKD,SUN,Skidmore Thoroughbreds,2pMa,To Basket,Joey Skoric,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,230,1.0,2024-11-20
+230,SKD,SUN,SUNY Potsdam Bears,2pMa,To Basket,Nicholas Cortez,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,231,1.0,2024-11-20
+231,SKD,SUN,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,232,1.0,2024-11-20
+232,SKD,SUN,SUNY Potsdam Bears,3pmi,No Dribble Jumper,Nicholas Cortez,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,233,4.0,2024-11-20

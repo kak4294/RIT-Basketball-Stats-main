@@ -1,164 +1,164 @@
-Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
-AUK,VC,Vassar Brewers,Turnover,N/A,Kreekor Karageuzian,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,1,1.0,2025
-AUK,VC,Arcadia University Knights,Turnover,N/A,Corey Attivo,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,2,1.0,2025
-AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Sebastian Medina,PNR,Right,Off,Eric Zhang,P&R Roll Man,N/A,Pop,UNKNOWN,Liberty League,3,4.0,2025
-AUK,VC,Arcadia University Knights,2pMa,Dribble Jumper,Joshua Okocha,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,4,3.0,2025
-AUK,VC,Vassar Brewers,3pMa,No Dribble Jumper,Nathan Denham,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,5,4.0,2025
-AUK,VC,Arcadia University Knights,Turnover,N/A,Corey Attivo,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,6,1.0,2025
-AUK,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,7,1.0,2025
-AUK,VC,Arcadia University Knights,2pMa,To Basket,Joshua Okocha,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,9,1.0,2025
-AUK,VC,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,10,1.0,2025
-AUK,VC,Arcadia University Knights,3pMa,No Dribble Jumper,Josh Parks,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,11,4.0,2025
-AUK,VC,Vassar Brewers,2pmi,Dribble Jumper,Nathan Denham,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,12,3.0,2025
-AUK,VC,Arcadia University Knights,2pmi,Dribble Jumper,Jamison Lynam,PNR,High,Off,Joshua Okocha,Spot Ups,Right,Drive,UNKNOWN,Liberty League,13,2.0,2025
-AUK,VC,Vassar Brewers,3pmi,Dribble Jumper,Shea Fitzgerald,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,14,4.0,2025
-AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Corey Attivo,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,15,4.0,2025
-AUK,VC,Vassar Brewers,2pmi,To Basket,Nathan Denham,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,16,1.0,2025
-AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Josh Parks,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,18,4.0,2025
-AUK,VC,Vassar Brewers,2pMa,To Basket,Sebastian Medina,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,19,1.0,2025
-AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Keenan Reiss,Iso,Top,N/A,Joshua Okocha,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,22,4.0,2025
-AUK,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,23,1.0,2025
-AUK,VC,Arcadia University Knights,2pmi,To Basket,Joshua Okocha,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,24,1.0,2025
-AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,25,4.0,2025
-AUK,VC,Vassar Brewers,2pmi,No Dribble Jumper,Sacha Greenberg,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,26,3.0,2025
-AUK,VC,Arcadia University Knights,2pMa,To Basket,Debarrin Norman,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,27,1.0,2025
-AUK,VC,Vassar Brewers,2pmi,No Dribble Jumper,Shea Fitzgerald,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,28,3.0,2025
-AUK,VC,Arcadia University Knights,2pMa,Dribble Jumper,Joshua Okocha,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,29,2.0,2025
-AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,31,4.0,2025
-AUK,VC,Arcadia University Knights,2pMa,Dribble Jumper,Josh Parks,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,33,2.0,2025
-AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,34,4.0,2025
-AUK,VC,Arcadia University Knights,Turnover,N/A,Keenan Reiss,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,35,1.0,2025
-AUK,VC,Vassar Brewers,2pMa,Dribble Jumper,Luke Adams,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,36,2.0,2025
-AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Keenan Reiss,PNR,High,Off,Dominic Vazquez,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,37,4.0,2025
-AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,38,4.0,2025
-AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Luke Adams,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,40,4.0,2025
-AUK,VC,Arcadia University Knights,Turnover,N/A,Tymir Smalls,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,41,1.0,2025
-AUK,VC,Vassar Brewers,2pMa,Dribble Jumper,Avery Lee,Iso,Right,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,42,2.0,2025
-AUK,VC,Arcadia University Knights,3pMa,No Dribble Jumper,Dominic Vazquez,PNR,Right,Off,Keenan Reiss,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,43,4.0,2025
-AUK,VC,Vassar Brewers,2pmi,To Basket,Sacha Greenberg,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,44,1.0,2025
-AUK,VC,Vassar Brewers,2pMa,Dribble Jumper,Eric Zhang,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,46,2.0,2025
-AUK,VC,Arcadia University Knights,2pmi,To Basket,Debarrin Norman,Post,Left,N/A,Josh Parks,Spot Ups,Left,Drive,UNKNOWN,Liberty League,47,1.0,2025
-AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,48,4.0,2025
-AUK,VC,Vassar Brewers,2pmi,To Basket,Nathan Denham,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,50,1.0,2025
-AUK,VC,Arcadia University Knights,2pmi,To Basket,Tymir Smalls,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,51,1.0,2025
-AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Kreekor Karageuzian,PNR,Left,Off,Sacha Greenberg,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,52,4.0,2025
-AUK,VC,Arcadia University Knights,Turnover,N/A,Debarrin Norman,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,53,1.0,2025
-AUK,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,54,1.0,2025
-AUK,VC,Arcadia University Knights,3pMa,No Dribble Jumper,Dominic Vazquez,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,55,4.0,2025
-AUK,VC,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,56,4.0,2025
-AUK,VC,Arcadia University Knights,2pmi,To Basket,Dominic Vazquez,PNR,Left,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,57,1.0,2025
-AUK,VC,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,58,4.0,2025
-AUK,VC,Arcadia University Knights,2pmi,To Basket,Amyr Walker,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,60,1.0,2025
-AUK,VC,Vassar Brewers,2pmi,Dribble Jumper,Eric Zhang,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,61,3.0,2025
-AUK,VC,Arcadia University Knights,Turnover,N/A,Amyr Walker,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,62,1.0,2025
-AUK,VC,Vassar Brewers,2pMa,To Basket,Kreekor Karageuzian,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,63,1.0,2025
-AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Joshua Okocha,Post,Right,Right Shoulder,Josh Parks,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,64,4.0,2025
-AUK,VC,Vassar Brewers,2pmi,Dribble Jumper,Shea Fitzgerald,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,65,2.0,2025
-AUK,VC,Arcadia University Knights,2pmi,No Dribble Jumper,Joshua Okocha,Iso,Top,N/A,Corey Attivo,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,66,3.0,2025
-AUK,VC,Vassar Brewers,2pmi,To Basket,Nathan Denham,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,67,1.0,2025
-AUK,VC,Arcadia University Knights,Turnover,N/A,Josh Parks,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,69,1.0,2025
-AUK,VC,Vassar Brewers,Turnover,N/A,Luke Adams,PNR,High,Off,Eric Zhang,Spot Ups,Left,Drive,UNKNOWN,Liberty League,70,1.0,2025
-AUK,VC,Arcadia University Knights,3pMa,No Dribble Jumper,Jamison Lynam,PNR,High,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,71,4.0,2025
-AUK,VC,Vassar Brewers,2pmi,To Basket,Luke Adams,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,72,1.0,2025
-AUK,VC,Arcadia University Knights,2pmi,To Basket,Joshua Okocha,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,73,1.0,2025
-AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Amyr Walker,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,75,4.0,2025
-AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Joshua Okocha,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,77,4.0,2025
-AUK,VC,Arcadia University Knights,2pMa,To Basket,Amyr Walker,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,78,1.0,2025
-AUK,VC,Vassar Brewers,2pMa,Dribble Jumper,Shea Fitzgerald,PNR,Right,Off,Avery Lee,Spot Ups,Left,Drive,UNKNOWN,Liberty League,79,2.0,2025
-AUK,VC,Arcadia University Knights,Turnover,N/A,Amyr Walker,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,80,1.0,2025
-AUK,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,81,1.0,2025
-AUK,VC,Arcadia University Knights,2pmi,Dribble Jumper,Dominic Vazquez,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,82,2.0,2025
-AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Josh Parks,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,84,4.0,2025
-AUK,VC,Vassar Brewers,Turnover,N/A,Avery Lee,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,85,1.0,2025
-AUK,VC,Arcadia University Knights,3pMa,Dribble Jumper,Jamison Lynam,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,86,4.0,2025
-AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,87,4.0,2025
-AUK,VC,Vassar Brewers,2pmi,To Basket,Eric Zhang,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,88,1.0,2025
-AUK,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,89,1.0,2025
-AUK,VC,Arcadia University Knights,Turnover,N/A,Dominic Vazquez,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,91,1.0,2025
-AUK,VC,Vassar Brewers,2pmi,To Basket,Nathan Denham,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,92,1.0,2025
-AUK,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,93,1.0,2025
-AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Jamison Lynam,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,95,4.0,2025
-AUK,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Iso,Left,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,96,1.0,2025
-AUK,VC,Arcadia University Knights,3pMa,No Dribble Jumper,Joshua Okocha,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,97,4.0,2025
-AUK,VC,Vassar Brewers,3pMa,No Dribble Jumper,Kreekor Karageuzian,PNR,High,Off,Shea Fitzgerald,P&R Roll Man,N/A,Slips,UNKNOWN,Liberty League,98,4.0,2025
-AUK,VC,Arcadia University Knights,3pmi,Dribble Jumper,Joshua Okocha,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,99,4.0,2025
-AUK,VC,Vassar Brewers,3pMa,No Dribble Jumper,Shea Fitzgerald,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,100,4.0,2025
-AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Amyr Walker,Iso,Top,N/A,Corey Attivo,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,101,4.0,2025
-AUK,VC,Arcadia University Knights,Turnover,N/A,Jamison Lynam,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,102,1.0,2025
-AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,103,4.0,2025
-AUK,VC,Arcadia University Knights,Turnover,N/A,Joshua Okocha,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,104,1.0,2025
-AUK,VC,Vassar Brewers,2pmi,To Basket,Eric Zhang,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,105,1.0,2025
-AUK,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,PNR,Left,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,108,1.0,2025
-AUK,VC,Vassar Brewers,2pMa,To Basket,Sebastian Medina,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,109,1.0,2025
-AUK,VC,Arcadia University Knights,2pmi,Dribble Jumper,Josh Parks,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,110,3.0,2025
-AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,111,4.0,2025
-AUK,VC,Arcadia University Knights,2pMa,Dribble Jumper,Josh Parks,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,112,2.0,2025
-AUK,VC,Vassar Brewers,Turnover,N/A,Nathan Denham,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,114,1.0,2025
-AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Corey Attivo,Post,Left,Left Shoulder,Joshua Okocha,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,115,4.0,2025
-AUK,VC,Vassar Brewers,Turnover,N/A,Eric Zhang,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,116,1.0,2025
-AUK,VC,Arcadia University Knights,And1,To Basket,Joshua Okocha,Post,Left,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,117,1.0,2025
-AUK,VC,Vassar Brewers,Foul,To Basket,Avery Lee,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,119,1.0,2025
-AUK,VC,Arcadia University Knights,Turnover,N/A,Jamison Lynam,Iso,Left,N/A,Amyr Walker,Spot Ups,Right,Drive,UNKNOWN,Liberty League,122,1.0,2025
-AUK,VC,Vassar Brewers,2pMa,Dribble Jumper,Avery Lee,Iso,Left,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,123,2.0,2025
-AUK,VC,Arcadia University Knights,And1,To Basket,Joshua Okocha,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,124,1.0,2025
-AUK,VC,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,126,2.0,2025
-AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Keenan Reiss,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,128,4.0,2025
-AUK,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,129,1.0,2025
-AUK,VC,Vassar Brewers,2pmi,To Basket,Sacha Greenberg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,130,1.0,2025
-AUK,VC,Arcadia University Knights,2pmi,Drop Step,Debarrin Norman,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,131,1.0,2025
-AUK,VC,Vassar Brewers,2pMa,To Basket,Sacha Greenberg,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,132,1.0,2025
-AUK,VC,Arcadia University Knights,2pmi,No Dribble Jumper,Joshua Okocha,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,133,3.0,2025
-AUK,VC,Vassar Brewers,2pMa,Dribble Jumper,Sacha Greenberg,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,134,2.0,2025
-AUK,VC,Arcadia University Knights,Turnover,N/A,Amyr Walker,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,135,1.0,2025
-AUK,VC,Vassar Brewers,Turnover,N/A,Avery Lee,PNR,Left,Off,Alex Walters,P&R Roll Man,Left,Pop,UNKNOWN,Liberty League,136,1.0,2025
-AUK,VC,Arcadia University Knights,2pMa,To Basket,Keenan Reiss,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,137,1.0,2025
-AUK,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,138,1.0,2025
-AUK,VC,Arcadia University Knights,2pmi,To Basket,Debarrin Norman,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,142,1.0,2025
-AUK,VC,Arcadia University Knights,2pMa,To Basket,Debarrin Norman,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,143,1.0,2025
-AUK,VC,Vassar Brewers,3pMa,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,144,4.0,2025
-AUK,VC,Arcadia University Knights,Turnover,N/A,Dominic Vazquez,PNR,Left,Off,Tymir Smalls,Spot Ups,Right,Drive,UNKNOWN,Liberty League,145,1.0,2025
-AUK,VC,Vassar Brewers,2pmi,To Basket,Eric Zhang,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,146,1.0,2025
-AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Dominic Vazquez,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,147,4.0,2025
-AUK,VC,Vassar Brewers,Turnover,N/A,Eric Zhang,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,148,1.0,2025
-AUK,VC,Arcadia University Knights,2pMa,To Basket,Tymir Smalls,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,149,1.0,2025
-AUK,VC,Vassar Brewers,Turnover,N/A,JP Miranda,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,150,1.0,2025
-AUK,VC,Arcadia University Knights,3pMa,No Dribble Jumper,Joshua Okocha,PNR,Right,Off,Josh Parks,P&R Roll Man,N/A,Slips,UNKNOWN,Liberty League,152,4.0,2025
-AUK,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Iso,Right,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,153,1.0,2025
-AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Joshua Okocha,PNR,Right,Off,Debarrin Norman,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,154,4.0,2025
-AUK,VC,Vassar Brewers,2pMa,To Basket,Eric Zhang,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,155,1.0,2025
-AUK,VC,Arcadia University Knights,Turnover,N/A,Jamison Lynam,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,156,1.0,2025
-AUK,VC,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,157,1.0,2025
-AUK,VC,Arcadia University Knights,Turnover,N/A,Josh Parks,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,158,1.0,2025
-AUK,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,159,1.0,2025
-AUK,VC,Arcadia University Knights,Foul,To Basket,Joshua Okocha,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,161,1.0,2025
-AUK,VC,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,164,1.0,2025
-AUK,VC,Arcadia University Knights,2pmi,To Basket,Jamison Lynam,PNR,High,Off,Joshua Okocha,Spot Ups,Right,Drive,UNKNOWN,Liberty League,165,1.0,2025
-AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Eric Zhang,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,166,4.0,2025
-AUK,VC,Arcadia University Knights,Turnover,N/A,Jordan Taylor,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,167,1.0,2025
-AUK,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,168,1.0,2025
-AUK,VC,Arcadia University Knights,2pmi,To Basket,Joshua Okocha,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,169,1.0,2025
-AUK,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,170,1.0,2025
-AUK,VC,Arcadia University Knights,Foul,No Dribble Jumper,Jamison Lynam,PNR,High,Off,Aidan Melograna,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,175,4.0,2025
-AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,PNR,Right,Off,Avery Lee,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,180,4.0,2025
-AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Joshua Okocha,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,181,4.0,2025
-AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,182,4.0,2025
-AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Latrell Bullock,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,183,4.0,2025
-AUK,VC,Arcadia University Knights,2pmi,N/A,Joshua Okocha,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,184,2.0,2025
-AUK,VC,Vassar Brewers,2pMa,Dribble Jumper,Sebastian Medina,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,185,2.0,2025
-AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Joshua Okocha,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,186,4.0,2025
-AUK,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,187,1.0,2025
-AUK,VC,Arcadia University Knights,2pMa,To Basket,Joshua Okocha,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,188,1.0,2025
-AUK,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,189,1.0,2025
-AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Aidan Melograna,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,190,4.0,2025
-AUK,VC,Arcadia University Knights,2pMa,Dribble Jumper,Latrell Bullock,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,192,2.0,2025
-AUK,VC,Vassar Brewers,2pmi,To Basket,JP Miranda,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,193,1.0,2025
-AUK,VC,Vassar Brewers,2pMa,To Basket,Alex Walters,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,194,1.0,2025
-AUK,VC,Arcadia University Knights,2pmi,Dribble Jumper,Jamison Lynam,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,195,3.0,2025
-AUK,VC,Vassar Brewers,3pmi,Dribble Jumper,JP Miranda,Iso,Top,N/A,Alex Walters,Spot Ups,Left,Drive,UNKNOWN,Liberty League,196,4.0,2025
-AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Alex Hermann,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,198,4.0,2025
-AUK,VC,Vassar Brewers,2pMa,To Basket,Luke Adams,PNR,High,Off,Collin France,Cuts,N/A,Basket,UNKNOWN,Liberty League,199,1.0,2025
-AUK,VC,Arcadia University Knights,2pmi,To Basket,Latrell Bullock,PNR,High,Off,Aidan Melograna,Spot Ups,Left,Drive,UNKNOWN,Liberty League,200,1.0,2025
-AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,JP Miranda,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,201,4.0,2025
-AUK,VC,Arcadia University Knights,2pMa,Dribble Jumper,Alex Hermann,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,202,2.0,2025
-AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Kreekor Karageuzian,PNR,High,Off,Collin France,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,203,4.0,2025
-AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Chris Williams,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,204,4.0,2025
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,AUK,VC,Vassar Brewers,Turnover,N/A,Kreekor Karageuzian,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,1,1.0,2024-11-09
+1,AUK,VC,Arcadia University Knights,Turnover,N/A,Corey Attivo,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,2,1.0,2024-11-09
+2,AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Sebastian Medina,PNR,Right,Off,Eric Zhang,P&R Roll Man,N/A,Pop,UNKNOWN,Liberty League,3,4.0,2024-11-09
+3,AUK,VC,Arcadia University Knights,2pMa,Dribble Jumper,Joshua Okocha,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,4,3.0,2024-11-09
+4,AUK,VC,Vassar Brewers,3pMa,No Dribble Jumper,Nathan Denham,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,5,4.0,2024-11-09
+5,AUK,VC,Arcadia University Knights,Turnover,N/A,Corey Attivo,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,6,1.0,2024-11-09
+6,AUK,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,7,1.0,2024-11-09
+8,AUK,VC,Arcadia University Knights,2pMa,To Basket,Joshua Okocha,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,9,1.0,2024-11-09
+9,AUK,VC,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,10,1.0,2024-11-09
+10,AUK,VC,Arcadia University Knights,3pMa,No Dribble Jumper,Josh Parks,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,11,4.0,2024-11-09
+11,AUK,VC,Vassar Brewers,2pmi,Dribble Jumper,Nathan Denham,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,12,3.0,2024-11-09
+12,AUK,VC,Arcadia University Knights,2pmi,Dribble Jumper,Jamison Lynam,PNR,High,Off,Joshua Okocha,Spot Ups,Right,Drive,UNKNOWN,Liberty League,13,2.0,2024-11-09
+13,AUK,VC,Vassar Brewers,3pmi,Dribble Jumper,Shea Fitzgerald,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,14,4.0,2024-11-09
+14,AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Corey Attivo,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,15,4.0,2024-11-09
+15,AUK,VC,Vassar Brewers,2pmi,To Basket,Nathan Denham,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,16,1.0,2024-11-09
+17,AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Josh Parks,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,18,4.0,2024-11-09
+18,AUK,VC,Vassar Brewers,2pMa,To Basket,Sebastian Medina,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,19,1.0,2024-11-09
+21,AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Keenan Reiss,Iso,Top,N/A,Joshua Okocha,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,22,4.0,2024-11-09
+22,AUK,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,23,1.0,2024-11-09
+23,AUK,VC,Arcadia University Knights,2pmi,To Basket,Joshua Okocha,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,24,1.0,2024-11-09
+24,AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,25,4.0,2024-11-09
+25,AUK,VC,Vassar Brewers,2pmi,No Dribble Jumper,Sacha Greenberg,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,26,3.0,2024-11-09
+26,AUK,VC,Arcadia University Knights,2pMa,To Basket,Debarrin Norman,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,27,1.0,2024-11-09
+27,AUK,VC,Vassar Brewers,2pmi,No Dribble Jumper,Shea Fitzgerald,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,28,3.0,2024-11-09
+28,AUK,VC,Arcadia University Knights,2pMa,Dribble Jumper,Joshua Okocha,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,29,2.0,2024-11-09
+30,AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,31,4.0,2024-11-09
+32,AUK,VC,Arcadia University Knights,2pMa,Dribble Jumper,Josh Parks,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,33,2.0,2024-11-09
+33,AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,34,4.0,2024-11-09
+34,AUK,VC,Arcadia University Knights,Turnover,N/A,Keenan Reiss,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,35,1.0,2024-11-09
+35,AUK,VC,Vassar Brewers,2pMa,Dribble Jumper,Luke Adams,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,36,2.0,2024-11-09
+36,AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Keenan Reiss,PNR,High,Off,Dominic Vazquez,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,37,4.0,2024-11-09
+37,AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,38,4.0,2024-11-09
+39,AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Luke Adams,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,40,4.0,2024-11-09
+40,AUK,VC,Arcadia University Knights,Turnover,N/A,Tymir Smalls,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,41,1.0,2024-11-09
+41,AUK,VC,Vassar Brewers,2pMa,Dribble Jumper,Avery Lee,Iso,Right,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,42,2.0,2024-11-09
+42,AUK,VC,Arcadia University Knights,3pMa,No Dribble Jumper,Dominic Vazquez,PNR,Right,Off,Keenan Reiss,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,43,4.0,2024-11-09
+43,AUK,VC,Vassar Brewers,2pmi,To Basket,Sacha Greenberg,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,44,1.0,2024-11-09
+45,AUK,VC,Vassar Brewers,2pMa,Dribble Jumper,Eric Zhang,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,46,2.0,2024-11-09
+46,AUK,VC,Arcadia University Knights,2pmi,To Basket,Debarrin Norman,Post,Left,N/A,Josh Parks,Spot Ups,Left,Drive,UNKNOWN,Liberty League,47,1.0,2024-11-09
+47,AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,48,4.0,2024-11-09
+49,AUK,VC,Vassar Brewers,2pmi,To Basket,Nathan Denham,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,50,1.0,2024-11-09
+50,AUK,VC,Arcadia University Knights,2pmi,To Basket,Tymir Smalls,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,51,1.0,2024-11-09
+51,AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Kreekor Karageuzian,PNR,Left,Off,Sacha Greenberg,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,52,4.0,2024-11-09
+52,AUK,VC,Arcadia University Knights,Turnover,N/A,Debarrin Norman,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,53,1.0,2024-11-09
+53,AUK,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,54,1.0,2024-11-09
+54,AUK,VC,Arcadia University Knights,3pMa,No Dribble Jumper,Dominic Vazquez,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,55,4.0,2024-11-09
+55,AUK,VC,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,56,4.0,2024-11-09
+56,AUK,VC,Arcadia University Knights,2pmi,To Basket,Dominic Vazquez,PNR,Left,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,57,1.0,2024-11-09
+57,AUK,VC,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,58,4.0,2024-11-09
+59,AUK,VC,Arcadia University Knights,2pmi,To Basket,Amyr Walker,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,60,1.0,2024-11-09
+60,AUK,VC,Vassar Brewers,2pmi,Dribble Jumper,Eric Zhang,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,61,3.0,2024-11-09
+61,AUK,VC,Arcadia University Knights,Turnover,N/A,Amyr Walker,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,62,1.0,2024-11-09
+62,AUK,VC,Vassar Brewers,2pMa,To Basket,Kreekor Karageuzian,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,63,1.0,2024-11-09
+63,AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Joshua Okocha,Post,Right,Right Shoulder,Josh Parks,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,64,4.0,2024-11-09
+64,AUK,VC,Vassar Brewers,2pmi,Dribble Jumper,Shea Fitzgerald,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,65,2.0,2024-11-09
+65,AUK,VC,Arcadia University Knights,2pmi,No Dribble Jumper,Joshua Okocha,Iso,Top,N/A,Corey Attivo,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,66,3.0,2024-11-09
+66,AUK,VC,Vassar Brewers,2pmi,To Basket,Nathan Denham,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,67,1.0,2024-11-09
+68,AUK,VC,Arcadia University Knights,Turnover,N/A,Josh Parks,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,69,1.0,2024-11-09
+69,AUK,VC,Vassar Brewers,Turnover,N/A,Luke Adams,PNR,High,Off,Eric Zhang,Spot Ups,Left,Drive,UNKNOWN,Liberty League,70,1.0,2024-11-09
+70,AUK,VC,Arcadia University Knights,3pMa,No Dribble Jumper,Jamison Lynam,PNR,High,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,71,4.0,2024-11-09
+71,AUK,VC,Vassar Brewers,2pmi,To Basket,Luke Adams,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,72,1.0,2024-11-09
+72,AUK,VC,Arcadia University Knights,2pmi,To Basket,Joshua Okocha,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,73,1.0,2024-11-09
+74,AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Amyr Walker,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,75,4.0,2024-11-09
+76,AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Joshua Okocha,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,77,4.0,2024-11-09
+77,AUK,VC,Arcadia University Knights,2pMa,To Basket,Amyr Walker,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,78,1.0,2024-11-09
+78,AUK,VC,Vassar Brewers,2pMa,Dribble Jumper,Shea Fitzgerald,PNR,Right,Off,Avery Lee,Spot Ups,Left,Drive,UNKNOWN,Liberty League,79,2.0,2024-11-09
+79,AUK,VC,Arcadia University Knights,Turnover,N/A,Amyr Walker,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,80,1.0,2024-11-09
+80,AUK,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,81,1.0,2024-11-09
+81,AUK,VC,Arcadia University Knights,2pmi,Dribble Jumper,Dominic Vazquez,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,82,2.0,2024-11-09
+83,AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Josh Parks,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,84,4.0,2024-11-09
+84,AUK,VC,Vassar Brewers,Turnover,N/A,Avery Lee,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,85,1.0,2024-11-09
+85,AUK,VC,Arcadia University Knights,3pMa,Dribble Jumper,Jamison Lynam,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,86,4.0,2024-11-09
+86,AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,87,4.0,2024-11-09
+87,AUK,VC,Vassar Brewers,2pmi,To Basket,Eric Zhang,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,88,1.0,2024-11-09
+88,AUK,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,89,1.0,2024-11-09
+90,AUK,VC,Arcadia University Knights,Turnover,N/A,Dominic Vazquez,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,91,1.0,2024-11-09
+91,AUK,VC,Vassar Brewers,2pmi,To Basket,Nathan Denham,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,92,1.0,2024-11-09
+92,AUK,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,93,1.0,2024-11-09
+94,AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Jamison Lynam,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,95,4.0,2024-11-09
+95,AUK,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Iso,Left,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,96,1.0,2024-11-09
+96,AUK,VC,Arcadia University Knights,3pMa,No Dribble Jumper,Joshua Okocha,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,97,4.0,2024-11-09
+97,AUK,VC,Vassar Brewers,3pMa,No Dribble Jumper,Kreekor Karageuzian,PNR,High,Off,Shea Fitzgerald,P&R Roll Man,N/A,Slips,UNKNOWN,Liberty League,98,4.0,2024-11-09
+98,AUK,VC,Arcadia University Knights,3pmi,Dribble Jumper,Joshua Okocha,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,99,4.0,2024-11-09
+99,AUK,VC,Vassar Brewers,3pMa,No Dribble Jumper,Shea Fitzgerald,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,100,4.0,2024-11-09
+100,AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Amyr Walker,Iso,Top,N/A,Corey Attivo,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,101,4.0,2024-11-09
+101,AUK,VC,Arcadia University Knights,Turnover,N/A,Jamison Lynam,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,102,1.0,2024-11-09
+102,AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,103,4.0,2024-11-09
+103,AUK,VC,Arcadia University Knights,Turnover,N/A,Joshua Okocha,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,104,1.0,2024-11-09
+104,AUK,VC,Vassar Brewers,2pmi,To Basket,Eric Zhang,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,105,1.0,2024-11-09
+107,AUK,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,PNR,Left,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,108,1.0,2024-11-09
+108,AUK,VC,Vassar Brewers,2pMa,To Basket,Sebastian Medina,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,109,1.0,2024-11-09
+109,AUK,VC,Arcadia University Knights,2pmi,Dribble Jumper,Josh Parks,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,110,3.0,2024-11-09
+110,AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,111,4.0,2024-11-09
+111,AUK,VC,Arcadia University Knights,2pMa,Dribble Jumper,Josh Parks,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,112,2.0,2024-11-09
+113,AUK,VC,Vassar Brewers,Turnover,N/A,Nathan Denham,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,114,1.0,2024-11-09
+114,AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Corey Attivo,Post,Left,Left Shoulder,Joshua Okocha,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,115,4.0,2024-11-09
+115,AUK,VC,Vassar Brewers,Turnover,N/A,Eric Zhang,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,116,1.0,2024-11-09
+116,AUK,VC,Arcadia University Knights,And1,To Basket,Joshua Okocha,Post,Left,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,117,1.0,2024-11-09
+118,AUK,VC,Vassar Brewers,Foul,To Basket,Avery Lee,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,119,1.0,2024-11-09
+121,AUK,VC,Arcadia University Knights,Turnover,N/A,Jamison Lynam,Iso,Left,N/A,Amyr Walker,Spot Ups,Right,Drive,UNKNOWN,Liberty League,122,1.0,2024-11-09
+122,AUK,VC,Vassar Brewers,2pMa,Dribble Jumper,Avery Lee,Iso,Left,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,123,2.0,2024-11-09
+123,AUK,VC,Arcadia University Knights,And1,To Basket,Joshua Okocha,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,124,1.0,2024-11-09
+125,AUK,VC,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,126,2.0,2024-11-09
+127,AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Keenan Reiss,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,128,4.0,2024-11-09
+128,AUK,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,129,1.0,2024-11-09
+129,AUK,VC,Vassar Brewers,2pmi,To Basket,Sacha Greenberg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,130,1.0,2024-11-09
+130,AUK,VC,Arcadia University Knights,2pmi,Drop Step,Debarrin Norman,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,131,1.0,2024-11-09
+131,AUK,VC,Vassar Brewers,2pMa,To Basket,Sacha Greenberg,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,132,1.0,2024-11-09
+132,AUK,VC,Arcadia University Knights,2pmi,No Dribble Jumper,Joshua Okocha,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,133,3.0,2024-11-09
+133,AUK,VC,Vassar Brewers,2pMa,Dribble Jumper,Sacha Greenberg,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,134,2.0,2024-11-09
+134,AUK,VC,Arcadia University Knights,Turnover,N/A,Amyr Walker,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,135,1.0,2024-11-09
+135,AUK,VC,Vassar Brewers,Turnover,N/A,Avery Lee,PNR,Left,Off,Alex Walters,P&R Roll Man,Left,Pop,UNKNOWN,Liberty League,136,1.0,2024-11-09
+136,AUK,VC,Arcadia University Knights,2pMa,To Basket,Keenan Reiss,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,137,1.0,2024-11-09
+137,AUK,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,138,1.0,2024-11-09
+141,AUK,VC,Arcadia University Knights,2pmi,To Basket,Debarrin Norman,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,142,1.0,2024-11-09
+142,AUK,VC,Arcadia University Knights,2pMa,To Basket,Debarrin Norman,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,143,1.0,2024-11-09
+143,AUK,VC,Vassar Brewers,3pMa,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,144,4.0,2024-11-09
+144,AUK,VC,Arcadia University Knights,Turnover,N/A,Dominic Vazquez,PNR,Left,Off,Tymir Smalls,Spot Ups,Right,Drive,UNKNOWN,Liberty League,145,1.0,2024-11-09
+145,AUK,VC,Vassar Brewers,2pmi,To Basket,Eric Zhang,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,146,1.0,2024-11-09
+146,AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Dominic Vazquez,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,147,4.0,2024-11-09
+147,AUK,VC,Vassar Brewers,Turnover,N/A,Eric Zhang,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,148,1.0,2024-11-09
+148,AUK,VC,Arcadia University Knights,2pMa,To Basket,Tymir Smalls,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,149,1.0,2024-11-09
+149,AUK,VC,Vassar Brewers,Turnover,N/A,JP Miranda,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,150,1.0,2024-11-09
+151,AUK,VC,Arcadia University Knights,3pMa,No Dribble Jumper,Joshua Okocha,PNR,Right,Off,Josh Parks,P&R Roll Man,N/A,Slips,UNKNOWN,Liberty League,152,4.0,2024-11-09
+152,AUK,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Iso,Right,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,153,1.0,2024-11-09
+153,AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Joshua Okocha,PNR,Right,Off,Debarrin Norman,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,154,4.0,2024-11-09
+154,AUK,VC,Vassar Brewers,2pMa,To Basket,Eric Zhang,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,155,1.0,2024-11-09
+155,AUK,VC,Arcadia University Knights,Turnover,N/A,Jamison Lynam,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,156,1.0,2024-11-09
+156,AUK,VC,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,157,1.0,2024-11-09
+157,AUK,VC,Arcadia University Knights,Turnover,N/A,Josh Parks,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,158,1.0,2024-11-09
+158,AUK,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,159,1.0,2024-11-09
+160,AUK,VC,Arcadia University Knights,Foul,To Basket,Joshua Okocha,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,161,1.0,2024-11-09
+163,AUK,VC,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,164,1.0,2024-11-09
+164,AUK,VC,Arcadia University Knights,2pmi,To Basket,Jamison Lynam,PNR,High,Off,Joshua Okocha,Spot Ups,Right,Drive,UNKNOWN,Liberty League,165,1.0,2024-11-09
+165,AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Eric Zhang,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,166,4.0,2024-11-09
+166,AUK,VC,Arcadia University Knights,Turnover,N/A,Jordan Taylor,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,167,1.0,2024-11-09
+167,AUK,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,168,1.0,2024-11-09
+168,AUK,VC,Arcadia University Knights,2pmi,To Basket,Joshua Okocha,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,169,1.0,2024-11-09
+169,AUK,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,170,1.0,2024-11-09
+174,AUK,VC,Arcadia University Knights,Foul,No Dribble Jumper,Jamison Lynam,PNR,High,Off,Aidan Melograna,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,175,4.0,2024-11-09
+179,AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,PNR,Right,Off,Avery Lee,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,180,4.0,2024-11-09
+180,AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Joshua Okocha,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,181,4.0,2024-11-09
+181,AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,182,4.0,2024-11-09
+182,AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Latrell Bullock,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,183,4.0,2024-11-09
+183,AUK,VC,Arcadia University Knights,2pmi,N/A,Joshua Okocha,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,184,2.0,2024-11-09
+184,AUK,VC,Vassar Brewers,2pMa,Dribble Jumper,Sebastian Medina,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,185,2.0,2024-11-09
+185,AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Joshua Okocha,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,186,4.0,2024-11-09
+186,AUK,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,187,1.0,2024-11-09
+187,AUK,VC,Arcadia University Knights,2pMa,To Basket,Joshua Okocha,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,188,1.0,2024-11-09
+188,AUK,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,189,1.0,2024-11-09
+189,AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Aidan Melograna,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,190,4.0,2024-11-09
+191,AUK,VC,Arcadia University Knights,2pMa,Dribble Jumper,Latrell Bullock,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,192,2.0,2024-11-09
+192,AUK,VC,Vassar Brewers,2pmi,To Basket,JP Miranda,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,193,1.0,2024-11-09
+193,AUK,VC,Vassar Brewers,2pMa,To Basket,Alex Walters,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,194,1.0,2024-11-09
+194,AUK,VC,Arcadia University Knights,2pmi,Dribble Jumper,Jamison Lynam,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,195,3.0,2024-11-09
+195,AUK,VC,Vassar Brewers,3pmi,Dribble Jumper,JP Miranda,Iso,Top,N/A,Alex Walters,Spot Ups,Left,Drive,UNKNOWN,Liberty League,196,4.0,2024-11-09
+197,AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Alex Hermann,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,198,4.0,2024-11-09
+198,AUK,VC,Vassar Brewers,2pMa,To Basket,Luke Adams,PNR,High,Off,Collin France,Cuts,N/A,Basket,UNKNOWN,Liberty League,199,1.0,2024-11-09
+199,AUK,VC,Arcadia University Knights,2pmi,To Basket,Latrell Bullock,PNR,High,Off,Aidan Melograna,Spot Ups,Left,Drive,UNKNOWN,Liberty League,200,1.0,2024-11-09
+200,AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,JP Miranda,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,201,4.0,2024-11-09
+201,AUK,VC,Arcadia University Knights,2pMa,Dribble Jumper,Alex Hermann,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,202,2.0,2024-11-09
+202,AUK,VC,Vassar Brewers,3pmi,No Dribble Jumper,Kreekor Karageuzian,PNR,High,Off,Collin France,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,203,4.0,2024-11-09
+203,AUK,VC,Arcadia University Knights,3pmi,No Dribble Jumper,Chris Williams,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,204,4.0,2024-11-09

@@ -1,172 +1,172 @@
-Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
-VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Finn Cork,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,1,1.0,2025
-VSUL,CU,Vermont State University Lyndon,2pmi,To Basket,Victor Kukta Reyes,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,2,1.0,2025
-VSUL,CU,Vermont State University Lyndon,2pMa,To Basket,Matt Doyle,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,3,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,2pmi,To Basket,Finn Cork,Post,Left,N/A,Lorenzo Rappa,Spot Ups,Left,Drive,UNKNOWN,Liberty League,4,1.0,2025
-VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Gregory Gonyea Jr,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,5,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,6,4.0,2025
-VSUL,CU,Vermont State University Lyndon,Turnover,N/A,Gregory Gonyea Jr,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,7,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,8,4.0,2025
-VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Victor Kukta Reyes,PNR,Right,Off,Brett Roy,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,10,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Lorenzo Rappa,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,11,1.0,2025
-VSUL,CU,Vermont State University Lyndon,Turnover,N/A,Gregory Gonyea Jr,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,12,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,13,4.0,2025
-VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Gregory Gonyea Jr,PNR,Right,Off,Victor Kukta Reyes,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,14,4.0,2025
-VSUL,CU,Vermont State University Lyndon,2pMa,To Basket,Matt Doyle,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,15,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,Turnover,To Basket,Braeden Burns,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,16,1.0,2025
-VSUL,CU,Vermont State University Lyndon,2pMa,To Basket,Gregory Gonyea Jr,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,18,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,2pmi,To Basket,Lorenzo Rappa,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,19,1.0,2025
-VSUL,CU,Vermont State University Lyndon,Foul,To Basket,Gregory Gonyea Jr,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,20,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,Foul,To Basket,Ben Phillips,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,23,1.0,2025
-VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Tyler Cooper,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,26,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,27,1.0,2025
-VSUL,CU,Vermont State University Lyndon,Foul,To Basket,Victor Kukta Reyes,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,28,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,31,1.0,2025
-VSUL,CU,Vermont State University Lyndon,3pMa,No Dribble Jumper,Dakota Holbrook,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,32,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,33,4.0,2025
-VSUL,CU,Vermont State University Lyndon,3pMa,No Dribble Jumper,Tyler Cooper,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,34,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Steve DeRegis,PNR,High,Away,Casey Montesano,Spot Ups,Left,Drive,UNKNOWN,Liberty League,35,1.0,2025
-VSUL,CU,Vermont State University Lyndon,2pmi,To Basket,Wesley McIntyre,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,36,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,2pMa,To Basket,Matt Toscano,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,37,1.0,2025
-VSUL,CU,Vermont State University Lyndon,2pmi,To Basket,Tyler Cooper,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,38,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,39,4.0,2025
-VSUL,CU,Vermont State University Lyndon,Turnover,N/A,Tyler Cooper,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,40,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,Foul,To Basket,Braeden Burns,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,41,1.0,2025
-VSUL,CU,Vermont State University Lyndon,2pmi,Dribble Jumper,Christian Hathorn,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,44,2.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pmi,Dribble Jumper,Casey Montesano,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,45,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matthew Parent,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,47,4.0,2025
-VSUL,CU,Vermont State University Lyndon,Foul,Dribble Jumper,Tyler Cooper,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,48,2.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Casey Montesano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,51,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Aydin Kocak,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,53,1.0,2025
-VSUL,CU,Vermont State University Lyndon,2pMa,To Basket,Wesley McIntyre,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,54,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Post,Left,N/A,Lorenzo Rappa,Cuts,N/A,Basket,UNKNOWN,Liberty League,55,1.0,2025
-VSUL,CU,Vermont State University Lyndon,3pmi,Dribble Jumper,Wesley McIntyre,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,56,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Matthew Parent,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,58,4.0,2025
-VSUL,CU,Vermont State University Lyndon,2pmi,To Basket,Wesley McIntyre,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,59,1.0,2025
-VSUL,CU,Vermont State University Lyndon,2pMa,To Basket,Matt Doyle,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,60,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,Foul,To Basket,Finn Cork,Post,Left,N/A,Tyson Maxam,Cuts,N/A,Basket,UNKNOWN,Liberty League,61,1.0,2025
-VSUL,CU,Vermont State University Lyndon,2pMa,To Basket,Gregory Gonyea Jr,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,64,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Finn Cork,Post,Left,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,65,1.0,2025
-VSUL,CU,Vermont State University Lyndon,And1,To Basket,Gregory Gonyea Jr,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,66,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Finn Cork,Post,Right,N/A,Tyson Maxam,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,68,4.0,2025
-VSUL,CU,,Foul,N/A,Christian Hathorn,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,69,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Matthew Parent,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,72,4.0,2025
-VSUL,CU,Vermont State University Lyndon,3pmi,Dribble Jumper,Christian Hathorn,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,73,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Matthew Parent,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,74,4.0,2025
-VSUL,CU,Vermont State University Lyndon,2pmi,To Basket,Victor Kukta Reyes,PNR,High,Off,Matt Doyle,Spot Ups,Left,Drive,UNKNOWN,Liberty League,75,1.0,2025
-VSUL,CU,Vermont State University Lyndon,Turnover,N/A,Matt Doyle,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,76,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,2pMa,To Basket,Tyson Maxam,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,77,1.0,2025
-VSUL,CU,Vermont State University Lyndon,2pmi,To Basket,Gregory Gonyea Jr,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,78,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Tyson Maxam,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,79,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,80,1.0,2025
-VSUL,CU,Vermont State University Lyndon,2pmi,Dribble Jumper,Gregory Gonyea Jr,Iso,Right,N/A,Wesley McIntyre,Spot Ups,Left,Drive,UNKNOWN,Liberty League,81,2.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matthew Parent,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,82,4.0,2025
-VSUL,CU,Vermont State University Lyndon,Foul,N/A,Victor Kukta Reyes,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,83,1.0,2025
-VSUL,CU,Vermont State University Lyndon,Foul,To Basket,Brett Roy,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,85,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,88,4.0,2025
-VSUL,CU,Vermont State University Lyndon,Foul,To Basket,Gregory Gonyea Jr,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,89,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,2pMa,To Basket,Jeff Dewar,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,92,1.0,2025
-VSUL,CU,Vermont State University Lyndon,3pMa,No Dribble Jumper,Chad Martin,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,93,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,2pmi,Dribble Jumper,Ben Rappa,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,94,2.0,2025
-VSUL,CU,Vermont State University Lyndon,2pMa,To Basket,Gregory Gonyea Jr,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,95,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,96,1.0,2025
-VSUL,CU,Vermont State University Lyndon,Turnover,N/A,Chad Martin,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,97,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Ben Rappa,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,98,4.0,2025
-VSUL,CU,Vermont State University Lyndon,2pmi,Dribble Jumper,Chad Martin,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,99,3.0,2025
-VSUL,CU,Vermont State University Lyndon,Turnover,N/A,Gregory Gonyea Jr,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,101,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Matthew Parent,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,102,4.0,2025
-VSUL,CU,Vermont State University Lyndon,Turnover,N/A,Gregory Gonyea Jr,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,103,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pmi,Dribble Jumper,Steve DeRegis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,104,4.0,2025
-VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Victor Kukta Reyes,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,105,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,Turnover,To Basket,Steve DeRegis,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,106,1.0,2025
-VSUL,CU,Vermont State University Lyndon,2pmi,No Dribble Jumper,Matt Doyle,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,107,3.0,2025
-VSUL,CU,Vermont State University Lyndon,2pmi,To Basket,Brett Roy,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,108,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matthew Parent,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,109,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,110,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Braeden Burns,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,112,1.0,2025
-VSUL,CU,Vermont State University Lyndon,3pMa,No Dribble Jumper,Gregory Gonyea Jr,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,113,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,114,4.0,2025
-VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Victor Kukta Reyes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,115,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,116,4.0,2025
-VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Gregory Gonyea Jr,PNR,High,Off,Victor Kukta Reyes,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,118,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Finn Cork,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,119,1.0,2025
-VSUL,CU,Vermont State University Lyndon,Foul,To Basket,Matt Doyle,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,120,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Finn Cork,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,123,1.0,2025
-VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Victor Kukta Reyes,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,126,4.0,2025
-VSUL,CU,Vermont State University Lyndon,Foul,No Dribble Jumper,Victor Kukta Reyes,PNR,Right,Off,Gregory Gonyea Jr,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,127,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pmi,Dribble Jumper,Steve DeRegis,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,131,4.0,2025
-VSUL,CU,Vermont State University Lyndon,2pmi,To Basket,Victor Kukta Reyes,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,132,1.0,2025
-VSUL,CU,Vermont State University Lyndon,3pMa,No Dribble Jumper,Victor Kukta Reyes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,134,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,135,1.0,2025
-VSUL,CU,Vermont State University Lyndon,Turnover,N/A,Gregory Gonyea Jr,PNR,High,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,136,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,And1,To Basket,Ben Rappa,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,137,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,2pmi,To Basket,Ben Rappa,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,140,1.0,2025
-VSUL,CU,Vermont State University Lyndon,Turnover,N/A,Gregory Gonyea Jr,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,141,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Ben Rappa,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,142,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,Foul,To Basket,Braeden Burns,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,144,1.0,2025
-VSUL,CU,Vermont State University Lyndon,2pmi,To Basket,Matt Doyle,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,147,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matthew Parent,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,148,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Steve DeRegis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,150,1.0,2025
-VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Wilber Casanova,PNR,Right,Off,Chad Martin,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,151,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Aydin Kocak,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,152,4.0,2025
-VSUL,CU,Vermont State University Lyndon,2pMa,To Basket,Wilber Casanova,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,153,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Steve DeRegis,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,154,1.0,2025
-VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Tyler Cooper,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,155,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Aydin Kocak,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,156,1.0,2025
-VSUL,CU,Vermont State University Lyndon,2pmi,To Basket,Matt Doyle,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,157,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pmi,Dribble Jumper,Matthew Parent,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,158,4.0,2025
-VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Max Kocha,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,159,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,Foul,To Basket,Tyson Maxam,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,160,1.0,2025
-VSUL,CU,Vermont State University Lyndon,3pmi,Dribble Jumper,Tyler Cooper,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,163,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Aydin Kocak,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,165,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matt Toscano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,166,4.0,2025
-VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Max Kocha,PNR,High,Off,Wesley McIntyre,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,167,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,2pmi,To Basket,Ben Phillips,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,168,1.0,2025
-VSUL,CU,Vermont State University Lyndon,2pmi,To Basket,Wilber Casanova,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,169,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,2pMa,No Dribble Jumper,Tyson Maxam,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,170,3.0,2025
-VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Max Kocha,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,171,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Tyson Maxam,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,172,1.0,2025
-VSUL,CU,Vermont State University Lyndon,2pmi,Dribble Jumper,Wesley McIntyre,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,173,2.0,2025
-VSUL,CU,Clarkson University Golden Knights,Turnover,To Basket,Ben Phillips,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,175,1.0,2025
-VSUL,CU,Vermont State University Lyndon,3pMa,Dribble Jumper,Wesley McIntyre,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,176,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,Foul,To Basket,Braeden Burns,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,178,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Casey Montesano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,182,4.0,2025
-VSUL,CU,Vermont State University Lyndon,3pmi,Dribble Jumper,Wesley McIntyre,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,183,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Matthew Parent,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,184,4.0,2025
-VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Wilber Casanova,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,185,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matthew Parent,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,186,4.0,2025
-VSUL,CU,Vermont State University Lyndon,Foul,No Dribble Jumper,Wesley McIntyre,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,188,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,192,1.0,2025
-VSUL,CU,Vermont State University Lyndon,Turnover,N/A,Wesley McIntyre,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,193,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,2pMa,To Basket,Casey Montesano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,194,1.0,2025
-VSUL,CU,Vermont State University Lyndon,2pMa,To Basket,Wesley McIntyre,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,195,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,2pMa,To Basket,Casey Montesano,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,196,1.0,2025
-VSUL,CU,Vermont State University Lyndon,Turnover,N/A,Wesley McIntyre,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,197,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,198,1.0,2025
-VSUL,CU,Vermont State University Lyndon,2pMa,To Basket,Matt Doyle,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,199,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Finn Cork,Post,Right,Right Shoulder,Braeden Burns,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,200,4.0,2025
-VSUL,CU,Vermont State University Lyndon,3pMa,No Dribble Jumper,Chad Martin,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,201,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Steve DeRegis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,202,1.0,2025
-VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Chad Martin,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,203,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Lorenzo Rappa,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,204,1.0,2025
-VSUL,CU,Vermont State University Lyndon,Turnover,To Basket,Gregory Gonyea Jr,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,205,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,2pmi,To Basket,Finn Cork,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,206,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Lorenzo Rappa,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,208,4.0,2025
-VSUL,CU,Vermont State University Lyndon,2pmi,To Basket,Christian Hathorn,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,209,1.0,2025
-VSUL,CU,Vermont State University Lyndon,2pMa,To Basket,Matt Doyle,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,210,1.0,2025
-VSUL,CU,Clarkson University Golden Knights,Foul,To Basket,Finn Cork,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,211,1.0,2025
-VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Wesley McIntyre,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,214,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,2pmi,To Basket,Lorenzo Rappa,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,215,1.0,2025
-VSUL,CU,Vermont State University Lyndon,3pMa,No Dribble Jumper,Tyler Cooper,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,218,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Ben Rappa,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,219,1.0,2025
-VSUL,CU,Vermont State University Lyndon,2pMa,To Basket,Gregory Gonyea Jr,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,220,1.0,2025
-VSUL,CU,,Foul,N/A,Matt Toscano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,221,1.0,2025
-VSUL,CU,Vermont State University Lyndon,Foul,No Dribble Jumper,Wesley McIntyre,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,224,4.0,2025
-VSUL,CU,,Foul,N/A,Matt Toscano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,228,1.0,2025
-VSUL,CU,Vermont State University Lyndon,3pmi,Dribble Jumper,Christian Hathorn,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,231,4.0,2025
-VSUL,CU,,Foul,N/A,Lorenzo Rappa,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,232,1.0,2025
-VSUL,CU,Vermont State University Lyndon,3pmi,Dribble Jumper,Tyler Cooper,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,235,4.0,2025
-VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Ben Rappa,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,236,1.0,2025
-VSUL,CU,Vermont State University Lyndon,2pMa,To Basket,Wesley McIntyre,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,237,1.0,2025
-VSUL,CU,,Foul,N/A,Matt Toscano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,238,1.0,2025
-VSUL,CU,Vermont State University Lyndon,3pmi,Dribble Jumper,Wesley McIntyre,PNR,Right,Off,Victor Kukta Reyes,P&R Roll Man,N/A,Slips,UNKNOWN,Liberty League,241,4.0,2025
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Finn Cork,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,1,1.0,2024-11-20
+1,VSUL,CU,Vermont State University Lyndon,2pmi,To Basket,Victor Kukta Reyes,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,2,1.0,2024-11-20
+2,VSUL,CU,Vermont State University Lyndon,2pMa,To Basket,Matt Doyle,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,3,1.0,2024-11-20
+3,VSUL,CU,Clarkson University Golden Knights,2pmi,To Basket,Finn Cork,Post,Left,N/A,Lorenzo Rappa,Spot Ups,Left,Drive,UNKNOWN,Liberty League,4,1.0,2024-11-20
+4,VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Gregory Gonyea Jr,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,5,4.0,2024-11-20
+5,VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,6,4.0,2024-11-20
+6,VSUL,CU,Vermont State University Lyndon,Turnover,N/A,Gregory Gonyea Jr,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,7,1.0,2024-11-20
+7,VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,8,4.0,2024-11-20
+9,VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Victor Kukta Reyes,PNR,Right,Off,Brett Roy,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,10,4.0,2024-11-20
+10,VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Lorenzo Rappa,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,11,1.0,2024-11-20
+11,VSUL,CU,Vermont State University Lyndon,Turnover,N/A,Gregory Gonyea Jr,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,12,1.0,2024-11-20
+12,VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,13,4.0,2024-11-20
+13,VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Gregory Gonyea Jr,PNR,Right,Off,Victor Kukta Reyes,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,14,4.0,2024-11-20
+14,VSUL,CU,Vermont State University Lyndon,2pMa,To Basket,Matt Doyle,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,15,1.0,2024-11-20
+15,VSUL,CU,Clarkson University Golden Knights,Turnover,To Basket,Braeden Burns,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,16,1.0,2024-11-20
+17,VSUL,CU,Vermont State University Lyndon,2pMa,To Basket,Gregory Gonyea Jr,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,18,1.0,2024-11-20
+18,VSUL,CU,Clarkson University Golden Knights,2pmi,To Basket,Lorenzo Rappa,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,19,1.0,2024-11-20
+19,VSUL,CU,Vermont State University Lyndon,Foul,To Basket,Gregory Gonyea Jr,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,20,1.0,2024-11-20
+22,VSUL,CU,Clarkson University Golden Knights,Foul,To Basket,Ben Phillips,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,23,1.0,2024-11-20
+25,VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Tyler Cooper,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,26,4.0,2024-11-20
+26,VSUL,CU,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,27,1.0,2024-11-20
+27,VSUL,CU,Vermont State University Lyndon,Foul,To Basket,Victor Kukta Reyes,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,28,1.0,2024-11-20
+30,VSUL,CU,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,31,1.0,2024-11-20
+31,VSUL,CU,Vermont State University Lyndon,3pMa,No Dribble Jumper,Dakota Holbrook,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,32,4.0,2024-11-20
+32,VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,33,4.0,2024-11-20
+33,VSUL,CU,Vermont State University Lyndon,3pMa,No Dribble Jumper,Tyler Cooper,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,34,4.0,2024-11-20
+34,VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Steve DeRegis,PNR,High,Away,Casey Montesano,Spot Ups,Left,Drive,UNKNOWN,Liberty League,35,1.0,2024-11-20
+35,VSUL,CU,Vermont State University Lyndon,2pmi,To Basket,Wesley McIntyre,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,36,1.0,2024-11-20
+36,VSUL,CU,Clarkson University Golden Knights,2pMa,To Basket,Matt Toscano,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,37,1.0,2024-11-20
+37,VSUL,CU,Vermont State University Lyndon,2pmi,To Basket,Tyler Cooper,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,38,1.0,2024-11-20
+38,VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,39,4.0,2024-11-20
+39,VSUL,CU,Vermont State University Lyndon,Turnover,N/A,Tyler Cooper,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,40,1.0,2024-11-20
+40,VSUL,CU,Clarkson University Golden Knights,Foul,To Basket,Braeden Burns,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,41,1.0,2024-11-20
+43,VSUL,CU,Vermont State University Lyndon,2pmi,Dribble Jumper,Christian Hathorn,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,44,2.0,2024-11-20
+44,VSUL,CU,Clarkson University Golden Knights,3pmi,Dribble Jumper,Casey Montesano,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,45,4.0,2024-11-20
+46,VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matthew Parent,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,47,4.0,2024-11-20
+47,VSUL,CU,Vermont State University Lyndon,Foul,Dribble Jumper,Tyler Cooper,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,48,2.0,2024-11-20
+50,VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Casey Montesano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,51,4.0,2024-11-20
+52,VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Aydin Kocak,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,53,1.0,2024-11-20
+53,VSUL,CU,Vermont State University Lyndon,2pMa,To Basket,Wesley McIntyre,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,54,1.0,2024-11-20
+54,VSUL,CU,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Post,Left,N/A,Lorenzo Rappa,Cuts,N/A,Basket,UNKNOWN,Liberty League,55,1.0,2024-11-20
+55,VSUL,CU,Vermont State University Lyndon,3pmi,Dribble Jumper,Wesley McIntyre,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,56,4.0,2024-11-20
+57,VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Matthew Parent,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,58,4.0,2024-11-20
+58,VSUL,CU,Vermont State University Lyndon,2pmi,To Basket,Wesley McIntyre,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,59,1.0,2024-11-20
+59,VSUL,CU,Vermont State University Lyndon,2pMa,To Basket,Matt Doyle,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,60,1.0,2024-11-20
+60,VSUL,CU,Clarkson University Golden Knights,Foul,To Basket,Finn Cork,Post,Left,N/A,Tyson Maxam,Cuts,N/A,Basket,UNKNOWN,Liberty League,61,1.0,2024-11-20
+63,VSUL,CU,Vermont State University Lyndon,2pMa,To Basket,Gregory Gonyea Jr,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,64,1.0,2024-11-20
+64,VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Finn Cork,Post,Left,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,65,1.0,2024-11-20
+65,VSUL,CU,Vermont State University Lyndon,And1,To Basket,Gregory Gonyea Jr,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,66,1.0,2024-11-20
+67,VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Finn Cork,Post,Right,N/A,Tyson Maxam,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,68,4.0,2024-11-20
+68,VSUL,CU,,Foul,N/A,Christian Hathorn,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,69,1.0,2024-11-20
+71,VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Matthew Parent,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,72,4.0,2024-11-20
+72,VSUL,CU,Vermont State University Lyndon,3pmi,Dribble Jumper,Christian Hathorn,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,73,4.0,2024-11-20
+73,VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Matthew Parent,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,74,4.0,2024-11-20
+74,VSUL,CU,Vermont State University Lyndon,2pmi,To Basket,Victor Kukta Reyes,PNR,High,Off,Matt Doyle,Spot Ups,Left,Drive,UNKNOWN,Liberty League,75,1.0,2024-11-20
+75,VSUL,CU,Vermont State University Lyndon,Turnover,N/A,Matt Doyle,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,76,1.0,2024-11-20
+76,VSUL,CU,Clarkson University Golden Knights,2pMa,To Basket,Tyson Maxam,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,77,1.0,2024-11-20
+77,VSUL,CU,Vermont State University Lyndon,2pmi,To Basket,Gregory Gonyea Jr,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,78,1.0,2024-11-20
+78,VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Tyson Maxam,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,79,4.0,2024-11-20
+79,VSUL,CU,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,80,1.0,2024-11-20
+80,VSUL,CU,Vermont State University Lyndon,2pmi,Dribble Jumper,Gregory Gonyea Jr,Iso,Right,N/A,Wesley McIntyre,Spot Ups,Left,Drive,UNKNOWN,Liberty League,81,2.0,2024-11-20
+81,VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matthew Parent,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,82,4.0,2024-11-20
+82,VSUL,CU,Vermont State University Lyndon,Foul,N/A,Victor Kukta Reyes,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,83,1.0,2024-11-20
+84,VSUL,CU,Vermont State University Lyndon,Foul,To Basket,Brett Roy,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,85,1.0,2024-11-20
+87,VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,88,4.0,2024-11-20
+88,VSUL,CU,Vermont State University Lyndon,Foul,To Basket,Gregory Gonyea Jr,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,89,1.0,2024-11-20
+91,VSUL,CU,Clarkson University Golden Knights,2pMa,To Basket,Jeff Dewar,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,92,1.0,2024-11-20
+92,VSUL,CU,Vermont State University Lyndon,3pMa,No Dribble Jumper,Chad Martin,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,93,4.0,2024-11-20
+93,VSUL,CU,Clarkson University Golden Knights,2pmi,Dribble Jumper,Ben Rappa,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,94,2.0,2024-11-20
+94,VSUL,CU,Vermont State University Lyndon,2pMa,To Basket,Gregory Gonyea Jr,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,95,1.0,2024-11-20
+95,VSUL,CU,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,96,1.0,2024-11-20
+96,VSUL,CU,Vermont State University Lyndon,Turnover,N/A,Chad Martin,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,97,1.0,2024-11-20
+97,VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Ben Rappa,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,98,4.0,2024-11-20
+98,VSUL,CU,Vermont State University Lyndon,2pmi,Dribble Jumper,Chad Martin,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,99,3.0,2024-11-20
+100,VSUL,CU,Vermont State University Lyndon,Turnover,N/A,Gregory Gonyea Jr,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,101,1.0,2024-11-20
+101,VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Matthew Parent,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,102,4.0,2024-11-20
+102,VSUL,CU,Vermont State University Lyndon,Turnover,N/A,Gregory Gonyea Jr,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,103,1.0,2024-11-20
+103,VSUL,CU,Clarkson University Golden Knights,3pmi,Dribble Jumper,Steve DeRegis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,104,4.0,2024-11-20
+104,VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Victor Kukta Reyes,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,105,4.0,2024-11-20
+105,VSUL,CU,Clarkson University Golden Knights,Turnover,To Basket,Steve DeRegis,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,106,1.0,2024-11-20
+106,VSUL,CU,Vermont State University Lyndon,2pmi,No Dribble Jumper,Matt Doyle,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,107,3.0,2024-11-20
+107,VSUL,CU,Vermont State University Lyndon,2pmi,To Basket,Brett Roy,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,108,1.0,2024-11-20
+108,VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matthew Parent,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,109,4.0,2024-11-20
+109,VSUL,CU,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,110,1.0,2024-11-20
+111,VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Braeden Burns,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,112,1.0,2024-11-20
+112,VSUL,CU,Vermont State University Lyndon,3pMa,No Dribble Jumper,Gregory Gonyea Jr,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,113,4.0,2024-11-20
+113,VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,114,4.0,2024-11-20
+114,VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Victor Kukta Reyes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,115,4.0,2024-11-20
+115,VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,116,4.0,2024-11-20
+117,VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Gregory Gonyea Jr,PNR,High,Off,Victor Kukta Reyes,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,118,4.0,2024-11-20
+118,VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Finn Cork,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,119,1.0,2024-11-20
+119,VSUL,CU,Vermont State University Lyndon,Foul,To Basket,Matt Doyle,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,120,1.0,2024-11-20
+122,VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Finn Cork,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,123,1.0,2024-11-20
+125,VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Victor Kukta Reyes,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,126,4.0,2024-11-20
+126,VSUL,CU,Vermont State University Lyndon,Foul,No Dribble Jumper,Victor Kukta Reyes,PNR,Right,Off,Gregory Gonyea Jr,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,127,4.0,2024-11-20
+130,VSUL,CU,Clarkson University Golden Knights,3pmi,Dribble Jumper,Steve DeRegis,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,131,4.0,2024-11-20
+131,VSUL,CU,Vermont State University Lyndon,2pmi,To Basket,Victor Kukta Reyes,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,132,1.0,2024-11-20
+133,VSUL,CU,Vermont State University Lyndon,3pMa,No Dribble Jumper,Victor Kukta Reyes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,134,4.0,2024-11-20
+134,VSUL,CU,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,135,1.0,2024-11-20
+135,VSUL,CU,Vermont State University Lyndon,Turnover,N/A,Gregory Gonyea Jr,PNR,High,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,136,1.0,2024-11-20
+136,VSUL,CU,Clarkson University Golden Knights,And1,To Basket,Ben Rappa,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,137,1.0,2024-11-20
+139,VSUL,CU,Clarkson University Golden Knights,2pmi,To Basket,Ben Rappa,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,140,1.0,2024-11-20
+140,VSUL,CU,Vermont State University Lyndon,Turnover,N/A,Gregory Gonyea Jr,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,141,1.0,2024-11-20
+141,VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Ben Rappa,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,142,4.0,2024-11-20
+143,VSUL,CU,Clarkson University Golden Knights,Foul,To Basket,Braeden Burns,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,144,1.0,2024-11-20
+146,VSUL,CU,Vermont State University Lyndon,2pmi,To Basket,Matt Doyle,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,147,1.0,2024-11-20
+147,VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matthew Parent,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,148,4.0,2024-11-20
+149,VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Steve DeRegis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,150,1.0,2024-11-20
+150,VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Wilber Casanova,PNR,Right,Off,Chad Martin,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,151,4.0,2024-11-20
+151,VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Aydin Kocak,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,152,4.0,2024-11-20
+152,VSUL,CU,Vermont State University Lyndon,2pMa,To Basket,Wilber Casanova,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,153,1.0,2024-11-20
+153,VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Steve DeRegis,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,154,1.0,2024-11-20
+154,VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Tyler Cooper,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,155,4.0,2024-11-20
+155,VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Aydin Kocak,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,156,1.0,2024-11-20
+156,VSUL,CU,Vermont State University Lyndon,2pmi,To Basket,Matt Doyle,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,157,1.0,2024-11-20
+157,VSUL,CU,Clarkson University Golden Knights,3pmi,Dribble Jumper,Matthew Parent,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,158,4.0,2024-11-20
+158,VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Max Kocha,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,159,4.0,2024-11-20
+159,VSUL,CU,Clarkson University Golden Knights,Foul,To Basket,Tyson Maxam,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,160,1.0,2024-11-20
+162,VSUL,CU,Vermont State University Lyndon,3pmi,Dribble Jumper,Tyler Cooper,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,163,4.0,2024-11-20
+164,VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Aydin Kocak,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,165,4.0,2024-11-20
+165,VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matt Toscano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,166,4.0,2024-11-20
+166,VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Max Kocha,PNR,High,Off,Wesley McIntyre,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,167,4.0,2024-11-20
+167,VSUL,CU,Clarkson University Golden Knights,2pmi,To Basket,Ben Phillips,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,168,1.0,2024-11-20
+168,VSUL,CU,Vermont State University Lyndon,2pmi,To Basket,Wilber Casanova,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,169,1.0,2024-11-20
+169,VSUL,CU,Clarkson University Golden Knights,2pMa,No Dribble Jumper,Tyson Maxam,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,170,3.0,2024-11-20
+170,VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Max Kocha,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,171,4.0,2024-11-20
+171,VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Tyson Maxam,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,172,1.0,2024-11-20
+172,VSUL,CU,Vermont State University Lyndon,2pmi,Dribble Jumper,Wesley McIntyre,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,173,2.0,2024-11-20
+174,VSUL,CU,Clarkson University Golden Knights,Turnover,To Basket,Ben Phillips,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,175,1.0,2024-11-20
+175,VSUL,CU,Vermont State University Lyndon,3pMa,Dribble Jumper,Wesley McIntyre,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,176,4.0,2024-11-20
+177,VSUL,CU,Clarkson University Golden Knights,Foul,To Basket,Braeden Burns,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,178,1.0,2024-11-20
+181,VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Casey Montesano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,182,4.0,2024-11-20
+182,VSUL,CU,Vermont State University Lyndon,3pmi,Dribble Jumper,Wesley McIntyre,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,183,4.0,2024-11-20
+183,VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Matthew Parent,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,184,4.0,2024-11-20
+184,VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Wilber Casanova,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,185,4.0,2024-11-20
+185,VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matthew Parent,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,186,4.0,2024-11-20
+187,VSUL,CU,Vermont State University Lyndon,Foul,No Dribble Jumper,Wesley McIntyre,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,188,4.0,2024-11-20
+191,VSUL,CU,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,192,1.0,2024-11-20
+192,VSUL,CU,Vermont State University Lyndon,Turnover,N/A,Wesley McIntyre,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,193,1.0,2024-11-20
+193,VSUL,CU,Clarkson University Golden Knights,2pMa,To Basket,Casey Montesano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,194,1.0,2024-11-20
+194,VSUL,CU,Vermont State University Lyndon,2pMa,To Basket,Wesley McIntyre,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,195,1.0,2024-11-20
+195,VSUL,CU,Clarkson University Golden Knights,2pMa,To Basket,Casey Montesano,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,196,1.0,2024-11-20
+196,VSUL,CU,Vermont State University Lyndon,Turnover,N/A,Wesley McIntyre,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,197,1.0,2024-11-20
+197,VSUL,CU,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,198,1.0,2024-11-20
+198,VSUL,CU,Vermont State University Lyndon,2pMa,To Basket,Matt Doyle,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,199,1.0,2024-11-20
+199,VSUL,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Finn Cork,Post,Right,Right Shoulder,Braeden Burns,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,200,4.0,2024-11-20
+200,VSUL,CU,Vermont State University Lyndon,3pMa,No Dribble Jumper,Chad Martin,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,201,4.0,2024-11-20
+201,VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Steve DeRegis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,202,1.0,2024-11-20
+202,VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Chad Martin,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,203,4.0,2024-11-20
+203,VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Lorenzo Rappa,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,204,1.0,2024-11-20
+204,VSUL,CU,Vermont State University Lyndon,Turnover,To Basket,Gregory Gonyea Jr,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,205,1.0,2024-11-20
+205,VSUL,CU,Clarkson University Golden Knights,2pmi,To Basket,Finn Cork,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,206,1.0,2024-11-20
+207,VSUL,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Lorenzo Rappa,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,208,4.0,2024-11-20
+208,VSUL,CU,Vermont State University Lyndon,2pmi,To Basket,Christian Hathorn,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,209,1.0,2024-11-20
+209,VSUL,CU,Vermont State University Lyndon,2pMa,To Basket,Matt Doyle,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,210,1.0,2024-11-20
+210,VSUL,CU,Clarkson University Golden Knights,Foul,To Basket,Finn Cork,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,211,1.0,2024-11-20
+213,VSUL,CU,Vermont State University Lyndon,3pmi,No Dribble Jumper,Wesley McIntyre,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,214,4.0,2024-11-20
+214,VSUL,CU,Clarkson University Golden Knights,2pmi,To Basket,Lorenzo Rappa,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,215,1.0,2024-11-20
+217,VSUL,CU,Vermont State University Lyndon,3pMa,No Dribble Jumper,Tyler Cooper,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,218,4.0,2024-11-20
+218,VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Ben Rappa,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,219,1.0,2024-11-20
+219,VSUL,CU,Vermont State University Lyndon,2pMa,To Basket,Gregory Gonyea Jr,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,220,1.0,2024-11-20
+220,VSUL,CU,,Foul,N/A,Matt Toscano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,221,1.0,2024-11-20
+223,VSUL,CU,Vermont State University Lyndon,Foul,No Dribble Jumper,Wesley McIntyre,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,224,4.0,2024-11-20
+227,VSUL,CU,,Foul,N/A,Matt Toscano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,228,1.0,2024-11-20
+230,VSUL,CU,Vermont State University Lyndon,3pmi,Dribble Jumper,Christian Hathorn,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,231,4.0,2024-11-20
+231,VSUL,CU,,Foul,N/A,Lorenzo Rappa,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,232,1.0,2024-11-20
+234,VSUL,CU,Vermont State University Lyndon,3pmi,Dribble Jumper,Tyler Cooper,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,235,4.0,2024-11-20
+235,VSUL,CU,Clarkson University Golden Knights,Turnover,N/A,Ben Rappa,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,236,1.0,2024-11-20
+236,VSUL,CU,Vermont State University Lyndon,2pMa,To Basket,Wesley McIntyre,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,237,1.0,2024-11-20
+237,VSUL,CU,,Foul,N/A,Matt Toscano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,238,1.0,2024-11-20
+240,VSUL,CU,Vermont State University Lyndon,3pmi,Dribble Jumper,Wesley McIntyre,PNR,Right,Off,Victor Kukta Reyes,P&R Roll Man,N/A,Slips,UNKNOWN,Liberty League,241,4.0,2024-11-20

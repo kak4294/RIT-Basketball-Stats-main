@@ -1,171 +1,171 @@
-Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
-SAG,Bar,Sage Colleges,2pmi,To Basket,Deavion Springsteen,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,1,1.0,2025
-SAG,Bar,Sage Colleges,2pmi,To Basket,Todd Williamson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,2,1.0,2025
-SAG,Bar,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Empire 8,Liberty League,3,4.0,2025
-SAG,Bar,Sage Colleges,3pMa,No Dribble Jumper,Noah Girard,PNR,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,4,4.0,2025
-SAG,Bar,Bard College,3pmi,No Dribble Jumper,Azriel Almodovar,PNR,Left,Off,Laz Panagiotounis,Spot Ups,N/A,Shot,Empire 8,Liberty League,5,4.0,2025
-SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Trevor Green G,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,6,2.0,2025
-SAG,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,7,1.0,2025
-SAG,Bar,Sage Colleges,2pmi,To Basket,Todd Williamson,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,8,1.0,2025
-SAG,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,9,1.0,2025
-SAG,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,11,1.0,2025
-SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Noah Girard,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,12,2.0,2025
-SAG,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,PNR,High,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,13,1.0,2025
-SAG,Bar,Sage Colleges,3pMa,Dribble Jumper,Deavion Springsteen,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,14,4.0,2025
-SAG,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,16,4.0,2025
-SAG,Bar,Bard College,3pmi,No Dribble Jumper,Azriel Almodovar,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,18,4.0,2025
-SAG,Bar,Sage Colleges,2pmi,Drop Step,Avery Oduro-Dompreh,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,19,1.0,2025
-SAG,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,20,1.0,2025
-SAG,Bar,Sage Colleges,2pMa,To Basket,Trevor Green G,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,21,1.0,2025
-SAG,Bar,Bard College,3pMa,Dribble Jumper,Laz Panagiotounis,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,22,4.0,2025
-SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Trevor Green G,PNR,High,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,23,3.0,2025
-SAG,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,24,1.0,2025
-SAG,Bar,Sage Colleges,Turnover,To Basket,Avery Oduro-Dompreh,Post,Left,Left Shoulder,Ivan OduroDompreh,Cuts,N/A,Basket,Empire 8,Liberty League,26,1.0,2025
-SAG,Bar,Bard College,Turnover,N/A,Lucas Tovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,27,1.0,2025
-SAG,Bar,Sage Colleges,2pmi,To Basket,Adam Myers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,28,1.0,2025
-SAG,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,29,1.0,2025
-SAG,Bar,Sage Colleges,2pMa,Dribble Jumper,Noah Girard,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,30,2.0,2025
-SAG,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,31,1.0,2025
-SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Adam Myers,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,32,3.0,2025
-SAG,Bar,Sage Colleges,Foul,To Basket,Ivan OduroDompreh,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,33,1.0,2025
-SAG,Bar,Sage Colleges,2pmi,To Basket,Trevor Green G,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,37,1.0,2025
-SAG,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,38,4.0,2025
-SAG,Bar,Sage Colleges,2pmi,To Basket,Brandon Harris,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,39,1.0,2025
-SAG,Bar,Sage Colleges,Turnover,N/A,Ivan OduroDompreh,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,40,1.0,2025
-SAG,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,41,1.0,2025
-SAG,Bar,Sage Colleges,Foul,Dribble Jumper,Adam Myers,PNR,Right,Off,Brandon Harris,Spot Ups,Left,Drive,Empire 8,Liberty League,43,2.0,2025
-SAG,Bar,Bard College,3pmi,No Dribble Jumper,Joshua Bayne,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Empire 8,Liberty League,46,4.0,2025
-SAG,Bar,Sage Colleges,2pmi,N/A,Khalel Noteman,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,47,1.0,2025
-SAG,Bar,Bard College,Turnover,N/A,Ahmad Rauf,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,48,1.0,2025
-SAG,Bar,Sage Colleges,2pmi,To Basket,Brandon Harris,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,49,1.0,2025
-SAG,Bar,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,50,4.0,2025
-SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Deavion Springsteen,PNR,High,Off,Trevor Green G,Spot Ups,Right,Drive,Empire 8,Liberty League,51,2.0,2025
-SAG,Bar,Bard College,Turnover,N/A,Rowan Heinze,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,52,1.0,2025
-SAG,Bar,Sage Colleges,2pMa,To Basket,Deavion Springsteen,Iso,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,53,1.0,2025
-SAG,Bar,Bard College,Turnover,N/A,Seth Dyer,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,54,1.0,2025
-SAG,Bar,Sage Colleges,Turnover,N/A,Khalel Noteman,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,55,1.0,2025
-SAG,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,56,1.0,2025
-SAG,Bar,Sage Colleges,2pmi,To Basket,Deavion Springsteen,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,57,1.0,2025
-SAG,Bar,Bard College,Foul,To Basket,Rowan Heinze,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,58,1.0,2025
-SAG,Bar,Sage Colleges,Foul,To Basket,Deavion Springsteen,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,61,1.0,2025
-SAG,Bar,Bard College,2pmi,To Basket,Sean Wilcox,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,65,1.0,2025
-SAG,Bar,Bard College,2pMa,To Basket,Sean Wilcox,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,66,1.0,2025
-SAG,Bar,Sage Colleges,3pmi,No Dribble Jumper,Mike Mclaughlin,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,67,4.0,2025
-SAG,Bar,Bard College,Turnover,N/A,Rowan Heinze,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,68,1.0,2025
-SAG,Bar,Sage Colleges,Turnover,N/A,Deavion Springsteen,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,69,1.0,2025
-SAG,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Empire 8,Liberty League,70,4.0,2025
-SAG,Bar,Sage Colleges,2pmi,To Basket,Deavion Springsteen,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,71,1.0,2025
-SAG,Bar,Bard College,3pMa,No Dribble Jumper,Laz Panagiotounis,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,72,4.0,2025
-SAG,Bar,Sage Colleges,2pMa,Dribble Jumper,Noah Girard,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,73,2.0,2025
-SAG,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,74,4.0,2025
-SAG,Bar,Sage Colleges,3pmi,Dribble Jumper,Deavion Springsteen,PNR,High,Off,Noah Girard,Spot Ups,Left,Drive,Empire 8,Liberty League,75,4.0,2025
-SAG,Bar,Bard College,2pMa,To Basket,Sean Wilcox,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Empire 8,Liberty League,76,1.0,2025
-SAG,Bar,Sage Colleges,3pmi,No Dribble Jumper,Deavion Springsteen,PNR,High,Off,Noah Girard,Spot Ups,N/A,Shot,Empire 8,Liberty League,77,4.0,2025
-SAG,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,78,1.0,2025
-SAG,Bar,Sage Colleges,2pMa,Dribble Jumper,Noah Girard,PNR,Left,Off,Mike Mclaughlin,Spot Ups,Left,Drive,Empire 8,Liberty League,79,3.0,2025
-SAG,Bar,Bard College,3pMa,No Dribble Jumper,Laz Panagiotounis,Iso,Right,N/A,Joshua Bayne,Spot Ups,N/A,Shot,Empire 8,Liberty League,81,4.0,2025
-SAG,Bar,Sage Colleges,Foul,To Basket,Trevor Green G,PNR,High,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,82,1.0,2025
-SAG,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,85,4.0,2025
-SAG,Bar,Sage Colleges,2pmi,To Basket,Trevor Green G,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,86,1.0,2025
-SAG,Bar,Sage Colleges,Turnover,N/A,Brandon Harris,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,88,1.0,2025
-SAG,Bar,Bard College,2pMa,To Basket,Lucas Tovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,89,1.0,2025
-SAG,Bar,Sage Colleges,Foul,To Basket,Adam Myers,PNR,Right,Off,Trevor Green G,Cuts,N/A,Basket,Empire 8,Liberty League,90,1.0,2025
-SAG,Bar,Bard College,Turnover,N/A,Lucas Tovar,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,93,1.0,2025
-SAG,Bar,Sage Colleges,3pmi,Dribble Jumper,Brandon Harris,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,94,4.0,2025
-SAG,Bar,Sage Colleges,Turnover,N/A,Adam Myers,PNR,Left,Off,Trevor Green G,Spot Ups,Right,Drive,Empire 8,Liberty League,96,1.0,2025
-SAG,Bar,Bard College,3pMa,No Dribble Jumper,Laz Panagiotounis,PNR,High,Off,Jalen Umstead,P&R Roll Man,N/A,Pop,Empire 8,Liberty League,97,4.0,2025
-SAG,Bar,Sage Colleges,Foul,To Basket,Ivan OduroDompreh,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,98,1.0,2025
-SAG,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,PNR,Left,Off,Lucas Tovar,Spot Ups,N/A,Shot,Empire 8,Liberty League,101,4.0,2025
-SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Noah Girard,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,102,3.0,2025
-SAG,Bar,,Foul,N/A,Laz Panagiotounis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,104,1.0,2025
-SAG,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,107,4.0,2025
-SAG,Bar,Bard College,3pMa,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,109,4.0,2025
-SAG,Bar,Sage Colleges,Turnover,N/A,Deavion Springsteen,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,110,1.0,2025
-SAG,Bar,Bard College,Foul,To Basket,Azriel Almodovar,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,111,1.0,2025
-SAG,Bar,Sage Colleges,3pMa,Dribble Jumper,Adam Myers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,114,4.0,2025
-SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Trevor Green G,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,115,2.0,2025
-SAG,Bar,Sage Colleges,Foul,To Basket,Trevor Green G,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,117,1.0,2025
-SAG,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,120,1.0,2025
-SAG,Bar,Sage Colleges,2pmi,Drop Step,Todd Williamson,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,121,1.0,2025
-SAG,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,122,1.0,2025
-SAG,Bar,Bard College,Foul,To Basket,Laz Panagiotounis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,124,1.0,2025
-SAG,Bar,Sage Colleges,3pmi,Dribble Jumper,Deavion Springsteen,PNR,High,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,127,4.0,2025
-SAG,Bar,Sage Colleges,And1,To Basket,Avery Oduro-Dompreh,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,129,1.0,2025
-SAG,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,131,4.0,2025
-SAG,Bar,Sage Colleges,Turnover,N/A,Todd Williamson,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,132,1.0,2025
-SAG,Bar,Bard College,2pMa,To Basket,Max Frei,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,133,1.0,2025
-SAG,Bar,Sage Colleges,Foul,To Basket,Avery Oduro-Dompreh,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,134,1.0,2025
-SAG,Bar,Bard College,2pmi,To Basket,Ahmad Rauf,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,137,1.0,2025
-SAG,Bar,Sage Colleges,3pmi,No Dribble Jumper,Brandon Harris,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Empire 8,Liberty League,138,4.0,2025
-SAG,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,PNR,Left,Off,Azriel Almodovar,Spot Ups,N/A,Shot,Empire 8,Liberty League,139,4.0,2025
-SAG,Bar,Sage Colleges,2pmi,To Basket,Deavion Springsteen,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,140,1.0,2025
-SAG,Bar,Bard College,3pMa,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,141,4.0,2025
-SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Deavion Springsteen,PNR,High,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,142,2.0,2025
-SAG,Bar,Bard College,And1,To Basket,Azriel Almodovar,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,143,1.0,2025
-SAG,Bar,Sage Colleges,2pMa,To Basket,Avery Oduro-Dompreh,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,145,1.0,2025
-SAG,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,146,4.0,2025
-SAG,Bar,Sage Colleges,2pMa,To Basket,Brandon Harris,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,147,1.0,2025
-SAG,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,148,1.0,2025
-SAG,Bar,Sage Colleges,3pmi,Dribble Jumper,Brandon Harris,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,149,4.0,2025
-SAG,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,150,1.0,2025
-SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Noah Girard,Iso,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,152,3.0,2025
-SAG,Bar,Sage Colleges,3pMa,No Dribble Jumper,Brandon Harris,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,155,4.0,2025
-SAG,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,157,4.0,2025
-SAG,Bar,Sage Colleges,And1,To Basket,Avery Oduro-Dompreh,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,158,1.0,2025
-SAG,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,160,1.0,2025
-SAG,Bar,Sage Colleges,2pMa,Dribble Jumper,Noah Girard,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,161,3.0,2025
-SAG,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,162,4.0,2025
-SAG,Bar,Sage Colleges,Foul,To Basket,Jden Golding,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,163,1.0,2025
-SAG,Bar,Bard College,2pmi,To Basket,Laz Panagiotounis,PNR,Right,Off,Rowan Heinze,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,167,1.0,2025
-SAG,Bar,Bard College,2pMa,To Basket,Rowan Heinze,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,168,1.0,2025
-SAG,Bar,Sage Colleges,2pMa,To Basket,Noah Girard,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,169,1.0,2025
-SAG,Bar,Bard College,And1,To Basket,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,170,1.0,2025
-SAG,Bar,Sage Colleges,Foul,To Basket,Adam Myers,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,172,1.0,2025
-SAG,Bar,Bard College,3pmi,No Dribble Jumper,Joshua Bayne,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,175,4.0,2025
-SAG,Bar,Sage Colleges,3pmi,No Dribble Jumper,Adam Myers,PNR,High,Off,Noah Girard,Spot Ups,N/A,Shot,Empire 8,Liberty League,176,4.0,2025
-SAG,Bar,Sage Colleges,Turnover,N/A,Avery Oduro-Dompreh,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,177,1.0,2025
-SAG,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,178,1.0,2025
-SAG,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,180,1.0,2025
-SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Jden Golding,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,181,2.0,2025
-SAG,Bar,Bard College,2pmi,Dribble Jumper,Laz Panagiotounis,PNR,Right,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,182,3.0,2025
-SAG,Bar,Sage Colleges,2pmi,To Basket,Brandon Harris,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,183,1.0,2025
-SAG,Bar,Sage Colleges,Turnover,To Basket,Trevor Green G,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,184,1.0,2025
-SAG,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,186,1.0,2025
-SAG,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,188,4.0,2025
-SAG,Bar,Sage Colleges,2pMa,To Basket,Jden Golding,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,189,1.0,2025
-SAG,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,190,4.0,2025
-SAG,Bar,Bard College,2pmi,Dribble Jumper,Laz Panagiotounis,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,192,3.0,2025
-SAG,Bar,Sage Colleges,2pmi,To Basket,Trevor Green G,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,193,1.0,2025
-SAG,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Empire 8,Liberty League,194,1.0,2025
-SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Noah Girard,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,195,2.0,2025
-SAG,Bar,Sage Colleges,2pMa,To Basket,Avery Oduro-Dompreh,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,196,1.0,2025
-SAG,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,197,4.0,2025
-SAG,Bar,Sage Colleges,3pMa,No Dribble Jumper,Brandon Harris,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Empire 8,Liberty League,198,4.0,2025
-SAG,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,Empire 8,Liberty League,199,1.0,2025
-SAG,Bar,Sage Colleges,Foul,To Basket,Trevor Green G,PNR,High,Off,Khalel Noteman,Cuts,N/A,Basket,Empire 8,Liberty League,200,1.0,2025
-SAG,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,203,1.0,2025
-SAG,Bar,Bard College,2pMa,To Basket,Rowan Heinze,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,204,1.0,2025
-SAG,Bar,Sage Colleges,Foul,To Basket,Trevor Green G,PNR,High,Off,Jden Golding,Spot Ups,Right,Drive,Empire 8,Liberty League,205,1.0,2025
-SAG,Bar,Bard College,And1,To Basket,Laz Panagiotounis,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,208,1.0,2025
-SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Trevor Green G,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,210,2.0,2025
-SAG,Bar,Bard College,3pMa,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,211,4.0,2025
-SAG,Bar,Sage Colleges,2pmi,To Basket,Noah Girard,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,212,1.0,2025
-SAG,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,PNR,High,N/A,Rowan Heinze,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,214,1.0,2025
-SAG,Bar,Sage Colleges,Foul,To Basket,Avery Oduro-Dompreh,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Empire 8,Liberty League,215,1.0,2025
-SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Brandon Harris,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,219,2.0,2025
-SAG,Bar,Sage Colleges,2pmi,To Basket,Trevor Green G,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,220,1.0,2025
-SAG,Bar,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,221,4.0,2025
-SAG,Bar,Sage Colleges,2pMa,To Basket,Todd Williamson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,222,1.0,2025
-SAG,Bar,,Foul,N/A,Azriel Almodovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,223,1.0,2025
-SAG,Bar,Sage Colleges,Turnover,N/A,Trevor Green G,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,226,1.0,2025
-SAG,Bar,,Foul,N/A,Laz Panagiotounis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,227,1.0,2025
-SAG,Bar,Sage Colleges,2pMa,To Basket,Brandon Harris,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,230,1.0,2025
-SAG,Bar,Bard College,Turnover,N/A,Lucas Tovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,231,1.0,2025
-SAG,Bar,Sage Colleges,3pmi,Dribble Jumper,Trevor Green G,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,232,4.0,2025
-SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Trevor Green G,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,234,2.0,2025
-SAG,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,235,1.0,2025
-SAG,Bar,Sage Colleges,Turnover,N/A,Trevor Green G,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,236,1.0,2025
-SAG,Bar,,Foul,N/A,Azriel Almodovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,237,1.0,2025
-SAG,Bar,Sage Colleges,2pmi,To Basket,Brandon Harris,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,240,1.0,2025
-SAG,Bar,Bard College,Foul,N/A,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,241,1.0,2025
-SAG,Bar,Sage Colleges,3pmi,No Dribble Jumper,Brandon Harris,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,244,4.0,2025
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,SAG,Bar,Sage Colleges,2pmi,To Basket,Deavion Springsteen,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,1,1.0,2024-11-16
+1,SAG,Bar,Sage Colleges,2pmi,To Basket,Todd Williamson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,2,1.0,2024-11-16
+2,SAG,Bar,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Empire 8,Liberty League,3,4.0,2024-11-16
+3,SAG,Bar,Sage Colleges,3pMa,No Dribble Jumper,Noah Girard,PNR,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,4,4.0,2024-11-16
+4,SAG,Bar,Bard College,3pmi,No Dribble Jumper,Azriel Almodovar,PNR,Left,Off,Laz Panagiotounis,Spot Ups,N/A,Shot,Empire 8,Liberty League,5,4.0,2024-11-16
+5,SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Trevor Green G,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,6,2.0,2024-11-16
+6,SAG,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,7,1.0,2024-11-16
+7,SAG,Bar,Sage Colleges,2pmi,To Basket,Todd Williamson,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,8,1.0,2024-11-16
+8,SAG,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,9,1.0,2024-11-16
+10,SAG,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,11,1.0,2024-11-16
+11,SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Noah Girard,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,12,2.0,2024-11-16
+12,SAG,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,PNR,High,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,13,1.0,2024-11-16
+13,SAG,Bar,Sage Colleges,3pMa,Dribble Jumper,Deavion Springsteen,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,14,4.0,2024-11-16
+15,SAG,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,16,4.0,2024-11-16
+17,SAG,Bar,Bard College,3pmi,No Dribble Jumper,Azriel Almodovar,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,18,4.0,2024-11-16
+18,SAG,Bar,Sage Colleges,2pmi,Drop Step,Avery Oduro-Dompreh,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,19,1.0,2024-11-16
+19,SAG,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,20,1.0,2024-11-16
+20,SAG,Bar,Sage Colleges,2pMa,To Basket,Trevor Green G,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,21,1.0,2024-11-16
+21,SAG,Bar,Bard College,3pMa,Dribble Jumper,Laz Panagiotounis,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,22,4.0,2024-11-16
+22,SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Trevor Green G,PNR,High,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,23,3.0,2024-11-16
+23,SAG,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,24,1.0,2024-11-16
+25,SAG,Bar,Sage Colleges,Turnover,To Basket,Avery Oduro-Dompreh,Post,Left,Left Shoulder,Ivan OduroDompreh,Cuts,N/A,Basket,Empire 8,Liberty League,26,1.0,2024-11-16
+26,SAG,Bar,Bard College,Turnover,N/A,Lucas Tovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,27,1.0,2024-11-16
+27,SAG,Bar,Sage Colleges,2pmi,To Basket,Adam Myers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,28,1.0,2024-11-16
+28,SAG,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,29,1.0,2024-11-16
+29,SAG,Bar,Sage Colleges,2pMa,Dribble Jumper,Noah Girard,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,30,2.0,2024-11-16
+30,SAG,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,31,1.0,2024-11-16
+31,SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Adam Myers,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,32,3.0,2024-11-16
+32,SAG,Bar,Sage Colleges,Foul,To Basket,Ivan OduroDompreh,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,33,1.0,2024-11-16
+36,SAG,Bar,Sage Colleges,2pmi,To Basket,Trevor Green G,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,37,1.0,2024-11-16
+37,SAG,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,38,4.0,2024-11-16
+38,SAG,Bar,Sage Colleges,2pmi,To Basket,Brandon Harris,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,39,1.0,2024-11-16
+39,SAG,Bar,Sage Colleges,Turnover,N/A,Ivan OduroDompreh,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,40,1.0,2024-11-16
+40,SAG,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,41,1.0,2024-11-16
+42,SAG,Bar,Sage Colleges,Foul,Dribble Jumper,Adam Myers,PNR,Right,Off,Brandon Harris,Spot Ups,Left,Drive,Empire 8,Liberty League,43,2.0,2024-11-16
+45,SAG,Bar,Bard College,3pmi,No Dribble Jumper,Joshua Bayne,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Empire 8,Liberty League,46,4.0,2024-11-16
+46,SAG,Bar,Sage Colleges,2pmi,N/A,Khalel Noteman,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,47,1.0,2024-11-16
+47,SAG,Bar,Bard College,Turnover,N/A,Ahmad Rauf,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,48,1.0,2024-11-16
+48,SAG,Bar,Sage Colleges,2pmi,To Basket,Brandon Harris,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,49,1.0,2024-11-16
+49,SAG,Bar,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,50,4.0,2024-11-16
+50,SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Deavion Springsteen,PNR,High,Off,Trevor Green G,Spot Ups,Right,Drive,Empire 8,Liberty League,51,2.0,2024-11-16
+51,SAG,Bar,Bard College,Turnover,N/A,Rowan Heinze,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,52,1.0,2024-11-16
+52,SAG,Bar,Sage Colleges,2pMa,To Basket,Deavion Springsteen,Iso,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,53,1.0,2024-11-16
+53,SAG,Bar,Bard College,Turnover,N/A,Seth Dyer,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,54,1.0,2024-11-16
+54,SAG,Bar,Sage Colleges,Turnover,N/A,Khalel Noteman,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,55,1.0,2024-11-16
+55,SAG,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,56,1.0,2024-11-16
+56,SAG,Bar,Sage Colleges,2pmi,To Basket,Deavion Springsteen,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,57,1.0,2024-11-16
+57,SAG,Bar,Bard College,Foul,To Basket,Rowan Heinze,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,58,1.0,2024-11-16
+60,SAG,Bar,Sage Colleges,Foul,To Basket,Deavion Springsteen,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,61,1.0,2024-11-16
+64,SAG,Bar,Bard College,2pmi,To Basket,Sean Wilcox,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,65,1.0,2024-11-16
+65,SAG,Bar,Bard College,2pMa,To Basket,Sean Wilcox,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,66,1.0,2024-11-16
+66,SAG,Bar,Sage Colleges,3pmi,No Dribble Jumper,Mike Mclaughlin,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,67,4.0,2024-11-16
+67,SAG,Bar,Bard College,Turnover,N/A,Rowan Heinze,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,68,1.0,2024-11-16
+68,SAG,Bar,Sage Colleges,Turnover,N/A,Deavion Springsteen,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,69,1.0,2024-11-16
+69,SAG,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Empire 8,Liberty League,70,4.0,2024-11-16
+70,SAG,Bar,Sage Colleges,2pmi,To Basket,Deavion Springsteen,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,71,1.0,2024-11-16
+71,SAG,Bar,Bard College,3pMa,No Dribble Jumper,Laz Panagiotounis,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,72,4.0,2024-11-16
+72,SAG,Bar,Sage Colleges,2pMa,Dribble Jumper,Noah Girard,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,73,2.0,2024-11-16
+73,SAG,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,74,4.0,2024-11-16
+74,SAG,Bar,Sage Colleges,3pmi,Dribble Jumper,Deavion Springsteen,PNR,High,Off,Noah Girard,Spot Ups,Left,Drive,Empire 8,Liberty League,75,4.0,2024-11-16
+75,SAG,Bar,Bard College,2pMa,To Basket,Sean Wilcox,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Empire 8,Liberty League,76,1.0,2024-11-16
+76,SAG,Bar,Sage Colleges,3pmi,No Dribble Jumper,Deavion Springsteen,PNR,High,Off,Noah Girard,Spot Ups,N/A,Shot,Empire 8,Liberty League,77,4.0,2024-11-16
+77,SAG,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,78,1.0,2024-11-16
+78,SAG,Bar,Sage Colleges,2pMa,Dribble Jumper,Noah Girard,PNR,Left,Off,Mike Mclaughlin,Spot Ups,Left,Drive,Empire 8,Liberty League,79,3.0,2024-11-16
+80,SAG,Bar,Bard College,3pMa,No Dribble Jumper,Laz Panagiotounis,Iso,Right,N/A,Joshua Bayne,Spot Ups,N/A,Shot,Empire 8,Liberty League,81,4.0,2024-11-16
+81,SAG,Bar,Sage Colleges,Foul,To Basket,Trevor Green G,PNR,High,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,82,1.0,2024-11-16
+84,SAG,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,85,4.0,2024-11-16
+85,SAG,Bar,Sage Colleges,2pmi,To Basket,Trevor Green G,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,86,1.0,2024-11-16
+87,SAG,Bar,Sage Colleges,Turnover,N/A,Brandon Harris,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,88,1.0,2024-11-16
+88,SAG,Bar,Bard College,2pMa,To Basket,Lucas Tovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,89,1.0,2024-11-16
+89,SAG,Bar,Sage Colleges,Foul,To Basket,Adam Myers,PNR,Right,Off,Trevor Green G,Cuts,N/A,Basket,Empire 8,Liberty League,90,1.0,2024-11-16
+92,SAG,Bar,Bard College,Turnover,N/A,Lucas Tovar,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,93,1.0,2024-11-16
+93,SAG,Bar,Sage Colleges,3pmi,Dribble Jumper,Brandon Harris,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,94,4.0,2024-11-16
+95,SAG,Bar,Sage Colleges,Turnover,N/A,Adam Myers,PNR,Left,Off,Trevor Green G,Spot Ups,Right,Drive,Empire 8,Liberty League,96,1.0,2024-11-16
+96,SAG,Bar,Bard College,3pMa,No Dribble Jumper,Laz Panagiotounis,PNR,High,Off,Jalen Umstead,P&R Roll Man,N/A,Pop,Empire 8,Liberty League,97,4.0,2024-11-16
+97,SAG,Bar,Sage Colleges,Foul,To Basket,Ivan OduroDompreh,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,98,1.0,2024-11-16
+100,SAG,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,PNR,Left,Off,Lucas Tovar,Spot Ups,N/A,Shot,Empire 8,Liberty League,101,4.0,2024-11-16
+101,SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Noah Girard,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,102,3.0,2024-11-16
+103,SAG,Bar,,Foul,N/A,Laz Panagiotounis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,104,1.0,2024-11-16
+106,SAG,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,107,4.0,2024-11-16
+108,SAG,Bar,Bard College,3pMa,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,109,4.0,2024-11-16
+109,SAG,Bar,Sage Colleges,Turnover,N/A,Deavion Springsteen,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,110,1.0,2024-11-16
+110,SAG,Bar,Bard College,Foul,To Basket,Azriel Almodovar,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,111,1.0,2024-11-16
+113,SAG,Bar,Sage Colleges,3pMa,Dribble Jumper,Adam Myers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,114,4.0,2024-11-16
+114,SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Trevor Green G,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,115,2.0,2024-11-16
+116,SAG,Bar,Sage Colleges,Foul,To Basket,Trevor Green G,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,117,1.0,2024-11-16
+119,SAG,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,120,1.0,2024-11-16
+120,SAG,Bar,Sage Colleges,2pmi,Drop Step,Todd Williamson,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,121,1.0,2024-11-16
+121,SAG,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,122,1.0,2024-11-16
+123,SAG,Bar,Bard College,Foul,To Basket,Laz Panagiotounis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,124,1.0,2024-11-16
+126,SAG,Bar,Sage Colleges,3pmi,Dribble Jumper,Deavion Springsteen,PNR,High,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,127,4.0,2024-11-16
+128,SAG,Bar,Sage Colleges,And1,To Basket,Avery Oduro-Dompreh,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,129,1.0,2024-11-16
+130,SAG,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,131,4.0,2024-11-16
+131,SAG,Bar,Sage Colleges,Turnover,N/A,Todd Williamson,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,132,1.0,2024-11-16
+132,SAG,Bar,Bard College,2pMa,To Basket,Max Frei,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,133,1.0,2024-11-16
+133,SAG,Bar,Sage Colleges,Foul,To Basket,Avery Oduro-Dompreh,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,134,1.0,2024-11-16
+136,SAG,Bar,Bard College,2pmi,To Basket,Ahmad Rauf,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,137,1.0,2024-11-16
+137,SAG,Bar,Sage Colleges,3pmi,No Dribble Jumper,Brandon Harris,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Empire 8,Liberty League,138,4.0,2024-11-16
+138,SAG,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,PNR,Left,Off,Azriel Almodovar,Spot Ups,N/A,Shot,Empire 8,Liberty League,139,4.0,2024-11-16
+139,SAG,Bar,Sage Colleges,2pmi,To Basket,Deavion Springsteen,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,140,1.0,2024-11-16
+140,SAG,Bar,Bard College,3pMa,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,141,4.0,2024-11-16
+141,SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Deavion Springsteen,PNR,High,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,142,2.0,2024-11-16
+142,SAG,Bar,Bard College,And1,To Basket,Azriel Almodovar,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,143,1.0,2024-11-16
+144,SAG,Bar,Sage Colleges,2pMa,To Basket,Avery Oduro-Dompreh,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,145,1.0,2024-11-16
+145,SAG,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,146,4.0,2024-11-16
+146,SAG,Bar,Sage Colleges,2pMa,To Basket,Brandon Harris,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,147,1.0,2024-11-16
+147,SAG,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,148,1.0,2024-11-16
+148,SAG,Bar,Sage Colleges,3pmi,Dribble Jumper,Brandon Harris,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,149,4.0,2024-11-16
+149,SAG,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,150,1.0,2024-11-16
+151,SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Noah Girard,Iso,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,152,3.0,2024-11-16
+154,SAG,Bar,Sage Colleges,3pMa,No Dribble Jumper,Brandon Harris,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,155,4.0,2024-11-16
+156,SAG,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,157,4.0,2024-11-16
+157,SAG,Bar,Sage Colleges,And1,To Basket,Avery Oduro-Dompreh,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,158,1.0,2024-11-16
+159,SAG,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,160,1.0,2024-11-16
+160,SAG,Bar,Sage Colleges,2pMa,Dribble Jumper,Noah Girard,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,161,3.0,2024-11-16
+161,SAG,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,162,4.0,2024-11-16
+162,SAG,Bar,Sage Colleges,Foul,To Basket,Jden Golding,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,163,1.0,2024-11-16
+166,SAG,Bar,Bard College,2pmi,To Basket,Laz Panagiotounis,PNR,Right,Off,Rowan Heinze,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,167,1.0,2024-11-16
+167,SAG,Bar,Bard College,2pMa,To Basket,Rowan Heinze,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,168,1.0,2024-11-16
+168,SAG,Bar,Sage Colleges,2pMa,To Basket,Noah Girard,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,169,1.0,2024-11-16
+169,SAG,Bar,Bard College,And1,To Basket,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,170,1.0,2024-11-16
+171,SAG,Bar,Sage Colleges,Foul,To Basket,Adam Myers,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,172,1.0,2024-11-16
+174,SAG,Bar,Bard College,3pmi,No Dribble Jumper,Joshua Bayne,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,175,4.0,2024-11-16
+175,SAG,Bar,Sage Colleges,3pmi,No Dribble Jumper,Adam Myers,PNR,High,Off,Noah Girard,Spot Ups,N/A,Shot,Empire 8,Liberty League,176,4.0,2024-11-16
+176,SAG,Bar,Sage Colleges,Turnover,N/A,Avery Oduro-Dompreh,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,177,1.0,2024-11-16
+177,SAG,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,178,1.0,2024-11-16
+179,SAG,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,180,1.0,2024-11-16
+180,SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Jden Golding,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,181,2.0,2024-11-16
+181,SAG,Bar,Bard College,2pmi,Dribble Jumper,Laz Panagiotounis,PNR,Right,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,182,3.0,2024-11-16
+182,SAG,Bar,Sage Colleges,2pmi,To Basket,Brandon Harris,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,183,1.0,2024-11-16
+183,SAG,Bar,Sage Colleges,Turnover,To Basket,Trevor Green G,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,184,1.0,2024-11-16
+185,SAG,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,186,1.0,2024-11-16
+187,SAG,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,188,4.0,2024-11-16
+188,SAG,Bar,Sage Colleges,2pMa,To Basket,Jden Golding,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,189,1.0,2024-11-16
+189,SAG,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,190,4.0,2024-11-16
+191,SAG,Bar,Bard College,2pmi,Dribble Jumper,Laz Panagiotounis,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,192,3.0,2024-11-16
+192,SAG,Bar,Sage Colleges,2pmi,To Basket,Trevor Green G,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,193,1.0,2024-11-16
+193,SAG,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Empire 8,Liberty League,194,1.0,2024-11-16
+194,SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Noah Girard,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,195,2.0,2024-11-16
+195,SAG,Bar,Sage Colleges,2pMa,To Basket,Avery Oduro-Dompreh,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,196,1.0,2024-11-16
+196,SAG,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,197,4.0,2024-11-16
+197,SAG,Bar,Sage Colleges,3pMa,No Dribble Jumper,Brandon Harris,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Empire 8,Liberty League,198,4.0,2024-11-16
+198,SAG,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,Empire 8,Liberty League,199,1.0,2024-11-16
+199,SAG,Bar,Sage Colleges,Foul,To Basket,Trevor Green G,PNR,High,Off,Khalel Noteman,Cuts,N/A,Basket,Empire 8,Liberty League,200,1.0,2024-11-16
+202,SAG,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,203,1.0,2024-11-16
+203,SAG,Bar,Bard College,2pMa,To Basket,Rowan Heinze,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,204,1.0,2024-11-16
+204,SAG,Bar,Sage Colleges,Foul,To Basket,Trevor Green G,PNR,High,Off,Jden Golding,Spot Ups,Right,Drive,Empire 8,Liberty League,205,1.0,2024-11-16
+207,SAG,Bar,Bard College,And1,To Basket,Laz Panagiotounis,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,208,1.0,2024-11-16
+209,SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Trevor Green G,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,210,2.0,2024-11-16
+210,SAG,Bar,Bard College,3pMa,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,211,4.0,2024-11-16
+211,SAG,Bar,Sage Colleges,2pmi,To Basket,Noah Girard,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,212,1.0,2024-11-16
+213,SAG,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,PNR,High,N/A,Rowan Heinze,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,214,1.0,2024-11-16
+214,SAG,Bar,Sage Colleges,Foul,To Basket,Avery Oduro-Dompreh,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Empire 8,Liberty League,215,1.0,2024-11-16
+218,SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Brandon Harris,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,219,2.0,2024-11-16
+219,SAG,Bar,Sage Colleges,2pmi,To Basket,Trevor Green G,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,220,1.0,2024-11-16
+220,SAG,Bar,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,221,4.0,2024-11-16
+221,SAG,Bar,Sage Colleges,2pMa,To Basket,Todd Williamson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,222,1.0,2024-11-16
+222,SAG,Bar,,Foul,N/A,Azriel Almodovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,223,1.0,2024-11-16
+225,SAG,Bar,Sage Colleges,Turnover,N/A,Trevor Green G,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,226,1.0,2024-11-16
+226,SAG,Bar,,Foul,N/A,Laz Panagiotounis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,227,1.0,2024-11-16
+229,SAG,Bar,Sage Colleges,2pMa,To Basket,Brandon Harris,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,230,1.0,2024-11-16
+230,SAG,Bar,Bard College,Turnover,N/A,Lucas Tovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,231,1.0,2024-11-16
+231,SAG,Bar,Sage Colleges,3pmi,Dribble Jumper,Trevor Green G,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,232,4.0,2024-11-16
+233,SAG,Bar,Sage Colleges,2pmi,Dribble Jumper,Trevor Green G,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,234,2.0,2024-11-16
+234,SAG,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,235,1.0,2024-11-16
+235,SAG,Bar,Sage Colleges,Turnover,N/A,Trevor Green G,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,236,1.0,2024-11-16
+236,SAG,Bar,,Foul,N/A,Azriel Almodovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,237,1.0,2024-11-16
+239,SAG,Bar,Sage Colleges,2pmi,To Basket,Brandon Harris,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,240,1.0,2024-11-16
+240,SAG,Bar,Bard College,Foul,N/A,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,241,1.0,2024-11-16
+243,SAG,Bar,Sage Colleges,3pmi,No Dribble Jumper,Brandon Harris,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,244,4.0,2024-11-16

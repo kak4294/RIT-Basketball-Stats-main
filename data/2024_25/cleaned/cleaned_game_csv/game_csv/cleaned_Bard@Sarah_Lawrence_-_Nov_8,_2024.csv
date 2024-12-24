@@ -1,185 +1,185 @@
-Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
-SLC,Bar,Sarah Lawrence College Gryphons,Turnover,To Basket,Chris Dougherty,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,1,1.0,2025
-SLC,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,2,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,Foul,Dribble Jumper,Lemar Fulmore,PNR,Left,Off,Eamon Kelly,Spot Ups,Left,Drive,UNKNOWN,Liberty League,3,2.0,2025
-SLC,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,6,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pmi,Dribble Jumper,Andrew Kim,PNR,High,Off,Chris Dougherty,P&R Roll Man,Right,Pop,UNKNOWN,Liberty League,7,3.0,2025
-SLC,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,8,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Lemar Fulmore,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,9,1.0,2025
-SLC,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,10,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Andrew Kim,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,11,1.0,2025
-SLC,Bar,Bard College,3pmi,No Dribble Jumper,Azriel Almodovar,Post,Left,Left Shoulder,Laz Panagiotounis,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,12,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Braden Burman,Iso,Right,N/A,Chris Dougherty,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,13,4.0,2025
-SLC,Bar,Bard College,2pmi,To Basket,Sean Wilcox,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,14,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pMa,To Basket,Lemar Fulmore,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,15,1.0,2025
-SLC,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,PNR,High,Off,Rowan Heinze,P&R Roll Man,N/A,Pop,UNKNOWN,Liberty League,16,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Chris Dougherty,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,17,1.0,2025
-SLC,Bar,Bard College,2pmi,Dribble Jumper,Laz Panagiotounis,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,19,3.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Lemar Fulmore,PNR,Left,Off,Eamon Kelly,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,20,4.0,2025
-SLC,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,21,1.0,2025
-SLC,Bar,Bard College,Turnover,N/A,Lucas Tovar,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,22,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,John Kairouz,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,23,1.0,2025
-SLC,Bar,Bard College,Foul,To Basket,Laz Panagiotounis,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,24,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Eamon Kelly,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,27,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Dean Furlong,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,28,1.0,2025
-SLC,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,30,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Lemar Fulmore,PNR,High,Off,Dean Furlong,P&R Roll Man,N/A,Slips,UNKNOWN,Liberty League,31,4.0,2025
-SLC,Bar,Bard College,Foul,To Basket,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,32,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pMa,Dribble Jumper,Andrew Kim,PNR,Right,Off,Eamon Kelly,P&R Roll Man,Right,Pop,UNKNOWN,Liberty League,35,3.0,2025
-SLC,Bar,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,36,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Andrew Kim,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,37,1.0,2025
-SLC,Bar,Bard College,3pMa,No Dribble Jumper,Laz Panagiotounis,PNR,High,Away,Sean Wilcox,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,38,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Andrew Kim,PNR,Right,Off,John Kairouz,P&R Roll Man,N/A,Pop,UNKNOWN,Liberty League,39,4.0,2025
-SLC,Bar,Bard College,2pmi,To Basket,Sean Wilcox,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,40,1.0,2025
-SLC,Bar,Bard College,2pMa,To Basket,Sean Wilcox,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,41,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,John Kairouz,Iso,Top,N/A,Anthony Aruffo,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,42,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,Turnover,To Basket,John Kairouz,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,44,1.0,2025
-SLC,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,45,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Dean Furlong,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,46,1.0,2025
-SLC,Bar,Bard College,3pmi,No Dribble Jumper,Azriel Almodovar,PNR,Right,Off,Max Frei,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,47,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Andrew Kim,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,48,1.0,2025
-SLC,Bar,Bard College,3pMa,No Dribble Jumper,Azriel Almodovar,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,49,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Chris Dougherty,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,51,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Kyle Jefferson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,53,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,Foul,To Basket,Lemar Fulmore,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,55,1.0,2025
-SLC,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,58,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Kyle Jefferson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,59,1.0,2025
-SLC,Bar,Bard College,3pMa,No Dribble Jumper,Joshua Bayne,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,60,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pMa,No Dribble Jumper,Lemar Fulmore,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,61,4.0,2025
-SLC,Bar,Bard College,Turnover,N/A,Joshua Bayne,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,62,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pMa,No Dribble Jumper,Aiden Morel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,63,4.0,2025
-SLC,Bar,Bard College,Turnover,N/A,Rowan Heinze,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,64,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Lemar Fulmore,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,65,1.0,2025
-SLC,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,66,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Andrew Kim,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,67,1.0,2025
-SLC,Bar,Bard College,2pmi,To Basket,Laz Panagiotounis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,69,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pMa,No Dribble Jumper,Eamon Kelly,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,70,4.0,2025
-SLC,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,71,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Aiden Morel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,72,4.0,2025
-SLC,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,73,4.0,2025
-SLC,Bar,Bard College,Turnover,N/A,Sean Wilcox,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,74,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pMa,To Basket,Lemar Fulmore,PNR,High,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,75,1.0,2025
-SLC,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,76,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Andrew Kim,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,77,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pMa,No Dribble Jumper,Eamon Kelly,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,79,4.0,2025
-SLC,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,80,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pMa,No Dribble Jumper,Eamon Kelly,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,81,4.0,2025
-SLC,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,PNR,High,Off,Sean Wilcox,Cuts,N/A,Basket,UNKNOWN,Liberty League,82,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pMa,Dribble Jumper,Eamon Kelly,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,83,2.0,2025
-SLC,Bar,Bard College,Foul,To Basket,Sean Wilcox,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,84,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pMa,To Basket,Braden Burman,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,87,1.0,2025
-SLC,Bar,Bard College,Foul,N/A,Jalen Umstead,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,89,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pMa,Dribble Jumper,Andrew Kim,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,92,4.0,2025
-SLC,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,94,4.0,2025
-SLC,Bar,Bard College,3pmi,Dribble Jumper,Azriel Almodovar,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,95,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pmi,Dribble Jumper,Braden Burman,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,96,3.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pmi,N/A,Braden Burman,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,97,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pmi,Dribble Jumper,Eamon Kelly,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,99,3.0,2025
-SLC,Bar,,Foul,N/A,Sean Wilcox,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,100,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pMa,Dribble Jumper,Andrew Kim,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,103,4.0,2025
-SLC,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,104,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Lemar Fulmore,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,105,1.0,2025
-SLC,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,106,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pmi,Dribble Jumper,Lemar Fulmore,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,107,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Andrew Kim,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,108,1.0,2025
-SLC,Bar,Bard College,2pmi,To Basket,Sean Wilcox,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,109,1.0,2025
-SLC,Bar,Bard College,3pMa,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,111,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Eamon Kelly,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,113,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Braden Burman,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,114,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pMa,To Basket,Lemar Fulmore,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,115,1.0,2025
-SLC,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,116,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Chris Dougherty,Post,Right,Right Shoulder,Andrew Kim,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,117,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pMa,Dribble Jumper,Lemar Fulmore,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,119,4.0,2025
-SLC,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,120,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pmi,Dribble Jumper,Eamon Kelly,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,121,3.0,2025
-SLC,Bar,Bard College,3pmi,No Dribble Jumper,Azriel Almodovar,PNR,High,Off,Laz Panagiotounis,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,123,4.0,2025
-SLC,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,125,4.0,2025
-SLC,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,127,1.0,2025
-SLC,Bar,Bard College,2pMa,Dribble Jumper,Laz Panagiotounis,PNR,High,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,129,2.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Lemar Fulmore,PNR,High,Off,Andrew Kim,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,130,4.0,2025
-SLC,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,131,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Lemar Fulmore,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,132,1.0,2025
-SLC,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,133,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Thomas Matonti,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,135,1.0,2025
-SLC,Bar,Bard College,Turnover,N/A,Lucas Tovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,136,1.0,2025
-SLC,Bar,,Foul,To Basket,Lemar Fulmore,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,137,1.0,2025
-SLC,Bar,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,140,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Thomas Matonti,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,141,4.0,2025
-SLC,Bar,Bard College,Foul,To Basket,Ahmad Rauf,Iso,Right,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,143,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,Foul,To Basket,Lemar Fulmore,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,146,1.0,2025
-SLC,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,149,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pmi,Dribble Jumper,Lemar Fulmore,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,151,4.0,2025
-SLC,Bar,Bard College,3pmi,Dribble Jumper,Joshua Bayne,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,153,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Andrew Kim,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,154,1.0,2025
-SLC,Bar,Bard College,Turnover,N/A,Ahmad Rauf,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,155,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Chris Dougherty,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,156,1.0,2025
-SLC,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Post,Left,Left Shoulder,Jalen Umstead,Spot Ups,Right,Drive,UNKNOWN,Liberty League,157,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pmi,No Dribble Jumper,Eamon Kelly,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,158,3.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Braden Burman,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,160,1.0,2025
-SLC,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,161,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pMa,No Dribble Jumper,Chris Dougherty,Post,Right,Left Shoulder,Braden Burman,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,162,3.0,2025
-SLC,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,163,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Aiden Morel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,164,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pMa,No Dribble Jumper,Braden Burman,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,166,4.0,2025
-SLC,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,167,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,Foul,To Basket,Braden Burman,PNR,Left,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,168,1.0,2025
-SLC,Bar,Bard College,2pmi,To Basket,Seth Dyer,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,171,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Chris Dougherty,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,172,1.0,2025
-SLC,Bar,Bard College,Foul,To Basket,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,173,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Thomas Matonti,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,177,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Lemar Fulmore,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,178,1.0,2025
-SLC,Bar,Bard College,Foul,Dribble Jumper,Laz Panagiotounis,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,180,2.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Lemar Fulmore,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,183,1.0,2025
-SLC,Bar,Bard College,Turnover,N/A,Sean Wilcox,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,184,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Dean Furlong,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,185,1.0,2025
-SLC,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,186,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Lemar Fulmore,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,187,1.0,2025
-SLC,Bar,Bard College,Foul,N/A,Lucas Tovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,188,1.0,2025
-SLC,Bar,Bard College,2pMa,Dribble Jumper,Laz Panagiotounis,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,191,2.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,And1,To Basket,Eamon Kelly,PNR,Left,Off,Braden Burman,P&R Roll Man,N/A,Slips,UNKNOWN,Liberty League,193,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Andrew Kim,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,196,4.0,2025
-SLC,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,197,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Eamon Kelly,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,198,4.0,2025
-SLC,Bar,Bard College,3pmi,Dribble Jumper,Ahmad Rauf,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,199,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pmi,Dribble Jumper,Eamon Kelly,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,200,4.0,2025
-SLC,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,202,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pmi,Dribble Jumper,Braden Burman,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,203,3.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pmi,Dribble Jumper,Lemar Fulmore,PNR,High,Off,Andrew Kim,Spot Ups,Right,Drive,UNKNOWN,Liberty League,205,2.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Lemar Fulmore,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,207,1.0,2025
-SLC,Bar,Bard College,Foul,To Basket,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,208,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Dean Furlong,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,211,4.0,2025
-SLC,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,212,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Lemar Fulmore,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,214,1.0,2025
-SLC,Bar,Bard College,Turnover,N/A,Rowan Heinze,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,215,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Eamon Kelly,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,216,1.0,2025
-SLC,Bar,Bard College,Turnover,N/A,Sean Wilcox,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,217,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Braden Burman,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,218,1.0,2025
-SLC,Bar,Bard College,3pMa,No Dribble Jumper,Rowan Heinze,Iso,Top,N/A,Laz Panagiotounis,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,219,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,Foul,N/A,Lemar Fulmore,PNR,High,Off,Braden Burman,Spot Ups,Right,Drive,UNKNOWN,Liberty League,220,1.0,2025
-SLC,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,223,4.0,2025
-SLC,Bar,Bard College,Foul,To Basket,Azriel Almodovar,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,227,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pMa,To Basket,Eamon Kelly,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,230,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pMa,Dribble Jumper,Lemar Fulmore,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,232,4.0,2025
-SLC,Bar,Bard College,3pmi,No Dribble Jumper,Azriel Almodovar,PNR,High,Off,Rowan Heinze,P&R Roll Man,N/A,Slips,UNKNOWN,Liberty League,233,4.0,2025
-SLC,Bar,Bard College,Foul,To Basket,Ahmad Rauf,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,234,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Andrew Kim,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,237,1.0,2025
-SLC,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,238,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pMa,Dribble Jumper,Braden Burman,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,239,2.0,2025
-SLC,Bar,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,240,4.0,2025
-SLC,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,241,1.0,2025
-SLC,Bar,Bard College,3pmi,No Dribble Jumper,Azriel Almodovar,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,243,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Andrew Kim,PNR,High,Off,Eamon Kelly,Cuts,N/A,Basket,UNKNOWN,Liberty League,244,1.0,2025
-SLC,Bar,Bard College,Foul,To Basket,Rowan Heinze,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,245,1.0,2025
-SLC,Bar,,Foul,N/A,Chris Dougherty,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,248,1.0,2025
-SLC,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,PNR,High,Off,Ahmad Rauf,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,251,4.0,2025
-SLC,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,253,1.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,3pMa,No Dribble Jumper,Andrew Kim,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,254,4.0,2025
-SLC,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,256,1.0,2025
-SLC,Bar,,Foul,N/A,Lemar Fulmore,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,257,1.0,2025
-SLC,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,260,4.0,2025
-SLC,Bar,Bard College,3pMa,Dribble Jumper,Laz Panagiotounis,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,262,4.0,2025
-SLC,Bar,,Foul,N/A,Eamon Kelly,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,263,1.0,2025
-SLC,Bar,Bard College,3pMa,No Dribble Jumper,Azriel Almodovar,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,266,4.0,2025
-SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Eamon Kelly,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,267,1.0,2025
-SLC,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,268,4.0,2025
-SLC,Bar,Bard College,Foul,To Basket,Azriel Almodovar,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,269,1.0,2025
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,SLC,Bar,Sarah Lawrence College Gryphons,Turnover,To Basket,Chris Dougherty,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,1,1.0,2024-11-08
+1,SLC,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,2,1.0,2024-11-08
+2,SLC,Bar,Sarah Lawrence College Gryphons,Foul,Dribble Jumper,Lemar Fulmore,PNR,Left,Off,Eamon Kelly,Spot Ups,Left,Drive,UNKNOWN,Liberty League,3,2.0,2024-11-08
+5,SLC,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,6,1.0,2024-11-08
+6,SLC,Bar,Sarah Lawrence College Gryphons,2pmi,Dribble Jumper,Andrew Kim,PNR,High,Off,Chris Dougherty,P&R Roll Man,Right,Pop,UNKNOWN,Liberty League,7,3.0,2024-11-08
+7,SLC,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,8,4.0,2024-11-08
+8,SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Lemar Fulmore,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,9,1.0,2024-11-08
+9,SLC,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,10,4.0,2024-11-08
+10,SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Andrew Kim,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,11,1.0,2024-11-08
+11,SLC,Bar,Bard College,3pmi,No Dribble Jumper,Azriel Almodovar,Post,Left,Left Shoulder,Laz Panagiotounis,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,12,4.0,2024-11-08
+12,SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Braden Burman,Iso,Right,N/A,Chris Dougherty,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,13,4.0,2024-11-08
+13,SLC,Bar,Bard College,2pmi,To Basket,Sean Wilcox,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,14,1.0,2024-11-08
+14,SLC,Bar,Sarah Lawrence College Gryphons,2pMa,To Basket,Lemar Fulmore,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,15,1.0,2024-11-08
+15,SLC,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,PNR,High,Off,Rowan Heinze,P&R Roll Man,N/A,Pop,UNKNOWN,Liberty League,16,4.0,2024-11-08
+16,SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Chris Dougherty,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,17,1.0,2024-11-08
+18,SLC,Bar,Bard College,2pmi,Dribble Jumper,Laz Panagiotounis,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,19,3.0,2024-11-08
+19,SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Lemar Fulmore,PNR,Left,Off,Eamon Kelly,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,20,4.0,2024-11-08
+20,SLC,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,21,1.0,2024-11-08
+21,SLC,Bar,Bard College,Turnover,N/A,Lucas Tovar,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,22,1.0,2024-11-08
+22,SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,John Kairouz,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,23,1.0,2024-11-08
+23,SLC,Bar,Bard College,Foul,To Basket,Laz Panagiotounis,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,24,1.0,2024-11-08
+26,SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Eamon Kelly,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,27,4.0,2024-11-08
+27,SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Dean Furlong,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,28,1.0,2024-11-08
+29,SLC,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,30,1.0,2024-11-08
+30,SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Lemar Fulmore,PNR,High,Off,Dean Furlong,P&R Roll Man,N/A,Slips,UNKNOWN,Liberty League,31,4.0,2024-11-08
+31,SLC,Bar,Bard College,Foul,To Basket,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,32,1.0,2024-11-08
+34,SLC,Bar,Sarah Lawrence College Gryphons,2pMa,Dribble Jumper,Andrew Kim,PNR,Right,Off,Eamon Kelly,P&R Roll Man,Right,Pop,UNKNOWN,Liberty League,35,3.0,2024-11-08
+35,SLC,Bar,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,36,4.0,2024-11-08
+36,SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Andrew Kim,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,37,1.0,2024-11-08
+37,SLC,Bar,Bard College,3pMa,No Dribble Jumper,Laz Panagiotounis,PNR,High,Away,Sean Wilcox,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,38,4.0,2024-11-08
+38,SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Andrew Kim,PNR,Right,Off,John Kairouz,P&R Roll Man,N/A,Pop,UNKNOWN,Liberty League,39,4.0,2024-11-08
+39,SLC,Bar,Bard College,2pmi,To Basket,Sean Wilcox,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,40,1.0,2024-11-08
+40,SLC,Bar,Bard College,2pMa,To Basket,Sean Wilcox,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,41,1.0,2024-11-08
+41,SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,John Kairouz,Iso,Top,N/A,Anthony Aruffo,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,42,4.0,2024-11-08
+43,SLC,Bar,Sarah Lawrence College Gryphons,Turnover,To Basket,John Kairouz,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,44,1.0,2024-11-08
+44,SLC,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,45,1.0,2024-11-08
+45,SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Dean Furlong,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,46,1.0,2024-11-08
+46,SLC,Bar,Bard College,3pmi,No Dribble Jumper,Azriel Almodovar,PNR,Right,Off,Max Frei,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,47,4.0,2024-11-08
+47,SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Andrew Kim,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,48,1.0,2024-11-08
+48,SLC,Bar,Bard College,3pMa,No Dribble Jumper,Azriel Almodovar,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,49,4.0,2024-11-08
+50,SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Chris Dougherty,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,51,1.0,2024-11-08
+52,SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Kyle Jefferson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,53,4.0,2024-11-08
+54,SLC,Bar,Sarah Lawrence College Gryphons,Foul,To Basket,Lemar Fulmore,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,55,1.0,2024-11-08
+57,SLC,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,58,1.0,2024-11-08
+58,SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Kyle Jefferson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,59,1.0,2024-11-08
+59,SLC,Bar,Bard College,3pMa,No Dribble Jumper,Joshua Bayne,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,60,4.0,2024-11-08
+60,SLC,Bar,Sarah Lawrence College Gryphons,3pMa,No Dribble Jumper,Lemar Fulmore,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,61,4.0,2024-11-08
+61,SLC,Bar,Bard College,Turnover,N/A,Joshua Bayne,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,62,1.0,2024-11-08
+62,SLC,Bar,Sarah Lawrence College Gryphons,3pMa,No Dribble Jumper,Aiden Morel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,63,4.0,2024-11-08
+63,SLC,Bar,Bard College,Turnover,N/A,Rowan Heinze,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,64,1.0,2024-11-08
+64,SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Lemar Fulmore,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,65,1.0,2024-11-08
+65,SLC,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,66,4.0,2024-11-08
+66,SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Andrew Kim,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,67,1.0,2024-11-08
+68,SLC,Bar,Bard College,2pmi,To Basket,Laz Panagiotounis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,69,1.0,2024-11-08
+69,SLC,Bar,Sarah Lawrence College Gryphons,3pMa,No Dribble Jumper,Eamon Kelly,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,70,4.0,2024-11-08
+70,SLC,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,71,1.0,2024-11-08
+71,SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Aiden Morel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,72,4.0,2024-11-08
+72,SLC,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,73,4.0,2024-11-08
+73,SLC,Bar,Bard College,Turnover,N/A,Sean Wilcox,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,74,1.0,2024-11-08
+74,SLC,Bar,Sarah Lawrence College Gryphons,2pMa,To Basket,Lemar Fulmore,PNR,High,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,75,1.0,2024-11-08
+75,SLC,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,76,1.0,2024-11-08
+76,SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Andrew Kim,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,77,4.0,2024-11-08
+78,SLC,Bar,Sarah Lawrence College Gryphons,3pMa,No Dribble Jumper,Eamon Kelly,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,79,4.0,2024-11-08
+79,SLC,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,80,1.0,2024-11-08
+80,SLC,Bar,Sarah Lawrence College Gryphons,3pMa,No Dribble Jumper,Eamon Kelly,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,81,4.0,2024-11-08
+81,SLC,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,PNR,High,Off,Sean Wilcox,Cuts,N/A,Basket,UNKNOWN,Liberty League,82,1.0,2024-11-08
+82,SLC,Bar,Sarah Lawrence College Gryphons,2pMa,Dribble Jumper,Eamon Kelly,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,83,2.0,2024-11-08
+83,SLC,Bar,Bard College,Foul,To Basket,Sean Wilcox,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,84,1.0,2024-11-08
+86,SLC,Bar,Sarah Lawrence College Gryphons,2pMa,To Basket,Braden Burman,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,87,1.0,2024-11-08
+88,SLC,Bar,Bard College,Foul,N/A,Jalen Umstead,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,89,1.0,2024-11-08
+91,SLC,Bar,Sarah Lawrence College Gryphons,3pMa,Dribble Jumper,Andrew Kim,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,92,4.0,2024-11-08
+93,SLC,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,94,4.0,2024-11-08
+94,SLC,Bar,Bard College,3pmi,Dribble Jumper,Azriel Almodovar,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,95,4.0,2024-11-08
+95,SLC,Bar,Sarah Lawrence College Gryphons,2pmi,Dribble Jumper,Braden Burman,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,96,3.0,2024-11-08
+96,SLC,Bar,Sarah Lawrence College Gryphons,2pmi,N/A,Braden Burman,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,97,1.0,2024-11-08
+98,SLC,Bar,Sarah Lawrence College Gryphons,2pmi,Dribble Jumper,Eamon Kelly,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,99,3.0,2024-11-08
+99,SLC,Bar,,Foul,N/A,Sean Wilcox,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,100,1.0,2024-11-08
+102,SLC,Bar,Sarah Lawrence College Gryphons,3pMa,Dribble Jumper,Andrew Kim,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,103,4.0,2024-11-08
+103,SLC,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,104,1.0,2024-11-08
+104,SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Lemar Fulmore,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,105,1.0,2024-11-08
+105,SLC,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,106,1.0,2024-11-08
+106,SLC,Bar,Sarah Lawrence College Gryphons,3pmi,Dribble Jumper,Lemar Fulmore,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,107,4.0,2024-11-08
+107,SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Andrew Kim,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,108,1.0,2024-11-08
+108,SLC,Bar,Bard College,2pmi,To Basket,Sean Wilcox,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,109,1.0,2024-11-08
+110,SLC,Bar,Bard College,3pMa,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,111,4.0,2024-11-08
+112,SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Eamon Kelly,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,113,4.0,2024-11-08
+113,SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Braden Burman,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,114,1.0,2024-11-08
+114,SLC,Bar,Sarah Lawrence College Gryphons,2pMa,To Basket,Lemar Fulmore,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,115,1.0,2024-11-08
+115,SLC,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,116,1.0,2024-11-08
+116,SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Chris Dougherty,Post,Right,Right Shoulder,Andrew Kim,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,117,4.0,2024-11-08
+118,SLC,Bar,Sarah Lawrence College Gryphons,3pMa,Dribble Jumper,Lemar Fulmore,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,119,4.0,2024-11-08
+119,SLC,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,120,4.0,2024-11-08
+120,SLC,Bar,Sarah Lawrence College Gryphons,2pmi,Dribble Jumper,Eamon Kelly,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,121,3.0,2024-11-08
+122,SLC,Bar,Bard College,3pmi,No Dribble Jumper,Azriel Almodovar,PNR,High,Off,Laz Panagiotounis,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,123,4.0,2024-11-08
+124,SLC,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,125,4.0,2024-11-08
+126,SLC,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,127,1.0,2024-11-08
+128,SLC,Bar,Bard College,2pMa,Dribble Jumper,Laz Panagiotounis,PNR,High,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,129,2.0,2024-11-08
+129,SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Lemar Fulmore,PNR,High,Off,Andrew Kim,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,130,4.0,2024-11-08
+130,SLC,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,131,1.0,2024-11-08
+131,SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Lemar Fulmore,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,132,1.0,2024-11-08
+132,SLC,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,133,1.0,2024-11-08
+134,SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Thomas Matonti,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,135,1.0,2024-11-08
+135,SLC,Bar,Bard College,Turnover,N/A,Lucas Tovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,136,1.0,2024-11-08
+136,SLC,Bar,,Foul,To Basket,Lemar Fulmore,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,137,1.0,2024-11-08
+139,SLC,Bar,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,140,4.0,2024-11-08
+140,SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Thomas Matonti,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,141,4.0,2024-11-08
+142,SLC,Bar,Bard College,Foul,To Basket,Ahmad Rauf,Iso,Right,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,143,1.0,2024-11-08
+145,SLC,Bar,Sarah Lawrence College Gryphons,Foul,To Basket,Lemar Fulmore,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,146,1.0,2024-11-08
+148,SLC,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,149,4.0,2024-11-08
+150,SLC,Bar,Sarah Lawrence College Gryphons,3pmi,Dribble Jumper,Lemar Fulmore,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,151,4.0,2024-11-08
+152,SLC,Bar,Bard College,3pmi,Dribble Jumper,Joshua Bayne,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,153,4.0,2024-11-08
+153,SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Andrew Kim,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,154,1.0,2024-11-08
+154,SLC,Bar,Bard College,Turnover,N/A,Ahmad Rauf,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,155,1.0,2024-11-08
+155,SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Chris Dougherty,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,156,1.0,2024-11-08
+156,SLC,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Post,Left,Left Shoulder,Jalen Umstead,Spot Ups,Right,Drive,UNKNOWN,Liberty League,157,1.0,2024-11-08
+157,SLC,Bar,Sarah Lawrence College Gryphons,2pmi,No Dribble Jumper,Eamon Kelly,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,158,3.0,2024-11-08
+159,SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Braden Burman,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,160,1.0,2024-11-08
+160,SLC,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,161,1.0,2024-11-08
+161,SLC,Bar,Sarah Lawrence College Gryphons,2pMa,No Dribble Jumper,Chris Dougherty,Post,Right,Left Shoulder,Braden Burman,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,162,3.0,2024-11-08
+162,SLC,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,163,1.0,2024-11-08
+163,SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Aiden Morel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,164,4.0,2024-11-08
+165,SLC,Bar,Sarah Lawrence College Gryphons,3pMa,No Dribble Jumper,Braden Burman,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,166,4.0,2024-11-08
+166,SLC,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,167,1.0,2024-11-08
+167,SLC,Bar,Sarah Lawrence College Gryphons,Foul,To Basket,Braden Burman,PNR,Left,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,168,1.0,2024-11-08
+170,SLC,Bar,Bard College,2pmi,To Basket,Seth Dyer,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,171,1.0,2024-11-08
+171,SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Chris Dougherty,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,172,1.0,2024-11-08
+172,SLC,Bar,Bard College,Foul,To Basket,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,173,1.0,2024-11-08
+176,SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Thomas Matonti,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,177,4.0,2024-11-08
+177,SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Lemar Fulmore,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,178,1.0,2024-11-08
+179,SLC,Bar,Bard College,Foul,Dribble Jumper,Laz Panagiotounis,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,180,2.0,2024-11-08
+182,SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Lemar Fulmore,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,183,1.0,2024-11-08
+183,SLC,Bar,Bard College,Turnover,N/A,Sean Wilcox,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,184,1.0,2024-11-08
+184,SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Dean Furlong,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,185,1.0,2024-11-08
+185,SLC,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,186,1.0,2024-11-08
+186,SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Lemar Fulmore,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,187,1.0,2024-11-08
+187,SLC,Bar,Bard College,Foul,N/A,Lucas Tovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,188,1.0,2024-11-08
+190,SLC,Bar,Bard College,2pMa,Dribble Jumper,Laz Panagiotounis,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,191,2.0,2024-11-08
+192,SLC,Bar,Sarah Lawrence College Gryphons,And1,To Basket,Eamon Kelly,PNR,Left,Off,Braden Burman,P&R Roll Man,N/A,Slips,UNKNOWN,Liberty League,193,1.0,2024-11-08
+195,SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Andrew Kim,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,196,4.0,2024-11-08
+196,SLC,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,197,4.0,2024-11-08
+197,SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Eamon Kelly,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,198,4.0,2024-11-08
+198,SLC,Bar,Bard College,3pmi,Dribble Jumper,Ahmad Rauf,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,199,4.0,2024-11-08
+199,SLC,Bar,Sarah Lawrence College Gryphons,3pmi,Dribble Jumper,Eamon Kelly,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,200,4.0,2024-11-08
+201,SLC,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,202,1.0,2024-11-08
+202,SLC,Bar,Sarah Lawrence College Gryphons,2pmi,Dribble Jumper,Braden Burman,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,203,3.0,2024-11-08
+204,SLC,Bar,Sarah Lawrence College Gryphons,2pmi,Dribble Jumper,Lemar Fulmore,PNR,High,Off,Andrew Kim,Spot Ups,Right,Drive,UNKNOWN,Liberty League,205,2.0,2024-11-08
+206,SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Lemar Fulmore,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,207,1.0,2024-11-08
+207,SLC,Bar,Bard College,Foul,To Basket,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,208,1.0,2024-11-08
+210,SLC,Bar,Sarah Lawrence College Gryphons,3pmi,No Dribble Jumper,Dean Furlong,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,211,4.0,2024-11-08
+211,SLC,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,212,1.0,2024-11-08
+213,SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Lemar Fulmore,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,214,1.0,2024-11-08
+214,SLC,Bar,Bard College,Turnover,N/A,Rowan Heinze,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,215,1.0,2024-11-08
+215,SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Eamon Kelly,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,216,1.0,2024-11-08
+216,SLC,Bar,Bard College,Turnover,N/A,Sean Wilcox,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,217,1.0,2024-11-08
+217,SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Braden Burman,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,218,1.0,2024-11-08
+218,SLC,Bar,Bard College,3pMa,No Dribble Jumper,Rowan Heinze,Iso,Top,N/A,Laz Panagiotounis,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,219,4.0,2024-11-08
+219,SLC,Bar,Sarah Lawrence College Gryphons,Foul,N/A,Lemar Fulmore,PNR,High,Off,Braden Burman,Spot Ups,Right,Drive,UNKNOWN,Liberty League,220,1.0,2024-11-08
+222,SLC,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,223,4.0,2024-11-08
+226,SLC,Bar,Bard College,Foul,To Basket,Azriel Almodovar,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,227,1.0,2024-11-08
+229,SLC,Bar,Sarah Lawrence College Gryphons,2pMa,To Basket,Eamon Kelly,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,230,1.0,2024-11-08
+231,SLC,Bar,Sarah Lawrence College Gryphons,3pMa,Dribble Jumper,Lemar Fulmore,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,232,4.0,2024-11-08
+232,SLC,Bar,Bard College,3pmi,No Dribble Jumper,Azriel Almodovar,PNR,High,Off,Rowan Heinze,P&R Roll Man,N/A,Slips,UNKNOWN,Liberty League,233,4.0,2024-11-08
+233,SLC,Bar,Bard College,Foul,To Basket,Ahmad Rauf,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,234,1.0,2024-11-08
+236,SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Andrew Kim,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,237,1.0,2024-11-08
+237,SLC,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,238,1.0,2024-11-08
+238,SLC,Bar,Sarah Lawrence College Gryphons,2pMa,Dribble Jumper,Braden Burman,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,239,2.0,2024-11-08
+239,SLC,Bar,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,240,4.0,2024-11-08
+240,SLC,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,241,1.0,2024-11-08
+242,SLC,Bar,Bard College,3pmi,No Dribble Jumper,Azriel Almodovar,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,243,4.0,2024-11-08
+243,SLC,Bar,Sarah Lawrence College Gryphons,2pmi,To Basket,Andrew Kim,PNR,High,Off,Eamon Kelly,Cuts,N/A,Basket,UNKNOWN,Liberty League,244,1.0,2024-11-08
+244,SLC,Bar,Bard College,Foul,To Basket,Rowan Heinze,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,245,1.0,2024-11-08
+247,SLC,Bar,,Foul,N/A,Chris Dougherty,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,248,1.0,2024-11-08
+250,SLC,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,PNR,High,Off,Ahmad Rauf,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,251,4.0,2024-11-08
+252,SLC,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,253,1.0,2024-11-08
+253,SLC,Bar,Sarah Lawrence College Gryphons,3pMa,No Dribble Jumper,Andrew Kim,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,254,4.0,2024-11-08
+255,SLC,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,256,1.0,2024-11-08
+256,SLC,Bar,,Foul,N/A,Lemar Fulmore,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,257,1.0,2024-11-08
+259,SLC,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,260,4.0,2024-11-08
+261,SLC,Bar,Bard College,3pMa,Dribble Jumper,Laz Panagiotounis,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,262,4.0,2024-11-08
+262,SLC,Bar,,Foul,N/A,Eamon Kelly,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,263,1.0,2024-11-08
+265,SLC,Bar,Bard College,3pMa,No Dribble Jumper,Azriel Almodovar,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,266,4.0,2024-11-08
+266,SLC,Bar,Sarah Lawrence College Gryphons,Turnover,N/A,Eamon Kelly,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,267,1.0,2024-11-08
+267,SLC,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,268,4.0,2024-11-08
+268,SLC,Bar,Bard College,Foul,To Basket,Azriel Almodovar,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,269,1.0,2024-11-08

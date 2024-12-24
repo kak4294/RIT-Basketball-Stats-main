@@ -1,8 +1,9 @@
 import os
 import csv
 import pandas as pd
+from csv_to_database import transfer_games_to_db
 
-def split_row_by_team(input_file):
+def split_row_by_team(input_file, team1, team2, date):
     # Configuration
     team1_col_name = 'Team1'
     team2_col_name = 'Team2'
@@ -12,10 +13,13 @@ def split_row_by_team(input_file):
     # Read CSV using pandas
     df = pd.read_csv(input_file)
     
+    df = df[ (df['Date'] == date) & (df['Team1'] == team1) & (df['Team2'] == team2)]
+        
     # Get the column names for writing headers later
     fieldnames = df.columns.tolist()
     
     for _, row in df.iterrows():
+        
         # Finds names of the teams
         team1_name = row[team1_col_name]
         team2_name = row[team2_col_name]
@@ -55,6 +59,7 @@ def split_row_by_team(input_file):
                 
         # Open the team file in append mode for team 1
         if not row_exists(team1_file_path, row_team1_dict):  
+            transfer_games_to_db(row_team1_dict) 
             with open(team1_file_path, 'a', newline='', encoding='utf-8') as team1_file:
                 writer = csv.DictWriter(team1_file, fieldnames=columns)
                 if not file1_exists:
@@ -64,10 +69,11 @@ def split_row_by_team(input_file):
                 writer = csv.DictWriter(all_games_file, fieldnames=columns)
                 if not file_games_exists:
                     writer.writeheader() 
-                writer.writerow(row_team1_dict)   
+                writer.writerow(row_team1_dict)
 
         # Open the team file in append mode for team 2
         if not row_exists(team2_file_path, row_team2_dict):  
+            transfer_games_to_db(row_team2_dict)
             with open(team2_file_path, 'a', newline='', encoding='utf-8') as team2_file:
                 writer = csv.DictWriter(team2_file, fieldnames=columns)
                 if not file2_exists:
@@ -164,8 +170,10 @@ def create_row(team, row: pd.Series, df_columns):
 
                'T2_HaOfPlays', 'T2_HaOf3PA', 'T2_HaOf3PM', 'T2_HaOf3P%', 
                'T2_HaOf2PA', 'T2_HaOf2PM', 'T2_HaOf2P%', 'T2_HaOfMiA', 
-               'T2_HaOfMiM', 'T2_HaOfMi%', 'T2_HaOfEFG%', 'T2_HaOfTO', 'T2_HaOfFouls'
-               ]
+               'T2_HaOfMiM', 'T2_HaOfMi%', 'T2_HaOfEFG%', 'T2_HaOfTO', 'T2_HaOfFouls',
+               
+               'Date'
+            ]
     
     updated_columns = [col.replace('T1', 'O') for col in columns]
     updated_columns = [col.replace('T2', 'D') for col in updated_columns]
@@ -181,6 +189,7 @@ def create_row(team, row: pd.Series, df_columns):
         team_df['Opponent_Pts'] = row['T2Pts']
         team_df['TotalPts'] = row['T1Pts'] + row['T2Pts']
         team_df['Differential'] = row['T1Pts'] - row['T2Pts']
+        team_df['Date'] = row['Date']
         
         for i in range(6, len(df_columns)):
             column_name = df_columns[i]
@@ -200,6 +209,7 @@ def create_row(team, row: pd.Series, df_columns):
     team_df['Opponent_Pts'] = row['T1Pts']
     team_df['TotalPts'] = row['T2Pts'] + row['T1Pts']
     team_df['Differential'] = row['T2Pts'] - row['T1Pts']
+    team_df['Date'] = row['Date']
     
     for i in range(6, len(df_columns)):
         column_name = df_columns[i]

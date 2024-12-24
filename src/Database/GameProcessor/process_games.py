@@ -27,6 +27,7 @@ def update_score(row, new_df, one_or_two, team1, team2):
                     new_df.at[0, 'T1Pts'] += 1
             else:
                 print(f"{team1} vs {team2}: Free Throw at Play #{row['#']} not accounted for.")
+                return True
         elif row['Result'] in ['1 Pts', '0 Pts']:
             if isinstance(row['Synergy Tags'], str):
                 if '3FGM' in row['Synergy Tags']:
@@ -35,6 +36,7 @@ def update_score(row, new_df, one_or_two, team1, team2):
                     new_df.at[0, 'T1Pts'] += 2
             else:
                 print(f"{team1} vs {team2}: And 1 at Play #{row['#']} not accounted for.")
+                return True
     else:
         if row['Result'] == 'Make 2 Pts':
             new_df.at[0, 'T2Pts'] += 2
@@ -46,6 +48,7 @@ def update_score(row, new_df, one_or_two, team1, team2):
                     new_df.at[0, 'T2Pts'] += 1
             else:
                 print(f"{team1} vs {team2}: Free Throw at Play #{row['#']} not accounted for.")
+                return True
         elif row['Result'] in ['1 Pts', '0 Pts']:
             if isinstance(row['Synergy Tags'], str):
                 if '3FGM' in row['Synergy Tags']:
@@ -54,6 +57,8 @@ def update_score(row, new_df, one_or_two, team1, team2):
                     new_df.at[0, 'T2Pts'] += 2
             else:
                 print(f"{team1} vs {team2}: And 1 at Play #{row['#']} not accounted for.")
+                return True
+    return False
 
 def process_game(unprocessed_df: pd.DataFrame, processed_df: pd.DataFrame):
     """
@@ -133,7 +138,12 @@ def process_game(unprocessed_df: pd.DataFrame, processed_df: pd.DataFrame):
 
                'T2_HaOfPlays', 'T2_HaOf3PA', 'T2_HaOf3PM', 'T2_HaOf3P%', 
                'T2_HaOf2PA', 'T2_HaOf2PM', 'T2_HaOf2P%', 'T2_HaOfMiA', 
-               'T2_HaOfMiM', 'T2_HaOfMi%', 'T2_HaOfEFG%', 'T2_HaOfTO', 'T2_HaOfFouls']
+               'T2_HaOfMiM', 'T2_HaOfMi%', 'T2_HaOfEFG%', 'T2_HaOfTO', 'T2_HaOfFouls',
+               
+               'Date'
+            ]
+    
+    processed_df = processed_df.reset_index(drop=True)
 
     # Identify unique teams
     unique_teams = processed_df['OffensivePossession'].unique().tolist()
@@ -147,16 +157,24 @@ def process_game(unprocessed_df: pd.DataFrame, processed_df: pd.DataFrame):
     initial_data = [team1, team2] + [0] * (len(columns) - 2)
     game_df = pd.DataFrame([initial_data], columns=columns)
 
+    play_not_counted = False
+
     for _, row in unprocessed_df.iterrows():
         # Update points
         if team1 == row['Team']: 
-            update_score(row, game_df, 1, team1, team2)
+            not_accounted = update_score(row, game_df, 1, team1, team2)
         else:
-            update_score(row, game_df, 0, team1, team2)
-
+            not_accounted = update_score(row, game_df, 0, team1, team2)
+            
+        if not_accounted:
+            play_not_counted = True
+            
     # Update total points and differential
     game_df.at[0, 'TotalPts'] = game_df.at[0, 'T1Pts'] + game_df.at[0, 'T2Pts']
     game_df.at[0, 'Differential'] = game_df.at[0, 'T1Pts'] - game_df.at[0, 'T2Pts']
+    
+    # Update the date of the game
+    game_df.at[0, 'Date'] = processed_df.at[0, 'Date']
 
     for _, row in processed_df.iterrows():        
         # Flag to check which team to update
@@ -203,8 +221,10 @@ def process_game(unprocessed_df: pd.DataFrame, processed_df: pd.DataFrame):
                 update_handoff(team1_update, row, game_df)
             elif key == 'Transition':  
                 update_transition(team1_update, row, game_df)
-
-    return game_df
+                
+    game_df[game_df.select_dtypes(include=['float']).columns] = game_df.select_dtypes(include=['float']).round(2)
+    
+    return game_df, play_not_counted
 
 def update_pnr(t1vt2, line, df: pd.DataFrame):
     """
@@ -557,7 +577,7 @@ def update_drive(t1vt2, line, df: pd.DataFrame):
     if attempts_two > 0:
         df.at[0, processed_columns[6]] = update_shot_percent(makes_two, attempts_two)
     if attempts_mid > 0:
-        df.at[0, processed_columns[6]] = update_shot_percent(makes_mid, attempts_mid)
+        df.at[0, processed_columns[3]] = update_shot_percent(makes_mid, attempts_mid)
 
 def update_iso(t1vt2, line, df: pd.DataFrame):
     """
@@ -944,10 +964,23 @@ def add_game(csv_file: pd.DataFrame, processed_plays: pd.DataFrame):
         return
 
     # Process stats for the game   
-    game_df = process_game(csv_file, processed_plays)
+    game_df, play_not_counted = process_game(csv_file, processed_plays)
+    game_df.replace("", 0.00, inplace=True)
+    
     if game_df is None:
         print("Error in processing game. Exiting.")
         return
+    
+    return game_df, play_not_counted
+    
+    
+def df_to_csv_file(game_df: pd.DataFrame, t1score, t2score):
+    
+    # Update score statistics if needed... ['Team1', 'Team2', 'T1Pts', 'T2Pts', 'TotalPts', 'Differential']
+    game_df.at[0, 'T1Pts'] = int(t1score)
+    game_df.at[0, 'T2Pts'] = int(t2score)
+    game_df.at[0, 'TotalPts'] = int(t1score) + int(t2score)
+    game_df.at[0, 'Differential'] = int(t1score) - int(t2score)
     
     # Define the CSV path
     csv_path = Path('/Users/kylekrebs/Documents/RIT-Basketball-Stats-main/data/2024_25/cleaned/cleaned_game_csv/unprocessed_games.csv')
@@ -975,3 +1008,4 @@ def add_game(csv_file: pd.DataFrame, processed_plays: pd.DataFrame):
             game_df.to_csv(csv_path, mode='a', header=False, index=False)
         except Exception as e:
             print(f"An error occurred while appending to the CSV file: {e}")
+            

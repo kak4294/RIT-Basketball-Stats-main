@@ -1,145 +1,145 @@
-Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
-RPI,SCD,Rensselaer Polytechnic,And1,To Basket,Chuck Clemons,PNR,High,N/A,Andrew Deppe,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,1,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,2pMa,Dribble Jumper,Isaiah Austin,PNR,High,Off,Kendall Arcuri,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,3,3.0,2025
-RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,4,4.0,2025
-RPI,SCD,SUNY Cortland Dragons,2pmi,Dribble Jumper,Joel Davis,Post,Right,Dribble,Isaiah Austin,Spot Ups,Left,Drive,Liberty League,SUNYAC,5,2.0,2025
-RPI,SCD,Rensselaer Polytechnic,2pMa,Hook Shot,Avery Eugster,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,6,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Kendall Arcuri,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,7,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,PNR,High,Off,Dylan Matchett,Spot Ups,N/A,Shot,Liberty League,SUNYAC,8,4.0,2025
-RPI,SCD,SUNY Cortland Dragons,2pmi,To Basket,Joel Davis,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,9,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,10,4.0,2025
-RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Jaylen Warmack,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,11,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,Foul,To Basket,Andrew Deppe,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,12,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pmi,Dribble Jumper,Isaiah Austin,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,15,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Andrew Deppe,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,16,4.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,PNR,High,Off,Aaron Coston,P&R Roll Man,N/A,Pop,Liberty League,SUNYAC,18,4.0,2025
-RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Kendall Arcuri,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,20,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,21,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,PNR,Left,N/A,Dylan Matchett,Spot Ups,N/A,Shot,Liberty League,SUNYAC,23,4.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pmi,Dribble Jumper,Jaylen Warmack,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,24,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,3pMa,Dribble Jumper,Chuck Clemons,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,25,4.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Gaige Armbrewster,PNR,Left,Off,Kendall Arcuri,Spot Ups,N/A,Shot,Liberty League,SUNYAC,26,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,Foul,To Basket,Pat White,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,27,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Kendall Arcuri,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,30,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,31,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Pat White,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,33,4.0,2025
-RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Gerrad Beaubrun,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,34,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,Turnover,N/A,Nate Tawiah-Boateng,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,35,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,2pmi,Dribble Jumper,Jaylen Warmack,PNR,Right,Away,Aaron Coston,P&R Roll Man,Left,Pop,Liberty League,SUNYAC,36,2.0,2025
-RPI,SCD,SUNY Cortland Dragons,And1,No Dribble Jumper,Gerrad Beaubrun,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,38,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,Turnover,N/A,Avery Eugster,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,40,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,2pMa,To Basket,Jaylen Warmack,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,41,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,Turnover,N/A,Dylan Matchett,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,42,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,2pmi,To Basket,Aaron Coston,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,43,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,2pMa,To Basket,Pat White,PNR,High,N/A,Nate Tawiah-Boateng,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,47,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,TayShaun Hawkins,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,48,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,Foul,To Basket,Yechiel Stewart,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,49,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,2pmi,To Basket,Joel Davis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,52,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,TayShaun Hawkins,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,54,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,Foul,To Basket,Pat White,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,55,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Gaige Armbrewster,PNR,High,Off,TayShaun Hawkins,Spot Ups,N/A,N/A,Liberty League,SUNYAC,58,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,59,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Pierre Hajjar,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,60,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,And1,To Basket,Nate Tawiah-Boateng,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,61,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Joel Davis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,63,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,2pmi,To Basket,Yechiel Stewart,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,64,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,66,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,2pMa,To Basket,PJ Scalisi,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,68,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,2pmi,Dribble Jumper,Isaiah Austin,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,69,3.0,2025
-RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,71,4.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Pierre Hajjar,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,72,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,Turnover,N/A,Yechiel Stewart,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,73,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,2pMa,To Basket,Joel Davis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,74,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,Turnover,N/A,Chuck Clemons,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,75,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Pierre Hajjar,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,76,4.0,2025
-RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Joel Davis,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,78,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,2pMa,To Basket,PJ Scalisi,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,79,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,2pMa,To Basket,Jaylen Warmack,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,80,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,81,4.0,2025
-RPI,SCD,SUNY Cortland Dragons,2pmi,Dribble Jumper,Gerrad Beaubrun,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,82,2.0,2025
-RPI,SCD,SUNY Cortland Dragons,2pmi,Dribble Jumper,Jaylen Warmack,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,84,3.0,2025
-RPI,SCD,Rensselaer Polytechnic,2pMa,To Basket,Chuck Clemons,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,85,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Joel Davis,Post,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,86,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,2pMa,To Basket,Chuck Clemons,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,87,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Aaron Coston,PNR,Right,Off,Isaiah Austin,P&R Roll Man,N/A,Pop,Liberty League,SUNYAC,88,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,2pmi,To Basket,Chuck Clemons,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,89,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Jaylen Warmack,Iso,Top,N/A,Gaige Armbrewster,Spot Ups,N/A,Shot,Liberty League,SUNYAC,91,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,2pmi,To Basket,Dylan Matchett,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,92,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,2pmi,To Basket,Dylan Matchett,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,93,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Jaylen Warmack,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,94,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,2pmi,Dribble Jumper,PJ Scalisi,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,95,3.0,2025
-RPI,SCD,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,97,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,2pmi,Drop Step,Aaron Coston,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,98,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,2pmi,To Basket,Aaron Coston,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,99,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,100,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Aaron Coston,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,101,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,PNR,High,Off,Avery Eugster,Spot Ups,N/A,Shot,Liberty League,SUNYAC,102,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,Foul,N/A,Chuck Clemons,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,103,2.0,2025
-RPI,SCD,SUNY Cortland Dragons,2pMa,To Basket,Aaron Coston,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,107,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,108,4.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Jaylen Warmack,PNR,Left,Off,Joel Davis,P&R Roll Man,N/A,Pop,Liberty League,SUNYAC,109,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,Turnover,N/A,PJ Scalisi,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,110,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,2pmi,Dribble Jumper,Jaylen Warmack,PNR,Right,Off,Aaron Coston,P&R Roll Man,Left,Pop,Liberty League,SUNYAC,111,2.0,2025
-RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Joel Davis,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,112,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,113,4.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Kendall Arcuri,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,114,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,116,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,2pmi,To Basket,Kendall Arcuri,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,117,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pmi,N/A,Isaiah Austin,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,118,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,Turnover,To Basket,Avery Eugster,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,119,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Aaron Coston,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,121,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,122,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,124,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,125,4.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Gaige Armbrewster,PNR,Right,N/A,Aaron Coston,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,126,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,2pmi,Dribble Jumper,Yechiel Stewart,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,128,3.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Gaige Armbrewster,PNR,Left,Off,Joel Davis,P&R Roll Man,N/A,Pop,Liberty League,SUNYAC,129,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,PNR,High,Off,PJ Scalisi,Spot Ups,N/A,Shot,Liberty League,SUNYAC,130,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,2pmi,To Basket,Yechiel Stewart,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,134,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,2pMa,To Basket,Yechiel Stewart,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,135,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,Foul,To Basket,Aaron Coston,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,137,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,2pmi,Dribble Jumper,Dylan Matchett,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,140,2.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,PNR,Right,N/A,Aaron Coston,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,141,4.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Aaron Coston,Post,Right,Right Shoulder,Kendall Arcuri,Spot Ups,N/A,Shot,Liberty League,SUNYAC,143,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,144,4.0,2025
-RPI,SCD,SUNY Cortland Dragons,2pmi,To Basket,Aaron Coston,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,146,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Dylan Matchett,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,147,4.0,2025
-RPI,SCD,SUNY Cortland Dragons,2pMa,To Basket,Kendall Arcuri,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,148,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Pat White,PNR,High,N/A,Dylan Matchett,Spot Ups,N/A,Shot,Liberty League,SUNYAC,149,4.0,2025
-RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Aaron Coston,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,150,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,Turnover,N/A,Dylan Matchett,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,151,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Kendall Arcuri,Iso,Right,N/A,Joel Davis,Spot Ups,N/A,Shot,Liberty League,SUNYAC,152,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,2pmi,To Basket,Pat White,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,153,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,2pmi,To Basket,Jaylen Warmack,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,155,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,PNR,High,Off,Yechiel Stewart,Spot Ups,N/A,Shot,Liberty League,SUNYAC,156,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,Foul,To Basket,Yechiel Stewart,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,158,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,2pmi,To Basket,Aaron Coston,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,161,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,2pmi,Dribble Jumper,Yechiel Stewart,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,163,2.0,2025
-RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Joel Davis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,164,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Andrew Deppe,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,165,4.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,PNR,High,Off,Joel Davis,Spot Ups,N/A,Shot,Liberty League,SUNYAC,166,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,168,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,169,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,2pmi,To Basket,Chuck Clemons,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,172,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Gerrad Beaubrun,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,173,4.0,2025
-RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Aaron Coston,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,175,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,Turnover,N/A,Dylan Matchett,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,178,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,Foul,N/A,Kendall Arcuri,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,179,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,2pMa,To Basket,Aaron Coston,PNR,Right,Off,Joel Davis,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,182,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,183,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,Turnover,To Basket,PJ Scalisi,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,185,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,Foul,N/A,Aaron Coston,Post,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,187,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,Foul,To Basket,Avery Eugster,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,190,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,PNR,Left,Off,Aaron Coston,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,193,4.0,2025
-RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Aaron Coston,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,195,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,Turnover,N/A,Dylan Matchett,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,196,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,Turnover,To Basket,Kendall Arcuri,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,200,1.0,2025
-RPI,SCD,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,201,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pmi,Dribble Jumper,Kendall Arcuri,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,203,4.0,2025
-RPI,SCD,Rensselaer Polytechnic,2pmi,To Basket,Chuck Clemons,PNR,High,Off,PJ Scalisi,Spot Ups,Right,Drive,Liberty League,SUNYAC,204,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pmi,Dribble Jumper,TayShaun Hawkins,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,205,4.0,2025
-RPI,SCD,,Foul,N/A,PJ Scalisi,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,206,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Joel Davis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,209,1.0,2025
-RPI,SCD,,Foul,N/A,Chuck Clemons,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,210,1.0,2025
-RPI,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Kendall Arcuri,PNR,High,Off,Aaron Coston,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,213,4.0,2025
-RPI,SCD,,Foul,N/A,Dylan Matchett,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,214,1.0,2025
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,RPI,SCD,Rensselaer Polytechnic,And1,To Basket,Chuck Clemons,PNR,High,N/A,Andrew Deppe,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,1,1.0,2024-11-08
+2,RPI,SCD,SUNY Cortland Dragons,2pMa,Dribble Jumper,Isaiah Austin,PNR,High,Off,Kendall Arcuri,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,3,3.0,2024-11-08
+3,RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,4,4.0,2024-11-08
+4,RPI,SCD,SUNY Cortland Dragons,2pmi,Dribble Jumper,Joel Davis,Post,Right,Dribble,Isaiah Austin,Spot Ups,Left,Drive,Liberty League,SUNYAC,5,2.0,2024-11-08
+5,RPI,SCD,Rensselaer Polytechnic,2pMa,Hook Shot,Avery Eugster,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,6,1.0,2024-11-08
+6,RPI,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Kendall Arcuri,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,7,4.0,2024-11-08
+7,RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,PNR,High,Off,Dylan Matchett,Spot Ups,N/A,Shot,Liberty League,SUNYAC,8,4.0,2024-11-08
+8,RPI,SCD,SUNY Cortland Dragons,2pmi,To Basket,Joel Davis,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,9,1.0,2024-11-08
+9,RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,10,4.0,2024-11-08
+10,RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Jaylen Warmack,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,11,1.0,2024-11-08
+11,RPI,SCD,Rensselaer Polytechnic,Foul,To Basket,Andrew Deppe,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,12,1.0,2024-11-08
+14,RPI,SCD,SUNY Cortland Dragons,3pmi,Dribble Jumper,Isaiah Austin,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,15,4.0,2024-11-08
+15,RPI,SCD,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Andrew Deppe,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,16,4.0,2024-11-08
+17,RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,PNR,High,Off,Aaron Coston,P&R Roll Man,N/A,Pop,Liberty League,SUNYAC,18,4.0,2024-11-08
+19,RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Kendall Arcuri,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,20,1.0,2024-11-08
+20,RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,21,4.0,2024-11-08
+22,RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,PNR,Left,N/A,Dylan Matchett,Spot Ups,N/A,Shot,Liberty League,SUNYAC,23,4.0,2024-11-08
+23,RPI,SCD,SUNY Cortland Dragons,3pmi,Dribble Jumper,Jaylen Warmack,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,24,4.0,2024-11-08
+24,RPI,SCD,Rensselaer Polytechnic,3pMa,Dribble Jumper,Chuck Clemons,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,25,4.0,2024-11-08
+25,RPI,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Gaige Armbrewster,PNR,Left,Off,Kendall Arcuri,Spot Ups,N/A,Shot,Liberty League,SUNYAC,26,4.0,2024-11-08
+26,RPI,SCD,Rensselaer Polytechnic,Foul,To Basket,Pat White,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,27,1.0,2024-11-08
+29,RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Kendall Arcuri,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,30,1.0,2024-11-08
+30,RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,31,4.0,2024-11-08
+32,RPI,SCD,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Pat White,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,33,4.0,2024-11-08
+33,RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Gerrad Beaubrun,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,34,1.0,2024-11-08
+34,RPI,SCD,Rensselaer Polytechnic,Turnover,N/A,Nate Tawiah-Boateng,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,35,1.0,2024-11-08
+35,RPI,SCD,SUNY Cortland Dragons,2pmi,Dribble Jumper,Jaylen Warmack,PNR,Right,Away,Aaron Coston,P&R Roll Man,Left,Pop,Liberty League,SUNYAC,36,2.0,2024-11-08
+37,RPI,SCD,SUNY Cortland Dragons,And1,No Dribble Jumper,Gerrad Beaubrun,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,38,4.0,2024-11-08
+39,RPI,SCD,Rensselaer Polytechnic,Turnover,N/A,Avery Eugster,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,40,1.0,2024-11-08
+40,RPI,SCD,SUNY Cortland Dragons,2pMa,To Basket,Jaylen Warmack,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,41,1.0,2024-11-08
+41,RPI,SCD,Rensselaer Polytechnic,Turnover,N/A,Dylan Matchett,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,42,1.0,2024-11-08
+42,RPI,SCD,SUNY Cortland Dragons,2pmi,To Basket,Aaron Coston,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,43,1.0,2024-11-08
+46,RPI,SCD,Rensselaer Polytechnic,2pMa,To Basket,Pat White,PNR,High,N/A,Nate Tawiah-Boateng,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,47,1.0,2024-11-08
+47,RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,TayShaun Hawkins,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,48,4.0,2024-11-08
+48,RPI,SCD,Rensselaer Polytechnic,Foul,To Basket,Yechiel Stewart,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,49,1.0,2024-11-08
+51,RPI,SCD,SUNY Cortland Dragons,2pmi,To Basket,Joel Davis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,52,1.0,2024-11-08
+53,RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,TayShaun Hawkins,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,54,1.0,2024-11-08
+54,RPI,SCD,Rensselaer Polytechnic,Foul,To Basket,Pat White,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,55,1.0,2024-11-08
+57,RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Gaige Armbrewster,PNR,High,Off,TayShaun Hawkins,Spot Ups,N/A,N/A,Liberty League,SUNYAC,58,1.0,2024-11-08
+58,RPI,SCD,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,59,1.0,2024-11-08
+59,RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Pierre Hajjar,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,60,4.0,2024-11-08
+60,RPI,SCD,Rensselaer Polytechnic,And1,To Basket,Nate Tawiah-Boateng,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,61,1.0,2024-11-08
+62,RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Joel Davis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,63,1.0,2024-11-08
+63,RPI,SCD,Rensselaer Polytechnic,2pmi,To Basket,Yechiel Stewart,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,64,1.0,2024-11-08
+65,RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,66,4.0,2024-11-08
+67,RPI,SCD,Rensselaer Polytechnic,2pMa,To Basket,PJ Scalisi,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,68,1.0,2024-11-08
+68,RPI,SCD,SUNY Cortland Dragons,2pmi,Dribble Jumper,Isaiah Austin,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,69,3.0,2024-11-08
+70,RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,71,4.0,2024-11-08
+71,RPI,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Pierre Hajjar,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,72,4.0,2024-11-08
+72,RPI,SCD,Rensselaer Polytechnic,Turnover,N/A,Yechiel Stewart,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,73,1.0,2024-11-08
+73,RPI,SCD,SUNY Cortland Dragons,2pMa,To Basket,Joel Davis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,74,1.0,2024-11-08
+74,RPI,SCD,Rensselaer Polytechnic,Turnover,N/A,Chuck Clemons,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,75,1.0,2024-11-08
+75,RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Pierre Hajjar,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,76,4.0,2024-11-08
+77,RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Joel Davis,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,78,1.0,2024-11-08
+78,RPI,SCD,Rensselaer Polytechnic,2pMa,To Basket,PJ Scalisi,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,79,1.0,2024-11-08
+79,RPI,SCD,SUNY Cortland Dragons,2pMa,To Basket,Jaylen Warmack,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,80,1.0,2024-11-08
+80,RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,81,4.0,2024-11-08
+81,RPI,SCD,SUNY Cortland Dragons,2pmi,Dribble Jumper,Gerrad Beaubrun,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,82,2.0,2024-11-08
+83,RPI,SCD,SUNY Cortland Dragons,2pmi,Dribble Jumper,Jaylen Warmack,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,84,3.0,2024-11-08
+84,RPI,SCD,Rensselaer Polytechnic,2pMa,To Basket,Chuck Clemons,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,85,1.0,2024-11-08
+85,RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Joel Davis,Post,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,86,1.0,2024-11-08
+86,RPI,SCD,Rensselaer Polytechnic,2pMa,To Basket,Chuck Clemons,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,87,1.0,2024-11-08
+87,RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Aaron Coston,PNR,Right,Off,Isaiah Austin,P&R Roll Man,N/A,Pop,Liberty League,SUNYAC,88,4.0,2024-11-08
+88,RPI,SCD,Rensselaer Polytechnic,2pmi,To Basket,Chuck Clemons,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,89,1.0,2024-11-08
+90,RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Jaylen Warmack,Iso,Top,N/A,Gaige Armbrewster,Spot Ups,N/A,Shot,Liberty League,SUNYAC,91,4.0,2024-11-08
+91,RPI,SCD,Rensselaer Polytechnic,2pmi,To Basket,Dylan Matchett,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,92,1.0,2024-11-08
+92,RPI,SCD,Rensselaer Polytechnic,2pmi,To Basket,Dylan Matchett,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,93,1.0,2024-11-08
+93,RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Jaylen Warmack,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,94,4.0,2024-11-08
+94,RPI,SCD,Rensselaer Polytechnic,2pmi,Dribble Jumper,PJ Scalisi,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,95,3.0,2024-11-08
+96,RPI,SCD,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,97,1.0,2024-11-08
+97,RPI,SCD,SUNY Cortland Dragons,2pmi,Drop Step,Aaron Coston,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,98,1.0,2024-11-08
+98,RPI,SCD,SUNY Cortland Dragons,2pmi,To Basket,Aaron Coston,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,99,1.0,2024-11-08
+99,RPI,SCD,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,100,1.0,2024-11-08
+100,RPI,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Aaron Coston,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,101,4.0,2024-11-08
+101,RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,PNR,High,Off,Avery Eugster,Spot Ups,N/A,Shot,Liberty League,SUNYAC,102,4.0,2024-11-08
+102,RPI,SCD,Rensselaer Polytechnic,Foul,N/A,Chuck Clemons,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,103,2.0,2024-11-08
+106,RPI,SCD,SUNY Cortland Dragons,2pMa,To Basket,Aaron Coston,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,107,1.0,2024-11-08
+107,RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,108,4.0,2024-11-08
+108,RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Jaylen Warmack,PNR,Left,Off,Joel Davis,P&R Roll Man,N/A,Pop,Liberty League,SUNYAC,109,4.0,2024-11-08
+109,RPI,SCD,Rensselaer Polytechnic,Turnover,N/A,PJ Scalisi,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,110,1.0,2024-11-08
+110,RPI,SCD,SUNY Cortland Dragons,2pmi,Dribble Jumper,Jaylen Warmack,PNR,Right,Off,Aaron Coston,P&R Roll Man,Left,Pop,Liberty League,SUNYAC,111,2.0,2024-11-08
+111,RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Joel Davis,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,112,1.0,2024-11-08
+112,RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,113,4.0,2024-11-08
+113,RPI,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Kendall Arcuri,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,114,4.0,2024-11-08
+115,RPI,SCD,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,116,1.0,2024-11-08
+116,RPI,SCD,SUNY Cortland Dragons,2pmi,To Basket,Kendall Arcuri,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,117,1.0,2024-11-08
+117,RPI,SCD,SUNY Cortland Dragons,3pmi,N/A,Isaiah Austin,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,118,4.0,2024-11-08
+118,RPI,SCD,Rensselaer Polytechnic,Turnover,To Basket,Avery Eugster,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,119,1.0,2024-11-08
+120,RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Aaron Coston,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,121,1.0,2024-11-08
+121,RPI,SCD,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,122,1.0,2024-11-08
+123,RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,124,4.0,2024-11-08
+124,RPI,SCD,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,125,4.0,2024-11-08
+125,RPI,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Gaige Armbrewster,PNR,Right,N/A,Aaron Coston,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,126,4.0,2024-11-08
+127,RPI,SCD,Rensselaer Polytechnic,2pmi,Dribble Jumper,Yechiel Stewart,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,128,3.0,2024-11-08
+128,RPI,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Gaige Armbrewster,PNR,Left,Off,Joel Davis,P&R Roll Man,N/A,Pop,Liberty League,SUNYAC,129,4.0,2024-11-08
+129,RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,PNR,High,Off,PJ Scalisi,Spot Ups,N/A,Shot,Liberty League,SUNYAC,130,4.0,2024-11-08
+133,RPI,SCD,Rensselaer Polytechnic,2pmi,To Basket,Yechiel Stewart,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,134,1.0,2024-11-08
+134,RPI,SCD,Rensselaer Polytechnic,2pMa,To Basket,Yechiel Stewart,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,135,1.0,2024-11-08
+136,RPI,SCD,SUNY Cortland Dragons,Foul,To Basket,Aaron Coston,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,137,1.0,2024-11-08
+139,RPI,SCD,Rensselaer Polytechnic,2pmi,Dribble Jumper,Dylan Matchett,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,140,2.0,2024-11-08
+140,RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,PNR,Right,N/A,Aaron Coston,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,141,4.0,2024-11-08
+142,RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Aaron Coston,Post,Right,Right Shoulder,Kendall Arcuri,Spot Ups,N/A,Shot,Liberty League,SUNYAC,143,4.0,2024-11-08
+143,RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,144,4.0,2024-11-08
+145,RPI,SCD,SUNY Cortland Dragons,2pmi,To Basket,Aaron Coston,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,146,1.0,2024-11-08
+146,RPI,SCD,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Dylan Matchett,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,147,4.0,2024-11-08
+147,RPI,SCD,SUNY Cortland Dragons,2pMa,To Basket,Kendall Arcuri,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,148,1.0,2024-11-08
+148,RPI,SCD,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Pat White,PNR,High,N/A,Dylan Matchett,Spot Ups,N/A,Shot,Liberty League,SUNYAC,149,4.0,2024-11-08
+149,RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Aaron Coston,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,150,1.0,2024-11-08
+150,RPI,SCD,Rensselaer Polytechnic,Turnover,N/A,Dylan Matchett,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,151,1.0,2024-11-08
+151,RPI,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Kendall Arcuri,Iso,Right,N/A,Joel Davis,Spot Ups,N/A,Shot,Liberty League,SUNYAC,152,4.0,2024-11-08
+152,RPI,SCD,Rensselaer Polytechnic,2pmi,To Basket,Pat White,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,153,1.0,2024-11-08
+154,RPI,SCD,SUNY Cortland Dragons,2pmi,To Basket,Jaylen Warmack,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,155,1.0,2024-11-08
+155,RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,PNR,High,Off,Yechiel Stewart,Spot Ups,N/A,Shot,Liberty League,SUNYAC,156,4.0,2024-11-08
+157,RPI,SCD,Rensselaer Polytechnic,Foul,To Basket,Yechiel Stewart,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,158,1.0,2024-11-08
+160,RPI,SCD,SUNY Cortland Dragons,2pmi,To Basket,Aaron Coston,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,161,1.0,2024-11-08
+162,RPI,SCD,Rensselaer Polytechnic,2pmi,Dribble Jumper,Yechiel Stewart,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,163,2.0,2024-11-08
+163,RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Joel Davis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,164,1.0,2024-11-08
+164,RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Andrew Deppe,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,165,4.0,2024-11-08
+165,RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,PNR,High,Off,Joel Davis,Spot Ups,N/A,Shot,Liberty League,SUNYAC,166,4.0,2024-11-08
+167,RPI,SCD,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,168,1.0,2024-11-08
+168,RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,169,4.0,2024-11-08
+171,RPI,SCD,Rensselaer Polytechnic,2pmi,To Basket,Chuck Clemons,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,172,1.0,2024-11-08
+172,RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Gerrad Beaubrun,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,173,4.0,2024-11-08
+174,RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Aaron Coston,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,175,1.0,2024-11-08
+177,RPI,SCD,Rensselaer Polytechnic,Turnover,N/A,Dylan Matchett,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,178,1.0,2024-11-08
+178,RPI,SCD,SUNY Cortland Dragons,Foul,N/A,Kendall Arcuri,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,179,1.0,2024-11-08
+181,RPI,SCD,SUNY Cortland Dragons,2pMa,To Basket,Aaron Coston,PNR,Right,Off,Joel Davis,P&R Roll Man,N/A,Roll,Liberty League,SUNYAC,182,1.0,2024-11-08
+182,RPI,SCD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,183,4.0,2024-11-08
+184,RPI,SCD,Rensselaer Polytechnic,Turnover,To Basket,PJ Scalisi,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,185,1.0,2024-11-08
+186,RPI,SCD,SUNY Cortland Dragons,Foul,N/A,Aaron Coston,Post,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,187,1.0,2024-11-08
+189,RPI,SCD,Rensselaer Polytechnic,Foul,To Basket,Avery Eugster,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,190,1.0,2024-11-08
+192,RPI,SCD,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,PNR,Left,Off,Aaron Coston,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,193,4.0,2024-11-08
+194,RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Aaron Coston,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,195,1.0,2024-11-08
+195,RPI,SCD,Rensselaer Polytechnic,Turnover,N/A,Dylan Matchett,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,196,1.0,2024-11-08
+199,RPI,SCD,SUNY Cortland Dragons,Turnover,To Basket,Kendall Arcuri,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,200,1.0,2024-11-08
+200,RPI,SCD,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,201,1.0,2024-11-08
+202,RPI,SCD,SUNY Cortland Dragons,3pmi,Dribble Jumper,Kendall Arcuri,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,203,4.0,2024-11-08
+203,RPI,SCD,Rensselaer Polytechnic,2pmi,To Basket,Chuck Clemons,PNR,High,Off,PJ Scalisi,Spot Ups,Right,Drive,Liberty League,SUNYAC,204,1.0,2024-11-08
+204,RPI,SCD,SUNY Cortland Dragons,3pmi,Dribble Jumper,TayShaun Hawkins,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,205,4.0,2024-11-08
+205,RPI,SCD,,Foul,N/A,PJ Scalisi,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,206,1.0,2024-11-08
+208,RPI,SCD,SUNY Cortland Dragons,Turnover,N/A,Joel Davis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,209,1.0,2024-11-08
+209,RPI,SCD,,Foul,N/A,Chuck Clemons,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,210,1.0,2024-11-08
+212,RPI,SCD,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Kendall Arcuri,PNR,High,Off,Aaron Coston,P&R Roll Man,N/A,Slips,Liberty League,SUNYAC,213,4.0,2024-11-08
+213,RPI,SCD,,Foul,N/A,Dylan Matchett,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,SUNYAC,214,1.0,2024-11-08

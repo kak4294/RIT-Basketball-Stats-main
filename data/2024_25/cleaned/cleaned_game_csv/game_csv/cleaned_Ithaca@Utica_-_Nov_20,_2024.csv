@@ -1,163 +1,163 @@
-Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
-UTI,IC,Utica,2pMa,To Basket,Seidina Doukoure,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,1,1.0,2025
-UTI,IC,Ithaca College,2pmi,Dribble Jumper,Jaylon O'Neal,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,2,3.0,2025
-UTI,IC,Utica,3pmi,No Dribble Jumper,Hagen Foley,PNR,Right,Away,Dayion Thompson,Spot Ups,N/A,Shot,Empire 8,Liberty League,3,4.0,2025
-UTI,IC,Utica,2pmi,To Basket,Seidina Doukoure,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,4,1.0,2025
-UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Laurence Brady,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,5,4.0,2025
-UTI,IC,Ithaca College,2pmi,To Basket,Chris Leysath,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,7,1.0,2025
-UTI,IC,Utica,3pMa,No Dribble Jumper,Hagen Foley,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Empire 8,Liberty League,8,4.0,2025
-UTI,IC,Ithaca College,Foul,To Basket,Evan Cabral,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,9,1.0,2025
-UTI,IC,Utica,2pmi,No Dribble Jumper,Damien Call,Post,Left,Left Shoulder,Dayion Thompson,Spot Ups,N/A,Shot,Empire 8,Liberty League,12,3.0,2025
-UTI,IC,Ithaca College,Foul,To Basket,Jaylon O'Neal,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,13,1.0,2025
-UTI,IC,Utica,2pMa,To Basket,Hagen Foley,PNR,High,Off,Damien Call,Cuts,N/A,Screen,Empire 8,Liberty League,16,1.0,2025
-UTI,IC,Ithaca College,2pmi,To Basket,Jaylon O'Neal,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,17,1.0,2025
-UTI,IC,Utica,2pMa,To Basket,Damien Call,Post,Right,N/A,Levi Spina,Spot Ups,Left,Drive,Empire 8,Liberty League,18,1.0,2025
-UTI,IC,Ithaca College,Turnover,N/A,Evan Cabral,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,19,1.0,2025
-UTI,IC,Utica,Turnover,N/A,Damien Call,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,21,1.0,2025
-UTI,IC,Ithaca College,3pMa,No Dribble Jumper,Evan Cabral,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,22,4.0,2025
-UTI,IC,Utica,And1,To Basket,Levi Spina,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,23,1.0,2025
-UTI,IC,Ithaca College,Turnover,N/A,Jaylon O'Neal,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,25,1.0,2025
-UTI,IC,Utica,Turnover,N/A,Hagen Foley,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Empire 8,Liberty League,26,1.0,2025
-UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,27,4.0,2025
-UTI,IC,Ithaca College,Foul,To Basket,Jaylon O'Neal,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,28,1.0,2025
-UTI,IC,Utica,2pMa,To Basket,Isaiah Smith,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,31,1.0,2025
-UTI,IC,Ithaca College,3pMa,No Dribble Jumper,Cole Wissink,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,32,4.0,2025
-UTI,IC,Utica,3pMa,No Dribble Jumper,Levi Spina,PNR,High,Off,Hagen Foley,Spot Ups,N/A,Shot,Empire 8,Liberty League,33,4.0,2025
-UTI,IC,Ithaca College,Turnover,N/A,Cole Wissink,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,34,1.0,2025
-UTI,IC,Utica,2pmi,To Basket,Levi Spina,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,35,1.0,2025
-UTI,IC,Utica,3pmi,No Dribble Jumper,Hagen Foley,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,37,4.0,2025
-UTI,IC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,38,4.0,2025
-UTI,IC,Utica,3pMa,No Dribble Jumper,Damien Call,Post,Left,N/A,Hagen Foley,Spot Ups,N/A,Shot,Empire 8,Liberty League,40,4.0,2025
-UTI,IC,Ithaca College,2pMa,To Basket,Logan Wendell,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,41,1.0,2025
-UTI,IC,Utica,3pMa,No Dribble Jumper,Hagen Foley,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Empire 8,Liberty League,42,4.0,2025
-UTI,IC,Ithaca College,3pmi,Dribble Jumper,Aidan Holmes,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,44,4.0,2025
-UTI,IC,Utica,Foul,To Basket,Liam Teague,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Empire 8,Liberty League,45,1.0,2025
-UTI,IC,Ithaca College,3pMa,No Dribble Jumper,Jose Padilla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,48,4.0,2025
-UTI,IC,Utica,2pmi,To Basket,Seidina Doukoure,Iso,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,49,1.0,2025
-UTI,IC,Utica,And1,To Basket,Seidina Doukoure,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,50,1.0,2025
-UTI,IC,Ithaca College,Turnover,N/A,Jose Padilla,PNR,Left,Off,Aidan Holmes,Spot Ups,Right,Drive,Empire 8,Liberty League,52,1.0,2025
-UTI,IC,Utica,Turnover,N/A,Ethan Rivers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,53,1.0,2025
-UTI,IC,Ithaca College,2pMa,To Basket,Aidan Holmes,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,54,1.0,2025
-UTI,IC,Utica,2pmi,To Basket,Ethan Rivers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,56,1.0,2025
-UTI,IC,Utica,2pmi,To Basket,Seidina Doukoure,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,57,1.0,2025
-UTI,IC,Utica,Turnover,N/A,Seidina Doukoure,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,58,1.0,2025
-UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Thomas Mckiernan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,59,4.0,2025
-UTI,IC,Utica,Foul,To Basket,Dayion Thompson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,60,1.0,2025
-UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Jose Padilla,PNR,Right,Off,Evan Cabral,Spot Ups,N/A,Shot,Empire 8,Liberty League,63,4.0,2025
-UTI,IC,Utica,2pmi,To Basket,Liam Teague,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,64,1.0,2025
-UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Jose Padilla,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,65,4.0,2025
-UTI,IC,Utica,2pmi,To Basket,Jordan Cain,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,66,1.0,2025
-UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Thomas Mckiernan,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,68,4.0,2025
-UTI,IC,Utica,3pMa,Dribble Jumper,Hagen Foley,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,69,4.0,2025
-UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,70,4.0,2025
-UTI,IC,Ithaca College,2pmi,To Basket,Chris Leysath,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,71,1.0,2025
-UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Laurence Brady,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,73,4.0,2025
-UTI,IC,,Foul,N/A,Hagen Foley,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,74,1.0,2025
-UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Thomas Mckiernan,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,76,4.0,2025
-UTI,IC,Utica,2pmi,To Basket,Dayion Thompson,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,77,1.0,2025
-UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Thomas Mckiernan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,78,4.0,2025
-UTI,IC,Utica,2pmi,To Basket,Seidina Doukoure,PNR,High,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,79,1.0,2025
-UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Thomas Mckiernan,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Empire 8,Liberty League,80,4.0,2025
-UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,82,4.0,2025
-UTI,IC,Utica,3pMa,No Dribble Jumper,Hagen Foley,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,83,4.0,2025
-UTI,IC,Ithaca College,2pMa,To Basket,Chris Leysath,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,85,1.0,2025
-UTI,IC,Utica,2pmi,To Basket,Seidina Doukoure,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,86,1.0,2025
-UTI,IC,Utica,Foul,To Basket,Seidina Doukoure,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,87,1.0,2025
-UTI,IC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,PNR,High,Off,Cole Wissink,Spot Ups,N/A,Shot,Empire 8,Liberty League,90,4.0,2025
-UTI,IC,Utica,3pmi,No Dribble Jumper,Hagen Foley,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,91,4.0,2025
-UTI,IC,Ithaca College,Foul,N/A,Evan Cabral,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,92,1.0,2025
-UTI,IC,Utica,3pMa,No Dribble Jumper,Isaiah Smith,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,95,4.0,2025
-UTI,IC,Ithaca College,2pMa,To Basket,Chris Leysath,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,96,1.0,2025
-UTI,IC,Utica,2pmi,To Basket,Damien Call,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,97,1.0,2025
-UTI,IC,Utica,2pMa,To Basket,Damien Call,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,98,1.0,2025
-UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,99,4.0,2025
-UTI,IC,Utica,3pMa,No Dribble Jumper,Liam Teague,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,100,4.0,2025
-UTI,IC,Ithaca College,2pmi,To Basket,Evan Cabral,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,101,1.0,2025
-UTI,IC,Utica,3pmi,No Dribble Jumper,Hagen Foley,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,102,4.0,2025
-UTI,IC,,Foul,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,105,1.0,2025
-UTI,IC,Utica,2pMa,To Basket,Hagen Foley,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,108,1.0,2025
-UTI,IC,Ithaca College,2pmi,To Basket,Chris Leysath,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,109,1.0,2025
-UTI,IC,Ithaca College,2pMa,To Basket,Chris Leysath,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,110,1.0,2025
-UTI,IC,Utica,2pmi,To Basket,Dayion Thompson,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,111,1.0,2025
-UTI,IC,Ithaca College,2pmi,To Basket,Aidan Holmes,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,112,1.0,2025
-UTI,IC,Utica,3pmi,No Dribble Jumper,Hagen Foley,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,113,4.0,2025
-UTI,IC,Utica,Foul,To Basket,Damien Call,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,114,1.0,2025
-UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,PNR,High,Off,Aidan Holmes,Spot Ups,N/A,Shot,Empire 8,Liberty League,117,4.0,2025
-UTI,IC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,119,4.0,2025
-UTI,IC,Utica,3pmi,No Dribble Jumper,Jordan Cain,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,120,4.0,2025
-UTI,IC,Ithaca College,3pMa,Dribble Jumper,Aidan Holmes,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,121,4.0,2025
-UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,122,4.0,2025
-UTI,IC,Utica,2pMa,To Basket,Dayion Thompson,Iso,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,123,1.0,2025
-UTI,IC,Ithaca College,2pmi,To Basket,Jaylon O'Neal,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,124,1.0,2025
-UTI,IC,Utica,2pMa,To Basket,Damien Call,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Empire 8,Liberty League,126,1.0,2025
-UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Laurence Brady,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,127,4.0,2025
-UTI,IC,Utica,And1,To Basket,Seidina Doukoure,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,129,1.0,2025
-UTI,IC,Ithaca College,2pMa,To Basket,Logan Wendell,PNR,Right,Off,Laurence Brady,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,131,1.0,2025
-UTI,IC,Utica,Turnover,N/A,Seidina Doukoure,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,132,1.0,2025
-UTI,IC,Ithaca College,2pMa,To Basket,Evan Cabral,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,133,1.0,2025
-UTI,IC,Utica,Turnover,N/A,Hagen Foley,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,134,1.0,2025
-UTI,IC,Ithaca College,Turnover,N/A,Jaylon O'Neal,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,135,1.0,2025
-UTI,IC,Utica,3pmi,Dribble Jumper,Dayion Thompson,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,136,4.0,2025
-UTI,IC,Utica,2pMa,To Basket,Levi Spina,PNR,High,Off,Damien Call,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,138,1.0,2025
-UTI,IC,Ithaca College,Turnover,N/A,Logan Wendell,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,139,1.0,2025
-UTI,IC,Utica,2pMa,To Basket,Dayion Thompson,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,140,1.0,2025
-UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,141,4.0,2025
-UTI,IC,Ithaca College,2pMa,To Basket,Aidan Holmes,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Empire 8,Liberty League,143,1.0,2025
-UTI,IC,Utica,Foul,To Basket,Dayion Thompson,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,144,1.0,2025
-UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Cole Wissink,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,147,4.0,2025
-UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,150,4.0,2025
-UTI,IC,Utica,2pMa,To Basket,Damien Call,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,151,1.0,2025
-UTI,IC,Ithaca College,2pMa,To Basket,Jose Padilla,PNR,Left,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,152,1.0,2025
-UTI,IC,Utica,2pmi,To Basket,Isaiah Smith,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,154,1.0,2025
-UTI,IC,Utica,Turnover,N/A,Isaiah Smith,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,157,1.0,2025
-UTI,IC,Ithaca College,Turnover,N/A,Jose Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,158,1.0,2025
-UTI,IC,Utica,Turnover,N/A,Isaiah Smith,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,159,1.0,2025
-UTI,IC,Ithaca College,3pMa,No Dribble Jumper,Cole Wissink,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,161,4.0,2025
-UTI,IC,Utica,Turnover,N/A,Hagen Foley,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,162,1.0,2025
-UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Laurence Brady,Post,Left,Left Shoulder,Thomas Mckiernan,Spot Ups,N/A,Shot,Empire 8,Liberty League,164,4.0,2025
-UTI,IC,Ithaca College,3pMa,Dribble Jumper,Evan Cabral,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,165,4.0,2025
-UTI,IC,Utica,2pmi,Dribble Jumper,Dayion Thompson,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,166,2.0,2025
-UTI,IC,Utica,3pmi,No Dribble Jumper,Ethan Rivers,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,167,4.0,2025
-UTI,IC,Ithaca College,3pMa,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,168,4.0,2025
-UTI,IC,Utica,2pmi,To Basket,Dayion Thompson,PNR,Left,Away,Seidina Doukoure,P&R Roll Man,Left,Pop,Empire 8,Liberty League,169,1.0,2025
-UTI,IC,Utica,2pmi,To Basket,Seidina Doukoure,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,171,1.0,2025
-UTI,IC,Ithaca College,3pMa,No Dribble Jumper,Evan Cabral,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,172,4.0,2025
-UTI,IC,Utica,2pmi,Drop Step,Liam Teague,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,174,1.0,2025
-UTI,IC,Ithaca College,Turnover,N/A,Evan Cabral,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,175,1.0,2025
-UTI,IC,Utica,2pMa,To Basket,Hagen Foley,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,176,1.0,2025
-UTI,IC,Ithaca College,Turnover,N/A,Evan Cabral,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,177,1.0,2025
-UTI,IC,Utica,2pmi,To Basket,Hagen Foley,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,178,1.0,2025
-UTI,IC,Ithaca College,Turnover,N/A,Aidan Holmes,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,179,1.0,2025
-UTI,IC,Utica,Turnover,N/A,Dayion Thompson,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,180,1.0,2025
-UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Thomas Mckiernan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,181,4.0,2025
-UTI,IC,Ithaca College,3pMa,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,183,4.0,2025
-UTI,IC,Utica,2pmi,Dribble Jumper,Levi Spina,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,184,2.0,2025
-UTI,IC,Ithaca College,2pmi,Dribble Jumper,Aidan Holmes,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,186,3.0,2025
-UTI,IC,Utica,Foul,Drop Step,Damien Call,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,187,1.0,2025
-UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,190,4.0,2025
-UTI,IC,Utica,Turnover,N/A,Hagen Foley,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,191,1.0,2025
-UTI,IC,Ithaca College,2pMa,To Basket,Laurence Brady,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,192,1.0,2025
-UTI,IC,Utica,2pMa,To Basket,Liam Teague,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,193,1.0,2025
-UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Cole Wissink,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,194,4.0,2025
-UTI,IC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,PNR,Right,Off,Laurence Brady,Spot Ups,N/A,Shot,Empire 8,Liberty League,195,4.0,2025
-UTI,IC,Utica,2pmi,To Basket,Dayion Thompson,Iso,Left,N/A,Liam Teague,Spot Ups,Left,Drive,Empire 8,Liberty League,196,1.0,2025
-UTI,IC,Utica,3pmi,No Dribble Jumper,Hagen Foley,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,198,4.0,2025
-UTI,IC,Utica,Foul,N/A,Dayion Thompson,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,200,1.0,2025
-UTI,IC,Ithaca College,2pMa,To Basket,Logan Wendell,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,203,1.0,2025
-UTI,IC,Utica,2pMa,To Basket,Damien Call,Post,Left,N/A,Dayion Thompson,Cuts,N/A,Basket,Empire 8,Liberty League,204,1.0,2025
-UTI,IC,Ithaca College,Foul,No Dribble Jumper,Logan Wendell,PNR,Left,Off,Thomas Mckiernan,P&R Roll Man,N/A,Pop,Empire 8,Liberty League,205,4.0,2025
-UTI,IC,Utica,Turnover,N/A,Levi Spina,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,209,1.0,2025
-UTI,IC,Ithaca College,3pMa,No Dribble Jumper,Thomas Mckiernan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,210,4.0,2025
-UTI,IC,Utica,3pmi,No Dribble Jumper,Hagen Foley,Iso,Top,N/A,Liam Teague,Spot Ups,N/A,Shot,Empire 8,Liberty League,211,4.0,2025
-UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Iso,Right,N/A,Thomas Mckiernan,Spot Ups,N/A,Shot,Empire 8,Liberty League,212,4.0,2025
-UTI,IC,,Foul,N/A,Hagen Foley,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,213,1.0,2025
-UTI,IC,Ithaca College,Foul,To Basket,Logan Wendell,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,216,1.0,2025
-UTI,IC,Utica,Foul,To Basket,Damien Call,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,220,1.0,2025
-UTI,IC,Ithaca College,Turnover,N/A,Aidan Holmes,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,223,1.0,2025
-UTI,IC,Utica,3pmi,No Dribble Jumper,Damien Call,Post,Middle,Left Shoulder,Ethan Rivers,Spot Ups,N/A,Shot,Empire 8,Liberty League,224,4.0,2025
-UTI,IC,,Foul,N/A,Thomas Mckiernan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,226,1.0,2025
-UTI,IC,Utica,2pMa,To Basket,Dayion Thompson,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,229,1.0,2025
-UTI,IC,Ithaca College,Foul,N/A,Evan Cabral,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,230,1.0,2025
-UTI,IC,Utica,Turnover,N/A,Hagen Foley,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,233,1.0,2025
-UTI,IC,,Foul,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,234,1.0,2025
-UTI,IC,Utica,3pmi,Dribble Jumper,Dayion Thompson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,237,4.0,2025
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,UTI,IC,Utica,2pMa,To Basket,Seidina Doukoure,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,1,1.0,2024-11-20
+1,UTI,IC,Ithaca College,2pmi,Dribble Jumper,Jaylon O'Neal,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,2,3.0,2024-11-20
+2,UTI,IC,Utica,3pmi,No Dribble Jumper,Hagen Foley,PNR,Right,Away,Dayion Thompson,Spot Ups,N/A,Shot,Empire 8,Liberty League,3,4.0,2024-11-20
+3,UTI,IC,Utica,2pmi,To Basket,Seidina Doukoure,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,4,1.0,2024-11-20
+4,UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Laurence Brady,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,5,4.0,2024-11-20
+6,UTI,IC,Ithaca College,2pmi,To Basket,Chris Leysath,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,7,1.0,2024-11-20
+7,UTI,IC,Utica,3pMa,No Dribble Jumper,Hagen Foley,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Empire 8,Liberty League,8,4.0,2024-11-20
+8,UTI,IC,Ithaca College,Foul,To Basket,Evan Cabral,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,9,1.0,2024-11-20
+11,UTI,IC,Utica,2pmi,No Dribble Jumper,Damien Call,Post,Left,Left Shoulder,Dayion Thompson,Spot Ups,N/A,Shot,Empire 8,Liberty League,12,3.0,2024-11-20
+12,UTI,IC,Ithaca College,Foul,To Basket,Jaylon O'Neal,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,13,1.0,2024-11-20
+15,UTI,IC,Utica,2pMa,To Basket,Hagen Foley,PNR,High,Off,Damien Call,Cuts,N/A,Screen,Empire 8,Liberty League,16,1.0,2024-11-20
+16,UTI,IC,Ithaca College,2pmi,To Basket,Jaylon O'Neal,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,17,1.0,2024-11-20
+17,UTI,IC,Utica,2pMa,To Basket,Damien Call,Post,Right,N/A,Levi Spina,Spot Ups,Left,Drive,Empire 8,Liberty League,18,1.0,2024-11-20
+18,UTI,IC,Ithaca College,Turnover,N/A,Evan Cabral,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,19,1.0,2024-11-20
+20,UTI,IC,Utica,Turnover,N/A,Damien Call,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,21,1.0,2024-11-20
+21,UTI,IC,Ithaca College,3pMa,No Dribble Jumper,Evan Cabral,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,22,4.0,2024-11-20
+22,UTI,IC,Utica,And1,To Basket,Levi Spina,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,23,1.0,2024-11-20
+24,UTI,IC,Ithaca College,Turnover,N/A,Jaylon O'Neal,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,25,1.0,2024-11-20
+25,UTI,IC,Utica,Turnover,N/A,Hagen Foley,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Empire 8,Liberty League,26,1.0,2024-11-20
+26,UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,27,4.0,2024-11-20
+27,UTI,IC,Ithaca College,Foul,To Basket,Jaylon O'Neal,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,28,1.0,2024-11-20
+30,UTI,IC,Utica,2pMa,To Basket,Isaiah Smith,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,31,1.0,2024-11-20
+31,UTI,IC,Ithaca College,3pMa,No Dribble Jumper,Cole Wissink,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,32,4.0,2024-11-20
+32,UTI,IC,Utica,3pMa,No Dribble Jumper,Levi Spina,PNR,High,Off,Hagen Foley,Spot Ups,N/A,Shot,Empire 8,Liberty League,33,4.0,2024-11-20
+33,UTI,IC,Ithaca College,Turnover,N/A,Cole Wissink,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,34,1.0,2024-11-20
+34,UTI,IC,Utica,2pmi,To Basket,Levi Spina,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,35,1.0,2024-11-20
+36,UTI,IC,Utica,3pmi,No Dribble Jumper,Hagen Foley,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,37,4.0,2024-11-20
+37,UTI,IC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,38,4.0,2024-11-20
+39,UTI,IC,Utica,3pMa,No Dribble Jumper,Damien Call,Post,Left,N/A,Hagen Foley,Spot Ups,N/A,Shot,Empire 8,Liberty League,40,4.0,2024-11-20
+40,UTI,IC,Ithaca College,2pMa,To Basket,Logan Wendell,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,41,1.0,2024-11-20
+41,UTI,IC,Utica,3pMa,No Dribble Jumper,Hagen Foley,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Empire 8,Liberty League,42,4.0,2024-11-20
+43,UTI,IC,Ithaca College,3pmi,Dribble Jumper,Aidan Holmes,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,44,4.0,2024-11-20
+44,UTI,IC,Utica,Foul,To Basket,Liam Teague,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Empire 8,Liberty League,45,1.0,2024-11-20
+47,UTI,IC,Ithaca College,3pMa,No Dribble Jumper,Jose Padilla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,48,4.0,2024-11-20
+48,UTI,IC,Utica,2pmi,To Basket,Seidina Doukoure,Iso,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,49,1.0,2024-11-20
+49,UTI,IC,Utica,And1,To Basket,Seidina Doukoure,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,50,1.0,2024-11-20
+51,UTI,IC,Ithaca College,Turnover,N/A,Jose Padilla,PNR,Left,Off,Aidan Holmes,Spot Ups,Right,Drive,Empire 8,Liberty League,52,1.0,2024-11-20
+52,UTI,IC,Utica,Turnover,N/A,Ethan Rivers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,53,1.0,2024-11-20
+53,UTI,IC,Ithaca College,2pMa,To Basket,Aidan Holmes,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,54,1.0,2024-11-20
+55,UTI,IC,Utica,2pmi,To Basket,Ethan Rivers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,56,1.0,2024-11-20
+56,UTI,IC,Utica,2pmi,To Basket,Seidina Doukoure,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,57,1.0,2024-11-20
+57,UTI,IC,Utica,Turnover,N/A,Seidina Doukoure,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,58,1.0,2024-11-20
+58,UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Thomas Mckiernan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,59,4.0,2024-11-20
+59,UTI,IC,Utica,Foul,To Basket,Dayion Thompson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,60,1.0,2024-11-20
+62,UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Jose Padilla,PNR,Right,Off,Evan Cabral,Spot Ups,N/A,Shot,Empire 8,Liberty League,63,4.0,2024-11-20
+63,UTI,IC,Utica,2pmi,To Basket,Liam Teague,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,64,1.0,2024-11-20
+64,UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Jose Padilla,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,65,4.0,2024-11-20
+65,UTI,IC,Utica,2pmi,To Basket,Jordan Cain,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,66,1.0,2024-11-20
+67,UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Thomas Mckiernan,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,68,4.0,2024-11-20
+68,UTI,IC,Utica,3pMa,Dribble Jumper,Hagen Foley,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,69,4.0,2024-11-20
+69,UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,70,4.0,2024-11-20
+70,UTI,IC,Ithaca College,2pmi,To Basket,Chris Leysath,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,71,1.0,2024-11-20
+72,UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Laurence Brady,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,73,4.0,2024-11-20
+73,UTI,IC,,Foul,N/A,Hagen Foley,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,74,1.0,2024-11-20
+75,UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Thomas Mckiernan,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,76,4.0,2024-11-20
+76,UTI,IC,Utica,2pmi,To Basket,Dayion Thompson,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,77,1.0,2024-11-20
+77,UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Thomas Mckiernan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,78,4.0,2024-11-20
+78,UTI,IC,Utica,2pmi,To Basket,Seidina Doukoure,PNR,High,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,79,1.0,2024-11-20
+79,UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Thomas Mckiernan,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Empire 8,Liberty League,80,4.0,2024-11-20
+81,UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,82,4.0,2024-11-20
+82,UTI,IC,Utica,3pMa,No Dribble Jumper,Hagen Foley,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,83,4.0,2024-11-20
+84,UTI,IC,Ithaca College,2pMa,To Basket,Chris Leysath,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,85,1.0,2024-11-20
+85,UTI,IC,Utica,2pmi,To Basket,Seidina Doukoure,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,86,1.0,2024-11-20
+86,UTI,IC,Utica,Foul,To Basket,Seidina Doukoure,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,87,1.0,2024-11-20
+89,UTI,IC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,PNR,High,Off,Cole Wissink,Spot Ups,N/A,Shot,Empire 8,Liberty League,90,4.0,2024-11-20
+90,UTI,IC,Utica,3pmi,No Dribble Jumper,Hagen Foley,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,91,4.0,2024-11-20
+91,UTI,IC,Ithaca College,Foul,N/A,Evan Cabral,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,92,1.0,2024-11-20
+94,UTI,IC,Utica,3pMa,No Dribble Jumper,Isaiah Smith,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,95,4.0,2024-11-20
+95,UTI,IC,Ithaca College,2pMa,To Basket,Chris Leysath,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,96,1.0,2024-11-20
+96,UTI,IC,Utica,2pmi,To Basket,Damien Call,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,97,1.0,2024-11-20
+97,UTI,IC,Utica,2pMa,To Basket,Damien Call,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,98,1.0,2024-11-20
+98,UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,99,4.0,2024-11-20
+99,UTI,IC,Utica,3pMa,No Dribble Jumper,Liam Teague,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,100,4.0,2024-11-20
+100,UTI,IC,Ithaca College,2pmi,To Basket,Evan Cabral,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,101,1.0,2024-11-20
+101,UTI,IC,Utica,3pmi,No Dribble Jumper,Hagen Foley,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,102,4.0,2024-11-20
+104,UTI,IC,,Foul,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,105,1.0,2024-11-20
+107,UTI,IC,Utica,2pMa,To Basket,Hagen Foley,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,108,1.0,2024-11-20
+108,UTI,IC,Ithaca College,2pmi,To Basket,Chris Leysath,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,109,1.0,2024-11-20
+109,UTI,IC,Ithaca College,2pMa,To Basket,Chris Leysath,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,110,1.0,2024-11-20
+110,UTI,IC,Utica,2pmi,To Basket,Dayion Thompson,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,111,1.0,2024-11-20
+111,UTI,IC,Ithaca College,2pmi,To Basket,Aidan Holmes,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,112,1.0,2024-11-20
+112,UTI,IC,Utica,3pmi,No Dribble Jumper,Hagen Foley,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,113,4.0,2024-11-20
+113,UTI,IC,Utica,Foul,To Basket,Damien Call,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,114,1.0,2024-11-20
+116,UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,PNR,High,Off,Aidan Holmes,Spot Ups,N/A,Shot,Empire 8,Liberty League,117,4.0,2024-11-20
+118,UTI,IC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,119,4.0,2024-11-20
+119,UTI,IC,Utica,3pmi,No Dribble Jumper,Jordan Cain,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,120,4.0,2024-11-20
+120,UTI,IC,Ithaca College,3pMa,Dribble Jumper,Aidan Holmes,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,121,4.0,2024-11-20
+121,UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,122,4.0,2024-11-20
+122,UTI,IC,Utica,2pMa,To Basket,Dayion Thompson,Iso,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,123,1.0,2024-11-20
+123,UTI,IC,Ithaca College,2pmi,To Basket,Jaylon O'Neal,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,124,1.0,2024-11-20
+125,UTI,IC,Utica,2pMa,To Basket,Damien Call,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Empire 8,Liberty League,126,1.0,2024-11-20
+126,UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Laurence Brady,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,127,4.0,2024-11-20
+128,UTI,IC,Utica,And1,To Basket,Seidina Doukoure,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,129,1.0,2024-11-20
+130,UTI,IC,Ithaca College,2pMa,To Basket,Logan Wendell,PNR,Right,Off,Laurence Brady,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,131,1.0,2024-11-20
+131,UTI,IC,Utica,Turnover,N/A,Seidina Doukoure,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,132,1.0,2024-11-20
+132,UTI,IC,Ithaca College,2pMa,To Basket,Evan Cabral,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,133,1.0,2024-11-20
+133,UTI,IC,Utica,Turnover,N/A,Hagen Foley,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,134,1.0,2024-11-20
+134,UTI,IC,Ithaca College,Turnover,N/A,Jaylon O'Neal,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,135,1.0,2024-11-20
+135,UTI,IC,Utica,3pmi,Dribble Jumper,Dayion Thompson,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,136,4.0,2024-11-20
+137,UTI,IC,Utica,2pMa,To Basket,Levi Spina,PNR,High,Off,Damien Call,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,138,1.0,2024-11-20
+138,UTI,IC,Ithaca College,Turnover,N/A,Logan Wendell,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,139,1.0,2024-11-20
+139,UTI,IC,Utica,2pMa,To Basket,Dayion Thompson,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,140,1.0,2024-11-20
+140,UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,141,4.0,2024-11-20
+142,UTI,IC,Ithaca College,2pMa,To Basket,Aidan Holmes,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Empire 8,Liberty League,143,1.0,2024-11-20
+143,UTI,IC,Utica,Foul,To Basket,Dayion Thompson,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,144,1.0,2024-11-20
+146,UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Cole Wissink,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,147,4.0,2024-11-20
+149,UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,150,4.0,2024-11-20
+150,UTI,IC,Utica,2pMa,To Basket,Damien Call,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,151,1.0,2024-11-20
+151,UTI,IC,Ithaca College,2pMa,To Basket,Jose Padilla,PNR,Left,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,152,1.0,2024-11-20
+153,UTI,IC,Utica,2pmi,To Basket,Isaiah Smith,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,154,1.0,2024-11-20
+156,UTI,IC,Utica,Turnover,N/A,Isaiah Smith,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,157,1.0,2024-11-20
+157,UTI,IC,Ithaca College,Turnover,N/A,Jose Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,158,1.0,2024-11-20
+158,UTI,IC,Utica,Turnover,N/A,Isaiah Smith,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,159,1.0,2024-11-20
+160,UTI,IC,Ithaca College,3pMa,No Dribble Jumper,Cole Wissink,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,161,4.0,2024-11-20
+161,UTI,IC,Utica,Turnover,N/A,Hagen Foley,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,162,1.0,2024-11-20
+163,UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Laurence Brady,Post,Left,Left Shoulder,Thomas Mckiernan,Spot Ups,N/A,Shot,Empire 8,Liberty League,164,4.0,2024-11-20
+164,UTI,IC,Ithaca College,3pMa,Dribble Jumper,Evan Cabral,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,165,4.0,2024-11-20
+165,UTI,IC,Utica,2pmi,Dribble Jumper,Dayion Thompson,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,166,2.0,2024-11-20
+166,UTI,IC,Utica,3pmi,No Dribble Jumper,Ethan Rivers,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,167,4.0,2024-11-20
+167,UTI,IC,Ithaca College,3pMa,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,168,4.0,2024-11-20
+168,UTI,IC,Utica,2pmi,To Basket,Dayion Thompson,PNR,Left,Away,Seidina Doukoure,P&R Roll Man,Left,Pop,Empire 8,Liberty League,169,1.0,2024-11-20
+170,UTI,IC,Utica,2pmi,To Basket,Seidina Doukoure,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,171,1.0,2024-11-20
+171,UTI,IC,Ithaca College,3pMa,No Dribble Jumper,Evan Cabral,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,172,4.0,2024-11-20
+173,UTI,IC,Utica,2pmi,Drop Step,Liam Teague,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,174,1.0,2024-11-20
+174,UTI,IC,Ithaca College,Turnover,N/A,Evan Cabral,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,175,1.0,2024-11-20
+175,UTI,IC,Utica,2pMa,To Basket,Hagen Foley,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,176,1.0,2024-11-20
+176,UTI,IC,Ithaca College,Turnover,N/A,Evan Cabral,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,177,1.0,2024-11-20
+177,UTI,IC,Utica,2pmi,To Basket,Hagen Foley,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,178,1.0,2024-11-20
+178,UTI,IC,Ithaca College,Turnover,N/A,Aidan Holmes,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,179,1.0,2024-11-20
+179,UTI,IC,Utica,Turnover,N/A,Dayion Thompson,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,180,1.0,2024-11-20
+180,UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Thomas Mckiernan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,181,4.0,2024-11-20
+182,UTI,IC,Ithaca College,3pMa,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,183,4.0,2024-11-20
+183,UTI,IC,Utica,2pmi,Dribble Jumper,Levi Spina,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,184,2.0,2024-11-20
+185,UTI,IC,Ithaca College,2pmi,Dribble Jumper,Aidan Holmes,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,186,3.0,2024-11-20
+186,UTI,IC,Utica,Foul,Drop Step,Damien Call,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,187,1.0,2024-11-20
+189,UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,190,4.0,2024-11-20
+190,UTI,IC,Utica,Turnover,N/A,Hagen Foley,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,191,1.0,2024-11-20
+191,UTI,IC,Ithaca College,2pMa,To Basket,Laurence Brady,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,192,1.0,2024-11-20
+192,UTI,IC,Utica,2pMa,To Basket,Liam Teague,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,193,1.0,2024-11-20
+193,UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Cole Wissink,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,194,4.0,2024-11-20
+194,UTI,IC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,PNR,Right,Off,Laurence Brady,Spot Ups,N/A,Shot,Empire 8,Liberty League,195,4.0,2024-11-20
+195,UTI,IC,Utica,2pmi,To Basket,Dayion Thompson,Iso,Left,N/A,Liam Teague,Spot Ups,Left,Drive,Empire 8,Liberty League,196,1.0,2024-11-20
+197,UTI,IC,Utica,3pmi,No Dribble Jumper,Hagen Foley,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,198,4.0,2024-11-20
+199,UTI,IC,Utica,Foul,N/A,Dayion Thompson,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,200,1.0,2024-11-20
+202,UTI,IC,Ithaca College,2pMa,To Basket,Logan Wendell,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,203,1.0,2024-11-20
+203,UTI,IC,Utica,2pMa,To Basket,Damien Call,Post,Left,N/A,Dayion Thompson,Cuts,N/A,Basket,Empire 8,Liberty League,204,1.0,2024-11-20
+204,UTI,IC,Ithaca College,Foul,No Dribble Jumper,Logan Wendell,PNR,Left,Off,Thomas Mckiernan,P&R Roll Man,N/A,Pop,Empire 8,Liberty League,205,4.0,2024-11-20
+208,UTI,IC,Utica,Turnover,N/A,Levi Spina,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,209,1.0,2024-11-20
+209,UTI,IC,Ithaca College,3pMa,No Dribble Jumper,Thomas Mckiernan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,210,4.0,2024-11-20
+210,UTI,IC,Utica,3pmi,No Dribble Jumper,Hagen Foley,Iso,Top,N/A,Liam Teague,Spot Ups,N/A,Shot,Empire 8,Liberty League,211,4.0,2024-11-20
+211,UTI,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Iso,Right,N/A,Thomas Mckiernan,Spot Ups,N/A,Shot,Empire 8,Liberty League,212,4.0,2024-11-20
+212,UTI,IC,,Foul,N/A,Hagen Foley,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,213,1.0,2024-11-20
+215,UTI,IC,Ithaca College,Foul,To Basket,Logan Wendell,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,216,1.0,2024-11-20
+219,UTI,IC,Utica,Foul,To Basket,Damien Call,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,220,1.0,2024-11-20
+222,UTI,IC,Ithaca College,Turnover,N/A,Aidan Holmes,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,223,1.0,2024-11-20
+223,UTI,IC,Utica,3pmi,No Dribble Jumper,Damien Call,Post,Middle,Left Shoulder,Ethan Rivers,Spot Ups,N/A,Shot,Empire 8,Liberty League,224,4.0,2024-11-20
+225,UTI,IC,,Foul,N/A,Thomas Mckiernan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,226,1.0,2024-11-20
+228,UTI,IC,Utica,2pMa,To Basket,Dayion Thompson,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,229,1.0,2024-11-20
+229,UTI,IC,Ithaca College,Foul,N/A,Evan Cabral,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,230,1.0,2024-11-20
+232,UTI,IC,Utica,Turnover,N/A,Hagen Foley,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,233,1.0,2024-11-20
+233,UTI,IC,,Foul,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,234,1.0,2024-11-20
+236,UTI,IC,Utica,3pmi,Dribble Jumper,Dayion Thompson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,237,4.0,2024-11-20

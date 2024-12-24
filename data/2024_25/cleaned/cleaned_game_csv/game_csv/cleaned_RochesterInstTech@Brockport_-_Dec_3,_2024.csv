@@ -1,186 +1,186 @@
-Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
-BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Alex Tavarez,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,1,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pMa,No Dribble Jumper,Kenny Wilburn,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,2,3.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,Dribble Jumper,Tony Arnold,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,3,2.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,4,1.0,2025
-BRO,RIT,Brockport Golden Eagles,3pMa,No Dribble Jumper,Zachary Rice,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Empire 8,Liberty League,5,4.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,7,4.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Tony Arnold,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,8,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Matt Caggiano,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,9,4.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Adewale Fasanmi,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,12,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,14,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pMa,Dribble Jumper,Tony Arnold,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,15,3.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,16,4.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Colby Jordan,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,17,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,18,1.0,2025
-BRO,RIT,Brockport Golden Eagles,3pmi,Dribble Jumper,Zachary Rice,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,19,4.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Nolan Smih,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,20,1.0,2025
-BRO,RIT,Brockport Golden Eagles,3pmi,No Dribble Jumper,Alex Tavarez,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,21,4.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,22,2.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,23,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Colby Jordan,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,25,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Kenny Wilburn,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,26,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,Dribble Jumper,Tony Arnold,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,29,3.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Chase Dickens,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,30,4.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Kenny Wilburn,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,31,1.0,2025
-BRO,RIT,Brockport Golden Eagles,Foul,Drop Step,Christian Amica,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,34,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Mark Osime,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,37,4.0,2025
-BRO,RIT,Brockport Golden Eagles,Foul,To Basket,Nathaniel Gordon,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,38,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Iso,Right,N/A,Mark Osime,Cuts,N/A,Flash,Empire 8,Liberty League,42,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pMa,Drop Step,Colby Jordan,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,43,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,44,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Zachary Rice,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,45,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Luke Granto,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,46,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Zachary Rice,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,47,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,48,4.0,2025
-BRO,RIT,Brockport Golden Eagles,3pmi,No Dribble Jumper,Colby Jordan,Post,Right,Right Shoulder,Christian Amica,Spot Ups,N/A,Shot,Empire 8,Liberty League,49,4.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Zac Ditzel,Post,Left,Left Shoulder,Josiah Turner,Spot Ups,N/A,Shot,Empire 8,Liberty League,50,4.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Nathaniel Gordon,Post,Left,Left Shoulder,Colby Jordan,Spot Ups,Right,Drive,Empire 8,Liberty League,51,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Mark Osime,PNR,High,Off,Josiah Turner,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,52,1.0,2025
-BRO,RIT,Brockport Golden Eagles,3pmi,No Dribble Jumper,Nathaniel Gordon,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,55,4.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,56,1.0,2025
-BRO,RIT,Brockport Golden Eagles,3pmi,No Dribble Jumper,Tony Arnold,PNR,Right,Off,Christian Amica,P&R Roll Man,N/A,Pop,Empire 8,Liberty League,57,4.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Turnover,To Basket,Brody Brown,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,58,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,Dribble Jumper,Jakhi Lucas,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,59,3.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Mark Osime,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,60,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Jakhi Lucas,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,63,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Brody Brown,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,64,1.0,2025
-BRO,RIT,Brockport Golden Eagles,3pmi,No Dribble Jumper,Tony Arnold,Post,Right,Right Shoulder,Jakhi Lucas,Spot Ups,N/A,Shot,Empire 8,Liberty League,65,4.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Nathaniel Gordon,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,67,1.0,2025
-BRO,RIT,Brockport Golden Eagles,And1,To Basket,Nathaniel Gordon,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,68,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,Post,Middle,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,70,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Tony Arnold,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,73,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,74,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Tony Arnold,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,75,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Empire 8,Liberty League,76,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Alex Tavarez,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,78,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Brock Bowen,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,79,1.0,2025
-BRO,RIT,Brockport Golden Eagles,Turnover,N/A,Colby Jordan,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,80,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,And1,To Basket,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,81,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Jakhi Lucas,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,83,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Brody Brown,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,84,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Alex Tavarez,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,85,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Brock Bowen,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,86,4.0,2025
-BRO,RIT,Brockport Golden Eagles,3pMa,Dribble Jumper,Jakhi Lucas,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,87,4.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,PNR,High,Off,Brock Bowen,P&R Roll Man,N/A,Pop,Empire 8,Liberty League,88,4.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,90,4.0,2025
-BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Christian Amica,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,91,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,92,4.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Christian Amica,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,93,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,94,1.0,2025
-BRO,RIT,Brockport Golden Eagles,Turnover,N/A,Tony Arnold,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,95,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,96,1.0,2025
-BRO,RIT,Brockport Golden Eagles,And1,To Basket,Nathaniel Gordon,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,97,1.0,2025
-BRO,RIT,Brockport Golden Eagles,Foul,To Basket,Christian Amica,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,99,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,102,2.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Christian Amica,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,103,1.0,2025
-BRO,RIT,,Foul,N/A,Kenny Wilburn,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,104,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Alex Tavarez,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,106,1.0,2025
-BRO,RIT,Brockport Golden Eagles,Turnover,N/A,Christian Amica,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,107,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Mark Osime,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Empire 8,Liberty League,108,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Tony Arnold,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,111,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,112,1.0,2025
-BRO,RIT,,Foul,N/A,Tony Arnold,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,113,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,115,4.0,2025
-BRO,RIT,Brockport Golden Eagles,Turnover,To Basket,Colby Jordan,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,116,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Post,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,117,1.0,2025
-BRO,RIT,Brockport Golden Eagles,Turnover,N/A,Colby Jordan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,118,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Danny Cohen,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Empire 8,Liberty League,119,4.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,120,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Nathaniel Gordon,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,121,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Foul,N/A,Kenny Wilburn,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,122,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Tony Arnold,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,125,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,127,4.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Kenny Wilburn,Post,Right,N/A,Brock Bowen,Spot Ups,Left,Drive,Empire 8,Liberty League,128,4.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,130,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,No Dribble Jumper,Tony Arnold,Post,Right,Right Shoulder,Alex Tavarez,Spot Ups,N/A,Shot,Empire 8,Liberty League,131,3.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,132,4.0,2025
-BRO,RIT,Brockport Golden Eagles,Turnover,N/A,Tony Arnold,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,133,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Brock Bowen,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,134,4.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Colby Jordan,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,135,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Adewale Fasanmi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,136,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Chase Dickens,Spot Ups,N/A,Shot,Empire 8,Liberty League,137,4.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Empire 8,Liberty League,141,4.0,2025
-BRO,RIT,Brockport Golden Eagles,And1,To Basket,Alex Tavarez,PNR,High,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,142,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Empire 8,Liberty League,144,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Tony Arnold,PNR,High,Off,Adewale Fasanmi,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,146,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,148,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Tony Arnold,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,149,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,150,4.0,2025
-BRO,RIT,Brockport Golden Eagles,3pmi,No Dribble Jumper,Colby Jordan,PNR,High,Off,Tony Arnold,P&R Roll Man,N/A,Pop,Empire 8,Liberty League,151,4.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pmi,No Dribble Jumper,Chase Dickens,PNR,Right,Off,Kenny Wilburn,Spot Ups,N/A,Shot,Empire 8,Liberty League,152,3.0,2025
-BRO,RIT,Brockport Golden Eagles,Foul,To Basket,Tony Arnold,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,153,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Nolan Smih,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,156,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Nathaniel Gordon,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,157,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,158,4.0,2025
-BRO,RIT,Brockport Golden Eagles,Turnover,N/A,Tony Arnold,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,159,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,160,4.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,162,4.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Kenny Wilburn,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,163,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Jakhi Lucas,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,166,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,167,4.0,2025
-BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Christian Amica,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Empire 8,Liberty League,168,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Iso,Right,N/A,Matt Caggiano,Spot Ups,N/A,Shot,Empire 8,Liberty League,169,4.0,2025
-BRO,RIT,Brockport Golden Eagles,Foul,To Basket,Jakhi Lucas,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,170,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,PNR,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,173,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Jakhi Lucas,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,174,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,175,4.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,Dribble Jumper,Jakhi Lucas,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,176,2.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,177,1.0,2025
-BRO,RIT,Brockport Golden Eagles,3pMa,No Dribble Jumper,Zachary Rice,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,178,4.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,179,1.0,2025
-BRO,RIT,Brockport Golden Eagles,Turnover,N/A,Cole Harding,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,180,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Kenny Wilburn,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,181,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Colby Jordan,PNR,High,Off,Zachary Rice,P&R Roll Man,Right,Pop,Empire 8,Liberty League,185,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Brody Brown,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,186,1.0,2025
-BRO,RIT,Brockport Golden Eagles,3pmi,No Dribble Jumper,Christian Amica,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,189,4.0,2025
-BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Tony Arnold,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,190,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,191,1.0,2025
-BRO,RIT,Brockport Golden Eagles,Turnover,N/A,Colby Jordan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,192,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,High,N/A,Luke Granto,Spot Ups,N/A,Shot,Empire 8,Liberty League,193,4.0,2025
-BRO,RIT,Brockport Golden Eagles,Foul,To Basket,Colby Jordan,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,194,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Luke Granto,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,197,4.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Tony Arnold,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,198,1.0,2025
-BRO,RIT,Brockport Golden Eagles,Foul,To Basket,Tony Arnold,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,199,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,202,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Adewale Fasanmi,Post,Middle,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,203,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Iso,Top,N/A,Brody Brown,Spot Ups,N/A,Shot,Empire 8,Liberty League,204,4.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,205,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Jakhi Lucas,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,207,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Brody Brown,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Empire 8,Liberty League,208,1.0,2025
-BRO,RIT,Brockport Golden Eagles,3pMa,No Dribble Jumper,Jakhi Lucas,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Empire 8,Liberty League,209,4.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,210,4.0,2025
-BRO,RIT,Brockport Golden Eagles,And1,To Basket,Colby Jordan,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,211,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Turnover,To Basket,Matt Caggiano,PNR,High,Off,Josiah Turner,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,213,1.0,2025
-BRO,RIT,Brockport Golden Eagles,Foul,N/A,Colby Jordan,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,214,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Brock Bowen,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,217,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Jakhi Lucas,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,218,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Chase Dickens,P&R Roll Man,N/A,Pop,Empire 8,Liberty League,219,4.0,2025
-BRO,RIT,Brockport Golden Eagles,And1,To Basket,Adewale Fasanmi,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,220,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,222,1.0,2025
-BRO,RIT,Brockport Golden Eagles,Foul,To Basket,Nathaniel Gordon,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,223,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,226,3.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Colby Jordan,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,227,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,228,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Colby Jordan,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,229,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,230,1.0,2025
-BRO,RIT,Brockport Golden Eagles,3pmi,No Dribble Jumper,Alex Tavarez,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,231,4.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,232,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Nathaniel Gordon,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,233,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Chase Dickens,Iso,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,234,2.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,235,4.0,2025
-BRO,RIT,Brockport Golden Eagles,3pmi,Dribble Jumper,Jakhi Lucas,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,236,4.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,237,4.0,2025
-BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Alex Tavarez,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,238,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,PNR,High,Off,Kenny Wilburn,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,239,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Tony Arnold,PNR,Left,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,240,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,241,1.0,2025
-BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Tony Arnold,Post,Right,Right Shoulder,Adewale Fasanmi,Cuts,N/A,Flash,Empire 8,Liberty League,242,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Turnover,Drop Step,Kenny Wilburn,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,243,1.0,2025
-BRO,RIT,Brockport Golden Eagles,Foul,N/A,Jakhi Lucas,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,244,1.0,2025
-BRO,RIT,,Foul,N/A,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,247,1.0,2025
-BRO,RIT,Brockport Golden Eagles,Turnover,N/A,Jakhi Lucas,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,250,1.0,2025
-BRO,RIT,Rochester Institute of Technology Tigers,Foul,N/A,Matt Caggiano,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,251,1.0,2025
-BRO,RIT,Brockport Golden Eagles,3pmi,Dribble Jumper,Alex Tavarez,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,254,4.0,2025
-BRO,RIT,,Foul,N/A,Mark Osime,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,255,1.0,2025
-BRO,RIT,Brockport Golden Eagles,3pmi,Dribble Jumper,Jakhi Lucas,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,257,4.0,2025
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Alex Tavarez,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,1,1.0,2024-12-03
+1,BRO,RIT,Rochester Institute of Technology Tigers,2pMa,No Dribble Jumper,Kenny Wilburn,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,2,3.0,2024-12-03
+2,BRO,RIT,Brockport Golden Eagles,2pmi,Dribble Jumper,Tony Arnold,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,3,2.0,2024-12-03
+3,BRO,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,4,1.0,2024-12-03
+4,BRO,RIT,Brockport Golden Eagles,3pMa,No Dribble Jumper,Zachary Rice,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Empire 8,Liberty League,5,4.0,2024-12-03
+6,BRO,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,7,4.0,2024-12-03
+7,BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Tony Arnold,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,8,1.0,2024-12-03
+8,BRO,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Matt Caggiano,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,9,4.0,2024-12-03
+11,BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Adewale Fasanmi,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,12,1.0,2024-12-03
+13,BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,14,1.0,2024-12-03
+14,BRO,RIT,Brockport Golden Eagles,2pMa,Dribble Jumper,Tony Arnold,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,15,3.0,2024-12-03
+15,BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,16,4.0,2024-12-03
+16,BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Colby Jordan,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,17,1.0,2024-12-03
+17,BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,18,1.0,2024-12-03
+18,BRO,RIT,Brockport Golden Eagles,3pmi,Dribble Jumper,Zachary Rice,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,19,4.0,2024-12-03
+19,BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Nolan Smih,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,20,1.0,2024-12-03
+20,BRO,RIT,Brockport Golden Eagles,3pmi,No Dribble Jumper,Alex Tavarez,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,21,4.0,2024-12-03
+21,BRO,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,22,2.0,2024-12-03
+22,BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,23,1.0,2024-12-03
+24,BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Colby Jordan,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,25,1.0,2024-12-03
+25,BRO,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Kenny Wilburn,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,26,1.0,2024-12-03
+28,BRO,RIT,Brockport Golden Eagles,2pmi,Dribble Jumper,Tony Arnold,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,29,3.0,2024-12-03
+29,BRO,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Chase Dickens,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,30,4.0,2024-12-03
+30,BRO,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Kenny Wilburn,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,31,1.0,2024-12-03
+33,BRO,RIT,Brockport Golden Eagles,Foul,Drop Step,Christian Amica,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,34,1.0,2024-12-03
+36,BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Mark Osime,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,37,4.0,2024-12-03
+37,BRO,RIT,Brockport Golden Eagles,Foul,To Basket,Nathaniel Gordon,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,38,1.0,2024-12-03
+41,BRO,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Iso,Right,N/A,Mark Osime,Cuts,N/A,Flash,Empire 8,Liberty League,42,1.0,2024-12-03
+42,BRO,RIT,Brockport Golden Eagles,2pMa,Drop Step,Colby Jordan,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,43,1.0,2024-12-03
+43,BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,44,1.0,2024-12-03
+44,BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Zachary Rice,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,45,1.0,2024-12-03
+45,BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Luke Granto,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,46,1.0,2024-12-03
+46,BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Zachary Rice,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,47,1.0,2024-12-03
+47,BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,48,4.0,2024-12-03
+48,BRO,RIT,Brockport Golden Eagles,3pmi,No Dribble Jumper,Colby Jordan,Post,Right,Right Shoulder,Christian Amica,Spot Ups,N/A,Shot,Empire 8,Liberty League,49,4.0,2024-12-03
+49,BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Zac Ditzel,Post,Left,Left Shoulder,Josiah Turner,Spot Ups,N/A,Shot,Empire 8,Liberty League,50,4.0,2024-12-03
+50,BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Nathaniel Gordon,Post,Left,Left Shoulder,Colby Jordan,Spot Ups,Right,Drive,Empire 8,Liberty League,51,1.0,2024-12-03
+51,BRO,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Mark Osime,PNR,High,Off,Josiah Turner,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,52,1.0,2024-12-03
+54,BRO,RIT,Brockport Golden Eagles,3pmi,No Dribble Jumper,Nathaniel Gordon,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,55,4.0,2024-12-03
+55,BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,56,1.0,2024-12-03
+56,BRO,RIT,Brockport Golden Eagles,3pmi,No Dribble Jumper,Tony Arnold,PNR,Right,Off,Christian Amica,P&R Roll Man,N/A,Pop,Empire 8,Liberty League,57,4.0,2024-12-03
+57,BRO,RIT,Rochester Institute of Technology Tigers,Turnover,To Basket,Brody Brown,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,58,1.0,2024-12-03
+58,BRO,RIT,Brockport Golden Eagles,2pmi,Dribble Jumper,Jakhi Lucas,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,59,3.0,2024-12-03
+59,BRO,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Mark Osime,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,60,1.0,2024-12-03
+62,BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Jakhi Lucas,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,63,1.0,2024-12-03
+63,BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Brody Brown,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,64,1.0,2024-12-03
+64,BRO,RIT,Brockport Golden Eagles,3pmi,No Dribble Jumper,Tony Arnold,Post,Right,Right Shoulder,Jakhi Lucas,Spot Ups,N/A,Shot,Empire 8,Liberty League,65,4.0,2024-12-03
+66,BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Nathaniel Gordon,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,67,1.0,2024-12-03
+67,BRO,RIT,Brockport Golden Eagles,And1,To Basket,Nathaniel Gordon,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,68,1.0,2024-12-03
+69,BRO,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,Post,Middle,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,70,1.0,2024-12-03
+72,BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Tony Arnold,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,73,1.0,2024-12-03
+73,BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,74,1.0,2024-12-03
+74,BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Tony Arnold,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,75,1.0,2024-12-03
+75,BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Empire 8,Liberty League,76,1.0,2024-12-03
+77,BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Alex Tavarez,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,78,1.0,2024-12-03
+78,BRO,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Brock Bowen,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,79,1.0,2024-12-03
+79,BRO,RIT,Brockport Golden Eagles,Turnover,N/A,Colby Jordan,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,80,1.0,2024-12-03
+80,BRO,RIT,Rochester Institute of Technology Tigers,And1,To Basket,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,81,1.0,2024-12-03
+82,BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Jakhi Lucas,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,83,1.0,2024-12-03
+83,BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Brody Brown,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,84,1.0,2024-12-03
+84,BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Alex Tavarez,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,85,1.0,2024-12-03
+85,BRO,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Brock Bowen,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,86,4.0,2024-12-03
+86,BRO,RIT,Brockport Golden Eagles,3pMa,Dribble Jumper,Jakhi Lucas,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,87,4.0,2024-12-03
+87,BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,PNR,High,Off,Brock Bowen,P&R Roll Man,N/A,Pop,Empire 8,Liberty League,88,4.0,2024-12-03
+89,BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,90,4.0,2024-12-03
+90,BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Christian Amica,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,91,1.0,2024-12-03
+91,BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,92,4.0,2024-12-03
+92,BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Christian Amica,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,93,1.0,2024-12-03
+93,BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,94,1.0,2024-12-03
+94,BRO,RIT,Brockport Golden Eagles,Turnover,N/A,Tony Arnold,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,95,1.0,2024-12-03
+95,BRO,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,96,1.0,2024-12-03
+96,BRO,RIT,Brockport Golden Eagles,And1,To Basket,Nathaniel Gordon,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,97,1.0,2024-12-03
+98,BRO,RIT,Brockport Golden Eagles,Foul,To Basket,Christian Amica,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,99,1.0,2024-12-03
+101,BRO,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,102,2.0,2024-12-03
+102,BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Christian Amica,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,103,1.0,2024-12-03
+103,BRO,RIT,,Foul,N/A,Kenny Wilburn,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,104,1.0,2024-12-03
+105,BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Alex Tavarez,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,106,1.0,2024-12-03
+106,BRO,RIT,Brockport Golden Eagles,Turnover,N/A,Christian Amica,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,107,1.0,2024-12-03
+107,BRO,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Mark Osime,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Empire 8,Liberty League,108,1.0,2024-12-03
+110,BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Tony Arnold,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,111,1.0,2024-12-03
+111,BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,112,1.0,2024-12-03
+112,BRO,RIT,,Foul,N/A,Tony Arnold,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,113,1.0,2024-12-03
+114,BRO,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,115,4.0,2024-12-03
+115,BRO,RIT,Brockport Golden Eagles,Turnover,To Basket,Colby Jordan,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,116,1.0,2024-12-03
+116,BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Post,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,117,1.0,2024-12-03
+117,BRO,RIT,Brockport Golden Eagles,Turnover,N/A,Colby Jordan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,118,1.0,2024-12-03
+118,BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Danny Cohen,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Empire 8,Liberty League,119,4.0,2024-12-03
+119,BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,120,1.0,2024-12-03
+120,BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Nathaniel Gordon,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,121,1.0,2024-12-03
+121,BRO,RIT,Rochester Institute of Technology Tigers,Foul,N/A,Kenny Wilburn,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,122,1.0,2024-12-03
+124,BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Tony Arnold,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,125,1.0,2024-12-03
+126,BRO,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,127,4.0,2024-12-03
+127,BRO,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Kenny Wilburn,Post,Right,N/A,Brock Bowen,Spot Ups,Left,Drive,Empire 8,Liberty League,128,4.0,2024-12-03
+129,BRO,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,130,1.0,2024-12-03
+130,BRO,RIT,Brockport Golden Eagles,2pmi,No Dribble Jumper,Tony Arnold,Post,Right,Right Shoulder,Alex Tavarez,Spot Ups,N/A,Shot,Empire 8,Liberty League,131,3.0,2024-12-03
+131,BRO,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,132,4.0,2024-12-03
+132,BRO,RIT,Brockport Golden Eagles,Turnover,N/A,Tony Arnold,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,133,1.0,2024-12-03
+133,BRO,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Brock Bowen,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,134,4.0,2024-12-03
+134,BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Colby Jordan,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,135,1.0,2024-12-03
+135,BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Adewale Fasanmi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,136,1.0,2024-12-03
+136,BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Chase Dickens,Spot Ups,N/A,Shot,Empire 8,Liberty League,137,4.0,2024-12-03
+140,BRO,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Empire 8,Liberty League,141,4.0,2024-12-03
+141,BRO,RIT,Brockport Golden Eagles,And1,To Basket,Alex Tavarez,PNR,High,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,142,1.0,2024-12-03
+143,BRO,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Empire 8,Liberty League,144,1.0,2024-12-03
+145,BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Tony Arnold,PNR,High,Off,Adewale Fasanmi,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,146,1.0,2024-12-03
+147,BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,148,1.0,2024-12-03
+148,BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Tony Arnold,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,149,1.0,2024-12-03
+149,BRO,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,150,4.0,2024-12-03
+150,BRO,RIT,Brockport Golden Eagles,3pmi,No Dribble Jumper,Colby Jordan,PNR,High,Off,Tony Arnold,P&R Roll Man,N/A,Pop,Empire 8,Liberty League,151,4.0,2024-12-03
+151,BRO,RIT,Rochester Institute of Technology Tigers,2pmi,No Dribble Jumper,Chase Dickens,PNR,Right,Off,Kenny Wilburn,Spot Ups,N/A,Shot,Empire 8,Liberty League,152,3.0,2024-12-03
+152,BRO,RIT,Brockport Golden Eagles,Foul,To Basket,Tony Arnold,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,153,1.0,2024-12-03
+155,BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Nolan Smih,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,156,1.0,2024-12-03
+156,BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Nathaniel Gordon,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,157,1.0,2024-12-03
+157,BRO,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,158,4.0,2024-12-03
+158,BRO,RIT,Brockport Golden Eagles,Turnover,N/A,Tony Arnold,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,159,1.0,2024-12-03
+159,BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,160,4.0,2024-12-03
+161,BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,162,4.0,2024-12-03
+162,BRO,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Kenny Wilburn,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,163,1.0,2024-12-03
+165,BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Jakhi Lucas,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,166,1.0,2024-12-03
+166,BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,167,4.0,2024-12-03
+167,BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Christian Amica,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Empire 8,Liberty League,168,1.0,2024-12-03
+168,BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Iso,Right,N/A,Matt Caggiano,Spot Ups,N/A,Shot,Empire 8,Liberty League,169,4.0,2024-12-03
+169,BRO,RIT,Brockport Golden Eagles,Foul,To Basket,Jakhi Lucas,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,170,1.0,2024-12-03
+172,BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,PNR,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,173,1.0,2024-12-03
+173,BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Jakhi Lucas,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,174,1.0,2024-12-03
+174,BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,175,4.0,2024-12-03
+175,BRO,RIT,Brockport Golden Eagles,2pmi,Dribble Jumper,Jakhi Lucas,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,176,2.0,2024-12-03
+176,BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,177,1.0,2024-12-03
+177,BRO,RIT,Brockport Golden Eagles,3pMa,No Dribble Jumper,Zachary Rice,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,178,4.0,2024-12-03
+178,BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,179,1.0,2024-12-03
+179,BRO,RIT,Brockport Golden Eagles,Turnover,N/A,Cole Harding,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,180,1.0,2024-12-03
+180,BRO,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Kenny Wilburn,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,181,1.0,2024-12-03
+184,BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Colby Jordan,PNR,High,Off,Zachary Rice,P&R Roll Man,Right,Pop,Empire 8,Liberty League,185,1.0,2024-12-03
+185,BRO,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Brody Brown,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,186,1.0,2024-12-03
+188,BRO,RIT,Brockport Golden Eagles,3pmi,No Dribble Jumper,Christian Amica,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,189,4.0,2024-12-03
+189,BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Tony Arnold,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,190,1.0,2024-12-03
+190,BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,191,1.0,2024-12-03
+191,BRO,RIT,Brockport Golden Eagles,Turnover,N/A,Colby Jordan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,192,1.0,2024-12-03
+192,BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,High,N/A,Luke Granto,Spot Ups,N/A,Shot,Empire 8,Liberty League,193,4.0,2024-12-03
+193,BRO,RIT,Brockport Golden Eagles,Foul,To Basket,Colby Jordan,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,194,1.0,2024-12-03
+196,BRO,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Luke Granto,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,197,4.0,2024-12-03
+197,BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Tony Arnold,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,198,1.0,2024-12-03
+198,BRO,RIT,Brockport Golden Eagles,Foul,To Basket,Tony Arnold,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,199,1.0,2024-12-03
+201,BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,202,1.0,2024-12-03
+202,BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Adewale Fasanmi,Post,Middle,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,203,1.0,2024-12-03
+203,BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Iso,Top,N/A,Brody Brown,Spot Ups,N/A,Shot,Empire 8,Liberty League,204,4.0,2024-12-03
+204,BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,205,1.0,2024-12-03
+206,BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Jakhi Lucas,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,207,1.0,2024-12-03
+207,BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Brody Brown,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Empire 8,Liberty League,208,1.0,2024-12-03
+208,BRO,RIT,Brockport Golden Eagles,3pMa,No Dribble Jumper,Jakhi Lucas,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Empire 8,Liberty League,209,4.0,2024-12-03
+209,BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,210,4.0,2024-12-03
+210,BRO,RIT,Brockport Golden Eagles,And1,To Basket,Colby Jordan,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,211,1.0,2024-12-03
+212,BRO,RIT,Rochester Institute of Technology Tigers,Turnover,To Basket,Matt Caggiano,PNR,High,Off,Josiah Turner,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,213,1.0,2024-12-03
+213,BRO,RIT,Brockport Golden Eagles,Foul,N/A,Colby Jordan,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,214,1.0,2024-12-03
+216,BRO,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Brock Bowen,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,217,1.0,2024-12-03
+217,BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Jakhi Lucas,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,218,1.0,2024-12-03
+218,BRO,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Chase Dickens,P&R Roll Man,N/A,Pop,Empire 8,Liberty League,219,4.0,2024-12-03
+219,BRO,RIT,Brockport Golden Eagles,And1,To Basket,Adewale Fasanmi,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,220,1.0,2024-12-03
+221,BRO,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,222,1.0,2024-12-03
+222,BRO,RIT,Brockport Golden Eagles,Foul,To Basket,Nathaniel Gordon,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,223,1.0,2024-12-03
+225,BRO,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,226,3.0,2024-12-03
+226,BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Colby Jordan,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,227,1.0,2024-12-03
+227,BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,228,1.0,2024-12-03
+228,BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Colby Jordan,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,229,1.0,2024-12-03
+229,BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,230,1.0,2024-12-03
+230,BRO,RIT,Brockport Golden Eagles,3pmi,No Dribble Jumper,Alex Tavarez,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,231,4.0,2024-12-03
+231,BRO,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,232,1.0,2024-12-03
+232,BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Nathaniel Gordon,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,233,1.0,2024-12-03
+233,BRO,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Chase Dickens,Iso,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,234,2.0,2024-12-03
+234,BRO,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,235,4.0,2024-12-03
+235,BRO,RIT,Brockport Golden Eagles,3pmi,Dribble Jumper,Jakhi Lucas,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,236,4.0,2024-12-03
+236,BRO,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,237,4.0,2024-12-03
+237,BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Alex Tavarez,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,238,1.0,2024-12-03
+238,BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,PNR,High,Off,Kenny Wilburn,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,239,1.0,2024-12-03
+239,BRO,RIT,Brockport Golden Eagles,2pMa,To Basket,Tony Arnold,PNR,Left,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,240,1.0,2024-12-03
+240,BRO,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,241,1.0,2024-12-03
+241,BRO,RIT,Brockport Golden Eagles,2pmi,To Basket,Tony Arnold,Post,Right,Right Shoulder,Adewale Fasanmi,Cuts,N/A,Flash,Empire 8,Liberty League,242,1.0,2024-12-03
+242,BRO,RIT,Rochester Institute of Technology Tigers,Turnover,Drop Step,Kenny Wilburn,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,243,1.0,2024-12-03
+243,BRO,RIT,Brockport Golden Eagles,Foul,N/A,Jakhi Lucas,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,244,1.0,2024-12-03
+246,BRO,RIT,,Foul,N/A,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,247,1.0,2024-12-03
+249,BRO,RIT,Brockport Golden Eagles,Turnover,N/A,Jakhi Lucas,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,250,1.0,2024-12-03
+250,BRO,RIT,Rochester Institute of Technology Tigers,Foul,N/A,Matt Caggiano,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,251,1.0,2024-12-03
+253,BRO,RIT,Brockport Golden Eagles,3pmi,Dribble Jumper,Alex Tavarez,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,254,4.0,2024-12-03
+254,BRO,RIT,,Foul,N/A,Mark Osime,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,255,1.0,2024-12-03
+256,BRO,RIT,Brockport Golden Eagles,3pmi,Dribble Jumper,Jakhi Lucas,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,257,4.0,2024-12-03

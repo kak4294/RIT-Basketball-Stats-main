@@ -1,161 +1,161 @@
-Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
-SKD,REG,Skidmore Thoroughbreds,2pMa,N/A,Alexei Downie,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,1,1.0,2025
-SKD,REG,Regis College (MA) Pride,3pmi,No Dribble Jumper,Ned Fitzpatrick,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,2,4.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,3,1.0,2025
-SKD,REG,Regis College (MA) Pride,2pMa,Dribble Jumper,Aamyr Sullivan,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,4,3.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Jack LaGarde,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,5,1.0,2025
-SKD,REG,Regis College (MA) Pride,3pmi,No Dribble Jumper,Ned Fitzpatrick,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,6,4.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pMa,N/A,Alexei Downie,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,7,1.0,2025
-SKD,REG,Regis College (MA) Pride,3pmi,No Dribble Jumper,Tate Pike,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,8,4.0,2025
-SKD,REG,Regis College (MA) Pride,Foul,To Basket,Russell Rau,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,10,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,N/A,Alexei Downie,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,13,1.0,2025
-SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Aamyr Sullivan,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,15,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Aidan Roy,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,16,2.0,2025
-SKD,REG,Regis College (MA) Pride,3pmi,Dribble Jumper,Russell Rau,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,17,4.0,2025
-SKD,REG,Skidmore Thoroughbreds,Turnover,N/A,Charlie Fantom,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,18,1.0,2025
-SKD,REG,Regis College (MA) Pride,Foul,To Basket,Aamyr Sullivan,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,19,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,Post,Right,Face Up,Aidan Roy,Cuts,N/A,Basket,Liberty League,UNKNOWN,22,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pMa,To Basket,Jack LaGarde,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,23,1.0,2025
-SKD,REG,Regis College (MA) Pride,And1,To Basket,Jamir Harvey,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,24,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,26,4.0,2025
-SKD,REG,Regis College (MA) Pride,3pmi,Dribble Jumper,Aamyr Sullivan,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,27,4.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pMa,To Basket,Jake Walsh,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,29,1.0,2025
-SKD,REG,Regis College (MA) Pride,And1,To Basket,Russell Rau,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,30,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,Post,Left,Left Shoulder,Jake Walsh,Spot Ups,Right,Drive,Liberty League,UNKNOWN,34,1.0,2025
-SKD,REG,Regis College (MA) Pride,3pmi,No Dribble Jumper,Russell Rau,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,35,4.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,36,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,Iso,Top,N/A,Ethan Madeiros,Spot Ups,Right,Drive,Liberty League,UNKNOWN,38,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Ethan Madeiros,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,40,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Ethan Madeiros,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,41,1.0,2025
-SKD,REG,Regis College (MA) Pride,Turnover,N/A,Jean Saint Juste,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,42,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Charlie Fantom,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,43,3.0,2025
-SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Rob Elliott,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,44,1.0,2025
-SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Rob Elliott,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,45,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,Post,Right,Right Shoulder,Ethan Madeiros,Cuts,N/A,Flash,Liberty League,UNKNOWN,46,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Nick Padilla,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,48,2.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Charlie Fantom,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,49,3.0,2025
-SKD,REG,Skidmore Thoroughbreds,Foul,To Basket,Jack LaGarde,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,51,1.0,2025
-SKD,REG,Regis College (MA) Pride,2pmi,No Dribble Jumper,Jamir Harvey,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,54,3.0,2025
-SKD,REG,Regis College (MA) Pride,3pmi,No Dribble Jumper,Dan Grasso,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,56,4.0,2025
-SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Tyrone Chinn,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,58,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Jack LaGarde,Post,Left,N/A,Charlie Fantom,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,59,4.0,2025
-SKD,REG,Regis College (MA) Pride,2pMa,To Basket,Russell Rau,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,61,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,62,4.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Hakeem Daphnis,PNR,Right,Off,Jake Walsh,Spot Ups,Left,Drive,Liberty League,UNKNOWN,64,2.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Fumani Sithole,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,65,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Jack LaGarde,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,66,2.0,2025
-SKD,REG,Regis College (MA) Pride,Turnover,N/A,Aamyr Sullivan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,67,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Charlie Fantom,Hand Offs,Left,Stationary,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,68,1.0,2025
-SKD,REG,Regis College (MA) Pride,2pMa,To Basket,Aamyr Sullivan,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,69,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,70,1.0,2025
-SKD,REG,Regis College (MA) Pride,3pmi,No Dribble Jumper,Russell Rau,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,71,4.0,2025
-SKD,REG,Skidmore Thoroughbreds,Foul,To Basket,Jake Walsh,PNR,High,Off,Jack LaGarde,P&R Roll Man,N/A,Slips,Liberty League,UNKNOWN,72,1.0,2025
-SKD,REG,Regis College (MA) Pride,3pmi,No Dribble Jumper,Aamyr Sullivan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,75,4.0,2025
-SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Jamir Harvey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,76,1.0,2025
-SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Tate Pike,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,77,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,Turnover,N/A,Harry Luo,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,78,1.0,2025
-SKD,REG,Regis College (MA) Pride,2pMa,To Basket,Aamyr Sullivan,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,79,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,80,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Jack LaGarde,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,81,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pMa,To Basket,Aidan Roy,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,82,1.0,2025
-SKD,REG,Regis College (MA) Pride,Turnover,N/A,Aamyr Sullivan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,83,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Charlie Fantom,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,84,1.0,2025
-SKD,REG,Regis College (MA) Pride,Turnover,N/A,Jamir Harvey,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,85,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pMa,To Basket,Jake Walsh,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,86,1.0,2025
-SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Jamir Harvey,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,87,1.0,2025
-SKD,REG,Regis College (MA) Pride,Foul,To Basket,Jamir Harvey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,88,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Aidan Roy,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,91,2.0,2025
-SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Russell Rau,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,92,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Jake Walsh,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,93,1.0,2025
-SKD,REG,Regis College (MA) Pride,2pmi,Dribble Jumper,Ned Fitzpatrick,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,94,2.0,2025
-SKD,REG,Skidmore Thoroughbreds,Turnover,N/A,Charlie Fantom,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,95,1.0,2025
-SKD,REG,Regis College (MA) Pride,2pMa,To Basket,Aamyr Sullivan,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,96,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Alexei Downie,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,97,4.0,2025
-SKD,REG,Regis College (MA) Pride,2pmi,No Dribble Jumper,Jamir Harvey,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,98,3.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pMa,To Basket,Aidan Roy,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,99,1.0,2025
-SKD,REG,Regis College (MA) Pride,2pMa,To Basket,Ned Fitzpatrick,PNR,High,Off,Jamir Harvey,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,100,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pMa,To Basket,Aidan Roy,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,101,1.0,2025
-SKD,REG,Regis College (MA) Pride,2pMa,Dribble Jumper,Russell Rau,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,102,3.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,103,1.0,2025
-SKD,REG,Regis College (MA) Pride,Turnover,N/A,Aamyr Sullivan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,105,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,PNR,Left,Off,Alexei Downie,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,106,4.0,2025
-SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Ned Fitzpatrick,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,107,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Aidan Roy,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,108,2.0,2025
-SKD,REG,Regis College (MA) Pride,3pmi,No Dribble Jumper,Tate Pike,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,109,4.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Hakeem Daphnis,PNR,Right,Off,Jack LaGarde,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,110,1.0,2025
-SKD,REG,Regis College (MA) Pride,2pMa,To Basket,Jamir Harvey,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,111,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,Turnover,N/A,Charlie Fantom,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,112,1.0,2025
-SKD,REG,Regis College (MA) Pride,And1,To Basket,Jamir Harvey,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,113,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,115,4.0,2025
-SKD,REG,Regis College (MA) Pride,Foul,To Basket,Russell Rau,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,116,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,Foul,Dribble Jumper,Nick Padilla,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,119,2.0,2025
-SKD,REG,Regis College (MA) Pride,3pmi,Dribble Jumper,Aamyr Sullivan,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,122,4.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Prince Shyllon,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,123,2.0,2025
-SKD,REG,Regis College (MA) Pride,3pMa,No Dribble Jumper,Jamir Harvey,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,124,4.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pMa,To Basket,Jake Walsh,Iso,Right,N/A,Ethan Madeiros,Cuts,N/A,Basket,Liberty League,UNKNOWN,125,1.0,2025
-SKD,REG,Regis College (MA) Pride,3pmi,No Dribble Jumper,Russell Rau,Post,Middle,Left Shoulder,Aamyr Sullivan,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,126,4.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pMa,Drop Step,Ethan Madeiros,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,127,1.0,2025
-SKD,REG,Regis College (MA) Pride,Turnover,N/A,Jamir Harvey,Post,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,128,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Jake Walsh,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,129,3.0,2025
-SKD,REG,Regis College (MA) Pride,Turnover,N/A,Russell Rau,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,130,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,Foul,To Basket,Jake Walsh,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,131,1.0,2025
-SKD,REG,Regis College (MA) Pride,3pmi,No Dribble Jumper,Aamyr Sullivan,PNR,Left,Off,Santiago Ariza,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,134,4.0,2025
-SKD,REG,Regis College (MA) Pride,3pmi,Dribble Jumper,Tate Pike,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,137,4.0,2025
-SKD,REG,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Hakeem Daphnis,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,138,4.0,2025
-SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Russell Rau,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,139,1.0,2025
-SKD,REG,Regis College (MA) Pride,2pMa,To Basket,Aamyr Sullivan,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,141,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Alexei Downie,Post,Right,Right Shoulder,Hakeem Daphnis,Spot Ups,Left,Drive,Liberty League,UNKNOWN,142,3.0,2025
-SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Jamir Harvey,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,143,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,PNR,Right,Off,Alexei Downie,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,144,4.0,2025
-SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Jamir Harvey,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,145,1.0,2025
-SKD,REG,Regis College (MA) Pride,Foul,To Basket,Jamir Harvey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,146,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pMa,No Dribble Jumper,Charlie Fantom,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,149,3.0,2025
-SKD,REG,Regis College (MA) Pride,Turnover,N/A,Rob Elliott,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,151,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pMa,To Basket,Charlie Fantom,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,152,1.0,2025
-SKD,REG,Regis College (MA) Pride,Turnover,N/A,Russell Rau,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,153,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,Turnover,N/A,Aidan Roy,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,154,1.0,2025
-SKD,REG,Regis College (MA) Pride,Foul,To Basket,Tyrone Chinn,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,156,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pMa,To Basket,Aidan Roy,PNR,High,Off,Hakeem Daphnis,Spot Ups,Right,Drive,Liberty League,UNKNOWN,159,1.0,2025
-SKD,REG,Regis College (MA) Pride,Turnover,N/A,Marcus Watts Jr,Off Screens,Left,Curl,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,160,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Hakeem Daphnis,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,161,4.0,2025
-SKD,REG,Regis College (MA) Pride,Foul,To Basket,Tate Pike,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,162,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,167,4.0,2025
-SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Tate Pike,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,168,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Hakeem Daphnis,PNR,High,Off,Aidan Roy,Spot Ups,Right,Drive,Liberty League,UNKNOWN,170,3.0,2025
-SKD,REG,Regis College (MA) Pride,2pMa,Dribble Jumper,Aamyr Sullivan,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,171,2.0,2025
-SKD,REG,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Hakeem Daphnis,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,173,4.0,2025
-SKD,REG,Regis College (MA) Pride,2pMa,To Basket,Aamyr Sullivan,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,174,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,175,1.0,2025
-SKD,REG,Regis College (MA) Pride,Foul,To Basket,Jamir Harvey,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,176,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,Turnover,To Basket,Aidan Roy,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,179,1.0,2025
-SKD,REG,Regis College (MA) Pride,3pmi,No Dribble Jumper,Aamyr Sullivan,PNR,High,Away,Ned Fitzpatrick,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,180,4.0,2025
-SKD,REG,Regis College (MA) Pride,3pmi,No Dribble Jumper,Aamyr Sullivan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,182,4.0,2025
-SKD,REG,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,PNR,Right,Off,Fumani Sithole,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,183,4.0,2025
-SKD,REG,Regis College (MA) Pride,3pmi,No Dribble Jumper,Russell Rau,Post,Left,Right Shoulder,Tate Pike,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,184,4.0,2025
-SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Russell Rau,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,185,1.0,2025
-SKD,REG,Regis College (MA) Pride,2pMa,To Basket,Russell Rau,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,186,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,PNR,Left,Off,Fumani Sithole,Cuts,N/A,Flash,Liberty League,UNKNOWN,187,1.0,2025
-SKD,REG,Regis College (MA) Pride,2pMa,To Basket,Aamyr Sullivan,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,188,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Alexei Downie,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,189,2.0,2025
-SKD,REG,Skidmore Thoroughbreds,Foul,To Basket,Alexei Downie,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,191,1.0,2025
-SKD,REG,Regis College (MA) Pride,Foul,To Basket,Jamir Harvey,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,194,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Prince Shyllon,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,197,1.0,2025
-SKD,REG,Regis College (MA) Pride,2pMa,To Basket,Russell Rau,Post,Middle,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,198,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,Turnover,N/A,Alexei Downie,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,200,1.0,2025
-SKD,REG,Regis College (MA) Pride,Foul,To Basket,Aamyr Sullivan,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,201,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,PNR,High,Off,Aidan Roy,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,204,4.0,2025
-SKD,REG,Regis College (MA) Pride,2pMa,To Basket,Aamyr Sullivan,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,205,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,Foul,To Basket,Hakeem Daphnis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,206,1.0,2025
-SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Aamyr Sullivan,PNR,High,Off,Jamir Harvey,P&R Roll Man,Right,Pop,Liberty League,UNKNOWN,209,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,210,4.0,2025
-SKD,REG,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,212,4.0,2025
-SKD,REG,Regis College (MA) Pride,Foul,N/A,Russell Rau,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,214,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Hakeem Daphnis,PNR,High,Off,Charlie Fantom,Spot Ups,Left,Drive,Liberty League,UNKNOWN,217,1.0,2025
-SKD,REG,,Foul,N/A,Aamyr Sullivan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,218,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Aidan Roy,PNR,Right,Off,Hakeem Daphnis,P&R Roll Man,N/A,Slips,Liberty League,UNKNOWN,221,4.0,2025
-SKD,REG,,Foul,N/A,Tate Pike,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,222,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Charlie Fantom,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,225,4.0,2025
-SKD,REG,,Foul,N/A,Jamir Harvey,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,226,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,229,4.0,2025
-SKD,REG,,Foul,N/A,Russell Rau,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,230,1.0,2025
-SKD,REG,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Jake Walsh,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,233,4.0,2025
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,SKD,REG,Skidmore Thoroughbreds,2pMa,N/A,Alexei Downie,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,1,1.0,2024-11-11
+1,SKD,REG,Regis College (MA) Pride,3pmi,No Dribble Jumper,Ned Fitzpatrick,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,2,4.0,2024-11-11
+2,SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,3,1.0,2024-11-11
+3,SKD,REG,Regis College (MA) Pride,2pMa,Dribble Jumper,Aamyr Sullivan,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,4,3.0,2024-11-11
+4,SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Jack LaGarde,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,5,1.0,2024-11-11
+5,SKD,REG,Regis College (MA) Pride,3pmi,No Dribble Jumper,Ned Fitzpatrick,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,6,4.0,2024-11-11
+6,SKD,REG,Skidmore Thoroughbreds,2pMa,N/A,Alexei Downie,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,7,1.0,2024-11-11
+7,SKD,REG,Regis College (MA) Pride,3pmi,No Dribble Jumper,Tate Pike,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,8,4.0,2024-11-11
+9,SKD,REG,Regis College (MA) Pride,Foul,To Basket,Russell Rau,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,10,1.0,2024-11-11
+12,SKD,REG,Skidmore Thoroughbreds,2pmi,N/A,Alexei Downie,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,13,1.0,2024-11-11
+14,SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Aamyr Sullivan,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,15,1.0,2024-11-11
+15,SKD,REG,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Aidan Roy,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,16,2.0,2024-11-11
+16,SKD,REG,Regis College (MA) Pride,3pmi,Dribble Jumper,Russell Rau,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,17,4.0,2024-11-11
+17,SKD,REG,Skidmore Thoroughbreds,Turnover,N/A,Charlie Fantom,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,18,1.0,2024-11-11
+18,SKD,REG,Regis College (MA) Pride,Foul,To Basket,Aamyr Sullivan,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,19,1.0,2024-11-11
+21,SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,Post,Right,Face Up,Aidan Roy,Cuts,N/A,Basket,Liberty League,UNKNOWN,22,1.0,2024-11-11
+22,SKD,REG,Skidmore Thoroughbreds,2pMa,To Basket,Jack LaGarde,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,23,1.0,2024-11-11
+23,SKD,REG,Regis College (MA) Pride,And1,To Basket,Jamir Harvey,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,24,1.0,2024-11-11
+25,SKD,REG,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,26,4.0,2024-11-11
+26,SKD,REG,Regis College (MA) Pride,3pmi,Dribble Jumper,Aamyr Sullivan,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,27,4.0,2024-11-11
+28,SKD,REG,Skidmore Thoroughbreds,2pMa,To Basket,Jake Walsh,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,29,1.0,2024-11-11
+29,SKD,REG,Regis College (MA) Pride,And1,To Basket,Russell Rau,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,30,1.0,2024-11-11
+33,SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,Post,Left,Left Shoulder,Jake Walsh,Spot Ups,Right,Drive,Liberty League,UNKNOWN,34,1.0,2024-11-11
+34,SKD,REG,Regis College (MA) Pride,3pmi,No Dribble Jumper,Russell Rau,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,35,4.0,2024-11-11
+35,SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,36,1.0,2024-11-11
+37,SKD,REG,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,Iso,Top,N/A,Ethan Madeiros,Spot Ups,Right,Drive,Liberty League,UNKNOWN,38,1.0,2024-11-11
+39,SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Ethan Madeiros,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,40,1.0,2024-11-11
+40,SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Ethan Madeiros,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,41,1.0,2024-11-11
+41,SKD,REG,Regis College (MA) Pride,Turnover,N/A,Jean Saint Juste,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,42,1.0,2024-11-11
+42,SKD,REG,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Charlie Fantom,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,43,3.0,2024-11-11
+43,SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Rob Elliott,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,44,1.0,2024-11-11
+44,SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Rob Elliott,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,45,1.0,2024-11-11
+45,SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,Post,Right,Right Shoulder,Ethan Madeiros,Cuts,N/A,Flash,Liberty League,UNKNOWN,46,1.0,2024-11-11
+47,SKD,REG,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Nick Padilla,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,48,2.0,2024-11-11
+48,SKD,REG,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Charlie Fantom,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,49,3.0,2024-11-11
+50,SKD,REG,Skidmore Thoroughbreds,Foul,To Basket,Jack LaGarde,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,51,1.0,2024-11-11
+53,SKD,REG,Regis College (MA) Pride,2pmi,No Dribble Jumper,Jamir Harvey,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,54,3.0,2024-11-11
+55,SKD,REG,Regis College (MA) Pride,3pmi,No Dribble Jumper,Dan Grasso,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,56,4.0,2024-11-11
+57,SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Tyrone Chinn,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,58,1.0,2024-11-11
+58,SKD,REG,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Jack LaGarde,Post,Left,N/A,Charlie Fantom,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,59,4.0,2024-11-11
+60,SKD,REG,Regis College (MA) Pride,2pMa,To Basket,Russell Rau,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,61,1.0,2024-11-11
+61,SKD,REG,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,62,4.0,2024-11-11
+63,SKD,REG,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Hakeem Daphnis,PNR,Right,Off,Jake Walsh,Spot Ups,Left,Drive,Liberty League,UNKNOWN,64,2.0,2024-11-11
+64,SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Fumani Sithole,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,65,1.0,2024-11-11
+65,SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Jack LaGarde,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,66,2.0,2024-11-11
+66,SKD,REG,Regis College (MA) Pride,Turnover,N/A,Aamyr Sullivan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,67,1.0,2024-11-11
+67,SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Charlie Fantom,Hand Offs,Left,Stationary,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,68,1.0,2024-11-11
+68,SKD,REG,Regis College (MA) Pride,2pMa,To Basket,Aamyr Sullivan,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,69,1.0,2024-11-11
+69,SKD,REG,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,70,1.0,2024-11-11
+70,SKD,REG,Regis College (MA) Pride,3pmi,No Dribble Jumper,Russell Rau,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,71,4.0,2024-11-11
+71,SKD,REG,Skidmore Thoroughbreds,Foul,To Basket,Jake Walsh,PNR,High,Off,Jack LaGarde,P&R Roll Man,N/A,Slips,Liberty League,UNKNOWN,72,1.0,2024-11-11
+74,SKD,REG,Regis College (MA) Pride,3pmi,No Dribble Jumper,Aamyr Sullivan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,75,4.0,2024-11-11
+75,SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Jamir Harvey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,76,1.0,2024-11-11
+76,SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Tate Pike,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,77,1.0,2024-11-11
+77,SKD,REG,Skidmore Thoroughbreds,Turnover,N/A,Harry Luo,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,78,1.0,2024-11-11
+78,SKD,REG,Regis College (MA) Pride,2pMa,To Basket,Aamyr Sullivan,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,79,1.0,2024-11-11
+79,SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,80,1.0,2024-11-11
+80,SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Jack LaGarde,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,81,1.0,2024-11-11
+81,SKD,REG,Skidmore Thoroughbreds,2pMa,To Basket,Aidan Roy,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,82,1.0,2024-11-11
+82,SKD,REG,Regis College (MA) Pride,Turnover,N/A,Aamyr Sullivan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,83,1.0,2024-11-11
+83,SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Charlie Fantom,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,84,1.0,2024-11-11
+84,SKD,REG,Regis College (MA) Pride,Turnover,N/A,Jamir Harvey,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,85,1.0,2024-11-11
+85,SKD,REG,Skidmore Thoroughbreds,2pMa,To Basket,Jake Walsh,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,86,1.0,2024-11-11
+86,SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Jamir Harvey,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,87,1.0,2024-11-11
+87,SKD,REG,Regis College (MA) Pride,Foul,To Basket,Jamir Harvey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,88,1.0,2024-11-11
+90,SKD,REG,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Aidan Roy,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,91,2.0,2024-11-11
+91,SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Russell Rau,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,92,1.0,2024-11-11
+92,SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Jake Walsh,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,93,1.0,2024-11-11
+93,SKD,REG,Regis College (MA) Pride,2pmi,Dribble Jumper,Ned Fitzpatrick,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,94,2.0,2024-11-11
+94,SKD,REG,Skidmore Thoroughbreds,Turnover,N/A,Charlie Fantom,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,95,1.0,2024-11-11
+95,SKD,REG,Regis College (MA) Pride,2pMa,To Basket,Aamyr Sullivan,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,96,1.0,2024-11-11
+96,SKD,REG,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Alexei Downie,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,97,4.0,2024-11-11
+97,SKD,REG,Regis College (MA) Pride,2pmi,No Dribble Jumper,Jamir Harvey,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,98,3.0,2024-11-11
+98,SKD,REG,Skidmore Thoroughbreds,2pMa,To Basket,Aidan Roy,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,99,1.0,2024-11-11
+99,SKD,REG,Regis College (MA) Pride,2pMa,To Basket,Ned Fitzpatrick,PNR,High,Off,Jamir Harvey,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,100,1.0,2024-11-11
+100,SKD,REG,Skidmore Thoroughbreds,2pMa,To Basket,Aidan Roy,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,101,1.0,2024-11-11
+101,SKD,REG,Regis College (MA) Pride,2pMa,Dribble Jumper,Russell Rau,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,102,3.0,2024-11-11
+102,SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,103,1.0,2024-11-11
+104,SKD,REG,Regis College (MA) Pride,Turnover,N/A,Aamyr Sullivan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,105,1.0,2024-11-11
+105,SKD,REG,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,PNR,Left,Off,Alexei Downie,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,106,4.0,2024-11-11
+106,SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Ned Fitzpatrick,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,107,1.0,2024-11-11
+107,SKD,REG,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Aidan Roy,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,108,2.0,2024-11-11
+108,SKD,REG,Regis College (MA) Pride,3pmi,No Dribble Jumper,Tate Pike,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,109,4.0,2024-11-11
+109,SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Hakeem Daphnis,PNR,Right,Off,Jack LaGarde,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,110,1.0,2024-11-11
+110,SKD,REG,Regis College (MA) Pride,2pMa,To Basket,Jamir Harvey,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,111,1.0,2024-11-11
+111,SKD,REG,Skidmore Thoroughbreds,Turnover,N/A,Charlie Fantom,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,112,1.0,2024-11-11
+112,SKD,REG,Regis College (MA) Pride,And1,To Basket,Jamir Harvey,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,113,1.0,2024-11-11
+114,SKD,REG,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,115,4.0,2024-11-11
+115,SKD,REG,Regis College (MA) Pride,Foul,To Basket,Russell Rau,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,116,1.0,2024-11-11
+118,SKD,REG,Skidmore Thoroughbreds,Foul,Dribble Jumper,Nick Padilla,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,119,2.0,2024-11-11
+121,SKD,REG,Regis College (MA) Pride,3pmi,Dribble Jumper,Aamyr Sullivan,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,122,4.0,2024-11-11
+122,SKD,REG,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Prince Shyllon,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,123,2.0,2024-11-11
+123,SKD,REG,Regis College (MA) Pride,3pMa,No Dribble Jumper,Jamir Harvey,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,124,4.0,2024-11-11
+124,SKD,REG,Skidmore Thoroughbreds,2pMa,To Basket,Jake Walsh,Iso,Right,N/A,Ethan Madeiros,Cuts,N/A,Basket,Liberty League,UNKNOWN,125,1.0,2024-11-11
+125,SKD,REG,Regis College (MA) Pride,3pmi,No Dribble Jumper,Russell Rau,Post,Middle,Left Shoulder,Aamyr Sullivan,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,126,4.0,2024-11-11
+126,SKD,REG,Skidmore Thoroughbreds,2pMa,Drop Step,Ethan Madeiros,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,127,1.0,2024-11-11
+127,SKD,REG,Regis College (MA) Pride,Turnover,N/A,Jamir Harvey,Post,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,128,1.0,2024-11-11
+128,SKD,REG,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Jake Walsh,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,129,3.0,2024-11-11
+129,SKD,REG,Regis College (MA) Pride,Turnover,N/A,Russell Rau,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,130,1.0,2024-11-11
+130,SKD,REG,Skidmore Thoroughbreds,Foul,To Basket,Jake Walsh,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,131,1.0,2024-11-11
+133,SKD,REG,Regis College (MA) Pride,3pmi,No Dribble Jumper,Aamyr Sullivan,PNR,Left,Off,Santiago Ariza,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,134,4.0,2024-11-11
+136,SKD,REG,Regis College (MA) Pride,3pmi,Dribble Jumper,Tate Pike,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,137,4.0,2024-11-11
+137,SKD,REG,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Hakeem Daphnis,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,138,4.0,2024-11-11
+138,SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Russell Rau,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,139,1.0,2024-11-11
+140,SKD,REG,Regis College (MA) Pride,2pMa,To Basket,Aamyr Sullivan,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,141,1.0,2024-11-11
+141,SKD,REG,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Alexei Downie,Post,Right,Right Shoulder,Hakeem Daphnis,Spot Ups,Left,Drive,Liberty League,UNKNOWN,142,3.0,2024-11-11
+142,SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Jamir Harvey,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,143,1.0,2024-11-11
+143,SKD,REG,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,PNR,Right,Off,Alexei Downie,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,144,4.0,2024-11-11
+144,SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Jamir Harvey,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,145,1.0,2024-11-11
+145,SKD,REG,Regis College (MA) Pride,Foul,To Basket,Jamir Harvey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,146,1.0,2024-11-11
+148,SKD,REG,Skidmore Thoroughbreds,2pMa,No Dribble Jumper,Charlie Fantom,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,149,3.0,2024-11-11
+150,SKD,REG,Regis College (MA) Pride,Turnover,N/A,Rob Elliott,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,151,1.0,2024-11-11
+151,SKD,REG,Skidmore Thoroughbreds,2pMa,To Basket,Charlie Fantom,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,152,1.0,2024-11-11
+152,SKD,REG,Regis College (MA) Pride,Turnover,N/A,Russell Rau,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,153,1.0,2024-11-11
+153,SKD,REG,Skidmore Thoroughbreds,Turnover,N/A,Aidan Roy,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,154,1.0,2024-11-11
+155,SKD,REG,Regis College (MA) Pride,Foul,To Basket,Tyrone Chinn,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,156,1.0,2024-11-11
+158,SKD,REG,Skidmore Thoroughbreds,2pMa,To Basket,Aidan Roy,PNR,High,Off,Hakeem Daphnis,Spot Ups,Right,Drive,Liberty League,UNKNOWN,159,1.0,2024-11-11
+159,SKD,REG,Regis College (MA) Pride,Turnover,N/A,Marcus Watts Jr,Off Screens,Left,Curl,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,160,1.0,2024-11-11
+160,SKD,REG,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Hakeem Daphnis,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,161,4.0,2024-11-11
+161,SKD,REG,Regis College (MA) Pride,Foul,To Basket,Tate Pike,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,162,1.0,2024-11-11
+166,SKD,REG,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,167,4.0,2024-11-11
+167,SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Tate Pike,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,168,1.0,2024-11-11
+169,SKD,REG,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Hakeem Daphnis,PNR,High,Off,Aidan Roy,Spot Ups,Right,Drive,Liberty League,UNKNOWN,170,3.0,2024-11-11
+170,SKD,REG,Regis College (MA) Pride,2pMa,Dribble Jumper,Aamyr Sullivan,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,171,2.0,2024-11-11
+172,SKD,REG,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Hakeem Daphnis,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,173,4.0,2024-11-11
+173,SKD,REG,Regis College (MA) Pride,2pMa,To Basket,Aamyr Sullivan,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,174,1.0,2024-11-11
+174,SKD,REG,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,175,1.0,2024-11-11
+175,SKD,REG,Regis College (MA) Pride,Foul,To Basket,Jamir Harvey,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,176,1.0,2024-11-11
+178,SKD,REG,Skidmore Thoroughbreds,Turnover,To Basket,Aidan Roy,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,179,1.0,2024-11-11
+179,SKD,REG,Regis College (MA) Pride,3pmi,No Dribble Jumper,Aamyr Sullivan,PNR,High,Away,Ned Fitzpatrick,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,180,4.0,2024-11-11
+181,SKD,REG,Regis College (MA) Pride,3pmi,No Dribble Jumper,Aamyr Sullivan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,182,4.0,2024-11-11
+182,SKD,REG,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,PNR,Right,Off,Fumani Sithole,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,183,4.0,2024-11-11
+183,SKD,REG,Regis College (MA) Pride,3pmi,No Dribble Jumper,Russell Rau,Post,Left,Right Shoulder,Tate Pike,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,184,4.0,2024-11-11
+184,SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Russell Rau,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,185,1.0,2024-11-11
+185,SKD,REG,Regis College (MA) Pride,2pMa,To Basket,Russell Rau,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,186,1.0,2024-11-11
+186,SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,PNR,Left,Off,Fumani Sithole,Cuts,N/A,Flash,Liberty League,UNKNOWN,187,1.0,2024-11-11
+187,SKD,REG,Regis College (MA) Pride,2pMa,To Basket,Aamyr Sullivan,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,188,1.0,2024-11-11
+188,SKD,REG,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Alexei Downie,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,189,2.0,2024-11-11
+190,SKD,REG,Skidmore Thoroughbreds,Foul,To Basket,Alexei Downie,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,191,1.0,2024-11-11
+193,SKD,REG,Regis College (MA) Pride,Foul,To Basket,Jamir Harvey,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,194,1.0,2024-11-11
+196,SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Prince Shyllon,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,197,1.0,2024-11-11
+197,SKD,REG,Regis College (MA) Pride,2pMa,To Basket,Russell Rau,Post,Middle,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,198,1.0,2024-11-11
+199,SKD,REG,Skidmore Thoroughbreds,Turnover,N/A,Alexei Downie,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,200,1.0,2024-11-11
+200,SKD,REG,Regis College (MA) Pride,Foul,To Basket,Aamyr Sullivan,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,201,1.0,2024-11-11
+203,SKD,REG,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,PNR,High,Off,Aidan Roy,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,204,4.0,2024-11-11
+204,SKD,REG,Regis College (MA) Pride,2pMa,To Basket,Aamyr Sullivan,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,205,1.0,2024-11-11
+205,SKD,REG,Skidmore Thoroughbreds,Foul,To Basket,Hakeem Daphnis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,206,1.0,2024-11-11
+208,SKD,REG,Regis College (MA) Pride,2pmi,To Basket,Aamyr Sullivan,PNR,High,Off,Jamir Harvey,P&R Roll Man,Right,Pop,Liberty League,UNKNOWN,209,1.0,2024-11-11
+209,SKD,REG,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,210,4.0,2024-11-11
+211,SKD,REG,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,212,4.0,2024-11-11
+213,SKD,REG,Regis College (MA) Pride,Foul,N/A,Russell Rau,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,214,1.0,2024-11-11
+216,SKD,REG,Skidmore Thoroughbreds,2pmi,To Basket,Hakeem Daphnis,PNR,High,Off,Charlie Fantom,Spot Ups,Left,Drive,Liberty League,UNKNOWN,217,1.0,2024-11-11
+217,SKD,REG,,Foul,N/A,Aamyr Sullivan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,218,1.0,2024-11-11
+220,SKD,REG,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Aidan Roy,PNR,Right,Off,Hakeem Daphnis,P&R Roll Man,N/A,Slips,Liberty League,UNKNOWN,221,4.0,2024-11-11
+221,SKD,REG,,Foul,N/A,Tate Pike,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,222,1.0,2024-11-11
+224,SKD,REG,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Charlie Fantom,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,225,4.0,2024-11-11
+225,SKD,REG,,Foul,N/A,Jamir Harvey,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,226,1.0,2024-11-11
+228,SKD,REG,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,229,4.0,2024-11-11
+229,SKD,REG,,Foul,N/A,Russell Rau,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,230,1.0,2024-11-11
+232,SKD,REG,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Jake Walsh,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,233,4.0,2024-11-11

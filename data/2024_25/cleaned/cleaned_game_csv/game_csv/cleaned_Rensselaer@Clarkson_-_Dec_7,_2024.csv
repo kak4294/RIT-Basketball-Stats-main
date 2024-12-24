@@ -1,129 +1,129 @@
-Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
-CU,RPI,Clarkson University Golden Knights,2pMa,To Basket,Jack Dalgety,Post,Middle,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,1.0,2025
-CU,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Chuck Clemons,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,4.0,2025
-CU,RPI,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,1.0,2025
-CU,RPI,Rensselaer Polytechnic,Foul,To Basket,Avery Eugster,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,1.0,2025
-CU,RPI,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,1.0,2025
-CU,RPI,Rensselaer Polytechnic,3pMa,Dribble Jumper,Chuck Clemons,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,4.0,2025
-CU,RPI,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,4.0,2025
-CU,RPI,Rensselaer Polytechnic,2pMa,To Basket,PJ Scalisi,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,1.0,2025
-CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,4.0,2025
-CU,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,14,4.0,2025
-CU,RPI,Clarkson University Golden Knights,2pmi,Hook Shot,Finn Cork,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,1.0,2025
-CU,RPI,Rensselaer Polytechnic,2pmi,To Basket,Chuck Clemons,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,1.0,2025
-CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,4.0,2025
-CU,RPI,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,19,1.0,2025
-CU,RPI,Rensselaer Polytechnic,Foul,To Basket,Andrew Deppe,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,1.0,2025
-CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,23,4.0,2025
-CU,RPI,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,25,1.0,2025
-CU,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Dylan Matchett,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,4.0,2025
-CU,RPI,Clarkson University Golden Knights,3pmi,Dribble Jumper,Braeden Burns,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,27,4.0,2025
-CU,RPI,Clarkson University Golden Knights,2pmi,Dribble Jumper,Ben Rappa,PNR,High,Off,Jack Dalgety,Spot Ups,Left,Drive,Liberty League,Liberty League,28,2.0,2025
-CU,RPI,Rensselaer Polytechnic,2pMa,To Basket,PJ Scalisi,PNR,High,Off,Dylan Matchett,Cuts,N/A,Basket,Liberty League,Liberty League,29,1.0,2025
-CU,RPI,Clarkson University Golden Knights,Foul,To Basket,Braeden Burns,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,1.0,2025
-CU,RPI,Clarkson University Golden Knights,Foul,To Basket,Jack Dalgety,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,35,1.0,2025
-CU,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,38,4.0,2025
-CU,RPI,Clarkson University Golden Knights,Turnover,N/A,Jack Dalgety,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,1.0,2025
-CU,RPI,Rensselaer Polytechnic,Foul,To Basket,Nate Tawiah-Boateng,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,1.0,2025
-CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Ben Phillips,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,4.0,2025
-CU,RPI,Rensselaer Polytechnic,3pmi,Dribble Jumper,Chuck Clemons,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,45,4.0,2025
-CU,RPI,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Braeden Burns,Iso,Right,N/A,Matt Toscano,Spot Ups,N/A,Shot,Liberty League,Liberty League,46,4.0,2025
-CU,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Nate Tawiah-Boateng,Post,Right,Left Shoulder,Chuck Clemons,Spot Ups,N/A,Shot,Liberty League,Liberty League,47,4.0,2025
-CU,RPI,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,1.0,2025
-CU,RPI,Clarkson University Golden Knights,2pmi,To Basket,Ben Rappa,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,1.0,2025
-CU,RPI,Rensselaer Polytechnic,2pmi,Dribble Jumper,Yechiel Stewart,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,51,3.0,2025
-CU,RPI,Rensselaer Polytechnic,Foul,To Basket,Pat White,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,1.0,2025
-CU,RPI,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,55,1.0,2025
-CU,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,PNR,Right,Away,Nate Tawiah-Boateng,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,56,4.0,2025
-CU,RPI,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,57,1.0,2025
-CU,RPI,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Post,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,58,1.0,2025
-CU,RPI,Rensselaer Polytechnic,Turnover,To Basket,Yechiel Stewart,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,59,1.0,2025
-CU,RPI,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,1.0,2025
-CU,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Pat White,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,61,4.0,2025
-CU,RPI,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,4.0,2025
-CU,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Yechiel Stewart,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,4.0,2025
-CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matt Toscano,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,4.0,2025
-CU,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Pat White,Post,Left,Left Shoulder,Nate Tawiah-Boateng,Spot Ups,N/A,Shot,Liberty League,Liberty League,65,4.0,2025
-CU,RPI,Clarkson University Golden Knights,Turnover,N/A,Jeff Dewar,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,1.0,2025
-CU,RPI,Rensselaer Polytechnic,Foul,To Basket,Chuck Clemons,PNR,Left,N/A,Nate Tawiah-Boateng,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,67,1.0,2025
-CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,70,4.0,2025
-CU,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,71,4.0,2025
-CU,RPI,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,1.0,2025
-CU,RPI,Clarkson University Golden Knights,Turnover,N/A,Braeden Burns,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,74,1.0,2025
-CU,RPI,Rensselaer Polytechnic,2pMa,Hook Shot,PJ Scalisi,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,1.0,2025
-CU,RPI,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,77,4.0,2025
-CU,RPI,Rensselaer Polytechnic,2pmi,Dribble Jumper,PJ Scalisi,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,78,2.0,2025
-CU,RPI,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,1.0,2025
-CU,RPI,Rensselaer Polytechnic,And1,To Basket,Dylan Matchett,PNR,High,Off,PJ Scalisi,Cuts,N/A,Basket,Liberty League,Liberty League,80,1.0,2025
-CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Braeden Burns,PNR,High,Off,Steve DeRegis,Spot Ups,N/A,Shot,Liberty League,Liberty League,82,4.0,2025
-CU,RPI,Rensselaer Polytechnic,Turnover,To Basket,Andrew Deppe,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,1.0,2025
-CU,RPI,Clarkson University Golden Knights,2pmi,To Basket,Finn Cork,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,84,1.0,2025
-CU,RPI,Rensselaer Polytechnic,2pmi,To Basket,Dylan Matchett,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,1.0,2025
-CU,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,4.0,2025
-CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,4.0,2025
-CU,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,4.0,2025
-CU,RPI,Clarkson University Golden Knights,Turnover,N/A,Finn Cork,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,90,1.0,2025
-CU,RPI,Rensselaer Polytechnic,2pmi,To Basket,Chuck Clemons,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,91,1.0,2025
-CU,RPI,Clarkson University Golden Knights,3pMa,Dribble Jumper,Steve DeRegis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,92,4.0,2025
-CU,RPI,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,93,1.0,2025
-CU,RPI,Clarkson University Golden Knights,2pmi,Dribble Jumper,Braeden Burns,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,94,3.0,2025
-CU,RPI,Rensselaer Polytechnic,2pmi,Hook Shot,Dylan Matchett,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,1.0,2025
-CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,96,4.0,2025
-CU,RPI,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,1.0,2025
-CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,4.0,2025
-CU,RPI,Clarkson University Golden Knights,2pmi,To Basket,Finn Cork,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,2.0,2025
-CU,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,PNR,Left,Away,Andrew Deppe,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,101,4.0,2025
-CU,RPI,Clarkson University Golden Knights,Foul,To Basket,Braeden Burns,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,102,1.0,2025
-CU,RPI,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,1.0,2025
-CU,RPI,Clarkson University Golden Knights,Turnover,N/A,Jack Dalgety,Post,Left,Left Shoulder,Braeden Burns,Spot Ups,Left,Drive,Liberty League,Liberty League,108,1.0,2025
-CU,RPI,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,109,1.0,2025
-CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,110,4.0,2025
-CU,RPI,Rensselaer Polytechnic,2pmi,To Basket,PJ Scalisi,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,1.0,2025
-CU,RPI,Clarkson University Golden Knights,2pMa,Drop Step,Finn Cork,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,1.0,2025
-CU,RPI,Rensselaer Polytechnic,2pMa,Dribble Jumper,PJ Scalisi,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,2.0,2025
-CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,4.0,2025
-CU,RPI,Rensselaer Polytechnic,2pMa,To Basket,Dylan Matchett,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,1.0,2025
-CU,RPI,Clarkson University Golden Knights,Foul,To Basket,Finn Cork,Post,Left,Left Shoulder,Jack Dalgety,Cuts,N/A,Basket,Liberty League,Liberty League,118,1.0,2025
-CU,RPI,Rensselaer Polytechnic,Foul,To Basket,Andrew Deppe,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,121,1.0,2025
-CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Lorenzo Rappa,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,125,4.0,2025
-CU,RPI,Rensselaer Polytechnic,2pMa,To Basket,Dylan Matchett,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,126,1.0,2025
-CU,RPI,Clarkson University Golden Knights,2pMa,Drop Step,Finn Cork,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,1.0,2025
-CU,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Yechiel Stewart,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,129,4.0,2025
-CU,RPI,Clarkson University Golden Knights,2pMa,To Basket,Jack Dalgety,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,130,1.0,2025
-CU,RPI,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,1.0,2025
-CU,RPI,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,1.0,2025
-CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,133,4.0,2025
-CU,RPI,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Ben Rappa,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,135,4.0,2025
-CU,RPI,Rensselaer Polytechnic,Turnover,N/A,Nate Tawiah-Boateng,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,136,1.0,2025
-CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Ben Rappa,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,137,4.0,2025
-CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matt Toscano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,4.0,2025
-CU,RPI,Rensselaer Polytechnic,Turnover,To Basket,Pat White,PNR,High,Off,Nate Tawiah-Boateng,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,140,1.0,2025
-CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Iso,Right,N/A,Matt Toscano,Spot Ups,N/A,Shot,Liberty League,Liberty League,142,4.0,2025
-CU,RPI,Rensselaer Polytechnic,2pMa,To Basket,Nate Tawiah-Boateng,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,144,1.0,2025
-CU,RPI,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,145,4.0,2025
-CU,RPI,Rensselaer Polytechnic,2pmi,To Basket,Avery Eugster,Hand Offs,Left,Stationary,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,1.0,2025
-CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,4.0,2025
-CU,RPI,Rensselaer Polytechnic,2pMa,Dribble Jumper,Yechiel Stewart,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,150,3.0,2025
-CU,RPI,Clarkson University Golden Knights,2pmi,To Basket,Jack Dalgety,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,151,1.0,2025
-CU,RPI,Rensselaer Polytechnic,2pmi,Dribble Jumper,Yechiel Stewart,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,153,3.0,2025
-CU,RPI,Clarkson University Golden Knights,2pmi,To Basket,Jack Dalgety,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,154,1.0,2025
-CU,RPI,Rensselaer Polytechnic,And1,To Basket,Dylan Matchett,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,1.0,2025
-CU,RPI,Clarkson University Golden Knights,Turnover,N/A,Braeden Burns,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,1.0,2025
-CU,RPI,Rensselaer Polytechnic,Turnover,N/A,PJ Scalisi,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,158,1.0,2025
-CU,RPI,Clarkson University Golden Knights,2pMa,To Basket,Steve DeRegis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,1.0,2025
-CU,RPI,,Foul,N/A,Chuck Clemons,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,160,1.0,2025
-CU,RPI,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Iso,Right,N/A,Braeden Burns,Cuts,N/A,Basket,Liberty League,Liberty League,163,1.0,2025
-CU,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Dylan Matchett,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,164,4.0,2025
-CU,RPI,Clarkson University Golden Knights,3pmi,Dribble Jumper,Steve DeRegis,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,4.0,2025
-CU,RPI,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,167,1.0,2025
-CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,4.0,2025
-CU,RPI,Clarkson University Golden Knights,Foul,N/A,Jack Dalgety,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,169,1.0,2025
-CU,RPI,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,Iso,Top,N/A,Andrew Deppe,Cuts,N/A,Basket,Liberty League,Liberty League,172,1.0,2025
-CU,RPI,Clarkson University Golden Knights,Foul,To Basket,Jack Dalgety,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,1.0,2025
-CU,RPI,Rensselaer Polytechnic,Turnover,N/A,Avery Eugster,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,176,1.0,2025
-CU,RPI,Clarkson University Golden Knights,Turnover,N/A,Finn Cork,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,1.0,2025
-CU,RPI,Rensselaer Polytechnic,Foul,To Basket,Avery Eugster,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,178,1.0,2025
-CU,RPI,Clarkson University Golden Knights,3pMa,Dribble Jumper,Braeden Burns,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,4.0,2025
-CU,RPI,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,182,1.0,2025
-CU,RPI,Clarkson University Golden Knights,Turnover,N/A,Lorenzo Rappa,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,183,1.0,2025
-CU,RPI,Rensselaer Polytechnic,2pmi,To Basket,Dylan Matchett,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,184,1.0,2025
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+1,CU,RPI,Clarkson University Golden Knights,2pMa,To Basket,Jack Dalgety,Post,Middle,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,1.0,2024-12-07
+2,CU,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Chuck Clemons,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,4.0,2024-12-07
+3,CU,RPI,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,1.0,2024-12-07
+5,CU,RPI,Rensselaer Polytechnic,Foul,To Basket,Avery Eugster,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,1.0,2024-12-07
+8,CU,RPI,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,1.0,2024-12-07
+9,CU,RPI,Rensselaer Polytechnic,3pMa,Dribble Jumper,Chuck Clemons,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,4.0,2024-12-07
+10,CU,RPI,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,4.0,2024-12-07
+11,CU,RPI,Rensselaer Polytechnic,2pMa,To Basket,PJ Scalisi,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,1.0,2024-12-07
+12,CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,4.0,2024-12-07
+13,CU,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,14,4.0,2024-12-07
+15,CU,RPI,Clarkson University Golden Knights,2pmi,Hook Shot,Finn Cork,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,1.0,2024-12-07
+16,CU,RPI,Rensselaer Polytechnic,2pmi,To Basket,Chuck Clemons,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,1.0,2024-12-07
+17,CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,4.0,2024-12-07
+18,CU,RPI,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,19,1.0,2024-12-07
+19,CU,RPI,Rensselaer Polytechnic,Foul,To Basket,Andrew Deppe,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,1.0,2024-12-07
+22,CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,23,4.0,2024-12-07
+24,CU,RPI,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,25,1.0,2024-12-07
+25,CU,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Dylan Matchett,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,4.0,2024-12-07
+26,CU,RPI,Clarkson University Golden Knights,3pmi,Dribble Jumper,Braeden Burns,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,27,4.0,2024-12-07
+27,CU,RPI,Clarkson University Golden Knights,2pmi,Dribble Jumper,Ben Rappa,PNR,High,Off,Jack Dalgety,Spot Ups,Left,Drive,Liberty League,Liberty League,28,2.0,2024-12-07
+28,CU,RPI,Rensselaer Polytechnic,2pMa,To Basket,PJ Scalisi,PNR,High,Off,Dylan Matchett,Cuts,N/A,Basket,Liberty League,Liberty League,29,1.0,2024-12-07
+29,CU,RPI,Clarkson University Golden Knights,Foul,To Basket,Braeden Burns,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,1.0,2024-12-07
+34,CU,RPI,Clarkson University Golden Knights,Foul,To Basket,Jack Dalgety,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,35,1.0,2024-12-07
+37,CU,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,38,4.0,2024-12-07
+38,CU,RPI,Clarkson University Golden Knights,Turnover,N/A,Jack Dalgety,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,1.0,2024-12-07
+39,CU,RPI,Rensselaer Polytechnic,Foul,To Basket,Nate Tawiah-Boateng,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,1.0,2024-12-07
+42,CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Ben Phillips,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,4.0,2024-12-07
+44,CU,RPI,Rensselaer Polytechnic,3pmi,Dribble Jumper,Chuck Clemons,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,45,4.0,2024-12-07
+45,CU,RPI,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Braeden Burns,Iso,Right,N/A,Matt Toscano,Spot Ups,N/A,Shot,Liberty League,Liberty League,46,4.0,2024-12-07
+46,CU,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Nate Tawiah-Boateng,Post,Right,Left Shoulder,Chuck Clemons,Spot Ups,N/A,Shot,Liberty League,Liberty League,47,4.0,2024-12-07
+48,CU,RPI,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,1.0,2024-12-07
+49,CU,RPI,Clarkson University Golden Knights,2pmi,To Basket,Ben Rappa,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,1.0,2024-12-07
+50,CU,RPI,Rensselaer Polytechnic,2pmi,Dribble Jumper,Yechiel Stewart,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,51,3.0,2024-12-07
+51,CU,RPI,Rensselaer Polytechnic,Foul,To Basket,Pat White,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,1.0,2024-12-07
+54,CU,RPI,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,55,1.0,2024-12-07
+55,CU,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,PNR,Right,Away,Nate Tawiah-Boateng,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,56,4.0,2024-12-07
+56,CU,RPI,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,57,1.0,2024-12-07
+57,CU,RPI,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Post,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,58,1.0,2024-12-07
+58,CU,RPI,Rensselaer Polytechnic,Turnover,To Basket,Yechiel Stewart,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,59,1.0,2024-12-07
+59,CU,RPI,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,1.0,2024-12-07
+60,CU,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Pat White,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,61,4.0,2024-12-07
+61,CU,RPI,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,4.0,2024-12-07
+62,CU,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Yechiel Stewart,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,4.0,2024-12-07
+63,CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matt Toscano,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,4.0,2024-12-07
+64,CU,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Pat White,Post,Left,Left Shoulder,Nate Tawiah-Boateng,Spot Ups,N/A,Shot,Liberty League,Liberty League,65,4.0,2024-12-07
+65,CU,RPI,Clarkson University Golden Knights,Turnover,N/A,Jeff Dewar,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,1.0,2024-12-07
+66,CU,RPI,Rensselaer Polytechnic,Foul,To Basket,Chuck Clemons,PNR,Left,N/A,Nate Tawiah-Boateng,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,67,1.0,2024-12-07
+69,CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,70,4.0,2024-12-07
+70,CU,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,71,4.0,2024-12-07
+71,CU,RPI,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,1.0,2024-12-07
+73,CU,RPI,Clarkson University Golden Knights,Turnover,N/A,Braeden Burns,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,74,1.0,2024-12-07
+74,CU,RPI,Rensselaer Polytechnic,2pMa,Hook Shot,PJ Scalisi,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,1.0,2024-12-07
+76,CU,RPI,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,77,4.0,2024-12-07
+77,CU,RPI,Rensselaer Polytechnic,2pmi,Dribble Jumper,PJ Scalisi,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,78,2.0,2024-12-07
+78,CU,RPI,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,1.0,2024-12-07
+79,CU,RPI,Rensselaer Polytechnic,And1,To Basket,Dylan Matchett,PNR,High,Off,PJ Scalisi,Cuts,N/A,Basket,Liberty League,Liberty League,80,1.0,2024-12-07
+81,CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Braeden Burns,PNR,High,Off,Steve DeRegis,Spot Ups,N/A,Shot,Liberty League,Liberty League,82,4.0,2024-12-07
+82,CU,RPI,Rensselaer Polytechnic,Turnover,To Basket,Andrew Deppe,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,1.0,2024-12-07
+83,CU,RPI,Clarkson University Golden Knights,2pmi,To Basket,Finn Cork,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,84,1.0,2024-12-07
+84,CU,RPI,Rensselaer Polytechnic,2pmi,To Basket,Dylan Matchett,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,1.0,2024-12-07
+86,CU,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,4.0,2024-12-07
+87,CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,4.0,2024-12-07
+88,CU,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,4.0,2024-12-07
+89,CU,RPI,Clarkson University Golden Knights,Turnover,N/A,Finn Cork,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,90,1.0,2024-12-07
+90,CU,RPI,Rensselaer Polytechnic,2pmi,To Basket,Chuck Clemons,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,91,1.0,2024-12-07
+91,CU,RPI,Clarkson University Golden Knights,3pMa,Dribble Jumper,Steve DeRegis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,92,4.0,2024-12-07
+92,CU,RPI,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,93,1.0,2024-12-07
+93,CU,RPI,Clarkson University Golden Knights,2pmi,Dribble Jumper,Braeden Burns,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,94,3.0,2024-12-07
+94,CU,RPI,Rensselaer Polytechnic,2pmi,Hook Shot,Dylan Matchett,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,1.0,2024-12-07
+95,CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,96,4.0,2024-12-07
+97,CU,RPI,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,1.0,2024-12-07
+98,CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,4.0,2024-12-07
+99,CU,RPI,Clarkson University Golden Knights,2pmi,To Basket,Finn Cork,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,2.0,2024-12-07
+100,CU,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,PNR,Left,Away,Andrew Deppe,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,101,4.0,2024-12-07
+101,CU,RPI,Clarkson University Golden Knights,Foul,To Basket,Braeden Burns,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,102,1.0,2024-12-07
+104,CU,RPI,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,1.0,2024-12-07
+107,CU,RPI,Clarkson University Golden Knights,Turnover,N/A,Jack Dalgety,Post,Left,Left Shoulder,Braeden Burns,Spot Ups,Left,Drive,Liberty League,Liberty League,108,1.0,2024-12-07
+108,CU,RPI,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,109,1.0,2024-12-07
+109,CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,110,4.0,2024-12-07
+110,CU,RPI,Rensselaer Polytechnic,2pmi,To Basket,PJ Scalisi,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,1.0,2024-12-07
+111,CU,RPI,Clarkson University Golden Knights,2pMa,Drop Step,Finn Cork,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,1.0,2024-12-07
+112,CU,RPI,Rensselaer Polytechnic,2pMa,Dribble Jumper,PJ Scalisi,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,2.0,2024-12-07
+114,CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,4.0,2024-12-07
+116,CU,RPI,Rensselaer Polytechnic,2pMa,To Basket,Dylan Matchett,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,1.0,2024-12-07
+117,CU,RPI,Clarkson University Golden Knights,Foul,To Basket,Finn Cork,Post,Left,Left Shoulder,Jack Dalgety,Cuts,N/A,Basket,Liberty League,Liberty League,118,1.0,2024-12-07
+120,CU,RPI,Rensselaer Polytechnic,Foul,To Basket,Andrew Deppe,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,121,1.0,2024-12-07
+124,CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Lorenzo Rappa,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,125,4.0,2024-12-07
+125,CU,RPI,Rensselaer Polytechnic,2pMa,To Basket,Dylan Matchett,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,126,1.0,2024-12-07
+127,CU,RPI,Clarkson University Golden Knights,2pMa,Drop Step,Finn Cork,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,1.0,2024-12-07
+128,CU,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Yechiel Stewart,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,129,4.0,2024-12-07
+129,CU,RPI,Clarkson University Golden Knights,2pMa,To Basket,Jack Dalgety,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,130,1.0,2024-12-07
+130,CU,RPI,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,1.0,2024-12-07
+131,CU,RPI,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,1.0,2024-12-07
+132,CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,133,4.0,2024-12-07
+134,CU,RPI,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Ben Rappa,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,135,4.0,2024-12-07
+135,CU,RPI,Rensselaer Polytechnic,Turnover,N/A,Nate Tawiah-Boateng,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,136,1.0,2024-12-07
+136,CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Ben Rappa,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,137,4.0,2024-12-07
+138,CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matt Toscano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,4.0,2024-12-07
+139,CU,RPI,Rensselaer Polytechnic,Turnover,To Basket,Pat White,PNR,High,Off,Nate Tawiah-Boateng,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,140,1.0,2024-12-07
+141,CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Iso,Right,N/A,Matt Toscano,Spot Ups,N/A,Shot,Liberty League,Liberty League,142,4.0,2024-12-07
+143,CU,RPI,Rensselaer Polytechnic,2pMa,To Basket,Nate Tawiah-Boateng,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,144,1.0,2024-12-07
+144,CU,RPI,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,145,4.0,2024-12-07
+145,CU,RPI,Rensselaer Polytechnic,2pmi,To Basket,Avery Eugster,Hand Offs,Left,Stationary,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,1.0,2024-12-07
+148,CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,4.0,2024-12-07
+149,CU,RPI,Rensselaer Polytechnic,2pMa,Dribble Jumper,Yechiel Stewart,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,150,3.0,2024-12-07
+150,CU,RPI,Clarkson University Golden Knights,2pmi,To Basket,Jack Dalgety,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,151,1.0,2024-12-07
+152,CU,RPI,Rensselaer Polytechnic,2pmi,Dribble Jumper,Yechiel Stewart,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,153,3.0,2024-12-07
+153,CU,RPI,Clarkson University Golden Knights,2pmi,To Basket,Jack Dalgety,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,154,1.0,2024-12-07
+154,CU,RPI,Rensselaer Polytechnic,And1,To Basket,Dylan Matchett,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,1.0,2024-12-07
+156,CU,RPI,Clarkson University Golden Knights,Turnover,N/A,Braeden Burns,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,1.0,2024-12-07
+157,CU,RPI,Rensselaer Polytechnic,Turnover,N/A,PJ Scalisi,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,158,1.0,2024-12-07
+158,CU,RPI,Clarkson University Golden Knights,2pMa,To Basket,Steve DeRegis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,1.0,2024-12-07
+159,CU,RPI,,Foul,N/A,Chuck Clemons,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,160,1.0,2024-12-07
+162,CU,RPI,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Iso,Right,N/A,Braeden Burns,Cuts,N/A,Basket,Liberty League,Liberty League,163,1.0,2024-12-07
+163,CU,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Dylan Matchett,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,164,4.0,2024-12-07
+165,CU,RPI,Clarkson University Golden Knights,3pmi,Dribble Jumper,Steve DeRegis,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,4.0,2024-12-07
+166,CU,RPI,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,167,1.0,2024-12-07
+167,CU,RPI,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,4.0,2024-12-07
+168,CU,RPI,Clarkson University Golden Knights,Foul,N/A,Jack Dalgety,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,169,1.0,2024-12-07
+171,CU,RPI,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,Iso,Top,N/A,Andrew Deppe,Cuts,N/A,Basket,Liberty League,Liberty League,172,1.0,2024-12-07
+172,CU,RPI,Clarkson University Golden Knights,Foul,To Basket,Jack Dalgety,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,1.0,2024-12-07
+175,CU,RPI,Rensselaer Polytechnic,Turnover,N/A,Avery Eugster,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,176,1.0,2024-12-07
+176,CU,RPI,Clarkson University Golden Knights,Turnover,N/A,Finn Cork,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,1.0,2024-12-07
+177,CU,RPI,Rensselaer Polytechnic,Foul,To Basket,Avery Eugster,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,178,1.0,2024-12-07
+180,CU,RPI,Clarkson University Golden Knights,3pMa,Dribble Jumper,Braeden Burns,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,4.0,2024-12-07
+181,CU,RPI,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,182,1.0,2024-12-07
+182,CU,RPI,Clarkson University Golden Knights,Turnover,N/A,Lorenzo Rappa,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,183,1.0,2024-12-07
+183,CU,RPI,Rensselaer Polytechnic,2pmi,To Basket,Dylan Matchett,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,184,1.0,2024-12-07

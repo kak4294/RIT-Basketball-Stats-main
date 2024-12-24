@@ -1,183 +1,183 @@
-Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Year
-UNY,VSUL,Union (NY) Chargers,2pmi,To Basket,Matthew Garside,PNR,Right,Off,Christian Dufort,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,1,1.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Tanner Tedesco,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,3,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Gregory Gonyea Jr,PNR,Right,Off,Chad Martin,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,4,4.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Matthew Garside,PNR,Left,Off,Jack Plesser,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,5,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Gregory Gonyea Jr,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,6,1.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Christian Dufort,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,7,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pmi,To Basket,Gregory Gonyea Jr,PNR,Right,Off,Matt Doyle,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,8,1.0,2025
-UNY,VSUL,Union (NY) Chargers,Foul,Dribble Jumper,Jack Plesser,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,9,2.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pmi,Dribble Jumper,Gregory Gonyea Jr,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,12,2.0,2025
-UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,13,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Chad Martin,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,14,1.0,2025
-UNY,VSUL,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,15,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Victor Kukta Reyes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,16,4.0,2025
-UNY,VSUL,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,PNR,Left,Off,Matthew Garside,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,17,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Wesley McIntyre,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,18,4.0,2025
-UNY,VSUL,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,19,1.0,2025
-UNY,VSUL,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,20,1.0,2025
-UNY,VSUL,Union (NY) Chargers,3pMa,Dribble Jumper,Tanner Tedesco,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,21,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pmi,Dribble Jumper,Gregory Gonyea Jr,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,22,2.0,2025
-UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Tyler Cooper,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,25,1.0,2025
-UNY,VSUL,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,PNR,High,Off,Christian Dufort,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,26,4.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Jaden Jauregui,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,27,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Tyler Cooper,PNR,Left,Off,Gregory Gonyea Jr,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,28,4.0,2025
-UNY,VSUL,Union (NY) Chargers,Turnover,N/A,Jack Plesser,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,29,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Gregory Gonyea Jr,PNR,Right,Off,Tyler Cooper,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,30,4.0,2025
-UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Neil Daterao,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,31,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pMa,To Basket,Matt Doyle,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,32,1.0,2025
-UNY,VSUL,Union (NY) Chargers,2pmi,To Basket,Christian Dufort,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,33,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pMa,To Basket,Lincoln Kersey,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,35,1.0,2025
-UNY,VSUL,Union (NY) Chargers,2pmi,To Basket,Will Yakoobian,Off Screens,Right,Curl,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,36,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pMa,No Dribble Jumper,Matt Doyle,Post,Left,Left Shoulder,Wesley McIntyre,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,37,4.0,2025
-UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Will Yakoobian,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,38,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pmi,To Basket,Tyler Cooper,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,40,1.0,2025
-UNY,VSUL,Union (NY) Chargers,Foul,To Basket,Will Yakoobian,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,41,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Gregory Gonyea Jr,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,44,1.0,2025
-UNY,VSUL,Union (NY) Chargers,Turnover,N/A,Tanner Tedesco,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,45,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,Dribble Jumper,Wesley McIntyre,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,46,4.0,2025
-UNY,VSUL,Union (NY) Chargers,Turnover,N/A,Harrison Collins,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,47,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pmi,To Basket,Lincoln Kersey,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,49,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pMa,No Dribble Jumper,Tyler Cooper,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,51,4.0,2025
-UNY,VSUL,Union (NY) Chargers,Turnover,N/A,Harrison Collins,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,52,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Lincoln Kersey,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,53,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,N/A,Wesley McIntyre,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,54,4.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Neil Daterao,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,55,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Tyler Cooper,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,56,1.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Neil Daterao,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,57,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pmi,To Basket,Gregory Gonyea Jr,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,58,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pMa,Dribble Jumper,Christian Hathorn,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,59,4.0,2025
-UNY,VSUL,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,60,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pMa,No Dribble Jumper,Max Kocha,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,61,4.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,63,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Victor Kukta Reyes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,64,4.0,2025
-UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Jack Plesser,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,65,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pmi,To Basket,Christian Hathorn,Iso,Left,N/A,Chad Martin,Spot Ups,Right,Drive,Liberty League,UNKNOWN,67,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Christian Hathorn,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,68,1.0,2025
-UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,69,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Max Kocha,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,70,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pMa,To Basket,Victor Kukta Reyes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,71,1.0,2025
-UNY,VSUL,Union (NY) Chargers,2pmi,Dribble Jumper,Jaden Jauregui,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,72,2.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Christian Hathorn,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,73,4.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Jaden Jauregui,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,74,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Max Kocha,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,75,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pMa,To Basket,Victor Kukta Reyes,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,77,1.0,2025
-UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,79,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pMa,Dribble Jumper,Victor Kukta Reyes,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,80,2.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Christian Dufort,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,81,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pMa,To Basket,Matt Doyle,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,82,1.0,2025
-UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,84,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,Foul,N/A,Gregory Gonyea Jr,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,85,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Matt Doyle,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,88,1.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,89,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,Turnover,To Basket,Gregory Gonyea Jr,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,90,1.0,2025
-UNY,VSUL,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,91,1.0,2025
-UNY,VSUL,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,93,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Gregory Gonyea Jr,Transition,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,94,1.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Jaden Jauregui,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,95,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pMa,No Dribble Jumper,Gregory Gonyea Jr,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,96,4.0,2025
-UNY,VSUL,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Post,Left,N/A,Matthew Garside,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,97,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pmi,To Basket,Victor Kukta Reyes,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,98,1.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Harrison Collins,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,99,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pMa,To Basket,Gregory Gonyea Jr,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,100,1.0,2025
-UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,101,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pMa,To Basket,Tyler Cooper,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,102,1.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,No Dribble Jumper,Jack Plesser,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,103,2.0,2025
-UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Tyler Cooper,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,104,1.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,105,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pmi,To Basket,Gregory Gonyea Jr,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,106,1.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,107,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pMa,No Dribble Jumper,Tyler Cooper,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,108,4.0,2025
-UNY,VSUL,Union (NY) Chargers,Turnover,To Basket,Harrison Collins,PNR,High,Off,Will Yakoobian,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,109,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Wilber Casanova,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,110,1.0,2025
-UNY,VSUL,Union (NY) Chargers,Foul,To Basket,Matthew Garside,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,111,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Tyler Cooper,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,114,1.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Harrison Collins,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,115,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,Dribble Jumper,Lincoln Kersey,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,116,4.0,2025
-UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Jaden Jauregui,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,117,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Victor Kukta Reyes,PNR,Left,Off,Wesley McIntyre,Spot Ups,Right,Drive,Liberty League,UNKNOWN,118,1.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Jaden Jauregui,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,119,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pmi,To Basket,Gregory Gonyea Jr,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,120,1.0,2025
-UNY,VSUL,Union (NY) Chargers,2pmi,To Basket,Christian Dufort,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,121,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,And1,To Basket,Wesley McIntyre,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,122,1.0,2025
-UNY,VSUL,Union (NY) Chargers,Turnover,N/A,Matthew Garside,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,124,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pMa,To Basket,Victor Kukta Reyes,PNR,Right,Off,Matt Doyle,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,125,1.0,2025
-UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,PNR,Left,Off,Neil Daterao,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,126,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pMa,Hook Shot,Matt Doyle,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,128,1.0,2025
-UNY,VSUL,Union (NY) Chargers,Turnover,To Basket,Tanner Tedesco,PNR,Left,Off,Christian Dufort,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,129,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pMa,Dribble Jumper,Tyler Cooper,PNR,Right,Off,Wesley McIntyre,Spot Ups,Right,Drive,Liberty League,UNKNOWN,130,2.0,2025
-UNY,VSUL,Union (NY) Chargers,And1,To Basket,Jack Plesser,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,131,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Wesley McIntyre,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,133,4.0,2025
-UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,134,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pMa,No Dribble Jumper,Tyler Cooper,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,136,4.0,2025
-UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Harrison Collins,PNR,High,Off,Neil Daterao,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,137,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Gregory Gonyea Jr,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,138,4.0,2025
-UNY,VSUL,Union (NY) Chargers,Turnover,To Basket,Harrison Collins,PNR,Left,Off,Jack Plesser,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,139,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pMa,No Dribble Jumper,Tyler Cooper,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,140,4.0,2025
-UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,PNR,Left,Away,Neil Daterao,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,142,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,Foul,To Basket,Wesley McIntyre,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,143,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Gregory Gonyea Jr,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,147,4.0,2025
-UNY,VSUL,Union (NY) Chargers,And1,To Basket,Neil Daterao,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,148,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Tyler Cooper,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,150,1.0,2025
-UNY,VSUL,Union (NY) Chargers,Turnover,N/A,Sam O'Toole,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,151,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Tyler Cooper,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,153,4.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,Dribble Jumper,Sam O'Toole,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,154,2.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pMa,No Dribble Jumper,Victor Kukta Reyes,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,155,4.0,2025
-UNY,VSUL,Union (NY) Chargers,3pmi,No Dribble Jumper,Neil Daterao,Post,Left,Left Shoulder,Sam O'Toole,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,156,4.0,2025
-UNY,VSUL,Union (NY) Chargers,Foul,To Basket,Will Yakoobian,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,157,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pmi,Dribble Jumper,Wesley McIntyre,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,160,2.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Harrison Collins,PNR,High,Off,Will Yakoobian,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,161,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pmi,To Basket,Gregory Gonyea Jr,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,162,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pmi,To Basket,Gregory Gonyea Jr,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,163,1.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Harrison Collins,PNR,Right,Off,Will Yakoobian,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,164,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pMa,No Dribble Jumper,Tyler Cooper,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,165,4.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,Dribble Jumper,Aidan Duffy,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,166,2.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pmi,No Dribble Jumper,Tyler Cooper,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,167,3.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pMa,No Dribble Jumper,Tyler Cooper,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,169,3.0,2025
-UNY,VSUL,Union (NY) Chargers,Turnover,N/A,Harrison Collins,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,170,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Wesley McIntyre,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,171,4.0,2025
-UNY,VSUL,Union (NY) Chargers,3pmi,No Dribble Jumper,Harrison Collins,PNR,Right,Off,Sam O'Toole,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,172,4.0,2025
-UNY,VSUL,Union (NY) Chargers,3pmi,No Dribble Jumper,Cameron Perez,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,174,4.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Zach Benmorits,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,175,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Lincoln Kersey,PNR,Left,Off,Chad Martin,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,176,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Lincoln Kersey,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,177,1.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Zach Benmorits,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,178,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,Foul,To Basket,Khemar Channer,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,179,1.0,2025
-UNY,VSUL,Union (NY) Chargers,Turnover,N/A,Zach Benmorits,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,182,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Lincoln Kersey,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,183,4.0,2025
-UNY,VSUL,Union (NY) Chargers,Turnover,N/A,Will Yakoobian,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,184,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pmi,To Basket,Chad Martin,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,185,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pMa,To Basket,Brett Roy,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,186,1.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Sam O'Toole,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,187,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Christian Hathorn,Iso,Right,N/A,Lincoln Kersey,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,188,4.0,2025
-UNY,VSUL,Union (NY) Chargers,3pmi,No Dribble Jumper,Zach Benmorits,PNR,High,Away,Tyson Repa,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,190,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pMa,To Basket,Lincoln Kersey,PNR,Left,Away,Khemar Channer,Spot Ups,Left,Drive,Liberty League,UNKNOWN,191,1.0,2025
-UNY,VSUL,Union (NY) Chargers,Turnover,N/A,Sam O'Toole,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,192,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Khemar Channer,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,193,1.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Tyson Repa,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,194,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Lincoln Kersey,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,195,4.0,2025
-UNY,VSUL,Union (NY) Chargers,Turnover,N/A,Tyson Repa,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,196,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Brayden Pepin,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,199,4.0,2025
-UNY,VSUL,Union (NY) Chargers,2pmi,Dribble Jumper,Sam O'Toole,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,200,3.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pMa,Dribble Jumper,Christian Hathorn,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,201,4.0,2025
-UNY,VSUL,Union (NY) Chargers,2pmi,To Basket,Zach Benmorits,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,202,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pMa,To Basket,Christian Hathorn,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,203,1.0,2025
-UNY,VSUL,Union (NY) Chargers,Turnover,N/A,Aidan Duffy,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,204,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pMa,No Dribble Jumper,Christian Hathorn,PNR,Left,Off,Max Kocha,P&R Roll Man,N/A,Pop,Liberty League,UNKNOWN,205,4.0,2025
-UNY,VSUL,Union (NY) Chargers,3pmi,No Dribble Jumper,Zach Benmorits,Iso,Top,N/A,Cameron Perez,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,206,4.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,N/A,Zach Benmorits,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,207,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Christian Hathorn,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,208,1.0,2025
-UNY,VSUL,Union (NY) Chargers,2pmi,No Dribble Jumper,Aidan Duffy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,209,3.0,2025
-UNY,VSUL,Union (NY) Chargers,2pmi,To Basket,Tyson Repa,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,210,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Brandon Cahill,PNR,High,Off,Rodger Petermann,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,211,4.0,2025
-UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Cameron Perez,PNR,Right,Off,Sam O'Toole,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,212,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pmi,To Basket,Rodger Petermann,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,213,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,2pMa,To Basket,Rodger Petermann,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,214,1.0,2025
-UNY,VSUL,Union (NY) Chargers,3pmi,Dribble Jumper,Zach Benmorits,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,215,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Tyler Dias,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,216,4.0,2025
-UNY,VSUL,Union (NY) Chargers,3pmi,No Dribble Jumper,Tyson Repa,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,217,4.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Tyler Dias,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,218,4.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Sam O'Toole,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,219,1.0,2025
-UNY,VSUL,Vermont State University Lyndon,Foul,To Basket,Brandon Cahill,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,220,1.0,2025
-UNY,VSUL,Union (NY) Chargers,2pMa,Dribble Jumper,Cameron Perez,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,223,2.0,2025
-UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Tyler Dias,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,224,4.0,2025
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,UNY,VSUL,Union (NY) Chargers,2pmi,To Basket,Matthew Garside,PNR,Right,Off,Christian Dufort,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,1,1.0,2024-11-30
+2,UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Tanner Tedesco,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,3,1.0,2024-11-30
+3,UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Gregory Gonyea Jr,PNR,Right,Off,Chad Martin,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,4,4.0,2024-11-30
+4,UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Matthew Garside,PNR,Left,Off,Jack Plesser,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,5,1.0,2024-11-30
+5,UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Gregory Gonyea Jr,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,6,1.0,2024-11-30
+6,UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Christian Dufort,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,7,1.0,2024-11-30
+7,UNY,VSUL,Vermont State University Lyndon,2pmi,To Basket,Gregory Gonyea Jr,PNR,Right,Off,Matt Doyle,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,8,1.0,2024-11-30
+8,UNY,VSUL,Union (NY) Chargers,Foul,Dribble Jumper,Jack Plesser,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,9,2.0,2024-11-30
+11,UNY,VSUL,Vermont State University Lyndon,2pmi,Dribble Jumper,Gregory Gonyea Jr,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,12,2.0,2024-11-30
+12,UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,13,4.0,2024-11-30
+13,UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Chad Martin,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,14,1.0,2024-11-30
+14,UNY,VSUL,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,15,4.0,2024-11-30
+15,UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Victor Kukta Reyes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,16,4.0,2024-11-30
+16,UNY,VSUL,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,PNR,Left,Off,Matthew Garside,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,17,4.0,2024-11-30
+17,UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Wesley McIntyre,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,18,4.0,2024-11-30
+18,UNY,VSUL,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,19,1.0,2024-11-30
+19,UNY,VSUL,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,20,1.0,2024-11-30
+20,UNY,VSUL,Union (NY) Chargers,3pMa,Dribble Jumper,Tanner Tedesco,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,21,4.0,2024-11-30
+21,UNY,VSUL,Vermont State University Lyndon,2pmi,Dribble Jumper,Gregory Gonyea Jr,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,22,2.0,2024-11-30
+24,UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Tyler Cooper,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,25,1.0,2024-11-30
+25,UNY,VSUL,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,PNR,High,Off,Christian Dufort,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,26,4.0,2024-11-30
+26,UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Jaden Jauregui,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,27,1.0,2024-11-30
+27,UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Tyler Cooper,PNR,Left,Off,Gregory Gonyea Jr,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,28,4.0,2024-11-30
+28,UNY,VSUL,Union (NY) Chargers,Turnover,N/A,Jack Plesser,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,29,1.0,2024-11-30
+29,UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Gregory Gonyea Jr,PNR,Right,Off,Tyler Cooper,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,30,4.0,2024-11-30
+30,UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Neil Daterao,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,31,4.0,2024-11-30
+31,UNY,VSUL,Vermont State University Lyndon,2pMa,To Basket,Matt Doyle,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,32,1.0,2024-11-30
+32,UNY,VSUL,Union (NY) Chargers,2pmi,To Basket,Christian Dufort,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,33,1.0,2024-11-30
+34,UNY,VSUL,Vermont State University Lyndon,2pMa,To Basket,Lincoln Kersey,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,35,1.0,2024-11-30
+35,UNY,VSUL,Union (NY) Chargers,2pmi,To Basket,Will Yakoobian,Off Screens,Right,Curl,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,36,1.0,2024-11-30
+36,UNY,VSUL,Vermont State University Lyndon,3pMa,No Dribble Jumper,Matt Doyle,Post,Left,Left Shoulder,Wesley McIntyre,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,37,4.0,2024-11-30
+37,UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Will Yakoobian,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,38,4.0,2024-11-30
+39,UNY,VSUL,Vermont State University Lyndon,2pmi,To Basket,Tyler Cooper,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,40,1.0,2024-11-30
+40,UNY,VSUL,Union (NY) Chargers,Foul,To Basket,Will Yakoobian,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,41,1.0,2024-11-30
+43,UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Gregory Gonyea Jr,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,44,1.0,2024-11-30
+44,UNY,VSUL,Union (NY) Chargers,Turnover,N/A,Tanner Tedesco,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,45,1.0,2024-11-30
+45,UNY,VSUL,Vermont State University Lyndon,3pmi,Dribble Jumper,Wesley McIntyre,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,46,4.0,2024-11-30
+46,UNY,VSUL,Union (NY) Chargers,Turnover,N/A,Harrison Collins,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,47,1.0,2024-11-30
+48,UNY,VSUL,Vermont State University Lyndon,2pmi,To Basket,Lincoln Kersey,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,49,1.0,2024-11-30
+50,UNY,VSUL,Vermont State University Lyndon,3pMa,No Dribble Jumper,Tyler Cooper,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,51,4.0,2024-11-30
+51,UNY,VSUL,Union (NY) Chargers,Turnover,N/A,Harrison Collins,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,52,1.0,2024-11-30
+52,UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Lincoln Kersey,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,53,4.0,2024-11-30
+53,UNY,VSUL,Vermont State University Lyndon,3pmi,N/A,Wesley McIntyre,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,54,4.0,2024-11-30
+54,UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Neil Daterao,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,55,1.0,2024-11-30
+55,UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Tyler Cooper,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,56,1.0,2024-11-30
+56,UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Neil Daterao,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,57,1.0,2024-11-30
+57,UNY,VSUL,Vermont State University Lyndon,2pmi,To Basket,Gregory Gonyea Jr,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,58,1.0,2024-11-30
+58,UNY,VSUL,Vermont State University Lyndon,3pMa,Dribble Jumper,Christian Hathorn,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,59,4.0,2024-11-30
+59,UNY,VSUL,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,60,4.0,2024-11-30
+60,UNY,VSUL,Vermont State University Lyndon,3pMa,No Dribble Jumper,Max Kocha,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,61,4.0,2024-11-30
+62,UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,63,1.0,2024-11-30
+63,UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Victor Kukta Reyes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,64,4.0,2024-11-30
+64,UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Jack Plesser,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,65,4.0,2024-11-30
+66,UNY,VSUL,Vermont State University Lyndon,2pmi,To Basket,Christian Hathorn,Iso,Left,N/A,Chad Martin,Spot Ups,Right,Drive,Liberty League,UNKNOWN,67,1.0,2024-11-30
+67,UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Christian Hathorn,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,68,1.0,2024-11-30
+68,UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,69,4.0,2024-11-30
+69,UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Max Kocha,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,70,4.0,2024-11-30
+70,UNY,VSUL,Vermont State University Lyndon,2pMa,To Basket,Victor Kukta Reyes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,71,1.0,2024-11-30
+71,UNY,VSUL,Union (NY) Chargers,2pmi,Dribble Jumper,Jaden Jauregui,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,72,2.0,2024-11-30
+72,UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Christian Hathorn,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,73,4.0,2024-11-30
+73,UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Jaden Jauregui,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,74,1.0,2024-11-30
+74,UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Max Kocha,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,75,4.0,2024-11-30
+76,UNY,VSUL,Vermont State University Lyndon,2pMa,To Basket,Victor Kukta Reyes,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,77,1.0,2024-11-30
+78,UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,79,4.0,2024-11-30
+79,UNY,VSUL,Vermont State University Lyndon,2pMa,Dribble Jumper,Victor Kukta Reyes,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,80,2.0,2024-11-30
+80,UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Christian Dufort,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,81,1.0,2024-11-30
+81,UNY,VSUL,Vermont State University Lyndon,2pMa,To Basket,Matt Doyle,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,82,1.0,2024-11-30
+83,UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,84,4.0,2024-11-30
+84,UNY,VSUL,Vermont State University Lyndon,Foul,N/A,Gregory Gonyea Jr,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,85,1.0,2024-11-30
+87,UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Matt Doyle,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,88,1.0,2024-11-30
+88,UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,89,1.0,2024-11-30
+89,UNY,VSUL,Vermont State University Lyndon,Turnover,To Basket,Gregory Gonyea Jr,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,90,1.0,2024-11-30
+90,UNY,VSUL,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,91,1.0,2024-11-30
+92,UNY,VSUL,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,93,4.0,2024-11-30
+93,UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Gregory Gonyea Jr,Transition,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,94,1.0,2024-11-30
+94,UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Jaden Jauregui,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,95,1.0,2024-11-30
+95,UNY,VSUL,Vermont State University Lyndon,3pMa,No Dribble Jumper,Gregory Gonyea Jr,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,96,4.0,2024-11-30
+96,UNY,VSUL,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Post,Left,N/A,Matthew Garside,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,97,4.0,2024-11-30
+97,UNY,VSUL,Vermont State University Lyndon,2pmi,To Basket,Victor Kukta Reyes,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,98,1.0,2024-11-30
+98,UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Harrison Collins,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,99,1.0,2024-11-30
+99,UNY,VSUL,Vermont State University Lyndon,2pMa,To Basket,Gregory Gonyea Jr,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,100,1.0,2024-11-30
+100,UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,101,4.0,2024-11-30
+101,UNY,VSUL,Vermont State University Lyndon,2pMa,To Basket,Tyler Cooper,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,102,1.0,2024-11-30
+102,UNY,VSUL,Union (NY) Chargers,2pMa,No Dribble Jumper,Jack Plesser,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,103,2.0,2024-11-30
+103,UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Tyler Cooper,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,104,1.0,2024-11-30
+104,UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,105,1.0,2024-11-30
+105,UNY,VSUL,Vermont State University Lyndon,2pmi,To Basket,Gregory Gonyea Jr,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,106,1.0,2024-11-30
+106,UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,107,1.0,2024-11-30
+107,UNY,VSUL,Vermont State University Lyndon,3pMa,No Dribble Jumper,Tyler Cooper,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,108,4.0,2024-11-30
+108,UNY,VSUL,Union (NY) Chargers,Turnover,To Basket,Harrison Collins,PNR,High,Off,Will Yakoobian,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,109,1.0,2024-11-30
+109,UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Wilber Casanova,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,110,1.0,2024-11-30
+110,UNY,VSUL,Union (NY) Chargers,Foul,To Basket,Matthew Garside,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,111,1.0,2024-11-30
+113,UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Tyler Cooper,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,114,1.0,2024-11-30
+114,UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Harrison Collins,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,115,1.0,2024-11-30
+115,UNY,VSUL,Vermont State University Lyndon,3pmi,Dribble Jumper,Lincoln Kersey,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,116,4.0,2024-11-30
+116,UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Jaden Jauregui,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,117,4.0,2024-11-30
+117,UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Victor Kukta Reyes,PNR,Left,Off,Wesley McIntyre,Spot Ups,Right,Drive,Liberty League,UNKNOWN,118,1.0,2024-11-30
+118,UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Jaden Jauregui,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,119,1.0,2024-11-30
+119,UNY,VSUL,Vermont State University Lyndon,2pmi,To Basket,Gregory Gonyea Jr,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,120,1.0,2024-11-30
+120,UNY,VSUL,Union (NY) Chargers,2pmi,To Basket,Christian Dufort,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,121,1.0,2024-11-30
+121,UNY,VSUL,Vermont State University Lyndon,And1,To Basket,Wesley McIntyre,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,122,1.0,2024-11-30
+123,UNY,VSUL,Union (NY) Chargers,Turnover,N/A,Matthew Garside,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,124,1.0,2024-11-30
+124,UNY,VSUL,Vermont State University Lyndon,2pMa,To Basket,Victor Kukta Reyes,PNR,Right,Off,Matt Doyle,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,125,1.0,2024-11-30
+125,UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,PNR,Left,Off,Neil Daterao,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,126,4.0,2024-11-30
+127,UNY,VSUL,Vermont State University Lyndon,2pMa,Hook Shot,Matt Doyle,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,128,1.0,2024-11-30
+128,UNY,VSUL,Union (NY) Chargers,Turnover,To Basket,Tanner Tedesco,PNR,Left,Off,Christian Dufort,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,129,1.0,2024-11-30
+129,UNY,VSUL,Vermont State University Lyndon,2pMa,Dribble Jumper,Tyler Cooper,PNR,Right,Off,Wesley McIntyre,Spot Ups,Right,Drive,Liberty League,UNKNOWN,130,2.0,2024-11-30
+130,UNY,VSUL,Union (NY) Chargers,And1,To Basket,Jack Plesser,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,131,1.0,2024-11-30
+132,UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Wesley McIntyre,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,133,4.0,2024-11-30
+133,UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,134,4.0,2024-11-30
+135,UNY,VSUL,Vermont State University Lyndon,3pMa,No Dribble Jumper,Tyler Cooper,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,136,4.0,2024-11-30
+136,UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Harrison Collins,PNR,High,Off,Neil Daterao,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,137,4.0,2024-11-30
+137,UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Gregory Gonyea Jr,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,138,4.0,2024-11-30
+138,UNY,VSUL,Union (NY) Chargers,Turnover,To Basket,Harrison Collins,PNR,Left,Off,Jack Plesser,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,139,1.0,2024-11-30
+139,UNY,VSUL,Vermont State University Lyndon,3pMa,No Dribble Jumper,Tyler Cooper,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,140,4.0,2024-11-30
+141,UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,PNR,Left,Away,Neil Daterao,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,142,4.0,2024-11-30
+142,UNY,VSUL,Vermont State University Lyndon,Foul,To Basket,Wesley McIntyre,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,143,1.0,2024-11-30
+146,UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Gregory Gonyea Jr,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,147,4.0,2024-11-30
+147,UNY,VSUL,Union (NY) Chargers,And1,To Basket,Neil Daterao,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,148,1.0,2024-11-30
+149,UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Tyler Cooper,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,150,1.0,2024-11-30
+150,UNY,VSUL,Union (NY) Chargers,Turnover,N/A,Sam O'Toole,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,151,1.0,2024-11-30
+152,UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Tyler Cooper,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,153,4.0,2024-11-30
+153,UNY,VSUL,Union (NY) Chargers,2pMa,Dribble Jumper,Sam O'Toole,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,154,2.0,2024-11-30
+154,UNY,VSUL,Vermont State University Lyndon,3pMa,No Dribble Jumper,Victor Kukta Reyes,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,155,4.0,2024-11-30
+155,UNY,VSUL,Union (NY) Chargers,3pmi,No Dribble Jumper,Neil Daterao,Post,Left,Left Shoulder,Sam O'Toole,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,156,4.0,2024-11-30
+156,UNY,VSUL,Union (NY) Chargers,Foul,To Basket,Will Yakoobian,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,157,1.0,2024-11-30
+159,UNY,VSUL,Vermont State University Lyndon,2pmi,Dribble Jumper,Wesley McIntyre,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,160,2.0,2024-11-30
+160,UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Harrison Collins,PNR,High,Off,Will Yakoobian,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,161,1.0,2024-11-30
+161,UNY,VSUL,Vermont State University Lyndon,2pmi,To Basket,Gregory Gonyea Jr,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,162,1.0,2024-11-30
+162,UNY,VSUL,Vermont State University Lyndon,2pmi,To Basket,Gregory Gonyea Jr,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,163,1.0,2024-11-30
+163,UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Harrison Collins,PNR,Right,Off,Will Yakoobian,P&R Roll Man,N/A,Roll,Liberty League,UNKNOWN,164,1.0,2024-11-30
+164,UNY,VSUL,Vermont State University Lyndon,3pMa,No Dribble Jumper,Tyler Cooper,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,165,4.0,2024-11-30
+165,UNY,VSUL,Union (NY) Chargers,2pMa,Dribble Jumper,Aidan Duffy,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,166,2.0,2024-11-30
+166,UNY,VSUL,Vermont State University Lyndon,2pmi,No Dribble Jumper,Tyler Cooper,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,167,3.0,2024-11-30
+168,UNY,VSUL,Vermont State University Lyndon,2pMa,No Dribble Jumper,Tyler Cooper,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,169,3.0,2024-11-30
+169,UNY,VSUL,Union (NY) Chargers,Turnover,N/A,Harrison Collins,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,170,1.0,2024-11-30
+170,UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Wesley McIntyre,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,171,4.0,2024-11-30
+171,UNY,VSUL,Union (NY) Chargers,3pmi,No Dribble Jumper,Harrison Collins,PNR,Right,Off,Sam O'Toole,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,172,4.0,2024-11-30
+173,UNY,VSUL,Union (NY) Chargers,3pmi,No Dribble Jumper,Cameron Perez,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,174,4.0,2024-11-30
+174,UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Zach Benmorits,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,175,1.0,2024-11-30
+175,UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Lincoln Kersey,PNR,Left,Off,Chad Martin,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,176,4.0,2024-11-30
+176,UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Lincoln Kersey,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,177,1.0,2024-11-30
+177,UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Zach Benmorits,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,178,1.0,2024-11-30
+178,UNY,VSUL,Vermont State University Lyndon,Foul,To Basket,Khemar Channer,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,179,1.0,2024-11-30
+181,UNY,VSUL,Union (NY) Chargers,Turnover,N/A,Zach Benmorits,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,182,1.0,2024-11-30
+182,UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Lincoln Kersey,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,183,4.0,2024-11-30
+183,UNY,VSUL,Union (NY) Chargers,Turnover,N/A,Will Yakoobian,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,184,1.0,2024-11-30
+184,UNY,VSUL,Vermont State University Lyndon,2pmi,To Basket,Chad Martin,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,185,1.0,2024-11-30
+185,UNY,VSUL,Vermont State University Lyndon,2pMa,To Basket,Brett Roy,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,186,1.0,2024-11-30
+186,UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Sam O'Toole,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,187,1.0,2024-11-30
+187,UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Christian Hathorn,Iso,Right,N/A,Lincoln Kersey,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,188,4.0,2024-11-30
+189,UNY,VSUL,Union (NY) Chargers,3pmi,No Dribble Jumper,Zach Benmorits,PNR,High,Away,Tyson Repa,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,190,4.0,2024-11-30
+190,UNY,VSUL,Vermont State University Lyndon,2pMa,To Basket,Lincoln Kersey,PNR,Left,Away,Khemar Channer,Spot Ups,Left,Drive,Liberty League,UNKNOWN,191,1.0,2024-11-30
+191,UNY,VSUL,Union (NY) Chargers,Turnover,N/A,Sam O'Toole,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,192,1.0,2024-11-30
+192,UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Khemar Channer,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,193,1.0,2024-11-30
+193,UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Tyson Repa,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,194,1.0,2024-11-30
+194,UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Lincoln Kersey,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,195,4.0,2024-11-30
+195,UNY,VSUL,Union (NY) Chargers,Turnover,N/A,Tyson Repa,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,196,1.0,2024-11-30
+198,UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Brayden Pepin,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,199,4.0,2024-11-30
+199,UNY,VSUL,Union (NY) Chargers,2pmi,Dribble Jumper,Sam O'Toole,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,200,3.0,2024-11-30
+200,UNY,VSUL,Vermont State University Lyndon,3pMa,Dribble Jumper,Christian Hathorn,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,201,4.0,2024-11-30
+201,UNY,VSUL,Union (NY) Chargers,2pmi,To Basket,Zach Benmorits,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,202,1.0,2024-11-30
+202,UNY,VSUL,Vermont State University Lyndon,2pMa,To Basket,Christian Hathorn,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,203,1.0,2024-11-30
+203,UNY,VSUL,Union (NY) Chargers,Turnover,N/A,Aidan Duffy,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,204,1.0,2024-11-30
+204,UNY,VSUL,Vermont State University Lyndon,3pMa,No Dribble Jumper,Christian Hathorn,PNR,Left,Off,Max Kocha,P&R Roll Man,N/A,Pop,Liberty League,UNKNOWN,205,4.0,2024-11-30
+205,UNY,VSUL,Union (NY) Chargers,3pmi,No Dribble Jumper,Zach Benmorits,Iso,Top,N/A,Cameron Perez,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,206,4.0,2024-11-30
+206,UNY,VSUL,Union (NY) Chargers,2pMa,N/A,Zach Benmorits,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,207,1.0,2024-11-30
+207,UNY,VSUL,Vermont State University Lyndon,Turnover,N/A,Christian Hathorn,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,208,1.0,2024-11-30
+208,UNY,VSUL,Union (NY) Chargers,2pmi,No Dribble Jumper,Aidan Duffy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,209,3.0,2024-11-30
+209,UNY,VSUL,Union (NY) Chargers,2pmi,To Basket,Tyson Repa,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,210,1.0,2024-11-30
+210,UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Brandon Cahill,PNR,High,Off,Rodger Petermann,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,211,4.0,2024-11-30
+211,UNY,VSUL,Union (NY) Chargers,3pMa,No Dribble Jumper,Cameron Perez,PNR,Right,Off,Sam O'Toole,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,212,4.0,2024-11-30
+212,UNY,VSUL,Vermont State University Lyndon,2pmi,To Basket,Rodger Petermann,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,213,1.0,2024-11-30
+213,UNY,VSUL,Vermont State University Lyndon,2pMa,To Basket,Rodger Petermann,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,214,1.0,2024-11-30
+214,UNY,VSUL,Union (NY) Chargers,3pmi,Dribble Jumper,Zach Benmorits,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,215,4.0,2024-11-30
+215,UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Tyler Dias,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,216,4.0,2024-11-30
+216,UNY,VSUL,Union (NY) Chargers,3pmi,No Dribble Jumper,Tyson Repa,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,217,4.0,2024-11-30
+217,UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Tyler Dias,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,218,4.0,2024-11-30
+218,UNY,VSUL,Union (NY) Chargers,2pMa,To Basket,Sam O'Toole,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,219,1.0,2024-11-30
+219,UNY,VSUL,Vermont State University Lyndon,Foul,To Basket,Brandon Cahill,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,220,1.0,2024-11-30
+222,UNY,VSUL,Union (NY) Chargers,2pMa,Dribble Jumper,Cameron Perez,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,223,2.0,2024-11-30
+223,UNY,VSUL,Vermont State University Lyndon,3pmi,No Dribble Jumper,Tyler Dias,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,224,4.0,2024-11-30
