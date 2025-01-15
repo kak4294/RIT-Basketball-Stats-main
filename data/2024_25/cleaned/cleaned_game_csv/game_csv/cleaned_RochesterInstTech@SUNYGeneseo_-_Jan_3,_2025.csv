@@ -1,0 +1,176 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,SGK,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,1,1.0,2025-01-03
+1,SGK,RIT,SUNY Geneseo Knights,2pmi,To Basket,Robert Perocolosi,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,2,1.0,2025-01-03
+2,SGK,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,3,1.0,2025-01-03
+3,SGK,RIT,SUNY Geneseo Knights,3pMa,No Dribble Jumper,James Burton,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,4,4.0,2025-01-03
+4,SGK,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Chase Dickens,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,5,1.0,2025-01-03
+7,SGK,RIT,SUNY Geneseo Knights,2pMa,N/A,Colin Gentile,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,8,1.0,2025-01-03
+8,SGK,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Matt Caggiano,PNR,High,Off,Brock Bowen,Spot Ups,Left,Drive,Empire 8,Liberty League,9,4.0,2025-01-03
+9,SGK,RIT,SUNY Geneseo Knights,3pMa,No Dribble Jumper,Colin Gentile,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,10,4.0,2025-01-03
+10,SGK,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,Iso,Top,N/A,Brock Bowen,Spot Ups,N/A,Shot,Empire 8,Liberty League,11,4.0,2025-01-03
+11,SGK,RIT,SUNY Geneseo Knights,3pmi,No Dribble Jumper,Sebastian Pacheco,Iso,Top,N/A,Colin Gentile,Spot Ups,N/A,Shot,Empire 8,Liberty League,12,4.0,2025-01-03
+13,SGK,RIT,SUNY Geneseo Knights,2pmi,To Basket,Colin Gentile,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,14,1.0,2025-01-03
+14,SGK,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Brock Bowen,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Empire 8,Liberty League,15,1.0,2025-01-03
+16,SGK,RIT,SUNY Geneseo Knights,2pmi,No Dribble Jumper,Robert Perocolosi,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,17,2.0,2025-01-03
+17,SGK,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,18,1.0,2025-01-03
+18,SGK,RIT,SUNY Geneseo Knights,3pMa,No Dribble Jumper,Sebastian Pacheco,PNR,High,Off,James Burton,P&R Roll Man,N/A,Pop,Empire 8,Liberty League,19,4.0,2025-01-03
+19,SGK,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,High,Off,Kenny Wilburn,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,20,1.0,2025-01-03
+21,SGK,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Luke Granto,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,22,4.0,2025-01-03
+22,SGK,RIT,SUNY Geneseo Knights,Foul,To Basket,Sebastian Pacheco,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,23,1.0,2025-01-03
+25,SGK,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Nolan Smih,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Empire 8,Liberty League,26,1.0,2025-01-03
+26,SGK,RIT,SUNY Geneseo Knights,Turnover,N/A,Sebastian Pacheco,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,27,1.0,2025-01-03
+27,SGK,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Nolan Smih,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,28,4.0,2025-01-03
+28,SGK,RIT,SUNY Geneseo Knights,3pMa,No Dribble Jumper,Sebastian Pacheco,Iso,Right,N/A,Robert Perocolosi,Spot Ups,N/A,Shot,Empire 8,Liberty League,29,4.0,2025-01-03
+29,SGK,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,30,1.0,2025-01-03
+30,SGK,RIT,SUNY Geneseo Knights,Foul,To Basket,Justin Yearwood,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,31,1.0,2025-01-03
+33,SGK,RIT,Rochester Institute of Technology Tigers,3pMa,Dribble Jumper,Brock Bowen,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,34,4.0,2025-01-03
+34,SGK,RIT,SUNY Geneseo Knights,2pMa,Dribble Jumper,Jackson Casey,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,35,2.0,2025-01-03
+35,SGK,RIT,Rochester Institute of Technology Tigers,2pMa,N/A,Josiah Turner,Post,Left,Face Up,N/A,N/A,N/A,N/A,Empire 8,Liberty League,36,1.0,2025-01-03
+36,SGK,RIT,SUNY Geneseo Knights,2pMa,To Basket,Sebastian Pacheco,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,37,1.0,2025-01-03
+37,SGK,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,38,1.0,2025-01-03
+39,SGK,RIT,SUNY Geneseo Knights,2pMa,No Dribble Jumper,Colin Gentile,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,40,2.0,2025-01-03
+40,SGK,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Luke Granto,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,41,1.0,2025-01-03
+41,SGK,RIT,SUNY Geneseo Knights,2pmi,Dribble Jumper,Colin Gentile,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,42,3.0,2025-01-03
+43,SGK,RIT,SUNY Geneseo Knights,2pMa,Dribble Jumper,Jackson Casey,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,44,3.0,2025-01-03
+44,SGK,RIT,Rochester Institute of Technology Tigers,2pMa,Drop Step,Josiah Turner,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,45,1.0,2025-01-03
+45,SGK,RIT,SUNY Geneseo Knights,And1,To Basket,Sebastian Pacheco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,46,1.0,2025-01-03
+47,SGK,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Luke Granto,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,48,4.0,2025-01-03
+48,SGK,RIT,SUNY Geneseo Knights,3pmi,No Dribble Jumper,Kaelan Leak,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,49,4.0,2025-01-03
+49,SGK,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Mark Osime,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,50,4.0,2025-01-03
+50,SGK,RIT,SUNY Geneseo Knights,3pMa,No Dribble Jumper,Kaelan Leak,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,51,4.0,2025-01-03
+51,SGK,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Josiah Turner,Iso,Right,N/A,Brock Bowen,Spot Ups,N/A,Shot,Empire 8,Liberty League,52,4.0,2025-01-03
+52,SGK,RIT,SUNY Geneseo Knights,3pmi,Dribble Jumper,Michael Gentile,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,53,4.0,2025-01-03
+53,SGK,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,54,1.0,2025-01-03
+54,SGK,RIT,SUNY Geneseo Knights,3pmi,Dribble Jumper,James Burton,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,55,4.0,2025-01-03
+55,SGK,RIT,Rochester Institute of Technology Tigers,2pmi,Hook Shot,Josiah Turner,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,56,1.0,2025-01-03
+56,SGK,RIT,SUNY Geneseo Knights,2pMa,To Basket,Colin Gentile,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,57,1.0,2025-01-03
+57,SGK,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Brock Bowen,Iso,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,58,1.0,2025-01-03
+59,SGK,RIT,SUNY Geneseo Knights,3pMa,No Dribble Jumper,Robert Perocolosi,Post,Left,Left Shoulder,Trevor Hofer,Spot Ups,N/A,Shot,Empire 8,Liberty League,60,4.0,2025-01-03
+60,SGK,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Mark Osime,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,61,4.0,2025-01-03
+61,SGK,RIT,SUNY Geneseo Knights,Turnover,N/A,Sebastian Pacheco,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,62,1.0,2025-01-03
+62,SGK,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,63,1.0,2025-01-03
+64,SGK,RIT,SUNY Geneseo Knights,3pMa,No Dribble Jumper,Colin Gentile,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,65,4.0,2025-01-03
+65,SGK,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Post,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,66,1.0,2025-01-03
+66,SGK,RIT,SUNY Geneseo Knights,3pmi,No Dribble Jumper,Colin Gentile,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,67,4.0,2025-01-03
+67,SGK,RIT,SUNY Geneseo Knights,2pmi,N/A,Robert Perocolosi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,68,2.0,2025-01-03
+68,SGK,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Kenny Wilburn,Post,Right,N/A,Mark Osime,Spot Ups,Right,Drive,Empire 8,Liberty League,69,2.0,2025-01-03
+69,SGK,RIT,SUNY Geneseo Knights,3pmi,No Dribble Jumper,Colin Gentile,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,70,4.0,2025-01-03
+71,SGK,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Post,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,72,1.0,2025-01-03
+72,SGK,RIT,SUNY Geneseo Knights,2pmi,To Basket,Sebastian Pacheco,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,73,1.0,2025-01-03
+74,SGK,RIT,SUNY Geneseo Knights,3pmi,No Dribble Jumper,Trevor Hofer,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,75,4.0,2025-01-03
+75,SGK,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Empire 8,Liberty League,76,1.0,2025-01-03
+76,SGK,RIT,SUNY Geneseo Knights,Turnover,N/A,Trevor Hofer,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,77,1.0,2025-01-03
+77,SGK,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Chase Dickens,Spot Ups,N/A,Shot,Empire 8,Liberty League,78,4.0,2025-01-03
+78,SGK,RIT,SUNY Geneseo Knights,2pmi,To Basket,James Burton,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,79,1.0,2025-01-03
+80,SGK,RIT,SUNY Geneseo Knights,2pMa,To Basket,Justin Yearwood,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,81,1.0,2025-01-03
+81,SGK,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,82,4.0,2025-01-03
+82,SGK,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Brock Bowen,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,83,1.0,2025-01-03
+85,SGK,RIT,SUNY Geneseo Knights,3pmi,No Dribble Jumper,Michael Gentile,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,86,4.0,2025-01-03
+87,SGK,RIT,SUNY Geneseo Knights,2pMa,To Basket,Colin Gentile,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,88,1.0,2025-01-03
+88,SGK,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Iso,Left,N/A,Brock Bowen,Spot Ups,Right,Drive,Empire 8,Liberty League,89,1.0,2025-01-03
+89,SGK,RIT,SUNY Geneseo Knights,2pmi,To Basket,Robert Perocolosi,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,90,1.0,2025-01-03
+90,SGK,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,91,4.0,2025-01-03
+91,SGK,RIT,SUNY Geneseo Knights,Foul,N/A,Sebastian Pacheco,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,92,1.0,2025-01-03
+95,SGK,RIT,SUNY Geneseo Knights,3pmi,No Dribble Jumper,Michael Gentile,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,96,4.0,2025-01-03
+96,SGK,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,97,1.0,2025-01-03
+97,SGK,RIT,SUNY Geneseo Knights,2pMa,To Basket,Justin Yearwood,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,98,1.0,2025-01-03
+98,SGK,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Brock Bowen,Spot Ups,N/A,Shot,Empire 8,Liberty League,99,4.0,2025-01-03
+99,SGK,RIT,SUNY Geneseo Knights,2pmi,To Basket,Colin Gentile,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Empire 8,Liberty League,100,1.0,2025-01-03
+100,SGK,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,101,4.0,2025-01-03
+101,SGK,RIT,SUNY Geneseo Knights,2pmi,To Basket,Robert Perocolosi,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,102,1.0,2025-01-03
+102,SGK,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,Spot Ups,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,103,1.0,2025-01-03
+104,SGK,RIT,SUNY Geneseo Knights,2pMa,To Basket,James Burton,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,105,1.0,2025-01-03
+105,SGK,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Kenny Wilburn,Post,Right,Left Shoulder,Matt Caggiano,Spot Ups,N/A,Shot,Empire 8,Liberty League,106,4.0,2025-01-03
+106,SGK,RIT,SUNY Geneseo Knights,3pMa,No Dribble Jumper,Colin Gentile,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,107,4.0,2025-01-03
+107,SGK,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,Left,Off,Brock Bowen,P&R Roll Man,N/A,Slips,Empire 8,Liberty League,108,4.0,2025-01-03
+108,SGK,RIT,SUNY Geneseo Knights,2pMa,To Basket,Robert Perocolosi,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,109,1.0,2025-01-03
+109,SGK,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Nolan Smih,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,110,1.0,2025-01-03
+110,SGK,RIT,SUNY Geneseo Knights,2pMa,To Basket,Michael Gentile,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,111,1.0,2025-01-03
+111,SGK,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Empire 8,Liberty League,112,4.0,2025-01-03
+112,SGK,RIT,SUNY Geneseo Knights,2pmi,To Basket,Colin Gentile,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,113,1.0,2025-01-03
+115,SGK,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Kenny Wilburn,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,116,1.0,2025-01-03
+117,SGK,RIT,SUNY Geneseo Knights,2pmi,To Basket,Justin Yearwood,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Empire 8,Liberty League,118,1.0,2025-01-03
+119,SGK,RIT,SUNY Geneseo Knights,And1,To Basket,Sebastian Pacheco,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,120,1.0,2025-01-03
+121,SGK,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Zac Ditzel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,122,4.0,2025-01-03
+122,SGK,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Chase Dickens,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,123,2.0,2025-01-03
+123,SGK,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,124,1.0,2025-01-03
+124,SGK,RIT,SUNY Geneseo Knights,2pMa,To Basket,Sebastian Pacheco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,125,1.0,2025-01-03
+125,SGK,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Luke Granto,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,126,1.0,2025-01-03
+127,SGK,RIT,SUNY Geneseo Knights,3pmi,No Dribble Jumper,Colin Gentile,Post,Right,Face Up,Michael Gentile,Spot Ups,N/A,Shot,Empire 8,Liberty League,128,4.0,2025-01-03
+129,SGK,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Luke Granto,Hand Offs,Left,Stationary,N/A,N/A,N/A,N/A,Empire 8,Liberty League,130,1.0,2025-01-03
+130,SGK,RIT,SUNY Geneseo Knights,2pMa,To Basket,Justin Yearwood,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,131,1.0,2025-01-03
+131,SGK,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Luke Granto,PNR,High,Off,Zac Ditzel,Spot Ups,Left,Drive,Empire 8,Liberty League,132,1.0,2025-01-03
+132,SGK,RIT,SUNY Geneseo Knights,2pMa,Dribble Jumper,Sebastian Pacheco,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,133,3.0,2025-01-03
+133,SGK,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Josiah Turner,Iso,Top,N/A,Zac Ditzel,Spot Ups,N/A,Shot,Empire 8,Liberty League,134,4.0,2025-01-03
+134,SGK,RIT,SUNY Geneseo Knights,2pmi,To Basket,Colin Gentile,Post,Right,N/A,Justin Yearwood,Spot Ups,Left,Drive,Empire 8,Liberty League,135,1.0,2025-01-03
+135,SGK,RIT,Rochester Institute of Technology Tigers,Turnover,To Basket,Mark Osime,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,136,1.0,2025-01-03
+136,SGK,RIT,SUNY Geneseo Knights,3pmi,No Dribble Jumper,Colin Gentile,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,137,4.0,2025-01-03
+137,SGK,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Iso,Right,N/A,Josiah Turner,Spot Ups,Left,Drive,Empire 8,Liberty League,138,1.0,2025-01-03
+138,SGK,RIT,SUNY Geneseo Knights,3pmi,No Dribble Jumper,Sebastian Pacheco,PNR,Left,Off,Colin Gentile,Spot Ups,N/A,Shot,Empire 8,Liberty League,139,4.0,2025-01-03
+139,SGK,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,140,1.0,2025-01-03
+140,SGK,RIT,,Foul,N/A,Justin Yearwood,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,141,1.0,2025-01-03
+143,SGK,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Luke Granto,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,144,1.0,2025-01-03
+144,SGK,RIT,Rochester Institute of Technology Tigers,And1,To Basket,Kenny Wilburn,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,145,1.0,2025-01-03
+147,SGK,RIT,Rochester Institute of Technology Tigers,Foul,Hook Shot,Kenny Wilburn,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,148,1.0,2025-01-03
+150,SGK,RIT,SUNY Geneseo Knights,2pMa,Dribble Jumper,Robert Perocolosi,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,151,2.0,2025-01-03
+152,SGK,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Zac Ditzel,PNR,Left,Off,Brody Brown,Cuts,N/A,Basket,Empire 8,Liberty League,153,1.0,2025-01-03
+153,SGK,RIT,SUNY Geneseo Knights,3pMa,No Dribble Jumper,Kaelan Leak,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,154,4.0,2025-01-03
+154,SGK,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Zac Ditzel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,155,4.0,2025-01-03
+155,SGK,RIT,SUNY Geneseo Knights,2pmi,To Basket,Sebastian Pacheco,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,156,1.0,2025-01-03
+156,SGK,RIT,SUNY Geneseo Knights,2pmi,To Basket,Sebastian Pacheco,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,157,1.0,2025-01-03
+157,SGK,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Kenny Wilburn,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,158,1.0,2025-01-03
+160,SGK,RIT,SUNY Geneseo Knights,2pmi,To Basket,Robert Perocolosi,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Empire 8,Liberty League,161,1.0,2025-01-03
+161,SGK,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Mark Osime,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,162,1.0,2025-01-03
+162,SGK,RIT,SUNY Geneseo Knights,2pmi,To Basket,Sebastian Pacheco,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,163,1.0,2025-01-03
+163,SGK,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Luke Granto,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,164,1.0,2025-01-03
+164,SGK,RIT,SUNY Geneseo Knights,2pMa,To Basket,Colin Gentile,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Empire 8,Liberty League,165,1.0,2025-01-03
+165,SGK,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Luke Granto,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,166,4.0,2025-01-03
+167,SGK,RIT,SUNY Geneseo Knights,3pmi,No Dribble Jumper,Sebastian Pacheco,Iso,Top,N/A,Michael Gentile,Spot Ups,N/A,Shot,Empire 8,Liberty League,168,4.0,2025-01-03
+168,SGK,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Nolan Smih,Spot Ups,N/A,Shot,Empire 8,Liberty League,169,4.0,2025-01-03
+169,SGK,RIT,SUNY Geneseo Knights,2pmi,To Basket,Michael Gentile,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,170,1.0,2025-01-03
+171,SGK,RIT,SUNY Geneseo Knights,2pmi,To Basket,Sebastian Pacheco,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,172,1.0,2025-01-03
+172,SGK,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Brody Brown,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,173,1.0,2025-01-03
+173,SGK,RIT,SUNY Geneseo Knights,2pMa,To Basket,Colin Gentile,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Empire 8,Liberty League,174,1.0,2025-01-03
+174,SGK,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,PNR,Right,Off,Brody Brown,Spot Ups,N/A,Shot,Empire 8,Liberty League,175,4.0,2025-01-03
+175,SGK,RIT,SUNY Geneseo Knights,Foul,To Basket,Robert Perocolosi,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,176,1.0,2025-01-03
+178,SGK,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,179,4.0,2025-01-03
+180,SGK,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,181,2.0,2025-01-03
+181,SGK,RIT,SUNY Geneseo Knights,3pmi,No Dribble Jumper,Robert Perocolosi,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,182,4.0,2025-01-03
+182,SGK,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Post,Right,Face Up,Matt Caggiano,Spot Ups,Left,Drive,Empire 8,Liberty League,183,1.0,2025-01-03
+183,SGK,RIT,SUNY Geneseo Knights,2pMa,To Basket,Colin Gentile,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Empire 8,Liberty League,184,1.0,2025-01-03
+184,SGK,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Post,Left,Right Shoulder,Chase Dickens,Spot Ups,Right,Drive,Empire 8,Liberty League,185,1.0,2025-01-03
+186,SGK,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,187,4.0,2025-01-03
+187,SGK,RIT,SUNY Geneseo Knights,3pmi,No Dribble Jumper,Sebastian Pacheco,PNR,High,Off,Jackson Casey,Spot Ups,N/A,Shot,Empire 8,Liberty League,188,4.0,2025-01-03
+188,SGK,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,189,1.0,2025-01-03
+189,SGK,RIT,SUNY Geneseo Knights,3pmi,No Dribble Jumper,Robert Perocolosi,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,190,4.0,2025-01-03
+190,SGK,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,191,1.0,2025-01-03
+191,SGK,RIT,SUNY Geneseo Knights,3pmi,No Dribble Jumper,Sebastian Pacheco,Iso,Top,N/A,James Burton,Spot Ups,N/A,Shot,Empire 8,Liberty League,192,4.0,2025-01-03
+194,SGK,RIT,SUNY Geneseo Knights,Turnover,N/A,Jackson Casey,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,195,1.0,2025-01-03
+195,SGK,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Chase Dickens,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,196,1.0,2025-01-03
+198,SGK,RIT,SUNY Geneseo Knights,2pMa,To Basket,Robert Perocolosi,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,199,1.0,2025-01-03
+199,SGK,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,PNR,High,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,200,1.0,2025-01-03
+200,SGK,RIT,SUNY Geneseo Knights,Foul,N/A,Robert Perocolosi,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,201,1.0,2025-01-03
+204,SGK,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,205,4.0,2025-01-03
+205,SGK,RIT,Rochester Institute of Technology Tigers,Foul,N/A,Chase Dickens,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,206,1.0,2025-01-03
+208,SGK,RIT,SUNY Geneseo Knights,Foul,To Basket,Sebastian Pacheco,PNR,Left,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,209,1.0,2025-01-03
+211,SGK,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,212,1.0,2025-01-03
+212,SGK,RIT,SUNY Geneseo Knights,2pmi,To Basket,Colin Gentile,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,213,1.0,2025-01-03
+213,SGK,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Kenny Wilburn,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,214,1.0,2025-01-03
+216,SGK,RIT,SUNY Geneseo Knights,2pmi,To Basket,Sebastian Pacheco,PNR,Right,Off,Michael Gentile,Spot Ups,Left,Drive,Empire 8,Liberty League,217,1.0,2025-01-03
+218,SGK,RIT,SUNY Geneseo Knights,2pMa,To Basket,Colin Gentile,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,219,1.0,2025-01-03
+219,SGK,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,220,4.0,2025-01-03
+220,SGK,RIT,SUNY Geneseo Knights,3pmi,No Dribble Jumper,Colin Gentile,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,221,4.0,2025-01-03
+222,SGK,RIT,SUNY Geneseo Knights,2pmi,To Basket,Sebastian Pacheco,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,223,1.0,2025-01-03
+224,SGK,RIT,SUNY Geneseo Knights,3pmi,No Dribble Jumper,James Burton,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,225,4.0,2025-01-03
+225,SGK,RIT,,Foul,N/A,Brock Bowen,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,226,1.0,2025-01-03
+230,SGK,RIT,SUNY Geneseo Knights,3pmi,No Dribble Jumper,Sebastian Pacheco,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,231,4.0,2025-01-03
+231,SGK,RIT,Rochester Institute of Technology Tigers,3pMa,Dribble Jumper,Chase Dickens,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,232,4.0,2025-01-03
+232,SGK,RIT,SUNY Geneseo Knights,3pmi,No Dribble Jumper,James Burton,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,233,4.0,2025-01-03
+234,SGK,RIT,SUNY Geneseo Knights,3pmi,Dribble Jumper,Robert Perocolosi,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,235,4.0,2025-01-03
+236,SGK,RIT,,Foul,N/A,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,237,1.0,2025-01-03
+240,SGK,RIT,,Foul,N/A,Chase Dickens,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,241,1.0,2025-01-03
+243,SGK,RIT,SUNY Geneseo Knights,3pmi,Dribble Jumper,Sebastian Pacheco,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,244,4.0,2025-01-03
+244,SGK,RIT,,Foul,N/A,Kenny Wilburn,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,245,1.0,2025-01-03
+247,SGK,RIT,SUNY Geneseo Knights,3pmi,Dribble Jumper,Robert Perocolosi,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,248,4.0,2025-01-03
+248,SGK,RIT,SUNY Geneseo Knights,3pmi,To Basket,Sebastian Pacheco,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,249,4.0,2025-01-03
+249,SGK,RIT,,Foul,N/A,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,250,1.0,2025-01-03

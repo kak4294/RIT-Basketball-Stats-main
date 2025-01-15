@@ -1,0 +1,162 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,PPC,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,1,4.0,2025-01-04
+1,PPC,SKD,Pomona-Pitzer Saghens,2pMa,To Basket,Peyton Mullarkey,PNR,High,N/A,Pete Boyle,Cuts,N/A,Basket,UNKNOWN,Liberty League,2,1.0,2025-01-04
+2,PPC,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,3,1.0,2025-01-04
+3,PPC,SKD,Pomona-Pitzer Saghens,3pmi,No Dribble Jumper,Peyton Mullarkey,PNR,Left,Off,Pete Boyle,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,4,4.0,2025-01-04
+4,PPC,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Charlie Fantom,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,5,1.0,2025-01-04
+5,PPC,SKD,Pomona-Pitzer Saghens,2pmi,To Basket,Lind Sam,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,6,1.0,2025-01-04
+6,PPC,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Alexei Downie,Post,Right,N/A,Charlie Fantom,Spot Ups,Left,Drive,UNKNOWN,Liberty League,7,3.0,2025-01-04
+7,PPC,SKD,Pomona-Pitzer Saghens,3pMa,No Dribble Jumper,Peyton Mullarkey,PNR,Right,Off,Lind Sam,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,8,4.0,2025-01-04
+8,PPC,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Aidan Roy,Iso,Right,N/A,Joey Skoric,Spot Ups,Left,Drive,UNKNOWN,Liberty League,9,1.0,2025-01-04
+9,PPC,SKD,Pomona-Pitzer Saghens,3pMa,No Dribble Jumper,Peyton Mullarkey,PNR,High,Off,Pete Boyle,P&R Roll Man,N/A,Pop,UNKNOWN,Liberty League,10,4.0,2025-01-04
+10,PPC,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Charlie Fantom,PNR,High,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,11,1.0,2025-01-04
+11,PPC,SKD,Pomona-Pitzer Saghens,2pmi,To Basket,Ty Bergman,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,12,1.0,2025-01-04
+12,PPC,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Hakeem Daphnis,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,13,3.0,2025-01-04
+13,PPC,SKD,Pomona-Pitzer Saghens,2pmi,To Basket,Pete Boyle,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,14,1.0,2025-01-04
+14,PPC,SKD,Pomona-Pitzer Saghens,2pMa,To Basket,Ty Bergman,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,15,1.0,2025-01-04
+15,PPC,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Aidan Roy,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,16,1.0,2025-01-04
+16,PPC,SKD,Pomona-Pitzer Saghens,3pmi,No Dribble Jumper,Peyton Mullarkey,PNR,High,Off,Ty Bergman,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,17,4.0,2025-01-04
+17,PPC,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,18,1.0,2025-01-04
+19,PPC,SKD,Pomona-Pitzer Saghens,3pmi,No Dribble Jumper,Samir Obrien,PNR,High,Off,Matthew Diekmann,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,20,4.0,2025-01-04
+20,PPC,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Charlie Fantom,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,21,4.0,2025-01-04
+21,PPC,SKD,Pomona-Pitzer Saghens,2pmi,To Basket,Joe Cookson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,22,1.0,2025-01-04
+22,PPC,SKD,Pomona-Pitzer Saghens,2pMa,Hook Shot,Ty Bergman,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,23,1.0,2025-01-04
+23,PPC,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Jake Walsh,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,24,3.0,2025-01-04
+25,PPC,SKD,Pomona-Pitzer Saghens,2pmi,To Basket,Samir Obrien,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,26,1.0,2025-01-04
+28,PPC,SKD,Pomona-Pitzer Saghens,2pmi,Dribble Jumper,Matthew Diekmann,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,29,3.0,2025-01-04
+29,PPC,SKD,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,30,1.0,2025-01-04
+30,PPC,SKD,Pomona-Pitzer Saghens,3pmi,Dribble Jumper,Peyton Mullarkey,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,31,4.0,2025-01-04
+31,PPC,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,PNR,High,Off,Jack LaGarde,P&R Roll Man,N/A,Roll,UNKNOWN,Liberty League,32,1.0,2025-01-04
+32,PPC,SKD,Pomona-Pitzer Saghens,3pMa,No Dribble Jumper,Owen Avdalovic,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,33,4.0,2025-01-04
+33,PPC,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Fumani Sithole,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,34,4.0,2025-01-04
+34,PPC,SKD,Pomona-Pitzer Saghens,3pmi,No Dribble Jumper,Owen Avdalovic,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,35,4.0,2025-01-04
+35,PPC,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,36,3.0,2025-01-04
+36,PPC,SKD,Pomona-Pitzer Saghens,3pmi,No Dribble Jumper,Peyton Mullarkey,PNR,Left,Off,Owen Avdalovic,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,37,4.0,2025-01-04
+38,PPC,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,PNR,High,Off,Jack LaGarde,P&R Roll Man,N/A,Roll,UNKNOWN,Liberty League,39,1.0,2025-01-04
+39,PPC,SKD,Pomona-Pitzer Saghens,2pmi,To Basket,Pete Boyle,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,40,1.0,2025-01-04
+40,PPC,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Harry Luo,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,41,1.0,2025-01-04
+41,PPC,SKD,Pomona-Pitzer Saghens,2pmi,To Basket,Matthew Diekmann,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,42,1.0,2025-01-04
+43,PPC,SKD,Pomona-Pitzer Saghens,2pmi,To Basket,Peyton Mullarkey,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,44,1.0,2025-01-04
+44,PPC,SKD,Pomona-Pitzer Saghens,2pmi,N/A,Joe Cookson,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,45,1.0,2025-01-04
+45,PPC,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Hakeem Daphnis,PNR,High,Off,Nick Padilla,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,46,4.0,2025-01-04
+46,PPC,SKD,Pomona-Pitzer Saghens,3pmi,Dribble Jumper,Peyton Mullarkey,PNR,High,Off,Joe Cookson,Spot Ups,Straight,Drive,UNKNOWN,Liberty League,47,4.0,2025-01-04
+48,PPC,SKD,Pomona-Pitzer Saghens,3pMa,No Dribble Jumper,Joe Cookson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,49,4.0,2025-01-04
+49,PPC,SKD,Skidmore Thoroughbreds,Turnover,N/A,Alexei Downie,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,50,1.0,2025-01-04
+50,PPC,SKD,Pomona-Pitzer Saghens,2pmi,To Basket,Joe Cookson,PNR,High,Off,Ty Bergman,P&R Roll Man,N/A,Roll,UNKNOWN,Liberty League,51,1.0,2025-01-04
+51,PPC,SKD,Pomona-Pitzer Saghens,2pmi,To Basket,Samir Obrien,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,52,1.0,2025-01-04
+52,PPC,SKD,Pomona-Pitzer Saghens,2pmi,To Basket,Samir Obrien,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,53,1.0,2025-01-04
+54,PPC,SKD,Pomona-Pitzer Saghens,2pMa,Dribble Jumper,Joe Cookson,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,55,3.0,2025-01-04
+59,PPC,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Joey Skoric,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,60,1.0,2025-01-04
+60,PPC,SKD,Pomona-Pitzer Saghens,2pmi,To Basket,Joe Cookson,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,61,1.0,2025-01-04
+61,PPC,SKD,Pomona-Pitzer Saghens,2pMa,To Basket,Joe Cookson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,62,1.0,2025-01-04
+62,PPC,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,PNR,High,Off,Charlie Weisberg,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,63,4.0,2025-01-04
+63,PPC,SKD,Pomona-Pitzer Saghens,Foul,To Basket,Lind Sam,PNR,Right,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,64,1.0,2025-01-04
+66,PPC,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Charlie Fantom,PNR,Left,Off,Alexei Downie,P&R Roll Man,N/A,Roll,UNKNOWN,Liberty League,67,1.0,2025-01-04
+67,PPC,SKD,Pomona-Pitzer Saghens,2pmi,To Basket,Joe Cookson,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,68,1.0,2025-01-04
+68,PPC,SKD,Pomona-Pitzer Saghens,2pMa,To Basket,Samir Obrien,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,69,1.0,2025-01-04
+69,PPC,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Hakeem Daphnis,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,70,3.0,2025-01-04
+70,PPC,SKD,Pomona-Pitzer Saghens,2pmi,Dribble Jumper,Joe Cookson,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,71,3.0,2025-01-04
+71,PPC,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Weisberg,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,72,4.0,2025-01-04
+72,PPC,SKD,Pomona-Pitzer Saghens,Turnover,N/A,Samir Obrien,PNR,High,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,73,1.0,2025-01-04
+73,PPC,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Prince Shyllon,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,74,4.0,2025-01-04
+74,PPC,SKD,Pomona-Pitzer Saghens,3pmi,No Dribble Jumper,Joe Cookson,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,75,4.0,2025-01-04
+75,PPC,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Alexei Downie,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,76,2.0,2025-01-04
+76,PPC,SKD,Pomona-Pitzer Saghens,3pmi,No Dribble Jumper,Samir Obrien,Iso,Top,N/A,Ty Bergman,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,77,4.0,2025-01-04
+77,PPC,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,78,4.0,2025-01-04
+78,PPC,SKD,Pomona-Pitzer Saghens,Turnover,N/A,Matthew Diekmann,PNR,Right,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,79,1.0,2025-01-04
+79,PPC,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Aidan Roy,PNR,High,Off,Charlie Fantom,Spot Ups,Left,Drive,UNKNOWN,Liberty League,80,2.0,2025-01-04
+80,PPC,SKD,Pomona-Pitzer Saghens,3pMa,No Dribble Jumper,Connor Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,81,4.0,2025-01-04
+81,PPC,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Joey Skoric,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,82,4.0,2025-01-04
+82,PPC,SKD,Pomona-Pitzer Saghens,3pmi,No Dribble Jumper,Pete Boyle,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,83,4.0,2025-01-04
+84,PPC,SKD,Pomona-Pitzer Saghens,3pmi,No Dribble Jumper,Matthew Diekmann,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,85,4.0,2025-01-04
+85,PPC,SKD,Pomona-Pitzer Saghens,2pMa,To Basket,Pete Boyle,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,86,1.0,2025-01-04
+86,PPC,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Joey Skoric,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,87,2.0,2025-01-04
+87,PPC,SKD,Pomona-Pitzer Saghens,3pmi,No Dribble Jumper,Pete Boyle,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,88,4.0,2025-01-04
+88,PPC,SKD,Skidmore Thoroughbreds,Turnover,N/A,Aidan Roy,PNR,Right,Off,Prince Shyllon,Spot Ups,Right,Drive,UNKNOWN,Liberty League,89,1.0,2025-01-04
+89,PPC,SKD,Pomona-Pitzer Saghens,2pmi,N/A,Ty Bergman,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,90,1.0,2025-01-04
+90,PPC,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Charlie Fantom,PNR,High,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,91,1.0,2025-01-04
+91,PPC,SKD,Skidmore Thoroughbreds,Foul,To Basket,Charlie Fantom,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,92,1.0,2025-01-04
+94,PPC,SKD,Pomona-Pitzer Saghens,3pmi,Dribble Jumper,Peyton Mullarkey,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,95,4.0,2025-01-04
+96,PPC,SKD,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Aidan Roy,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,97,4.0,2025-01-04
+97,PPC,SKD,Pomona-Pitzer Saghens,3pmi,Dribble Jumper,Samir Obrien,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,98,4.0,2025-01-04
+98,PPC,SKD,Pomona-Pitzer Saghens,2pmi,To Basket,Joe Cookson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,99,1.0,2025-01-04
+99,PPC,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Alexei Downie,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,100,4.0,2025-01-04
+100,PPC,SKD,Pomona-Pitzer Saghens,3pMa,No Dribble Jumper,Peyton Mullarkey,PNR,Left,Off,Lind Sam,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,101,4.0,2025-01-04
+101,PPC,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Hakeem Daphnis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,102,2.0,2025-01-04
+102,PPC,SKD,Pomona-Pitzer Saghens,Turnover,N/A,Ty Bergman,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,103,1.0,2025-01-04
+104,PPC,SKD,Skidmore Thoroughbreds,Turnover,N/A,Charlie Fantom,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,105,1.0,2025-01-04
+105,PPC,SKD,Pomona-Pitzer Saghens,Turnover,N/A,Pete Boyle,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,106,1.0,2025-01-04
+107,PPC,SKD,Skidmore Thoroughbreds,Turnover,N/A,Joey Skoric,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,108,1.0,2025-01-04
+108,PPC,SKD,Pomona-Pitzer Saghens,Foul,To Basket,Ty Bergman,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,109,1.0,2025-01-04
+111,PPC,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,112,1.0,2025-01-04
+112,PPC,SKD,Pomona-Pitzer Saghens,And1,To Basket,Ty Bergman,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,113,1.0,2025-01-04
+114,PPC,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Hakeem Daphnis,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,115,4.0,2025-01-04
+115,PPC,SKD,Pomona-Pitzer Saghens,3pMa,No Dribble Jumper,Pete Boyle,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,116,4.0,2025-01-04
+116,PPC,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Aidan Roy,PNR,High,N/A,Charlie Fantom,Spot Ups,Left,Drive,UNKNOWN,Liberty League,117,2.0,2025-01-04
+117,PPC,SKD,Pomona-Pitzer Saghens,2pmi,Dribble Jumper,Lind Sam,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,118,3.0,2025-01-04
+119,PPC,SKD,Pomona-Pitzer Saghens,2pMa,To Basket,Ty Bergman,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,120,1.0,2025-01-04
+120,PPC,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,121,1.0,2025-01-04
+121,PPC,SKD,Pomona-Pitzer Saghens,Turnover,N/A,Peyton Mullarkey,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,122,1.0,2025-01-04
+123,PPC,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,124,4.0,2025-01-04
+124,PPC,SKD,Pomona-Pitzer Saghens,3pMa,Dribble Jumper,Joe Cookson,PNR,Left,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,125,4.0,2025-01-04
+125,PPC,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,126,1.0,2025-01-04
+126,PPC,SKD,Pomona-Pitzer Saghens,Turnover,N/A,Samir Obrien,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,127,1.0,2025-01-04
+127,PPC,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,128,4.0,2025-01-04
+128,PPC,SKD,Pomona-Pitzer Saghens,3pMa,No Dribble Jumper,Joe Cookson,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,129,4.0,2025-01-04
+129,PPC,SKD,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Aidan Roy,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,130,4.0,2025-01-04
+131,PPC,SKD,Pomona-Pitzer Saghens,2pMa,To Basket,Samir Obrien,PNR,High,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,132,1.0,2025-01-04
+132,PPC,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Aidan Roy,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,133,3.0,2025-01-04
+133,PPC,SKD,Pomona-Pitzer Saghens,3pMa,No Dribble Jumper,Owen Avdalovic,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,134,4.0,2025-01-04
+134,PPC,SKD,Skidmore Thoroughbreds,2pmi,N/A,Joey Skoric,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,135,1.0,2025-01-04
+135,PPC,SKD,Skidmore Thoroughbreds,Turnover,N/A,Jack LaGarde,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,136,1.0,2025-01-04
+136,PPC,SKD,Pomona-Pitzer Saghens,3pMa,No Dribble Jumper,Samir Obrien,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,137,4.0,2025-01-04
+138,PPC,SKD,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,139,1.0,2025-01-04
+139,PPC,SKD,Pomona-Pitzer Saghens,3pmi,No Dribble Jumper,Pete Boyle,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,140,4.0,2025-01-04
+140,PPC,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,PNR,High,Off,Alexei Downie,P&R Roll Man,N/A,Pop,UNKNOWN,Liberty League,141,4.0,2025-01-04
+141,PPC,SKD,Pomona-Pitzer Saghens,3pmi,No Dribble Jumper,Samir Obrien,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,142,4.0,2025-01-04
+142,PPC,SKD,Pomona-Pitzer Saghens,2pmi,To Basket,Joe Cookson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,143,2.0,2025-01-04
+143,PPC,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Aidan Roy,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,144,2.0,2025-01-04
+144,PPC,SKD,Pomona-Pitzer Saghens,3pMa,No Dribble Jumper,Pete Boyle,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,145,4.0,2025-01-04
+145,PPC,SKD,Skidmore Thoroughbreds,Foul,To Basket,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,146,1.0,2025-01-04
+148,PPC,SKD,Pomona-Pitzer Saghens,3pMa,No Dribble Jumper,Peyton Mullarkey,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,149,4.0,2025-01-04
+149,PPC,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,150,4.0,2025-01-04
+150,PPC,SKD,Pomona-Pitzer Saghens,Turnover,N/A,Pete Boyle,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,151,1.0,2025-01-04
+151,PPC,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Alexei Downie,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,152,1.0,2025-01-04
+152,PPC,SKD,Pomona-Pitzer Saghens,3pmi,No Dribble Jumper,Peyton Mullarkey,PNR,Right,Off,Pete Boyle,P&R Roll Man,N/A,Pop,UNKNOWN,Liberty League,153,4.0,2025-01-04
+154,PPC,SKD,Pomona-Pitzer Saghens,3pmi,No Dribble Jumper,Connor Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,155,4.0,2025-01-04
+155,PPC,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Joey Skoric,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,156,4.0,2025-01-04
+156,PPC,SKD,Pomona-Pitzer Saghens,2pMa,To Basket,Matthew Diekmann,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,157,1.0,2025-01-04
+157,PPC,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Fumani Sithole,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,158,2.0,2025-01-04
+158,PPC,SKD,Pomona-Pitzer Saghens,2pMa,Dribble Jumper,Peyton Mullarkey,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,159,3.0,2025-01-04
+159,PPC,SKD,Skidmore Thoroughbreds,Turnover,To Basket,Nick Padilla,PNR,Right,Off,Fumani Sithole,Cuts,N/A,Basket,UNKNOWN,Liberty League,160,1.0,2025-01-04
+160,PPC,SKD,Pomona-Pitzer Saghens,2pmi,To Basket,Matthew Diekmann,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,161,1.0,2025-01-04
+161,PPC,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Joey Skoric,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,162,1.0,2025-01-04
+162,PPC,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Joey Skoric,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,163,1.0,2025-01-04
+163,PPC,SKD,Pomona-Pitzer Saghens,2pMa,Dribble Jumper,Connor Fitzgerald,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,164,3.0,2025-01-04
+164,PPC,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Charlie Weisberg,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,165,4.0,2025-01-04
+166,PPC,SKD,Pomona-Pitzer Saghens,2pMa,Drop Step,Joe Cookson,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,167,1.0,2025-01-04
+167,PPC,SKD,Skidmore Thoroughbreds,2pMa,Drop Step,Jack LaGarde,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,168,1.0,2025-01-04
+168,PPC,SKD,Pomona-Pitzer Saghens,Turnover,N/A,Cooper Bladow,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,169,1.0,2025-01-04
+169,PPC,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Charlie Weisberg,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,170,4.0,2025-01-04
+170,PPC,SKD,Pomona-Pitzer Saghens,2pMa,To Basket,Joe Cookson,PNR,High,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,171,1.0,2025-01-04
+171,PPC,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Dillon McCafferty,PNR,Left,Off,Charlie Weisberg,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,172,4.0,2025-01-04
+172,PPC,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Jack LaGarde,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,173,1.0,2025-01-04
+173,PPC,SKD,Pomona-Pitzer Saghens,3pMa,No Dribble Jumper,Ty Bergman,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,174,4.0,2025-01-04
+174,PPC,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Aidan Roy,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,175,2.0,2025-01-04
+175,PPC,SKD,Pomona-Pitzer Saghens,3pmi,No Dribble Jumper,Ty Bergman,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,176,4.0,2025-01-04
+176,PPC,SKD,Skidmore Thoroughbreds,Turnover,N/A,Aidan Roy,PNR,Right,Off,Dillon McCafferty,Spot Ups,Right,Drive,UNKNOWN,Liberty League,177,1.0,2025-01-04
+177,PPC,SKD,Pomona-Pitzer Saghens,2pmi,To Basket,Owen Avdalovic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,178,1.0,2025-01-04
+178,PPC,SKD,Pomona-Pitzer Saghens,Turnover,N/A,Reagan Cornish,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,179,1.0,2025-01-04
+180,PPC,SKD,Skidmore Thoroughbreds,Foul,To Basket,Aidan Roy,PNR,Left,Away,Jack LaGarde,Cuts,N/A,Basket,UNKNOWN,Liberty League,181,1.0,2025-01-04
+183,PPC,SKD,Pomona-Pitzer Saghens,2pMa,To Basket,Kyle Jasper,PNR,High,Off,Matthew Diekmann,Spot Ups,Left,Drive,UNKNOWN,Liberty League,184,1.0,2025-01-04
+184,PPC,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,PNR,High,Off,Joey Skoric,P&R Roll Man,N/A,Roll,UNKNOWN,Liberty League,185,1.0,2025-01-04
+185,PPC,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Dillon McCafferty,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,186,2.0,2025-01-04
+186,PPC,SKD,Pomona-Pitzer Saghens,Turnover,N/A,Reagan Cornish,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,187,1.0,2025-01-04
+187,PPC,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,188,4.0,2025-01-04
+189,PPC,SKD,Pomona-Pitzer Saghens,3pmi,Dribble Jumper,Cooper Bladow,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,190,4.0,2025-01-04
+190,PPC,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Charlie Weisberg,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,191,4.0,2025-01-04
+192,PPC,SKD,Skidmore Thoroughbreds,Turnover,To Basket,Alexei Downie,Post,Left,Left Shoulder,Harry Luo,Cuts,N/A,Basket,UNKNOWN,Liberty League,193,1.0,2025-01-04
+193,PPC,SKD,Pomona-Pitzer Saghens,3pmi,No Dribble Jumper,Matthew Diekmann,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,194,4.0,2025-01-04
+195,PPC,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,Iso,Left,N/A,Charlie Weisberg,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,196,4.0,2025-01-04
+196,PPC,SKD,Pomona-Pitzer Saghens,2pMa,To Basket,Kyle Jasper,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,197,1.0,2025-01-04
+197,PPC,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,198,1.0,2025-01-04

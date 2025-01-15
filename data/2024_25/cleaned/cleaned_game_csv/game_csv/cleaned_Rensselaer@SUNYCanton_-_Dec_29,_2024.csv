@@ -1,0 +1,146 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+1,SCK,RPI,Rensselaer Polytechnic,2pMa,Dribble Jumper,Chuck Clemons,PNR,Right,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,2,2.0,2024-12-29
+2,SCK,RPI,SUNY Canton Kangaroos,3pmi,No Dribble Jumper,Jevonte Williams,PNR,Left,Away,Kevin Goode Jr,Spot Ups,N/A,Shot,SUNYAC,Liberty League,3,4.0,2024-12-29
+3,SCK,RPI,Rensselaer Polytechnic,2pmi,Drop Step,PJ Scalisi,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,4,1.0,2024-12-29
+4,SCK,RPI,SUNY Canton Kangaroos,2pmi,Dribble Jumper,Moe Biao,PNR,Right,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,5,3.0,2024-12-29
+5,SCK,RPI,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,6,1.0,2024-12-29
+8,SCK,RPI,SUNY Canton Kangaroos,2pmi,To Basket,Moe Biao,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,9,1.0,2024-12-29
+9,SCK,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,10,4.0,2024-12-29
+10,SCK,RPI,SUNY Canton Kangaroos,2pmi,To Basket,Jevonte Williams,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,11,1.0,2024-12-29
+12,SCK,RPI,SUNY Canton Kangaroos,2pMa,To Basket,Bryon Streb,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,13,1.0,2024-12-29
+14,SCK,RPI,Rensselaer Polytechnic,2pMa,To Basket,Dylan Matchett,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,15,1.0,2024-12-29
+15,SCK,RPI,SUNY Canton Kangaroos,2pmi,To Basket,Tanner Sullivan,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,16,1.0,2024-12-29
+16,SCK,RPI,Rensselaer Polytechnic,Foul,To Basket,Andrew Deppe,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,17,1.0,2024-12-29
+19,SCK,RPI,SUNY Canton Kangaroos,2pmi,Dribble Jumper,Jevonte Williams,PNR,Right,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,20,3.0,2024-12-29
+20,SCK,RPI,Rensselaer Polytechnic,Turnover,To Basket,Chuck Clemons,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,21,1.0,2024-12-29
+21,SCK,RPI,SUNY Canton Kangaroos,2pMa,To Basket,Tanner Sullivan,PNR,Left,Off,Bryon Streb,Spot Ups,Left,Drive,SUNYAC,Liberty League,22,1.0,2024-12-29
+22,SCK,RPI,Rensselaer Polytechnic,2pmi,To Basket,Dylan Matchett,PNR,Right,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,23,1.0,2024-12-29
+23,SCK,RPI,SUNY Canton Kangaroos,Turnover,To Basket,Eli Larson,Post,Middle,Dribble,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,24,1.0,2024-12-29
+24,SCK,RPI,Rensselaer Polytechnic,Turnover,To Basket,Avery Eugster,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,25,1.0,2024-12-29
+25,SCK,RPI,SUNY Canton Kangaroos,Turnover,N/A,Eli Larson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,26,1.0,2024-12-29
+26,SCK,RPI,Rensselaer Polytechnic,2pmi,To Basket,Dylan Matchett,PNR,Left,Away,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,27,1.0,2024-12-29
+27,SCK,RPI,SUNY Canton Kangaroos,Turnover,To Basket,Bryon Streb,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,28,1.0,2024-12-29
+28,SCK,RPI,Rensselaer Polytechnic,2pMa,To Basket,Abubacarr Camara,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,29,1.0,2024-12-29
+29,SCK,RPI,SUNY Canton Kangaroos,Turnover,N/A,Kevin Goode Jr,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,30,1.0,2024-12-29
+30,SCK,RPI,Rensselaer Polytechnic,2pMa,Dribble Jumper,Pat White,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,31,3.0,2024-12-29
+31,SCK,RPI,SUNY Canton Kangaroos,3pmi,No Dribble Jumper,Tanner Sullivan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,32,4.0,2024-12-29
+33,SCK,RPI,Rensselaer Polytechnic,3pmi,Dribble Jumper,Yechiel Stewart,PNR,High,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,34,4.0,2024-12-29
+34,SCK,RPI,SUNY Canton Kangaroos,2pMa,To Basket,Kevin Goode Jr,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,35,1.0,2024-12-29
+35,SCK,RPI,Rensselaer Polytechnic,Turnover,To Basket,Nate Tawiah-Boateng,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,36,1.0,2024-12-29
+36,SCK,RPI,SUNY Canton Kangaroos,2pmi,Dribble Jumper,Tanner Sullivan,PNR,Left,Off,Bryon Streb,Spot Ups,Left,Drive,SUNYAC,Liberty League,37,3.0,2024-12-29
+38,SCK,RPI,SUNY Canton Kangaroos,3pmi,No Dribble Jumper,Nate Cohen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,39,4.0,2024-12-29
+40,SCK,RPI,Rensselaer Polytechnic,Turnover,To Basket,Pat White,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,41,1.0,2024-12-29
+41,SCK,RPI,SUNY Canton Kangaroos,Turnover,N/A,Nate Cohen,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,42,1.0,2024-12-29
+42,SCK,RPI,Rensselaer Polytechnic,2pmi,To Basket,Avery Eugster,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,43,1.0,2024-12-29
+43,SCK,RPI,Rensselaer Polytechnic,2pMa,To Basket,Yechiel Stewart,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,44,1.0,2024-12-29
+45,SCK,RPI,SUNY Canton Kangaroos,2pmi,Dribble Jumper,Jevonte Williams,Iso,Right,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,46,3.0,2024-12-29
+47,SCK,RPI,Rensselaer Polytechnic,2pmi,To Basket,Yechiel Stewart,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,48,1.0,2024-12-29
+48,SCK,RPI,SUNY Canton Kangaroos,3pMa,No Dribble Jumper,Tanner Sullivan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,49,4.0,2024-12-29
+49,SCK,RPI,Rensselaer Polytechnic,2pMa,To Basket,Nate Tawiah-Boateng,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,50,1.0,2024-12-29
+50,SCK,RPI,SUNY Canton Kangaroos,3pmi,No Dribble Jumper,Hansen Bagdonas,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,51,4.0,2024-12-29
+52,SCK,RPI,SUNY Canton Kangaroos,3pmi,No Dribble Jumper,Hansen Bagdonas,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,53,4.0,2024-12-29
+53,SCK,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Chuck Clemons,Iso,Right,N/A,Yechiel Stewart,Spot Ups,N/A,Shot,SUNYAC,Liberty League,54,4.0,2024-12-29
+54,SCK,RPI,SUNY Canton Kangaroos,3pmi,No Dribble Jumper,Nate Cohen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,55,4.0,2024-12-29
+55,SCK,RPI,Rensselaer Polytechnic,2pmi,To Basket,Chuck Clemons,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,56,1.0,2024-12-29
+56,SCK,RPI,SUNY Canton Kangaroos,Turnover,N/A,Jevonte Williams,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,57,1.0,2024-12-29
+57,SCK,RPI,Rensselaer Polytechnic,2pMa,To Basket,Tucker Tharpe,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,58,1.0,2024-12-29
+58,SCK,RPI,SUNY Canton Kangaroos,3pmi,No Dribble Jumper,Jevonte Williams,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,59,4.0,2024-12-29
+60,SCK,RPI,SUNY Canton Kangaroos,2pMa,Dribble Jumper,Nate Cohen,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,61,2.0,2024-12-29
+63,SCK,RPI,Rensselaer Polytechnic,2pmi,To Basket,Dylan Matchett,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,64,1.0,2024-12-29
+64,SCK,RPI,SUNY Canton Kangaroos,2pmi,To Basket,Jevonte Williams,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,65,1.0,2024-12-29
+65,SCK,RPI,Rensselaer Polytechnic,2pMa,To Basket,PJ Scalisi,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,66,1.0,2024-12-29
+66,SCK,RPI,SUNY Canton Kangaroos,3pMa,Dribble Jumper,Nate Cohen,PNR,High,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,67,4.0,2024-12-29
+67,SCK,RPI,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,Post,Left,Left Shoulder,Yechiel Stewart,Cuts,N/A,Basket,SUNYAC,Liberty League,68,1.0,2024-12-29
+68,SCK,RPI,SUNY Canton Kangaroos,Foul,To Basket,Eli Larson,Post,Middle,Dribble,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,69,1.0,2024-12-29
+71,SCK,RPI,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,72,1.0,2024-12-29
+73,SCK,RPI,SUNY Canton Kangaroos,3pMa,No Dribble Jumper,Kevin Goode Jr,PNR,High,Off,Malaki Smith,Spot Ups,N/A,Shot,SUNYAC,Liberty League,74,4.0,2024-12-29
+74,SCK,RPI,Rensselaer Polytechnic,2pMa,To Basket,Chuck Clemons,PNR,Left,Away,Andrew Deppe,P&R Roll Man,Right,Pop,SUNYAC,Liberty League,75,1.0,2024-12-29
+75,SCK,RPI,SUNY Canton Kangaroos,3pMa,No Dribble Jumper,Malaki Smith,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,76,4.0,2024-12-29
+76,SCK,RPI,Rensselaer Polytechnic,Turnover,N/A,PJ Scalisi,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,77,1.0,2024-12-29
+77,SCK,RPI,SUNY Canton Kangaroos,3pmi,No Dribble Jumper,Malaki Smith,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,78,4.0,2024-12-29
+78,SCK,RPI,SUNY Canton Kangaroos,2pMa,To Basket,Eli Larson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,79,1.0,2024-12-29
+80,SCK,RPI,Rensselaer Polytechnic,2pmi,To Basket,Avery Eugster,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,81,1.0,2024-12-29
+81,SCK,RPI,Rensselaer Polytechnic,2pmi,To Basket,Avery Eugster,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,82,2.0,2024-12-29
+82,SCK,RPI,SUNY Canton Kangaroos,Turnover,N/A,Malaki Smith,PNR,Left,Off,Edram Gbekou,Spot Ups,N/A,N/A,SUNYAC,Liberty League,83,1.0,2024-12-29
+83,SCK,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,84,4.0,2024-12-29
+84,SCK,RPI,SUNY Canton Kangaroos,Turnover,N/A,Eli Larson,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,85,1.0,2024-12-29
+85,SCK,RPI,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,PNR,High,Away,Andrew Deppe,P&R Roll Man,N/A,Roll,SUNYAC,Liberty League,86,1.0,2024-12-29
+86,SCK,RPI,SUNY Canton Kangaroos,3pmi,Dribble Jumper,Bryon Streb,Post,Left,Left Shoulder,Kevin Goode Jr,Spot Ups,Left,Drive,SUNYAC,Liberty League,87,4.0,2024-12-29
+87,SCK,RPI,Rensselaer Polytechnic,Foul,To Basket,Dylan Matchett,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,88,1.0,2024-12-29
+90,SCK,RPI,SUNY Canton Kangaroos,2pMa,To Basket,Edram Gbekou,Iso,Left,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,91,1.0,2024-12-29
+91,SCK,RPI,Rensselaer Polytechnic,2pmi,To Basket,Chuck Clemons,PNR,High,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,92,1.0,2024-12-29
+92,SCK,RPI,SUNY Canton Kangaroos,Turnover,N/A,Eli Larson,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,93,1.0,2024-12-29
+93,SCK,RPI,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,94,1.0,2024-12-29
+94,SCK,RPI,SUNY Canton Kangaroos,Turnover,N/A,Bryon Streb,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,95,1.0,2024-12-29
+95,SCK,RPI,Rensselaer Polytechnic,2pMa,Drop Step,PJ Scalisi,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,96,1.0,2024-12-29
+96,SCK,RPI,SUNY Canton Kangaroos,3pmi,No Dribble Jumper,Jevonte Williams,Post,Right,Left Shoulder,Kevin Goode Jr,Spot Ups,N/A,Shot,SUNYAC,Liberty League,97,4.0,2024-12-29
+97,SCK,RPI,Rensselaer Polytechnic,Foul,To Basket,Andrew Deppe,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,98,1.0,2024-12-29
+101,SCK,RPI,SUNY Canton Kangaroos,2pmi,Dribble Jumper,Jevonte Williams,PNR,High,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,102,2.0,2024-12-29
+102,SCK,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Chuck Clemons,PNR,Right,Away,Andrew Deppe,P&R Roll Man,N/A,Pop,SUNYAC,Liberty League,103,4.0,2024-12-29
+104,SCK,RPI,SUNY Canton Kangaroos,Turnover,N/A,Eli Larson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,105,1.0,2024-12-29
+105,SCK,RPI,Rensselaer Polytechnic,Foul,Drop Step,Dylan Matchett,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,106,1.0,2024-12-29
+108,SCK,RPI,SUNY Canton Kangaroos,2pmi,To Basket,Kevin Goode Jr,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,109,1.0,2024-12-29
+109,SCK,RPI,Rensselaer Polytechnic,Turnover,To Basket,Chuck Clemons,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,110,1.0,2024-12-29
+110,SCK,RPI,SUNY Canton Kangaroos,3pmi,No Dribble Jumper,Malaki Smith,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,111,4.0,2024-12-29
+112,SCK,RPI,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,113,1.0,2024-12-29
+113,SCK,RPI,SUNY Canton Kangaroos,3pmi,No Dribble Jumper,Kevin Goode Jr,PNR,Left,Off,Malaki Smith,Spot Ups,N/A,Shot,SUNYAC,Liberty League,114,4.0,2024-12-29
+114,SCK,RPI,SUNY Canton Kangaroos,2pmi,To Basket,Bryon Streb,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,115,1.0,2024-12-29
+115,SCK,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,PJ Scalisi,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,116,4.0,2024-12-29
+116,SCK,RPI,SUNY Canton Kangaroos,And1,To Basket,Kevin Goode Jr,PNR,Left,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,117,1.0,2024-12-29
+118,SCK,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Post,Left,Face Up,Yechiel Stewart,Spot Ups,N/A,Shot,SUNYAC,Liberty League,119,4.0,2024-12-29
+119,SCK,RPI,SUNY Canton Kangaroos,Foul,To Basket,Kevin Goode Jr,PNR,Left,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,120,1.0,2024-12-29
+122,SCK,RPI,Rensselaer Polytechnic,Turnover,N/A,Dylan Matchett,PNR,High,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,123,1.0,2024-12-29
+123,SCK,RPI,SUNY Canton Kangaroos,2pMa,To Basket,Kevin Goode Jr,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,124,1.0,2024-12-29
+124,SCK,RPI,Rensselaer Polytechnic,2pmi,No Dribble Jumper,Andrew Deppe,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,125,3.0,2024-12-29
+125,SCK,RPI,SUNY Canton Kangaroos,Foul,To Basket,Bryon Streb,PNR,High,Away,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,126,1.0,2024-12-29
+129,SCK,RPI,Rensselaer Polytechnic,Foul,To Basket,Avery Eugster,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,130,1.0,2024-12-29
+132,SCK,RPI,SUNY Canton Kangaroos,3pmi,Dribble Jumper,Kevin Goode Jr,PNR,Left,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,133,4.0,2024-12-29
+133,SCK,RPI,Rensselaer Polytechnic,Turnover,N/A,Avery Eugster,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,134,1.0,2024-12-29
+135,SCK,RPI,SUNY Canton Kangaroos,3pmi,Dribble Jumper,Kevin Goode Jr,PNR,Right,Off,Malaki Smith,Spot Ups,Left,Drive,SUNYAC,Liberty League,136,4.0,2024-12-29
+136,SCK,RPI,Rensselaer Polytechnic,2pMa,Dribble Jumper,Yechiel Stewart,PNR,High,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,137,2.0,2024-12-29
+137,SCK,RPI,SUNY Canton Kangaroos,Foul,N/A,Kevin Goode Jr,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,138,1.0,2024-12-29
+140,SCK,RPI,Rensselaer Polytechnic,2pmi,Dribble Jumper,Chuck Clemons,PNR,Right,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,141,2.0,2024-12-29
+141,SCK,RPI,SUNY Canton Kangaroos,3pmi,No Dribble Jumper,Jevonte Williams,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,142,4.0,2024-12-29
+142,SCK,RPI,Rensselaer Polytechnic,Turnover,N/A,Avery Eugster,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,143,1.0,2024-12-29
+143,SCK,RPI,SUNY Canton Kangaroos,3pmi,Dribble Jumper,Nate Cohen,PNR,Left,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,144,4.0,2024-12-29
+144,SCK,RPI,Rensselaer Polytechnic,3pmi,Dribble Jumper,Chuck Clemons,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,145,4.0,2024-12-29
+146,SCK,RPI,Rensselaer Polytechnic,2pmi,Dribble Jumper,Chuck Clemons,Iso,Right,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,147,2.0,2024-12-29
+147,SCK,RPI,SUNY Canton Kangaroos,Turnover,N/A,Eli Larson,Post,Middle,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,148,1.0,2024-12-29
+148,SCK,RPI,Rensselaer Polytechnic,Turnover,N/A,Chuck Clemons,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,149,1.0,2024-12-29
+149,SCK,RPI,SUNY Canton Kangaroos,Foul,N/A,Eli Larson,Post,Right,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,150,1.0,2024-12-29
+153,SCK,RPI,Rensselaer Polytechnic,2pmi,To Basket,Pat White,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,154,1.0,2024-12-29
+155,SCK,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,156,4.0,2024-12-29
+157,SCK,RPI,Rensselaer Polytechnic,Turnover,N/A,Chuck Clemons,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,158,1.0,2024-12-29
+158,SCK,RPI,SUNY Canton Kangaroos,Turnover,N/A,Kevin Goode Jr,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,159,1.0,2024-12-29
+159,SCK,RPI,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,PNR,Right,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,160,1.0,2024-12-29
+161,SCK,RPI,Rensselaer Polytechnic,2pmi,Dribble Jumper,Pat White,PNR,Right,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,162,3.0,2024-12-29
+162,SCK,RPI,SUNY Canton Kangaroos,2pmi,To Basket,Kevin Goode Jr,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,163,1.0,2024-12-29
+163,SCK,RPI,SUNY Canton Kangaroos,3pmi,Dribble Jumper,Kevin Goode Jr,PNR,Right,Away,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,164,4.0,2024-12-29
+164,SCK,RPI,,Foul,N/A,Yechiel Stewart,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,165,1.0,2024-12-29
+167,SCK,RPI,SUNY Canton Kangaroos,2pmi,To Basket,Kevin Goode Jr,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,168,1.0,2024-12-29
+168,SCK,RPI,Rensselaer Polytechnic,2pmi,Dribble Jumper,Dylan Matchett,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,169,3.0,2024-12-29
+170,SCK,RPI,SUNY Canton Kangaroos,2pMa,Hook Shot,Bryon Streb,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,171,1.0,2024-12-29
+171,SCK,RPI,Rensselaer Polytechnic,Foul,N/A,Andrew Deppe,Post,Right,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,172,1.0,2024-12-29
+173,SCK,RPI,SUNY Canton Kangaroos,2pmi,To Basket,Bryon Streb,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,174,1.0,2024-12-29
+176,SCK,RPI,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,Post,Left,Left Shoulder,Avery Eugster,Cuts,N/A,Basket,SUNYAC,Liberty League,177,1.0,2024-12-29
+177,SCK,RPI,SUNY Canton Kangaroos,Turnover,N/A,Malaki Smith,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,178,1.0,2024-12-29
+178,SCK,RPI,Rensselaer Polytechnic,2pMa,To Basket,Dylan Matchett,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,179,1.0,2024-12-29
+179,SCK,RPI,SUNY Canton Kangaroos,3pMa,Dribble Jumper,Malaki Smith,PNR,Left,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,180,4.0,2024-12-29
+180,SCK,RPI,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,181,1.0,2024-12-29
+181,SCK,RPI,SUNY Canton Kangaroos,Turnover,N/A,Eli Larson,Iso,Right,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,182,1.0,2024-12-29
+182,SCK,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,183,4.0,2024-12-29
+184,SCK,RPI,SUNY Canton Kangaroos,Turnover,N/A,Nate Cohen,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,185,1.0,2024-12-29
+185,SCK,RPI,,Foul,N/A,PJ Scalisi,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,186,1.0,2024-12-29
+188,SCK,RPI,SUNY Canton Kangaroos,3pMa,Dribble Jumper,Nate Cohen,PNR,Right,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,189,4.0,2024-12-29
+190,SCK,RPI,Rensselaer Polytechnic,Foul,N/A,Andrew Deppe,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,191,1.0,2024-12-29
+193,SCK,RPI,SUNY Canton Kangaroos,2pmi,To Basket,Nate Cohen,Iso,Right,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,194,1.0,2024-12-29
+194,SCK,RPI,Rensselaer Polytechnic,Foul,To Basket,Chuck Clemons,PNR,High,Away,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,195,1.0,2024-12-29
+197,SCK,RPI,SUNY Canton Kangaroos,2pmi,To Basket,Kevin Goode Jr,PNR,High,Off,Hansen Bagdonas,P&R Roll Man,N/A,Roll,SUNYAC,Liberty League,198,1.0,2024-12-29
+198,SCK,RPI,,Foul,N/A,Dylan Matchett,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,199,1.0,2024-12-29
+201,SCK,RPI,SUNY Canton Kangaroos,3pmi,No Dribble Jumper,Nate Cohen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,202,4.0,2024-12-29
+202,SCK,RPI,,Foul,N/A,Dylan Matchett,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,203,1.0,2024-12-29
+205,SCK,RPI,SUNY Canton Kangaroos,2pmi,To Basket,Kevin Goode Jr,Iso,Right,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,206,1.0,2024-12-29
+206,SCK,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,207,4.0,2024-12-29
+207,SCK,RPI,SUNY Canton Kangaroos,3pmi,Dribble Jumper,Kevin Goode Jr,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,208,4.0,2024-12-29
+208,SCK,RPI,,Foul,N/A,Avery Eugster,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,209,1.0,2024-12-29
+212,SCK,RPI,SUNY Canton Kangaroos,And1,To Basket,Malaki Smith,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,213,1.0,2024-12-29

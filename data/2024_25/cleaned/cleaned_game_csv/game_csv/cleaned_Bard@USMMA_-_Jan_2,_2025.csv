@@ -1,0 +1,170 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,UMM,Bar,US Merchant Marine Academy,3pmi,No Dribble Jumper,Clark Castleberry,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,1,4.0,2025-01-02
+1,UMM,Bar,Bard College,Turnover,N/A,Rowan Heinze,Post,Left,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,2,1.0,2025-01-02
+2,UMM,Bar,US Merchant Marine Academy,Turnover,N/A,Clark Castleberry,Post,Right,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,3,1.0,2025-01-02
+3,UMM,Bar,Bard College,Turnover,N/A,Sean Wilcox,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,4,1.0,2025-01-02
+4,UMM,Bar,US Merchant Marine Academy,3pMa,Dribble Jumper,Mason Lavergne,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,5,4.0,2025-01-02
+5,UMM,Bar,Bard College,3pMa,No Dribble Jumper,Laz Panagiotounis,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,6,4.0,2025-01-02
+6,UMM,Bar,US Merchant Marine Academy,3pmi,No Dribble Jumper,Isaac Vencel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,7,4.0,2025-01-02
+7,UMM,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,8,1.0,2025-01-02
+8,UMM,Bar,US Merchant Marine Academy,Turnover,N/A,Max Koeppl,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,9,1.0,2025-01-02
+9,UMM,Bar,Bard College,2pmi,To Basket,Sean Wilcox,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,10,1.0,2025-01-02
+11,UMM,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,12,4.0,2025-01-02
+13,UMM,Bar,US Merchant Marine Academy,2pmi,To Basket,Mason Lavergne,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,14,1.0,2025-01-02
+14,UMM,Bar,Bard College,2pmi,Dribble Jumper,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,15,2.0,2025-01-02
+15,UMM,Bar,US Merchant Marine Academy,Turnover,N/A,Clark Castleberry,Post,Left,Left Shoulder,Isaac Vencel,Spot Ups,N/A,N/A,UNKNOWN,Liberty League,16,1.0,2025-01-02
+16,UMM,Bar,Bard College,2pmi,To Basket,Sean Wilcox,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,17,1.0,2025-01-02
+17,UMM,Bar,US Merchant Marine Academy,3pmi,No Dribble Jumper,Drew Zalescik,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,18,4.0,2025-01-02
+18,UMM,Bar,Bard College,2pMa,To Basket,Sean Wilcox,PNR,High,Off,Rowan Heinze,Cuts,N/A,Basket,UNKNOWN,Liberty League,19,1.0,2025-01-02
+19,UMM,Bar,US Merchant Marine Academy,3pmi,Dribble Jumper,Isaac Vencel,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,20,4.0,2025-01-02
+20,UMM,Bar,US Merchant Marine Academy,2pmi,To Basket,Drew Zalescik,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,21,1.0,2025-01-02
+22,UMM,Bar,US Merchant Marine Academy,2pmi,To Basket,Mason Lavergne,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,23,1.0,2025-01-02
+24,UMM,Bar,US Merchant Marine Academy,3pmi,Dribble Jumper,Isaac Vencel,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,25,4.0,2025-01-02
+25,UMM,Bar,Bard College,2pmi,Dribble Jumper,Laz Panagiotounis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,26,2.0,2025-01-02
+26,UMM,Bar,US Merchant Marine Academy,Turnover,N/A,Mason Lavergne,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,27,1.0,2025-01-02
+27,UMM,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,28,1.0,2025-01-02
+28,UMM,Bar,US Merchant Marine Academy,2pMa,To Basket,Drew Zalescik,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,29,1.0,2025-01-02
+29,UMM,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,30,1.0,2025-01-02
+30,UMM,Bar,US Merchant Marine Academy,3pMa,Dribble Jumper,Mason Lavergne,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,31,4.0,2025-01-02
+31,UMM,Bar,Bard College,2pMa,To Basket,Max Frei,PNR,Right,Off,Sean Wilcox,Cuts,N/A,Basket,UNKNOWN,Liberty League,32,1.0,2025-01-02
+32,UMM,Bar,US Merchant Marine Academy,2pmi,To Basket,Drew Zalescik,PNR,Left,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,33,1.0,2025-01-02
+33,UMM,Bar,Bard College,Turnover,N/A,Max Frei,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,34,1.0,2025-01-02
+34,UMM,Bar,US Merchant Marine Academy,2pMa,Dribble Jumper,Isaac Vencel,PNR,Right,Off,Drew Zalescik,Spot Ups,Right,Drive,UNKNOWN,Liberty League,35,3.0,2025-01-02
+37,UMM,Bar,Bard College,Turnover,N/A,Sean Wilcox,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,38,1.0,2025-01-02
+38,UMM,Bar,US Merchant Marine Academy,2pMa,To Basket,Drew Zalescik,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,39,1.0,2025-01-02
+39,UMM,Bar,Bard College,2pmi,To Basket,Sean Wilcox,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,40,1.0,2025-01-02
+40,UMM,Bar,US Merchant Marine Academy,3pmi,No Dribble Jumper,Clark Castleberry,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,41,4.0,2025-01-02
+41,UMM,Bar,US Merchant Marine Academy,Turnover,N/A,Talsen Smith,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,42,1.0,2025-01-02
+42,UMM,Bar,Bard College,Turnover,N/A,Ahmad Rauf,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,43,1.0,2025-01-02
+43,UMM,Bar,US Merchant Marine Academy,Foul,To Basket,Drew Zalescik,PNR,Right,Off,Mason Lavergne,Spot Ups,Left,Drive,UNKNOWN,Liberty League,44,1.0,2025-01-02
+46,UMM,Bar,Bard College,Turnover,N/A,Lucas Tovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,47,1.0,2025-01-02
+47,UMM,Bar,US Merchant Marine Academy,2pmi,No Dribble Jumper,Clark Castleberry,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,48,3.0,2025-01-02
+48,UMM,Bar,Bard College,2pMa,To Basket,Lucas Tovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,49,1.0,2025-01-02
+49,UMM,Bar,US Merchant Marine Academy,3pmi,No Dribble Jumper,Colin Hart,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,50,4.0,2025-01-02
+50,UMM,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,51,4.0,2025-01-02
+51,UMM,Bar,US Merchant Marine Academy,And1,To Basket,Drew Zalescik,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,52,1.0,2025-01-02
+54,UMM,Bar,US Merchant Marine Academy,3pmi,No Dribble Jumper,Drew Zalescik,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,55,4.0,2025-01-02
+55,UMM,Bar,Bard College,2pMa,To Basket,Jalen Umstead,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,56,1.0,2025-01-02
+56,UMM,Bar,US Merchant Marine Academy,3pmi,No Dribble Jumper,Isaac Vencel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,57,4.0,2025-01-02
+57,UMM,Bar,US Merchant Marine Academy,Foul,To Basket,Isaac Vencel,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,58,1.0,2025-01-02
+60,UMM,Bar,Bard College,Turnover,N/A,Seth Dyer,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,61,1.0,2025-01-02
+61,UMM,Bar,US Merchant Marine Academy,2pmi,To Basket,Isaac Vencel,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,62,1.0,2025-01-02
+62,UMM,Bar,Bard College,2pmi,To Basket,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,63,1.0,2025-01-02
+63,UMM,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,64,1.0,2025-01-02
+65,UMM,Bar,Bard College,3pMa,Dribble Jumper,Max Frei,PNR,Right,Off,Laz Panagiotounis,Spot Ups,Right,Drive,UNKNOWN,Liberty League,66,4.0,2025-01-02
+66,UMM,Bar,US Merchant Marine Academy,2pMa,Dribble Jumper,Max Koeppl,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,67,2.0,2025-01-02
+68,UMM,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,69,4.0,2025-01-02
+70,UMM,Bar,US Merchant Marine Academy,2pMa,To Basket,Clark Castleberry,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,71,1.0,2025-01-02
+71,UMM,Bar,Bard College,3pMa,No Dribble Jumper,Laz Panagiotounis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,72,4.0,2025-01-02
+72,UMM,Bar,US Merchant Marine Academy,3pmi,No Dribble Jumper,Talsen Smith,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,73,4.0,2025-01-02
+73,UMM,Bar,Bard College,Foul,To Basket,Seth Dyer,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,74,1.0,2025-01-02
+76,UMM,Bar,US Merchant Marine Academy,Turnover,N/A,Mason Lavergne,PNR,High,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,77,1.0,2025-01-02
+77,UMM,Bar,Bard College,3pMa,No Dribble Jumper,Laz Panagiotounis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,78,4.0,2025-01-02
+78,UMM,Bar,US Merchant Marine Academy,3pMa,No Dribble Jumper,Clark Castleberry,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,79,4.0,2025-01-02
+79,UMM,Bar,Bard College,3pMa,No Dribble Jumper,Laz Panagiotounis,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,80,4.0,2025-01-02
+81,UMM,Bar,US Merchant Marine Academy,2pmi,To Basket,Isaac Vencel,PNR,High,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,82,1.0,2025-01-02
+82,UMM,Bar,Bard College,Foul,Dribble Jumper,Laz Panagiotounis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,83,2.0,2025-01-02
+85,UMM,Bar,US Merchant Marine Academy,2pmi,To Basket,Drew Zalescik,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,86,1.0,2025-01-02
+86,UMM,Bar,Bard College,2pmi,To Basket,Lucas Tovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,87,1.0,2025-01-02
+87,UMM,Bar,US Merchant Marine Academy,3pmi,No Dribble Jumper,Clark Castleberry,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,88,4.0,2025-01-02
+88,UMM,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,89,1.0,2025-01-02
+90,UMM,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,91,4.0,2025-01-02
+91,UMM,Bar,US Merchant Marine Academy,2pmi,N/A,Clark Castleberry,Post,Left,Face Up,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,92,1.0,2025-01-02
+92,UMM,Bar,Bard College,Foul,To Basket,Lucas Tovar,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,93,1.0,2025-01-02
+95,UMM,Bar,US Merchant Marine Academy,3pMa,No Dribble Jumper,Drew Zalescik,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,96,4.0,2025-01-02
+96,UMM,Bar,Bard College,Turnover,N/A,Ahmad Rauf,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,97,1.0,2025-01-02
+97,UMM,Bar,US Merchant Marine Academy,Foul,To Basket,Mason Lavergne,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,98,1.0,2025-01-02
+101,UMM,Bar,Bard College,2pmi,To Basket,Laz Panagiotounis,PNR,Left,Off,Jalen Umstead,P&R Roll Man,N/A,Roll,UNKNOWN,Liberty League,102,1.0,2025-01-02
+102,UMM,Bar,US Merchant Marine Academy,3pmi,No Dribble Jumper,Drew Zalescik,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,103,4.0,2025-01-02
+104,UMM,Bar,US Merchant Marine Academy,3pmi,No Dribble Jumper,Drew Zalescik,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,105,4.0,2025-01-02
+105,UMM,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,106,4.0,2025-01-02
+106,UMM,Bar,US Merchant Marine Academy,3pmi,No Dribble Jumper,Max Koeppl,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,107,4.0,2025-01-02
+107,UMM,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,108,4.0,2025-01-02
+109,UMM,Bar,US Merchant Marine Academy,2pMa,Hook Shot,Clark Castleberry,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,110,1.0,2025-01-02
+110,UMM,Bar,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Post,Left,Left Shoulder,Laz Panagiotounis,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,111,4.0,2025-01-02
+111,UMM,Bar,US Merchant Marine Academy,2pmi,N/A,Clark Castleberry,Post,Left,Face Up,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,112,1.0,2025-01-02
+112,UMM,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Iso,Right,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,113,1.0,2025-01-02
+113,UMM,Bar,US Merchant Marine Academy,2pmi,To Basket,Drew Zalescik,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,114,1.0,2025-01-02
+114,UMM,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,115,1.0,2025-01-02
+115,UMM,Bar,US Merchant Marine Academy,2pMa,To Basket,Drew Zalescik,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,116,1.0,2025-01-02
+116,UMM,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Iso,Left,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,117,1.0,2025-01-02
+117,UMM,Bar,US Merchant Marine Academy,3pmi,Dribble Jumper,Mason Lavergne,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,118,4.0,2025-01-02
+118,UMM,Bar,Bard College,2pmi,To Basket,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,119,1.0,2025-01-02
+120,UMM,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,121,1.0,2025-01-02
+121,UMM,Bar,US Merchant Marine Academy,2pMa,To Basket,Max Koeppl,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,122,1.0,2025-01-02
+122,UMM,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,123,4.0,2025-01-02
+123,UMM,Bar,US Merchant Marine Academy,3pmi,No Dribble Jumper,Drew Zalescik,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,124,4.0,2025-01-02
+124,UMM,Bar,Bard College,2pmi,No Dribble Jumper,Ahmad Rauf,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,125,3.0,2025-01-02
+125,UMM,Bar,Bard College,2pmi,To Basket,Laz Panagiotounis,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,126,1.0,2025-01-02
+126,UMM,Bar,US Merchant Marine Academy,2pmi,To Basket,Isaac Vencel,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,127,1.0,2025-01-02
+127,UMM,Bar,US Merchant Marine Academy,2pMa,To Basket,Drew Zalescik,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,128,1.0,2025-01-02
+128,UMM,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,129,1.0,2025-01-02
+129,UMM,Bar,US Merchant Marine Academy,3pmi,No Dribble Jumper,Mason Lavergne,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,130,4.0,2025-01-02
+130,UMM,Bar,US Merchant Marine Academy,Turnover,N/A,Isaac Vencel,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,131,1.0,2025-01-02
+131,UMM,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,132,4.0,2025-01-02
+133,UMM,Bar,Bard College,3pmi,No Dribble Jumper,Rowan Heinze,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,134,4.0,2025-01-02
+135,UMM,Bar,US Merchant Marine Academy,2pMa,No Dribble Jumper,Drew Zalescik,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,136,3.0,2025-01-02
+136,UMM,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,137,4.0,2025-01-02
+137,UMM,Bar,US Merchant Marine Academy,Turnover,N/A,Isaac Vencel,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,138,1.0,2025-01-02
+138,UMM,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,139,1.0,2025-01-02
+139,UMM,Bar,US Merchant Marine Academy,Turnover,To Basket,Drew Zalescik,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,140,1.0,2025-01-02
+140,UMM,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,141,1.0,2025-01-02
+141,UMM,Bar,US Merchant Marine Academy,Foul,To Basket,Drew Zalescik,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,142,1.0,2025-01-02
+143,UMM,Bar,US Merchant Marine Academy,Turnover,N/A,Mason Lavergne,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,144,1.0,2025-01-02
+144,UMM,Bar,Bard College,3pMa,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,145,4.0,2025-01-02
+145,UMM,Bar,US Merchant Marine Academy,2pmi,To Basket,Clark Castleberry,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,146,1.0,2025-01-02
+146,UMM,Bar,Bard College,3pMa,No Dribble Jumper,Sean Wilcox,Post,Right,Right Shoulder,Azriel Almodovar,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,147,4.0,2025-01-02
+147,UMM,Bar,US Merchant Marine Academy,3pmi,No Dribble Jumper,Max Koeppl,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,148,4.0,2025-01-02
+148,UMM,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,149,1.0,2025-01-02
+149,UMM,Bar,US Merchant Marine Academy,3pmi,Dribble Jumper,Mason Lavergne,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,150,4.0,2025-01-02
+150,UMM,Bar,Bard College,And1,To Basket,Rowan Heinze,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,151,1.0,2025-01-02
+153,UMM,Bar,US Merchant Marine Academy,2pmi,To Basket,Isaac Vencel,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,154,1.0,2025-01-02
+154,UMM,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,155,4.0,2025-01-02
+155,UMM,Bar,US Merchant Marine Academy,2pmi,To Basket,Mason Lavergne,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,156,1.0,2025-01-02
+157,UMM,Bar,Bard College,2pmi,To Basket,Laz Panagiotounis,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,158,1.0,2025-01-02
+158,UMM,Bar,US Merchant Marine Academy,2pMa,To Basket,Isaac Vencel,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,159,1.0,2025-01-02
+160,UMM,Bar,Bard College,Foul,To Basket,Laz Panagiotounis,PNR,Left,Off,Sean Wilcox,P&R Roll Man,N/A,Roll,UNKNOWN,Liberty League,161,1.0,2025-01-02
+163,UMM,Bar,US Merchant Marine Academy,3pmi,No Dribble Jumper,Max Koeppl,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,164,4.0,2025-01-02
+164,UMM,Bar,US Merchant Marine Academy,2pMa,To Basket,Drew Zalescik,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,165,1.0,2025-01-02
+165,UMM,Bar,Bard College,Turnover,N/A,Sean Wilcox,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,166,1.0,2025-01-02
+167,UMM,Bar,US Merchant Marine Academy,3pmi,Dribble Jumper,Isaac Vencel,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,168,4.0,2025-01-02
+168,UMM,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,169,1.0,2025-01-02
+170,UMM,Bar,US Merchant Marine Academy,2pmi,To Basket,Drew Zalescik,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,171,1.0,2025-01-02
+171,UMM,Bar,Bard College,Turnover,N/A,Rowan Heinze,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,172,1.0,2025-01-02
+172,UMM,Bar,US Merchant Marine Academy,3pmi,Dribble Jumper,Isaac Vencel,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,173,4.0,2025-01-02
+174,UMM,Bar,Bard College,3pMa,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,175,4.0,2025-01-02
+175,UMM,Bar,US Merchant Marine Academy,Turnover,N/A,Mason Lavergne,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,176,1.0,2025-01-02
+176,UMM,Bar,Bard College,2pmi,To Basket,Lucas Tovar,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,177,1.0,2025-01-02
+177,UMM,Bar,US Merchant Marine Academy,Foul,N/A,Clark Castleberry,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,178,1.0,2025-01-02
+181,UMM,Bar,Bard College,Foul,To Basket,Lucas Tovar,PNR,High,Off,Jalen Umstead,P&R Roll Man,N/A,Roll,UNKNOWN,Liberty League,182,1.0,2025-01-02
+184,UMM,Bar,US Merchant Marine Academy,3pMa,No Dribble Jumper,Colin Hart,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,185,4.0,2025-01-02
+185,UMM,Bar,Bard College,Turnover,N/A,Seth Dyer,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,186,1.0,2025-01-02
+186,UMM,Bar,US Merchant Marine Academy,Foul,N/A,Drew Zalescik,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,187,1.0,2025-01-02
+188,UMM,Bar,Bard College,2pmi,Dribble Jumper,Laz Panagiotounis,PNR,High,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,189,2.0,2025-01-02
+189,UMM,Bar,US Merchant Marine Academy,3pmi,No Dribble Jumper,Colin Hart,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,190,4.0,2025-01-02
+190,UMM,Bar,Bard College,3pmi,No Dribble Jumper,Lucas Tovar,PNR,High,Away,Laz Panagiotounis,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,191,4.0,2025-01-02
+191,UMM,Bar,US Merchant Marine Academy,2pMa,To Basket,Drew Zalescik,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,192,1.0,2025-01-02
+192,UMM,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,193,1.0,2025-01-02
+193,UMM,Bar,US Merchant Marine Academy,2pMa,To Basket,Drew Zalescik,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,194,1.0,2025-01-02
+194,UMM,Bar,Bard College,2pmi,To Basket,Lucas Tovar,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,195,1.0,2025-01-02
+195,UMM,Bar,Bard College,2pmi,To Basket,Max Frei,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,196,1.0,2025-01-02
+196,UMM,Bar,US Merchant Marine Academy,2pmi,To Basket,Drew Zalescik,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,197,1.0,2025-01-02
+197,UMM,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,198,4.0,2025-01-02
+198,UMM,Bar,Bard College,And1,To Basket,Rowan Heinze,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,199,2.0,2025-01-02
+201,UMM,Bar,US Merchant Marine Academy,3pmi,No Dribble Jumper,Isaac Vencel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,202,4.0,2025-01-02
+202,UMM,Bar,US Merchant Marine Academy,Foul,N/A,Isaac Vencel,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,203,1.0,2025-01-02
+205,UMM,Bar,Bard College,And1,To Basket,Azriel Almodovar,PNR,High,Away,Sean Wilcox,Cuts,N/A,Basket,UNKNOWN,Liberty League,206,1.0,2025-01-02
+207,UMM,Bar,US Merchant Marine Academy,Foul,To Basket,Mason Lavergne,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,208,1.0,2025-01-02
+210,UMM,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,211,1.0,2025-01-02
+211,UMM,Bar,US Merchant Marine Academy,Foul,N/A,Mason Lavergne,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,212,1.0,2025-01-02
+214,UMM,Bar,Bard College,Foul,N/A,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,215,1.0,2025-01-02
+217,UMM,Bar,US Merchant Marine Academy,3pmi,Dribble Jumper,Isaac Vencel,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,218,4.0,2025-01-02
+218,UMM,Bar,Bard College,Turnover,N/A,Ahmad Rauf,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,219,1.0,2025-01-02
+219,UMM,Bar,US Merchant Marine Academy,2pMa,To Basket,Isaac Vencel,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,220,1.0,2025-01-02
+220,UMM,Bar,Bard College,,N/A,Azriel Almodovar,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,221,1.0,2025-01-02
+221,UMM,Bar,Bard College,Foul,N/A,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,222,1.0,2025-01-02
+224,UMM,Bar,US Merchant Marine Academy,3pmi,No Dribble Jumper,Max Koeppl,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,225,4.0,2025-01-02
+226,UMM,Bar,Bard College,2pmi,To Basket,Ahmad Rauf,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,227,1.0,2025-01-02
+227,UMM,Bar,US Merchant Marine Academy,And1,To Basket,Isaac Vencel,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,228,1.0,2025-01-02
+229,UMM,Bar,Bard College,Turnover,N/A,Seth Dyer,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,230,1.0,2025-01-02
+230,UMM,Bar,US Merchant Marine Academy,And1,To Basket,Drew Zalescik,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,231,1.0,2025-01-02

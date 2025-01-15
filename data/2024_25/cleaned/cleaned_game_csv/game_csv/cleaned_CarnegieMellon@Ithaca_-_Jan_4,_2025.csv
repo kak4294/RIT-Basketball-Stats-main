@@ -1,0 +1,181 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,IC,CMT,Ithaca College,2pmi,To Basket,Chris Leysath,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,1,1.0,2025-01-04
+1,IC,CMT,Carnegie Mellon Tartans,3pmi,No Dribble Jumper,Buckley DeJardin,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,2,4.0,2025-01-04
+2,IC,CMT,Ithaca College,2pmi,To Basket,Evan Cabral,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,3,1.0,2025-01-04
+3,IC,CMT,Carnegie Mellon Tartans,3pMa,No Dribble Jumper,Isaac Higgs,Post,Right,Left Shoulder,Buckley DeJardin,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,4,4.0,2025-01-04
+4,IC,CMT,Ithaca College,3pMa,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,5,4.0,2025-01-04
+5,IC,CMT,Carnegie Mellon Tartans,3pmi,No Dribble Jumper,Justin Allen,PNR,Left,Off,RJ Holmes,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,6,4.0,2025-01-04
+7,IC,CMT,Carnegie Mellon Tartans,2pMa,To Basket,Justin Allen,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,8,1.0,2025-01-04
+9,IC,CMT,Ithaca College,Turnover,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,10,1.0,2025-01-04
+10,IC,CMT,Carnegie Mellon Tartans,2pMa,To Basket,Isaac Higgs,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,11,1.0,2025-01-04
+11,IC,CMT,Ithaca College,Turnover,N/A,Jaylon O'Neal,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,12,1.0,2025-01-04
+12,IC,CMT,Carnegie Mellon Tartans,Turnover,N/A,Buckley DeJardin,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,13,1.0,2025-01-04
+13,IC,CMT,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,14,4.0,2025-01-04
+14,IC,CMT,Ithaca College,Turnover,N/A,Chris Leysath,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,15,1.0,2025-01-04
+15,IC,CMT,Carnegie Mellon Tartans,3pMa,No Dribble Jumper,RJ Holmes,Post,Right,Dribble,Buckley DeJardin,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,16,4.0,2025-01-04
+16,IC,CMT,Ithaca College,2pMa,To Basket,Evan Cabral,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,17,1.0,2025-01-04
+18,IC,CMT,Carnegie Mellon Tartans,2pmi,Dribble Jumper,Buckley DeJardin,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,19,2.0,2025-01-04
+19,IC,CMT,Ithaca College,3pMa,No Dribble Jumper,Evan Cabral,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,20,4.0,2025-01-04
+20,IC,CMT,Carnegie Mellon Tartans,2pMa,To Basket,Justin Allen,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,21,1.0,2025-01-04
+21,IC,CMT,Ithaca College,Turnover,N/A,Chris Leysath,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,22,1.0,2025-01-04
+22,IC,CMT,Carnegie Mellon Tartans,2pmi,Dribble Jumper,Isaac Higgs,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,23,2.0,2025-01-04
+24,IC,CMT,Carnegie Mellon Tartans,3pMa,No Dribble Jumper,Isaac Higgs,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,25,4.0,2025-01-04
+26,IC,CMT,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,27,4.0,2025-01-04
+27,IC,CMT,Carnegie Mellon Tartans,3pMa,No Dribble Jumper,Buckley DeJardin,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,28,4.0,2025-01-04
+28,IC,CMT,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,29,4.0,2025-01-04
+29,IC,CMT,Carnegie Mellon Tartans,2pMa,To Basket,Justin Allen,Post,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,30,1.0,2025-01-04
+31,IC,CMT,Ithaca College,3pmi,No Dribble Jumper,Michael Porter,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,32,4.0,2025-01-04
+32,IC,CMT,Ithaca College,Turnover,N/A,Thomas Mckiernan,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,33,1.0,2025-01-04
+33,IC,CMT,Carnegie Mellon Tartans,2pMa,To Basket,Justin Allen,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,34,1.0,2025-01-04
+34,IC,CMT,Ithaca College,Turnover,N/A,Michael Porter,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,35,1.0,2025-01-04
+35,IC,CMT,Carnegie Mellon Tartans,Turnover,N/A,Buckley DeJardin,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,36,1.0,2025-01-04
+36,IC,CMT,Ithaca College,3pmi,No Dribble Jumper,Alex Penders,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,37,4.0,2025-01-04
+39,IC,CMT,Ithaca College,3pmi,No Dribble Jumper,Jose Padilla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,40,4.0,2025-01-04
+40,IC,CMT,Carnegie Mellon Tartans,2pMa,To Basket,RJ Holmes,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,41,1.0,2025-01-04
+41,IC,CMT,Ithaca College,Turnover,N/A,Alex Penders,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,42,1.0,2025-01-04
+42,IC,CMT,Carnegie Mellon Tartans,Turnover,N/A,Aidan Murphy,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,43,1.0,2025-01-04
+43,IC,CMT,Ithaca College,Turnover,N/A,Thomas Mckiernan,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,44,1.0,2025-01-04
+44,IC,CMT,Carnegie Mellon Tartans,3pMa,No Dribble Jumper,Justin Allen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,45,4.0,2025-01-04
+45,IC,CMT,Ithaca College,Turnover,To Basket,Jose Padilla,Iso,Right,N/A,Michael Porter,Cuts,N/A,Basket,Liberty League,UNKNOWN,46,1.0,2025-01-04
+46,IC,CMT,Carnegie Mellon Tartans,2pMa,To Basket,Justin Allen,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,47,1.0,2025-01-04
+48,IC,CMT,Ithaca College,Turnover,N/A,Laurence Brady,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,49,1.0,2025-01-04
+49,IC,CMT,Carnegie Mellon Tartans,Turnover,N/A,Isaac Higgs,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,50,1.0,2025-01-04
+50,IC,CMT,Ithaca College,2pMa,To Basket,Jaylon O'Neal,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,51,1.0,2025-01-04
+52,IC,CMT,Carnegie Mellon Tartans,Turnover,N/A,Nolan Casey,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,53,1.0,2025-01-04
+53,IC,CMT,Ithaca College,2pMa,To Basket,Jaylon O'Neal,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,54,1.0,2025-01-04
+54,IC,CMT,Carnegie Mellon Tartans,3pmi,No Dribble Jumper,Nolan Casey,Post,Left,N/A,Aidan Murphy,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,55,4.0,2025-01-04
+55,IC,CMT,Ithaca College,Turnover,N/A,Laurence Brady,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,56,1.0,2025-01-04
+56,IC,CMT,Carnegie Mellon Tartans,Turnover,N/A,Isaac Higgs,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,57,1.0,2025-01-04
+57,IC,CMT,Ithaca College,2pMa,To Basket,Jaylon O'Neal,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,58,1.0,2025-01-04
+59,IC,CMT,Carnegie Mellon Tartans,Turnover,N/A,RJ Holmes,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,60,1.0,2025-01-04
+60,IC,CMT,Ithaca College,Turnover,N/A,Laurence Brady,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,61,1.0,2025-01-04
+61,IC,CMT,Carnegie Mellon Tartans,Turnover,N/A,Alex Hassanein,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,62,1.0,2025-01-04
+62,IC,CMT,Ithaca College,2pMa,To Basket,Logan Wendell,PNR,Left,Off,Evan Cabral,Spot Ups,Right,Drive,Liberty League,UNKNOWN,63,1.0,2025-01-04
+63,IC,CMT,Carnegie Mellon Tartans,3pmi,No Dribble Jumper,Justin Allen,PNR,Right,Off,Alex Hassanein,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,64,4.0,2025-01-04
+65,IC,CMT,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,66,4.0,2025-01-04
+67,IC,CMT,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,68,4.0,2025-01-04
+68,IC,CMT,Carnegie Mellon Tartans,Foul,To Basket,Aidan Murphy,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,69,1.0,2025-01-04
+71,IC,CMT,Ithaca College,3pmi,No Dribble Jumper,Cole Wissink,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,72,4.0,2025-01-04
+73,IC,CMT,Carnegie Mellon Tartans,Foul,To Basket,Buckley DeJardin,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,74,1.0,2025-01-04
+76,IC,CMT,Ithaca College,Foul,To Basket,Evan Cabral,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,77,1.0,2025-01-04
+79,IC,CMT,Carnegie Mellon Tartans,Turnover,N/A,Justin Allen,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,80,1.0,2025-01-04
+81,IC,CMT,Ithaca College,2pmi,To Basket,Aidan Holmes,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,82,1.0,2025-01-04
+83,IC,CMT,Ithaca College,2pMa,To Basket,Evan Cabral,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,84,1.0,2025-01-04
+84,IC,CMT,Carnegie Mellon Tartans,2pmi,Hook Shot,Sam Andreottola,Post,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,85,1.0,2025-01-04
+85,IC,CMT,Ithaca College,2pMa,To Basket,Logan Wendell,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,86,1.0,2025-01-04
+86,IC,CMT,Carnegie Mellon Tartans,Turnover,N/A,Isaac Higgs,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,87,1.0,2025-01-04
+87,IC,CMT,,Foul,N/A,Cole Wissink,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,88,1.0,2025-01-04
+90,IC,CMT,Carnegie Mellon Tartans,Turnover,To Basket,Sam Andreottola,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,91,1.0,2025-01-04
+91,IC,CMT,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,PNR,High,Off,Alex Penders,P&R Roll Man,N/A,Pop,Liberty League,UNKNOWN,92,4.0,2025-01-04
+92,IC,CMT,Ithaca College,Foul,N/A,Evan Cabral,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,93,1.0,2025-01-04
+95,IC,CMT,Carnegie Mellon Tartans,2pmi,Hook Shot,Buckley DeJardin,Post,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,96,1.0,2025-01-04
+96,IC,CMT,,Foul,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,97,1.0,2025-01-04
+99,IC,CMT,Carnegie Mellon Tartans,Turnover,N/A,Nolan Casey,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,100,1.0,2025-01-04
+100,IC,CMT,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,101,4.0,2025-01-04
+101,IC,CMT,Carnegie Mellon Tartans,2pmi,To Basket,Buckley DeJardin,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,102,1.0,2025-01-04
+102,IC,CMT,Carnegie Mellon Tartans,2pmi,To Basket,Nolan Casey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,103,1.0,2025-01-04
+103,IC,CMT,Ithaca College,2pmi,To Basket,Logan Wendell,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,104,1.0,2025-01-04
+104,IC,CMT,Carnegie Mellon Tartans,3pmi,No Dribble Jumper,Dylan Bronner,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,105,4.0,2025-01-04
+105,IC,CMT,Ithaca College,3pmi,No Dribble Jumper,Alex Penders,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,106,4.0,2025-01-04
+106,IC,CMT,Carnegie Mellon Tartans,Turnover,N/A,Justin Allen,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,107,1.0,2025-01-04
+107,IC,CMT,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,PNR,Left,Away,Alex Penders,P&R Roll Man,N/A,Pop,Liberty League,UNKNOWN,108,4.0,2025-01-04
+109,IC,CMT,Carnegie Mellon Tartans,3pMa,No Dribble Jumper,Buckley DeJardin,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,110,4.0,2025-01-04
+110,IC,CMT,Ithaca College,2pmi,To Basket,Evan Cabral,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,111,1.0,2025-01-04
+111,IC,CMT,Carnegie Mellon Tartans,2pMa,To Basket,Buckley DeJardin,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,112,1.0,2025-01-04
+113,IC,CMT,Ithaca College,2pmi,Dribble Jumper,Aidan Holmes,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,114,3.0,2025-01-04
+115,IC,CMT,Ithaca College,Foul,To Basket,Logan Wendell,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,116,1.0,2025-01-04
+118,IC,CMT,Carnegie Mellon Tartans,2pmi,To Basket,Justin Allen,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,119,1.0,2025-01-04
+122,IC,CMT,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,123,4.0,2025-01-04
+124,IC,CMT,Ithaca College,3pmi,No Dribble Jumper,Cole Wissink,PNR,Left,Off,Alex Penders,P&R Roll Man,N/A,Pop,Liberty League,UNKNOWN,125,4.0,2025-01-04
+125,IC,CMT,Carnegie Mellon Tartans,2pMa,To Basket,Buckley DeJardin,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,126,1.0,2025-01-04
+128,IC,CMT,Ithaca College,2pmi,To Basket,Evan Cabral,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,129,1.0,2025-01-04
+129,IC,CMT,Ithaca College,2pMa,To Basket,Chris Leysath,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,130,1.0,2025-01-04
+130,IC,CMT,Carnegie Mellon Tartans,Turnover,N/A,Justin Allen,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,131,1.0,2025-01-04
+131,IC,CMT,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,132,4.0,2025-01-04
+132,IC,CMT,Ithaca College,2pmi,To Basket,Logan Wendell,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,133,1.0,2025-01-04
+133,IC,CMT,Carnegie Mellon Tartans,2pMa,To Basket,RJ Holmes,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,134,1.0,2025-01-04
+134,IC,CMT,Ithaca College,Turnover,N/A,Evan Cabral,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,135,1.0,2025-01-04
+135,IC,CMT,Carnegie Mellon Tartans,Turnover,To Basket,Isaac Higgs,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,136,1.0,2025-01-04
+136,IC,CMT,Ithaca College,2pmi,To Basket,Jaylon O'Neal,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,137,1.0,2025-01-04
+137,IC,CMT,Carnegie Mellon Tartans,2pmi,To Basket,Buckley DeJardin,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,138,1.0,2025-01-04
+138,IC,CMT,Ithaca College,2pmi,To Basket,Jaylon O'Neal,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,139,1.0,2025-01-04
+139,IC,CMT,Carnegie Mellon Tartans,3pmi,No Dribble Jumper,Buckley DeJardin,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,140,4.0,2025-01-04
+140,IC,CMT,Ithaca College,2pmi,To Basket,Evan Cabral,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,141,1.0,2025-01-04
+141,IC,CMT,Carnegie Mellon Tartans,2pMa,To Basket,Buckley DeJardin,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,142,1.0,2025-01-04
+142,IC,CMT,Ithaca College,2pMa,To Basket,Logan Wendell,PNR,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,143,1.0,2025-01-04
+144,IC,CMT,Carnegie Mellon Tartans,2pMa,To Basket,Nolan Casey,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,145,1.0,2025-01-04
+145,IC,CMT,Ithaca College,2pMa,To Basket,Chris Leysath,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,146,1.0,2025-01-04
+146,IC,CMT,Carnegie Mellon Tartans,2pmi,To Basket,Justin Allen,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,147,1.0,2025-01-04
+147,IC,CMT,Ithaca College,2pmi,To Basket,Jaylon O'Neal,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,148,1.0,2025-01-04
+149,IC,CMT,Ithaca College,Foul,To Basket,Chris Leysath,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,150,1.0,2025-01-04
+152,IC,CMT,Carnegie Mellon Tartans,3pmi,No Dribble Jumper,Nolan Casey,Post,Left,N/A,Isaac Higgs,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,153,4.0,2025-01-04
+154,IC,CMT,Carnegie Mellon Tartans,3pmi,No Dribble Jumper,Justin Allen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,155,4.0,2025-01-04
+155,IC,CMT,Ithaca College,2pMa,To Basket,Logan Wendell,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,156,1.0,2025-01-04
+156,IC,CMT,Carnegie Mellon Tartans,2pMa,To Basket,Buckley DeJardin,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,157,1.0,2025-01-04
+157,IC,CMT,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,PNR,Right,Off,Logan Wendell,P&R Roll Man,N/A,Slips,Liberty League,UNKNOWN,158,4.0,2025-01-04
+158,IC,CMT,Carnegie Mellon Tartans,Foul,To Basket,Justin Allen,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,159,1.0,2025-01-04
+162,IC,CMT,Ithaca College,2pMa,To Basket,Aidan Holmes,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,163,1.0,2025-01-04
+163,IC,CMT,Carnegie Mellon Tartans,2pMa,To Basket,Justin Allen,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,164,1.0,2025-01-04
+164,IC,CMT,Ithaca College,2pmi,To Basket,Chris Leysath,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,165,1.0,2025-01-04
+166,IC,CMT,Carnegie Mellon Tartans,2pMa,To Basket,Buckley DeJardin,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,167,1.0,2025-01-04
+167,IC,CMT,Ithaca College,3pmi,No Dribble Jumper,Cole Wissink,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,168,4.0,2025-01-04
+168,IC,CMT,Carnegie Mellon Tartans,3pMa,Dribble Jumper,Justin Allen,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,169,4.0,2025-01-04
+170,IC,CMT,Ithaca College,Foul,To Basket,Cole Wissink,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,171,1.0,2025-01-04
+173,IC,CMT,Carnegie Mellon Tartans,2pmi,Dribble Jumper,Justin Allen,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,174,2.0,2025-01-04
+174,IC,CMT,Ithaca College,2pMa,To Basket,Evan Cabral,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,175,1.0,2025-01-04
+175,IC,CMT,Carnegie Mellon Tartans,3pmi,No Dribble Jumper,Aidan Murphy,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,176,4.0,2025-01-04
+177,IC,CMT,Carnegie Mellon Tartans,Turnover,N/A,Justin Allen,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,178,1.0,2025-01-04
+178,IC,CMT,Ithaca College,2pMa,To Basket,Logan Wendell,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,179,1.0,2025-01-04
+179,IC,CMT,Carnegie Mellon Tartans,Foul,To Basket,Aidan Murphy,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,180,1.0,2025-01-04
+182,IC,CMT,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,PNR,High,Off,Cole Wissink,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,183,4.0,2025-01-04
+183,IC,CMT,Carnegie Mellon Tartans,2pMa,To Basket,RJ Holmes,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,184,1.0,2025-01-04
+184,IC,CMT,Ithaca College,3pMa,No Dribble Jumper,Jose Padilla,PNR,Right,Off,Alex Penders,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,185,4.0,2025-01-04
+185,IC,CMT,Carnegie Mellon Tartans,2pMa,To Basket,Justin Allen,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,186,1.0,2025-01-04
+186,IC,CMT,Ithaca College,3pmi,No Dribble Jumper,Laurence Brady,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,187,4.0,2025-01-04
+188,IC,CMT,Carnegie Mellon Tartans,3pmi,No Dribble Jumper,Dylan Bronner,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,189,4.0,2025-01-04
+189,IC,CMT,Ithaca College,3pMa,No Dribble Jumper,Laurence Brady,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,190,4.0,2025-01-04
+190,IC,CMT,Carnegie Mellon Tartans,Turnover,N/A,Justin Allen,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,191,1.0,2025-01-04
+191,IC,CMT,Carnegie Mellon Tartans,2pmi,To Basket,Aidan Murphy,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,192,1.0,2025-01-04
+192,IC,CMT,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,193,4.0,2025-01-04
+193,IC,CMT,Carnegie Mellon Tartans,3pmi,No Dribble Jumper,Justin Allen,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,194,4.0,2025-01-04
+194,IC,CMT,Ithaca College,2pmi,To Basket,Jose Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,195,1.0,2025-01-04
+195,IC,CMT,Carnegie Mellon Tartans,Turnover,N/A,Isaac Higgs,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,196,1.0,2025-01-04
+196,IC,CMT,Ithaca College,Foul,To Basket,Laurence Brady,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,197,1.0,2025-01-04
+199,IC,CMT,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,200,4.0,2025-01-04
+201,IC,CMT,Carnegie Mellon Tartans,2pMa,To Basket,Nolan Casey,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,202,1.0,2025-01-04
+202,IC,CMT,Ithaca College,2pmi,Dribble Jumper,Aidan Holmes,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,203,2.0,2025-01-04
+203,IC,CMT,Carnegie Mellon Tartans,2pMa,To Basket,Buckley DeJardin,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,204,1.0,2025-01-04
+204,IC,CMT,Ithaca College,2pmi,To Basket,Jaylon O'Neal,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,205,1.0,2025-01-04
+205,IC,CMT,,Foul,N/A,Aidan Murphy,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,206,1.0,2025-01-04
+208,IC,CMT,Ithaca College,Turnover,N/A,Evan Cabral,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,209,1.0,2025-01-04
+209,IC,CMT,,Foul,N/A,RJ Holmes,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,210,1.0,2025-01-04
+212,IC,CMT,Ithaca College,3pmi,No Dribble Jumper,Alex Penders,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,213,4.0,2025-01-04
+213,IC,CMT,Ithaca College,2pMa,To Basket,Jaylon O'Neal,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,214,1.0,2025-01-04
+214,IC,CMT,Carnegie Mellon Tartans,Turnover,N/A,Alex Hassanein,PNR,Left,Off,Buckley DeJardin,Spot Ups,Left,Drive,Liberty League,UNKNOWN,215,1.0,2025-01-04
+215,IC,CMT,Ithaca College,3pMa,No Dribble Jumper,Evan Cabral,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,216,4.0,2025-01-04
+218,IC,CMT,Carnegie Mellon Tartans,Turnover,N/A,Justin Allen,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,219,1.0,2025-01-04
+219,IC,CMT,Ithaca College,Turnover,N/A,Jaylon O'Neal,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,220,1.0,2025-01-04
+220,IC,CMT,Carnegie Mellon Tartans,2pmi,Dribble Jumper,Justin Allen,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,221,2.0,2025-01-04
+221,IC,CMT,Ithaca College,Foul,To Basket,Aidan Holmes,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,222,1.0,2025-01-04
+224,IC,CMT,Carnegie Mellon Tartans,2pMa,To Basket,RJ Holmes,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,225,1.0,2025-01-04
+225,IC,CMT,Ithaca College,2pMa,To Basket,Aidan Holmes,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,226,1.0,2025-01-04
+226,IC,CMT,Carnegie Mellon Tartans,Foul,To Basket,Buckley DeJardin,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,227,1.0,2025-01-04
+229,IC,CMT,Ithaca College,2pmi,To Basket,Evan Cabral,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,230,1.0,2025-01-04
+230,IC,CMT,Carnegie Mellon Tartans,2pMa,To Basket,RJ Holmes,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,231,1.0,2025-01-04
+231,IC,CMT,Ithaca College,2pMa,To Basket,Evan Cabral,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,232,1.0,2025-01-04
+232,IC,CMT,Carnegie Mellon Tartans,Turnover,N/A,RJ Holmes,Post,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,233,1.0,2025-01-04
+233,IC,CMT,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,234,4.0,2025-01-04
+234,IC,CMT,,Foul,N/A,Buckley DeJardin,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,235,1.0,2025-01-04
+237,IC,CMT,Ithaca College,3pmi,Dribble Jumper,Logan Wendell,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,238,4.0,2025-01-04
+238,IC,CMT,Carnegie Mellon Tartans,Foul,N/A,RJ Holmes,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,239,1.0,2025-01-04
+241,IC,CMT,Ithaca College,Foul,No Dribble Jumper,Logan Wendell,PNR,High,Off,Cole Wissink,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,242,4.0,2025-01-04
+245,IC,CMT,Carnegie Mellon Tartans,2pMa,To Basket,RJ Holmes,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,246,1.0,2025-01-04
+246,IC,CMT,Ithaca College,2pmi,Dribble Jumper,Logan Wendell,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,247,2.0,2025-01-04
+247,IC,CMT,Carnegie Mellon Tartans,3pMa,No Dribble Jumper,Aidan Murphy,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,248,4.0,2025-01-04
+249,IC,CMT,Ithaca College,3pmi,No Dribble Jumper,Jaylon O'Neal,PNR,High,Off,Logan Wendell,Spot Ups,N/A,Shot,Liberty League,UNKNOWN,250,4.0,2025-01-04
+250,IC,CMT,,Foul,N/A,Buckley DeJardin,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,251,1.0,2025-01-04
+253,IC,CMT,Ithaca College,Foul,To Basket,Evan Cabral,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,254,1.0,2025-01-04
+256,IC,CMT,Carnegie Mellon Tartans,2pMa,To Basket,Buckley DeJardin,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,257,1.0,2025-01-04
+257,IC,CMT,Ithaca College,2pMa,To Basket,Logan Wendell,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,258,1.0,2025-01-04
+258,IC,CMT,,Foul,N/A,Justin Allen,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,259,1.0,2025-01-04
+261,IC,CMT,Ithaca College,Turnover,N/A,Evan Cabral,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,UNKNOWN,262,1.0,2025-01-04

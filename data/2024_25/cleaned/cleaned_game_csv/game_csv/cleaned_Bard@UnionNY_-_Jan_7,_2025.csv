@@ -1,0 +1,151 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,UNY,Bar,Union (NY) Chargers,3pMa,Dribble Jumper,Tanner Tedesco,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,4.0,2025-01-07
+1,UNY,Bar,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,4.0,2025-01-07
+2,UNY,Bar,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,4.0,2025-01-07
+3,UNY,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,4.0,2025-01-07
+4,UNY,Bar,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,1.0,2025-01-07
+5,UNY,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,4.0,2025-01-07
+6,UNY,Bar,Union (NY) Chargers,2pmi,Dribble Jumper,Tanner Tedesco,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,3.0,2025-01-07
+7,UNY,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,1.0,2025-01-07
+8,UNY,Bar,Union (NY) Chargers,Turnover,N/A,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,1.0,2025-01-07
+9,UNY,Bar,Bard College,Turnover,N/A,Ahmad Rauf,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,1.0,2025-01-07
+10,UNY,Bar,Union (NY) Chargers,2pmi,Dribble Jumper,Neil Daterao,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,2.0,2025-01-07
+11,UNY,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,1.0,2025-01-07
+12,UNY,Bar,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,1.0,2025-01-07
+13,UNY,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,14,1.0,2025-01-07
+15,UNY,Bar,Union (NY) Chargers,3pmi,No Dribble Jumper,Brendan Reid,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,4.0,2025-01-07
+16,UNY,Bar,Union (NY) Chargers,Turnover,N/A,Tanner Tedesco,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,1.0,2025-01-07
+17,UNY,Bar,Bard College,2pmi,To Basket,Max Frei,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,1.0,2025-01-07
+19,UNY,Bar,Bard College,2pmi,To Basket,Sean Wilcox,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,1.0,2025-01-07
+21,UNY,Bar,Union (NY) Chargers,2pmi,To Basket,Brendan Reid,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,1.0,2025-01-07
+22,UNY,Bar,Bard College,3pmi,No Dribble Jumper,Azriel Almodovar,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,23,4.0,2025-01-07
+23,UNY,Bar,Union (NY) Chargers,3pMa,Dribble Jumper,Tanner Tedesco,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,4.0,2025-01-07
+24,UNY,Bar,Bard College,2pmi,To Basket,Laz Panagiotounis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,25,1.0,2025-01-07
+25,UNY,Bar,Union (NY) Chargers,Foul,To Basket,Jack Plesser,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,1.0,2025-01-07
+28,UNY,Bar,Bard College,2pmi,Hook Shot,Sean Wilcox,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,29,1.0,2025-01-07
+29,UNY,Bar,Union (NY) Chargers,And1,To Basket,Christian Dufort,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,1.0,2025-01-07
+32,UNY,Bar,Union (NY) Chargers,2pmi,Dribble Jumper,Tanner Tedesco,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,3.0,2025-01-07
+34,UNY,Bar,Bard College,2pMa,To Basket,Lucas Tovar,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,35,1.0,2025-01-07
+35,UNY,Bar,Union (NY) Chargers,Turnover,N/A,Jack Plesser,Post,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,36,1.0,2025-01-07
+36,UNY,Bar,Bard College,3pMa,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,37,4.0,2025-01-07
+37,UNY,Bar,Union (NY) Chargers,2pmi,Dribble Jumper,Tanner Tedesco,PNR,High,Off,Matthew Garside,Spot Ups,Left,Drive,Liberty League,Liberty League,38,2.0,2025-01-07
+38,UNY,Bar,Bard College,2pMa,To Basket,Sean Wilcox,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,1.0,2025-01-07
+39,UNY,Bar,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,PNR,High,Away,Matthew Garside,Spot Ups,N/A,Shot,Liberty League,Liberty League,40,4.0,2025-01-07
+40,UNY,Bar,Bard College,3pmi,Dribble Jumper,Lucas Tovar,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,41,4.0,2025-01-07
+41,UNY,Bar,Union (NY) Chargers,2pmi,Dribble Jumper,Matthew Garside,Iso,Right,N/A,Will Yakoobian,Spot Ups,Right,Drive,Liberty League,Liberty League,42,2.0,2025-01-07
+42,UNY,Bar,Bard College,2pMa,Dribble Jumper,Laz Panagiotounis,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,2.0,2025-01-07
+43,UNY,Bar,Union (NY) Chargers,3pmi,Dribble Jumper,Christian Dufort,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,44,4.0,2025-01-07
+44,UNY,Bar,Bard College,2pmi,To Basket,Azikiwe Cuffy-Scott,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,45,1.0,2025-01-07
+45,UNY,Bar,Bard College,Turnover,N/A,Azikiwe Cuffy-Scott,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,46,1.0,2025-01-07
+46,UNY,Bar,Union (NY) Chargers,2pmi,To Basket,Brendan Reid,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,47,1.0,2025-01-07
+48,UNY,Bar,Union (NY) Chargers,3pMa,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,4.0,2025-01-07
+49,UNY,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,1.0,2025-01-07
+50,UNY,Bar,Union (NY) Chargers,2pMa,To Basket,Matthew Garside,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,51,1.0,2025-01-07
+51,UNY,Bar,Bard College,Turnover,To Basket,Azriel Almodovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,1.0,2025-01-07
+52,UNY,Bar,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,4.0,2025-01-07
+53,UNY,Bar,Union (NY) Chargers,Turnover,N/A,Brendan Reid,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,54,1.0,2025-01-07
+54,UNY,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,55,1.0,2025-01-07
+55,UNY,Bar,Union (NY) Chargers,2pMa,To Basket,Harrison Collins,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,56,1.0,2025-01-07
+56,UNY,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,57,1.0,2025-01-07
+57,UNY,Bar,Union (NY) Chargers,3pMa,No Dribble Jumper,Harrison Collins,PNR,Right,Off,Brendan Reid,Spot Ups,N/A,Shot,Liberty League,Liberty League,58,4.0,2025-01-07
+58,UNY,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,59,1.0,2025-01-07
+60,UNY,Bar,Union (NY) Chargers,3pmi,No Dribble Jumper,Neil Daterao,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,61,4.0,2025-01-07
+61,UNY,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,1.0,2025-01-07
+62,UNY,Bar,Union (NY) Chargers,2pmi,To Basket,Tanner Tedesco,PNR,High,Off,Will Yakoobian,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,63,1.0,2025-01-07
+63,UNY,Bar,Union (NY) Chargers,2pMa,To Basket,Tanner Tedesco,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,1.0,2025-01-07
+65,UNY,Bar,Bard College,3pmi,No Dribble Jumper,Azriel Almodovar,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,4.0,2025-01-07
+66,UNY,Bar,Bard College,Turnover,N/A,Ahmad Rauf,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,1.0,2025-01-07
+67,UNY,Bar,Union (NY) Chargers,3pMa,No Dribble Jumper,Will Yakoobian,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,68,4.0,2025-01-07
+68,UNY,Bar,Bard College,2pmi,To Basket,Rowan Heinze,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,69,1.0,2025-01-07
+69,UNY,Bar,Union (NY) Chargers,2pMa,Dribble Jumper,Tanner Tedesco,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,70,2.0,2025-01-07
+70,UNY,Bar,Bard College,2pMa,Dribble Jumper,Max Frei,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,71,2.0,2025-01-07
+71,UNY,Bar,Union (NY) Chargers,Turnover,N/A,Christian Dufort,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,1.0,2025-01-07
+72,UNY,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,4.0,2025-01-07
+74,UNY,Bar,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,4.0,2025-01-07
+75,UNY,Bar,Bard College,And1,To Basket,Laz Panagiotounis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,76,1.0,2025-01-07
+77,UNY,Bar,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,PNR,Left,Off,Brendan Reid,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,78,4.0,2025-01-07
+78,UNY,Bar,Union (NY) Chargers,And1,To Basket,Christian Dufort,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,1.0,2025-01-07
+80,UNY,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,81,1.0,2025-01-07
+81,UNY,Bar,Union (NY) Chargers,Turnover,To Basket,Matthew Garside,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,82,1.0,2025-01-07
+82,UNY,Bar,Bard College,Foul,To Basket,Laz Panagiotounis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,1.0,2025-01-07
+85,UNY,Bar,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,PNR,Left,Off,Christian Dufort,Spot Ups,N/A,Shot,Liberty League,Liberty League,86,4.0,2025-01-07
+86,UNY,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,1.0,2025-01-07
+87,UNY,Bar,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,4.0,2025-01-07
+88,UNY,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,1.0,2025-01-07
+89,UNY,Bar,Union (NY) Chargers,Turnover,N/A,Brendan Reid,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,90,1.0,2025-01-07
+90,UNY,Bar,Bard College,2pMa,To Basket,Sean Wilcox,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,91,1.0,2025-01-07
+91,UNY,Bar,Union (NY) Chargers,And1,To Basket,Tanner Tedesco,PNR,High,Off,Brendan Reid,Spot Ups,Right,Drive,Liberty League,Liberty League,92,1.0,2025-01-07
+94,UNY,Bar,Bard College,Turnover,N/A,Ahmad Rauf,Post,Right,Right Shoulder,Max Frei,Spot Ups,Right,Drive,Liberty League,Liberty League,95,1.0,2025-01-07
+95,UNY,Bar,Union (NY) Chargers,2pmi,To Basket,Tanner Tedesco,PNR,High,Off,Jack Plesser,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,96,1.0,2025-01-07
+97,UNY,Bar,Bard College,Turnover,N/A,Rowan Heinze,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,1.0,2025-01-07
+98,UNY,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,PNR,High,Off,Rowan Heinze,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,99,4.0,2025-01-07
+99,UNY,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,1.0,2025-01-07
+100,UNY,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,101,1.0,2025-01-07
+101,UNY,Bar,Bard College,And1,To Basket,Azriel Almodovar,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,102,1.0,2025-01-07
+103,UNY,Bar,Union (NY) Chargers,2pMa,N/A,Jack Plesser,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,1.0,2025-01-07
+104,UNY,Bar,Bard College,3pmi,No Dribble Jumper,Rowan Heinze,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,4.0,2025-01-07
+105,UNY,Bar,Union (NY) Chargers,2pmi,N/A,Jack Plesser,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,106,1.0,2025-01-07
+106,UNY,Bar,Bard College,Foul,To Basket,Sean Wilcox,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,107,1.0,2025-01-07
+109,UNY,Bar,Union (NY) Chargers,Turnover,N/A,Jack Plesser,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,110,1.0,2025-01-07
+110,UNY,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,1.0,2025-01-07
+111,UNY,Bar,Union (NY) Chargers,2pMa,To Basket,Matthew Garside,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,1.0,2025-01-07
+112,UNY,Bar,Bard College,3pMa,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,4.0,2025-01-07
+113,UNY,Bar,Union (NY) Chargers,2pmi,Dribble Jumper,Tanner Tedesco,PNR,High,Off,Will Yakoobian,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,114,2.0,2025-01-07
+115,UNY,Bar,Union (NY) Chargers,3pmi,Dribble Jumper,Tanner Tedesco,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,116,4.0,2025-01-07
+117,UNY,Bar,Union (NY) Chargers,And1,To Basket,Neil Daterao,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,1.0,2025-01-07
+119,UNY,Bar,Bard College,3pmi,No Dribble Jumper,Azriel Almodovar,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,120,4.0,2025-01-07
+120,UNY,Bar,Union (NY) Chargers,3pmi,No Dribble Jumper,Will Yakoobian,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,121,4.0,2025-01-07
+121,UNY,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,4.0,2025-01-07
+122,UNY,Bar,Union (NY) Chargers,2pmi,To Basket,Tanner Tedesco,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,123,1.0,2025-01-07
+124,UNY,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,PNR,High,Off,Ahmad Rauf,Spot Ups,Left,Drive,Liberty League,Liberty League,125,4.0,2025-01-07
+125,UNY,Bar,Union (NY) Chargers,Turnover,N/A,Tanner Tedesco,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,126,1.0,2025-01-07
+126,UNY,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,127,1.0,2025-01-07
+127,UNY,Bar,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,4.0,2025-01-07
+129,UNY,Bar,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,130,4.0,2025-01-07
+130,UNY,Bar,Bard College,Foul,To Basket,Laz Panagiotounis,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,1.0,2025-01-07
+134,UNY,Bar,Union (NY) Chargers,2pmi,Hook Shot,Jack Plesser,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,135,1.0,2025-01-07
+135,UNY,Bar,Union (NY) Chargers,Turnover,N/A,Jack Plesser,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,136,1.0,2025-01-07
+136,UNY,Bar,Bard College,3pmi,No Dribble Jumper,Lucas Tovar,PNR,Right,Off,Sean Wilcox,Spot Ups,N/A,Shot,Liberty League,Liberty League,137,4.0,2025-01-07
+138,UNY,Bar,Bard College,2pmi,Dribble Jumper,Lucas Tovar,PNR,Left,Off,Laz Panagiotounis,Spot Ups,Left,Drive,Liberty League,Liberty League,139,2.0,2025-01-07
+139,UNY,Bar,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,PNR,Right,Off,Christian Dufort,Spot Ups,N/A,Shot,Liberty League,Liberty League,140,4.0,2025-01-07
+140,UNY,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,1.0,2025-01-07
+142,UNY,Bar,Union (NY) Chargers,And1,To Basket,Matthew Garside,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,143,1.0,2025-01-07
+144,UNY,Bar,Bard College,2pMa,To Basket,Max Frei,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,145,1.0,2025-01-07
+145,UNY,Bar,Union (NY) Chargers,2pmi,To Basket,Matthew Garside,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,1.0,2025-01-07
+146,UNY,Bar,Bard College,2pmi,To Basket,Sean Wilcox,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,147,1.0,2025-01-07
+147,UNY,Bar,Union (NY) Chargers,2pmi,Dribble Jumper,Tanner Tedesco,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,148,2.0,2025-01-07
+148,UNY,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,1.0,2025-01-07
+150,UNY,Bar,Union (NY) Chargers,Turnover,N/A,Harrison Collins,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,151,1.0,2025-01-07
+151,UNY,Bar,Bard College,2pmi,To Basket,Lucas Tovar,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,152,1.0,2025-01-07
+152,UNY,Bar,Union (NY) Chargers,2pMa,Dribble Jumper,Harrison Collins,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,153,3.0,2025-01-07
+153,UNY,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,154,1.0,2025-01-07
+154,UNY,Bar,Union (NY) Chargers,3pmi,Dribble Jumper,Tanner Tedesco,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,4.0,2025-01-07
+155,UNY,Bar,Bard College,Turnover,N/A,Lucas Tovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,156,1.0,2025-01-07
+157,UNY,Bar,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,PNR,High,Away,Brendan Reid,Spot Ups,N/A,Shot,Liberty League,Liberty League,158,4.0,2025-01-07
+158,UNY,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,PNR,Left,Off,Azriel Almodovar,Cuts,N/A,Basket,Liberty League,Liberty League,159,1.0,2025-01-07
+160,UNY,Bar,Union (NY) Chargers,3pmi,Dribble Jumper,Harrison Collins,PNR,High,Off,Tanner Tedesco,Spot Ups,Left,Drive,Liberty League,Liberty League,161,4.0,2025-01-07
+161,UNY,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,162,1.0,2025-01-07
+162,UNY,Bar,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,163,4.0,2025-01-07
+163,UNY,Bar,Bard College,3pMa,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,164,4.0,2025-01-07
+164,UNY,Bar,Union (NY) Chargers,2pMa,No Dribble Jumper,Jack Plesser,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,165,2.0,2025-01-07
+165,UNY,Bar,Bard College,2pmi,Dribble Jumper,Laz Panagiotounis,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,2.0,2025-01-07
+167,UNY,Bar,Bard College,2pMa,To Basket,Jalen Umstead,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,1.0,2025-01-07
+168,UNY,Bar,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,169,4.0,2025-01-07
+169,UNY,Bar,Bard College,3pMa,No Dribble Jumper,Laz Panagiotounis,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,170,4.0,2025-01-07
+170,UNY,Bar,Union (NY) Chargers,2pMa,To Basket,Christian Dufort,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,171,1.0,2025-01-07
+171,UNY,Bar,Bard College,2pMa,Dribble Jumper,Azriel Almodovar,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,172,2.0,2025-01-07
+172,UNY,Bar,Union (NY) Chargers,2pMa,To Basket,Matthew Garside,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,1.0,2025-01-07
+173,UNY,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,174,4.0,2025-01-07
+174,UNY,Bar,Union (NY) Chargers,3pmi,Dribble Jumper,Tanner Tedesco,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,175,4.0,2025-01-07
+175,UNY,Bar,Union (NY) Chargers,Foul,N/A,Jack Plesser,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,176,1.0,2025-01-07
+178,UNY,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,PNR,High,Off,Max Frei,Cuts,N/A,Basket,Liberty League,Liberty League,179,1.0,2025-01-07
+179,UNY,Bar,,Foul,N/A,Matthew Garside,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,180,1.0,2025-01-07
+181,UNY,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Iso,Right,N/A,Max Frei,Spot Ups,Left,Drive,Liberty League,Liberty League,182,1.0,2025-01-07
+182,UNY,Bar,Union (NY) Chargers,2pMa,To Basket,Tanner Tedesco,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,183,1.0,2025-01-07
+183,UNY,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,184,1.0,2025-01-07
+185,UNY,Bar,Union (NY) Chargers,2pmi,To Basket,Christian Dufort,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,186,1.0,2025-01-07
+186,UNY,Bar,Bard College,Foul,To Basket,Max Frei,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,187,1.0,2025-01-07
+189,UNY,Bar,Union (NY) Chargers,2pMa,Dribble Jumper,Tanner Tedesco,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,190,3.0,2025-01-07
+190,UNY,Bar,Bard College,3pMa,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,191,4.0,2025-01-07
+191,UNY,Bar,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,PNR,Left,Off,Christian Dufort,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,192,4.0,2025-01-07
+193,UNY,Bar,Bard College,2pmi,Dribble Jumper,Laz Panagiotounis,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,194,3.0,2025-01-07

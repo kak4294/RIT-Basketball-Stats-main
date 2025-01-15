@@ -1,0 +1,143 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,CLA,SLS,Clark MA Cougars,2pmi,To Basket,Bruce Saintilus,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,1,1.0,2024-12-30
+1,CLA,SLS,Clark MA Cougars,2pMa,To Basket,Kekoa Mcardle,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,2,1.0,2024-12-30
+2,CLA,SLS,St. Lawrence Saints,2pmi,Hook Shot,Andrew Cowan,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,3,1.0,2024-12-30
+3,CLA,SLS,Clark MA Cougars,2pmi,To Basket,Isaiah Taylor,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,4,1.0,2024-12-30
+4,CLA,SLS,St. Lawrence Saints,Turnover,N/A,Andrew Cowan,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,5,1.0,2024-12-30
+5,CLA,SLS,Clark MA Cougars,2pMa,To Basket,Reid Neumann,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,6,1.0,2024-12-30
+6,CLA,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Adam Dudzinski,PNR,High,Away,Gavin Macaulay,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,7,4.0,2024-12-30
+7,CLA,SLS,Clark MA Cougars,3pmi,No Dribble Jumper,Bruce Saintilus,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,8,4.0,2024-12-30
+9,CLA,SLS,Clark MA Cougars,3pMa,No Dribble Jumper,Reid Neumann,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,10,4.0,2024-12-30
+11,CLA,SLS,St. Lawrence Saints,2pMa,To Basket,Gavin Macaulay,PNR,Right,Away,Andrew Cowan,P&R Roll Man,N/A,Roll,UNKNOWN,Liberty League,12,1.0,2024-12-30
+12,CLA,SLS,Clark MA Cougars,2pMa,To Basket,Kekoa Mcardle,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,13,1.0,2024-12-30
+13,CLA,SLS,St. Lawrence Saints,Turnover,N/A,Gavin Macaulay,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,14,1.0,2024-12-30
+14,CLA,SLS,Clark MA Cougars,3pmi,No Dribble Jumper,Jordan Richard,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,15,4.0,2024-12-30
+16,CLA,SLS,Clark MA Cougars,3pMa,No Dribble Jumper,Jordan Richard,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,17,4.0,2024-12-30
+17,CLA,SLS,St. Lawrence Saints,2pmi,To Basket,Chris Downs Jr.,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,18,1.0,2024-12-30
+18,CLA,SLS,Clark MA Cougars,2pMa,To Basket,Isaiah Taylor,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,19,1.0,2024-12-30
+19,CLA,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Adam Dudzinski,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,20,4.0,2024-12-30
+20,CLA,SLS,Clark MA Cougars,3pmi,Dribble Jumper,Bruce Saintilus,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,21,4.0,2024-12-30
+24,CLA,SLS,St. Lawrence Saints,2pmi,To Basket,Trey Syroka,PNR,High,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,25,1.0,2024-12-30
+25,CLA,SLS,Clark MA Cougars,2pmi,To Basket,Boluwasefe John,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,26,1.0,2024-12-30
+26,CLA,SLS,Clark MA Cougars,Foul,To Basket,Boluwasefe John,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,27,1.0,2024-12-30
+29,CLA,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,30,4.0,2024-12-30
+30,CLA,SLS,Clark MA Cougars,3pMa,Dribble Jumper,Reid Neumann,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,31,4.0,2024-12-30
+31,CLA,SLS,St. Lawrence Saints,2pmi,To Basket,Gavin Macaulay,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,32,1.0,2024-12-30
+33,CLA,SLS,St. Lawrence Saints,Foul,To Basket,Andrew Cowan,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,34,1.0,2024-12-30
+36,CLA,SLS,Clark MA Cougars,Turnover,N/A,Bruce Saintilus,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,37,1.0,2024-12-30
+37,CLA,SLS,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,38,1.0,2024-12-30
+38,CLA,SLS,Clark MA Cougars,Turnover,N/A,Ian Calabrese,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,39,1.0,2024-12-30
+39,CLA,SLS,St. Lawrence Saints,2pMa,To Basket,Troy McPherson,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,40,1.0,2024-12-30
+40,CLA,SLS,Clark MA Cougars,2pmi,To Basket,Bruce Saintilus,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,41,1.0,2024-12-30
+41,CLA,SLS,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,42,1.0,2024-12-30
+42,CLA,SLS,Clark MA Cougars,3pmi,No Dribble Jumper,Reid Neumann,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,43,4.0,2024-12-30
+43,CLA,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,44,4.0,2024-12-30
+44,CLA,SLS,Clark MA Cougars,3pmi,No Dribble Jumper,Kyle Squires,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,45,4.0,2024-12-30
+45,CLA,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Troy McPherson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,46,4.0,2024-12-30
+47,CLA,SLS,Clark MA Cougars,3pmi,No Dribble Jumper,Reid Neumann,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,48,4.0,2024-12-30
+48,CLA,SLS,Clark MA Cougars,2pMa,To Basket,Kyle Squires,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,49,1.0,2024-12-30
+50,CLA,SLS,St. Lawrence Saints,2pmi,To Basket,Chris Downs Jr.,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,51,1.0,2024-12-30
+51,CLA,SLS,Clark MA Cougars,3pmi,No Dribble Jumper,Reid Neumann,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,52,4.0,2024-12-30
+52,CLA,SLS,Clark MA Cougars,Turnover,N/A,Reid Neumann,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,53,1.0,2024-12-30
+53,CLA,SLS,St. Lawrence Saints,2pmi,To Basket,Troy McPherson,PNR,Right,Off,Chris Downs Jr.,P&R Roll Man,Left,Pop,UNKNOWN,Liberty League,54,1.0,2024-12-30
+54,CLA,SLS,St. Lawrence Saints,2pmi,To Basket,Chris Downs Jr.,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,55,1.0,2024-12-30
+56,CLA,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,57,4.0,2024-12-30
+57,CLA,SLS,Clark MA Cougars,3pmi,No Dribble Jumper,Quentin Pridgen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,58,4.0,2024-12-30
+58,CLA,SLS,St. Lawrence Saints,Turnover,N/A,Aiden Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,59,1.0,2024-12-30
+59,CLA,SLS,Clark MA Cougars,3pmi,Dribble Jumper,Isaiah Taylor,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,60,4.0,2024-12-30
+60,CLA,SLS,,Foul,N/A,Andrew Cowan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,61,1.0,2024-12-30
+63,CLA,SLS,Clark MA Cougars,3pmi,No Dribble Jumper,Reid Neumann,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,64,4.0,2024-12-30
+64,CLA,SLS,St. Lawrence Saints,2pmi,To Basket,Aiden Macaulay,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,65,1.0,2024-12-30
+65,CLA,SLS,Clark MA Cougars,2pmi,To Basket,Kekoa Mcardle,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,66,1.0,2024-12-30
+67,CLA,SLS,Clark MA Cougars,3pMa,No Dribble Jumper,Ian Calabrese,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,68,4.0,2024-12-30
+68,CLA,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,69,4.0,2024-12-30
+70,CLA,SLS,Clark MA Cougars,Turnover,To Basket,Kekoa Mcardle,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,71,1.0,2024-12-30
+71,CLA,SLS,St. Lawrence Saints,2pMa,To Basket,Dan Anderson,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,72,1.0,2024-12-30
+72,CLA,SLS,Clark MA Cougars,3pmi,No Dribble Jumper,Ian Calabrese,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,73,4.0,2024-12-30
+73,CLA,SLS,,Foul,N/A,Adam Dudzinski,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,74,1.0,2024-12-30
+76,CLA,SLS,Clark MA Cougars,3pmi,No Dribble Jumper,Reid Neumann,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,77,4.0,2024-12-30
+78,CLA,SLS,Clark MA Cougars,3pMa,No Dribble Jumper,Reid Neumann,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,79,4.0,2024-12-30
+79,CLA,SLS,St. Lawrence Saints,Turnover,N/A,Dan Anderson,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,80,1.0,2024-12-30
+80,CLA,SLS,Clark MA Cougars,2pmi,Dribble Jumper,Isaiah Taylor,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,81,2.0,2024-12-30
+81,CLA,SLS,St. Lawrence Saints,2pMa,Dribble Jumper,Aiden Macaulay,PNR,High,Off,Trey Syroka,Spot Ups,Left,Drive,UNKNOWN,Liberty League,82,2.0,2024-12-30
+82,CLA,SLS,Clark MA Cougars,2pmi,To Basket,Kekoa Mcardle,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,83,1.0,2024-12-30
+83,CLA,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Andrew Cowan,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,84,3.0,2024-12-30
+84,CLA,SLS,Clark MA Cougars,2pmi,To Basket,Jordan Richard,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,85,1.0,2024-12-30
+86,CLA,SLS,St. Lawrence Saints,Foul,N/A,Chris Downs Jr.,Post,Right,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,87,1.0,2024-12-30
+88,CLA,SLS,Clark MA Cougars,3pmi,No Dribble Jumper,Reid Neumann,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,89,4.0,2024-12-30
+90,CLA,SLS,St. Lawrence Saints,2pMa,To Basket,Chris Downs Jr.,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,91,1.0,2024-12-30
+92,CLA,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Aiden Macaulay,PNR,High,Off,Adam Dudzinski,Spot Ups,Left,Drive,UNKNOWN,Liberty League,93,2.0,2024-12-30
+94,CLA,SLS,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,Iso,Right,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,95,1.0,2024-12-30
+96,CLA,SLS,Clark MA Cougars,Turnover,N/A,Isaiah Taylor,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,97,1.0,2024-12-30
+98,CLA,SLS,Clark MA Cougars,3pmi,No Dribble Jumper,Isaiah Taylor,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,99,4.0,2024-12-30
+100,CLA,SLS,Clark MA Cougars,3pMa,No Dribble Jumper,Jordan Richard,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,101,4.0,2024-12-30
+103,CLA,SLS,St. Lawrence Saints,2pMa,To Basket,Gavin Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,104,1.0,2024-12-30
+104,CLA,SLS,Clark MA Cougars,2pmi,To Basket,Reid Neumann,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,105,1.0,2024-12-30
+105,CLA,SLS,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,106,1.0,2024-12-30
+106,CLA,SLS,Clark MA Cougars,2pmi,To Basket,Kekoa Mcardle,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,107,1.0,2024-12-30
+107,CLA,SLS,Clark MA Cougars,2pmi,To Basket,Isaiah Taylor,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,108,1.0,2024-12-30
+108,CLA,SLS,St. Lawrence Saints,Turnover,To Basket,Trey Syroka,PNR,Right,Away,Andrew Cowan,P&R Roll Man,N/A,Roll,UNKNOWN,Liberty League,109,1.0,2024-12-30
+111,CLA,SLS,Clark MA Cougars,2pmi,To Basket,Bruce Saintilus,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,112,1.0,2024-12-30
+112,CLA,SLS,Clark MA Cougars,2pMa,To Basket,Quentin Pridgen,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,113,1.0,2024-12-30
+113,CLA,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Trey Syroka,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,114,4.0,2024-12-30
+115,CLA,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Trey Syroka,PNR,Left,Off,Troy McPherson,Spot Ups,Right,Drive,UNKNOWN,Liberty League,116,2.0,2024-12-30
+117,CLA,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Trey Syroka,Iso,Right,N/A,Gavin Macaulay,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,118,4.0,2024-12-30
+120,CLA,SLS,Clark MA Cougars,3pMa,No Dribble Jumper,Jordan Richard,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,121,4.0,2024-12-30
+121,CLA,SLS,St. Lawrence Saints,2pMa,To Basket,Trey Syroka,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,122,1.0,2024-12-30
+123,CLA,SLS,Clark MA Cougars,3pMa,Dribble Jumper,Ian Calabrese,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,124,4.0,2024-12-30
+124,CLA,SLS,St. Lawrence Saints,Turnover,N/A,Gavin Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,125,1.0,2024-12-30
+125,CLA,SLS,St. Lawrence Saints,Turnover,N/A,Aiden Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,126,1.0,2024-12-30
+126,CLA,SLS,Clark MA Cougars,Turnover,N/A,Boluwasefe John,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,127,1.0,2024-12-30
+127,CLA,SLS,St. Lawrence Saints,2pMa,To Basket,Aiden Macaulay,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,128,1.0,2024-12-30
+128,CLA,SLS,Clark MA Cougars,3pmi,No Dribble Jumper,Ian Calabrese,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,129,4.0,2024-12-30
+129,CLA,SLS,St. Lawrence Saints,Foul,To Basket,Troy McPherson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,130,1.0,2024-12-30
+132,CLA,SLS,Clark MA Cougars,Turnover,N/A,Bruce Saintilus,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,133,1.0,2024-12-30
+133,CLA,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Troy McPherson,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,134,4.0,2024-12-30
+135,CLA,SLS,Clark MA Cougars,2pmi,To Basket,Reid Neumann,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,136,1.0,2024-12-30
+136,CLA,SLS,Clark MA Cougars,2pMa,To Basket,Quentin Pridgen,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,137,1.0,2024-12-30
+137,CLA,SLS,St. Lawrence Saints,2pmi,To Basket,Troy McPherson,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,138,1.0,2024-12-30
+138,CLA,SLS,St. Lawrence Saints,Foul,To Basket,Troy McPherson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,139,1.0,2024-12-30
+141,CLA,SLS,Clark MA Cougars,Turnover,N/A,Isaiah Taylor,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,142,1.0,2024-12-30
+142,CLA,SLS,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,143,1.0,2024-12-30
+143,CLA,SLS,Clark MA Cougars,Turnover,N/A,Jordan Richard,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,144,1.0,2024-12-30
+144,CLA,SLS,St. Lawrence Saints,2pMa,To Basket,Troy McPherson,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,145,1.0,2024-12-30
+145,CLA,SLS,Clark MA Cougars,3pmi,No Dribble Jumper,Isaiah Taylor,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,146,4.0,2024-12-30
+147,CLA,SLS,Clark MA Cougars,Turnover,N/A,Christophere Clarke,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,148,1.0,2024-12-30
+148,CLA,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Aiden Macaulay,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,149,2.0,2024-12-30
+149,CLA,SLS,Clark MA Cougars,3pmi,No Dribble Jumper,Reid Neumann,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,150,4.0,2024-12-30
+151,CLA,SLS,Clark MA Cougars,3pmi,No Dribble Jumper,Jordan Richard,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,152,4.0,2024-12-30
+153,CLA,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Trey Syroka,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,154,2.0,2024-12-30
+154,CLA,SLS,St. Lawrence Saints,2pmi,To Basket,Chris Downs Jr.,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,155,2.0,2024-12-30
+155,CLA,SLS,Clark MA Cougars,Turnover,N/A,Isaiah Taylor,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,156,1.0,2024-12-30
+156,CLA,SLS,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,157,1.0,2024-12-30
+157,CLA,SLS,St. Lawrence Saints,Foul,To Basket,Adam Dudzinski,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,158,1.0,2024-12-30
+160,CLA,SLS,St. Lawrence Saints,2pmi,To Basket,Gavin Macaulay,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,161,1.0,2024-12-30
+161,CLA,SLS,Clark MA Cougars,Turnover,N/A,Isaiah Taylor,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,162,1.0,2024-12-30
+162,CLA,SLS,St. Lawrence Saints,2pMa,To Basket,Chris Downs Jr.,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,163,1.0,2024-12-30
+163,CLA,SLS,Clark MA Cougars,3pMa,No Dribble Jumper,Isaiah Taylor,PNR,High,Away,Reid Neumann,P&R Roll Man,N/A,Pop,UNKNOWN,Liberty League,164,4.0,2024-12-30
+165,CLA,SLS,St. Lawrence Saints,And1,To Basket,Gavin Macaulay,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,166,1.0,2024-12-30
+168,CLA,SLS,Clark MA Cougars,3pmi,No Dribble Jumper,Quentin Pridgen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,169,4.0,2024-12-30
+169,CLA,SLS,Clark MA Cougars,3pMa,No Dribble Jumper,Reid Neumann,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,170,4.0,2024-12-30
+170,CLA,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Adam Dudzinski,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,171,4.0,2024-12-30
+171,CLA,SLS,Clark MA Cougars,3pmi,No Dribble Jumper,Ian Calabrese,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,172,4.0,2024-12-30
+173,CLA,SLS,Clark MA Cougars,Foul,To Basket,Boluwasefe John,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,174,1.0,2024-12-30
+178,CLA,SLS,St. Lawrence Saints,Foul,N/A,Andrew Cowan,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,179,1.0,2024-12-30
+182,CLA,SLS,Clark MA Cougars,Foul,To Basket,Ian Calabrese,Hand Offs,Left,Stationary,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,183,1.0,2024-12-30
+185,CLA,SLS,St. Lawrence Saints,Foul,To Basket,Adam Dudzinski,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,186,1.0,2024-12-30
+188,CLA,SLS,Clark MA Cougars,Foul,To Basket,Isaiah Taylor,PNR,Right,Off,Bruce Saintilus,Cuts,N/A,Basket,UNKNOWN,Liberty League,189,1.0,2024-12-30
+191,CLA,SLS,St. Lawrence Saints,Turnover,N/A,Dan Anderson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,192,1.0,2024-12-30
+192,CLA,SLS,Clark MA Cougars,2pMa,To Basket,Isaiah Taylor,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,193,1.0,2024-12-30
+193,CLA,SLS,St. Lawrence Saints,2pMa,To Basket,Troy McPherson,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,194,1.0,2024-12-30
+194,CLA,SLS,Clark MA Cougars,Turnover,N/A,Isaiah Taylor,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,195,1.0,2024-12-30
+195,CLA,SLS,St. Lawrence Saints,Turnover,To Basket,Troy McPherson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,196,1.0,2024-12-30
+196,CLA,SLS,Clark MA Cougars,Foul,To Basket,Isaiah Taylor,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,197,1.0,2024-12-30
+199,CLA,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Andrew Cowan,Post,Right,Right Shoulder,Dan Anderson,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,200,4.0,2024-12-30
+200,CLA,SLS,Clark MA Cougars,3pmi,Dribble Jumper,Kyle Squires,PNR,High,Off,Isaiah Taylor,Spot Ups,Left,Drive,UNKNOWN,Liberty League,201,4.0,2024-12-30
+203,CLA,SLS,Clark MA Cougars,3pmi,No Dribble Jumper,Reid Neumann,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,204,4.0,2024-12-30
+204,CLA,SLS,Clark MA Cougars,Turnover,N/A,Jordan Richard,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,205,1.0,2024-12-30
+206,CLA,SLS,,Foul,N/A,Aiden Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,207,1.0,2024-12-30
+208,CLA,SLS,Clark MA Cougars,3pmi,Dribble Jumper,Isaiah Taylor,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,209,4.0,2024-12-30
+209,CLA,SLS,,Foul,N/A,Adam Dudzinski,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,210,1.0,2024-12-30
+212,CLA,SLS,Clark MA Cougars,3pmi,No Dribble Jumper,Isaiah Taylor,PNR,Left,Away,Bruce Saintilus,P&R Roll Man,N/A,Pop,UNKNOWN,Liberty League,213,4.0,2024-12-30
+213,CLA,SLS,,Foul,N/A,Adam Dudzinski,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,214,1.0,2024-12-30
+216,CLA,SLS,Clark MA Cougars,Turnover,N/A,Isaiah Taylor,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,217,1.0,2024-12-30

@@ -1,0 +1,161 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,SCD,VC,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Gaige Armbrewster,PNR,Right,N/A,Kendall Arcuri,Spot Ups,N/A,Shot,SUNYAC,Liberty League,1,4.0,2025-01-04
+1,SCD,VC,Vassar Brewers,2pmi,To Basket,Sebastian Medina,Post,Left,Left Shoulder,Nathan Denham,Cuts,N/A,Flash,SUNYAC,Liberty League,2,1.0,2025-01-04
+2,SCD,VC,Vassar Brewers,Turnover,N/A,Nathan Denham,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,3,1.0,2025-01-04
+3,SCD,VC,SUNY Cortland Dragons,2pmi,To Basket,Gerrad Beaubrun,Iso,Left,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,4,1.0,2025-01-04
+4,SCD,VC,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,PNR,High,Off,Shea Fitzgerald,Spot Ups,N/A,Shot,SUNYAC,Liberty League,5,4.0,2025-01-04
+6,SCD,VC,SUNY Cortland Dragons,2pmi,Dribble Jumper,Kendall Arcuri,Post,Right,Right Shoulder,Isaiah Austin,Spot Ups,Right,Drive,SUNYAC,Liberty League,7,3.0,2025-01-04
+7,SCD,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,8,1.0,2025-01-04
+8,SCD,VC,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Gaige Armbrewster,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,9,4.0,2025-01-04
+9,SCD,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,Post,Middle,Dribble,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,10,1.0,2025-01-04
+11,SCD,VC,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Kendall Arcuri,PNR,Right,Off,Isaiah Austin,Spot Ups,N/A,Shot,SUNYAC,Liberty League,12,4.0,2025-01-04
+12,SCD,VC,Vassar Brewers,Turnover,N/A,Kreekor Karageuzian,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,13,1.0,2025-01-04
+13,SCD,VC,SUNY Cortland Dragons,And1,To Basket,Kendall Arcuri,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,14,1.0,2025-01-04
+15,SCD,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,PNR,High,Off,Luke Adams,Spot Ups,Left,Drive,SUNYAC,Liberty League,16,1.0,2025-01-04
+16,SCD,VC,SUNY Cortland Dragons,2pMa,Dribble Jumper,Isaiah Austin,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,17,3.0,2025-01-04
+17,SCD,VC,Vassar Brewers,2pmi,To Basket,JP Miranda,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,18,1.0,2025-01-04
+18,SCD,VC,SUNY Cortland Dragons,Turnover,N/A,Isaiah Austin,PNR,Left,Off,Gerrad Beaubrun,Spot Ups,Right,Drive,SUNYAC,Liberty League,19,1.0,2025-01-04
+19,SCD,VC,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,20,4.0,2025-01-04
+21,SCD,VC,SUNY Cortland Dragons,2pmi,Dribble Jumper,Gerrad Beaubrun,PNR,Right,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,22,2.0,2025-01-04
+22,SCD,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,PNR,Right,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,23,1.0,2025-01-04
+25,SCD,VC,SUNY Cortland Dragons,2pmi,To Basket,Kendall Arcuri,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,26,1.0,2025-01-04
+27,SCD,VC,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,28,4.0,2025-01-04
+28,SCD,VC,SUNY Cortland Dragons,2pMa,To Basket,Gerrad Beaubrun,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,29,1.0,2025-01-04
+29,SCD,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,PNR,High,Away,JP Miranda,Spot Ups,N/A,Shot,SUNYAC,Liberty League,30,4.0,2025-01-04
+30,SCD,VC,SUNY Cortland Dragons,2pMa,N/A,Kendall Arcuri,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,31,1.0,2025-01-04
+31,SCD,VC,Vassar Brewers,2pMa,To Basket,JP Miranda,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,32,1.0,2025-01-04
+32,SCD,VC,SUNY Cortland Dragons,2pMa,Dribble Jumper,Gerrad Beaubrun,Iso,Right,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,33,3.0,2025-01-04
+33,SCD,VC,Vassar Brewers,2pmi,Dribble Jumper,Shea Fitzgerald,PNR,High,Off,Alex Walters,Spot Ups,Right,Drive,SUNYAC,Liberty League,34,2.0,2025-01-04
+34,SCD,VC,SUNY Cortland Dragons,2pMa,To Basket,Kendall Arcuri,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,35,1.0,2025-01-04
+35,SCD,VC,Vassar Brewers,,N/A,Alex Walters,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,36,1.0,2025-01-04
+36,SCD,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,PNR,Left,Away,Shea Fitzgerald,Spot Ups,N/A,Shot,SUNYAC,Liberty League,37,4.0,2025-01-04
+38,SCD,VC,SUNY Cortland Dragons,2pmi,N/A,Kendall Arcuri,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,39,1.0,2025-01-04
+39,SCD,VC,SUNY Cortland Dragons,2pmi,To Basket,Joel Davis,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,40,1.0,2025-01-04
+41,SCD,VC,SUNY Cortland Dragons,Turnover,N/A,Jaylen Warmack,Iso,Top,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,42,1.0,2025-01-04
+42,SCD,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,PNR,Left,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,43,1.0,2025-01-04
+43,SCD,VC,SUNY Cortland Dragons,2pMa,To Basket,Jaylen Warmack,PNR,Left,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,44,1.0,2025-01-04
+44,SCD,VC,Vassar Brewers,2pMa,To Basket,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,45,1.0,2025-01-04
+45,SCD,VC,SUNY Cortland Dragons,Foul,To Basket,Joel Davis,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,46,1.0,2025-01-04
+48,SCD,VC,Vassar Brewers,Foul,To Basket,Kreekor Karageuzian,PNR,Left,Off,Luke Adams,Cuts,N/A,Basket,SUNYAC,Liberty League,49,1.0,2025-01-04
+51,SCD,VC,SUNY Cortland Dragons,2pMa,To Basket,Jaylen Warmack,PNR,Right,Off,Joel Davis,Cuts,N/A,Basket,SUNYAC,Liberty League,52,1.0,2025-01-04
+52,SCD,VC,Vassar Brewers,3pmi,No Dribble Jumper,Sacha Greenberg,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,53,4.0,2025-01-04
+53,SCD,VC,SUNY Cortland Dragons,3pmi,Dribble Jumper,Jaylen Warmack,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,54,4.0,2025-01-04
+54,SCD,VC,Vassar Brewers,Foul,To Basket,JP Miranda,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,55,1.0,2025-01-04
+57,SCD,VC,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Joel Davis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,58,4.0,2025-01-04
+58,SCD,VC,Vassar Brewers,2pMa,To Basket,Eric Zhang,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,59,1.0,2025-01-04
+59,SCD,VC,SUNY Cortland Dragons,Turnover,N/A,Chris Mcdonald,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,60,1.0,2025-01-04
+60,SCD,VC,Vassar Brewers,3pMa,No Dribble Jumper,Alex Walters,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,61,4.0,2025-01-04
+61,SCD,VC,SUNY Cortland Dragons,2pMa,To Basket,Joel Davis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,62,1.0,2025-01-04
+63,SCD,VC,Vassar Brewers,2pMa,To Basket,Avery Lee,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,64,1.0,2025-01-04
+64,SCD,VC,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,Post,Left,Right Shoulder,Kendrick Wilson,Spot Ups,N/A,Shot,SUNYAC,Liberty League,65,4.0,2025-01-04
+65,SCD,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,PNR,High,Away,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,66,1.0,2025-01-04
+67,SCD,VC,Vassar Brewers,Turnover,To Basket,JP Miranda,Cuts,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,68,1.0,2025-01-04
+68,SCD,VC,SUNY Cortland Dragons,Foul,To Basket,Kendall Arcuri,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,69,1.0,2025-01-04
+71,SCD,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,72,4.0,2025-01-04
+73,SCD,VC,Vassar Brewers,2pMa,To Basket,Kreekor Karageuzian,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,74,1.0,2025-01-04
+74,SCD,VC,SUNY Cortland Dragons,Turnover,N/A,Jaylen Warmack,PNR,Left,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,75,1.0,2025-01-04
+75,SCD,VC,Vassar Brewers,2pMa,To Basket,Eric Zhang,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,76,1.0,2025-01-04
+76,SCD,VC,SUNY Cortland Dragons,2pMa,To Basket,Joel Davis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,77,1.0,2025-01-04
+77,SCD,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,78,1.0,2025-01-04
+78,SCD,VC,SUNY Cortland Dragons,2pMa,To Basket,Joel Davis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,79,1.0,2025-01-04
+79,SCD,VC,Vassar Brewers,2pMa,Dribble Jumper,Avery Lee,Iso,Top,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,80,2.0,2025-01-04
+80,SCD,VC,SUNY Cortland Dragons,2pMa,Dribble Jumper,Kendall Arcuri,Iso,Top,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,81,2.0,2025-01-04
+81,SCD,VC,Vassar Brewers,2pmi,Dribble Jumper,Shea Fitzgerald,PNR,High,Off,Avery Lee,Spot Ups,Left,Drive,SUNYAC,Liberty League,82,2.0,2025-01-04
+82,SCD,VC,SUNY Cortland Dragons,Foul,N/A,Jaylen Warmack,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,83,1.0,2025-01-04
+86,SCD,VC,Vassar Brewers,3pmi,Dribble Jumper,Eric Zhang,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,87,4.0,2025-01-04
+87,SCD,VC,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,Post,Right,Right Shoulder,Joel Davis,Spot Ups,N/A,Shot,SUNYAC,Liberty League,88,4.0,2025-01-04
+89,SCD,VC,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Gerrad Beaubrun,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,90,4.0,2025-01-04
+90,SCD,VC,Vassar Brewers,3pMa,No Dribble Jumper,Shea Fitzgerald,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,91,4.0,2025-01-04
+91,SCD,VC,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,92,4.0,2025-01-04
+92,SCD,VC,SUNY Cortland Dragons,2pMa,To Basket,Joel Davis,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,93,1.0,2025-01-04
+93,SCD,VC,Vassar Brewers,2pMa,Dribble Jumper,Shea Fitzgerald,PNR,Right,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,94,2.0,2025-01-04
+94,SCD,VC,SUNY Cortland Dragons,Foul,N/A,Jaylen Warmack,PNR,High,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,95,1.0,2025-01-04
+97,SCD,VC,SUNY Cortland Dragons,2pmi,To Basket,Jaylen Warmack,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,98,1.0,2025-01-04
+98,SCD,VC,Vassar Brewers,2pmi,N/A,Shea Fitzgerald,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,99,1.0,2025-01-04
+99,SCD,VC,SUNY Cortland Dragons,Turnover,N/A,Kendall Arcuri,PNR,Left,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,100,1.0,2025-01-04
+100,SCD,VC,Vassar Brewers,Turnover,N/A,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,101,1.0,2025-01-04
+101,SCD,VC,SUNY Cortland Dragons,2pmi,To Basket,Jaylen Warmack,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,102,1.0,2025-01-04
+102,SCD,VC,Vassar Brewers,2pMa,Dribble Jumper,Avery Lee,PNR,Left,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,103,2.0,2025-01-04
+104,SCD,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,105,1.0,2025-01-04
+105,SCD,VC,SUNY Cortland Dragons,2pMa,To Basket,Kendall Arcuri,PNR,High,Off,Chris Mcdonald,Spot Ups,Left,Drive,SUNYAC,Liberty League,106,1.0,2025-01-04
+106,SCD,VC,Vassar Brewers,2pMa,Dribble Jumper,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,107,2.0,2025-01-04
+107,SCD,VC,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Gaige Armbrewster,PNR,High,Off,Isaiah Austin,Spot Ups,N/A,Shot,SUNYAC,Liberty League,108,4.0,2025-01-04
+108,SCD,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,PNR,Right,Off,Sebastian Medina,P&R Roll Man,N/A,Slips,SUNYAC,Liberty League,109,1.0,2025-01-04
+111,SCD,VC,SUNY Cortland Dragons,Turnover,N/A,Gerrad Beaubrun,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,112,1.0,2025-01-04
+112,SCD,VC,Vassar Brewers,2pMa,To Basket,Sebastian Medina,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,113,1.0,2025-01-04
+113,SCD,VC,SUNY Cortland Dragons,2pMa,To Basket,Kendall Arcuri,Iso,Right,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,114,1.0,2025-01-04
+114,SCD,VC,Vassar Brewers,2pMa,To Basket,Avery Lee,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,115,1.0,2025-01-04
+115,SCD,VC,SUNY Cortland Dragons,2pmi,To Basket,Gerrad Beaubrun,PNR,High,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,116,1.0,2025-01-04
+116,SCD,VC,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,117,4.0,2025-01-04
+117,SCD,VC,SUNY Cortland Dragons,2pmi,To Basket,Kendall Arcuri,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,118,1.0,2025-01-04
+118,SCD,VC,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Isaiah Austin,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,119,4.0,2025-01-04
+119,SCD,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,120,4.0,2025-01-04
+120,SCD,VC,Vassar Brewers,2pMa,To Basket,Kreekor Karageuzian,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,121,1.0,2025-01-04
+121,SCD,VC,SUNY Cortland Dragons,Foul,To Basket,Jaylen Warmack,PNR,High,Off,Chris Mcdonald,P&R Roll Man,N/A,Roll,SUNYAC,Liberty League,122,1.0,2025-01-04
+124,SCD,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,125,1.0,2025-01-04
+125,SCD,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,126,4.0,2025-01-04
+127,SCD,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,PNR,Right,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,128,1.0,2025-01-04
+128,SCD,VC,SUNY Cortland Dragons,2pmi,Dribble Jumper,Joel Davis,Iso,Left,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,129,3.0,2025-01-04
+129,SCD,VC,Vassar Brewers,3pMa,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,130,4.0,2025-01-04
+130,SCD,VC,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,131,4.0,2025-01-04
+131,SCD,VC,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,Iso,Right,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,132,2.0,2025-01-04
+132,SCD,VC,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Gaige Armbrewster,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,133,4.0,2025-01-04
+133,SCD,VC,Vassar Brewers,2pMa,Dribble Jumper,Eric Zhang,PNR,Right,Away,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,134,2.0,2025-01-04
+134,SCD,VC,SUNY Cortland Dragons,Foul,To Basket,Kendall Arcuri,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,135,1.0,2025-01-04
+137,SCD,VC,Vassar Brewers,Turnover,N/A,JP Miranda,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,138,1.0,2025-01-04
+138,SCD,VC,SUNY Cortland Dragons,2pmi,No Dribble Jumper,Jaylen Warmack,Post,Left,Right Shoulder,Joel Davis,Spot Ups,N/A,Shot,SUNYAC,Liberty League,139,3.0,2025-01-04
+140,SCD,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,141,1.0,2025-01-04
+143,SCD,VC,SUNY Cortland Dragons,2pmi,To Basket,Kendrick Wilson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,144,1.0,2025-01-04
+144,SCD,VC,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,145,4.0,2025-01-04
+145,SCD,VC,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Gaige Armbrewster,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,146,4.0,2025-01-04
+147,SCD,VC,Vassar Brewers,2pmi,N/A,JP Miranda,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,148,1.0,2025-01-04
+148,SCD,VC,Vassar Brewers,And1,To Basket,Nathan Denham,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,149,1.0,2025-01-04
+150,SCD,VC,SUNY Cortland Dragons,Turnover,N/A,Joel Davis,Iso,Top,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,151,1.0,2025-01-04
+151,SCD,VC,Vassar Brewers,2pmi,Dribble Jumper,Shea Fitzgerald,Iso,Top,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,152,2.0,2025-01-04
+153,SCD,VC,Vassar Brewers,Turnover,N/A,Nathan Denham,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,154,1.0,2025-01-04
+154,SCD,VC,SUNY Cortland Dragons,Foul,To Basket,Kendrick Wilson,Iso,Right,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,155,1.0,2025-01-04
+157,SCD,VC,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,PNR,Left,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,158,3.0,2025-01-04
+158,SCD,VC,Vassar Brewers,Turnover,N/A,Nathan Denham,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,159,1.0,2025-01-04
+159,SCD,VC,SUNY Cortland Dragons,2pmi,Dribble Jumper,Kendall Arcuri,Iso,Top,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,160,2.0,2025-01-04
+160,SCD,VC,SUNY Cortland Dragons,2pmi,To Basket,Jaylen Warmack,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,161,1.0,2025-01-04
+161,SCD,VC,SUNY Cortland Dragons,Foul,To Basket,Kendrick Wilson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,162,1.0,2025-01-04
+164,SCD,VC,Vassar Brewers,2pMa,To Basket,Sacha Greenberg,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,165,1.0,2025-01-04
+165,SCD,VC,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Joel Davis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,166,4.0,2025-01-04
+166,SCD,VC,Vassar Brewers,Turnover,N/A,Kreekor Karageuzian,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,167,1.0,2025-01-04
+168,SCD,VC,SUNY Cortland Dragons,Turnover,N/A,Gaige Armbrewster,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,169,1.0,2025-01-04
+169,SCD,VC,Vassar Brewers,2pMa,To Basket,Kreekor Karageuzian,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,170,1.0,2025-01-04
+170,SCD,VC,SUNY Cortland Dragons,2pMa,To Basket,Jaylen Warmack,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,171,1.0,2025-01-04
+171,SCD,VC,Vassar Brewers,2pmi,Dribble Jumper,Shea Fitzgerald,PNR,Right,Away,Eric Zhang,Spot Ups,Left,Drive,SUNYAC,Liberty League,172,2.0,2025-01-04
+172,SCD,VC,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Gaige Armbrewster,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,173,4.0,2025-01-04
+173,SCD,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,174,1.0,2025-01-04
+176,SCD,VC,SUNY Cortland Dragons,2pmi,To Basket,Kendrick Wilson,PNR,Right,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,177,1.0,2025-01-04
+177,SCD,VC,SUNY Cortland Dragons,Turnover,N/A,Jaylen Warmack,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,178,1.0,2025-01-04
+178,SCD,VC,Vassar Brewers,2pMa,To Basket,Sebastian Medina,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,179,1.0,2025-01-04
+179,SCD,VC,SUNY Cortland Dragons,2pMa,To Basket,Kendrick Wilson,PNR,Right,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,180,1.0,2025-01-04
+180,SCD,VC,Vassar Brewers,2pMa,To Basket,Avery Lee,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,181,1.0,2025-01-04
+181,SCD,VC,SUNY Cortland Dragons,2pmi,Dribble Jumper,Joel Davis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,182,2.0,2025-01-04
+183,SCD,VC,SUNY Cortland Dragons,Turnover,N/A,Kendrick Wilson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,184,1.0,2025-01-04
+185,SCD,VC,Vassar Brewers,Turnover,N/A,Avery Lee,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,186,1.0,2025-01-04
+186,SCD,VC,,Foul,N/A,Joel Davis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,187,1.0,2025-01-04
+189,SCD,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Post,Right,Right Shoulder,Shea Fitzgerald,Spot Ups,N/A,Shot,SUNYAC,Liberty League,190,4.0,2025-01-04
+190,SCD,VC,SUNY Cortland Dragons,2pMa,N/A,Joel Davis,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,191,1.0,2025-01-04
+191,SCD,VC,Vassar Brewers,And1,Drop Step,Shea Fitzgerald,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,192,1.0,2025-01-04
+193,SCD,VC,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Joel Davis,Post,Left,Left Shoulder,Gaige Armbrewster,Spot Ups,N/A,Shot,SUNYAC,Liberty League,194,4.0,2025-01-04
+195,SCD,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,Iso,Top,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,196,1.0,2025-01-04
+198,SCD,VC,SUNY Cortland Dragons,2pmi,Drop Step,Kendall Arcuri,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,199,1.0,2025-01-04
+199,SCD,VC,,Foul,N/A,Shea Fitzgerald,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,200,1.0,2025-01-04
+202,SCD,VC,SUNY Cortland Dragons,3pMa,No Dribble Jumper,Jaylen Warmack,Post,Right,Right Shoulder,Joel Davis,Spot Ups,N/A,Shot,SUNYAC,Liberty League,203,4.0,2025-01-04
+203,SCD,VC,Vassar Brewers,2pmi,Dribble Jumper,Shea Fitzgerald,PNR,High,N/A,Avery Lee,Spot Ups,Right,Drive,SUNYAC,Liberty League,204,3.0,2025-01-04
+204,SCD,VC,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Gaige Armbrewster,PNR,Left,Away,Kendall Arcuri,P&R Roll Man,N/A,Pop,SUNYAC,Liberty League,205,4.0,2025-01-04
+205,SCD,VC,Vassar Brewers,Foul,N/A,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,206,1.0,2025-01-04
+208,SCD,VC,SUNY Cortland Dragons,Foul,N/A,Kendrick Wilson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,209,1.0,2025-01-04
+211,SCD,VC,,Foul,N/A,Shea Fitzgerald,Misc,N/A,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,212,1.0,2025-01-04
+214,SCD,VC,SUNY Cortland Dragons,3pmi,No Dribble Jumper,Kendall Arcuri,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,215,4.0,2025-01-04
+215,SCD,VC,Vassar Brewers,Foul,N/A,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,216,1.0,2025-01-04
+218,SCD,VC,SUNY Cortland Dragons,Foul,N/A,Jaylen Warmack,Iso,Top,N/A,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,219,1.0,2025-01-04
+221,SCD,VC,Vassar Brewers,Turnover,N/A,Collin France,PNR,Left,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,222,1.0,2025-01-04
+222,SCD,VC,SUNY Cortland Dragons,2pMa,To Basket,Gavyn Pacheco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,223,1.0,2025-01-04
+223,SCD,VC,Vassar Brewers,2pMa,Dribble Jumper,Sacha Greenberg,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,224,2.0,2025-01-04
+224,SCD,VC,SUNY Cortland Dragons,2pMa,To Basket,Gavyn Pacheco,PNR,High,Off,Chris Mcdonald,Cuts,N/A,Basket,SUNYAC,Liberty League,225,1.0,2025-01-04
+225,SCD,VC,Vassar Brewers,2pMa,To Basket,Sacha Greenberg,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,226,1.0,2025-01-04
+226,SCD,VC,SUNY Cortland Dragons,2pmi,Dribble Jumper,Federico Chiappa,PNR,Right,Off,N/A,N/A,N/A,N/A,SUNYAC,Liberty League,227,2.0,2025-01-04

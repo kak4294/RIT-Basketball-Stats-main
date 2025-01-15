@@ -1,0 +1,159 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,SMP,HOB,SUNY Maritime Privateers,2pMa,To Basket,Jake Murphy,PNR,Left,N/A,Jake Devaney,P&R Roll Man,N/A,Slips,UNKNOWN,Liberty League,1,1.0,2024-12-30
+1,SMP,HOB,Hobart College Statesmen,2pMa,Dribble Jumper,Alex Moesch,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,2,2.0,2024-12-30
+2,SMP,HOB,SUNY Maritime Privateers,2pMa,To Basket,Tyler Anderson,Iso,Right,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,3,1.0,2024-12-30
+3,SMP,HOB,Hobart College Statesmen,Turnover,N/A,Carter Meshanic,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,4,1.0,2024-12-30
+4,SMP,HOB,SUNY Maritime Privateers,3pmi,No Dribble Jumper,Theo Noble,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,5,4.0,2024-12-30
+5,SMP,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,6,4.0,2024-12-30
+7,SMP,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Hunter Meshanic,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,8,4.0,2024-12-30
+8,SMP,HOB,SUNY Maritime Privateers,3pmi,Dribble Jumper,Theo Noble,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,9,4.0,2024-12-30
+9,SMP,HOB,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,PNR,Left,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,10,1.0,2024-12-30
+10,SMP,HOB,SUNY Maritime Privateers,2pmi,Dribble Jumper,Theo Noble,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,11,2.0,2024-12-30
+11,SMP,HOB,SUNY Maritime Privateers,3pmi,Dribble Jumper,Tyler Anderson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,12,4.0,2024-12-30
+12,SMP,HOB,SUNY Maritime Privateers,2pmi,To Basket,Evan Block,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,13,1.0,2024-12-30
+14,SMP,HOB,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,15,1.0,2024-12-30
+15,SMP,HOB,SUNY Maritime Privateers,3pMa,No Dribble Jumper,Evan Block,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,16,4.0,2024-12-30
+16,SMP,HOB,Hobart College Statesmen,2pMa,To Basket,Hunter Meshanic,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,17,1.0,2024-12-30
+17,SMP,HOB,SUNY Maritime Privateers,Turnover,N/A,Tyler Anderson,PNR,Left,Off,Theo Noble,Spot Ups,Right,Drive,UNKNOWN,Liberty League,18,1.0,2024-12-30
+18,SMP,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,19,4.0,2024-12-30
+19,SMP,HOB,SUNY Maritime Privateers,2pMa,N/A,Jake Murphy,Post,Left,Face Up,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,20,1.0,2024-12-30
+20,SMP,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Aidan Rodgers,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,21,4.0,2024-12-30
+21,SMP,HOB,SUNY Maritime Privateers,2pmi,To Basket,Tyler Anderson,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,22,1.0,2024-12-30
+22,SMP,HOB,SUNY Maritime Privateers,Turnover,N/A,Jesse Tricario,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,23,1.0,2024-12-30
+23,SMP,HOB,Hobart College Statesmen,Turnover,N/A,Pat Healy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,24,1.0,2024-12-30
+24,SMP,HOB,SUNY Maritime Privateers,2pmi,To Basket,Amadou Kouyate,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,25,1.0,2024-12-30
+25,SMP,HOB,Hobart College Statesmen,2pMa,To Basket,Hunter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,26,1.0,2024-12-30
+26,SMP,HOB,SUNY Maritime Privateers,2pMa,To Basket,Tyler Anderson,PNR,High,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,27,1.0,2024-12-30
+27,SMP,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Pat Healy,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,28,2.0,2024-12-30
+28,SMP,HOB,SUNY Maritime Privateers,Turnover,N/A,Amadou Kouyate,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,29,1.0,2024-12-30
+29,SMP,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Pat Healy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,30,4.0,2024-12-30
+30,SMP,HOB,SUNY Maritime Privateers,3pmi,No Dribble Jumper,Tyler Anderson,PNR,High,Off,Jake Devaney,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,31,4.0,2024-12-30
+31,SMP,HOB,SUNY Maritime Privateers,2pmi,To Basket,Jesse Tricario,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,32,2.0,2024-12-30
+33,SMP,HOB,SUNY Maritime Privateers,3pmi,No Dribble Jumper,Tyler Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,34,4.0,2024-12-30
+34,SMP,HOB,SUNY Maritime Privateers,Turnover,N/A,Jake Devaney,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,35,1.0,2024-12-30
+35,SMP,HOB,Hobart College Statesmen,2pMa,To Basket,Dorian Paki,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,36,1.0,2024-12-30
+36,SMP,HOB,SUNY Maritime Privateers,Foul,To Basket,Tyler Anderson,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,37,1.0,2024-12-30
+39,SMP,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Monty Nedd,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,40,4.0,2024-12-30
+40,SMP,HOB,SUNY Maritime Privateers,Turnover,N/A,Jake Devaney,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,41,1.0,2024-12-30
+41,SMP,HOB,Hobart College Statesmen,3pmi,Dribble Jumper,Aidan Rodgers,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,42,4.0,2024-12-30
+43,SMP,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Carter Meshanic,Post,Left,Dribble,Allen Mordi,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,44,4.0,2024-12-30
+44,SMP,HOB,SUNY Maritime Privateers,Turnover,To Basket,Jake Devaney,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,45,1.0,2024-12-30
+45,SMP,HOB,Hobart College Statesmen,Turnover,N/A,Carter Meshanic,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,46,1.0,2024-12-30
+47,SMP,HOB,SUNY Maritime Privateers,3pmi,No Dribble Jumper,Theo Noble,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,48,4.0,2024-12-30
+49,SMP,HOB,SUNY Maritime Privateers,2pmi,To Basket,Jake Devaney,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,50,1.0,2024-12-30
+50,SMP,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,51,4.0,2024-12-30
+52,SMP,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Allen Mordi,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,53,3.0,2024-12-30
+53,SMP,HOB,SUNY Maritime Privateers,3pMa,No Dribble Jumper,Jake Murphy,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,54,4.0,2024-12-30
+54,SMP,HOB,Hobart College Statesmen,Turnover,N/A,Justin Price,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,55,1.0,2024-12-30
+55,SMP,HOB,SUNY Maritime Privateers,2pMa,To Basket,Jake Devaney,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,56,1.0,2024-12-30
+57,SMP,HOB,Hobart College Statesmen,Turnover,N/A,Justin Price,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,58,1.0,2024-12-30
+58,SMP,HOB,SUNY Maritime Privateers,Turnover,To Basket,Jake Murphy,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,59,1.0,2024-12-30
+59,SMP,HOB,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,60,1.0,2024-12-30
+60,SMP,HOB,SUNY Maritime Privateers,3pmi,No Dribble Jumper,James Oconnell,PNR,High,Away,Evan Block,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,61,4.0,2024-12-30
+62,SMP,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Gabriel Bergeron,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,63,4.0,2024-12-30
+63,SMP,HOB,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,64,1.0,2024-12-30
+64,SMP,HOB,Hobart College Statesmen,2pmi,To Basket,Niko Lutz,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,65,1.0,2024-12-30
+65,SMP,HOB,Hobart College Statesmen,2pMa,To Basket,Niko Lutz,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,66,1.0,2024-12-30
+66,SMP,HOB,SUNY Maritime Privateers,2pMa,To Basket,Jake Devaney,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,67,1.0,2024-12-30
+68,SMP,HOB,Hobart College Statesmen,Turnover,To Basket,Alex Moesch,Hand Offs,Left,Stationary,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,69,1.0,2024-12-30
+69,SMP,HOB,SUNY Maritime Privateers,2pMa,To Basket,Jake Murphy,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,70,1.0,2024-12-30
+70,SMP,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,71,4.0,2024-12-30
+72,SMP,HOB,SUNY Maritime Privateers,2pMa,To Basket,Tyler Anderson,PNR,High,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,73,1.0,2024-12-30
+73,SMP,HOB,Hobart College Statesmen,2pMa,To Basket,Pat Healy,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,74,1.0,2024-12-30
+74,SMP,HOB,SUNY Maritime Privateers,Turnover,N/A,Jake Devaney,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,75,1.0,2024-12-30
+75,SMP,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,76,1.0,2024-12-30
+76,SMP,HOB,SUNY Maritime Privateers,2pmi,To Basket,Jake Murphy,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,77,1.0,2024-12-30
+77,SMP,HOB,Hobart College Statesmen,2pMa,To Basket,Pat Healy,Iso,Left,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,78,1.0,2024-12-30
+78,SMP,HOB,SUNY Maritime Privateers,Turnover,N/A,Jake Murphy,PNR,High,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,79,1.0,2024-12-30
+79,SMP,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,80,4.0,2024-12-30
+80,SMP,HOB,Hobart College Statesmen,2pMa,To Basket,Alex Moesch,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,81,1.0,2024-12-30
+81,SMP,HOB,SUNY Maritime Privateers,3pmi,No Dribble Jumper,Jovan Germain,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,82,4.0,2024-12-30
+83,SMP,HOB,SUNY Maritime Privateers,2pMa,To Basket,Jovan Germain,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,84,1.0,2024-12-30
+84,SMP,HOB,Hobart College Statesmen,2pmi,To Basket,Alex Moesch,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,85,1.0,2024-12-30
+85,SMP,HOB,SUNY Maritime Privateers,2pmi,To Basket,Jovan Germain,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,86,1.0,2024-12-30
+86,SMP,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Pat Healy,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,87,4.0,2024-12-30
+87,SMP,HOB,SUNY Maritime Privateers,2pmi,Dribble Jumper,Tyler Anderson,PNR,High,Away,Theo Noble,Spot Ups,Right,Drive,UNKNOWN,Liberty League,88,2.0,2024-12-30
+88,SMP,HOB,Hobart College Statesmen,3pmi,Dribble Jumper,Aidan Rodgers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,89,4.0,2024-12-30
+89,SMP,HOB,SUNY Maritime Privateers,3pmi,No Dribble Jumper,Theo Noble,PNR,Left,Off,Jake Devaney,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,90,4.0,2024-12-30
+90,SMP,HOB,SUNY Maritime Privateers,2pmi,To Basket,Evan Block,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,91,1.0,2024-12-30
+91,SMP,HOB,SUNY Maritime Privateers,Foul,N/A,Evan Block,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,92,1.0,2024-12-30
+94,SMP,HOB,Hobart College Statesmen,Turnover,N/A,Pat Healy,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,95,1.0,2024-12-30
+95,SMP,HOB,SUNY Maritime Privateers,2pMa,To Basket,Tyler Anderson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,96,1.0,2024-12-30
+96,SMP,HOB,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,PNR,Left,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,97,1.0,2024-12-30
+98,SMP,HOB,SUNY Maritime Privateers,Turnover,N/A,Jake Murphy,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,99,1.0,2024-12-30
+99,SMP,HOB,Hobart College Statesmen,2pMa,To Basket,Pat Healy,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,100,1.0,2024-12-30
+100,SMP,HOB,SUNY Maritime Privateers,3pMa,No Dribble Jumper,Jake Devaney,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,101,4.0,2024-12-30
+101,SMP,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Aidan Rodgers,PNR,High,Away,Pat Healy,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,102,4.0,2024-12-30
+102,SMP,HOB,SUNY Maritime Privateers,2pmi,Dribble Jumper,Tyler Anderson,PNR,High,Off,Jake Murphy,Spot Ups,Right,Drive,UNKNOWN,Liberty League,103,2.0,2024-12-30
+103,SMP,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Carter Meshanic,Post,Right,N/A,Alex Moesch,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,104,4.0,2024-12-30
+104,SMP,HOB,SUNY Maritime Privateers,Turnover,To Basket,Jake Devaney,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,105,1.0,2024-12-30
+105,SMP,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,106,1.0,2024-12-30
+106,SMP,HOB,Hobart College Statesmen,Turnover,N/A,Pat Healy,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,107,1.0,2024-12-30
+107,SMP,HOB,SUNY Maritime Privateers,3pmi,No Dribble Jumper,Theo Noble,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,108,4.0,2024-12-30
+108,SMP,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Hunter Meshanic,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,109,4.0,2024-12-30
+110,SMP,HOB,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,111,1.0,2024-12-30
+111,SMP,HOB,SUNY Maritime Privateers,3pmi,No Dribble Jumper,Theo Noble,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,112,4.0,2024-12-30
+112,SMP,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,113,4.0,2024-12-30
+113,SMP,HOB,SUNY Maritime Privateers,2pMa,To Basket,Jake Devaney,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,114,1.0,2024-12-30
+114,SMP,HOB,Hobart College Statesmen,Turnover,N/A,Carter Meshanic,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,115,1.0,2024-12-30
+115,SMP,HOB,SUNY Maritime Privateers,3pmi,No Dribble Jumper,Jake Murphy,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,116,4.0,2024-12-30
+116,SMP,HOB,SUNY Maritime Privateers,3pMa,No Dribble Jumper,Jovan Germain,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,117,4.0,2024-12-30
+117,SMP,HOB,Hobart College Statesmen,2pMa,To Basket,Hunter Meshanic,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,118,1.0,2024-12-30
+118,SMP,HOB,SUNY Maritime Privateers,2pmi,To Basket,Jovan Germain,PNR,High,Off,Jesse Tricario,P&R Roll Man,N/A,Roll,UNKNOWN,Liberty League,119,1.0,2024-12-30
+120,SMP,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Aidan Rodgers,PNR,Left,Away,Alex Moesch,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,121,4.0,2024-12-30
+121,SMP,HOB,SUNY Maritime Privateers,2pmi,To Basket,Jesse Tricario,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,122,1.0,2024-12-30
+122,SMP,HOB,SUNY Maritime Privateers,3pmi,No Dribble Jumper,Jovan Germain,PNR,High,Off,Jake Devaney,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,123,4.0,2024-12-30
+123,SMP,HOB,Hobart College Statesmen,Turnover,N/A,Alex Moesch,PNR,Right,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,124,1.0,2024-12-30
+124,SMP,HOB,SUNY Maritime Privateers,3pmi,No Dribble Jumper,Amadou Kouyate,Post,Left,Left Shoulder,Evan Block,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,125,4.0,2024-12-30
+125,SMP,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Hunter Meshanic,Post,Left,Right Shoulder,Pat Healy,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,126,4.0,2024-12-30
+126,SMP,HOB,SUNY Maritime Privateers,3pmi,No Dribble Jumper,Jake Devaney,PNR,Right,Away,Jovan Germain,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,127,4.0,2024-12-30
+127,SMP,HOB,SUNY Maritime Privateers,2pMa,To Basket,Amadou Kouyate,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,128,1.0,2024-12-30
+128,SMP,HOB,Hobart College Statesmen,Turnover,N/A,Pat Healy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,129,1.0,2024-12-30
+129,SMP,HOB,SUNY Maritime Privateers,3pMa,No Dribble Jumper,Evan Block,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,130,4.0,2024-12-30
+130,SMP,HOB,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,PNR,High,Off,Hunter Meshanic,Spot Ups,Left,Drive,UNKNOWN,Liberty League,131,1.0,2024-12-30
+131,SMP,HOB,SUNY Maritime Privateers,Foul,To Basket,Jovan Germain,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,132,1.0,2024-12-30
+134,SMP,HOB,Hobart College Statesmen,Turnover,To Basket,Alex Moesch,PNR,High,Off,Dorian Paki,Cuts,N/A,Basket,UNKNOWN,Liberty League,135,1.0,2024-12-30
+135,SMP,HOB,SUNY Maritime Privateers,2pmi,To Basket,Jovan Germain,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,136,1.0,2024-12-30
+136,SMP,HOB,SUNY Maritime Privateers,2pMa,To Basket,Jake Devaney,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,137,1.0,2024-12-30
+137,SMP,HOB,Hobart College Statesmen,2pMa,To Basket,Hunter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,138,1.0,2024-12-30
+138,SMP,HOB,SUNY Maritime Privateers,2pmi,Dribble Jumper,Jovan Germain,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,139,3.0,2024-12-30
+140,SMP,HOB,SUNY Maritime Privateers,2pmi,Dribble Jumper,Tyler Anderson,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,141,2.0,2024-12-30
+141,SMP,HOB,SUNY Maritime Privateers,Turnover,N/A,Jovan Germain,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,142,1.0,2024-12-30
+142,SMP,HOB,Hobart College Statesmen,2pMa,To Basket,Allen Mordi,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,143,1.0,2024-12-30
+144,SMP,HOB,SUNY Maritime Privateers,3pMa,No Dribble Jumper,Tyler Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,145,4.0,2024-12-30
+145,SMP,HOB,Hobart College Statesmen,Foul,To Basket,Monty Nedd,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,146,1.0,2024-12-30
+149,SMP,HOB,Hobart College Statesmen,Turnover,N/A,Dorian Paki,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,150,1.0,2024-12-30
+150,SMP,HOB,SUNY Maritime Privateers,3pmi,No Dribble Jumper,Evan Block,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,151,4.0,2024-12-30
+152,SMP,HOB,SUNY Maritime Privateers,3pmi,Dribble Jumper,Jake Murphy,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,153,4.0,2024-12-30
+153,SMP,HOB,Hobart College Statesmen,3pmi,Dribble Jumper,Pat Healy,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,154,4.0,2024-12-30
+154,SMP,HOB,SUNY Maritime Privateers,2pmi,To Basket,Tyler Anderson,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,155,1.0,2024-12-30
+155,SMP,HOB,Hobart College Statesmen,Turnover,N/A,Allen Mordi,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,156,1.0,2024-12-30
+156,SMP,HOB,SUNY Maritime Privateers,3pMa,No Dribble Jumper,Theo Noble,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,157,4.0,2024-12-30
+157,SMP,HOB,Hobart College Statesmen,2pMa,Hook Shot,Pat Healy,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,158,1.0,2024-12-30
+159,SMP,HOB,SUNY Maritime Privateers,2pmi,To Basket,Jake Devaney,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,160,1.0,2024-12-30
+160,SMP,HOB,SUNY Maritime Privateers,2pMa,To Basket,Jake Devaney,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,161,1.0,2024-12-30
+161,SMP,HOB,Hobart College Statesmen,2pMa,To Basket,Niko Lutz,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,162,1.0,2024-12-30
+162,SMP,HOB,,Foul,To Basket,Tyler Anderson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,163,1.0,2024-12-30
+166,SMP,HOB,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,167,1.0,2024-12-30
+167,SMP,HOB,SUNY Maritime Privateers,2pmi,To Basket,Jake Devaney,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,168,1.0,2024-12-30
+168,SMP,HOB,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,169,1.0,2024-12-30
+169,SMP,HOB,SUNY Maritime Privateers,3pmi,No Dribble Jumper,Jake Murphy,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,170,4.0,2024-12-30
+170,SMP,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Allen Mordi,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,171,4.0,2024-12-30
+171,SMP,HOB,SUNY Maritime Privateers,2pmi,To Basket,Jake Murphy,PNR,High,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,172,1.0,2024-12-30
+172,SMP,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Pat Healy,Off Screens,Right,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,173,4.0,2024-12-30
+173,SMP,HOB,SUNY Maritime Privateers,Foul,To Basket,Jake Murphy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,174,1.0,2024-12-30
+176,SMP,HOB,Hobart College Statesmen,Turnover,N/A,Monty Nedd,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,177,1.0,2024-12-30
+177,SMP,HOB,SUNY Maritime Privateers,2pmi,To Basket,Jake Murphy,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,178,1.0,2024-12-30
+178,SMP,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Alex Moesch,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,179,3.0,2024-12-30
+179,SMP,HOB,Hobart College Statesmen,2pMa,To Basket,Allen Mordi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,180,1.0,2024-12-30
+180,SMP,HOB,SUNY Maritime Privateers,Turnover,N/A,Jake Murphy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,181,1.0,2024-12-30
+182,SMP,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,183,4.0,2024-12-30
+183,SMP,HOB,SUNY Maritime Privateers,2pMa,To Basket,Jake Devaney,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,184,1.0,2024-12-30
+184,SMP,HOB,Hobart College Statesmen,Turnover,N/A,Axel Traina,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,185,1.0,2024-12-30
+185,SMP,HOB,SUNY Maritime Privateers,3pMa,No Dribble Jumper,Jake Murphy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,186,4.0,2024-12-30
+187,SMP,HOB,Hobart College Statesmen,Turnover,N/A,Andrew Hanna,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,188,1.0,2024-12-30
+188,SMP,HOB,SUNY Maritime Privateers,Foul,To Basket,Tyler Anderson,PNR,High,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,189,1.0,2024-12-30
+194,SMP,HOB,Hobart College Statesmen,Turnover,To Basket,Jean Marc Togodgue,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,195,1.0,2024-12-30
+196,SMP,HOB,SUNY Maritime Privateers,3pmi,No Dribble Jumper,Evan Block,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,197,4.0,2024-12-30
+197,SMP,HOB,Hobart College Statesmen,2pMa,To Basket,Jean Marc Togodgue,Post,Right,N/A,Gabriel Bergeron,Cuts,N/A,Basket,UNKNOWN,Liberty League,198,1.0,2024-12-30
+198,SMP,HOB,SUNY Maritime Privateers,Foul,To Basket,Tyler Anderson,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,199,1.0,2024-12-30

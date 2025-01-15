@@ -1,0 +1,172 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,MID,VC,Middlebury College,Foul,Drop Step,Sam Stevens,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,1,1.0,2025-01-03
+3,MID,VC,Vassar Brewers,2pMa,Dribble Jumper,Shea Fitzgerald,PNR,Right,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,4,2.0,2025-01-03
+4,MID,VC,Middlebury College,2pmi,Dribble Jumper,Edward Witherington,Post,Right,N/A,Tristan Joseph,Spot Ups,Right,Drive,UNKNOWN,Liberty League,5,2.0,2025-01-03
+6,MID,VC,Middlebury College,3pMa,Dribble Jumper,Sam Stevens,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,7,4.0,2025-01-03
+7,MID,VC,Vassar Brewers,2pmi,Dribble Jumper,Kreekor Karageuzian,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,8,2.0,2025-01-03
+8,MID,VC,Middlebury College,2pmi,Dribble Jumper,Evan Flaks,Iso,Right,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,9,2.0,2025-01-03
+10,MID,VC,Middlebury College,2pmi,To Basket,Sam Stevens,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,11,1.0,2025-01-03
+11,MID,VC,Middlebury College,2pMa,To Basket,Edward Witherington,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,12,1.0,2025-01-03
+12,MID,VC,Vassar Brewers,3pMa,No Dribble Jumper,Shea Fitzgerald,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,13,4.0,2025-01-03
+13,MID,VC,Middlebury College,3pMa,No Dribble Jumper,David Brennan,Post,Left,N/A,Edward Witherington,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,14,4.0,2025-01-03
+14,MID,VC,Vassar Brewers,Turnover,N/A,Avery Lee,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,15,1.0,2025-01-03
+15,MID,VC,Middlebury College,2pMa,To Basket,Evan Flaks,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,16,1.0,2025-01-03
+16,MID,VC,Vassar Brewers,Turnover,To Basket,Avery Lee,PNR,High,Off,Nathan Denham,P&R Roll Man,N/A,Roll,UNKNOWN,Liberty League,17,1.0,2025-01-03
+17,MID,VC,Middlebury College,Turnover,N/A,Evan Flaks,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,18,1.0,2025-01-03
+18,MID,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,19,4.0,2025-01-03
+19,MID,VC,Middlebury College,3pMa,No Dribble Jumper,Sam Stevens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,20,4.0,2025-01-03
+20,MID,VC,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,PNR,Right,N/A,Sebastian Medina,P&R Roll Man,N/A,Slips,UNKNOWN,Liberty League,21,1.0,2025-01-03
+22,MID,VC,Middlebury College,2pMa,To Basket,Sam Stevens,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,23,1.0,2025-01-03
+23,MID,VC,Vassar Brewers,3pMa,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,24,4.0,2025-01-03
+24,MID,VC,Middlebury College,Turnover,To Basket,Edward Witherington,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,25,1.0,2025-01-03
+25,MID,VC,Vassar Brewers,Turnover,N/A,Luke Adams,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,26,1.0,2025-01-03
+26,MID,VC,Middlebury College,2pMa,To Basket,Evan Flaks,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,27,1.0,2025-01-03
+27,MID,VC,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,28,4.0,2025-01-03
+28,MID,VC,Middlebury College,2pmi,To Basket,Evan Flaks,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,29,1.0,2025-01-03
+29,MID,VC,Vassar Brewers,2pMa,To Basket,Avery Lee,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,30,1.0,2025-01-03
+30,MID,VC,Middlebury College,3pMa,No Dribble Jumper,Evan Flaks,PNR,High,Off,Kuba Cwalina,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,31,4.0,2025-01-03
+31,MID,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,PNR,High,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,32,1.0,2025-01-03
+32,MID,VC,Vassar Brewers,And1,To Basket,Shea Fitzgerald,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,33,1.0,2025-01-03
+34,MID,VC,Middlebury College,Turnover,N/A,Mark Newell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,35,1.0,2025-01-03
+35,MID,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Iso,Right,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,36,1.0,2025-01-03
+36,MID,VC,Middlebury College,2pmi,Dribble Jumper,Sawyer Ramey,PNR,Right,Off,Tristan Joseph,Spot Ups,Left,Drive,UNKNOWN,Liberty League,37,2.0,2025-01-03
+37,MID,VC,Vassar Brewers,2pmi,To Basket,Eric Zhang,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,38,1.0,2025-01-03
+38,MID,VC,Middlebury College,Turnover,N/A,Tristan Joseph,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,39,1.0,2025-01-03
+39,MID,VC,Vassar Brewers,2pmi,To Basket,JP Miranda,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,40,1.0,2025-01-03
+40,MID,VC,Vassar Brewers,2pMa,To Basket,JP Miranda,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,41,1.0,2025-01-03
+41,MID,VC,Middlebury College,2pmi,Dribble Jumper,Sam Stevens,Iso,Right,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,42,2.0,2025-01-03
+42,MID,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,43,1.0,2025-01-03
+43,MID,VC,Middlebury College,3pMa,No Dribble Jumper,Sam Stevens,PNR,Left,Off,Tristan Joseph,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,44,4.0,2025-01-03
+44,MID,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,PNR,High,Off,Alex Walters,P&R Roll Man,N/A,Pop,UNKNOWN,Liberty League,45,4.0,2025-01-03
+45,MID,VC,Middlebury College,2pmi,To Basket,Tristan Joseph,PNR,Left,Off,Kuba Cwalina,P&R Roll Man,N/A,Slips,UNKNOWN,Liberty League,46,1.0,2025-01-03
+47,MID,VC,Middlebury College,3pMa,No Dribble Jumper,Sawyer Ramey,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,48,4.0,2025-01-03
+48,MID,VC,Vassar Brewers,And1,To Basket,Shea Fitzgerald,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,49,1.0,2025-01-03
+50,MID,VC,Middlebury College,2pMa,To Basket,Tristan Joseph,Iso,Top,N/A,David Brennan,Cuts,N/A,Basket,UNKNOWN,Liberty League,51,1.0,2025-01-03
+51,MID,VC,Vassar Brewers,3pmi,No Dribble Jumper,JP Miranda,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,52,4.0,2025-01-03
+52,MID,VC,Middlebury College,3pMa,No Dribble Jumper,Sawyer Ramey,PNR,Right,Off,Tristan Joseph,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,53,4.0,2025-01-03
+53,MID,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,54,1.0,2025-01-03
+54,MID,VC,Middlebury College,3pmi,No Dribble Jumper,Sam Stevens,Post,Right,Right Shoulder,Ian Murray,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,55,4.0,2025-01-03
+55,MID,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,56,4.0,2025-01-03
+56,MID,VC,Middlebury College,3pMa,No Dribble Jumper,Tristan Joseph,PNR,Left,Off,Sam Stevens,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,57,4.0,2025-01-03
+57,MID,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,58,1.0,2025-01-03
+58,MID,VC,Middlebury College,3pMa,No Dribble Jumper,Evan Flaks,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,59,4.0,2025-01-03
+59,MID,VC,Vassar Brewers,2pmi,To Basket,Nathan Denham,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,60,1.0,2025-01-03
+60,MID,VC,Middlebury College,3pmi,No Dribble Jumper,Tristan Joseph,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,61,4.0,2025-01-03
+61,MID,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,62,4.0,2025-01-03
+63,MID,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,PNR,Right,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,64,4.0,2025-01-03
+64,MID,VC,Middlebury College,2pMa,To Basket,Sam Stevens,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,65,1.0,2025-01-03
+65,MID,VC,Vassar Brewers,Foul,To Basket,Avery Lee,PNR,High,Off,Nathan Denham,P&R Roll Man,N/A,Roll,UNKNOWN,Liberty League,66,1.0,2025-01-03
+68,MID,VC,Middlebury College,Turnover,N/A,Edward Witherington,Post,Right,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,69,1.0,2025-01-03
+69,MID,VC,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,70,1.0,2025-01-03
+70,MID,VC,Middlebury College,2pMa,To Basket,Evan Flaks,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,71,1.0,2025-01-03
+71,MID,VC,Vassar Brewers,2pmi,To Basket,Sacha Greenberg,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,72,1.0,2025-01-03
+72,MID,VC,Vassar Brewers,Foul,To Basket,Sacha Greenberg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,73,1.0,2025-01-03
+75,MID,VC,Middlebury College,Turnover,To Basket,Scott Schmitt,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,76,1.0,2025-01-03
+76,MID,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,77,4.0,2025-01-03
+77,MID,VC,Middlebury College,2pmi,To Basket,Evan Flaks,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,78,1.0,2025-01-03
+78,MID,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,79,1.0,2025-01-03
+81,MID,VC,Middlebury College,3pmi,No Dribble Jumper,Sam Stevens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,82,4.0,2025-01-03
+82,MID,VC,Vassar Brewers,2pMa,To Basket,Kreekor Karageuzian,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,83,1.0,2025-01-03
+83,MID,VC,Middlebury College,2pMa,To Basket,Sam Stevens,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,84,1.0,2025-01-03
+84,MID,VC,Vassar Brewers,Foul,To Basket,Avery Lee,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,85,1.0,2025-01-03
+87,MID,VC,Middlebury College,Turnover,N/A,David Brennan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,88,1.0,2025-01-03
+88,MID,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Iso,Right,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,89,1.0,2025-01-03
+89,MID,VC,Middlebury College,3pMa,No Dribble Jumper,Evan Flaks,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,90,4.0,2025-01-03
+90,MID,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,PNR,High,Off,Alex Walters,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,91,4.0,2025-01-03
+91,MID,VC,Middlebury College,Foul,To Basket,Edward Witherington,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,92,1.0,2025-01-03
+94,MID,VC,Vassar Brewers,2pMa,Dribble Jumper,Kreekor Karageuzian,PNR,Left,Off,Avery Lee,Spot Ups,Left,Drive,UNKNOWN,Liberty League,95,2.0,2025-01-03
+95,MID,VC,Middlebury College,2pMa,To Basket,Ian Murray,PNR,Right,Off,Edward Witherington,Cuts,N/A,Flash,UNKNOWN,Liberty League,96,1.0,2025-01-03
+96,MID,VC,Vassar Brewers,Turnover,N/A,Avery Lee,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,97,1.0,2025-01-03
+98,MID,VC,Middlebury College,3pMa,No Dribble Jumper,Edward Witherington,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,99,4.0,2025-01-03
+99,MID,VC,Vassar Brewers,And1,To Basket,Kreekor Karageuzian,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,100,1.0,2025-01-03
+101,MID,VC,Middlebury College,3pMa,No Dribble Jumper,Edward Witherington,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,102,4.0,2025-01-03
+102,MID,VC,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,PNR,Right,Away,Avery Lee,P&R Roll Man,N/A,Roll,UNKNOWN,Liberty League,103,1.0,2025-01-03
+104,MID,VC,Middlebury College,Turnover,N/A,Kuba Cwalina,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,105,1.0,2025-01-03
+106,MID,VC,Vassar Brewers,3pMa,No Dribble Jumper,Shea Fitzgerald,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,107,4.0,2025-01-03
+107,MID,VC,Middlebury College,Turnover,N/A,Sam Stevens,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,108,1.0,2025-01-03
+108,MID,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,109,1.0,2025-01-03
+109,MID,VC,Middlebury College,Turnover,N/A,Sam Stevens,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,110,1.0,2025-01-03
+110,MID,VC,Vassar Brewers,2pmi,To Basket,Nathan Denham,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,111,1.0,2025-01-03
+111,MID,VC,Middlebury College,3pmi,No Dribble Jumper,Tristan Joseph,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,112,4.0,2025-01-03
+112,MID,VC,Middlebury College,2pMa,To Basket,Edward Witherington,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,113,1.0,2025-01-03
+113,MID,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,114,1.0,2025-01-03
+114,MID,VC,Middlebury College,3pmi,No Dribble Jumper,Tristan Joseph,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,115,4.0,2025-01-03
+116,MID,VC,Middlebury College,2pmi,To Basket,Sam Stevens,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,117,1.0,2025-01-03
+117,MID,VC,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,118,1.0,2025-01-03
+118,MID,VC,Middlebury College,2pMa,To Basket,Edward Witherington,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,119,1.0,2025-01-03
+119,MID,VC,Vassar Brewers,2pMa,To Basket,Avery Lee,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,120,1.0,2025-01-03
+120,MID,VC,Middlebury College,Turnover,N/A,Evan Flaks,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,121,1.0,2025-01-03
+121,MID,VC,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,122,1.0,2025-01-03
+122,MID,VC,Middlebury College,2pMa,To Basket,Tristan Joseph,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,123,1.0,2025-01-03
+123,MID,VC,Vassar Brewers,Turnover,N/A,Avery Lee,PNR,High,Off,Sebastian Medina,Spot Ups,Right,Drive,UNKNOWN,Liberty League,124,1.0,2025-01-03
+124,MID,VC,Middlebury College,And1,To Basket,Tristan Joseph,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,125,1.0,2025-01-03
+126,MID,VC,Vassar Brewers,2pMa,N/A,Shea Fitzgerald,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,127,1.0,2025-01-03
+127,MID,VC,Middlebury College,2pmi,To Basket,Tristan Joseph,PNR,Left,Off,Sam Stevens,P&R Roll Man,Right,Pop,UNKNOWN,Liberty League,128,1.0,2025-01-03
+128,MID,VC,Vassar Brewers,3pmi,Dribble Jumper,Avery Lee,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,129,4.0,2025-01-03
+129,MID,VC,Middlebury College,2pMa,To Basket,Evan Flaks,PNR,Right,Off,Edward Witherington,Cuts,N/A,Basket,UNKNOWN,Liberty League,130,1.0,2025-01-03
+130,MID,VC,Vassar Brewers,2pMa,To Basket,Avery Lee,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,131,1.0,2025-01-03
+131,MID,VC,Middlebury College,3pmi,Dribble Jumper,Sam Stevens,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,132,4.0,2025-01-03
+132,MID,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,133,1.0,2025-01-03
+135,MID,VC,Middlebury College,3pmi,No Dribble Jumper,Kuba Cwalina,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,136,4.0,2025-01-03
+136,MID,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,137,4.0,2025-01-03
+137,MID,VC,Middlebury College,2pMa,To Basket,Ian Murray,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,138,1.0,2025-01-03
+138,MID,VC,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,139,4.0,2025-01-03
+139,MID,VC,Middlebury College,2pMa,To Basket,Edward Witherington,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,140,1.0,2025-01-03
+140,MID,VC,Vassar Brewers,Turnover,To Basket,Shea Fitzgerald,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,141,1.0,2025-01-03
+141,MID,VC,Middlebury College,2pmi,To Basket,Kuba Cwalina,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,142,1.0,2025-01-03
+142,MID,VC,Middlebury College,Foul,To Basket,Kuba Cwalina,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,143,1.0,2025-01-03
+145,MID,VC,Vassar Brewers,3pMa,Dribble Jumper,Sacha Greenberg,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,146,4.0,2025-01-03
+147,MID,VC,Middlebury College,3pMa,No Dribble Jumper,Kuba Cwalina,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,148,4.0,2025-01-03
+148,MID,VC,Vassar Brewers,2pmi,To Basket,Eric Zhang,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,149,1.0,2025-01-03
+149,MID,VC,Middlebury College,2pmi,To Basket,Sam Stevens,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,150,1.0,2025-01-03
+150,MID,VC,Vassar Brewers,3pMa,No Dribble Jumper,Sacha Greenberg,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,151,4.0,2025-01-03
+151,MID,VC,Middlebury College,Turnover,N/A,David Brennan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,152,1.0,2025-01-03
+152,MID,VC,Vassar Brewers,3pMa,Dribble Jumper,Shea Fitzgerald,PNR,Left,Off,Sacha Greenberg,P&R Roll Man,N/A,Slips,UNKNOWN,Liberty League,153,4.0,2025-01-03
+153,MID,VC,Middlebury College,3pmi,No Dribble Jumper,Kuba Cwalina,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,154,4.0,2025-01-03
+154,MID,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,155,1.0,2025-01-03
+155,MID,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,PNR,Right,Off,Kreekor Karageuzian,Cuts,N/A,Flash,UNKNOWN,Liberty League,156,1.0,2025-01-03
+156,MID,VC,Middlebury College,Turnover,To Basket,Evan Flaks,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,157,1.0,2025-01-03
+157,MID,VC,Vassar Brewers,3pmi,No Dribble Jumper,Kreekor Karageuzian,PNR,Left,N/A,Sacha Greenberg,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,158,4.0,2025-01-03
+158,MID,VC,Middlebury College,2pmi,To Basket,Tristan Joseph,PNR,Left,Off,Edward Witherington,Cuts,N/A,Basket,UNKNOWN,Liberty League,159,1.0,2025-01-03
+159,MID,VC,Vassar Brewers,3pMa,No Dribble Jumper,Sacha Greenberg,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,160,4.0,2025-01-03
+160,MID,VC,Middlebury College,3pMa,No Dribble Jumper,Tristan Joseph,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,161,4.0,2025-01-03
+161,MID,VC,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,PNR,Right,Off,Shea Fitzgerald,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,162,4.0,2025-01-03
+162,MID,VC,Middlebury College,3pmi,No Dribble Jumper,Evan Flaks,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,163,4.0,2025-01-03
+164,MID,VC,Middlebury College,2pmi,To Basket,Tristan Joseph,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,165,1.0,2025-01-03
+165,MID,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,166,1.0,2025-01-03
+168,MID,VC,Middlebury College,3pmi,No Dribble Jumper,Evan Flaks,PNR,High,Off,Tristan Joseph,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,169,4.0,2025-01-03
+170,MID,VC,Vassar Brewers,Turnover,N/A,Nathan Denham,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,171,1.0,2025-01-03
+171,MID,VC,Middlebury College,3pMa,No Dribble Jumper,Sam Stevens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,172,4.0,2025-01-03
+172,MID,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,173,1.0,2025-01-03
+173,MID,VC,Middlebury College,Turnover,N/A,Ian Murray,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,174,1.0,2025-01-03
+174,MID,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,175,4.0,2025-01-03
+175,MID,VC,Middlebury College,2pmi,Dribble Jumper,Tristan Joseph,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,176,2.0,2025-01-03
+176,MID,VC,Vassar Brewers,Turnover,N/A,Luke Adams,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,177,1.0,2025-01-03
+177,MID,VC,Middlebury College,2pMa,To Basket,Sam Stevens,Iso,Right,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,178,1.0,2025-01-03
+180,MID,VC,Vassar Brewers,3pMa,No Dribble Jumper,Shea Fitzgerald,PNR,High,Off,Avery Lee,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,181,4.0,2025-01-03
+182,MID,VC,Middlebury College,Turnover,N/A,Evan Flaks,PNR,High,Off,Kuba Cwalina,Spot Ups,N/A,N/A,UNKNOWN,Liberty League,183,1.0,2025-01-03
+183,MID,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,Post,Left,Left Shoulder,Kreekor Karageuzian,Cuts,N/A,Basket,UNKNOWN,Liberty League,184,1.0,2025-01-03
+185,MID,VC,Middlebury College,2pmi,Dribble Jumper,Evan Flaks,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,186,2.0,2025-01-03
+186,MID,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,187,4.0,2025-01-03
+187,MID,VC,Middlebury College,Foul,N/A,Tristan Joseph,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,188,1.0,2025-01-03
+190,MID,VC,Vassar Brewers,3pMa,Dribble Jumper,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,191,4.0,2025-01-03
+191,MID,VC,Middlebury College,And1,To Basket,David Brennan,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,192,1.0,2025-01-03
+193,MID,VC,Vassar Brewers,2pmi,Dribble Jumper,Shea Fitzgerald,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,194,2.0,2025-01-03
+194,MID,VC,Middlebury College,2pMa,To Basket,David Brennan,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,195,1.0,2025-01-03
+196,MID,VC,Vassar Brewers,2pmi,To Basket,Alex Walters,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,197,1.0,2025-01-03
+197,MID,VC,,Foul,N/A,Edward Witherington,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,198,1.0,2025-01-03
+200,MID,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,PNR,Left,Off,Nathan Denham,P&R Roll Man,N/A,Slips,UNKNOWN,Liberty League,201,1.0,2025-01-03
+202,MID,VC,Middlebury College,2pMa,To Basket,Evan Flaks,PNR,Right,Off,David Brennan,P&R Roll Man,N/A,Roll,UNKNOWN,Liberty League,203,1.0,2025-01-03
+203,MID,VC,Vassar Brewers,3pMa,Dribble Jumper,Shea Fitzgerald,PNR,Right,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,204,4.0,2025-01-03
+204,MID,VC,Middlebury College,2pmi,To Basket,Evan Flaks,Iso,Right,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,205,1.0,2025-01-03
+205,MID,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,206,4.0,2025-01-03
+206,MID,VC,Vassar Brewers,Foul,N/A,Nathan Denham,N/A,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,207,1.0,2025-01-03
+209,MID,VC,Middlebury College,2pMa,To Basket,Sam Stevens,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,210,1.0,2025-01-03
+210,MID,VC,Vassar Brewers,2pmi,Dribble Jumper,Eric Zhang,PNR,Left,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,211,2.0,2025-01-03
+211,MID,VC,Middlebury College,2pMa,Dribble Jumper,Evan Flaks,PNR,Right,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,212,3.0,2025-01-03
+212,MID,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,213,1.0,2025-01-03
+213,MID,VC,Middlebury College,2pmi,To Basket,Tristan Joseph,PNR,High,Away,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,214,1.0,2025-01-03
+214,MID,VC,Middlebury College,3pmi,No Dribble Jumper,Sam Stevens,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,215,4.0,2025-01-03
+215,MID,VC,Vassar Brewers,3pmi,No Dribble Jumper,Collin France,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,216,4.0,2025-01-03
+216,MID,VC,,Foul,N/A,Tristan Joseph,Misc,N/A,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,217,1.0,2025-01-03
+219,MID,VC,Vassar Brewers,3pmi,No Dribble Jumper,Sacha Greenberg,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,220,4.0,2025-01-03

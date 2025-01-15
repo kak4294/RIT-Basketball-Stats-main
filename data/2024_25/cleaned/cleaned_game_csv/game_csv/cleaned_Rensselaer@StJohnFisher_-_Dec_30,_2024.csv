@@ -1,0 +1,138 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,SJC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,PNR,High,Away,Andrew Deppe,P&R Roll Man,N/A,Pop,Empire 8,Liberty League,1,4.0,2024-12-30
+1,SJC,RPI,St. John Fisher Cardinals,2pmi,To Basket,Maxwell Schneider,PNR,Left,Off,Cole Thompson,Spot Ups,Right,Drive,Empire 8,Liberty League,2,1.0,2024-12-30
+2,SJC,RPI,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Maxwell Schneider,PNR,Right,Off,Connor Williams,P&R Roll Man,N/A,Pop,Empire 8,Liberty League,3,4.0,2024-12-30
+3,SJC,RPI,St. John Fisher Cardinals,2pmi,To Basket,Louis Fay,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,4,1.0,2024-12-30
+4,SJC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,5,4.0,2024-12-30
+5,SJC,RPI,St. John Fisher Cardinals,2pmi,Dribble Jumper,Eric Kegler,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,6,3.0,2024-12-30
+7,SJC,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Chuck Clemons,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,8,4.0,2024-12-30
+8,SJC,RPI,St. John Fisher Cardinals,Turnover,N/A,Eric Kegler,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,9,1.0,2024-12-30
+9,SJC,RPI,Rensselaer Polytechnic,3pmi,Dribble Jumper,Chuck Clemons,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,10,4.0,2024-12-30
+10,SJC,RPI,St. John Fisher Cardinals,2pMa,Dribble Jumper,Eric Kegler,PNR,Right,Away,Connor Williams,P&R Roll Man,Right,Pop,Empire 8,Liberty League,11,2.0,2024-12-30
+11,SJC,RPI,Rensselaer Polytechnic,Foul,To Basket,Avery Eugster,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,12,1.0,2024-12-30
+14,SJC,RPI,St. John Fisher Cardinals,Turnover,N/A,Maxwell Schneider,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,15,1.0,2024-12-30
+15,SJC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,PNR,High,Away,Andrew Deppe,P&R Roll Man,N/A,Pop,Empire 8,Liberty League,16,4.0,2024-12-30
+17,SJC,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Chuck Clemons,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,18,4.0,2024-12-30
+18,SJC,RPI,St. John Fisher Cardinals,3pMa,No Dribble Jumper,Cole Thompson,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,19,4.0,2024-12-30
+19,SJC,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,20,4.0,2024-12-30
+20,SJC,RPI,St. John Fisher Cardinals,Turnover,To Basket,Eric Kegler,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,21,1.0,2024-12-30
+24,SJC,RPI,Rensselaer Polytechnic,Turnover,To Basket,Pat White,PNR,Left,N/A,Andrew Deppe,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,25,1.0,2024-12-30
+25,SJC,RPI,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Cole Thompson,PNR,Right,Off,Maxwell Schneider,Spot Ups,N/A,Shot,Empire 8,Liberty League,26,4.0,2024-12-30
+26,SJC,RPI,St. John Fisher Cardinals,2pMa,To Basket,Maximus Michalski,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,27,1.0,2024-12-30
+27,SJC,RPI,Rensselaer Polytechnic,Foul,To Basket,Abubacarr Camara,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,28,1.0,2024-12-30
+30,SJC,RPI,St. John Fisher Cardinals,3pMa,No Dribble Jumper,Andrew Violante,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,31,4.0,2024-12-30
+31,SJC,RPI,Rensselaer Polytechnic,Turnover,To Basket,Avery Eugster,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,32,1.0,2024-12-30
+33,SJC,RPI,St. John Fisher Cardinals,2pMa,To Basket,Matt Larusch,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,34,1.0,2024-12-30
+34,SJC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Pat White,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,35,4.0,2024-12-30
+35,SJC,RPI,St. John Fisher Cardinals,3pmi,Dribble Jumper,Cole Thompson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,36,4.0,2024-12-30
+36,SJC,RPI,,Foul,N/A,Avery Eugster,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,37,1.0,2024-12-30
+39,SJC,RPI,St. John Fisher Cardinals,Foul,To Basket,Maxwell Schneider,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,40,1.0,2024-12-30
+43,SJC,RPI,St. John Fisher Cardinals,Turnover,N/A,josh Lopez,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,44,1.0,2024-12-30
+44,SJC,RPI,Rensselaer Polytechnic,Turnover,N/A,Chuck Clemons,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,45,1.0,2024-12-30
+46,SJC,RPI,St. John Fisher Cardinals,Turnover,N/A,josh Lopez,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,47,1.0,2024-12-30
+47,SJC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Empire 8,Liberty League,48,4.0,2024-12-30
+48,SJC,RPI,Rensselaer Polytechnic,And1,To Basket,Nate Tawiah-Boateng,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,49,1.0,2024-12-30
+50,SJC,RPI,St. John Fisher Cardinals,3pMa,No Dribble Jumper,Maxwell Schneider,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,51,4.0,2024-12-30
+51,SJC,RPI,Rensselaer Polytechnic,2pMa,To Basket,Yechiel Stewart,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,52,1.0,2024-12-30
+54,SJC,RPI,St. John Fisher Cardinals,2pmi,To Basket,Andrew Violante,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,Empire 8,Liberty League,55,1.0,2024-12-30
+56,SJC,RPI,Rensselaer Polytechnic,And1,No Dribble Jumper,Avery Eugster,Post,Left,N/A,Yechiel Stewart,Spot Ups,N/A,Shot,Empire 8,Liberty League,57,4.0,2024-12-30
+58,SJC,RPI,St. John Fisher Cardinals,2pMa,To Basket,Cole Thompson,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,59,1.0,2024-12-30
+59,SJC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,60,4.0,2024-12-30
+60,SJC,RPI,St. John Fisher Cardinals,2pmi,To Basket,Andrew Violante,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,61,1.0,2024-12-30
+61,SJC,RPI,,Foul,N/A,Dylan Matchett,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,62,1.0,2024-12-30
+64,SJC,RPI,St. John Fisher Cardinals,2pmi,Dribble Jumper,Giovanni Schillaci,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,65,2.0,2024-12-30
+65,SJC,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Dylan Matchett,Iso,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,66,4.0,2024-12-30
+66,SJC,RPI,St. John Fisher Cardinals,3pMa,Dribble Jumper,Giovanni Schillaci,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,67,4.0,2024-12-30
+67,SJC,RPI,Rensselaer Polytechnic,Turnover,N/A,Yechiel Stewart,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Empire 8,Liberty League,68,1.0,2024-12-30
+68,SJC,RPI,St. John Fisher Cardinals,2pmi,To Basket,Maxwell Schneider,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,69,1.0,2024-12-30
+69,SJC,RPI,Rensselaer Polytechnic,2pMa,To Basket,Dylan Matchett,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,70,1.0,2024-12-30
+70,SJC,RPI,St. John Fisher Cardinals,3pMa,No Dribble Jumper,Cole Thompson,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,71,4.0,2024-12-30
+72,SJC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,73,4.0,2024-12-30
+73,SJC,RPI,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Giovanni Schillaci,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,74,4.0,2024-12-30
+74,SJC,RPI,,Foul,N/A,Dylan Matchett,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,75,1.0,2024-12-30
+77,SJC,RPI,St. John Fisher Cardinals,3pMa,No Dribble Jumper,Cole Thompson,PNR,High,Off,Giovanni Schillaci,P&R Roll Man,N/A,Slips,Empire 8,Liberty League,78,4.0,2024-12-30
+78,SJC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,79,4.0,2024-12-30
+79,SJC,RPI,St. John Fisher Cardinals,Turnover,N/A,Maxwell Schneider,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,80,1.0,2024-12-30
+80,SJC,RPI,Rensselaer Polytechnic,Foul,To Basket,PJ Scalisi,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,81,1.0,2024-12-30
+83,SJC,RPI,St. John Fisher Cardinals,Turnover,N/A,Connor Williams,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,84,1.0,2024-12-30
+84,SJC,RPI,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Empire 8,Liberty League,85,1.0,2024-12-30
+86,SJC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,87,4.0,2024-12-30
+87,SJC,RPI,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Maxwell Schneider,PNR,Right,Off,Giovanni Schillaci,Spot Ups,N/A,Shot,Empire 8,Liberty League,88,4.0,2024-12-30
+88,SJC,RPI,St. John Fisher Cardinals,Foul,To Basket,Parker Rey,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,89,1.0,2024-12-30
+91,SJC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,92,4.0,2024-12-30
+93,SJC,RPI,Rensselaer Polytechnic,Foul,N/A,Andrew Deppe,Post,Left,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,94,1.0,2024-12-30
+96,SJC,RPI,St. John Fisher Cardinals,Turnover,N/A,Parker Rey,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,97,1.0,2024-12-30
+97,SJC,RPI,Rensselaer Polytechnic,Foul,To Basket,Chuck Clemons,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,98,1.0,2024-12-30
+101,SJC,RPI,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Cole Thompson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,102,4.0,2024-12-30
+102,SJC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,103,4.0,2024-12-30
+103,SJC,RPI,Rensselaer Polytechnic,2pmi,To Basket,PJ Scalisi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,104,1.0,2024-12-30
+104,SJC,RPI,St. John Fisher Cardinals,3pMa,No Dribble Jumper,Cole Thompson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,105,4.0,2024-12-30
+105,SJC,RPI,Rensselaer Polytechnic,2pMa,To Basket,Chuck Clemons,PNR,High,Off,Dylan Matchett,Cuts,N/A,Basket,Empire 8,Liberty League,106,1.0,2024-12-30
+106,SJC,RPI,St. John Fisher Cardinals,3pMa,No Dribble Jumper,Maxwell Schneider,PNR,High,Off,Cole Thompson,Spot Ups,N/A,Shot,Empire 8,Liberty League,107,4.0,2024-12-30
+107,SJC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,PNR,High,Off,Dylan Matchett,Spot Ups,N/A,Shot,Empire 8,Liberty League,108,4.0,2024-12-30
+109,SJC,RPI,Rensselaer Polytechnic,2pMa,To Basket,Dylan Matchett,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Empire 8,Liberty League,110,1.0,2024-12-30
+110,SJC,RPI,St. John Fisher Cardinals,3pmi,Dribble Jumper,Maxwell Schneider,PNR,High,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,111,4.0,2024-12-30
+111,SJC,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Chuck Clemons,PNR,High,Away,Dylan Matchett,Spot Ups,N/A,Shot,Empire 8,Liberty League,112,4.0,2024-12-30
+112,SJC,RPI,St. John Fisher Cardinals,2pMa,To Basket,Cole Thompson,Iso,Right,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,113,1.0,2024-12-30
+113,SJC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,PNR,Right,Away,PJ Scalisi,Spot Ups,N/A,Shot,Empire 8,Liberty League,114,4.0,2024-12-30
+114,SJC,RPI,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Connor Williams,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Empire 8,Liberty League,115,4.0,2024-12-30
+115,SJC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,116,4.0,2024-12-30
+117,SJC,RPI,Rensselaer Polytechnic,2pMa,To Basket,Chuck Clemons,Post,Left,N/A,Andrew Deppe,Cuts,N/A,Basket,Empire 8,Liberty League,118,1.0,2024-12-30
+118,SJC,RPI,St. John Fisher Cardinals,2pMa,To Basket,Maxwell Schneider,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,119,1.0,2024-12-30
+121,SJC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Andrew Deppe,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,122,4.0,2024-12-30
+122,SJC,RPI,St. John Fisher Cardinals,3pmi,Dribble Jumper,Eric Kegler,PNR,Left,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,123,4.0,2024-12-30
+123,SJC,RPI,Rensselaer Polytechnic,2pMa,To Basket,PJ Scalisi,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,124,1.0,2024-12-30
+124,SJC,RPI,St. John Fisher Cardinals,2pmi,To Basket,Cole Thompson,PNR,Right,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,125,1.0,2024-12-30
+125,SJC,RPI,Rensselaer Polytechnic,Foul,To Basket,Andrew Deppe,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,126,1.0,2024-12-30
+128,SJC,RPI,St. John Fisher Cardinals,2pMa,To Basket,Eric Kegler,PNR,High,Off,Maximus Michalski,P&R Roll Man,N/A,Roll,Empire 8,Liberty League,129,1.0,2024-12-30
+130,SJC,RPI,Rensselaer Polytechnic,Turnover,N/A,Yechiel Stewart,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,131,1.0,2024-12-30
+131,SJC,RPI,St. John Fisher Cardinals,And1,To Basket,Louis Fay,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,132,1.0,2024-12-30
+133,SJC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Nate Tawiah-Boateng,Post,Left,Face Up,Avery Eugster,Spot Ups,N/A,Shot,Empire 8,Liberty League,134,4.0,2024-12-30
+134,SJC,RPI,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Cole Thompson,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,135,4.0,2024-12-30
+135,SJC,RPI,Rensselaer Polytechnic,2pMa,To Basket,Chuck Clemons,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,136,1.0,2024-12-30
+136,SJC,RPI,St. John Fisher Cardinals,2pMa,To Basket,Maxwell Schneider,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,137,1.0,2024-12-30
+137,SJC,RPI,Rensselaer Polytechnic,Turnover,N/A,Pat White,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,138,1.0,2024-12-30
+138,SJC,RPI,St. John Fisher Cardinals,2pMa,To Basket,Cole Thompson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,139,1.0,2024-12-30
+140,SJC,RPI,Rensselaer Polytechnic,Foul,Dribble Jumper,Chuck Clemons,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,141,2.0,2024-12-30
+143,SJC,RPI,St. John Fisher Cardinals,3pMa,Dribble Jumper,Maxwell Schneider,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,144,4.0,2024-12-30
+144,SJC,RPI,Rensselaer Polytechnic,Turnover,N/A,Nate Tawiah-Boateng,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,145,1.0,2024-12-30
+145,SJC,RPI,St. John Fisher Cardinals,2pMa,To Basket,Cole Thompson,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,146,1.0,2024-12-30
+146,SJC,RPI,Rensselaer Polytechnic,Turnover,N/A,Yechiel Stewart,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,147,1.0,2024-12-30
+147,SJC,RPI,St. John Fisher Cardinals,3pmi,No Dribble Jumper,Giovanni Schillaci,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,148,4.0,2024-12-30
+148,SJC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,149,4.0,2024-12-30
+150,SJC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,PNR,High,Off,Avery Eugster,Spot Ups,N/A,Shot,Empire 8,Liberty League,151,4.0,2024-12-30
+152,SJC,RPI,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,153,1.0,2024-12-30
+153,SJC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Andrew Deppe,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,154,4.0,2024-12-30
+154,SJC,RPI,St. John Fisher Cardinals,Foul,To Basket,Eric Kegler,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,155,1.0,2024-12-30
+157,SJC,RPI,St. John Fisher Cardinals,2pMa,To Basket,Cole Thompson,PNR,High,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,158,1.0,2024-12-30
+159,SJC,RPI,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,Post,Left,Left Shoulder,Avery Eugster,Cuts,N/A,Basket,Empire 8,Liberty League,160,1.0,2024-12-30
+160,SJC,RPI,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Empire 8,Liberty League,161,1.0,2024-12-30
+161,SJC,RPI,St. John Fisher Cardinals,Foul,To Basket,Maximus Michalski,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,162,1.0,2024-12-30
+164,SJC,RPI,Rensselaer Polytechnic,Turnover,N/A,Avery Eugster,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,165,1.0,2024-12-30
+165,SJC,RPI,St. John Fisher Cardinals,3pMa,No Dribble Jumper,Eric Kegler,Iso,Top,N/A,Cole Thompson,Spot Ups,N/A,Shot,Empire 8,Liberty League,166,4.0,2024-12-30
+167,SJC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,168,4.0,2024-12-30
+168,SJC,RPI,St. John Fisher Cardinals,Turnover,N/A,Maxwell Schneider,Iso,Top,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,169,1.0,2024-12-30
+169,SJC,RPI,Rensselaer Polytechnic,2pMa,To Basket,Dylan Matchett,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,170,1.0,2024-12-30
+170,SJC,RPI,St. John Fisher Cardinals,Foul,To Basket,Eric Kegler,Iso,Top,N/A,Louis Fay,Cuts,N/A,Basket,Empire 8,Liberty League,171,1.0,2024-12-30
+173,SJC,RPI,Rensselaer Polytechnic,2pMa,To Basket,Chuck Clemons,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,174,1.0,2024-12-30
+174,SJC,RPI,St. John Fisher Cardinals,2pmi,To Basket,Louis Fay,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,175,1.0,2024-12-30
+177,SJC,RPI,Rensselaer Polytechnic,Turnover,N/A,Chuck Clemons,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,178,1.0,2024-12-30
+178,SJC,RPI,St. John Fisher Cardinals,Turnover,N/A,Eric Kegler,PNR,Left,Off,Maxwell Schneider,Spot Ups,Left,Drive,Empire 8,Liberty League,179,1.0,2024-12-30
+179,SJC,RPI,Rensselaer Polytechnic,2pmi,Hook Shot,Dylan Matchett,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Empire 8,Liberty League,180,1.0,2024-12-30
+181,SJC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Empire 8,Liberty League,182,4.0,2024-12-30
+183,SJC,RPI,St. John Fisher Cardinals,3pMa,No Dribble Jumper,Eric Kegler,Iso,Top,N/A,Maxwell Schneider,Spot Ups,N/A,Shot,Empire 8,Liberty League,184,4.0,2024-12-30
+184,SJC,RPI,Rensselaer Polytechnic,2pmi,To Basket,Dylan Matchett,PNR,Left,Away,N/A,N/A,N/A,N/A,Empire 8,Liberty League,185,1.0,2024-12-30
+186,SJC,RPI,St. John Fisher Cardinals,Turnover,N/A,Eric Kegler,Iso,Top,N/A,Maxwell Schneider,Spot Ups,N/A,N/A,Empire 8,Liberty League,187,1.0,2024-12-30
+187,SJC,RPI,Rensselaer Polytechnic,Foul,To Basket,Dylan Matchett,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Empire 8,Liberty League,188,1.0,2024-12-30
+190,SJC,RPI,St. John Fisher Cardinals,3pMa,No Dribble Jumper,Eric Kegler,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Empire 8,Liberty League,191,4.0,2024-12-30
+191,SJC,RPI,Rensselaer Polytechnic,2pMa,To Basket,Chuck Clemons,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,192,1.0,2024-12-30
+193,SJC,RPI,St. John Fisher Cardinals,3pmi,Dribble Jumper,Cole Thompson,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,194,4.0,2024-12-30
+194,SJC,RPI,St. John Fisher Cardinals,2pmi,To Basket,Louis Fay,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,195,1.0,2024-12-30
+195,SJC,RPI,Rensselaer Polytechnic,Turnover,To Basket,Dylan Matchett,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Empire 8,Liberty League,196,1.0,2024-12-30
+196,SJC,RPI,St. John Fisher Cardinals,2pmi,To Basket,Eric Kegler,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Empire 8,Liberty League,197,1.0,2024-12-30
+197,SJC,RPI,St. John Fisher Cardinals,2pMa,To Basket,Louis Fay,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,198,1.0,2024-12-30
+198,SJC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Empire 8,Liberty League,199,4.0,2024-12-30
+200,SJC,RPI,St. John Fisher Cardinals,2pMa,To Basket,Eric Kegler,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Empire 8,Liberty League,201,1.0,2024-12-30
+201,SJC,RPI,Rensselaer Polytechnic,3pmi,Dribble Jumper,Chuck Clemons,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,202,4.0,2024-12-30
+202,SJC,RPI,,Foul,N/A,Connor Williams,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Empire 8,Liberty League,203,1.0,2024-12-30
+205,SJC,RPI,Rensselaer Polytechnic,2pMa,To Basket,Chuck Clemons,PNR,High,Off,N/A,N/A,N/A,N/A,Empire 8,Liberty League,206,1.0,2024-12-30

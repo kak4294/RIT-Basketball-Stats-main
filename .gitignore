@@ -1,1 +1,5 @@
 .env
+.gitignore
+GitHub Token.txt
+.vscode
+Token.txt
