@@ -1,0 +1,161 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,SKD,HOB,Skidmore Thoroughbreds,2pmi,To Basket,Hakeem Daphnis,PNR,High,Off,Charlie Fantom,Spot Ups,Left,Drive,Liberty League,Liberty League,1,1.0,2025-01-18
+2,SKD,HOB,Hobart College Statesmen,Turnover,N/A,Pat Healy,PNR,Right,Off,Carter Meshanic,Spot Ups,Left,Drive,Liberty League,Liberty League,3,1.0,2025-01-18
+3,SKD,HOB,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Joey Skoric,Post,Right,N/A,Charlie Fantom,Spot Ups,N/A,Shot,Liberty League,Liberty League,4,4.0,2025-01-18
+4,SKD,HOB,Hobart College Statesmen,And1,To Basket,Alex Moesch,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,1.0,2025-01-18
+6,SKD,HOB,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Aidan Roy,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,2.0,2025-01-18
+7,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,1.0,2025-01-18
+9,SKD,HOB,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,4.0,2025-01-18
+10,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,1.0,2025-01-18
+11,SKD,HOB,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Charlie Fantom,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,4.0,2025-01-18
+12,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,1.0,2025-01-18
+15,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,1.0,2025-01-18
+16,SKD,HOB,Skidmore Thoroughbreds,2pmi,Hook Shot,Jack LaGarde,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,1.0,2025-01-18
+17,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,1.0,2025-01-18
+18,SKD,HOB,Skidmore Thoroughbreds,Turnover,N/A,Joey Skoric,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,19,1.0,2025-01-18
+19,SKD,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Iso,Top,N/A,Hunter Meshanic,Spot Ups,N/A,Shot,Liberty League,Liberty League,20,4.0,2025-01-18
+20,SKD,HOB,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Aidan Roy,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,21,3.0,2025-01-18
+21,SKD,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Gabriel Bergeron,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,4.0,2025-01-18
+22,SKD,HOB,Hobart College Statesmen,And1,To Basket,Gabriel Bergeron,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,23,1.0,2025-01-18
+24,SKD,HOB,Skidmore Thoroughbreds,Foul,To Basket,Jack LaGarde,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,25,1.0,2025-01-18
+27,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Pat Healy,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,28,1.0,2025-01-18
+28,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,29,1.0,2025-01-18
+29,SKD,HOB,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,Post,Right,Right Shoulder,Joey Skoric,Cuts,N/A,Basket,Liberty League,Liberty League,30,1.0,2025-01-18
+30,SKD,HOB,Skidmore Thoroughbreds,2pmi,To Basket,Joey Skoric,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,31,1.0,2025-01-18
+31,SKD,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Alex Moesch,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,2.0,2025-01-18
+32,SKD,HOB,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Charlie Fantom,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,2.0,2025-01-18
+33,SKD,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Pat Healy,PNR,Left,Off,Gabriel Bergeron,Spot Ups,N/A,Shot,Liberty League,Liberty League,34,4.0,2025-01-18
+34,SKD,HOB,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,35,4.0,2025-01-18
+36,SKD,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Gabriel Bergeron,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,37,4.0,2025-01-18
+37,SKD,HOB,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Nick Padilla,PNR,Right,Off,Joey Skoric,Spot Ups,N/A,Shot,Liberty League,Liberty League,38,4.0,2025-01-18
+38,SKD,HOB,Hobart College Statesmen,Turnover,To Basket,Allen Mordi,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,1.0,2025-01-18
+39,SKD,HOB,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Fumani Sithole,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,4.0,2025-01-18
+41,SKD,HOB,Skidmore Thoroughbreds,2pmi,To Basket,Fumani Sithole,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,42,1.0,2025-01-18
+42,SKD,HOB,Hobart College Statesmen,Turnover,N/A,Monty Nedd,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,1.0,2025-01-18
+43,SKD,HOB,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,44,4.0,2025-01-18
+45,SKD,HOB,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Hakeem Daphnis,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,46,4.0,2025-01-18
+46,SKD,HOB,Hobart College Statesmen,2pmi,Hook Shot,Dorian Paki,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,47,1.0,2025-01-18
+47,SKD,HOB,Skidmore Thoroughbreds,Turnover,N/A,Jack LaGarde,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,48,1.0,2025-01-18
+48,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Gabriel Bergeron,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,1.0,2025-01-18
+49,SKD,HOB,Hobart College Statesmen,Foul,To Basket,Gabriel Bergeron,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,1.0,2025-01-18
+52,SKD,HOB,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,PNR,High,Off,Ethan Madeiros,Spot Ups,Left,Drive,Liberty League,Liberty League,53,1.0,2025-01-18
+53,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,54,1.0,2025-01-18
+55,SKD,HOB,Hobart College Statesmen,3pMa,Dribble Jumper,Alex Moesch,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,56,4.0,2025-01-18
+56,SKD,HOB,Skidmore Thoroughbreds,Turnover,N/A,Ethan Madeiros,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,57,1.0,2025-01-18
+57,SKD,HOB,Hobart College Statesmen,Turnover,N/A,Dorian Paki,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,58,1.0,2025-01-18
+58,SKD,HOB,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Nick Padilla,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,59,4.0,2025-01-18
+60,SKD,HOB,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Nick Padilla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,61,4.0,2025-01-18
+61,SKD,HOB,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,Iso,Right,N/A,Dorian Paki,Cuts,N/A,Basket,Liberty League,Liberty League,62,1.0,2025-01-18
+62,SKD,HOB,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,2.0,2025-01-18
+63,SKD,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,PNR,High,Off,Gabriel Bergeron,Spot Ups,N/A,Shot,Liberty League,Liberty League,64,4.0,2025-01-18
+64,SKD,HOB,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,PNR,High,Off,Jack LaGarde,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,65,1.0,2025-01-18
+65,SKD,HOB,Hobart College Statesmen,Foul,To Basket,Dorian Paki,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,1.0,2025-01-18
+69,SKD,HOB,Skidmore Thoroughbreds,Turnover,To Basket,Aidan Roy,PNR,Right,Off,Joey Skoric,Cuts,N/A,Flash,Liberty League,Liberty League,70,1.0,2025-01-18
+70,SKD,HOB,,Foul,N/A,Carter Meshanic,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,71,1.0,2025-01-18
+73,SKD,HOB,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,74,1.0,2025-01-18
+74,SKD,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Monty Nedd,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,4.0,2025-01-18
+75,SKD,HOB,Skidmore Thoroughbreds,Foul,To Basket,Hakeem Daphnis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,76,1.0,2025-01-18
+78,SKD,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Hunter Meshanic,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,4.0,2025-01-18
+79,SKD,HOB,Skidmore Thoroughbreds,2pmi,No Dribble Jumper,Charlie Fantom,PNR,High,Off,Joey Skoric,Spot Ups,N/A,Shot,Liberty League,Liberty League,80,3.0,2025-01-18
+80,SKD,HOB,Hobart College Statesmen,Turnover,To Basket,Monty Nedd,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,81,1.0,2025-01-18
+81,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,PNR,Left,Off,Monty Nedd,Spot Ups,Right,Drive,Liberty League,Liberty League,82,1.0,2025-01-18
+83,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,84,1.0,2025-01-18
+84,SKD,HOB,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,1.0,2025-01-18
+85,SKD,HOB,Skidmore Thoroughbreds,Turnover,N/A,Aidan Roy,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,86,1.0,2025-01-18
+86,SKD,HOB,Hobart College Statesmen,Foul,To Basket,Hunter Meshanic,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,1.0,2025-01-18
+91,SKD,HOB,,Foul,N/A,Alex Moesch,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,92,1.0,2025-01-18
+94,SKD,HOB,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Aidan Roy,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,4.0,2025-01-18
+95,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,96,1.0,2025-01-18
+96,SKD,HOB,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,97,1.0,2025-01-18
+99,SKD,HOB,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Charlie Fantom,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,4.0,2025-01-18
+100,SKD,HOB,Skidmore Thoroughbreds,2pmi,To Basket,Ethan Madeiros,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,101,1.0,2025-01-18
+101,SKD,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Alex Moesch,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,102,2.0,2025-01-18
+102,SKD,HOB,Hobart College Statesmen,2pMa,To Basket,Alex Moesch,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,1.0,2025-01-18
+103,SKD,HOB,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,PNR,High,Off,Ethan Madeiros,Cuts,N/A,Flash,Liberty League,Liberty League,104,1.0,2025-01-18
+104,SKD,HOB,Hobart College Statesmen,Foul,N/A,Monty Nedd,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,1.0,2025-01-18
+107,SKD,HOB,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,PNR,High,Off,Joey Skoric,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,108,4.0,2025-01-18
+109,SKD,HOB,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Aidan Roy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,110,4.0,2025-01-18
+110,SKD,HOB,Hobart College Statesmen,Turnover,N/A,Carter Meshanic,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,1.0,2025-01-18
+111,SKD,HOB,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Aidan Roy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,4.0,2025-01-18
+112,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Post,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,1.0,2025-01-18
+113,SKD,HOB,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,114,2.0,2025-01-18
+114,SKD,HOB,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,1.0,2025-01-18
+115,SKD,HOB,Skidmore Thoroughbreds,Turnover,N/A,Aidan Roy,PNR,Left,Off,Charlie Fantom,Spot Ups,Left,Drive,Liberty League,Liberty League,116,1.0,2025-01-18
+116,SKD,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Pat Healy,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,2.0,2025-01-18
+117,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,1.0,2025-01-18
+118,SKD,HOB,Skidmore Thoroughbreds,Turnover,N/A,Charlie Fantom,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,1.0,2025-01-18
+119,SKD,HOB,Hobart College Statesmen,Foul,To Basket,Pat Healy,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,120,1.0,2025-01-18
+122,SKD,HOB,Skidmore Thoroughbreds,Turnover,N/A,Aidan Roy,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,123,1.0,2025-01-18
+123,SKD,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,124,4.0,2025-01-18
+124,SKD,HOB,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Aidan Roy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,125,4.0,2025-01-18
+125,SKD,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,126,4.0,2025-01-18
+126,SKD,HOB,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Charlie Fantom,PNR,Right,Off,Joey Skoric,Spot Ups,N/A,Shot,Liberty League,Liberty League,127,4.0,2025-01-18
+127,SKD,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,4.0,2025-01-18
+128,SKD,HOB,Skidmore Thoroughbreds,2pmi,To Basket,Hakeem Daphnis,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,129,1.0,2025-01-18
+129,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,130,1.0,2025-01-18
+130,SKD,HOB,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,4.0,2025-01-18
+131,SKD,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Hunter Meshanic,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,4.0,2025-01-18
+132,SKD,HOB,Hobart College Statesmen,Foul,To Basket,Alex Moesch,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,133,1.0,2025-01-18
+135,SKD,HOB,Skidmore Thoroughbreds,Turnover,To Basket,Aidan Roy,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,136,1.0,2025-01-18
+136,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Post,Left,Left Shoulder,Carter Meshanic,Cuts,N/A,Basket,Liberty League,Liberty League,137,1.0,2025-01-18
+137,SKD,HOB,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Prince Shyllon,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,138,4.0,2025-01-18
+138,SKD,HOB,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,1.0,2025-01-18
+140,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Pat Healy,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,1.0,2025-01-18
+141,SKD,HOB,Hobart College Statesmen,Foul,To Basket,Hunter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,142,1.0,2025-01-18
+144,SKD,HOB,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,145,1.0,2025-01-18
+145,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Alex Moesch,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,1.0,2025-01-18
+146,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,147,1.0,2025-01-18
+147,SKD,HOB,Skidmore Thoroughbreds,Turnover,N/A,Charlie Fantom,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,148,1.0,2025-01-18
+148,SKD,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Dorian Paki,Post,Right,Face Up,Pat Healy,Spot Ups,N/A,Shot,Liberty League,Liberty League,149,4.0,2025-01-18
+150,SKD,HOB,Skidmore Thoroughbreds,Turnover,N/A,Charlie Fantom,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,151,1.0,2025-01-18
+151,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Pat Healy,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,152,1.0,2025-01-18
+152,SKD,HOB,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,PNR,Right,Off,Fumani Sithole,Spot Ups,N/A,Shot,Liberty League,Liberty League,153,4.0,2025-01-18
+153,SKD,HOB,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,Iso,Top,N/A,Dorian Paki,Cuts,N/A,Basket,Liberty League,Liberty League,154,1.0,2025-01-18
+154,SKD,HOB,Skidmore Thoroughbreds,Foul,N/A,Fumani Sithole,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,1.0,2025-01-18
+157,SKD,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Allen Mordi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,158,4.0,2025-01-18
+158,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Gabriel Bergeron,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,1.0,2025-01-18
+160,SKD,HOB,Hobart College Statesmen,Foul,To Basket,Monty Nedd,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,1.0,2025-01-18
+163,SKD,HOB,Skidmore Thoroughbreds,Foul,To Basket,Nick Padilla,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,164,1.0,2025-01-18
+166,SKD,HOB,Hobart College Statesmen,Turnover,N/A,Monty Nedd,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,167,1.0,2025-01-18
+167,SKD,HOB,Skidmore Thoroughbreds,And1,To Basket,Charlie Fantom,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,1.0,2025-01-18
+169,SKD,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Gabriel Bergeron,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,170,4.0,2025-01-18
+170,SKD,HOB,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,PNR,High,Off,Ethan Madeiros,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,171,1.0,2025-01-18
+171,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Monty Nedd,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,172,1.0,2025-01-18
+174,SKD,HOB,Skidmore Thoroughbreds,Turnover,N/A,Joey Skoric,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,175,1.0,2025-01-18
+175,SKD,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Monty Nedd,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,176,4.0,2025-01-18
+176,SKD,HOB,,Foul,To Basket,Monty Nedd,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,1.0,2025-01-18
+180,SKD,HOB,Skidmore Thoroughbreds,Turnover,N/A,Fumani Sithole,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,1.0,2025-01-18
+181,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,182,1.0,2025-01-18
+182,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,183,1.0,2025-01-18
+183,SKD,HOB,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Charlie Fantom,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,184,4.0,2025-01-18
+184,SKD,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,185,4.0,2025-01-18
+185,SKD,HOB,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Nick Padilla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,186,4.0,2025-01-18
+187,SKD,HOB,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,188,1.0,2025-01-18
+188,SKD,HOB,Skidmore Thoroughbreds,2pMa,To Basket,Jack LaGarde,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,189,1.0,2025-01-18
+189,SKD,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Pat Healy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,190,4.0,2025-01-18
+191,SKD,HOB,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Joey Skoric,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,192,4.0,2025-01-18
+192,SKD,HOB,Hobart College Statesmen,2pMa,Dribble Jumper,Aidan Rodgers,PNR,High,Off,Pat Healy,Spot Ups,Left,Drive,Liberty League,Liberty League,193,2.0,2025-01-18
+193,SKD,HOB,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,194,4.0,2025-01-18
+194,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,195,1.0,2025-01-18
+195,SKD,HOB,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,196,1.0,2025-01-18
+196,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,197,1.0,2025-01-18
+197,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,198,1.0,2025-01-18
+198,SKD,HOB,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Hakeem Daphnis,PNR,High,Off,Nick Padilla,Spot Ups,Right,Drive,Liberty League,Liberty League,199,2.0,2025-01-18
+199,SKD,HOB,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,200,1.0,2025-01-18
+200,SKD,HOB,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Charlie Fantom,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,201,2.0,2025-01-18
+201,SKD,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Alex Moesch,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,202,3.0,2025-01-18
+202,SKD,HOB,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Nick Padilla,PNR,Right,Off,Hakeem Daphnis,Spot Ups,N/A,Shot,Liberty League,Liberty League,203,4.0,2025-01-18
+204,SKD,HOB,Hobart College Statesmen,Foul,To Basket,Aidan Rodgers,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,205,1.0,2025-01-18
+207,SKD,HOB,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Nick Padilla,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,208,4.0,2025-01-18
+208,SKD,HOB,Skidmore Thoroughbreds,Turnover,N/A,Jack LaGarde,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,209,1.0,2025-01-18
+209,SKD,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Pat Healy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,210,4.0,2025-01-18
+210,SKD,HOB,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Aidan Roy,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,211,4.0,2025-01-18
+211,SKD,HOB,Hobart College Statesmen,Foul,To Basket,Monty Nedd,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,212,1.0,2025-01-18
+214,SKD,HOB,Skidmore Thoroughbreds,Turnover,N/A,Aidan Roy,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,215,1.0,2025-01-18
+215,SKD,HOB,Hobart College Statesmen,2pMa,To Basket,Hunter Meshanic,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,216,1.0,2025-01-18
+217,SKD,HOB,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,218,1.0,2025-01-18
+218,SKD,HOB,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,219,1.0,2025-01-18
+219,SKD,HOB,Skidmore Thoroughbreds,Foul,N/A,Joey Skoric,Post,Middle,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,220,1.0,2025-01-18
+223,SKD,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Pat Healy,PNR,Right,Off,Aidan Rodgers,Spot Ups,Right,Drive,Liberty League,Liberty League,224,3.0,2025-01-18
+224,SKD,HOB,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Charlie Fantom,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,225,4.0,2025-01-18
+225,SKD,HOB,Skidmore Thoroughbreds,Turnover,N/A,Aidan Roy,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,226,1.0,2025-01-18

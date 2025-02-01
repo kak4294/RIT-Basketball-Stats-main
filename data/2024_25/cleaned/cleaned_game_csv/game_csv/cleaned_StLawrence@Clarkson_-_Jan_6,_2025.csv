@@ -1,0 +1,163 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,CU,SLS,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,1.0,2025-01-06
+1,CU,SLS,St. Lawrence Saints,2pMa,Hook Shot,Andrew Cowan,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,1.0,2025-01-06
+2,CU,SLS,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,1.0,2025-01-06
+3,CU,SLS,St. Lawrence Saints,Turnover,N/A,Aiden Macaulay,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,1.0,2025-01-06
+4,CU,SLS,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,4.0,2025-01-06
+5,CU,SLS,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,PNR,Left,Off,Andrew Cowan,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,6,1.0,2025-01-06
+6,CU,SLS,Clarkson University Golden Knights,2pMa,No Dribble Jumper,Finn Cork,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,3.0,2025-01-06
+7,CU,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Dan Anderson,PNR,Left,Off,Aiden Macaulay,Spot Ups,Left,Drive,Liberty League,Liberty League,8,2.0,2025-01-06
+8,CU,SLS,St. Lawrence Saints,Turnover,N/A,Dan Anderson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,1.0,2025-01-06
+9,CU,SLS,Clarkson University Golden Knights,Turnover,N/A,Lorenzo Rappa,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,1.0,2025-01-06
+10,CU,SLS,St. Lawrence Saints,2pmi,To Basket,Gavin Macaulay,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,1.0,2025-01-06
+11,CU,SLS,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,1.0,2025-01-06
+12,CU,SLS,St. Lawrence Saints,3pmi,Dribble Jumper,Adam Dudzinski,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,4.0,2025-01-06
+13,CU,SLS,Clarkson University Golden Knights,Turnover,N/A,Lorenzo Rappa,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,14,1.0,2025-01-06
+14,CU,SLS,St. Lawrence Saints,And1,To Basket,Dan Anderson,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,15,1.0,2025-01-06
+16,CU,SLS,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,1.0,2025-01-06
+17,CU,SLS,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,1.0,2025-01-06
+18,CU,SLS,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,19,1.0,2025-01-06
+19,CU,SLS,St. Lawrence Saints,2pMa,No Dribble Jumper,Andrew Cowan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,3.0,2025-01-06
+20,CU,SLS,Clarkson University Golden Knights,And1,To Basket,Braeden Burns,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,21,1.0,2025-01-06
+22,CU,SLS,St. Lawrence Saints,2pMa,Dribble Jumper,Aiden Macaulay,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,23,2.0,2025-01-06
+23,CU,SLS,Clarkson University Golden Knights,Turnover,To Basket,Finn Cork,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,1.0,2025-01-06
+24,CU,SLS,St. Lawrence Saints,Turnover,N/A,Trey Syroka,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,25,1.0,2025-01-06
+25,CU,SLS,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Matthew Parent,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,4.0,2025-01-06
+26,CU,SLS,St. Lawrence Saints,3pmi,Dribble Jumper,Aiden Macaulay,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,27,4.0,2025-01-06
+28,CU,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Gavin Macaulay,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,29,4.0,2025-01-06
+29,CU,SLS,Clarkson University Golden Knights,Turnover,To Basket,Matteo Sinon,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,1.0,2025-01-06
+30,CU,SLS,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,31,1.0,2025-01-06
+31,CU,SLS,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,1.0,2025-01-06
+32,CU,SLS,St. Lawrence Saints,2pmi,No Dribble Jumper,Aiden Macaulay,PNR,Left,Off,Chris Downs Jr.,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,33,2.0,2025-01-06
+33,CU,SLS,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matthew Parent,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,4.0,2025-01-06
+34,CU,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Troy McPherson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,35,4.0,2025-01-06
+35,CU,SLS,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,36,1.0,2025-01-06
+36,CU,SLS,St. Lawrence Saints,Turnover,N/A,Alexi Twahili,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,37,1.0,2025-01-06
+37,CU,SLS,Clarkson University Golden Knights,2pmi,To Basket,Jack Dalgety,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,38,1.0,2025-01-06
+38,CU,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Alexi Twahili,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,4.0,2025-01-06
+39,CU,SLS,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matteo Sinon,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,4.0,2025-01-06
+40,CU,SLS,St. Lawrence Saints,2pmi,No Dribble Jumper,Trey Syroka,PNR,Left,Off,Chris Downs Jr.,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,41,2.0,2025-01-06
+41,CU,SLS,Clarkson University Golden Knights,Turnover,N/A,Matthew Parent,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,42,1.0,2025-01-06
+42,CU,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Adam Dudzinski,Post,Right,N/A,Alexi Twahili,Spot Ups,N/A,Shot,Liberty League,Liberty League,43,4.0,2025-01-06
+44,CU,SLS,Clarkson University Golden Knights,2pMa,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,45,3.0,2025-01-06
+45,CU,SLS,St. Lawrence Saints,2pMa,Dribble Jumper,Trey Syroka,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,46,3.0,2025-01-06
+46,CU,SLS,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,47,4.0,2025-01-06
+47,CU,SLS,St. Lawrence Saints,2pmi,To Basket,Alexi Twahili,PNR,Right,Off,Andrew Cowan,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,48,1.0,2025-01-06
+48,CU,SLS,Clarkson University Golden Knights,Foul,To Basket,Finn Cork,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,1.0,2025-01-06
+52,CU,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,4.0,2025-01-06
+54,CU,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Troy McPherson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,55,4.0,2025-01-06
+55,CU,SLS,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,56,1.0,2025-01-06
+56,CU,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Alexi Twahili,PNR,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,57,4.0,2025-01-06
+57,CU,SLS,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,58,4.0,2025-01-06
+58,CU,SLS,St. Lawrence Saints,2pMa,To Basket,Andrew Cowan,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,59,1.0,2025-01-06
+59,CU,SLS,Clarkson University Golden Knights,Foul,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,3.0,2025-01-06
+62,CU,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Alexi Twahili,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,4.0,2025-01-06
+63,CU,SLS,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,4.0,2025-01-06
+64,CU,SLS,St. Lawrence Saints,2pMa,To Basket,Dan Anderson,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,65,1.0,2025-01-06
+66,CU,SLS,Clarkson University Golden Knights,2pMa,To Basket,Jack Dalgety,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,1.0,2025-01-06
+67,CU,SLS,St. Lawrence Saints,2pmi,To Basket,Andrew Cowan,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,68,1.0,2025-01-06
+68,CU,SLS,Clarkson University Golden Knights,2pmi,To Basket,Finn Cork,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,69,1.0,2025-01-06
+69,CU,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Adam Dudzinski,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,70,2.0,2025-01-06
+71,CU,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,4.0,2025-01-06
+72,CU,SLS,Clarkson University Golden Knights,Turnover,N/A,Lorenzo Rappa,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,1.0,2025-01-06
+73,CU,SLS,St. Lawrence Saints,2pmi,To Basket,Adam Dudzinski,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,74,1.0,2025-01-06
+74,CU,SLS,Clarkson University Golden Knights,Turnover,N/A,Jack Dalgety,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,1.0,2025-01-06
+75,CU,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Gavin Macaulay,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,76,2.0,2025-01-06
+76,CU,SLS,Clarkson University Golden Knights,Turnover,N/A,Lorenzo Rappa,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,77,1.0,2025-01-06
+77,CU,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Gavin Macaulay,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,78,4.0,2025-01-06
+78,CU,SLS,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,1.0,2025-01-06
+79,CU,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,4.0,2025-01-06
+80,CU,SLS,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,81,1.0,2025-01-06
+82,CU,SLS,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,4.0,2025-01-06
+83,CU,SLS,St. Lawrence Saints,2pMa,To Basket,Aiden Macaulay,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,84,1.0,2025-01-06
+84,CU,SLS,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,4.0,2025-01-06
+86,CU,SLS,St. Lawrence Saints,2pmi,N/A,Andrew Cowan,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,1.0,2025-01-06
+87,CU,SLS,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,4.0,2025-01-06
+88,CU,SLS,St. Lawrence Saints,Foul,To Basket,Trey Syroka,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,1.0,2025-01-06
+91,CU,SLS,Clarkson University Golden Knights,2pMa,To Basket,Casey Montesano,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,92,1.0,2025-01-06
+93,CU,SLS,St. Lawrence Saints,2pmi,To Basket,Adam Dudzinski,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,94,1.0,2025-01-06
+94,CU,SLS,St. Lawrence Saints,2pmi,N/A,Adam Dudzinski,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,1.0,2025-01-06
+95,CU,SLS,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,96,4.0,2025-01-06
+98,CU,SLS,,Foul,To Basket,Dan Anderson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,1.0,2025-01-06
+101,CU,SLS,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,102,4.0,2025-01-06
+102,CU,SLS,St. Lawrence Saints,2pmi,To Basket,Aiden Macaulay,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,1.0,2025-01-06
+104,CU,SLS,St. Lawrence Saints,2pMa,To Basket,Gavin Macaulay,PNR,High,Off,Andrew Cowan,Cuts,N/A,Basket,Liberty League,Liberty League,105,1.0,2025-01-06
+105,CU,SLS,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,106,1.0,2025-01-06
+107,CU,SLS,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,108,1.0,2025-01-06
+109,CU,SLS,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,110,4.0,2025-01-06
+110,CU,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Aiden Macaulay,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,4.0,2025-01-06
+111,CU,SLS,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,1.0,2025-01-06
+112,CU,SLS,St. Lawrence Saints,2pmi,Hook Shot,Andrew Cowan,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,1.0,2025-01-06
+113,CU,SLS,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,114,4.0,2025-01-06
+114,CU,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,4.0,2025-01-06
+115,CU,SLS,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,116,1.0,2025-01-06
+116,CU,SLS,St. Lawrence Saints,2pMa,To Basket,Chris Downs Jr.,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,1.0,2025-01-06
+117,CU,SLS,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,1.0,2025-01-06
+118,CU,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Alexi Twahili,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,4.0,2025-01-06
+120,CU,SLS,St. Lawrence Saints,2pmi,To Basket,Adam Dudzinski,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,121,1.0,2025-01-06
+121,CU,SLS,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,4.0,2025-01-06
+122,CU,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Trey Syroka,PNR,Left,Off,Troy McPherson,Spot Ups,N/A,Shot,Liberty League,Liberty League,123,4.0,2025-01-06
+123,CU,SLS,Clarkson University Golden Knights,2pmi,To Basket,Ben Phillips,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,124,1.0,2025-01-06
+125,CU,SLS,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,126,4.0,2025-01-06
+127,CU,SLS,Clarkson University Golden Knights,3pMa,Dribble Jumper,Jack Dalgety,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,4.0,2025-01-06
+128,CU,SLS,St. Lawrence Saints,Turnover,N/A,Alexi Twahili,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,129,1.0,2025-01-06
+129,CU,SLS,Clarkson University Golden Knights,2pMa,To Basket,Ben Phillips,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,130,1.0,2025-01-06
+130,CU,SLS,St. Lawrence Saints,2pmi,To Basket,Troy McPherson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,1.0,2025-01-06
+132,CU,SLS,St. Lawrence Saints,Turnover,N/A,Alexi Twahili,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,133,1.0,2025-01-06
+133,CU,SLS,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Matteo Sinon,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,134,4.0,2025-01-06
+134,CU,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Trey Syroka,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,135,2.0,2025-01-06
+135,CU,SLS,St. Lawrence Saints,2pmi,To Basket,Alexi Twahili,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,136,2.0,2025-01-06
+136,CU,SLS,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Matteo Sinon,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,137,4.0,2025-01-06
+137,CU,SLS,St. Lawrence Saints,2pmi,To Basket,Andrew Cowan,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,138,1.0,2025-01-06
+138,CU,SLS,Clarkson University Golden Knights,Turnover,N/A,Matteo Sinon,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,1.0,2025-01-06
+139,CU,SLS,St. Lawrence Saints,2pmi,To Basket,Adam Dudzinski,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,1.0,2025-01-06
+141,CU,SLS,St. Lawrence Saints,Foul,Dribble Jumper,Adam Dudzinski,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,142,3.0,2025-01-06
+144,CU,SLS,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,145,4.0,2025-01-06
+145,CU,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,4.0,2025-01-06
+146,CU,SLS,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matteo Sinon,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,147,4.0,2025-01-06
+148,CU,SLS,Clarkson University Golden Knights,Foul,To Basket,Steve DeRegis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,1.0,2025-01-06
+151,CU,SLS,St. Lawrence Saints,And1,To Basket,Adam Dudzinski,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,152,1.0,2025-01-06
+153,CU,SLS,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Tyson Maxam,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,154,4.0,2025-01-06
+154,CU,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,4.0,2025-01-06
+155,CU,SLS,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Ben Rappa,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,156,4.0,2025-01-06
+156,CU,SLS,St. Lawrence Saints,3pMa,Dribble Jumper,Adam Dudzinski,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,4.0,2025-01-06
+158,CU,SLS,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,1.0,2025-01-06
+160,CU,SLS,Clarkson University Golden Knights,2pmi,To Basket,Finn Cork,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,1.0,2025-01-06
+161,CU,SLS,St. Lawrence Saints,2pMa,To Basket,Dan Anderson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,162,1.0,2025-01-06
+162,CU,SLS,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,163,1.0,2025-01-06
+163,CU,SLS,St. Lawrence Saints,2pmi,To Basket,Trey Syroka,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,164,1.0,2025-01-06
+164,CU,SLS,St. Lawrence Saints,2pmi,To Basket,Andrew Cowan,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,165,1.0,2025-01-06
+165,CU,SLS,Clarkson University Golden Knights,Turnover,N/A,Tyson Maxam,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,1.0,2025-01-06
+166,CU,SLS,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,167,1.0,2025-01-06
+168,CU,SLS,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,169,4.0,2025-01-06
+170,CU,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,PNR,High,Off,Chris Downs Jr.,Spot Ups,N/A,Shot,Liberty League,Liberty League,171,4.0,2025-01-06
+171,CU,SLS,Clarkson University Golden Knights,And1,To Basket,Finn Cork,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,172,1.0,2025-01-06
+173,CU,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,174,4.0,2025-01-06
+174,CU,SLS,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,175,4.0,2025-01-06
+175,CU,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,176,4.0,2025-01-06
+176,CU,SLS,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,1.0,2025-01-06
+177,CU,SLS,Clarkson University Golden Knights,And1,To Basket,Finn Cork,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,178,1.0,2025-01-06
+179,CU,SLS,St. Lawrence Saints,And1,To Basket,Adam Dudzinski,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,180,1.0,2025-01-06
+181,CU,SLS,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,182,1.0,2025-01-06
+182,CU,SLS,St. Lawrence Saints,2pMa,To Basket,Gavin Macaulay,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,Liberty League,Liberty League,183,1.0,2025-01-06
+183,CU,SLS,Clarkson University Golden Knights,Turnover,N/A,Lorenzo Rappa,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,184,1.0,2025-01-06
+184,CU,SLS,,Foul,N/A,Adam Dudzinski,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,185,1.0,2025-01-06
+186,CU,SLS,Clarkson University Golden Knights,Turnover,N/A,Steve DeRegis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,187,1.0,2025-01-06
+187,CU,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Dan Anderson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,188,4.0,2025-01-06
+188,CU,SLS,Clarkson University Golden Knights,Turnover,N/A,Lorenzo Rappa,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,189,1.0,2025-01-06
+189,CU,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Troy McPherson,Iso,Right,N/A,Gavin Macaulay,Spot Ups,N/A,Shot,Liberty League,Liberty League,190,4.0,2025-01-06
+190,CU,SLS,Clarkson University Golden Knights,Foul,N/A,Matteo Sinon,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,191,1.0,2025-01-06
+192,CU,SLS,St. Lawrence Saints,2pMa,To Basket,Dan Anderson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,193,1.0,2025-01-06
+194,CU,SLS,Clarkson University Golden Knights,Turnover,N/A,Steve DeRegis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,195,1.0,2025-01-06
+195,CU,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Troy McPherson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,196,4.0,2025-01-06
+198,CU,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Dan Anderson,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,199,4.0,2025-01-06
+199,CU,SLS,,Foul,N/A,Matteo Sinon,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,200,1.0,2025-01-06
+202,CU,SLS,St. Lawrence Saints,Turnover,To Basket,Troy McPherson,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,203,1.0,2025-01-06
+203,CU,SLS,Clarkson University Golden Knights,,N/A,Jack Dalgety,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,204,1.0,2025-01-06
+204,CU,SLS,,Foul,N/A,Steve DeRegis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,205,1.0,2025-01-06
+207,CU,SLS,St. Lawrence Saints,Foul,N/A,Troy McPherson,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,208,1.0,2025-01-06
+210,CU,SLS,,Foul,N/A,Lorenzo Rappa,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,211,1.0,2025-01-06
+213,CU,SLS,St. Lawrence Saints,3pmi,Dribble Jumper,Troy McPherson,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,214,4.0,2025-01-06
+214,CU,SLS,St. Lawrence Saints,2pmi,To Basket,Alexi Twahili,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,215,1.0,2025-01-06
+215,CU,SLS,Clarkson University Golden Knights,Turnover,N/A,Jack Dalgety,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,216,1.0,2025-01-06
+216,CU,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Alexi Twahili,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,217,4.0,2025-01-06

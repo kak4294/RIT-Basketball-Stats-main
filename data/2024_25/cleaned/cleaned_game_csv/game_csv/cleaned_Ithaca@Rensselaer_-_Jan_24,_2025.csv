@@ -1,0 +1,147 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,RPI,IC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,4.0,2025-01-24
+1,RPI,IC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,4.0,2025-01-24
+2,RPI,IC,Ithaca College,Turnover,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,1.0,2025-01-24
+3,RPI,IC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,4.0,2025-01-24
+4,RPI,IC,Rensselaer Polytechnic,2pmi,To Basket,Avery Eugster,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,1.0,2025-01-24
+5,RPI,IC,Ithaca College,2pmi,To Basket,Evan Cabral,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,1.0,2025-01-24
+6,RPI,IC,Rensselaer Polytechnic,2pmi,To Basket,Chuck Clemons,Post,Right,Right Shoulder,PJ Scalisi,Spot Ups,Right,Drive,Liberty League,Liberty League,7,1.0,2025-01-24
+7,RPI,IC,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,1.0,2025-01-24
+8,RPI,IC,Ithaca College,Turnover,N/A,Jaylon O'Neal,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,1.0,2025-01-24
+9,RPI,IC,Rensselaer Polytechnic,2pMa,To Basket,Dylan Matchett,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,1.0,2025-01-24
+10,RPI,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,4.0,2025-01-24
+11,RPI,IC,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Andrew Deppe,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,4.0,2025-01-24
+12,RPI,IC,Ithaca College,Turnover,N/A,Jaylon O'Neal,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,1.0,2025-01-24
+13,RPI,IC,Rensselaer Polytechnic,Turnover,N/A,Dylan Matchett,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,14,1.0,2025-01-24
+14,RPI,IC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,15,4.0,2025-01-24
+15,RPI,IC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,PNR,Left,N/A,Dylan Matchett,Spot Ups,N/A,Shot,Liberty League,Liberty League,16,4.0,2025-01-24
+16,RPI,IC,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,4.0,2025-01-24
+17,RPI,IC,Rensselaer Polytechnic,3pMa,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,4.0,2025-01-24
+18,RPI,IC,Ithaca College,2pmi,To Basket,Evan Cabral,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,19,1.0,2025-01-24
+19,RPI,IC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,4.0,2025-01-24
+20,RPI,IC,Rensselaer Polytechnic,2pmi,To Basket,PJ Scalisi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,21,1.0,2025-01-24
+21,RPI,IC,Ithaca College,2pmi,To Basket,Logan Wendell,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,1.0,2025-01-24
+22,RPI,IC,Rensselaer Polytechnic,2pMa,Dribble Jumper,Andrew Deppe,Post,Left,Left Shoulder,Chuck Clemons,Spot Ups,Straight,Drive,Liberty League,Liberty League,23,3.0,2025-01-24
+23,RPI,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,4.0,2025-01-24
+24,RPI,IC,Rensselaer Polytechnic,Turnover,N/A,Avery Eugster,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,25,1.0,2025-01-24
+25,RPI,IC,Ithaca College,2pmi,To Basket,Evan Cabral,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,1.0,2025-01-24
+26,RPI,IC,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Chuck Clemons,PNR,High,Off,Pat White,Spot Ups,N/A,Shot,Liberty League,Liberty League,27,4.0,2025-01-24
+27,RPI,IC,Ithaca College,3pmi,No Dribble Jumper,Jose Padilla,PNR,Right,Off,Alex Penders,Spot Ups,N/A,Shot,Liberty League,Liberty League,28,4.0,2025-01-24
+28,RPI,IC,Rensselaer Polytechnic,2pMa,To Basket,Chuck Clemons,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,29,1.0,2025-01-24
+29,RPI,IC,Ithaca College,2pmi,To Basket,Jose Padilla,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,1.0,2025-01-24
+30,RPI,IC,Rensselaer Polytechnic,2pmi,To Basket,Tucker Tharpe,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,31,1.0,2025-01-24
+32,RPI,IC,Ithaca College,2pmi,To Basket,Logan Wendell,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,1.0,2025-01-24
+34,RPI,IC,Ithaca College,3pmi,No Dribble Jumper,Alex Penders,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,35,4.0,2025-01-24
+35,RPI,IC,Rensselaer Polytechnic,Turnover,N/A,Avery Eugster,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,36,1.0,2025-01-24
+36,RPI,IC,Ithaca College,2pMa,Dribble Jumper,Aidan Holmes,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,37,2.0,2025-01-24
+37,RPI,IC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,38,4.0,2025-01-24
+38,RPI,IC,Rensselaer Polytechnic,3pMa,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,4.0,2025-01-24
+39,RPI,IC,Ithaca College,2pmi,To Basket,Alex Penders,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,1.0,2025-01-24
+40,RPI,IC,Rensselaer Polytechnic,Turnover,To Basket,Yechiel Stewart,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,41,1.0,2025-01-24
+41,RPI,IC,Ithaca College,And1,To Basket,Chris Leysath,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,42,1.0,2025-01-24
+43,RPI,IC,Rensselaer Polytechnic,2pmi,Dribble Jumper,Dylan Matchett,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,44,2.0,2025-01-24
+44,RPI,IC,Rensselaer Polytechnic,2pMa,To Basket,Tucker Tharpe,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,45,1.0,2025-01-24
+46,RPI,IC,Ithaca College,3pmi,Dribble Jumper,Evan Cabral,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,47,4.0,2025-01-24
+47,RPI,IC,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,48,1.0,2025-01-24
+48,RPI,IC,Ithaca College,2pmi,To Basket,Aidan Holmes,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,1.0,2025-01-24
+49,RPI,IC,Ithaca College,2pMa,To Basket,Chris Leysath,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,1.0,2025-01-24
+50,RPI,IC,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,51,1.0,2025-01-24
+51,RPI,IC,Ithaca College,2pmi,To Basket,Chris Leysath,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,1.0,2025-01-24
+52,RPI,IC,Rensselaer Polytechnic,2pmi,To Basket,Yechiel Stewart,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,1.0,2025-01-24
+53,RPI,IC,Ithaca College,Turnover,N/A,Aidan Holmes,PNR,Left,Off,Evan Cabral,Spot Ups,Left,Drive,Liberty League,Liberty League,54,1.0,2025-01-24
+55,RPI,IC,Rensselaer Polytechnic,Foul,Dribble Jumper,Chuck Clemons,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,56,2.0,2025-01-24
+58,RPI,IC,Ithaca College,2pmi,To Basket,Chris Leysath,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,59,1.0,2025-01-24
+59,RPI,IC,Rensselaer Polytechnic,2pmi,Drop Step,Yechiel Stewart,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,1.0,2025-01-24
+60,RPI,IC,Ithaca College,3pMa,No Dribble Jumper,Jaylon O'Neal,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,61,4.0,2025-01-24
+61,RPI,IC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,PNR,High,Away,Yechiel Stewart,Spot Ups,N/A,Shot,Liberty League,Liberty League,62,4.0,2025-01-24
+62,RPI,IC,Ithaca College,2pmi,To Basket,Jaylon O'Neal,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,1.0,2025-01-24
+64,RPI,IC,Rensselaer Polytechnic,2pmi,Dribble Jumper,Chuck Clemons,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,65,3.0,2025-01-24
+65,RPI,IC,Ithaca College,Turnover,To Basket,Jaylon O'Neal,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,1.0,2025-01-24
+66,RPI,IC,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,1.0,2025-01-24
+67,RPI,IC,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,68,4.0,2025-01-24
+69,RPI,IC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Post,Right,Left Shoulder,Dylan Matchett,Spot Ups,N/A,Shot,Liberty League,Liberty League,70,4.0,2025-01-24
+71,RPI,IC,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Dylan Matchett,Post,Left,Left Shoulder,PJ Scalisi,Spot Ups,N/A,Shot,Liberty League,Liberty League,72,4.0,2025-01-24
+72,RPI,IC,Ithaca College,Turnover,N/A,Cole Wissink,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,1.0,2025-01-24
+74,RPI,IC,Rensselaer Polytechnic,2pmi,Dribble Jumper,Dylan Matchett,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,3.0,2025-01-24
+75,RPI,IC,Ithaca College,3pmi,No Dribble Jumper,Alex Penders,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,76,4.0,2025-01-24
+76,RPI,IC,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,77,1.0,2025-01-24
+77,RPI,IC,Ithaca College,2pMa,To Basket,Alex Penders,Post,Middle,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,78,1.0,2025-01-24
+78,RPI,IC,Rensselaer Polytechnic,Turnover,To Basket,Andrew Deppe,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,1.0,2025-01-24
+79,RPI,IC,Ithaca College,Turnover,N/A,Aidan Holmes,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,1.0,2025-01-24
+80,RPI,IC,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Chuck Clemons,PNR,Left,Away,Andrew Deppe,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,81,4.0,2025-01-24
+81,RPI,IC,Ithaca College,2pmi,Dribble Jumper,Logan Wendell,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,82,2.0,2025-01-24
+83,RPI,IC,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,84,1.0,2025-01-24
+84,RPI,IC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,4.0,2025-01-24
+86,RPI,IC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,4.0,2025-01-24
+87,RPI,IC,Ithaca College,Turnover,N/A,Evan Cabral,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,1.0,2025-01-24
+88,RPI,IC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,4.0,2025-01-24
+89,RPI,IC,Ithaca College,3pmi,Dribble Jumper,Aidan Holmes,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,90,4.0,2025-01-24
+92,RPI,IC,Rensselaer Polytechnic,2pmi,Dribble Jumper,PJ Scalisi,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,93,3.0,2025-01-24
+94,RPI,IC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,4.0,2025-01-24
+95,RPI,IC,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,96,1.0,2025-01-24
+96,RPI,IC,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,97,4.0,2025-01-24
+98,RPI,IC,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,1.0,2025-01-24
+99,RPI,IC,Rensselaer Polytechnic,Foul,To Basket,Andrew Deppe,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,1.0,2025-01-24
+103,RPI,IC,Ithaca College,2pmi,To Basket,Aidan Holmes,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,1.0,2025-01-24
+104,RPI,IC,Rensselaer Polytechnic,Turnover,N/A,Chuck Clemons,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,1.0,2025-01-24
+105,RPI,IC,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,106,4.0,2025-01-24
+106,RPI,IC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,107,4.0,2025-01-24
+107,RPI,IC,Ithaca College,Turnover,N/A,Logan Wendell,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,108,1.0,2025-01-24
+108,RPI,IC,Rensselaer Polytechnic,2pmi,To Basket,PJ Scalisi,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,109,1.0,2025-01-24
+109,RPI,IC,Ithaca College,2pMa,To Basket,Cole Wissink,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,110,1.0,2025-01-24
+110,RPI,IC,Rensselaer Polytechnic,Turnover,To Basket,Avery Eugster,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,1.0,2025-01-24
+111,RPI,IC,Ithaca College,2pmi,To Basket,Logan Wendell,PNR,Right,Off,Chris Leysath,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,112,1.0,2025-01-24
+112,RPI,IC,Ithaca College,And1,To Basket,Chris Leysath,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,1.0,2025-01-24
+114,RPI,IC,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,1.0,2025-01-24
+115,RPI,IC,Ithaca College,Turnover,N/A,Logan Wendell,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,116,1.0,2025-01-24
+116,RPI,IC,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Avery Eugster,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,4.0,2025-01-24
+117,RPI,IC,Ithaca College,2pmi,To Basket,Logan Wendell,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,1.0,2025-01-24
+118,RPI,IC,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,1.0,2025-01-24
+119,RPI,IC,Ithaca College,2pmi,To Basket,Aidan Holmes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,120,1.0,2025-01-24
+121,RPI,IC,Ithaca College,Turnover,N/A,Alex Penders,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,1.0,2025-01-24
+122,RPI,IC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,PNR,Left,Off,Yechiel Stewart,Spot Ups,N/A,Shot,Liberty League,Liberty League,123,4.0,2025-01-24
+123,RPI,IC,Rensselaer Polytechnic,2pMa,To Basket,Dylan Matchett,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,124,1.0,2025-01-24
+124,RPI,IC,Ithaca College,And1,To Basket,Logan Wendell,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,125,1.0,2025-01-24
+126,RPI,IC,Rensselaer Polytechnic,2pmi,To Basket,PJ Scalisi,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,127,1.0,2025-01-24
+127,RPI,IC,Rensselaer Polytechnic,2pmi,To Basket,Tucker Tharpe,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,1.0,2025-01-24
+128,RPI,IC,Rensselaer Polytechnic,And1,To Basket,Pat White,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,129,1.0,2025-01-24
+130,RPI,IC,Ithaca College,Foul,To Basket,Logan Wendell,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,1.0,2025-01-24
+133,RPI,IC,Rensselaer Polytechnic,2pmi,To Basket,PJ Scalisi,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,134,1.0,2025-01-24
+134,RPI,IC,Ithaca College,2pmi,To Basket,Evan Cabral,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,135,1.0,2025-01-24
+135,RPI,IC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,PNR,Right,Away,Pat White,Spot Ups,N/A,Shot,Liberty League,Liberty League,136,4.0,2025-01-24
+137,RPI,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,138,4.0,2025-01-24
+138,RPI,IC,Ithaca College,2pmi,To Basket,Aidan Holmes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,1.0,2025-01-24
+140,RPI,IC,Ithaca College,Foul,To Basket,Evan Cabral,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,1.0,2025-01-24
+143,RPI,IC,Rensselaer Polytechnic,3pmi,Dribble Jumper,Dylan Matchett,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,144,4.0,2025-01-24
+145,RPI,IC,Ithaca College,Foul,N/A,Evan Cabral,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,1.0,2025-01-24
+148,RPI,IC,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,1.0,2025-01-24
+149,RPI,IC,Ithaca College,3pmi,No Dribble Jumper,Chris Leysath,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,150,4.0,2025-01-24
+150,RPI,IC,Rensselaer Polytechnic,Turnover,N/A,Avery Eugster,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,151,1.0,2025-01-24
+151,RPI,IC,Ithaca College,2pMa,To Basket,Evan Cabral,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,152,1.0,2025-01-24
+152,RPI,IC,Rensselaer Polytechnic,Foul,N/A,Chuck Clemons,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,153,1.0,2025-01-24
+155,RPI,IC,Rensselaer Polytechnic,2pmi,To Basket,Avery Eugster,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,156,1.0,2025-01-24
+156,RPI,IC,Ithaca College,2pmi,To Basket,Evan Cabral,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,1.0,2025-01-24
+157,RPI,IC,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Yechiel Stewart,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,158,4.0,2025-01-24
+158,RPI,IC,Ithaca College,2pMa,To Basket,Logan Wendell,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,1.0,2025-01-24
+159,RPI,IC,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Chuck Clemons,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,160,4.0,2025-01-24
+160,RPI,IC,Ithaca College,2pmi,To Basket,Aidan Holmes,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,1.0,2025-01-24
+161,RPI,IC,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,162,1.0,2025-01-24
+163,RPI,IC,Ithaca College,Turnover,N/A,Jaylon O'Neal,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,164,1.0,2025-01-24
+164,RPI,IC,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Andrew Deppe,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,165,4.0,2025-01-24
+165,RPI,IC,Ithaca College,2pMa,To Basket,Aidan Holmes,PNR,Left,Off,Jaylon O'Neal,Cuts,N/A,Basket,Liberty League,Liberty League,166,1.0,2025-01-24
+166,RPI,IC,Rensselaer Polytechnic,3pMa,No Dribble Jumper,PJ Scalisi,PNR,Left,Away,Andrew Deppe,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,167,4.0,2025-01-24
+167,RPI,IC,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,4.0,2025-01-24
+169,RPI,IC,Ithaca College,3pmi,No Dribble Jumper,Jaylon O'Neal,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,170,4.0,2025-01-24
+170,RPI,IC,,Foul,N/A,Dylan Matchett,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,171,1.0,2025-01-24
+173,RPI,IC,Ithaca College,3pmi,No Dribble Jumper,Thomas Mckiernan,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,174,4.0,2025-01-24
+174,RPI,IC,Rensselaer Polytechnic,3pMa,No Dribble Jumper,PJ Scalisi,Post,Left,Left Shoulder,Avery Eugster,Spot Ups,N/A,Shot,Liberty League,Liberty League,175,4.0,2025-01-24
+175,RPI,IC,Ithaca College,Foul,N/A,Yoav Regev,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,176,1.0,2025-01-24
+177,RPI,IC,Rensselaer Polytechnic,2pmi,To Basket,Abubacarr Camara,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,178,1.0,2025-01-24
+179,RPI,IC,Rensselaer Polytechnic,3pMa,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,180,4.0,2025-01-24
+180,RPI,IC,Ithaca College,Turnover,N/A,Jose Padilla,PNR,High,Off,Yoav Regev,Spot Ups,Left,Drive,Liberty League,Liberty League,181,1.0,2025-01-24
+181,RPI,IC,Rensselaer Polytechnic,Turnover,N/A,Olu Olaniran,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,182,1.0,2025-01-24
+182,RPI,IC,Ithaca College,2pmi,Dribble Jumper,Laurence Brady,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,183,2.0,2025-01-24
+183,RPI,IC,Rensselaer Polytechnic,2pMa,To Basket,Olu Olaniran,Iso,Left,N/A,Blake Smith,Cuts,N/A,Basket,Liberty League,Liberty League,184,1.0,2025-01-24
+184,RPI,IC,Ithaca College,Foul,To Basket,Laurence Brady,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,185,1.0,2025-01-24
+187,RPI,IC,Rensselaer Polytechnic,Turnover,N/A,Ryan Jackson,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,188,1.0,2025-01-24
+188,RPI,IC,Ithaca College,3pMa,No Dribble Jumper,Jose Padilla,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,189,4.0,2025-01-24

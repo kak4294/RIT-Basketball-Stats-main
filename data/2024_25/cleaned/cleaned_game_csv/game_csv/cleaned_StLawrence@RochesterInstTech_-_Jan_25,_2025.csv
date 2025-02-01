@@ -1,0 +1,161 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,RIT,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Adam Dudzinski,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,3.0,2025-01-25
+1,RIT,SLS,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Nolan Smih,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,4.0,2025-01-25
+2,RIT,SLS,St. Lawrence Saints,2pMa,To Basket,Andrew Cowan,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,1.0,2025-01-25
+3,RIT,SLS,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,4.0,2025-01-25
+4,RIT,SLS,St. Lawrence Saints,2pMa,To Basket,Aiden Macaulay,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,1.0,2025-01-25
+6,RIT,SLS,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,1.0,2025-01-25
+7,RIT,SLS,St. Lawrence Saints,2pmi,To Basket,Aiden Macaulay,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,1.0,2025-01-25
+9,RIT,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Trey Syroka,PNR,High,Off,Aiden Macaulay,Spot Ups,N/A,Shot,Liberty League,Liberty League,10,4.0,2025-01-25
+10,RIT,SLS,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,1.0,2025-01-25
+11,RIT,SLS,,Foul,To Basket,Gavin Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,1.0,2025-01-25
+14,RIT,SLS,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,15,1.0,2025-01-25
+15,RIT,SLS,St. Lawrence Saints,2pMa,To Basket,Andrew Cowan,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,1.0,2025-01-25
+17,RIT,SLS,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,4.0,2025-01-25
+18,RIT,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,19,4.0,2025-01-25
+19,RIT,SLS,Rochester Institute of Technology Tigers,Turnover,N/A,Zac Ditzel,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,1.0,2025-01-25
+20,RIT,SLS,St. Lawrence Saints,Foul,To Basket,Adam Dudzinski,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,21,1.0,2025-01-25
+23,RIT,SLS,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,1.0,2025-01-25
+24,RIT,SLS,St. Lawrence Saints,2pMa,To Basket,Trey Syroka,PNR,High,Off,Chris Downs Jr.,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,25,1.0,2025-01-25
+25,RIT,SLS,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,4.0,2025-01-25
+27,RIT,SLS,Rochester Institute of Technology Tigers,2pmi,To Basket,Kenny Wilburn,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,28,1.0,2025-01-25
+28,RIT,SLS,St. Lawrence Saints,Turnover,N/A,Adam Dudzinski,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,29,1.0,2025-01-25
+29,RIT,SLS,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Zac Ditzel,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,2.0,2025-01-25
+30,RIT,SLS,St. Lawrence Saints,2pmi,To Basket,Chris Downs Jr.,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,31,1.0,2025-01-25
+31,RIT,SLS,Rochester Institute of Technology Tigers,2pmi,To Basket,Brody Brown,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,1.0,2025-01-25
+32,RIT,SLS,St. Lawrence Saints,2pmi,To Basket,Troy McPherson,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,1.0,2025-01-25
+33,RIT,SLS,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,1.0,2025-01-25
+34,RIT,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,35,4.0,2025-01-25
+35,RIT,SLS,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Marcus Graves,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,36,4.0,2025-01-25
+36,RIT,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,37,4.0,2025-01-25
+37,RIT,SLS,Rochester Institute of Technology Tigers,2pmi,To Basket,Marcus Graves,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,38,1.0,2025-01-25
+38,RIT,SLS,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,1.0,2025-01-25
+39,RIT,SLS,St. Lawrence Saints,3pMa,Dribble Jumper,Dan Anderson,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,4.0,2025-01-25
+40,RIT,SLS,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Zac Ditzel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,41,4.0,2025-01-25
+41,RIT,SLS,St. Lawrence Saints,Turnover,N/A,Gavin Macaulay,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,42,1.0,2025-01-25
+42,RIT,SLS,Rochester Institute of Technology Tigers,2pmi,To Basket,Jackson Otis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,1.0,2025-01-25
+43,RIT,SLS,St. Lawrence Saints,3pMa,Dribble Jumper,Aiden Macaulay,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,44,4.0,2025-01-25
+44,RIT,SLS,Rochester Institute of Technology Tigers,2pmi,No Dribble Jumper,Jackson Otis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,45,3.0,2025-01-25
+45,RIT,SLS,St. Lawrence Saints,Foul,To Basket,Aiden Macaulay,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,46,1.0,2025-01-25
+48,RIT,SLS,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Mark Osime,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,4.0,2025-01-25
+49,RIT,SLS,St. Lawrence Saints,2pmi,To Basket,Aiden Macaulay,PNR,High,Off,Andrew Cowan,Cuts,N/A,Screen,Liberty League,Liberty League,50,1.0,2025-01-25
+50,RIT,SLS,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Zac Ditzel,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,51,4.0,2025-01-25
+51,RIT,SLS,St. Lawrence Saints,2pMa,To Basket,Trey Syroka,PNR,Left,N/A,Gavin Macaulay,Spot Ups,Right,Drive,Liberty League,Liberty League,52,1.0,2025-01-25
+52,RIT,SLS,Rochester Institute of Technology Tigers,Turnover,N/A,Luke Granto,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,1.0,2025-01-25
+53,RIT,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Troy McPherson,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,54,4.0,2025-01-25
+54,RIT,SLS,Rochester Institute of Technology Tigers,2pMa,To Basket,Luke Granto,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,55,1.0,2025-01-25
+56,RIT,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Troy McPherson,PNR,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,57,4.0,2025-01-25
+57,RIT,SLS,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Mark Osime,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,58,2.0,2025-01-25
+58,RIT,SLS,St. Lawrence Saints,2pMa,Dribble Jumper,Troy McPherson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,59,2.0,2025-01-25
+59,RIT,SLS,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,1.0,2025-01-25
+60,RIT,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Troy McPherson,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,61,4.0,2025-01-25
+61,RIT,SLS,Rochester Institute of Technology Tigers,Turnover,N/A,Mark Osime,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,1.0,2025-01-25
+62,RIT,SLS,St. Lawrence Saints,2pMa,To Basket,Aiden Macaulay,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,1.0,2025-01-25
+63,RIT,SLS,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Mark Osime,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,4.0,2025-01-25
+64,RIT,SLS,St. Lawrence Saints,Turnover,N/A,Aiden Macaulay,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,65,1.0,2025-01-25
+65,RIT,SLS,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Luke Granto,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,2.0,2025-01-25
+66,RIT,SLS,St. Lawrence Saints,3pMa,Dribble Jumper,Troy McPherson,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,4.0,2025-01-25
+68,RIT,SLS,Rochester Institute of Technology Tigers,2pmi,No Dribble Jumper,Kenny Wilburn,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,69,3.0,2025-01-25
+69,RIT,SLS,St. Lawrence Saints,2pmi,No Dribble Jumper,Dan Anderson,PNR,Right,Off,Chris Downs Jr.,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,70,3.0,2025-01-25
+70,RIT,SLS,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,71,1.0,2025-01-25
+72,RIT,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Trey Syroka,PNR,High,Off,Adam Dudzinski,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,73,4.0,2025-01-25
+73,RIT,SLS,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,74,4.0,2025-01-25
+74,RIT,SLS,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,1.0,2025-01-25
+75,RIT,SLS,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Marcus Graves,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,76,4.0,2025-01-25
+76,RIT,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,77,4.0,2025-01-25
+77,RIT,SLS,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,78,1.0,2025-01-25
+78,RIT,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Andrew Cowan,Post,Left,Left Shoulder,Dan Anderson,Spot Ups,N/A,Shot,Liberty League,Liberty League,79,4.0,2025-01-25
+79,RIT,SLS,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,4.0,2025-01-25
+80,RIT,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Post,Left,Left Shoulder,Gavin Macaulay,Spot Ups,N/A,Shot,Liberty League,Liberty League,81,4.0,2025-01-25
+82,RIT,SLS,Rochester Institute of Technology Tigers,Turnover,To Basket,Brock Bowen,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,1.0,2025-01-25
+83,RIT,SLS,St. Lawrence Saints,2pMa,To Basket,Gavin Macaulay,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,84,1.0,2025-01-25
+84,RIT,SLS,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Brody Brown,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,4.0,2025-01-25
+85,RIT,SLS,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Luke Granto,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,86,4.0,2025-01-25
+86,RIT,SLS,St. Lawrence Saints,2pmi,To Basket,Adam Dudzinski,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,1.0,2025-01-25
+87,RIT,SLS,Rochester Institute of Technology Tigers,2pMa,To Basket,Zac Ditzel,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,1.0,2025-01-25
+88,RIT,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Gavin Macaulay,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,3.0,2025-01-25
+89,RIT,SLS,Rochester Institute of Technology Tigers,2pmi,To Basket,Luke Granto,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,90,1.0,2025-01-25
+91,RIT,SLS,St. Lawrence Saints,And1,To Basket,Adam Dudzinski,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,92,1.0,2025-01-25
+93,RIT,SLS,Rochester Institute of Technology Tigers,2pmi,To Basket,Zac Ditzel,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,94,1.0,2025-01-25
+94,RIT,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,4.0,2025-01-25
+95,RIT,SLS,Rochester Institute of Technology Tigers,Turnover,To Basket,Mark Osime,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,96,1.0,2025-01-25
+97,RIT,SLS,St. Lawrence Saints,Foul,Dribble Jumper,Adam Dudzinski,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,4.0,2025-01-25
+101,RIT,SLS,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,102,4.0,2025-01-25
+103,RIT,SLS,St. Lawrence Saints,2pmi,To Basket,Andrew Cowan,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,1.0,2025-01-25
+104,RIT,SLS,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,4.0,2025-01-25
+105,RIT,SLS,St. Lawrence Saints,Turnover,N/A,Andrew Cowan,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,106,1.0,2025-01-25
+106,RIT,SLS,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Chase Dickens,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,107,2.0,2025-01-25
+108,RIT,SLS,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,109,1.0,2025-01-25
+111,RIT,SLS,St. Lawrence Saints,Turnover,N/A,Adam Dudzinski,PNR,High,Off,Chris Downs Jr.,P&R Roll Man,Left,Pop,Liberty League,Liberty League,112,1.0,2025-01-25
+112,RIT,SLS,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,1.0,2025-01-25
+113,RIT,SLS,St. Lawrence Saints,2pMa,To Basket,Chris Downs Jr.,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,114,1.0,2025-01-25
+114,RIT,SLS,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,4.0,2025-01-25
+115,RIT,SLS,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,116,1.0,2025-01-25
+116,RIT,SLS,St. Lawrence Saints,Foul,To Basket,Colton Suriano,Off Screens,Right,Curl,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,1.0,2025-01-25
+119,RIT,SLS,Rochester Institute of Technology Tigers,2pmi,N/A,Kenny Wilburn,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,120,1.0,2025-01-25
+120,RIT,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Troy McPherson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,121,4.0,2025-01-25
+121,RIT,SLS,Rochester Institute of Technology Tigers,Turnover,N/A,Nolan Smih,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,1.0,2025-01-25
+123,RIT,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,124,4.0,2025-01-25
+124,RIT,SLS,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Marcus Graves,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,125,4.0,2025-01-25
+125,RIT,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Colton Suriano,PNR,Left,Off,Troy McPherson,Spot Ups,N/A,Shot,Liberty League,Liberty League,126,4.0,2025-01-25
+126,RIT,SLS,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,127,1.0,2025-01-25
+127,RIT,SLS,St. Lawrence Saints,2pMa,To Basket,Dan Anderson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,1.0,2025-01-25
+128,RIT,SLS,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,129,1.0,2025-01-25
+129,RIT,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,130,4.0,2025-01-25
+130,RIT,SLS,Rochester Institute of Technology Tigers,Foul,To Basket,Chase Dickens,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,1.0,2025-01-25
+133,RIT,SLS,St. Lawrence Saints,Turnover,N/A,Gavin Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,134,1.0,2025-01-25
+134,RIT,SLS,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,135,1.0,2025-01-25
+135,RIT,SLS,,Foul,N/A,Gavin Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,136,1.0,2025-01-25
+138,RIT,SLS,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Marcus Graves,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,4.0,2025-01-25
+139,RIT,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Troy McPherson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,4.0,2025-01-25
+140,RIT,SLS,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,1.0,2025-01-25
+141,RIT,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Alexi Twahili,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,142,4.0,2025-01-25
+142,RIT,SLS,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,143,1.0,2025-01-25
+143,RIT,SLS,St. Lawrence Saints,2pmi,To Basket,Troy McPherson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,144,1.0,2025-01-25
+144,RIT,SLS,St. Lawrence Saints,2pMa,To Basket,Colton Suriano,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,145,1.0,2025-01-25
+146,RIT,SLS,Rochester Institute of Technology Tigers,Turnover,N/A,Marcus Graves,Spot Ups,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,147,1.0,2025-01-25
+147,RIT,SLS,St. Lawrence Saints,2pmi,Hook Shot,Andrew Cowan,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,148,1.0,2025-01-25
+148,RIT,SLS,Rochester Institute of Technology Tigers,Turnover,N/A,Marcus Graves,Spot Ups,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,1.0,2025-01-25
+149,RIT,SLS,St. Lawrence Saints,Turnover,N/A,Alexi Twahili,PNR,Left,Off,Gavin Macaulay,Spot Ups,Right,Drive,Liberty League,Liberty League,150,1.0,2025-01-25
+150,RIT,SLS,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,151,4.0,2025-01-25
+151,RIT,SLS,St. Lawrence Saints,Turnover,N/A,Alexi Twahili,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,152,1.0,2025-01-25
+152,RIT,SLS,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,153,1.0,2025-01-25
+153,RIT,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Gavin Macaulay,PNR,Left,Off,Alexi Twahili,Spot Ups,N/A,Shot,Liberty League,Liberty League,154,4.0,2025-01-25
+154,RIT,SLS,St. Lawrence Saints,2pMa,To Basket,Gavin Macaulay,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,1.0,2025-01-25
+155,RIT,SLS,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,156,4.0,2025-01-25
+156,RIT,SLS,St. Lawrence Saints,Turnover,N/A,Gavin Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,1.0,2025-01-25
+157,RIT,SLS,Rochester Institute of Technology Tigers,2pMa,To Basket,Brock Bowen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,158,1.0,2025-01-25
+158,RIT,SLS,St. Lawrence Saints,2pmi,To Basket,Brayden Shepardson,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,1.0,2025-01-25
+159,RIT,SLS,Rochester Institute of Technology Tigers,Foul,To Basket,Brody Brown,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,160,1.0,2025-01-25
+162,RIT,SLS,St. Lawrence Saints,Foul,To Basket,Chris Downs Jr.,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,163,1.0,2025-01-25
+165,RIT,SLS,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Brock Bowen,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,2.0,2025-01-25
+166,RIT,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Brayden Shepardson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,167,4.0,2025-01-25
+167,RIT,SLS,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Mark Osime,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,4.0,2025-01-25
+168,RIT,SLS,St. Lawrence Saints,Turnover,N/A,Brayden Shepardson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,169,1.0,2025-01-25
+169,RIT,SLS,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,170,4.0,2025-01-25
+170,RIT,SLS,St. Lawrence Saints,3pmi,Dribble Jumper,Patrick Mulholland,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,171,4.0,2025-01-25
+171,RIT,SLS,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,172,1.0,2025-01-25
+172,RIT,SLS,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,1.0,2025-01-25
+173,RIT,SLS,St. Lawrence Saints,2pMa,To Basket,Patrick Mulholland,PNR,High,Off,Chris Downs Jr.,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,174,1.0,2025-01-25
+174,RIT,SLS,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,175,4.0,2025-01-25
+175,RIT,SLS,St. Lawrence Saints,Turnover,N/A,Alexi Twahili,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,176,1.0,2025-01-25
+176,RIT,SLS,Rochester Institute of Technology Tigers,2pMa,To Basket,Luke Granto,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,1.0,2025-01-25
+177,RIT,SLS,,Foul,N/A,Brayden Shepardson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,178,1.0,2025-01-25
+179,RIT,SLS,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,180,1.0,2025-01-25
+180,RIT,SLS,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Josiah Turner,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,4.0,2025-01-25
+181,RIT,SLS,,Foul,N/A,Lenny Buddington lll,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,182,1.0,2025-01-25
+184,RIT,SLS,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,185,1.0,2025-01-25
+186,RIT,SLS,St. Lawrence Saints,Turnover,N/A,Charlie Vonoehsen,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,187,1.0,2025-01-25
+187,RIT,SLS,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Luke Granto,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,188,4.0,2025-01-25
+188,RIT,SLS,St. Lawrence Saints,Foul,To Basket,Lenny Buddington lll,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,189,1.0,2025-01-25
+191,RIT,SLS,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Marcus Graves,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,192,4.0,2025-01-25
+192,RIT,SLS,Rochester Institute of Technology Tigers,And1,To Basket,Josiah Turner,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,193,1.0,2025-01-25
+194,RIT,SLS,St. Lawrence Saints,Turnover,N/A,Lenny Buddington lll,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,195,1.0,2025-01-25
+195,RIT,SLS,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,196,1.0,2025-01-25
+196,RIT,SLS,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,197,1.0,2025-01-25
+198,RIT,SLS,,Foul,N/A,Brody Brown,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,199,1.0,2025-01-25
+200,RIT,SLS,St. Lawrence Saints,Turnover,N/A,Lenny Buddington lll,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,201,1.0,2025-01-25
+201,RIT,SLS,Rochester Institute of Technology Tigers,Foul,N/A,Brody Brown,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,202,1.0,2025-01-25
+204,RIT,SLS,St. Lawrence Saints,2pMa,To Basket,Charlie Vonoehsen,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,205,1.0,2025-01-25
+205,RIT,SLS,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Luke Granto,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,206,4.0,2025-01-25
+207,RIT,SLS,Rochester Institute of Technology Tigers,2pMa,To Basket,Brody Brown,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,208,1.0,2025-01-25

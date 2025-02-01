@@ -1,0 +1,141 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,UNY,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Gavin Macaulay,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,3.0,2025-01-17
+1,UNY,SLS,Union (NY) Chargers,Turnover,N/A,Matthew Garside,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,1.0,2025-01-17
+2,UNY,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Aiden Macaulay,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,2.0,2025-01-17
+3,UNY,SLS,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,4.0,2025-01-17
+4,UNY,SLS,St. Lawrence Saints,Turnover,N/A,Adam Dudzinski,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,1.0,2025-01-17
+5,UNY,SLS,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,4.0,2025-01-17
+6,UNY,SLS,Union (NY) Chargers,2pmi,To Basket,Christian Dufort,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,1.0,2025-01-17
+7,UNY,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Adam Dudzinski,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,2.0,2025-01-17
+9,UNY,SLS,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,1.0,2025-01-17
+10,UNY,SLS,Union (NY) Chargers,Turnover,To Basket,Christian Dufort,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,1.0,2025-01-17
+11,UNY,SLS,St. Lawrence Saints,2pMa,To Basket,Gavin Macaulay,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,1.0,2025-01-17
+12,UNY,SLS,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,1.0,2025-01-17
+14,UNY,SLS,Union (NY) Chargers,2pmi,Dribble Jumper,Tanner Tedesco,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,15,2.0,2025-01-17
+17,UNY,SLS,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,4.0,2025-01-17
+18,UNY,SLS,St. Lawrence Saints,2pmi,To Basket,Gavin Macaulay,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,19,1.0,2025-01-17
+20,UNY,SLS,Union (NY) Chargers,3pMa,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,21,4.0,2025-01-17
+21,UNY,SLS,St. Lawrence Saints,2pMa,Drop Step,Andrew Cowan,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,1.0,2025-01-17
+22,UNY,SLS,Union (NY) Chargers,Turnover,N/A,Matthew Garside,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,23,1.0,2025-01-17
+23,UNY,SLS,St. Lawrence Saints,Foul,To Basket,Gavin Macaulay,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,1.0,2025-01-17
+26,UNY,SLS,Union (NY) Chargers,3pMa,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,27,4.0,2025-01-17
+27,UNY,SLS,St. Lawrence Saints,2pmi,To Basket,Chris Downs Jr.,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,28,1.0,2025-01-17
+29,UNY,SLS,St. Lawrence Saints,2pmi,To Basket,Adam Dudzinski,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,1.0,2025-01-17
+30,UNY,SLS,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,31,1.0,2025-01-17
+31,UNY,SLS,Union (NY) Chargers,2pmi,No Dribble Jumper,Will Yakoobian,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,3.0,2025-01-17
+32,UNY,SLS,St. Lawrence Saints,3pmi,Dribble Jumper,Adam Dudzinski,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,4.0,2025-01-17
+33,UNY,SLS,St. Lawrence Saints,Turnover,N/A,Chris Downs Jr.,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,1.0,2025-01-17
+34,UNY,SLS,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,35,1.0,2025-01-17
+35,UNY,SLS,St. Lawrence Saints,2pMa,To Basket,Troy McPherson,PNR,Left,Off,Chris Downs Jr.,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,36,1.0,2025-01-17
+36,UNY,SLS,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,37,1.0,2025-01-17
+37,UNY,SLS,St. Lawrence Saints,2pMa,To Basket,Troy McPherson,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,38,1.0,2025-01-17
+38,UNY,SLS,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,1.0,2025-01-17
+39,UNY,SLS,St. Lawrence Saints,2pMa,To Basket,Aiden Macaulay,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,1.0,2025-01-17
+40,UNY,SLS,Union (NY) Chargers,2pMa,To Basket,Christian Dufort,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,41,1.0,2025-01-17
+41,UNY,SLS,St. Lawrence Saints,Turnover,To Basket,Adam Dudzinski,Post,Left,Right Shoulder,Aiden Macaulay,Cuts,N/A,Basket,Liberty League,Liberty League,42,1.0,2025-01-17
+42,UNY,SLS,Union (NY) Chargers,Turnover,To Basket,Jack Plesser,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,1.0,2025-01-17
+43,UNY,SLS,St. Lawrence Saints,2pmi,To Basket,Troy McPherson,PNR,Left,Off,Chris Downs Jr.,P&R Roll Man,Right,Pop,Liberty League,Liberty League,44,1.0,2025-01-17
+44,UNY,SLS,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,45,1.0,2025-01-17
+45,UNY,SLS,St. Lawrence Saints,3pmi,Dribble Jumper,Gavin Macaulay,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,46,4.0,2025-01-17
+46,UNY,SLS,St. Lawrence Saints,2pmi,To Basket,Troy McPherson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,47,2.0,2025-01-17
+47,UNY,SLS,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,48,4.0,2025-01-17
+48,UNY,SLS,St. Lawrence Saints,2pmi,N/A,Adam Dudzinski,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,1.0,2025-01-17
+50,UNY,SLS,St. Lawrence Saints,Turnover,N/A,Gavin Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,51,1.0,2025-01-17
+51,UNY,SLS,Union (NY) Chargers,Turnover,To Basket,Brendan Reid,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,1.0,2025-01-17
+52,UNY,SLS,St. Lawrence Saints,Turnover,N/A,Andrew Cowan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,1.0,2025-01-17
+54,UNY,SLS,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,55,4.0,2025-01-17
+55,UNY,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Trey Syroka,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,56,3.0,2025-01-17
+57,UNY,SLS,Union (NY) Chargers,2pmi,To Basket,Brendan Reid,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,58,1.0,2025-01-17
+58,UNY,SLS,St. Lawrence Saints,And1,To Basket,Gavin Macaulay,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,59,1.0,2025-01-17
+60,UNY,SLS,Union (NY) Chargers,3pmi,No Dribble Jumper,Harrison Collins,PNR,High,Off,Christian Dufort,Spot Ups,N/A,Shot,Liberty League,Liberty League,61,4.0,2025-01-17
+62,UNY,SLS,Union (NY) Chargers,2pMa,To Basket,Christian Dufort,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,1.0,2025-01-17
+63,UNY,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Trey Syroka,PNR,High,Off,Alexi Twahili,Spot Ups,N/A,Shot,Liberty League,Liberty League,64,4.0,2025-01-17
+64,UNY,SLS,Union (NY) Chargers,3pmi,Dribble Jumper,Christian Dufort,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,65,4.0,2025-01-17
+65,UNY,SLS,St. Lawrence Saints,2pmi,Hook Shot,Andrew Cowan,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,1.0,2025-01-17
+66,UNY,SLS,Union (NY) Chargers,Turnover,To Basket,Jack Plesser,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,1.0,2025-01-17
+67,UNY,SLS,St. Lawrence Saints,2pMa,To Basket,Trey Syroka,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,68,1.0,2025-01-17
+68,UNY,SLS,Union (NY) Chargers,2pMa,To Basket,Harrison Collins,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,69,1.0,2025-01-17
+69,UNY,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,70,4.0,2025-01-17
+70,UNY,SLS,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,71,4.0,2025-01-17
+72,UNY,SLS,St. Lawrence Saints,2pMa,To Basket,Trey Syroka,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,1.0,2025-01-17
+73,UNY,SLS,Union (NY) Chargers,Foul,To Basket,Jaden Jauregui,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,74,1.0,2025-01-17
+76,UNY,SLS,St. Lawrence Saints,Turnover,N/A,Trey Syroka,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,77,1.0,2025-01-17
+77,UNY,SLS,Union (NY) Chargers,2pMa,To Basket,Tanner Tedesco,Iso,Right,N/A,Christian Dufort,Cuts,N/A,Basket,Liberty League,Liberty League,78,1.0,2025-01-17
+79,UNY,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Trey Syroka,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,3.0,2025-01-17
+81,UNY,SLS,Union (NY) Chargers,2pmi,Drop Step,Christian Dufort,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,82,1.0,2025-01-17
+82,UNY,SLS,Union (NY) Chargers,Foul,To Basket,Jaden Jauregui,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,1.0,2025-01-17
+85,UNY,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Trey Syroka,PNR,High,Off,Aiden Macaulay,Spot Ups,N/A,Shot,Liberty League,Liberty League,86,4.0,2025-01-17
+86,UNY,SLS,Union (NY) Chargers,Turnover,N/A,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,1.0,2025-01-17
+87,UNY,SLS,St. Lawrence Saints,2pMa,To Basket,Dan Anderson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,1.0,2025-01-17
+89,UNY,SLS,Union (NY) Chargers,Foul,To Basket,Jaden Jauregui,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,90,1.0,2025-01-17
+92,UNY,SLS,St. Lawrence Saints,Foul,To Basket,Dan Anderson,PNR,Right,Off,Andrew Cowan,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,93,1.0,2025-01-17
+95,UNY,SLS,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,96,1.0,2025-01-17
+96,UNY,SLS,St. Lawrence Saints,Foul,To Basket,Dan Anderson,PNR,Right,Off,Aiden Macaulay,Spot Ups,Right,Drive,Liberty League,Liberty League,97,1.0,2025-01-17
+99,UNY,SLS,Union (NY) Chargers,Turnover,N/A,Tanner Tedesco,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,1.0,2025-01-17
+102,UNY,SLS,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,1.0,2025-01-17
+103,UNY,SLS,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,1.0,2025-01-17
+104,UNY,SLS,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,1.0,2025-01-17
+105,UNY,SLS,St. Lawrence Saints,Foul,To Basket,Gavin Macaulay,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,106,1.0,2025-01-17
+108,UNY,SLS,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,109,1.0,2025-01-17
+109,UNY,SLS,St. Lawrence Saints,Foul,To Basket,Andrew Cowan,Post,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,110,1.0,2025-01-17
+113,UNY,SLS,Union (NY) Chargers,Turnover,N/A,Tanner Tedesco,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,114,1.0,2025-01-17
+114,UNY,SLS,St. Lawrence Saints,2pMa,To Basket,Chris Downs Jr.,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,1.0,2025-01-17
+116,UNY,SLS,Union (NY) Chargers,2pmi,To Basket,Matthew Garside,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,1.0,2025-01-17
+117,UNY,SLS,St. Lawrence Saints,3pMa,Dribble Jumper,Adam Dudzinski,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,4.0,2025-01-17
+118,UNY,SLS,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,4.0,2025-01-17
+119,UNY,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,120,4.0,2025-01-17
+121,UNY,SLS,St. Lawrence Saints,Turnover,To Basket,Aiden Macaulay,PNR,Left,N/A,Gavin Macaulay,Spot Ups,Left,Drive,Liberty League,Liberty League,122,1.0,2025-01-17
+122,UNY,SLS,Union (NY) Chargers,Turnover,N/A,Jaden Jauregui,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,123,1.0,2025-01-17
+123,UNY,SLS,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,124,1.0,2025-01-17
+124,UNY,SLS,Union (NY) Chargers,2pmi,To Basket,Christian Dufort,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,125,1.0,2025-01-17
+125,UNY,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,126,4.0,2025-01-17
+126,UNY,SLS,Union (NY) Chargers,Turnover,N/A,Harrison Collins,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,127,1.0,2025-01-17
+127,UNY,SLS,St. Lawrence Saints,Turnover,To Basket,Adam Dudzinski,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,1.0,2025-01-17
+128,UNY,SLS,Union (NY) Chargers,Foul,To Basket,Jaden Jauregui,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,129,1.0,2025-01-17
+131,UNY,SLS,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,1.0,2025-01-17
+132,UNY,SLS,Union (NY) Chargers,3pmi,Dribble Jumper,Matthew Garside,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,133,4.0,2025-01-17
+133,UNY,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Troy McPherson,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,134,4.0,2025-01-17
+134,UNY,SLS,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,135,4.0,2025-01-17
+135,UNY,SLS,St. Lawrence Saints,2pmi,To Basket,Aiden Macaulay,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,136,1.0,2025-01-17
+136,UNY,SLS,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,137,4.0,2025-01-17
+137,UNY,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Troy McPherson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,138,4.0,2025-01-17
+139,UNY,SLS,Union (NY) Chargers,2pMa,To Basket,Brendan Reid,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,1.0,2025-01-17
+140,UNY,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,PNR,High,Away,Troy McPherson,Spot Ups,N/A,Shot,Liberty League,Liberty League,141,4.0,2025-01-17
+141,UNY,SLS,Union (NY) Chargers,2pmi,To Basket,Jaden Jauregui,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,142,1.0,2025-01-17
+142,UNY,SLS,St. Lawrence Saints,And1,To Basket,Troy McPherson,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,143,1.0,2025-01-17
+144,UNY,SLS,Union (NY) Chargers,2pmi,To Basket,Christian Dufort,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,145,1.0,2025-01-17
+145,UNY,SLS,St. Lawrence Saints,2pMa,Dribble Jumper,Dan Anderson,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,2.0,2025-01-17
+146,UNY,SLS,Union (NY) Chargers,2pmi,To Basket,Brendan Reid,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,147,1.0,2025-01-17
+148,UNY,SLS,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,4.0,2025-01-17
+149,UNY,SLS,St. Lawrence Saints,2pmi,To Basket,Gavin Macaulay,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,150,1.0,2025-01-17
+150,UNY,SLS,Union (NY) Chargers,2pMa,Dribble Jumper,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,151,2.0,2025-01-17
+151,UNY,SLS,St. Lawrence Saints,2pMa,To Basket,Andrew Cowan,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,152,1.0,2025-01-17
+152,UNY,SLS,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,153,4.0,2025-01-17
+153,UNY,SLS,St. Lawrence Saints,3pmi,Dribble Jumper,Troy McPherson,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,154,4.0,2025-01-17
+154,UNY,SLS,Union (NY) Chargers,Turnover,N/A,Tanner Tedesco,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,1.0,2025-01-17
+155,UNY,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Dan Anderson,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,156,4.0,2025-01-17
+156,UNY,SLS,Union (NY) Chargers,2pmi,To Basket,Brendan Reid,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,1.0,2025-01-17
+157,UNY,SLS,St. Lawrence Saints,2pmi,To Basket,Gavin Macaulay,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,158,1.0,2025-01-17
+158,UNY,SLS,Union (NY) Chargers,2pmi,To Basket,Tanner Tedesco,PNR,High,Off,Jaden Jauregui,Cuts,N/A,Basket,Liberty League,Liberty League,159,1.0,2025-01-17
+159,UNY,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,160,4.0,2025-01-17
+161,UNY,SLS,St. Lawrence Saints,2pmi,N/A,Adam Dudzinski,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,162,1.0,2025-01-17
+162,UNY,SLS,St. Lawrence Saints,2pmi,To Basket,Adam Dudzinski,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,163,1.0,2025-01-17
+163,UNY,SLS,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,164,1.0,2025-01-17
+165,UNY,SLS,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,4.0,2025-01-17
+166,UNY,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Trey Syroka,PNR,High,N/A,Dan Anderson,Spot Ups,N/A,Shot,Liberty League,Liberty League,167,4.0,2025-01-17
+167,UNY,SLS,Union (NY) Chargers,2pmi,Dribble Jumper,Tanner Tedesco,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,3.0,2025-01-17
+168,UNY,SLS,St. Lawrence Saints,2pmi,To Basket,Adam Dudzinski,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,169,1.0,2025-01-17
+169,UNY,SLS,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,170,1.0,2025-01-17
+170,UNY,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,171,4.0,2025-01-17
+172,UNY,SLS,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,1.0,2025-01-17
+173,UNY,SLS,Union (NY) Chargers,3pmi,No Dribble Jumper,Brendan Reid,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,174,4.0,2025-01-17
+175,UNY,SLS,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,176,4.0,2025-01-17
+176,UNY,SLS,St. Lawrence Saints,2pMa,To Basket,Troy McPherson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,1.0,2025-01-17
+177,UNY,SLS,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,178,1.0,2025-01-17
+178,UNY,SLS,Union (NY) Chargers,Turnover,To Basket,Jack Plesser,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,179,1.0,2025-01-17
+180,UNY,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Trey Syroka,PNR,High,Off,Gavin Macaulay,Spot Ups,N/A,Shot,Liberty League,Liberty League,181,4.0,2025-01-17
+182,UNY,SLS,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,183,4.0,2025-01-17
+183,UNY,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Trey Syroka,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,184,3.0,2025-01-17
+185,UNY,SLS,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,186,1.0,2025-01-17
+186,UNY,SLS,,Foul,N/A,Adam Dudzinski,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,187,1.0,2025-01-17
+190,UNY,SLS,Union (NY) Chargers,3pMa,Dribble Jumper,Matthew Garside,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,191,4.0,2025-01-17

@@ -1,0 +1,152 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,UNY,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Hakeem Daphnis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,2.0,2025-01-11
+1,UNY,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Jack LaGarde,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,1.0,2025-01-11
+2,UNY,SKD,Union (NY) Chargers,3pMa,No Dribble Jumper,Brendan Reid,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,4.0,2025-01-11
+3,UNY,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Aidan Roy,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,4.0,2025-01-11
+4,UNY,SKD,Union (NY) Chargers,3pMa,No Dribble Jumper,Christian Dufort,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,4.0,2025-01-11
+5,UNY,SKD,Skidmore Thoroughbreds,Foul,To Basket,Aidan Roy,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,1.0,2025-01-11
+8,UNY,SKD,Union (NY) Chargers,2pmi,To Basket,Matthew Garside,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,1.0,2025-01-11
+9,UNY,SKD,Union (NY) Chargers,And1,To Basket,Brendan Reid,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,1.0,2025-01-11
+11,UNY,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Aidan Roy,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,4.0,2025-01-11
+12,UNY,SKD,Union (NY) Chargers,2pMa,Dribble Jumper,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,3.0,2025-01-11
+13,UNY,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Alexei Downie,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,14,4.0,2025-01-11
+14,UNY,SKD,Union (NY) Chargers,Turnover,N/A,Matthew Garside,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,15,1.0,2025-01-11
+15,UNY,SKD,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Aidan Roy,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,4.0,2025-01-11
+16,UNY,SKD,Union (NY) Chargers,2pMa,N/A,Jack Plesser,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,1.0,2025-01-11
+17,UNY,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Charlie Fantom,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,3.0,2025-01-11
+18,UNY,SKD,Union (NY) Chargers,2pMa,To Basket,Christian Dufort,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,19,1.0,2025-01-11
+19,UNY,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Hakeem Daphnis,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,1.0,2025-01-11
+20,UNY,SKD,Union (NY) Chargers,2pmi,To Basket,Tanner Tedesco,PNR,Right,Off,Jack Plesser,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,21,1.0,2025-01-11
+21,UNY,SKD,Union (NY) Chargers,Foul,To Basket,Jack Plesser,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,1.0,2025-01-11
+24,UNY,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Alexei Downie,Post,Right,Right Shoulder,Hakeem Daphnis,Spot Ups,N/A,Shot,Liberty League,Liberty League,25,4.0,2025-01-11
+25,UNY,SKD,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,PNR,High,Off,Jack Plesser,Spot Ups,N/A,Shot,Liberty League,Liberty League,26,4.0,2025-01-11
+26,UNY,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Alexei Downie,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,27,4.0,2025-01-11
+27,UNY,SKD,Union (NY) Chargers,2pmi,N/A,Jack Plesser,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,28,1.0,2025-01-11
+28,UNY,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,29,4.0,2025-01-11
+29,UNY,SKD,Union (NY) Chargers,3pmi,No Dribble Jumper,Brendan Reid,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,4.0,2025-01-11
+30,UNY,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Aidan Roy,PNR,Left,Away,Hakeem Daphnis,Spot Ups,N/A,Shot,Liberty League,Liberty League,31,4.0,2025-01-11
+31,UNY,SKD,Union (NY) Chargers,2pmi,To Basket,Brendan Reid,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,1.0,2025-01-11
+32,UNY,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Aidan Roy,PNR,High,Off,Charlie Fantom,Spot Ups,Left,Drive,Liberty League,Liberty League,33,2.0,2025-01-11
+33,UNY,SKD,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,4.0,2025-01-11
+34,UNY,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Aidan Roy,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,35,2.0,2025-01-11
+35,UNY,SKD,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,36,1.0,2025-01-11
+36,UNY,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Charlie Fantom,PNR,Left,Off,Fumani Sithole,Spot Ups,N/A,Shot,Liberty League,Liberty League,37,4.0,2025-01-11
+37,UNY,SKD,Union (NY) Chargers,2pmi,Dribble Jumper,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,38,2.0,2025-01-11
+39,UNY,SKD,Skidmore Thoroughbreds,2pmi,No Dribble Jumper,Fumani Sithole,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,3.0,2025-01-11
+40,UNY,SKD,Union (NY) Chargers,2pmi,To Basket,Harrison Collins,PNR,High,Away,Will Yakoobian,Spot Ups,Right,Drive,Liberty League,Liberty League,41,1.0,2025-01-11
+42,UNY,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,PNR,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,4.0,2025-01-11
+43,UNY,SKD,Union (NY) Chargers,Foul,To Basket,Jaden Jauregui,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,44,1.0,2025-01-11
+46,UNY,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Charlie Fantom,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,47,4.0,2025-01-11
+47,UNY,SKD,Union (NY) Chargers,And1,To Basket,Will Yakoobian,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,48,1.0,2025-01-11
+49,UNY,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Nick Padilla,PNR,High,Off,Fumani Sithole,Spot Ups,N/A,Shot,Liberty League,Liberty League,50,4.0,2025-01-11
+50,UNY,SKD,Union (NY) Chargers,2pmi,To Basket,Jaden Jauregui,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,51,1.0,2025-01-11
+51,UNY,SKD,Skidmore Thoroughbreds,Foul,To Basket,Fumani Sithole,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,1.0,2025-01-11
+54,UNY,SKD,Union (NY) Chargers,2pmi,Dribble Jumper,Harrison Collins,PNR,Left,Off,Will Yakoobian,Spot Ups,Right,Drive,Liberty League,Liberty League,55,2.0,2025-01-11
+55,UNY,SKD,Skidmore Thoroughbreds,Foul,To Basket,Nick Padilla,PNR,High,Off,Alexei Downie,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,56,1.0,2025-01-11
+58,UNY,SKD,Union (NY) Chargers,3pmi,Dribble Jumper,Matthew Garside,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,59,4.0,2025-01-11
+59,UNY,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Charlie Fantom,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,1.0,2025-01-11
+61,UNY,SKD,Union (NY) Chargers,2pmi,To Basket,Jaden Jauregui,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,1.0,2025-01-11
+62,UNY,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Nick Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,2.0,2025-01-11
+63,UNY,SKD,Union (NY) Chargers,2pMa,To Basket,Jaden Jauregui,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,1.0,2025-01-11
+64,UNY,SKD,Skidmore Thoroughbreds,2pmi,N/A,Alexei Downie,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,65,1.0,2025-01-11
+65,UNY,SKD,Union (NY) Chargers,2pmi,To Basket,Christian Dufort,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,1.0,2025-01-11
+66,UNY,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,4.0,2025-01-11
+68,UNY,SKD,Union (NY) Chargers,2pmi,To Basket,Jaden Jauregui,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,69,1.0,2025-01-11
+69,UNY,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,PNR,High,Off,Hakeem Daphnis,Spot Ups,N/A,Shot,Liberty League,Liberty League,70,4.0,2025-01-11
+70,UNY,SKD,Union (NY) Chargers,3pmi,No Dribble Jumper,Brendan Reid,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,71,4.0,2025-01-11
+71,UNY,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,1.0,2025-01-11
+72,UNY,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Jack LaGarde,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,1.0,2025-01-11
+73,UNY,SKD,Union (NY) Chargers,Turnover,N/A,Christian Dufort,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,74,1.0,2025-01-11
+74,UNY,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Charlie Fantom,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,1.0,2025-01-11
+75,UNY,SKD,Union (NY) Chargers,2pmi,To Basket,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,76,1.0,2025-01-11
+76,UNY,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,77,4.0,2025-01-11
+77,UNY,SKD,Union (NY) Chargers,2pmi,To Basket,Jaden Jauregui,PNR,Left,Off,Jack Plesser,Spot Ups,Right,Drive,Liberty League,Liberty League,78,1.0,2025-01-11
+78,UNY,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Jack LaGarde,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,1.0,2025-01-11
+80,UNY,SKD,,Foul,N/A,Christian Dufort,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,81,1.0,2025-01-11
+82,UNY,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Aidan Roy,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,3.0,2025-01-11
+83,UNY,SKD,Union (NY) Chargers,2pmi,To Basket,Tanner Tedesco,PNR,High,N/A,Jack Plesser,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,84,1.0,2025-01-11
+84,UNY,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Nick Padilla,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,2.0,2025-01-11
+85,UNY,SKD,Union (NY) Chargers,Foul,N/A,Tanner Tedesco,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,86,1.0,2025-01-11
+88,UNY,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Alexei Downie,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,1.0,2025-01-11
+90,UNY,SKD,Union (NY) Chargers,Foul,To Basket,Christian Dufort,PNR,Right,Off,Will Yakoobian,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,91,1.0,2025-01-11
+93,UNY,SKD,Skidmore Thoroughbreds,Foul,To Basket,Ethan Madeiros,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,94,1.0,2025-01-11
+96,UNY,SKD,Union (NY) Chargers,2pmi,To Basket,Matthew Garside,PNR,Left,Off,Will Yakoobian,Cuts,N/A,Basket,Liberty League,Liberty League,97,1.0,2025-01-11
+98,UNY,SKD,Union (NY) Chargers,3pmi,No Dribble Jumper,Harrison Collins,PNR,High,Off,Matthew Garside,Spot Ups,N/A,Shot,Liberty League,Liberty League,99,4.0,2025-01-11
+99,UNY,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,1.0,2025-01-11
+101,UNY,SKD,Union (NY) Chargers,2pMa,To Basket,Harrison Collins,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,102,1.0,2025-01-11
+102,UNY,SKD,Skidmore Thoroughbreds,Turnover,N/A,Aidan Roy,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,1.0,2025-01-11
+103,UNY,SKD,Union (NY) Chargers,2pmi,To Basket,Matthew Garside,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,1.0,2025-01-11
+104,UNY,SKD,Union (NY) Chargers,Turnover,N/A,Brendan Reid,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,1.0,2025-01-11
+105,UNY,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Nick Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,106,4.0,2025-01-11
+106,UNY,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Hakeem Daphnis,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,107,4.0,2025-01-11
+107,UNY,SKD,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,108,1.0,2025-01-11
+108,UNY,SKD,Union (NY) Chargers,2pMa,To Basket,Matthew Garside,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,109,1.0,2025-01-11
+109,UNY,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,PNR,Left,Off,Charlie Fantom,Spot Ups,Left,Drive,Liberty League,Liberty League,110,1.0,2025-01-11
+110,UNY,SKD,Skidmore Thoroughbreds,Foul,To Basket,Charlie Fantom,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,1.0,2025-01-11
+113,UNY,SKD,Union (NY) Chargers,3pMa,Dribble Jumper,Tanner Tedesco,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,114,4.0,2025-01-11
+114,UNY,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Hakeem Daphnis,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,2.0,2025-01-11
+115,UNY,SKD,Union (NY) Chargers,3pmi,No Dribble Jumper,Brendan Reid,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,116,4.0,2025-01-11
+116,UNY,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Aidan Roy,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,3.0,2025-01-11
+117,UNY,SKD,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,1.0,2025-01-11
+118,UNY,SKD,Skidmore Thoroughbreds,Foul,To Basket,Hakeem Daphnis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,1.0,2025-01-11
+122,UNY,SKD,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,123,4.0,2025-01-11
+123,UNY,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Hakeem Daphnis,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,124,3.0,2025-01-11
+125,UNY,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Aidan Roy,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,126,3.0,2025-01-11
+126,UNY,SKD,Union (NY) Chargers,2pMa,To Basket,Jaden Jauregui,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,127,1.0,2025-01-11
+127,UNY,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Hakeem Daphnis,PNR,Right,Away,Jack LaGarde,Cuts,N/A,Basket,Liberty League,Liberty League,128,1.0,2025-01-11
+128,UNY,SKD,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,129,1.0,2025-01-11
+129,UNY,SKD,Skidmore Thoroughbreds,2pmi,No Dribble Jumper,Alexei Downie,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,130,3.0,2025-01-11
+130,UNY,SKD,Union (NY) Chargers,3pMa,No Dribble Jumper,Christian Dufort,PNR,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,4.0,2025-01-11
+132,UNY,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Aidan Roy,PNR,Left,Off,Charlie Fantom,Spot Ups,Left,Drive,Liberty League,Liberty League,133,2.0,2025-01-11
+133,UNY,SKD,Union (NY) Chargers,Foul,To Basket,Brendan Reid,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,134,1.0,2025-01-11
+136,UNY,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,PNR,Right,Off,Charlie Fantom,Spot Ups,N/A,Shot,Liberty League,Liberty League,137,4.0,2025-01-11
+137,UNY,SKD,Union (NY) Chargers,2pMa,To Basket,Tanner Tedesco,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,138,1.0,2025-01-11
+138,UNY,SKD,Skidmore Thoroughbreds,2pmi,No Dribble Jumper,Alexei Downie,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,3.0,2025-01-11
+140,UNY,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,4.0,2025-01-11
+141,UNY,SKD,Union (NY) Chargers,2pMa,To Basket,Jaden Jauregui,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,142,1.0,2025-01-11
+142,UNY,SKD,Skidmore Thoroughbreds,Turnover,N/A,Charlie Fantom,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,143,1.0,2025-01-11
+143,UNY,SKD,Union (NY) Chargers,Turnover,N/A,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,144,1.0,2025-01-11
+144,UNY,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,PNR,Right,Off,Fumani Sithole,Spot Ups,N/A,Shot,Liberty League,Liberty League,145,4.0,2025-01-11
+145,UNY,SKD,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,PNR,High,Off,Brendan Reid,Spot Ups,N/A,Shot,Liberty League,Liberty League,146,4.0,2025-01-11
+146,UNY,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,147,2.0,2025-01-11
+148,UNY,SKD,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,4.0,2025-01-11
+149,UNY,SKD,Union (NY) Chargers,3pmi,No Dribble Jumper,Jaden Jauregui,PNR,Left,Away,Brendan Reid,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,150,4.0,2025-01-11
+150,UNY,SKD,Union (NY) Chargers,2pmi,To Basket,Christian Dufort,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,151,1.0,2025-01-11
+151,UNY,SKD,Union (NY) Chargers,Foul,To Basket,Christian Dufort,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,152,1.0,2025-01-11
+154,UNY,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,4.0,2025-01-11
+155,UNY,SKD,Union (NY) Chargers,2pmi,Dribble Jumper,Jack Plesser,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,156,2.0,2025-01-11
+156,UNY,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Nick Padilla,PNR,High,Off,Aidan Roy,Spot Ups,Right,Drive,Liberty League,Liberty League,157,3.0,2025-01-11
+157,UNY,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Prince Shyllon,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,158,2.0,2025-01-11
+159,UNY,SKD,Union (NY) Chargers,2pMa,Dribble Jumper,Jack Plesser,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,160,2.0,2025-01-11
+160,UNY,SKD,Skidmore Thoroughbreds,Foul,To Basket,Aidan Roy,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,1.0,2025-01-11
+163,UNY,SKD,Union (NY) Chargers,2pMa,To Basket,Tanner Tedesco,PNR,High,Off,Will Yakoobian,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,164,1.0,2025-01-11
+164,UNY,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Aidan Roy,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,165,4.0,2025-01-11
+165,UNY,SKD,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,1.0,2025-01-11
+166,UNY,SKD,Union (NY) Chargers,Turnover,To Basket,Jack Plesser,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,167,1.0,2025-01-11
+167,UNY,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Hakeem Daphnis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,1.0,2025-01-11
+168,UNY,SKD,Union (NY) Chargers,2pMa,Dribble Jumper,Jack Plesser,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,169,2.0,2025-01-11
+169,UNY,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Aidan Roy,PNR,Left,Off,Alexei Downie,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,170,4.0,2025-01-11
+170,UNY,SKD,Union (NY) Chargers,2pMa,To Basket,Tanner Tedesco,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,171,1.0,2025-01-11
+172,UNY,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Alexei Downie,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,4.0,2025-01-11
+174,UNY,SKD,Skidmore Thoroughbreds,Turnover,N/A,Charlie Fantom,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,175,1.0,2025-01-11
+175,UNY,SKD,Union (NY) Chargers,2pmi,To Basket,Tanner Tedesco,PNR,Left,Off,Jack Plesser,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,176,1.0,2025-01-11
+176,UNY,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,4.0,2025-01-11
+178,UNY,SKD,Skidmore Thoroughbreds,2pmi,N/A,Alexei Downie,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,179,1.0,2025-01-11
+180,UNY,SKD,Union (NY) Chargers,2pMa,Dribble Jumper,Tanner Tedesco,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,3.0,2025-01-11
+181,UNY,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Aidan Roy,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,182,2.0,2025-01-11
+182,UNY,SKD,Union (NY) Chargers,Turnover,To Basket,Brendan Reid,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,183,1.0,2025-01-11
+184,UNY,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,PNR,High,Away,Alexei Downie,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,185,4.0,2025-01-11
+185,UNY,SKD,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,PNR,Left,N/A,Matthew Garside,Spot Ups,N/A,Shot,Liberty League,Liberty League,186,4.0,2025-01-11
+186,UNY,SKD,Skidmore Thoroughbreds,Turnover,N/A,Charlie Fantom,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,187,1.0,2025-01-11
+187,UNY,SKD,Union (NY) Chargers,2pMa,Dribble Jumper,Tanner Tedesco,PNR,High,Off,Jack Plesser,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,188,2.0,2025-01-11
+188,UNY,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,189,1.0,2025-01-11
+189,UNY,SKD,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,190,4.0,2025-01-11
+190,UNY,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,191,1.0,2025-01-11
+192,UNY,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Jack LaGarde,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,193,1.0,2025-01-11
+193,UNY,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Alexei Downie,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,194,1.0,2025-01-11
+194,UNY,SKD,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,PNR,Left,Off,Jack Plesser,Spot Ups,N/A,Shot,Liberty League,Liberty League,195,4.0,2025-01-11
+195,UNY,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Alexei Downie,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,196,4.0,2025-01-11
+196,UNY,SKD,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,PNR,High,Off,Brendan Reid,Spot Ups,N/A,Shot,Liberty League,Liberty League,197,4.0,2025-01-11
+198,UNY,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,199,2.0,2025-01-11
+199,UNY,SKD,Union (NY) Chargers,3pMa,No Dribble Jumper,Harrison Collins,PNR,High,Away,Sam O'Toole,Spot Ups,N/A,Shot,Liberty League,Liberty League,200,4.0,2025-01-11
+200,UNY,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,PNR,High,Off,Harry Luo,Spot Ups,N/A,Shot,Liberty League,Liberty League,201,4.0,2025-01-11

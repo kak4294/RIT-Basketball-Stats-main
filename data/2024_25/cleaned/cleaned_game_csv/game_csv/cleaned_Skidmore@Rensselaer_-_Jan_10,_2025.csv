@@ -1,0 +1,156 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,RPI,SKD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,PNR,Right,Away,Dylan Matchett,Spot Ups,N/A,Shot,Liberty League,Liberty League,1,4.0,2025-01-10
+1,RPI,SKD,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Aidan Roy,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,4.0,2025-01-10
+2,RPI,SKD,Rensselaer Polytechnic,2pmi,To Basket,Avery Eugster,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,1.0,2025-01-10
+3,RPI,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Hakeem Daphnis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,4.0,2025-01-10
+5,RPI,SKD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,Post,Right,N/A,Chuck Clemons,Spot Ups,N/A,Shot,Liberty League,Liberty League,6,4.0,2025-01-10
+6,RPI,SKD,Rensselaer Polytechnic,Turnover,To Basket,Andrew Deppe,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,1.0,2025-01-10
+7,RPI,SKD,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Aidan Roy,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,4.0,2025-01-10
+8,RPI,SKD,Rensselaer Polytechnic,2pmi,To Basket,Avery Eugster,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,1.0,2025-01-10
+9,RPI,SKD,Skidmore Thoroughbreds,2pMa,Drop Step,Jack LaGarde,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,1.0,2025-01-10
+11,RPI,SKD,Rensselaer Polytechnic,Foul,To Basket,Andrew Deppe,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,1.0,2025-01-10
+14,RPI,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,15,1.0,2025-01-10
+15,RPI,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Hakeem Daphnis,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,4.0,2025-01-10
+16,RPI,SKD,Rensselaer Polytechnic,2pmi,To Basket,Avery Eugster,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,1.0,2025-01-10
+17,RPI,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Aidan Roy,PNR,High,N/A,Alexei Downie,Spot Ups,N/A,Shot,Liberty League,Liberty League,18,4.0,2025-01-10
+19,RPI,SKD,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,4.0,2025-01-10
+21,RPI,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Alexei Downie,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,4.0,2025-01-10
+22,RPI,SKD,Rensselaer Polytechnic,Foul,To Basket,Andrew Deppe,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,23,1.0,2025-01-10
+25,RPI,SKD,Skidmore Thoroughbreds,And1,To Basket,Aidan Roy,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,1.0,2025-01-10
+27,RPI,SKD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Avery Eugster,Post,Right,Face Up,Yechiel Stewart,Spot Ups,N/A,Shot,Liberty League,Liberty League,28,4.0,2025-01-10
+28,RPI,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Aidan Roy,PNR,High,Off,Charlie Fantom,Spot Ups,Left,Drive,Liberty League,Liberty League,29,3.0,2025-01-10
+29,RPI,SKD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,4.0,2025-01-10
+30,RPI,SKD,Skidmore Thoroughbreds,Turnover,N/A,Aidan Roy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,31,1.0,2025-01-10
+31,RPI,SKD,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,1.0,2025-01-10
+32,RPI,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Hakeem Daphnis,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,2.0,2025-01-10
+33,RPI,SKD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,4.0,2025-01-10
+34,RPI,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,Iso,Top,N/A,Hakeem Daphnis,Spot Ups,N/A,Shot,Liberty League,Liberty League,35,4.0,2025-01-10
+35,RPI,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Charlie Fantom,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,36,4.0,2025-01-10
+36,RPI,SKD,Rensselaer Polytechnic,Turnover,N/A,Dylan Matchett,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,37,1.0,2025-01-10
+37,RPI,SKD,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Nick Padilla,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,38,4.0,2025-01-10
+38,RPI,SKD,Rensselaer Polytechnic,2pmi,To Basket,Dylan Matchett,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,1.0,2025-01-10
+39,RPI,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,Iso,Top,N/A,Ethan Madeiros,Cuts,N/A,Basket,Liberty League,Liberty League,40,1.0,2025-01-10
+40,RPI,SKD,Rensselaer Polytechnic,And1,To Basket,Yechiel Stewart,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,41,1.0,2025-01-10
+42,RPI,SKD,Skidmore Thoroughbreds,Turnover,N/A,Charlie Fantom,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,1.0,2025-01-10
+43,RPI,SKD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,44,4.0,2025-01-10
+44,RPI,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,PNR,High,Off,Alexei Downie,Spot Ups,N/A,Shot,Liberty League,Liberty League,45,4.0,2025-01-10
+45,RPI,SKD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,46,4.0,2025-01-10
+48,RPI,SKD,Rensselaer Polytechnic,2pmi,To Basket,Dylan Matchett,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,1.0,2025-01-10
+49,RPI,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Nick Padilla,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,3.0,2025-01-10
+51,RPI,SKD,Rensselaer Polytechnic,2pmi,Dribble Jumper,PJ Scalisi,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,3.0,2025-01-10
+52,RPI,SKD,Rensselaer Polytechnic,Foul,No Dribble Jumper,Pat White,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,4.0,2025-01-10
+56,RPI,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Nick Padilla,Iso,Top,N/A,Hakeem Daphnis,Spot Ups,Left,Drive,Liberty League,Liberty League,57,3.0,2025-01-10
+57,RPI,SKD,,Foul,N/A,Dylan Matchett,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,58,1.0,2025-01-10
+60,RPI,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,Iso,Top,N/A,Hakeem Daphnis,Spot Ups,Right,Drive,Liberty League,Liberty League,61,1.0,2025-01-10
+61,RPI,SKD,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,4.0,2025-01-10
+62,RPI,SKD,Skidmore Thoroughbreds,2pmi,No Dribble Jumper,Nick Padilla,PNR,High,Off,Alexei Downie,Spot Ups,N/A,Shot,Liberty League,Liberty League,63,3.0,2025-01-10
+63,RPI,SKD,Rensselaer Polytechnic,Turnover,N/A,Dylan Matchett,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,1.0,2025-01-10
+64,RPI,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Aidan Roy,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,65,2.0,2025-01-10
+65,RPI,SKD,Rensselaer Polytechnic,2pMa,To Basket,Dylan Matchett,PNR,Right,Off,Tucker Tharpe,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,66,1.0,2025-01-10
+66,RPI,SKD,Skidmore Thoroughbreds,Turnover,N/A,Alexei Downie,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,1.0,2025-01-10
+67,RPI,SKD,Rensselaer Polytechnic,2pMa,N/A,Yechiel Stewart,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,68,1.0,2025-01-10
+69,RPI,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,70,4.0,2025-01-10
+70,RPI,SKD,Rensselaer Polytechnic,2pmi,Dribble Jumper,Yechiel Stewart,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,71,2.0,2025-01-10
+71,RPI,SKD,Skidmore Thoroughbreds,Turnover,N/A,Aidan Roy,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,1.0,2025-01-10
+72,RPI,SKD,Rensselaer Polytechnic,Turnover,N/A,Pat White,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,1.0,2025-01-10
+73,RPI,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Aidan Roy,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,74,3.0,2025-01-10
+74,RPI,SKD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Andrew Deppe,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,4.0,2025-01-10
+75,RPI,SKD,Rensselaer Polytechnic,Foul,N/A,Avery Eugster,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,76,1.0,2025-01-10
+78,RPI,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Nick Padilla,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,3.0,2025-01-10
+79,RPI,SKD,Rensselaer Polytechnic,2pmi,To Basket,Nate Tawiah-Boateng,Post,Right,Right Shoulder,Andrew Deppe,Cuts,N/A,Basket,Liberty League,Liberty League,80,1.0,2025-01-10
+80,RPI,SKD,Rensselaer Polytechnic,Foul,To Basket,Andrew Deppe,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,81,1.0,2025-01-10
+83,RPI,SKD,Skidmore Thoroughbreds,Turnover,N/A,Ethan Madeiros,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,84,1.0,2025-01-10
+85,RPI,SKD,Rensselaer Polytechnic,2pmi,Dribble Jumper,Chuck Clemons,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,86,3.0,2025-01-10
+87,RPI,SKD,Rensselaer Polytechnic,2pmi,To Basket,Avery Eugster,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,1.0,2025-01-10
+88,RPI,SKD,Rensselaer Polytechnic,2pmi,To Basket,Nate Tawiah-Boateng,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,1.0,2025-01-10
+89,RPI,SKD,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,90,2.0,2025-01-10
+90,RPI,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,PNR,High,Off,Charlie Fantom,Spot Ups,N/A,Shot,Liberty League,Liberty League,91,4.0,2025-01-10
+92,RPI,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Ethan Madeiros,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,93,1.0,2025-01-10
+93,RPI,SKD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Nate Tawiah-Boateng,Post,Right,N/A,PJ Scalisi,Spot Ups,N/A,Shot,Liberty League,Liberty League,94,4.0,2025-01-10
+94,RPI,SKD,Rensselaer Polytechnic,Foul,N/A,Nate Tawiah-Boateng,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,1.0,2025-01-10
+99,RPI,SKD,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Yechiel Stewart,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,4.0,2025-01-10
+100,RPI,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Hakeem Daphnis,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,101,4.0,2025-01-10
+101,RPI,SKD,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Yechiel Stewart,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,102,4.0,2025-01-10
+102,RPI,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,4.0,2025-01-10
+103,RPI,SKD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,4.0,2025-01-10
+104,RPI,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,1.0,2025-01-10
+105,RPI,SKD,Skidmore Thoroughbreds,Turnover,N/A,Ethan Madeiros,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,106,1.0,2025-01-10
+106,RPI,SKD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,PNR,High,N/A,Yechiel Stewart,Spot Ups,N/A,Shot,Liberty League,Liberty League,107,4.0,2025-01-10
+107,RPI,SKD,Rensselaer Polytechnic,Foul,To Basket,Chuck Clemons,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,108,1.0,2025-01-10
+110,RPI,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Alexei Downie,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,4.0,2025-01-10
+111,RPI,SKD,Rensselaer Polytechnic,2pmi,No Dribble Jumper,Andrew Deppe,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,3.0,2025-01-10
+112,RPI,SKD,Skidmore Thoroughbreds,2pmi,Drop Step,Aidan Roy,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,1.0,2025-01-10
+113,RPI,SKD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Andrew Deppe,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,114,4.0,2025-01-10
+114,RPI,SKD,Rensselaer Polytechnic,Turnover,N/A,Avery Eugster,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,1.0,2025-01-10
+115,RPI,SKD,Skidmore Thoroughbreds,2pmi,No Dribble Jumper,Alexei Downie,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,116,3.0,2025-01-10
+116,RPI,SKD,Rensselaer Polytechnic,2pMa,To Basket,PJ Scalisi,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,1.0,2025-01-10
+117,RPI,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Hakeem Daphnis,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,1.0,2025-01-10
+118,RPI,SKD,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Chuck Clemons,PNR,High,Off,Andrew Deppe,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,119,4.0,2025-01-10
+119,RPI,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Hakeem Daphnis,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,120,2.0,2025-01-10
+120,RPI,SKD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,PNR,Right,Away,Andrew Deppe,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,121,4.0,2025-01-10
+121,RPI,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,Post,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,1.0,2025-01-10
+122,RPI,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Alexei Downie,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,123,1.0,2025-01-10
+123,RPI,SKD,Rensselaer Polytechnic,Turnover,N/A,Dylan Matchett,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,124,1.0,2025-01-10
+124,RPI,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Hakeem Daphnis,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,125,3.0,2025-01-10
+125,RPI,SKD,Rensselaer Polytechnic,2pmi,To Basket,Chuck Clemons,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,126,1.0,2025-01-10
+126,RPI,SKD,Rensselaer Polytechnic,2pmi,To Basket,Avery Eugster,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,127,1.0,2025-01-10
+128,RPI,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,129,4.0,2025-01-10
+130,RPI,SKD,Skidmore Thoroughbreds,Turnover,N/A,Charlie Fantom,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,1.0,2025-01-10
+131,RPI,SKD,Rensselaer Polytechnic,2pMa,To Basket,Dylan Matchett,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,1.0,2025-01-10
+132,RPI,SKD,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,133,1.0,2025-01-10
+133,RPI,SKD,Rensselaer Polytechnic,2pmi,To Basket,Andrew Deppe,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,134,1.0,2025-01-10
+134,RPI,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,135,1.0,2025-01-10
+135,RPI,SKD,Rensselaer Polytechnic,3pMa,Dribble Jumper,Chuck Clemons,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,136,4.0,2025-01-10
+136,RPI,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,PNR,Right,Off,Alexei Downie,Spot Ups,N/A,Shot,Liberty League,Liberty League,137,4.0,2025-01-10
+137,RPI,SKD,Rensselaer Polytechnic,2pMa,To Basket,PJ Scalisi,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,138,1.0,2025-01-10
+138,RPI,SKD,Skidmore Thoroughbreds,Turnover,N/A,Aidan Roy,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,1.0,2025-01-10
+139,RPI,SKD,Rensselaer Polytechnic,2pMa,To Basket,Chuck Clemons,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,1.0,2025-01-10
+140,RPI,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,4.0,2025-01-10
+142,RPI,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,PNR,Right,Away,Aidan Roy,Spot Ups,N/A,Shot,Liberty League,Liberty League,143,4.0,2025-01-10
+144,RPI,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Charlie Fantom,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,145,4.0,2025-01-10
+145,RPI,SKD,Rensselaer Polytechnic,2pMa,To Basket,Yechiel Stewart,PNR,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,1.0,2025-01-10
+146,RPI,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Alexei Downie,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,147,2.0,2025-01-10
+147,RPI,SKD,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Yechiel Stewart,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,148,4.0,2025-01-10
+148,RPI,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Aidan Roy,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,4.0,2025-01-10
+150,RPI,SKD,Rensselaer Polytechnic,3pMa,No Dribble Jumper,PJ Scalisi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,151,4.0,2025-01-10
+151,RPI,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Nick Padilla,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,152,4.0,2025-01-10
+152,RPI,SKD,Rensselaer Polytechnic,2pMa,To Basket,Tucker Tharpe,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,153,1.0,2025-01-10
+154,RPI,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Charlie Fantom,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,3.0,2025-01-10
+155,RPI,SKD,Rensselaer Polytechnic,Turnover,N/A,Avery Eugster,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,156,1.0,2025-01-10
+156,RPI,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,4.0,2025-01-10
+158,RPI,SKD,Rensselaer Polytechnic,Turnover,To Basket,Yechiel Stewart,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,1.0,2025-01-10
+159,RPI,SKD,Skidmore Thoroughbreds,Turnover,N/A,Charlie Fantom,PNR,High,Off,Nick Padilla,Spot Ups,Right,Drive,Liberty League,Liberty League,160,1.0,2025-01-10
+160,RPI,SKD,Rensselaer Polytechnic,2pmi,To Basket,Dylan Matchett,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,1.0,2025-01-10
+161,RPI,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Fumani Sithole,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,162,4.0,2025-01-10
+163,RPI,SKD,Rensselaer Polytechnic,Turnover,N/A,Chuck Clemons,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,164,1.0,2025-01-10
+165,RPI,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,Iso,Top,N/A,Alexei Downie,Spot Ups,N/A,Shot,Liberty League,Liberty League,166,4.0,2025-01-10
+167,RPI,SKD,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Aidan Roy,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,4.0,2025-01-10
+168,RPI,SKD,Rensselaer Polytechnic,2pMa,To Basket,PJ Scalisi,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,169,1.0,2025-01-10
+169,RPI,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,170,4.0,2025-01-10
+170,RPI,SKD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Pat White,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,171,4.0,2025-01-10
+171,RPI,SKD,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Aidan Roy,PNR,Left,Off,Fumani Sithole,Spot Ups,N/A,Shot,Liberty League,Liberty League,172,4.0,2025-01-10
+173,RPI,SKD,Rensselaer Polytechnic,2pmi,N/A,Andrew Deppe,Post,Left,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,174,1.0,2025-01-10
+174,RPI,SKD,Skidmore Thoroughbreds,Foul,N/A,Jack LaGarde,Post,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,175,1.0,2025-01-10
+177,RPI,SKD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Chuck Clemons,PNR,Right,Off,Andrew Deppe,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,178,4.0,2025-01-10
+178,RPI,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,179,4.0,2025-01-10
+180,RPI,SKD,Rensselaer Polytechnic,2pmi,To Basket,PJ Scalisi,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,1.0,2025-01-10
+181,RPI,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Aidan Roy,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,182,4.0,2025-01-10
+183,RPI,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Charlie Fantom,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,184,3.0,2025-01-10
+184,RPI,SKD,Rensselaer Polytechnic,2pmi,To Basket,Chuck Clemons,PNR,Left,Off,Andrew Deppe,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,185,1.0,2025-01-10
+185,RPI,SKD,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Aidan Roy,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,186,4.0,2025-01-10
+186,RPI,SKD,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Chuck Clemons,PNR,High,Off,Yechiel Stewart,Spot Ups,N/A,Shot,Liberty League,Liberty League,187,4.0,2025-01-10
+187,RPI,SKD,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,188,1.0,2025-01-10
+188,RPI,SKD,Rensselaer Polytechnic,Turnover,N/A,Yechiel Stewart,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,189,1.0,2025-01-10
+189,RPI,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Charlie Fantom,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,190,1.0,2025-01-10
+190,RPI,SKD,Rensselaer Polytechnic,2pMa,To Basket,Chuck Clemons,PNR,Right,Off,Andrew Deppe,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,191,1.0,2025-01-10
+191,RPI,SKD,Skidmore Thoroughbreds,Foul,N/A,Aidan Roy,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,192,1.0,2025-01-10
+194,RPI,SKD,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,PNR,Right,Away,Andrew Deppe,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,195,4.0,2025-01-10
+195,RPI,SKD,Skidmore Thoroughbreds,2pmi,N/A,Alexei Downie,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,196,1.0,2025-01-10
+198,RPI,SKD,,Foul,N/A,Chuck Clemons,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,199,1.0,2025-01-10
+200,RPI,SKD,Skidmore Thoroughbreds,Turnover,To Basket,Nick Padilla,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,201,1.0,2025-01-10
+201,RPI,SKD,,Foul,N/A,Chuck Clemons,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,202,1.0,2025-01-10
+204,RPI,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Aidan Roy,PNR,High,Off,Alexei Downie,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,205,1.0,2025-01-10
+205,RPI,SKD,,Foul,N/A,PJ Scalisi,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,206,1.0,2025-01-10
+207,RPI,SKD,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Aidan Roy,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,208,4.0,2025-01-10
+208,RPI,SKD,,Foul,N/A,Chuck Clemons,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,209,1.0,2025-01-10
+211,RPI,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,212,4.0,2025-01-10

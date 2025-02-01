@@ -1,0 +1,155 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,IC,HOB,Ithaca College,Foul,To Basket,Evan Cabral,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,1.0,2025-01-31
+3,IC,HOB,Hobart College Statesmen,Turnover,N/A,Carter Meshanic,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,1.0,2025-01-31
+4,IC,HOB,Ithaca College,2pMa,To Basket,Chris Leysath,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,1.0,2025-01-31
+5,IC,HOB,Hobart College Statesmen,2pmi,To Basket,Alex Moesch,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,1.0,2025-01-31
+6,IC,HOB,Ithaca College,2pMa,Dribble Jumper,Logan Wendell,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,2.0,2025-01-31
+7,IC,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,4.0,2025-01-31
+8,IC,HOB,Ithaca College,2pMa,To Basket,Logan Wendell,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,1.0,2025-01-31
+9,IC,HOB,Hobart College Statesmen,Turnover,N/A,Monty Nedd,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,1.0,2025-01-31
+10,IC,HOB,Ithaca College,2pMa,To Basket,Evan Cabral,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,1.0,2025-01-31
+11,IC,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Allen Mordi,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,4.0,2025-01-31
+12,IC,HOB,Ithaca College,Turnover,N/A,Jaylon O'Neal,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,1.0,2025-01-31
+13,IC,HOB,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,14,1.0,2025-01-31
+15,IC,HOB,Ithaca College,2pmi,To Basket,Evan Cabral,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,1.0,2025-01-31
+17,IC,HOB,Ithaca College,2pMa,To Basket,Evan Cabral,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,1.0,2025-01-31
+19,IC,HOB,Hobart College Statesmen,Foul,To Basket,Monty Nedd,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,1.0,2025-01-31
+24,IC,HOB,Hobart College Statesmen,Foul,To Basket,Dorian Paki,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,25,1.0,2025-01-31
+28,IC,HOB,Ithaca College,And1,To Basket,Logan Wendell,PNR,Right,Away,Evan Cabral,Cuts,N/A,Basket,Liberty League,Liberty League,29,1.0,2025-01-31
+30,IC,HOB,Hobart College Statesmen,2pmi,To Basket,Monty Nedd,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,31,1.0,2025-01-31
+31,IC,HOB,Hobart College Statesmen,2pmi,To Basket,Allen Mordi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,2.0,2025-01-31
+33,IC,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Pat Healy,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,2.0,2025-01-31
+34,IC,HOB,Ithaca College,2pMa,To Basket,Jose Padilla,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,35,1.0,2025-01-31
+36,IC,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,37,4.0,2025-01-31
+37,IC,HOB,Ithaca College,2pmi,To Basket,Logan Wendell,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,38,1.0,2025-01-31
+38,IC,HOB,Hobart College Statesmen,2pmi,To Basket,Pat Healy,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,1.0,2025-01-31
+41,IC,HOB,Hobart College Statesmen,2pmi,To Basket,Justin Price,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,42,1.0,2025-01-31
+42,IC,HOB,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,1.0,2025-01-31
+43,IC,HOB,Ithaca College,Turnover,N/A,Alex Penders,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,44,1.0,2025-01-31
+44,IC,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Pat Healy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,45,4.0,2025-01-31
+45,IC,HOB,Ithaca College,Turnover,N/A,Alex Penders,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,46,1.0,2025-01-31
+46,IC,HOB,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,47,1.0,2025-01-31
+47,IC,HOB,Ithaca College,Turnover,N/A,Jose Padilla,PNR,Left,Off,Evan Cabral,Spot Ups,Left,Drive,Liberty League,Liberty League,48,1.0,2025-01-31
+48,IC,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Justin Price,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,4.0,2025-01-31
+50,IC,HOB,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Post,Right,Right Shoulder,Allen Mordi,Cuts,N/A,Flash,Liberty League,Liberty League,51,1.0,2025-01-31
+51,IC,HOB,Ithaca College,2pMa,To Basket,Logan Wendell,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,1.0,2025-01-31
+52,IC,HOB,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Post,Left,N/A,Allen Mordi,Cuts,N/A,Flash,Liberty League,Liberty League,53,1.0,2025-01-31
+53,IC,HOB,Ithaca College,Foul,To Basket,Logan Wendell,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,54,1.0,2025-01-31
+56,IC,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,57,4.0,2025-01-31
+57,IC,HOB,Ithaca College,2pMa,To Basket,Jose Padilla,PNR,Left,Off,Yoav Regev,Cuts,N/A,Basket,Liberty League,Liberty League,58,1.0,2025-01-31
+58,IC,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Aidan Rodgers,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,59,4.0,2025-01-31
+59,IC,HOB,Ithaca College,Turnover,N/A,Jose Padilla,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,1.0,2025-01-31
+60,IC,HOB,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,61,1.0,2025-01-31
+61,IC,HOB,Ithaca College,3pMa,No Dribble Jumper,Aidan Holmes,PNR,High,Off,Yoav Regev,Spot Ups,N/A,Shot,Liberty League,Liberty League,62,4.0,2025-01-31
+62,IC,HOB,Hobart College Statesmen,Foul,To Basket,Carter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,1.0,2025-01-31
+65,IC,HOB,Ithaca College,Foul,To Basket,Jaylon O'Neal,PNR,High,Off,Logan Wendell,Spot Ups,Left,Drive,Liberty League,Liberty League,66,1.0,2025-01-31
+68,IC,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Carter Meshanic,Iso,Left,N/A,Aidan Rodgers,Spot Ups,N/A,Shot,Liberty League,Liberty League,69,4.0,2025-01-31
+69,IC,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,70,1.0,2025-01-31
+70,IC,HOB,Ithaca College,Turnover,N/A,Chris Leysath,Post,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,71,1.0,2025-01-31
+71,IC,HOB,Hobart College Statesmen,Turnover,N/A,Monty Nedd,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,1.0,2025-01-31
+72,IC,HOB,Ithaca College,2pmi,To Basket,Evan Cabral,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,1.0,2025-01-31
+73,IC,HOB,Hobart College Statesmen,Turnover,N/A,Allen Mordi,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,74,1.0,2025-01-31
+74,IC,HOB,Ithaca College,2pmi,To Basket,Aidan Holmes,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,1.0,2025-01-31
+75,IC,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Pat Healy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,76,4.0,2025-01-31
+76,IC,HOB,Ithaca College,2pmi,To Basket,Evan Cabral,PNR,Right,Off,Jaylon O'Neal,Spot Ups,Left,Drive,Liberty League,Liberty League,77,1.0,2025-01-31
+77,IC,HOB,Hobart College Statesmen,2pmi,To Basket,Monty Nedd,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,78,1.0,2025-01-31
+78,IC,HOB,Ithaca College,Turnover,N/A,Evan Cabral,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,1.0,2025-01-31
+79,IC,HOB,Hobart College Statesmen,2pMa,To Basket,Alex Moesch,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,1.0,2025-01-31
+80,IC,HOB,Ithaca College,Turnover,N/A,Evan Cabral,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,81,1.0,2025-01-31
+81,IC,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Carter Meshanic,Iso,Right,N/A,Monty Nedd,Spot Ups,N/A,Shot,Liberty League,Liberty League,82,4.0,2025-01-31
+82,IC,HOB,Hobart College Statesmen,Foul,N/A,Allen Mordi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,1.0,2025-01-31
+84,IC,HOB,Ithaca College,Foul,To Basket,Logan Wendell,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,1.0,2025-01-31
+87,IC,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,1.0,2025-01-31
+88,IC,HOB,Ithaca College,2pMa,To Basket,Alex Penders,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,1.0,2025-01-31
+89,IC,HOB,Hobart College Statesmen,Foul,N/A,Alex Moesch,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,90,1.0,2025-01-31
+91,IC,HOB,Ithaca College,Turnover,N/A,Evan Cabral,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,92,1.0,2025-01-31
+92,IC,HOB,Hobart College Statesmen,Foul,N/A,Dorian Paki,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,93,1.0,2025-01-31
+94,IC,HOB,Ithaca College,Turnover,N/A,Evan Cabral,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,1.0,2025-01-31
+95,IC,HOB,Hobart College Statesmen,2pMa,To Basket,Alex Moesch,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,96,1.0,2025-01-31
+96,IC,HOB,Ithaca College,2pMa,To Basket,Yoav Regev,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,97,1.0,2025-01-31
+97,IC,HOB,Hobart College Statesmen,2pMa,To Basket,Hunter Meshanic,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,1.0,2025-01-31
+98,IC,HOB,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,4.0,2025-01-31
+99,IC,HOB,Hobart College Statesmen,Foul,N/A,Aidan Rodgers,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,1.0,2025-01-31
+103,IC,HOB,Ithaca College,Turnover,N/A,Logan Wendell,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,1.0,2025-01-31
+104,IC,HOB,Hobart College Statesmen,Foul,To Basket,Pat Healy,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,1.0,2025-01-31
+107,IC,HOB,Ithaca College,Turnover,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,108,1.0,2025-01-31
+108,IC,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Justin Price,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,109,4.0,2025-01-31
+109,IC,HOB,Ithaca College,Foul,To Basket,Chris Leysath,Post,Left,N/A,Aidan Holmes,Cuts,N/A,Basket,Liberty League,Liberty League,110,1.0,2025-01-31
+113,IC,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,114,4.0,2025-01-31
+114,IC,HOB,Ithaca College,2pmi,To Basket,Chris Leysath,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,1.0,2025-01-31
+115,IC,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Carter Meshanic,Post,Right,Right Shoulder,Alex Moesch,Spot Ups,N/A,Shot,Liberty League,Liberty League,116,4.0,2025-01-31
+117,IC,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Carter Meshanic,Iso,Right,N/A,Alex Moesch,Spot Ups,Left,Drive,Liberty League,Liberty League,118,2.0,2025-01-31
+118,IC,HOB,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,4.0,2025-01-31
+119,IC,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Pat Healy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,120,4.0,2025-01-31
+120,IC,HOB,Ithaca College,2pMa,Dribble Jumper,Aidan Holmes,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,121,3.0,2025-01-31
+121,IC,HOB,Hobart College Statesmen,Turnover,N/A,Pat Healy,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,1.0,2025-01-31
+123,IC,HOB,Ithaca College,3pmi,No Dribble Jumper,Jaylon O'Neal,PNR,Right,Off,Aidan Holmes,Spot Ups,N/A,Shot,Liberty League,Liberty League,124,4.0,2025-01-31
+124,IC,HOB,Ithaca College,And1,To Basket,Evan Cabral,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,125,1.0,2025-01-31
+126,IC,HOB,Hobart College Statesmen,Turnover,N/A,Carter Meshanic,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,127,1.0,2025-01-31
+127,IC,HOB,Ithaca College,Turnover,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,1.0,2025-01-31
+128,IC,HOB,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,129,1.0,2025-01-31
+129,IC,HOB,Ithaca College,3pmi,No Dribble Jumper,Jaylon O'Neal,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,130,4.0,2025-01-31
+130,IC,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Hunter Meshanic,Post,Left,Right Shoulder,Alex Moesch,Spot Ups,N/A,Shot,Liberty League,Liberty League,131,4.0,2025-01-31
+132,IC,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Aidan Rodgers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,133,2.0,2025-01-31
+133,IC,HOB,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,PNR,Left,Off,Logan Wendell,Spot Ups,N/A,Shot,Liberty League,Liberty League,134,4.0,2025-01-31
+134,IC,HOB,Hobart College Statesmen,Foul,Drop Step,Hunter Meshanic,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,135,1.0,2025-01-31
+137,IC,HOB,Ithaca College,2pMa,Dribble Jumper,Aidan Holmes,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,138,3.0,2025-01-31
+138,IC,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Alex Moesch,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,3.0,2025-01-31
+139,IC,HOB,Ithaca College,3pmi,Dribble Jumper,Jaylon O'Neal,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,4.0,2025-01-31
+140,IC,HOB,Hobart College Statesmen,Turnover,N/A,Monty Nedd,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,1.0,2025-01-31
+142,IC,HOB,Ithaca College,Turnover,N/A,Evan Cabral,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,143,1.0,2025-01-31
+143,IC,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Allen Mordi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,144,4.0,2025-01-31
+144,IC,HOB,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,145,4.0,2025-01-31
+145,IC,HOB,Hobart College Statesmen,Foul,To Basket,Monty Nedd,Iso,Left,N/A,Alex Moesch,Spot Ups,Right,Drive,Liberty League,Liberty League,146,1.0,2025-01-31
+148,IC,HOB,Ithaca College,3pmi,No Dribble Jumper,Alex Penders,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,4.0,2025-01-31
+149,IC,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Monty Nedd,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,150,4.0,2025-01-31
+150,IC,HOB,Ithaca College,3pmi,No Dribble Jumper,Jaylon O'Neal,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,151,4.0,2025-01-31
+151,IC,HOB,Hobart College Statesmen,Turnover,N/A,Pat Healy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,152,1.0,2025-01-31
+152,IC,HOB,Ithaca College,2pmi,To Basket,Jaylon O'Neal,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,153,1.0,2025-01-31
+153,IC,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,PNR,Right,Off,Monty Nedd,Spot Ups,Right,Drive,Liberty League,Liberty League,154,1.0,2025-01-31
+156,IC,HOB,Ithaca College,2pMa,To Basket,Jaylon O'Neal,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,1.0,2025-01-31
+157,IC,HOB,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,158,1.0,2025-01-31
+158,IC,HOB,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,4.0,2025-01-31
+159,IC,HOB,Hobart College Statesmen,3pMa,Dribble Jumper,Aidan Rodgers,PNR,High,Off,Allen Mordi,Spot Ups,Left,Drive,Liberty League,Liberty League,160,4.0,2025-01-31
+160,IC,HOB,Ithaca College,2pMa,Dribble Jumper,Yoav Regev,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,3.0,2025-01-31
+161,IC,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Justin Price,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,162,4.0,2025-01-31
+162,IC,HOB,Ithaca College,Foul,To Basket,Chris Leysath,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,163,1.0,2025-01-31
+165,IC,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Aidan Rodgers,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,2.0,2025-01-31
+166,IC,HOB,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,167,1.0,2025-01-31
+167,IC,HOB,Ithaca College,3pmi,No Dribble Jumper,Chris Leysath,Post,Left,Left Shoulder,Logan Wendell,Spot Ups,N/A,Shot,Liberty League,Liberty League,168,4.0,2025-01-31
+168,IC,HOB,Ithaca College,2pmi,To Basket,Chris Leysath,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,169,1.0,2025-01-31
+169,IC,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Allen Mordi,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,170,4.0,2025-01-31
+170,IC,HOB,Ithaca College,2pmi,To Basket,Jose Padilla,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,171,1.0,2025-01-31
+171,IC,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,172,4.0,2025-01-31
+172,IC,HOB,Ithaca College,3pmi,No Dribble Jumper,Alex Penders,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,4.0,2025-01-31
+173,IC,HOB,Ithaca College,2pMa,To Basket,Jaylon O'Neal,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,174,1.0,2025-01-31
+174,IC,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Pat Healy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,175,4.0,2025-01-31
+175,IC,HOB,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,PNR,High,Off,Alex Penders,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,176,4.0,2025-01-31
+176,IC,HOB,Hobart College Statesmen,2pMa,To Basket,Pat Healy,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,1.0,2025-01-31
+177,IC,HOB,Ithaca College,Foul,To Basket,Logan Wendell,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,178,1.0,2025-01-31
+180,IC,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Justin Price,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,2.0,2025-01-31
+181,IC,HOB,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,182,4.0,2025-01-31
+182,IC,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,183,4.0,2025-01-31
+183,IC,HOB,Hobart College Statesmen,2pMa,To Basket,Alex Moesch,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,184,1.0,2025-01-31
+184,IC,HOB,Ithaca College,2pmi,To Basket,Jaylon O'Neal,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,185,1.0,2025-01-31
+185,IC,HOB,Hobart College Statesmen,2pmi,N/A,Pat Healy,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,186,1.0,2025-01-31
+186,IC,HOB,Hobart College Statesmen,2pMa,To Basket,Pat Healy,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,187,1.0,2025-01-31
+187,IC,HOB,Ithaca College,2pmi,To Basket,Evan Cabral,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,188,1.0,2025-01-31
+188,IC,HOB,Ithaca College,3pmi,Dribble Jumper,Logan Wendell,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,189,4.0,2025-01-31
+189,IC,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Pat Healy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,190,4.0,2025-01-31
+190,IC,HOB,Ithaca College,And1,To Basket,Jaylon O'Neal,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,191,1.0,2025-01-31
+192,IC,HOB,Hobart College Statesmen,2pmi,To Basket,Pat Healy,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,193,1.0,2025-01-31
+194,IC,HOB,Ithaca College,2pmi,To Basket,Aidan Holmes,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,195,1.0,2025-01-31
+196,IC,HOB,Hobart College Statesmen,,N/A,Aidan Rodgers,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,197,1.0,2025-01-31
+197,IC,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Pat Healy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,198,4.0,2025-01-31
+199,IC,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Pat Healy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,200,4.0,2025-01-31
+201,IC,HOB,Ithaca College,2pMa,To Basket,Jaylon O'Neal,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,202,1.0,2025-01-31
+203,IC,HOB,Hobart College Statesmen,2pMa,To Basket,Pat Healy,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,204,1.0,2025-01-31
+204,IC,HOB,,Foul,N/A,Jaylon O'Neal,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,205,1.0,2025-01-31
+207,IC,HOB,Hobart College Statesmen,Foul,To Basket,Monty Nedd,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,208,1.0,2025-01-31
+210,IC,HOB,,Foul,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,211,1.0,2025-01-31
+213,IC,HOB,Hobart College Statesmen,Foul,N/A,Monty Nedd,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,214,1.0,2025-01-31
+216,IC,HOB,,Foul,N/A,Jose Padilla,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,217,1.0,2025-01-31
+219,IC,HOB,,Foul,N/A,Aidan Rodgers,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,220,1.0,2025-01-31
+221,IC,HOB,,Foul,N/A,Evan Cabral,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,222,1.0,2025-01-31
+224,IC,HOB,Hobart College Statesmen,3pmi,Dribble Jumper,Alex Moesch,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,225,4.0,2025-01-31

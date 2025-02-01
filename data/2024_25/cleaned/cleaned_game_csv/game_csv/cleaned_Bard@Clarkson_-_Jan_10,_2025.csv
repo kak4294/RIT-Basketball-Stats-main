@@ -1,0 +1,162 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,CU,Bar,Clarkson University Golden Knights,Turnover,N/A,Braeden Burns,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,1.0,2025-01-10
+1,CU,Bar,Bard College,2pmi,Hook Shot,Sean Wilcox,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,1.0,2025-01-10
+2,CU,Bar,Clarkson University Golden Knights,2pmi,Drop Step,Finn Cork,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,1.0,2025-01-10
+3,CU,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,4.0,2025-01-10
+5,CU,Bar,Clarkson University Golden Knights,2pMa,Dribble Jumper,Jack Dalgety,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,3.0,2025-01-10
+6,CU,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,1.0,2025-01-10
+7,CU,Bar,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Finn Cork,Post,Left,Left Shoulder,Braeden Burns,Spot Ups,N/A,Shot,Liberty League,Liberty League,8,4.0,2025-01-10
+8,CU,Bar,Bard College,2pmi,Dribble Jumper,Rowan Heinze,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,2.0,2025-01-10
+9,CU,Bar,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,4.0,2025-01-10
+11,CU,Bar,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,4.0,2025-01-10
+12,CU,Bar,Bard College,3pMa,No Dribble Jumper,Ahmad Rauf,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,4.0,2025-01-10
+13,CU,Bar,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,PNR,High,Off,Matteo Sinon,Spot Ups,N/A,Shot,Liberty League,Liberty League,14,4.0,2025-01-10
+14,CU,Bar,Bard College,2pMa,To Basket,Sean Wilcox,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,15,1.0,2025-01-10
+15,CU,Bar,Clarkson University Golden Knights,Turnover,N/A,Jack Dalgety,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,1.0,2025-01-10
+16,CU,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,1.0,2025-01-10
+17,CU,Bar,Clarkson University Golden Knights,2pMa,To Basket,Steve DeRegis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,1.0,2025-01-10
+18,CU,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,19,1.0,2025-01-10
+19,CU,Bar,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matteo Sinon,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,4.0,2025-01-10
+20,CU,Bar,Bard College,Turnover,N/A,Rowan Heinze,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,21,1.0,2025-01-10
+21,CU,Bar,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Finn Cork,Post,Left,Left Shoulder,Braeden Burns,Spot Ups,N/A,Shot,Liberty League,Liberty League,22,4.0,2025-01-10
+22,CU,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Iso,Top,N/A,Rowan Heinze,Cuts,N/A,Basket,Liberty League,Liberty League,23,1.0,2025-01-10
+23,CU,Bar,Clarkson University Golden Knights,2pmi,To Basket,Steve DeRegis,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,1.0,2025-01-10
+25,CU,Bar,Clarkson University Golden Knights,Foul,To Basket,Braeden Burns,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,1.0,2025-01-10
+29,CU,Bar,Bard College,2pmi,To Basket,Laz Panagiotounis,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,1.0,2025-01-10
+30,CU,Bar,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matt Toscano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,31,4.0,2025-01-10
+32,CU,Bar,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,1.0,2025-01-10
+33,CU,Bar,Bard College,2pmi,To Basket,Seth Dyer,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,1.0,2025-01-10
+34,CU,Bar,Clarkson University Golden Knights,Foul,To Basket,Steve DeRegis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,35,1.0,2025-01-10
+37,CU,Bar,Bard College,2pmi,Dribble Jumper,Laz Panagiotounis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,38,3.0,2025-01-10
+38,CU,Bar,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,4.0,2025-01-10
+39,CU,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,1.0,2025-01-10
+40,CU,Bar,Clarkson University Golden Knights,Turnover,N/A,Finn Cork,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,41,1.0,2025-01-10
+41,CU,Bar,Bard College,Turnover,N/A,Lucas Tovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,42,1.0,2025-01-10
+42,CU,Bar,Clarkson University Golden Knights,2pMa,To Basket,Steve DeRegis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,1.0,2025-01-10
+44,CU,Bar,Bard College,Turnover,N/A,Sean Wilcox,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,45,1.0,2025-01-10
+45,CU,Bar,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matthew Parent,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,46,4.0,2025-01-10
+46,CU,Bar,Bard College,Turnover,N/A,Sean Wilcox,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,47,1.0,2025-01-10
+47,CU,Bar,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Ben Rappa,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,48,4.0,2025-01-10
+48,CU,Bar,Bard College,2pmi,Hook Shot,Sean Wilcox,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,1.0,2025-01-10
+49,CU,Bar,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,4.0,2025-01-10
+50,CU,Bar,Bard College,Turnover,N/A,Max Frei,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,51,1.0,2025-01-10
+51,CU,Bar,Clarkson University Golden Knights,2pmi,Drop Step,Jack Dalgety,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,1.0,2025-01-10
+52,CU,Bar,Bard College,3pmi,No Dribble Jumper,Azriel Almodovar,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,4.0,2025-01-10
+53,CU,Bar,Clarkson University Golden Knights,2pmi,To Basket,Matthew Parent,PNR,Right,Off,Jack Dalgety,Spot Ups,Left,Drive,Liberty League,Liberty League,54,1.0,2025-01-10
+54,CU,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,PNR,Left,Off,Jalen Umstead,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,55,4.0,2025-01-10
+56,CU,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,57,1.0,2025-01-10
+57,CU,Bar,Clarkson University Golden Knights,Foul,To Basket,Jack Dalgety,Post,Left,N/A,Lorenzo Rappa,Cuts,N/A,Basket,Liberty League,Liberty League,58,1.0,2025-01-10
+60,CU,Bar,Bard College,And1,To Basket,Azriel Almodovar,PNR,High,Off,Rowan Heinze,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,61,1.0,2025-01-10
+62,CU,Bar,Clarkson University Golden Knights,Turnover,N/A,Ben Phillips,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,1.0,2025-01-10
+63,CU,Bar,Bard College,Turnover,N/A,Ahmad Rauf,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,1.0,2025-01-10
+64,CU,Bar,Clarkson University Golden Knights,Foul,To Basket,Finn Cork,Post,Left,Left Shoulder,Braeden Burns,Cuts,N/A,Basket,Liberty League,Liberty League,65,1.0,2025-01-10
+67,CU,Bar,Bard College,2pMa,To Basket,Sean Wilcox,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,68,1.0,2025-01-10
+68,CU,Bar,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,69,1.0,2025-01-10
+69,CU,Bar,Bard College,3pMa,No Dribble Jumper,Azriel Almodovar,PNR,High,Off,Jalen Umstead,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,70,4.0,2025-01-10
+70,CU,Bar,Clarkson University Golden Knights,2pMa,Hook Shot,Finn Cork,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,71,1.0,2025-01-10
+71,CU,Bar,Bard College,Turnover,To Basket,Jalen Umstead,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,1.0,2025-01-10
+73,CU,Bar,Clarkson University Golden Knights,2pmi,To Basket,Finn Cork,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,74,1.0,2025-01-10
+74,CU,Bar,Bard College,2pMa,To Basket,Jalen Umstead,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,1.0,2025-01-10
+75,CU,Bar,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,76,1.0,2025-01-10
+76,CU,Bar,Bard College,2pmi,To Basket,Lucas Tovar,PNR,High,Off,Jalen Umstead,P&R Roll Man,Right,Pop,Liberty League,Liberty League,77,1.0,2025-01-10
+77,CU,Bar,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matteo Sinon,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,78,4.0,2025-01-10
+78,CU,Bar,Bard College,Foul,To Basket,Sean Wilcox,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,1.0,2025-01-10
+81,CU,Bar,Clarkson University Golden Knights,Turnover,Drop Step,Finn Cork,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,82,1.0,2025-01-10
+82,CU,Bar,Bard College,2pMa,To Basket,Jalen Umstead,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,1.0,2025-01-10
+84,CU,Bar,Clarkson University Golden Knights,2pmi,To Basket,Jack Dalgety,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,1.0,2025-01-10
+85,CU,Bar,Bard College,2pMa,To Basket,Lucas Tovar,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,86,1.0,2025-01-10
+86,CU,Bar,Clarkson University Golden Knights,2pmi,N/A,Finn Cork,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,1.0,2025-01-10
+87,CU,Bar,Bard College,Turnover,N/A,Lucas Tovar,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,1.0,2025-01-10
+88,CU,Bar,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,1.0,2025-01-10
+89,CU,Bar,Bard College,3pmi,Dribble Jumper,Lucas Tovar,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,90,4.0,2025-01-10
+91,CU,Bar,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,92,1.0,2025-01-10
+92,CU,Bar,Bard College,2pmi,To Basket,Laz Panagiotounis,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,93,1.0,2025-01-10
+93,CU,Bar,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Lorenzo Rappa,PNR,High,Off,Steve DeRegis,Spot Ups,N/A,Shot,Liberty League,Liberty League,94,4.0,2025-01-10
+94,CU,Bar,Bard College,Foul,To Basket,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,1.0,2025-01-10
+97,CU,Bar,Clarkson University Golden Knights,2pMa,Dribble Jumper,Lorenzo Rappa,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,2.0,2025-01-10
+98,CU,Bar,Bard College,3pMa,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,4.0,2025-01-10
+99,CU,Bar,Clarkson University Golden Knights,Turnover,N/A,Finn Cork,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,1.0,2025-01-10
+100,CU,Bar,Bard College,3pmi,No Dribble Jumper,Rowan Heinze,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,101,4.0,2025-01-10
+101,CU,Bar,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,102,1.0,2025-01-10
+102,CU,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,4.0,2025-01-10
+103,CU,Bar,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,4.0,2025-01-10
+104,CU,Bar,Bard College,3pmi,No Dribble Jumper,Rowan Heinze,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,4.0,2025-01-10
+105,CU,Bar,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,106,4.0,2025-01-10
+106,CU,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,107,4.0,2025-01-10
+108,CU,Bar,Bard College,Turnover,N/A,Rowan Heinze,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,109,1.0,2025-01-10
+109,CU,Bar,Clarkson University Golden Knights,2pmi,Hook Shot,Jack Dalgety,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,110,1.0,2025-01-10
+110,CU,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,1.0,2025-01-10
+112,CU,Bar,Clarkson University Golden Knights,2pmi,Dribble Jumper,Matteo Sinon,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,2.0,2025-01-10
+114,CU,Bar,Bard College,3pmi,No Dribble Jumper,Azriel Almodovar,Iso,Top,N/A,Sean Wilcox,Spot Ups,N/A,Shot,Liberty League,Liberty League,115,4.0,2025-01-10
+115,CU,Bar,Bard College,2pMa,To Basket,Sean Wilcox,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,116,1.0,2025-01-10
+116,CU,Bar,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,1.0,2025-01-10
+117,CU,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,4.0,2025-01-10
+119,CU,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,120,1.0,2025-01-10
+120,CU,Bar,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,121,1.0,2025-01-10
+121,CU,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,1.0,2025-01-10
+122,CU,Bar,Clarkson University Golden Knights,2pmi,Dribble Jumper,Jack Dalgety,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,123,2.0,2025-01-10
+123,CU,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,124,1.0,2025-01-10
+124,CU,Bar,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,125,4.0,2025-01-10
+125,CU,Bar,Bard College,2pmi,Hook Shot,Rowan Heinze,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,126,1.0,2025-01-10
+127,CU,Bar,Bard College,2pmi,Dribble Jumper,Rowan Heinze,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,2.0,2025-01-10
+128,CU,Bar,Clarkson University Golden Knights,2pMa,To Basket,Steve DeRegis,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,129,1.0,2025-01-10
+129,CU,Bar,Bard College,2pmi,Dribble Jumper,Laz Panagiotounis,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,130,2.0,2025-01-10
+130,CU,Bar,Clarkson University Golden Knights,Turnover,N/A,Lorenzo Rappa,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,1.0,2025-01-10
+131,CU,Bar,Bard College,Foul,To Basket,Sean Wilcox,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,1.0,2025-01-10
+134,CU,Bar,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,135,4.0,2025-01-10
+136,CU,Bar,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Casey Montesano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,137,4.0,2025-01-10
+138,CU,Bar,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,1.0,2025-01-10
+139,CU,Bar,Bard College,2pmi,Dribble Jumper,Laz Panagiotounis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,2.0,2025-01-10
+140,CU,Bar,Clarkson University Golden Knights,2pMa,To Basket,Lorenzo Rappa,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,1.0,2025-01-10
+141,CU,Bar,Bard College,3pmi,No Dribble Jumper,Lucas Tovar,PNR,High,Off,Laz Panagiotounis,Spot Ups,N/A,Shot,Liberty League,Liberty League,142,4.0,2025-01-10
+144,CU,Bar,Bard College,3pMa,No Dribble Jumper,Jalen Umstead,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,145,4.0,2025-01-10
+145,CU,Bar,Clarkson University Golden Knights,2pmi,To Basket,Casey Montesano,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,1.0,2025-01-10
+147,CU,Bar,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,148,4.0,2025-01-10
+148,CU,Bar,Bard College,Turnover,N/A,Max Frei,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,1.0,2025-01-10
+149,CU,Bar,Clarkson University Golden Knights,2pMa,To Basket,Lorenzo Rappa,PNR,High,Off,Casey Montesano,Cuts,N/A,Basket,Liberty League,Liberty League,150,1.0,2025-01-10
+151,CU,Bar,Bard College,3pmi,Dribble Jumper,Lucas Tovar,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,152,4.0,2025-01-10
+152,CU,Bar,Clarkson University Golden Knights,2pmi,To Basket,Lorenzo Rappa,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,153,1.0,2025-01-10
+153,CU,Bar,Bard College,Turnover,N/A,Max Frei,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,154,1.0,2025-01-10
+154,CU,Bar,Clarkson University Golden Knights,2pMa,To Basket,Lorenzo Rappa,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,1.0,2025-01-10
+155,CU,Bar,Bard College,Turnover,N/A,Lucas Tovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,156,1.0,2025-01-10
+156,CU,Bar,Clarkson University Golden Knights,2pMa,To Basket,Casey Montesano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,1.0,2025-01-10
+159,CU,Bar,Bard College,Turnover,N/A,Lucas Tovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,160,1.0,2025-01-10
+160,CU,Bar,Clarkson University Golden Knights,Turnover,N/A,Braeden Burns,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,1.0,2025-01-10
+162,CU,Bar,Bard College,Turnover,N/A,Sean Wilcox,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,163,1.0,2025-01-10
+163,CU,Bar,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,164,4.0,2025-01-10
+164,CU,Bar,Bard College,Foul,To Basket,Sean Wilcox,Post,Middle,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,165,1.0,2025-01-10
+167,CU,Bar,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,1.0,2025-01-10
+168,CU,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,169,4.0,2025-01-10
+169,CU,Bar,Clarkson University Golden Knights,Turnover,N/A,Steve DeRegis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,170,1.0,2025-01-10
+170,CU,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,171,4.0,2025-01-10
+171,CU,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,172,1.0,2025-01-10
+172,CU,Bar,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,1.0,2025-01-10
+174,CU,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,175,1.0,2025-01-10
+175,CU,Bar,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,176,1.0,2025-01-10
+176,CU,Bar,Bard College,Turnover,N/A,Sean Wilcox,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,1.0,2025-01-10
+177,CU,Bar,Clarkson University Golden Knights,Turnover,N/A,Finn Cork,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,178,1.0,2025-01-10
+178,CU,Bar,Bard College,Foul,N/A,Laz Panagiotounis,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,179,1.0,2025-01-10
+180,CU,Bar,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,1.0,2025-01-10
+181,CU,Bar,,Foul,N/A,Rowan Heinze,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,182,1.0,2025-01-10
+186,CU,Bar,Clarkson University Golden Knights,Turnover,N/A,Lorenzo Rappa,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,187,1.0,2025-01-10
+187,CU,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,188,1.0,2025-01-10
+188,CU,Bar,Clarkson University Golden Knights,Turnover,N/A,Lorenzo Rappa,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,189,1.0,2025-01-10
+189,CU,Bar,Bard College,2pmi,To Basket,Laz Panagiotounis,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,190,1.0,2025-01-10
+191,CU,Bar,Bard College,3pMa,No Dribble Jumper,Sean Wilcox,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,192,4.0,2025-01-10
+192,CU,Bar,Clarkson University Golden Knights,2pmi,Hook Shot,Finn Cork,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,193,1.0,2025-01-10
+193,CU,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,194,1.0,2025-01-10
+196,CU,Bar,Clarkson University Golden Knights,2pMa,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,197,3.0,2025-01-10
+197,CU,Bar,Bard College,3pMa,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,198,4.0,2025-01-10
+198,CU,Bar,Clarkson University Golden Knights,Foul,To Basket,Finn Cork,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,199,1.0,2025-01-10
+202,CU,Bar,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Ben Rappa,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,203,4.0,2025-01-10
+203,CU,Bar,Bard College,3pmi,No Dribble Jumper,Rowan Heinze,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,204,4.0,2025-01-10
+205,CU,Bar,Bard College,Foul,N/A,Azriel Almodovar,PNR,Right,Off,Laz Panagiotounis,Spot Ups,Left,Drive,Liberty League,Liberty League,206,1.0,2025-01-10
+208,CU,Bar,Bard College,2pMa,To Basket,Rowan Heinze,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,209,1.0,2025-01-10
+209,CU,Bar,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Finn Cork,Post,Left,Left Shoulder,Jack Dalgety,Spot Ups,N/A,Shot,Liberty League,Liberty League,210,4.0,2025-01-10
+210,CU,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,211,1.0,2025-01-10
+211,CU,Bar,Clarkson University Golden Knights,3pMa,Dribble Jumper,Steve DeRegis,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,212,4.0,2025-01-10
+212,CU,Bar,Bard College,3pMa,Dribble Jumper,Laz Panagiotounis,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,213,4.0,2025-01-10
+213,CU,Bar,Clarkson University Golden Knights,Turnover,N/A,Lorenzo Rappa,PNR,High,Off,Jack Dalgety,Spot Ups,Left,Drive,Liberty League,Liberty League,214,1.0,2025-01-10
+214,CU,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,215,1.0,2025-01-10
+215,CU,Bar,Bard College,2pmi,To Basket,Sean Wilcox,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,216,1.0,2025-01-10
+218,CU,Bar,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,219,4.0,2025-01-10

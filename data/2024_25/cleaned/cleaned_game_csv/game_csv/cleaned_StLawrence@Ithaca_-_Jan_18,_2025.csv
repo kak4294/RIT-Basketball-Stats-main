@@ -1,0 +1,139 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+1,IC,SLS,Ithaca College,2pmi,To Basket,Chris Leysath,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,1.0,2025-01-18
+2,IC,SLS,Ithaca College,Turnover,N/A,Chris Leysath,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,1.0,2025-01-18
+4,IC,SLS,Ithaca College,3pMa,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,4.0,2025-01-18
+5,IC,SLS,St. Lawrence Saints,Turnover,N/A,Aiden Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,1.0,2025-01-18
+6,IC,SLS,Ithaca College,2pMa,To Basket,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,1.0,2025-01-18
+7,IC,SLS,St. Lawrence Saints,2pmi,To Basket,Adam Dudzinski,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,1.0,2025-01-18
+8,IC,SLS,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,4.0,2025-01-18
+9,IC,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Trey Syroka,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,2.0,2025-01-18
+10,IC,SLS,Ithaca College,3pmi,Dribble Jumper,Jaylon O'Neal,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,4.0,2025-01-18
+13,IC,SLS,St. Lawrence Saints,2pMa,To Basket,Gavin Macaulay,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,14,1.0,2025-01-18
+14,IC,SLS,Ithaca College,3pmi,No Dribble Jumper,Jaylon O'Neal,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,15,4.0,2025-01-18
+15,IC,SLS,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,PNR,High,Off,Andrew Cowan,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,16,1.0,2025-01-18
+16,IC,SLS,Ithaca College,Foul,No Dribble Jumper,Jaylon O'Neal,PNR,Right,Off,Aidan Holmes,Spot Ups,N/A,Shot,Liberty League,Liberty League,17,4.0,2025-01-18
+20,IC,SLS,St. Lawrence Saints,2pmi,To Basket,Trey Syroka,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,21,1.0,2025-01-18
+21,IC,SLS,Ithaca College,2pMa,To Basket,Jaylon O'Neal,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,1.0,2025-01-18
+22,IC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Trey Syroka,PNR,High,Off,Dan Anderson,Spot Ups,N/A,Shot,Liberty League,Liberty League,23,4.0,2025-01-18
+23,IC,SLS,Ithaca College,3pMa,No Dribble Jumper,Aidan Holmes,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,4.0,2025-01-18
+24,IC,SLS,St. Lawrence Saints,Turnover,N/A,Dan Anderson,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,Liberty League,Liberty League,25,1.0,2025-01-18
+25,IC,SLS,Ithaca College,2pMa,To Basket,Jaylon O'Neal,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,1.0,2025-01-18
+26,IC,SLS,St. Lawrence Saints,Turnover,To Basket,Troy McPherson,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,27,1.0,2025-01-18
+27,IC,SLS,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,28,4.0,2025-01-18
+29,IC,SLS,Ithaca College,2pMa,To Basket,Chris Leysath,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,1.0,2025-01-18
+31,IC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,4.0,2025-01-18
+32,IC,SLS,St. Lawrence Saints,2pmi,To Basket,Troy McPherson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,1.0,2025-01-18
+33,IC,SLS,Ithaca College,3pmi,Dribble Jumper,Aidan Holmes,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,4.0,2025-01-18
+34,IC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,35,4.0,2025-01-18
+35,IC,SLS,Ithaca College,2pMa,To Basket,Alex Penders,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,36,1.0,2025-01-18
+37,IC,SLS,St. Lawrence Saints,2pMa,To Basket,Aiden Macaulay,PNR,High,Off,Dan Anderson,Spot Ups,Left,Drive,Liberty League,Liberty League,38,1.0,2025-01-18
+38,IC,SLS,Ithaca College,3pmi,No Dribble Jumper,Cole Wissink,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,4.0,2025-01-18
+39,IC,SLS,St. Lawrence Saints,2pmi,To Basket,Aiden Macaulay,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,1.0,2025-01-18
+40,IC,SLS,St. Lawrence Saints,2pMa,To Basket,Chris Downs Jr.,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,41,1.0,2025-01-18
+41,IC,SLS,Ithaca College,2pmi,To Basket,Logan Wendell,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,42,1.0,2025-01-18
+43,IC,SLS,Ithaca College,Turnover,N/A,Cole Wissink,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,44,1.0,2025-01-18
+44,IC,SLS,St. Lawrence Saints,Turnover,N/A,Chris Downs Jr.,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,45,1.0,2025-01-18
+45,IC,SLS,Ithaca College,Turnover,N/A,Jose Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,46,1.0,2025-01-18
+46,IC,SLS,St. Lawrence Saints,Foul,To Basket,Chris Downs Jr.,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,47,1.0,2025-01-18
+49,IC,SLS,Ithaca College,2pmi,To Basket,Alex Penders,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,1.0,2025-01-18
+51,IC,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Troy McPherson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,4.0,2025-01-18
+52,IC,SLS,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,4.0,2025-01-18
+53,IC,SLS,St. Lawrence Saints,Turnover,N/A,Gavin Macaulay,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,54,1.0,2025-01-18
+56,IC,SLS,St. Lawrence Saints,2pmi,To Basket,Trey Syroka,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,57,1.0,2025-01-18
+58,IC,SLS,St. Lawrence Saints,2pmi,To Basket,Chris Downs Jr.,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,59,1.0,2025-01-18
+59,IC,SLS,Ithaca College,Turnover,N/A,Jaylon O'Neal,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,1.0,2025-01-18
+60,IC,SLS,St. Lawrence Saints,2pmi,To Basket,Chris Downs Jr.,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,61,1.0,2025-01-18
+61,IC,SLS,Ithaca College,2pMa,To Basket,Jose Padilla,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,1.0,2025-01-18
+62,IC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Trey Syroka,PNR,High,Off,Troy McPherson,Spot Ups,N/A,Shot,Liberty League,Liberty League,63,4.0,2025-01-18
+63,IC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,4.0,2025-01-18
+65,IC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,4.0,2025-01-18
+66,IC,SLS,Ithaca College,Foul,To Basket,Jaylon O'Neal,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,1.0,2025-01-18
+69,IC,SLS,St. Lawrence Saints,2pmi,To Basket,Trey Syroka,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,70,1.0,2025-01-18
+71,IC,SLS,Ithaca College,3pmi,Dribble Jumper,Logan Wendell,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,4.0,2025-01-18
+72,IC,SLS,St. Lawrence Saints,2pMa,To Basket,Andrew Cowan,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,1.0,2025-01-18
+73,IC,SLS,Ithaca College,3pmi,No Dribble Jumper,Cole Wissink,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,74,4.0,2025-01-18
+74,IC,SLS,St. Lawrence Saints,Turnover,N/A,Adam Dudzinski,PNR,Right,Off,Trey Syroka,Spot Ups,N/A,N/A,Liberty League,Liberty League,75,1.0,2025-01-18
+75,IC,SLS,Ithaca College,2pMa,To Basket,Jaylon O'Neal,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,76,1.0,2025-01-18
+76,IC,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Dan Anderson,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,77,4.0,2025-01-18
+77,IC,SLS,Ithaca College,3pMa,No Dribble Jumper,Jaylon O'Neal,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,78,4.0,2025-01-18
+79,IC,SLS,St. Lawrence Saints,2pmi,To Basket,Aiden Macaulay,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,1.0,2025-01-18
+80,IC,SLS,Ithaca College,3pmi,No Dribble Jumper,Jaylon O'Neal,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,81,4.0,2025-01-18
+81,IC,SLS,Ithaca College,Turnover,N/A,Logan Wendell,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,82,1.0,2025-01-18
+82,IC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Trey Syroka,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,4.0,2025-01-18
+83,IC,SLS,Ithaca College,Foul,To Basket,Jaylon O'Neal,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,84,1.0,2025-01-18
+86,IC,SLS,St. Lawrence Saints,2pmi,To Basket,Trey Syroka,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,1.0,2025-01-18
+87,IC,SLS,St. Lawrence Saints,2pMa,N/A,Trey Syroka,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,2.0,2025-01-18
+88,IC,SLS,Ithaca College,2pMa,To Basket,Chris Leysath,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,1.0,2025-01-18
+89,IC,SLS,St. Lawrence Saints,Turnover,N/A,Gavin Macaulay,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,90,1.0,2025-01-18
+90,IC,SLS,Ithaca College,2pmi,To Basket,Jaylon O'Neal,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,91,1.0,2025-01-18
+91,IC,SLS,St. Lawrence Saints,2pmi,To Basket,Andrew Cowan,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,92,1.0,2025-01-18
+92,IC,SLS,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,93,4.0,2025-01-18
+94,IC,SLS,Ithaca College,3pmi,Dribble Jumper,Jaylon O'Neal,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,4.0,2025-01-18
+95,IC,SLS,Ithaca College,2pmi,To Basket,Logan Wendell,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,96,2.0,2025-01-18
+96,IC,SLS,St. Lawrence Saints,Turnover,To Basket,Aiden Macaulay,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,97,1.0,2025-01-18
+97,IC,SLS,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,4.0,2025-01-18
+98,IC,SLS,Ithaca College,2pMa,To Basket,Chris Leysath,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,1.0,2025-01-18
+100,IC,SLS,St. Lawrence Saints,2pMa,No Dribble Jumper,Chris Downs Jr.,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,101,3.0,2025-01-18
+101,IC,SLS,Ithaca College,3pmi,Dribble Jumper,Logan Wendell,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,102,4.0,2025-01-18
+102,IC,SLS,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,4.0,2025-01-18
+103,IC,SLS,St. Lawrence Saints,Turnover,N/A,Gavin Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,1.0,2025-01-18
+104,IC,SLS,Ithaca College,3pMa,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,4.0,2025-01-18
+105,IC,SLS,St. Lawrence Saints,2pMa,Dribble Jumper,Dan Anderson,PNR,Left,Away,Aiden Macaulay,Spot Ups,Left,Drive,Liberty League,Liberty League,106,2.0,2025-01-18
+106,IC,SLS,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,107,4.0,2025-01-18
+108,IC,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,109,4.0,2025-01-18
+109,IC,SLS,Ithaca College,3pMa,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,110,4.0,2025-01-18
+110,IC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Aiden Macaulay,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,4.0,2025-01-18
+114,IC,SLS,Ithaca College,3pMa,Dribble Jumper,Logan Wendell,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,4.0,2025-01-18
+115,IC,SLS,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,116,1.0,2025-01-18
+116,IC,SLS,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,PNR,High,Off,Aidan Holmes,Spot Ups,N/A,Shot,Liberty League,Liberty League,117,4.0,2025-01-18
+117,IC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Troy McPherson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,4.0,2025-01-18
+118,IC,SLS,St. Lawrence Saints,2pMa,To Basket,Dan Anderson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,1.0,2025-01-18
+119,IC,SLS,Ithaca College,2pmi,To Basket,Evan Cabral,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,120,1.0,2025-01-18
+120,IC,SLS,St. Lawrence Saints,And1,Hook Shot,Chris Downs Jr.,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,121,1.0,2025-01-18
+122,IC,SLS,Ithaca College,2pmi,Dribble Jumper,Jaylon O'Neal,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,123,3.0,2025-01-18
+123,IC,SLS,St. Lawrence Saints,Turnover,N/A,Dan Anderson,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,124,1.0,2025-01-18
+124,IC,SLS,Ithaca College,2pMa,To Basket,Evan Cabral,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,125,1.0,2025-01-18
+125,IC,SLS,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,126,1.0,2025-01-18
+126,IC,SLS,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,127,4.0,2025-01-18
+127,IC,SLS,Ithaca College,2pMa,To Basket,Evan Cabral,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,1.0,2025-01-18
+128,IC,SLS,St. Lawrence Saints,2pmi,To Basket,Troy McPherson,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,129,1.0,2025-01-18
+130,IC,SLS,Ithaca College,And1,To Basket,Alex Penders,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,1.0,2025-01-18
+133,IC,SLS,St. Lawrence Saints,2pmi,To Basket,Troy McPherson,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,134,1.0,2025-01-18
+138,IC,SLS,Ithaca College,3pMa,No Dribble Jumper,Evan Cabral,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,4.0,2025-01-18
+139,IC,SLS,St. Lawrence Saints,Foul,To Basket,Andrew Cowan,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,1.0,2025-01-18
+142,IC,SLS,Ithaca College,2pmi,To Basket,Laurence Brady,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,143,1.0,2025-01-18
+143,IC,SLS,Ithaca College,Foul,To Basket,Alex Penders,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,144,1.0,2025-01-18
+147,IC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Colton Suriano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,148,4.0,2025-01-18
+149,IC,SLS,,Foul,N/A,Jose Padilla,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,150,1.0,2025-01-18
+152,IC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Trey Syroka,PNR,High,Off,Gavin Macaulay,Spot Ups,N/A,Shot,Liberty League,Liberty League,153,4.0,2025-01-18
+153,IC,SLS,Ithaca College,3pmi,No Dribble Jumper,Jose Padilla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,154,4.0,2025-01-18
+154,IC,SLS,St. Lawrence Saints,2pMa,To Basket,Andrew Cowan,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,1.0,2025-01-18
+155,IC,SLS,Ithaca College,Turnover,N/A,Thomas Mckiernan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,156,1.0,2025-01-18
+156,IC,SLS,St. Lawrence Saints,And1,To Basket,Gavin Macaulay,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,1.0,2025-01-18
+158,IC,SLS,St. Lawrence Saints,2pmi,No Dribble Jumper,Colton Suriano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,3.0,2025-01-18
+159,IC,SLS,Ithaca College,2pmi,To Basket,Jaylon O'Neal,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,160,1.0,2025-01-18
+160,IC,SLS,St. Lawrence Saints,2pmi,To Basket,Chris Downs Jr.,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,1.0,2025-01-18
+162,IC,SLS,St. Lawrence Saints,2pmi,To Basket,Chris Downs Jr.,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,163,1.0,2025-01-18
+163,IC,SLS,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,164,4.0,2025-01-18
+165,IC,SLS,Ithaca College,2pmi,To Basket,Evan Cabral,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,1.0,2025-01-18
+166,IC,SLS,Ithaca College,Foul,To Basket,Evan Cabral,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,167,1.0,2025-01-18
+169,IC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Alexi Twahili,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,170,4.0,2025-01-18
+170,IC,SLS,,Foul,N/A,Colton Suriano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,171,1.0,2025-01-18
+172,IC,SLS,Ithaca College,Foul,N/A,Aidan Holmes,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,1.0,2025-01-18
+175,IC,SLS,St. Lawrence Saints,2pmi,Hook Shot,Colton Suriano,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,176,1.0,2025-01-18
+176,IC,SLS,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,4.0,2025-01-18
+177,IC,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Chris Downs Jr.,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,178,2.0,2025-01-18
+178,IC,SLS,Ithaca College,3pmi,No Dribble Jumper,Jaylon O'Neal,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,179,4.0,2025-01-18
+179,IC,SLS,,Foul,N/A,Colton Suriano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,180,1.0,2025-01-18
+182,IC,SLS,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,183,4.0,2025-01-18
+183,IC,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Colton Suriano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,184,4.0,2025-01-18
+184,IC,SLS,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,185,4.0,2025-01-18
+185,IC,SLS,Ithaca College,Turnover,N/A,Evan Cabral,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,186,1.0,2025-01-18
+186,IC,SLS,St. Lawrence Saints,Turnover,N/A,Brayden Shepardson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,187,1.0,2025-01-18
+187,IC,SLS,Ithaca College,2pMa,To Basket,Evan Cabral,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,188,1.0,2025-01-18
+188,IC,SLS,,Foul,N/A,Jack Wirtanen,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,189,1.0,2025-01-18
+190,IC,SLS,Ithaca College,Turnover,N/A,Thomas Mckiernan,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,191,1.0,2025-01-18
+191,IC,SLS,St. Lawrence Saints,Foul,N/A,Colton Suriano,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,192,1.0,2025-01-18
+194,IC,SLS,Ithaca College,3pmi,No Dribble Jumper,Michael Porter,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,195,4.0,2025-01-18
+196,IC,SLS,Ithaca College,Turnover,To Basket,Laurence Brady,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,197,1.0,2025-01-18
+197,IC,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Colton Suriano,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,198,4.0,2025-01-18

@@ -1,0 +1,182 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,VC,Bar,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,4.0,2025-01-25
+2,VC,Bar,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,3.0,2025-01-25
+3,VC,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,4.0,2025-01-25
+4,VC,Bar,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,4.0,2025-01-25
+5,VC,Bar,Bard College,2pmi,Hook Shot,Sean Wilcox,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,1.0,2025-01-25
+6,VC,Bar,Bard College,2pMa,To Basket,Sean Wilcox,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,1.0,2025-01-25
+7,VC,Bar,Vassar Brewers,3pMa,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,4.0,2025-01-25
+8,VC,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,1.0,2025-01-25
+9,VC,Bar,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,1.0,2025-01-25
+10,VC,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,4.0,2025-01-25
+12,VC,Bar,Bard College,3pMa,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,4.0,2025-01-25
+13,VC,Bar,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,PNR,Right,Off,Nathan Denham,Spot Ups,N/A,Shot,Liberty League,Liberty League,14,4.0,2025-01-25
+14,VC,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,15,4.0,2025-01-25
+15,VC,Bar,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,PNR,Left,Off,Sebastian Medina,Spot Ups,N/A,Shot,Liberty League,Liberty League,16,4.0,2025-01-25
+17,VC,Bar,Vassar Brewers,Turnover,N/A,Kreekor Karageuzian,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,1.0,2025-01-25
+18,VC,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,19,1.0,2025-01-25
+19,VC,Bar,Vassar Brewers,3pMa,No Dribble Jumper,Alex Walters,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,4.0,2025-01-25
+20,VC,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,21,1.0,2025-01-25
+21,VC,Bar,Vassar Brewers,Turnover,N/A,Luke Adams,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,1.0,2025-01-25
+22,VC,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,23,1.0,2025-01-25
+23,VC,Bar,Vassar Brewers,And1,To Basket,Eric Zhang,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,1.0,2025-01-25
+25,VC,Bar,Bard College,Foul,To Basket,Laz Panagiotounis,PNR,Left,Off,Rowan Heinze,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,26,1.0,2025-01-25
+28,VC,Bar,Vassar Brewers,Turnover,N/A,Eric Zhang,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,29,1.0,2025-01-25
+30,VC,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,31,1.0,2025-01-25
+32,VC,Bar,Vassar Brewers,Foul,No Dribble Jumper,Avery Lee,PNR,Left,Off,Alex Walters,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,33,4.0,2025-01-25
+37,VC,Bar,Vassar Brewers,2pmi,To Basket,Eric Zhang,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,38,1.0,2025-01-25
+38,VC,Bar,Vassar Brewers,2pmi,To Basket,Alex Walters,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,1.0,2025-01-25
+40,VC,Bar,Vassar Brewers,3pMa,No Dribble Jumper,Luke Adams,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,41,4.0,2025-01-25
+41,VC,Bar,Bard College,Turnover,N/A,Angelos Brakatos,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,42,1.0,2025-01-25
+42,VC,Bar,Vassar Brewers,2pmi,To Basket,Eric Zhang,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,1.0,2025-01-25
+43,VC,Bar,Bard College,2pmi,To Basket,Lucas Tovar,PNR,High,Off,Laz Panagiotounis,Spot Ups,Right,Drive,Liberty League,Liberty League,44,1.0,2025-01-25
+44,VC,Bar,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,PNR,High,Off,Luke Adams,Spot Ups,N/A,Shot,Liberty League,Liberty League,45,4.0,2025-01-25
+45,VC,Bar,Bard College,Foul,To Basket,Sean Wilcox,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,46,1.0,2025-01-25
+48,VC,Bar,Vassar Brewers,2pMa,Dribble Jumper,JP Miranda,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,3.0,2025-01-25
+49,VC,Bar,Bard College,2pmi,To Basket,Laz Panagiotounis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,1.0,2025-01-25
+51,VC,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,4.0,2025-01-25
+52,VC,Bar,Vassar Brewers,2pMa,Dribble Jumper,Kreekor Karageuzian,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,2.0,2025-01-25
+54,VC,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,55,1.0,2025-01-25
+55,VC,Bar,Vassar Brewers,2pMa,To Basket,Nathan Denham,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,56,1.0,2025-01-25
+57,VC,Bar,Bard College,2pmi,To Basket,Ahmad Rauf,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,58,1.0,2025-01-25
+58,VC,Bar,Bard College,2pmi,To Basket,Sean Wilcox,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,59,1.0,2025-01-25
+59,VC,Bar,Bard College,2pMa,To Basket,Sean Wilcox,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,1.0,2025-01-25
+60,VC,Bar,Vassar Brewers,2pMa,To Basket,Sebastian Medina,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,61,1.0,2025-01-25
+62,VC,Bar,Bard College,3pmi,No Dribble Jumper,Azriel Almodovar,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,4.0,2025-01-25
+63,VC,Bar,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,4.0,2025-01-25
+64,VC,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,65,4.0,2025-01-25
+65,VC,Bar,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,1.0,2025-01-25
+66,VC,Bar,Bard College,2pmi,To Basket,Sean Wilcox,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,1.0,2025-01-25
+67,VC,Bar,Vassar Brewers,2pmi,To Basket,Sebastian Medina,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,68,1.0,2025-01-25
+68,VC,Bar,Bard College,Turnover,N/A,Azriel Almodovar,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,69,1.0,2025-01-25
+69,VC,Bar,Vassar Brewers,2pMa,Hook Shot,Devyn Benson,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,70,1.0,2025-01-25
+70,VC,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,71,1.0,2025-01-25
+71,VC,Bar,Vassar Brewers,Turnover,N/A,Kreekor Karageuzian,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,1.0,2025-01-25
+72,VC,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,4.0,2025-01-25
+73,VC,Bar,Vassar Brewers,Foul,To Basket,Avery Lee,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,74,1.0,2025-01-25
+76,VC,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,77,1.0,2025-01-25
+77,VC,Bar,Vassar Brewers,2pmi,To Basket,Avery Lee,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,78,1.0,2025-01-25
+78,VC,Bar,Bard College,Foul,To Basket,Rowan Heinze,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,1.0,2025-01-25
+81,VC,Bar,Vassar Brewers,3pmi,No Dribble Jumper,Eric Zhang,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,82,4.0,2025-01-25
+82,VC,Bar,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,4.0,2025-01-25
+83,VC,Bar,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,84,4.0,2025-01-25
+84,VC,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,1.0,2025-01-25
+85,VC,Bar,Vassar Brewers,And1,To Basket,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,86,1.0,2025-01-25
+87,VC,Bar,Bard College,Foul,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,1.0,2025-01-25
+90,VC,Bar,Vassar Brewers,2pmi,To Basket,Alex Walters,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,91,1.0,2025-01-25
+91,VC,Bar,Bard College,2pMa,To Basket,Sean Wilcox,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,92,1.0,2025-01-25
+93,VC,Bar,Vassar Brewers,Foul,N/A,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,94,1.0,2025-01-25
+96,VC,Bar,Bard College,2pmi,To Basket,Laz Panagiotounis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,97,1.0,2025-01-25
+97,VC,Bar,Bard College,Foul,To Basket,Rowan Heinze,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,1.0,2025-01-25
+100,VC,Bar,Vassar Brewers,2pMa,To Basket,Avery Lee,PNR,High,Off,Kreekor Karageuzian,Cuts,N/A,Flash,Liberty League,Liberty League,101,1.0,2025-01-25
+101,VC,Bar,Bard College,3pmi,Dribble Jumper,Laz Panagiotounis,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,102,4.0,2025-01-25
+102,VC,Bar,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,4.0,2025-01-25
+103,VC,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,1.0,2025-01-25
+104,VC,Bar,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,4.0,2025-01-25
+105,VC,Bar,,Foul,N/A,Sean Wilcox,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,106,1.0,2025-01-25
+108,VC,Bar,Vassar Brewers,And1,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,109,4.0,2025-01-25
+110,VC,Bar,Bard College,3pMa,No Dribble Jumper,Angelos Brakatos,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,4.0,2025-01-25
+111,VC,Bar,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,PNR,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,1.0,2025-01-25
+112,VC,Bar,Bard College,3pmi,No Dribble Jumper,Angelos Brakatos,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,4.0,2025-01-25
+113,VC,Bar,Vassar Brewers,2pMa,Dribble Jumper,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,114,2.0,2025-01-25
+114,VC,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,1.0,2025-01-25
+115,VC,Bar,Vassar Brewers,2pMa,To Basket,Nathan Denham,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,116,1.0,2025-01-25
+116,VC,Bar,Bard College,3pmi,No Dribble Jumper,Jalen Umstead,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,4.0,2025-01-25
+117,VC,Bar,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,3.0,2025-01-25
+118,VC,Bar,Bard College,Foul,N/A,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,1.0,2025-01-25
+121,VC,Bar,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,4.0,2025-01-25
+122,VC,Bar,,Foul,N/A,Sacha Greenberg,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,123,1.0,2025-01-25
+125,VC,Bar,Bard College,3pmi,Dribble Jumper,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,126,4.0,2025-01-25
+126,VC,Bar,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,127,4.0,2025-01-25
+127,VC,Bar,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Post,Left,Left Shoulder,Rowan Heinze,Spot Ups,N/A,Shot,Liberty League,Liberty League,128,4.0,2025-01-25
+128,VC,Bar,Vassar Brewers,Turnover,N/A,Sebastian Medina,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,129,1.0,2025-01-25
+129,VC,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,130,1.0,2025-01-25
+130,VC,Bar,Vassar Brewers,Turnover,N/A,Nathan Denham,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,1.0,2025-01-25
+131,VC,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,1.0,2025-01-25
+132,VC,Bar,Vassar Brewers,2pmi,To Basket,Sebastian Medina,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,133,1.0,2025-01-25
+133,VC,Bar,Bard College,Foul,To Basket,Rowan Heinze,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,134,1.0,2025-01-25
+136,VC,Bar,Vassar Brewers,2pMa,To Basket,Sebastian Medina,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,137,1.0,2025-01-25
+137,VC,Bar,Bard College,And1,To Basket,Laz Panagiotounis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,138,1.0,2025-01-25
+139,VC,Bar,Vassar Brewers,2pmi,Dribble Jumper,Shea Fitzgerald,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,2.0,2025-01-25
+140,VC,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,1.0,2025-01-25
+142,VC,Bar,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,143,4.0,2025-01-25
+144,VC,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Post,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,145,1.0,2025-01-25
+145,VC,Bar,Vassar Brewers,2pMa,Dribble Jumper,Alex Walters,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,3.0,2025-01-25
+146,VC,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,147,1.0,2025-01-25
+149,VC,Bar,Bard College,2pmi,To Basket,Sean Wilcox,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,150,1.0,2025-01-25
+150,VC,Bar,Bard College,Foul,To Basket,Sean Wilcox,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,151,1.0,2025-01-25
+154,VC,Bar,Vassar Brewers,And1,To Basket,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,1.0,2025-01-25
+156,VC,Bar,Bard College,And1,To Basket,Rowan Heinze,Post,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,1.0,2025-01-25
+158,VC,Bar,Bard College,2pmi,To Basket,Sean Wilcox,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,1.0,2025-01-25
+159,VC,Bar,Bard College,2pMa,To Basket,Sean Wilcox,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,160,1.0,2025-01-25
+161,VC,Bar,Vassar Brewers,3pmi,No Dribble Jumper,JP Miranda,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,162,4.0,2025-01-25
+162,VC,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,163,1.0,2025-01-25
+163,VC,Bar,Vassar Brewers,3pMa,No Dribble Jumper,Luke Adams,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,164,4.0,2025-01-25
+164,VC,Bar,Bard College,2pmi,N/A,Rowan Heinze,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,165,1.0,2025-01-25
+165,VC,Bar,Bard College,2pmi,To Basket,Rowan Heinze,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,1.0,2025-01-25
+167,VC,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,1.0,2025-01-25
+168,VC,Bar,Vassar Brewers,2pMa,Dribble Jumper,Avery Lee,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,169,2.0,2025-01-25
+169,VC,Bar,Bard College,2pmi,To Basket,Sean Wilcox,Post,Left,Left Shoulder,Rowan Heinze,Cuts,N/A,Basket,Liberty League,Liberty League,170,1.0,2025-01-25
+170,VC,Bar,Bard College,2pMa,To Basket,Rowan Heinze,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,171,1.0,2025-01-25
+171,VC,Bar,Vassar Brewers,And1,To Basket,Avery Lee,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,172,1.0,2025-01-25
+173,VC,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,174,1.0,2025-01-25
+175,VC,Bar,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,176,1.0,2025-01-25
+176,VC,Bar,,Foul,N/A,Rowan Heinze,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,1.0,2025-01-25
+179,VC,Bar,Vassar Brewers,3pMa,No Dribble Jumper,Luke Adams,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,180,4.0,2025-01-25
+180,VC,Bar,Bard College,And1,To Basket,Rowan Heinze,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,1.0,2025-01-25
+182,VC,Bar,Vassar Brewers,3pmi,No Dribble Jumper,Luke Adams,PNR,Left,Off,Sacha Greenberg,Spot Ups,N/A,Shot,Liberty League,Liberty League,183,4.0,2025-01-25
+183,VC,Bar,Bard College,3pmi,No Dribble Jumper,Luke Ravitz,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,184,4.0,2025-01-25
+184,VC,Bar,Vassar Brewers,3pmi,No Dribble Jumper,Sacha Greenberg,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,185,4.0,2025-01-25
+185,VC,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,186,1.0,2025-01-25
+187,VC,Bar,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,PNR,High,Off,Eric Zhang,Cuts,N/A,Basket,Liberty League,Liberty League,188,1.0,2025-01-25
+188,VC,Bar,Bard College,Turnover,N/A,Ahmad Rauf,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,189,1.0,2025-01-25
+189,VC,Bar,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,190,2.0,2025-01-25
+190,VC,Bar,Bard College,Turnover,N/A,Rowan Heinze,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,191,1.0,2025-01-25
+191,VC,Bar,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,PNR,High,Off,Sacha Greenberg,Spot Ups,N/A,Shot,Liberty League,Liberty League,192,4.0,2025-01-25
+192,VC,Bar,Bard College,Turnover,N/A,Sean Wilcox,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,193,1.0,2025-01-25
+194,VC,Bar,Vassar Brewers,Foul,N/A,Avery Lee,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,195,1.0,2025-01-25
+196,VC,Bar,Vassar Brewers,Turnover,N/A,Sacha Greenberg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,197,1.0,2025-01-25
+197,VC,Bar,Bard College,3pMa,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,198,4.0,2025-01-25
+198,VC,Bar,Vassar Brewers,2pmi,Dribble Jumper,Eric Zhang,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,199,2.0,2025-01-25
+199,VC,Bar,,Foul,N/A,Laz Panagiotounis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,200,1.0,2025-01-25
+201,VC,Bar,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,PNR,Left,Away,Sacha Greenberg,Spot Ups,N/A,Shot,Liberty League,Liberty League,202,4.0,2025-01-25
+202,VC,Bar,Vassar Brewers,2pmi,To Basket,Eric Zhang,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,203,1.0,2025-01-25
+203,VC,Bar,Bard College,2pmi,To Basket,Lucas Tovar,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,204,1.0,2025-01-25
+204,VC,Bar,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,205,4.0,2025-01-25
+206,VC,Bar,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,Iso,Top,N/A,Sacha Greenberg,Spot Ups,N/A,Shot,Liberty League,Liberty League,207,4.0,2025-01-25
+207,VC,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,208,1.0,2025-01-25
+208,VC,Bar,Vassar Brewers,2pMa,Dribble Jumper,Shea Fitzgerald,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,209,2.0,2025-01-25
+209,VC,Bar,Bard College,Turnover,N/A,Sean Wilcox,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,210,1.0,2025-01-25
+210,VC,Bar,Vassar Brewers,2pmi,To Basket,Sacha Greenberg,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,211,1.0,2025-01-25
+211,VC,Bar,Vassar Brewers,2pMa,To Basket,Sacha Greenberg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,212,1.0,2025-01-25
+212,VC,Bar,Bard College,3pmi,No Dribble Jumper,Azriel Almodovar,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,213,4.0,2025-01-25
+213,VC,Bar,Vassar Brewers,2pmi,To Basket,Avery Lee,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,Liberty League,Liberty League,214,1.0,2025-01-25
+214,VC,Bar,Vassar Brewers,Foul,To Basket,Sacha Greenberg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,215,1.0,2025-01-25
+217,VC,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,218,1.0,2025-01-25
+218,VC,Bar,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,PNR,Right,Off,Luke Adams,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,219,4.0,2025-01-25
+219,VC,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,220,1.0,2025-01-25
+220,VC,Bar,Vassar Brewers,2pMa,Dribble Jumper,Avery Lee,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,221,3.0,2025-01-25
+221,VC,Bar,Bard College,2pmi,To Basket,Sean Wilcox,Post,Middle,N/A,Rowan Heinze,Cuts,N/A,Basket,Liberty League,Liberty League,222,1.0,2025-01-25
+222,VC,Bar,,Foul,N/A,Shea Fitzgerald,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,223,1.0,2025-01-25
+225,VC,Bar,Bard College,Turnover,N/A,Sean Wilcox,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,226,1.0,2025-01-25
+226,VC,Bar,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,PNR,High,Off,Luke Adams,Spot Ups,Left,Drive,Liberty League,Liberty League,227,1.0,2025-01-25
+227,VC,Bar,Bard College,And1,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,228,1.0,2025-01-25
+229,VC,Bar,Vassar Brewers,Turnover,N/A,Avery Lee,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,230,1.0,2025-01-25
+231,VC,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,232,1.0,2025-01-25
+232,VC,Bar,Vassar Brewers,2pMa,To Basket,Kreekor Karageuzian,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,233,1.0,2025-01-25
+233,VC,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,234,4.0,2025-01-25
+234,VC,Bar,Vassar Brewers,Foul,N/A,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,235,1.0,2025-01-25
+237,VC,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,238,1.0,2025-01-25
+240,VC,Bar,Vassar Brewers,3pmi,No Dribble Jumper,Kreekor Karageuzian,PNR,High,Off,JP Miranda,Spot Ups,N/A,Shot,Liberty League,Liberty League,241,4.0,2025-01-25
+241,VC,Bar,Bard College,Foul,N/A,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,242,1.0,2025-01-25
+244,VC,Bar,Vassar Brewers,Turnover,N/A,Sebastian Medina,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,245,1.0,2025-01-25
+246,VC,Bar,Bard College,2pmi,To Basket,Laz Panagiotounis,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,Liberty League,Liberty League,247,1.0,2025-01-25
+247,VC,Bar,Bard College,Foul,To Basket,Laz Panagiotounis,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,248,1.0,2025-01-25
+250,VC,Bar,Vassar Brewers,Foul,To Basket,Sacha Greenberg,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,251,1.0,2025-01-25
+253,VC,Bar,Bard College,Foul,To Basket,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,254,1.0,2025-01-25
+256,VC,Bar,Vassar Brewers,Turnover,N/A,Eric Zhang,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,257,1.0,2025-01-25
+257,VC,Bar,Bard College,Foul,To Basket,Laz Panagiotounis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,258,1.0,2025-01-25
+260,VC,Bar,,Foul,N/A,Eric Zhang,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,261,1.0,2025-01-25
+263,VC,Bar,Bard College,2pmi,To Basket,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,264,1.0,2025-01-25
+264,VC,Bar,,Foul,N/A,Eric Zhang,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,265,1.0,2025-01-25
+267,VC,Bar,Bard College,Turnover,N/A,Angelos Brakatos,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,268,1.0,2025-01-25

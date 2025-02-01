@@ -1,0 +1,164 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,SKD,RIT,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Hakeem Daphnis,PNR,High,Off,Aidan Roy,Spot Ups,Left,Drive,Liberty League,Liberty League,1,3.0,2025-01-17
+1,SKD,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,4.0,2025-01-17
+3,SKD,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Kenny Wilburn,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,1.0,2025-01-17
+5,SKD,RIT,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Aidan Roy,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,3.0,2025-01-17
+7,SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,4.0,2025-01-17
+8,SKD,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Brock Bowen,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,1.0,2025-01-17
+9,SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,4.0,2025-01-17
+10,SKD,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,1.0,2025-01-17
+11,SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,PNR,Left,Off,Joey Skoric,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,12,4.0,2025-01-17
+12,SKD,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,PNR,Right,Off,Nolan Smih,Spot Ups,N/A,Shot,Liberty League,Liberty League,13,4.0,2025-01-17
+13,SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,14,4.0,2025-01-17
+15,SKD,RIT,Skidmore Thoroughbreds,2pMa,No Dribble Jumper,Joey Skoric,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,3.0,2025-01-17
+16,SKD,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,Right,Off,Nolan Smih,Spot Ups,N/A,Shot,Liberty League,Liberty League,17,4.0,2025-01-17
+17,SKD,RIT,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Aidan Roy,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,4.0,2025-01-17
+18,SKD,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Kenny Wilburn,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,19,4.0,2025-01-17
+19,SKD,RIT,Skidmore Thoroughbreds,2pMa,To Basket,Jack LaGarde,Post,Left,Left Shoulder,Charlie Fantom,Cuts,N/A,Basket,Liberty League,Liberty League,20,1.0,2025-01-17
+20,SKD,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,21,4.0,2025-01-17
+21,SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,PNR,High,Off,Aidan Roy,Spot Ups,N/A,Shot,Liberty League,Liberty League,22,4.0,2025-01-17
+22,SKD,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,PNR,High,Off,Kenny Wilburn,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,23,1.0,2025-01-17
+23,SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,4.0,2025-01-17
+24,SKD,RIT,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Charlie Fantom,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,25,3.0,2025-01-17
+25,SKD,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,PNR,Left,Off,Nolan Smih,Cuts,N/A,Flash,Liberty League,Liberty League,26,1.0,2025-01-17
+26,SKD,RIT,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Aidan Roy,PNR,High,Off,Hakeem Daphnis,Spot Ups,Right,Drive,Liberty League,Liberty League,27,2.0,2025-01-17
+27,SKD,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Matt Caggiano,PNR,High,Off,Kenny Wilburn,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,28,1.0,2025-01-17
+30,SKD,RIT,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Charlie Fantom,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,31,3.0,2025-01-17
+32,SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Fumani Sithole,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,4.0,2025-01-17
+34,SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Fumani Sithole,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,35,4.0,2025-01-17
+35,SKD,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,36,1.0,2025-01-17
+36,SKD,RIT,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Aidan Roy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,37,4.0,2025-01-17
+37,SKD,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Nolan Smih,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,38,4.0,2025-01-17
+38,SKD,RIT,Skidmore Thoroughbreds,Turnover,To Basket,Aidan Roy,Post,Left,Left Shoulder,Fumani Sithole,Cuts,N/A,Flash,Liberty League,Liberty League,39,1.0,2025-01-17
+39,SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Ronnie Toole,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,1.0,2025-01-17
+40,SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,41,4.0,2025-01-17
+42,SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,1.0,2025-01-17
+43,SKD,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,44,1.0,2025-01-17
+44,SKD,RIT,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,PNR,High,Off,Hakeem Daphnis,Spot Ups,Right,Drive,Liberty League,Liberty League,45,1.0,2025-01-17
+45,SKD,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,46,1.0,2025-01-17
+46,SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Joey Skoric,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,47,4.0,2025-01-17
+47,SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,48,1.0,2025-01-17
+48,SKD,RIT,Skidmore Thoroughbreds,Turnover,N/A,Hakeem Daphnis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,1.0,2025-01-17
+49,SKD,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Chase Dickens,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,1.0,2025-01-17
+53,SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,PNR,High,Off,Harry Luo,Spot Ups,N/A,Shot,Liberty League,Liberty League,54,4.0,2025-01-17
+54,SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Ronnie Toole,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,55,1.0,2025-01-17
+55,SKD,RIT,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Hakeem Daphnis,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,56,3.0,2025-01-17
+56,SKD,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Ronnie Toole,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,57,1.0,2025-01-17
+60,SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Luke Granto,Iso,Top,N/A,Ronnie Toole,Spot Ups,Right,Drive,Liberty League,Liberty League,61,1.0,2025-01-17
+61,SKD,RIT,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Hakeem Daphnis,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,3.0,2025-01-17
+62,SKD,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Mark Osime,PNR,Right,Off,Kenny Wilburn,P&R Roll Man,Right,Pop,Liberty League,Liberty League,63,2.0,2025-01-17
+63,SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,4.0,2025-01-17
+64,SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,65,1.0,2025-01-17
+65,SKD,RIT,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Prince Shyllon,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,3.0,2025-01-17
+66,SKD,RIT,Skidmore Thoroughbreds,2pmi,To Basket,Jack LaGarde,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,1.0,2025-01-17
+67,SKD,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Kenny Wilburn,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,68,1.0,2025-01-17
+68,SKD,RIT,Skidmore Thoroughbreds,2pMa,To Basket,Hakeem Daphnis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,69,1.0,2025-01-17
+69,SKD,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,PNR,Left,Away,Luke Granto,Spot Ups,N/A,Shot,Liberty League,Liberty League,70,4.0,2025-01-17
+70,SKD,RIT,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,71,4.0,2025-01-17
+71,SKD,RIT,Rochester Institute of Technology Tigers,2pmi,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Nolan Smih,Spot Ups,N/A,Shot,Liberty League,Liberty League,72,3.0,2025-01-17
+72,SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,4.0,2025-01-17
+73,SKD,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,PNR,High,Off,Matt Caggiano,Spot Ups,N/A,Shot,Liberty League,Liberty League,74,4.0,2025-01-17
+74,SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,4.0,2025-01-17
+75,SKD,RIT,Skidmore Thoroughbreds,Turnover,N/A,Jack LaGarde,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,76,1.0,2025-01-17
+76,SKD,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Kenny Wilburn,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,77,1.0,2025-01-17
+80,SKD,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,81,1.0,2025-01-17
+81,SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Aidan Roy,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,82,4.0,2025-01-17
+82,SKD,RIT,Rochester Institute of Technology Tigers,Foul,N/A,Brock Bowen,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,1.0,2025-01-17
+85,SKD,RIT,Skidmore Thoroughbreds,Turnover,To Basket,Aidan Roy,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,86,1.0,2025-01-17
+86,SKD,RIT,Rochester Institute of Technology Tigers,2pMa,Drop Step,Kenny Wilburn,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,1.0,2025-01-17
+87,SKD,RIT,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Aidan Roy,PNR,High,Off,Hakeem Daphnis,Spot Ups,Left,Drive,Liberty League,Liberty League,88,2.0,2025-01-17
+90,SKD,RIT,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,PNR,High,Off,Charlie Fantom,Spot Ups,Left,Drive,Liberty League,Liberty League,91,1.0,2025-01-17
+92,SKD,RIT,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Aidan Roy,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,93,2.0,2025-01-17
+93,SKD,RIT,Skidmore Thoroughbreds,2pMa,To Basket,Fumani Sithole,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,94,1.0,2025-01-17
+94,SKD,RIT,Rochester Institute of Technology Tigers,2pmi,N/A,Kenny Wilburn,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,1.0,2025-01-17
+95,SKD,RIT,Skidmore Thoroughbreds,2pMa,To Basket,Aidan Roy,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,96,1.0,2025-01-17
+96,SKD,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brock Bowen,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,97,4.0,2025-01-17
+97,SKD,RIT,Skidmore Thoroughbreds,2pMa,To Basket,Fumani Sithole,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,1.0,2025-01-17
+98,SKD,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Nolan Smih,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,4.0,2025-01-17
+99,SKD,RIT,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,3.0,2025-01-17
+100,SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Post,Left,Right Shoulder,Nolan Smih,Spot Ups,Right,Drive,Liberty League,Liberty League,101,1.0,2025-01-17
+101,SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,102,4.0,2025-01-17
+103,SKD,RIT,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Aidan Roy,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,4.0,2025-01-17
+104,SKD,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,PNR,Left,Off,Nolan Smih,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,105,4.0,2025-01-17
+105,SKD,RIT,Skidmore Thoroughbreds,Foul,To Basket,Jack LaGarde,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,106,1.0,2025-01-17
+108,SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,PNR,Right,Off,Kenny Wilburn,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,109,1.0,2025-01-17
+109,SKD,RIT,Skidmore Thoroughbreds,2pmi,To Basket,Hakeem Daphnis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,110,1.0,2025-01-17
+110,SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,4.0,2025-01-17
+111,SKD,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Kenny Wilburn,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,1.0,2025-01-17
+114,SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,4.0,2025-01-17
+115,SKD,RIT,Rochester Institute of Technology Tigers,2pmi,No Dribble Jumper,Kenny Wilburn,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,116,3.0,2025-01-17
+116,SKD,RIT,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,1.0,2025-01-17
+117,SKD,RIT,Skidmore Thoroughbreds,2pMa,To Basket,Charlie Fantom,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,1.0,2025-01-17
+118,SKD,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Brock Bowen,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,4.0,2025-01-17
+119,SKD,RIT,Skidmore Thoroughbreds,2pMa,To Basket,Charlie Fantom,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,120,1.0,2025-01-17
+120,SKD,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Kenny Wilburn,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,121,1.0,2025-01-17
+121,SKD,RIT,Skidmore Thoroughbreds,2pmi,To Basket,Hakeem Daphnis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,1.0,2025-01-17
+123,SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,124,4.0,2025-01-17
+125,SKD,RIT,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Aidan Roy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,126,4.0,2025-01-17
+126,SKD,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,127,4.0,2025-01-17
+128,SKD,RIT,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,Hand Offs,Left,Stationary,N/A,N/A,N/A,N/A,Liberty League,Liberty League,129,1.0,2025-01-17
+129,SKD,RIT,Skidmore Thoroughbreds,2pmi,To Basket,Jack LaGarde,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,130,1.0,2025-01-17
+131,SKD,RIT,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,1.0,2025-01-17
+132,SKD,RIT,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Nick Padilla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,133,4.0,2025-01-17
+133,SKD,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Nolan Smih,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,134,4.0,2025-01-17
+134,SKD,RIT,Skidmore Thoroughbreds,Foul,To Basket,Nick Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,135,1.0,2025-01-17
+138,SKD,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,4.0,2025-01-17
+139,SKD,RIT,Skidmore Thoroughbreds,2pMa,No Dribble Jumper,Nick Padilla,PNR,High,Off,Joey Skoric,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,140,2.0,2025-01-17
+141,SKD,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Josiah Turner,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,142,4.0,2025-01-17
+142,SKD,RIT,Skidmore Thoroughbreds,Foul,To Basket,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,143,1.0,2025-01-17
+145,SKD,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Josiah Turner,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,4.0,2025-01-17
+146,SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,PNR,High,Off,Joey Skoric,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,147,4.0,2025-01-17
+149,SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,150,1.0,2025-01-17
+150,SKD,RIT,Skidmore Thoroughbreds,2pmi,To Basket,Hakeem Daphnis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,151,1.0,2025-01-17
+153,SKD,RIT,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Aidan Roy,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,154,2.0,2025-01-17
+154,SKD,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,PNR,Right,Off,Mark Osime,Spot Ups,N/A,Shot,Liberty League,Liberty League,155,4.0,2025-01-17
+155,SKD,RIT,Skidmore Thoroughbreds,2pmi,To Basket,Charlie Fantom,PNR,Left,Away,Jack LaGarde,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,156,1.0,2025-01-17
+156,SKD,RIT,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,PNR,High,Off,Chase Dickens,Spot Ups,Left,Drive,Liberty League,Liberty League,157,2.0,2025-01-17
+157,SKD,RIT,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Aidan Roy,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,158,4.0,2025-01-17
+158,SKD,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Matt Caggiano,PNR,High,Off,Nolan Smih,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,159,1.0,2025-01-17
+161,SKD,RIT,Skidmore Thoroughbreds,Turnover,N/A,Charlie Fantom,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,162,1.0,2025-01-17
+162,SKD,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,163,1.0,2025-01-17
+163,SKD,RIT,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Hakeem Daphnis,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,164,3.0,2025-01-17
+164,SKD,RIT,Rochester Institute of Technology Tigers,Foul,To Basket,Brody Brown,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,165,1.0,2025-01-17
+167,SKD,RIT,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,1.0,2025-01-17
+168,SKD,RIT,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Chase Dickens,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,169,4.0,2025-01-17
+169,SKD,RIT,Skidmore Thoroughbreds,3pMa,No Dribble Jumper,Nick Padilla,PNR,High,Off,Aidan Roy,Spot Ups,N/A,Shot,Liberty League,Liberty League,170,4.0,2025-01-17
+170,SKD,RIT,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Chase Dickens,Spot Ups,N/A,Shot,Liberty League,Liberty League,171,4.0,2025-01-17
+171,SKD,RIT,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Aidan Roy,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,172,3.0,2025-01-17
+172,SKD,RIT,Skidmore Thoroughbreds,2pmi,To Basket,Charlie Fantom,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,1.0,2025-01-17
+173,SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,174,1.0,2025-01-17
+174,SKD,RIT,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,PNR,High,Off,Jack LaGarde,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,175,1.0,2025-01-17
+176,SKD,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,1.0,2025-01-17
+177,SKD,RIT,Skidmore Thoroughbreds,2pmi,To Basket,Jack LaGarde,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,178,1.0,2025-01-17
+178,SKD,RIT,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,179,1.0,2025-01-17
+180,SKD,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Nolan Smih,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,4.0,2025-01-17
+181,SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Charlie Fantom,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,182,4.0,2025-01-17
+182,SKD,RIT,Skidmore Thoroughbreds,2pMa,To Basket,Joey Skoric,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,183,2.0,2025-01-17
+183,SKD,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Josiah Turner,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,184,4.0,2025-01-17
+184,SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Hakeem Daphnis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,185,4.0,2025-01-17
+185,SKD,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Brody Brown,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,186,4.0,2025-01-17
+186,SKD,RIT,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Nick Padilla,PNR,High,Off,Aidan Roy,Spot Ups,N/A,Shot,Liberty League,Liberty League,187,4.0,2025-01-17
+187,SKD,RIT,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Matt Caggiano,PNR,High,Off,Nolan Smih,Spot Ups,N/A,Shot,Liberty League,Liberty League,188,4.0,2025-01-17
+188,SKD,RIT,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,189,1.0,2025-01-17
+189,SKD,RIT,Rochester Institute of Technology Tigers,Foul,N/A,Chase Dickens,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,190,1.0,2025-01-17
+192,SKD,RIT,Skidmore Thoroughbreds,2pMa,To Basket,Aidan Roy,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,193,1.0,2025-01-17
+193,SKD,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Nolan Smih,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,194,1.0,2025-01-17
+194,SKD,RIT,Skidmore Thoroughbreds,Foul,To Basket,Aidan Roy,PNR,Left,Off,Hakeem Daphnis,Spot Ups,Right,Drive,Liberty League,Liberty League,195,1.0,2025-01-17
+197,SKD,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,PNR,High,Off,Josiah Turner,Cuts,N/A,Basket,Liberty League,Liberty League,198,1.0,2025-01-17
+198,SKD,RIT,Skidmore Thoroughbreds,2pmi,To Basket,Aidan Roy,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,199,1.0,2025-01-17
+199,SKD,RIT,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,PNR,High,Off,Josiah Turner,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,200,1.0,2025-01-17
+200,SKD,RIT,Skidmore Thoroughbreds,Foul,Dribble Jumper,Charlie Fantom,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,201,3.0,2025-01-17
+203,SKD,RIT,,Foul,N/A,Josiah Turner,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,204,1.0,2025-01-17
+206,SKD,RIT,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Aidan Roy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,207,4.0,2025-01-17
+207,SKD,RIT,,Foul,N/A,Chase Dickens,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,208,1.0,2025-01-17
+210,SKD,RIT,Skidmore Thoroughbreds,And1,To Basket,Aidan Roy,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,211,1.0,2025-01-17
+213,SKD,RIT,,Foul,N/A,Brock Bowen,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,214,1.0,2025-01-17
+216,SKD,RIT,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,217,3.0,2025-01-17
+217,SKD,RIT,,Foul,N/A,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,218,1.0,2025-01-17
+220,SKD,RIT,Skidmore Thoroughbreds,3pmi,Dribble Jumper,Charlie Fantom,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,221,4.0,2025-01-17
+221,SKD,RIT,,Foul,N/A,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,222,1.0,2025-01-17
+224,SKD,RIT,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,225,1.0,2025-01-17
+225,SKD,RIT,,Foul,N/A,Luke Granto,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,226,1.0,2025-01-17
+228,SKD,RIT,Skidmore Thoroughbreds,3pMa,Dribble Jumper,Aidan Roy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,229,4.0,2025-01-17
+230,SKD,RIT,,Foul,N/A,Matt Caggiano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,231,1.0,2025-01-17
+233,SKD,RIT,Skidmore Thoroughbreds,2pMa,To Basket,Nick Padilla,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,234,1.0,2025-01-17

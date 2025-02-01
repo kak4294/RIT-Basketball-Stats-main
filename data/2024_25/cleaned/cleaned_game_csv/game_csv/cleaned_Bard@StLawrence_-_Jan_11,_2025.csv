@@ -1,0 +1,144 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,SLS,Bar,St. Lawrence Saints,2pmi,Dribble Jumper,Aiden Macaulay,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,3.0,2025-01-11
+1,SLS,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,1.0,2025-01-11
+2,SLS,Bar,St. Lawrence Saints,2pmi,To Basket,Trey Syroka,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,1.0,2025-01-11
+4,SLS,Bar,Bard College,2pMa,To Basket,Sean Wilcox,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,1.0,2025-01-11
+5,SLS,Bar,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,1.0,2025-01-11
+6,SLS,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,1.0,2025-01-11
+8,SLS,Bar,St. Lawrence Saints,2pMa,Dribble Jumper,Trey Syroka,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,3.0,2025-01-11
+9,SLS,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,4.0,2025-01-11
+10,SLS,Bar,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,4.0,2025-01-11
+13,SLS,Bar,St. Lawrence Saints,3pmi,Dribble Jumper,Adam Dudzinski,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,14,4.0,2025-01-11
+15,SLS,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,1.0,2025-01-11
+16,SLS,Bar,St. Lawrence Saints,Foul,To Basket,Aiden Macaulay,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,1.0,2025-01-11
+19,SLS,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,1.0,2025-01-11
+20,SLS,Bar,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Iso,Top,N/A,Troy McPherson,Spot Ups,N/A,Shot,Liberty League,Liberty League,21,4.0,2025-01-11
+21,SLS,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,1.0,2025-01-11
+22,SLS,Bar,St. Lawrence Saints,2pmi,To Basket,Chris Downs Jr.,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,23,1.0,2025-01-11
+23,SLS,Bar,St. Lawrence Saints,2pmi,To Basket,Adam Dudzinski,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,1.0,2025-01-11
+24,SLS,Bar,St. Lawrence Saints,2pmi,To Basket,Adam Dudzinski,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,25,1.0,2025-01-11
+25,SLS,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,1.0,2025-01-11
+26,SLS,Bar,St. Lawrence Saints,Turnover,N/A,Alexi Twahili,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,27,1.0,2025-01-11
+27,SLS,Bar,Bard College,Turnover,N/A,Azriel Almodovar,PNR,High,Off,Laz Panagiotounis,Spot Ups,Right,Drive,Liberty League,Liberty League,28,1.0,2025-01-11
+28,SLS,Bar,St. Lawrence Saints,2pMa,To Basket,Dan Anderson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,29,1.0,2025-01-11
+29,SLS,Bar,Bard College,2pmi,To Basket,Sean Wilcox,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,1.0,2025-01-11
+30,SLS,Bar,St. Lawrence Saints,2pmi,Dribble Jumper,Chris Downs Jr.,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,31,2.0,2025-01-11
+31,SLS,Bar,St. Lawrence Saints,2pMa,Dribble Jumper,Dan Anderson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,3.0,2025-01-11
+32,SLS,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,1.0,2025-01-11
+33,SLS,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,1.0,2025-01-11
+35,SLS,Bar,Bard College,3pMa,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,36,4.0,2025-01-11
+37,SLS,Bar,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,38,4.0,2025-01-11
+39,SLS,Bar,St. Lawrence Saints,2pMa,No Dribble Jumper,Chris Downs Jr.,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,3.0,2025-01-11
+40,SLS,Bar,Bard College,2pMa,To Basket,Max Frei,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,41,1.0,2025-01-11
+41,SLS,Bar,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,42,1.0,2025-01-11
+42,SLS,Bar,Bard College,Foul,To Basket,Rowan Heinze,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,1.0,2025-01-11
+45,SLS,Bar,St. Lawrence Saints,And1,To Basket,Andrew Cowan,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,46,1.0,2025-01-11
+49,SLS,Bar,Bard College,3pmi,No Dribble Jumper,Jalen Umstead,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,4.0,2025-01-11
+50,SLS,Bar,St. Lawrence Saints,3pmi,No Dribble Jumper,Colton Suriano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,51,4.0,2025-01-11
+51,SLS,Bar,Bard College,2pMa,To Basket,Jalen Umstead,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,1.0,2025-01-11
+52,SLS,Bar,St. Lawrence Saints,3pMa,No Dribble Jumper,Colton Suriano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,4.0,2025-01-11
+53,SLS,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,54,1.0,2025-01-11
+54,SLS,Bar,St. Lawrence Saints,2pmi,To Basket,Trey Syroka,PNR,High,Off,Andrew Cowan,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,55,1.0,2025-01-11
+56,SLS,Bar,Bard College,2pmi,To Basket,Lucas Tovar,PNR,High,Off,Jalen Umstead,Spot Ups,Right,Drive,Liberty League,Liberty League,57,1.0,2025-01-11
+57,SLS,Bar,St. Lawrence Saints,3pmi,Dribble Jumper,Colton Suriano,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,58,4.0,2025-01-11
+58,SLS,Bar,Bard College,3pmi,No Dribble Jumper,Lucas Tovar,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,59,4.0,2025-01-11
+59,SLS,Bar,St. Lawrence Saints,2pMa,To Basket,Trey Syroka,PNR,High,Off,Andrew Cowan,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,60,1.0,2025-01-11
+61,SLS,Bar,Bard College,3pmi,No Dribble Jumper,Rowan Heinze,Post,Middle,Right Shoulder,Laz Panagiotounis,Spot Ups,N/A,Shot,Liberty League,Liberty League,62,4.0,2025-01-11
+62,SLS,Bar,St. Lawrence Saints,Turnover,N/A,Dan Anderson,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,1.0,2025-01-11
+63,SLS,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,4.0,2025-01-11
+64,SLS,Bar,St. Lawrence Saints,Turnover,N/A,Aiden Macaulay,PNR,Left,Off,Adam Dudzinski,Spot Ups,Left,Drive,Liberty League,Liberty League,65,1.0,2025-01-11
+65,SLS,Bar,Bard College,2pMa,To Basket,Laz Panagiotounis,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,1.0,2025-01-11
+66,SLS,Bar,St. Lawrence Saints,Turnover,N/A,Adam Dudzinski,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,1.0,2025-01-11
+68,SLS,Bar,Bard College,2pmi,To Basket,Rowan Heinze,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,69,1.0,2025-01-11
+69,SLS,Bar,St. Lawrence Saints,2pmi,To Basket,Aiden Macaulay,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,70,1.0,2025-01-11
+70,SLS,Bar,Bard College,2pmi,To Basket,Sean Wilcox,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,71,1.0,2025-01-11
+71,SLS,Bar,St. Lawrence Saints,2pmi,To Basket,Adam Dudzinski,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,1.0,2025-01-11
+72,SLS,Bar,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,1.0,2025-01-11
+73,SLS,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,74,4.0,2025-01-11
+74,SLS,Bar,St. Lawrence Saints,3pmi,No Dribble Jumper,Troy McPherson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,4.0,2025-01-11
+77,SLS,Bar,Bard College,Turnover,N/A,Lucas Tovar,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,78,1.0,2025-01-11
+78,SLS,Bar,St. Lawrence Saints,Foul,To Basket,Troy McPherson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,1.0,2025-01-11
+81,SLS,Bar,Bard College,3pMa,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,82,4.0,2025-01-11
+82,SLS,Bar,St. Lawrence Saints,2pmi,To Basket,Gavin Macaulay,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,1.0,2025-01-11
+83,SLS,Bar,Bard College,2pMa,To Basket,Rowan Heinze,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,84,1.0,2025-01-11
+84,SLS,Bar,St. Lawrence Saints,And1,To Basket,Adam Dudzinski,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,1.0,2025-01-11
+86,SLS,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,4.0,2025-01-11
+87,SLS,Bar,St. Lawrence Saints,2pMa,To Basket,Trey Syroka,PNR,High,N/A,Gavin Macaulay,Spot Ups,Right,Drive,Liberty League,Liberty League,88,1.0,2025-01-11
+88,SLS,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,4.0,2025-01-11
+90,SLS,Bar,Bard College,3pMa,No Dribble Jumper,Azriel Almodovar,PNR,High,Off,Ahmad Rauf,Spot Ups,N/A,Shot,Liberty League,Liberty League,91,4.0,2025-01-11
+91,SLS,Bar,St. Lawrence Saints,Foul,Dribble Jumper,Adam Dudzinski,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,92,2.0,2025-01-11
+94,SLS,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,1.0,2025-01-11
+95,SLS,Bar,St. Lawrence Saints,2pMa,To Basket,Aiden Macaulay,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,96,1.0,2025-01-11
+96,SLS,Bar,Bard College,2pmi,To Basket,Azriel Almodovar,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,97,1.0,2025-01-11
+97,SLS,Bar,St. Lawrence Saints,3pMa,No Dribble Jumper,Gavin Macaulay,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,4.0,2025-01-11
+98,SLS,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,1.0,2025-01-11
+99,SLS,Bar,St. Lawrence Saints,Turnover,N/A,Trey Syroka,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,1.0,2025-01-11
+100,SLS,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,101,4.0,2025-01-11
+102,SLS,Bar,St. Lawrence Saints,3pMa,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,4.0,2025-01-11
+103,SLS,Bar,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,4.0,2025-01-11
+105,SLS,Bar,Bard College,Turnover,N/A,Max Frei,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,106,1.0,2025-01-11
+107,SLS,Bar,St. Lawrence Saints,3pmi,No Dribble Jumper,Trey Syroka,PNR,High,Off,Adam Dudzinski,Spot Ups,N/A,Shot,Liberty League,Liberty League,108,4.0,2025-01-11
+109,SLS,Bar,St. Lawrence Saints,3pmi,No Dribble Jumper,Aiden Macaulay,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,110,4.0,2025-01-11
+110,SLS,Bar,Bard College,2pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,3.0,2025-01-11
+111,SLS,Bar,St. Lawrence Saints,3pMa,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,4.0,2025-01-11
+113,SLS,Bar,Bard College,And1,To Basket,Sean Wilcox,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,114,1.0,2025-01-11
+115,SLS,Bar,St. Lawrence Saints,Turnover,N/A,Adam Dudzinski,PNR,High,Off,Aiden Macaulay,Spot Ups,Left,Drive,Liberty League,Liberty League,116,1.0,2025-01-11
+116,SLS,Bar,Bard College,2pMa,To Basket,Azriel Almodovar,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,1.0,2025-01-11
+117,SLS,Bar,St. Lawrence Saints,Turnover,N/A,Adam Dudzinski,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,1.0,2025-01-11
+118,SLS,Bar,Bard College,Foul,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,1.0,2025-01-11
+122,SLS,Bar,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,123,4.0,2025-01-11
+123,SLS,Bar,Bard College,Turnover,N/A,Ahmad Rauf,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,124,1.0,2025-01-11
+126,SLS,Bar,Bard College,2pmi,To Basket,Lucas Tovar,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,127,1.0,2025-01-11
+127,SLS,Bar,St. Lawrence Saints,3pMa,No Dribble Jumper,Dan Anderson,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,4.0,2025-01-11
+128,SLS,Bar,Bard College,3pMa,No Dribble Jumper,Lucas Tovar,PNR,Right,Off,Ahmad Rauf,Spot Ups,N/A,Shot,Liberty League,Liberty League,129,4.0,2025-01-11
+129,SLS,Bar,St. Lawrence Saints,3pMa,No Dribble Jumper,Troy McPherson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,130,4.0,2025-01-11
+130,SLS,Bar,Bard College,2pMa,To Basket,Sean Wilcox,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,1.0,2025-01-11
+131,SLS,Bar,St. Lawrence Saints,3pmi,Dribble Jumper,Adam Dudzinski,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,4.0,2025-01-11
+133,SLS,Bar,Bard College,Turnover,N/A,Laz Panagiotounis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,134,1.0,2025-01-11
+134,SLS,Bar,St. Lawrence Saints,Foul,To Basket,Chris Downs Jr.,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,135,1.0,2025-01-11
+137,SLS,Bar,Bard College,2pMa,To Basket,Jalen Umstead,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,138,1.0,2025-01-11
+138,SLS,Bar,St. Lawrence Saints,2pmi,To Basket,Chris Downs Jr.,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,1.0,2025-01-11
+139,SLS,Bar,Bard College,2pMa,To Basket,Sean Wilcox,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,1.0,2025-01-11
+140,SLS,Bar,St. Lawrence Saints,2pMa,Dribble Jumper,Trey Syroka,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,3.0,2025-01-11
+142,SLS,Bar,Bard College,2pmi,To Basket,Sean Wilcox,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,143,1.0,2025-01-11
+143,SLS,Bar,St. Lawrence Saints,3pMa,No Dribble Jumper,Aiden Macaulay,PNR,Right,Off,Gavin Macaulay,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,144,4.0,2025-01-11
+145,SLS,Bar,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,4.0,2025-01-11
+147,SLS,Bar,Bard College,2pmi,To Basket,Laz Panagiotounis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,148,1.0,2025-01-11
+148,SLS,Bar,Bard College,3pMa,N/A,Jalen Umstead,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,4.0,2025-01-11
+149,SLS,Bar,,Foul,N/A,Gavin Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,150,1.0,2025-01-11
+152,SLS,Bar,Bard College,2pmi,To Basket,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,153,1.0,2025-01-11
+153,SLS,Bar,St. Lawrence Saints,2pmi,To Basket,Andrew Cowan,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,154,1.0,2025-01-11
+154,SLS,Bar,Bard College,Turnover,N/A,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,1.0,2025-01-11
+155,SLS,Bar,St. Lawrence Saints,3pmi,No Dribble Jumper,Andrew Cowan,Post,Left,Left Shoulder,Alexi Twahili,Spot Ups,N/A,Shot,Liberty League,Liberty League,156,4.0,2025-01-11
+157,SLS,Bar,St. Lawrence Saints,2pMa,No Dribble Jumper,Trey Syroka,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,158,3.0,2025-01-11
+158,SLS,Bar,Bard College,Turnover,N/A,Seth Dyer,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,1.0,2025-01-11
+159,SLS,Bar,St. Lawrence Saints,2pmi,To Basket,Trey Syroka,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,160,1.0,2025-01-11
+160,SLS,Bar,Bard College,3pmi,No Dribble Jumper,Jalen Umstead,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,4.0,2025-01-11
+161,SLS,Bar,St. Lawrence Saints,Turnover,N/A,Trey Syroka,PNR,Right,Off,Alexi Twahili,Spot Ups,Left,Drive,Liberty League,Liberty League,162,1.0,2025-01-11
+163,SLS,Bar,Bard College,3pmi,No Dribble Jumper,Max Frei,PNR,Right,Off,Laz Panagiotounis,Spot Ups,N/A,Shot,Liberty League,Liberty League,164,4.0,2025-01-11
+164,SLS,Bar,St. Lawrence Saints,Turnover,N/A,Alexi Twahili,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,165,1.0,2025-01-11
+165,SLS,Bar,Bard College,Turnover,N/A,Azriel Almodovar,PNR,High,Off,Laz Panagiotounis,Spot Ups,Right,Drive,Liberty League,Liberty League,166,1.0,2025-01-11
+167,SLS,Bar,St. Lawrence Saints,3pMa,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,4.0,2025-01-11
+168,SLS,Bar,Bard College,Foul,N/A,Laz Panagiotounis,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,169,1.0,2025-01-11
+171,SLS,Bar,St. Lawrence Saints,Turnover,N/A,Gavin Macaulay,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,172,1.0,2025-01-11
+172,SLS,Bar,Bard College,2pmi,To Basket,Laz Panagiotounis,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,1.0,2025-01-11
+173,SLS,Bar,St. Lawrence Saints,3pmi,No Dribble Jumper,Alexi Twahili,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,174,4.0,2025-01-11
+174,SLS,Bar,St. Lawrence Saints,2pMa,To Basket,Dan Anderson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,175,1.0,2025-01-11
+175,SLS,Bar,Bard College,Foul,N/A,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,176,1.0,2025-01-11
+178,SLS,Bar,,Foul,To Basket,Trey Syroka,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,179,1.0,2025-01-11
+182,SLS,Bar,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,183,4.0,2025-01-11
+183,SLS,Bar,Bard College,Foul,To Basket,Sean Wilcox,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,184,1.0,2025-01-11
+186,SLS,Bar,St. Lawrence Saints,3pMa,No Dribble Jumper,Troy McPherson,PNR,Right,Away,Alexi Twahili,Spot Ups,N/A,Shot,Liberty League,Liberty League,187,4.0,2025-01-11
+187,SLS,Bar,Bard College,Foul,N/A,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,188,1.0,2025-01-11
+190,SLS,Bar,St. Lawrence Saints,2pmi,Dribble Jumper,Alexi Twahili,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,191,3.0,2025-01-11
+191,SLS,Bar,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,192,4.0,2025-01-11
+192,SLS,Bar,St. Lawrence Saints,And1,To Basket,Troy McPherson,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,193,1.0,2025-01-11
+194,SLS,Bar,Bard College,3pmi,No Dribble Jumper,Azriel Almodovar,PNR,High,Off,Laz Panagiotounis,Spot Ups,N/A,Shot,Liberty League,Liberty League,195,4.0,2025-01-11
+195,SLS,Bar,St. Lawrence Saints,Turnover,N/A,Troy McPherson,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,196,1.0,2025-01-11
+196,SLS,Bar,Bard College,2pMa,N/A,Rowan Heinze,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,197,1.0,2025-01-11
+197,SLS,Bar,St. Lawrence Saints,3pmi,Dribble Jumper,Troy McPherson,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,198,4.0,2025-01-11
+198,SLS,Bar,Bard College,2pmi,To Basket,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,199,1.0,2025-01-11
+199,SLS,Bar,St. Lawrence Saints,Turnover,N/A,Chris Downs Jr.,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,200,1.0,2025-01-11
+200,SLS,Bar,Bard College,3pmi,No Dribble Jumper,Sebastian Matz,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,201,4.0,2025-01-11
+202,SLS,Bar,St. Lawrence Saints,2pmi,To Basket,Jack Wirtanen,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,203,1.0,2025-01-11
+204,SLS,Bar,Bard College,Turnover,N/A,Michael Sweeney,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,205,1.0,2025-01-11

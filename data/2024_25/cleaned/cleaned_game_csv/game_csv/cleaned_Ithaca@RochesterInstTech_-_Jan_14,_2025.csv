@@ -1,0 +1,188 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,RIT,IC,Ithaca College,2pmi,To Basket,Evan Cabral,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,1.0,2025-01-14
+2,RIT,IC,Rochester Institute of Technology Tigers,2pmi,No Dribble Jumper,Kenny Wilburn,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,3.0,2025-01-14
+3,RIT,IC,Ithaca College,3pMa,No Dribble Jumper,Jaylon O'Neal,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,4.0,2025-01-14
+4,RIT,IC,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,Iso,Right,N/A,Mark Osime,Spot Ups,Left,Drive,Liberty League,Liberty League,5,1.0,2025-01-14
+6,RIT,IC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Nolan Smih,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,4.0,2025-01-14
+7,RIT,IC,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,4.0,2025-01-14
+9,RIT,IC,Ithaca College,And1,To Basket,Evan Cabral,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,1.0,2025-01-14
+11,RIT,IC,Rochester Institute of Technology Tigers,2pMa,Dribble Jumper,Chase Dickens,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,2.0,2025-01-14
+12,RIT,IC,Ithaca College,Turnover,To Basket,Jaylon O'Neal,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,1.0,2025-01-14
+13,RIT,IC,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,14,1.0,2025-01-14
+14,RIT,IC,Ithaca College,2pMa,To Basket,Jaylon O'Neal,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,15,1.0,2025-01-14
+15,RIT,IC,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,PNR,High,Off,Mark Osime,Spot Ups,Left,Drive,Liberty League,Liberty League,16,1.0,2025-01-14
+17,RIT,IC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,4.0,2025-01-14
+18,RIT,IC,Ithaca College,2pmi,To Basket,Aidan Holmes,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,19,1.0,2025-01-14
+19,RIT,IC,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,1.0,2025-01-14
+20,RIT,IC,Ithaca College,2pMa,To Basket,Logan Wendell,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,21,1.0,2025-01-14
+21,RIT,IC,Rochester Institute of Technology Tigers,Turnover,N/A,Nolan Smih,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,1.0,2025-01-14
+22,RIT,IC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,23,4.0,2025-01-14
+23,RIT,IC,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,1.0,2025-01-14
+24,RIT,IC,Ithaca College,2pmi,To Basket,Aidan Holmes,PNR,Right,N/A,Logan Wendell,Spot Ups,Left,Drive,Liberty League,Liberty League,25,1.0,2025-01-14
+25,RIT,IC,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,1.0,2025-01-14
+26,RIT,IC,Ithaca College,2pMa,To Basket,Jaylon O'Neal,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,27,1.0,2025-01-14
+27,RIT,IC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,High,Away,Chase Dickens,Spot Ups,N/A,Shot,Liberty League,Liberty League,28,4.0,2025-01-14
+28,RIT,IC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,29,4.0,2025-01-14
+29,RIT,IC,Rochester Institute of Technology Tigers,2pMa,To Basket,Mark Osime,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,1.0,2025-01-14
+31,RIT,IC,Ithaca College,2pmi,To Basket,Evan Cabral,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,1.0,2025-01-14
+32,RIT,IC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,4.0,2025-01-14
+33,RIT,IC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,PNR,Left,Off,Evan Cabral,Spot Ups,N/A,Shot,Liberty League,Liberty League,34,4.0,2025-01-14
+36,RIT,IC,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,37,1.0,2025-01-14
+37,RIT,IC,Ithaca College,Turnover,N/A,Logan Wendell,PNR,Right,Off,Evan Cabral,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,38,1.0,2025-01-14
+38,RIT,IC,Rochester Institute of Technology Tigers,2pMa,To Basket,Ronnie Toole,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,1.0,2025-01-14
+39,RIT,IC,Ithaca College,3pMa,Dribble Jumper,Evan Cabral,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,4.0,2025-01-14
+40,RIT,IC,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,41,1.0,2025-01-14
+41,RIT,IC,Ithaca College,And1,To Basket,Alex Penders,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,42,1.0,2025-01-14
+44,RIT,IC,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,45,1.0,2025-01-14
+45,RIT,IC,Ithaca College,3pMa,No Dribble Jumper,Alex Penders,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,46,4.0,2025-01-14
+46,RIT,IC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Luke Granto,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,47,4.0,2025-01-14
+47,RIT,IC,Ithaca College,Turnover,N/A,Jose Padilla,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,48,1.0,2025-01-14
+48,RIT,IC,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,1.0,2025-01-14
+50,RIT,IC,Ithaca College,3pmi,No Dribble Jumper,Jose Padilla,PNR,High,Off,Logan Wendell,Spot Ups,N/A,Shot,Liberty League,Liberty League,51,4.0,2025-01-14
+52,RIT,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,4.0,2025-01-14
+53,RIT,IC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,54,4.0,2025-01-14
+55,RIT,IC,Rochester Institute of Technology Tigers,2pmi,To Basket,Ronnie Toole,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,56,1.0,2025-01-14
+57,RIT,IC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Luke Granto,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,58,4.0,2025-01-14
+59,RIT,IC,Ithaca College,Turnover,N/A,Yoav Regev,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,1.0,2025-01-14
+60,RIT,IC,Rochester Institute of Technology Tigers,Turnover,N/A,Ronnie Toole,Transition,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,61,1.0,2025-01-14
+61,RIT,IC,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,4.0,2025-01-14
+62,RIT,IC,Rochester Institute of Technology Tigers,Turnover,To Basket,Luke Granto,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,1.0,2025-01-14
+63,RIT,IC,Ithaca College,3pMa,No Dribble Jumper,Cole Wissink,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,4.0,2025-01-14
+64,RIT,IC,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,65,1.0,2025-01-14
+65,RIT,IC,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,4.0,2025-01-14
+66,RIT,IC,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,1.0,2025-01-14
+67,RIT,IC,Ithaca College,2pmi,To Basket,Alex Penders,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,68,1.0,2025-01-14
+68,RIT,IC,Rochester Institute of Technology Tigers,2pMa,No Dribble Jumper,Chase Dickens,PNR,Right,Off,Luke Granto,Spot Ups,N/A,Shot,Liberty League,Liberty League,69,3.0,2025-01-14
+69,RIT,IC,Ithaca College,Turnover,N/A,Aidan Holmes,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,70,1.0,2025-01-14
+70,RIT,IC,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Chase Dickens,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,71,2.0,2025-01-14
+71,RIT,IC,Ithaca College,Turnover,N/A,Chris Leysath,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,1.0,2025-01-14
+72,RIT,IC,Rochester Institute of Technology Tigers,2pmi,To Basket,Luke Granto,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,1.0,2025-01-14
+73,RIT,IC,Ithaca College,2pMa,To Basket,Evan Cabral,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,74,1.0,2025-01-14
+74,RIT,IC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Post,Left,Left Shoulder,Brody Brown,Spot Ups,N/A,Shot,Liberty League,Liberty League,75,4.0,2025-01-14
+75,RIT,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,76,4.0,2025-01-14
+76,RIT,IC,Ithaca College,2pMa,To Basket,Chris Leysath,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,77,1.0,2025-01-14
+77,RIT,IC,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,78,1.0,2025-01-14
+78,RIT,IC,Ithaca College,Turnover,N/A,Chris Leysath,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,1.0,2025-01-14
+79,RIT,IC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Ronnie Toole,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,4.0,2025-01-14
+80,RIT,IC,Ithaca College,2pmi,To Basket,Chris Leysath,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,81,1.0,2025-01-14
+81,RIT,IC,Rochester Institute of Technology Tigers,Turnover,To Basket,Kenny Wilburn,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,82,1.0,2025-01-14
+82,RIT,IC,Ithaca College,2pmi,Dribble Jumper,Aidan Holmes,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,3.0,2025-01-14
+83,RIT,IC,Ithaca College,2pmi,To Basket,Jaylon O'Neal,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,84,1.0,2025-01-14
+84,RIT,IC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Marcus Graves,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,4.0,2025-01-14
+85,RIT,IC,Ithaca College,2pmi,To Basket,Jaylon O'Neal,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,86,1.0,2025-01-14
+86,RIT,IC,Ithaca College,2pmi,To Basket,Alex Penders,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,1.0,2025-01-14
+87,RIT,IC,Ithaca College,2pMa,To Basket,Alex Penders,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,1.0,2025-01-14
+89,RIT,IC,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Post,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,90,1.0,2025-01-14
+90,RIT,IC,Ithaca College,2pmi,To Basket,Cole Wissink,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,91,1.0,2025-01-14
+91,RIT,IC,Rochester Institute of Technology Tigers,2pmi,To Basket,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,92,1.0,2025-01-14
+92,RIT,IC,Ithaca College,2pMa,To Basket,Cole Wissink,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,93,1.0,2025-01-14
+94,RIT,IC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,4.0,2025-01-14
+95,RIT,IC,Ithaca College,3pMa,No Dribble Jumper,Evan Cabral,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,96,4.0,2025-01-14
+96,RIT,IC,Rochester Institute of Technology Tigers,2pmi,To Basket,Nolan Smih,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,97,1.0,2025-01-14
+97,RIT,IC,Rochester Institute of Technology Tigers,2pMa,To Basket,Mark Osime,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,1.0,2025-01-14
+98,RIT,IC,Ithaca College,Turnover,N/A,Cole Wissink,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,1.0,2025-01-14
+99,RIT,IC,Rochester Institute of Technology Tigers,Turnover,To Basket,Matt Caggiano,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,1.0,2025-01-14
+100,RIT,IC,Ithaca College,3pMa,No Dribble Jumper,Evan Cabral,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,101,4.0,2025-01-14
+101,RIT,IC,Rochester Institute of Technology Tigers,3pMa,Dribble Jumper,Matt Caggiano,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,102,4.0,2025-01-14
+102,RIT,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,4.0,2025-01-14
+103,RIT,IC,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,1.0,2025-01-14
+104,RIT,IC,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,4.0,2025-01-14
+105,RIT,IC,Ithaca College,Turnover,N/A,Logan Wendell,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,106,1.0,2025-01-14
+106,RIT,IC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Mark Osime,Iso,Right,N/A,Matt Caggiano,Spot Ups,N/A,Shot,Liberty League,Liberty League,107,4.0,2025-01-14
+108,RIT,IC,Ithaca College,3pmi,No Dribble Jumper,Jaylon O'Neal,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,109,4.0,2025-01-14
+109,RIT,IC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Luke Granto,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,110,4.0,2025-01-14
+110,RIT,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,4.0,2025-01-14
+112,RIT,IC,Ithaca College,3pMa,No Dribble Jumper,Evan Cabral,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,4.0,2025-01-14
+114,RIT,IC,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,1.0,2025-01-14
+115,RIT,IC,Ithaca College,3pMa,No Dribble Jumper,Evan Cabral,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,116,4.0,2025-01-14
+116,RIT,IC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Chase Dickens,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,4.0,2025-01-14
+117,RIT,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,4.0,2025-01-14
+118,RIT,IC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Luke Granto,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,4.0,2025-01-14
+119,RIT,IC,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,120,1.0,2025-01-14
+120,RIT,IC,Ithaca College,2pmi,To Basket,Evan Cabral,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,121,1.0,2025-01-14
+121,RIT,IC,Rochester Institute of Technology Tigers,Turnover,N/A,Luke Granto,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,1.0,2025-01-14
+122,RIT,IC,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,123,4.0,2025-01-14
+124,RIT,IC,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,125,4.0,2025-01-14
+125,RIT,IC,Rochester Institute of Technology Tigers,2pmi,N/A,Josiah Turner,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,126,1.0,2025-01-14
+126,RIT,IC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,PNR,Left,Off,Aidan Holmes,Spot Ups,N/A,Shot,Liberty League,Liberty League,127,4.0,2025-01-14
+127,RIT,IC,Rochester Institute of Technology Tigers,2pMa,To Basket,Chase Dickens,PNR,Right,Off,Luke Granto,Cuts,N/A,Basket,Liberty League,Liberty League,128,1.0,2025-01-14
+128,RIT,IC,Ithaca College,3pMa,No Dribble Jumper,Chris Leysath,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,129,4.0,2025-01-14
+129,RIT,IC,Rochester Institute of Technology Tigers,2pmi,To Basket,Chase Dickens,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,130,1.0,2025-01-14
+130,RIT,IC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,PNR,Left,Off,Jaylon O'Neal,Spot Ups,N/A,Shot,Liberty League,Liberty League,131,4.0,2025-01-14
+131,RIT,IC,Rochester Institute of Technology Tigers,2pmi,To Basket,Luke Granto,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,1.0,2025-01-14
+133,RIT,IC,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,134,1.0,2025-01-14
+134,RIT,IC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,PNR,Left,Off,Jaylon O'Neal,Spot Ups,N/A,Shot,Liberty League,Liberty League,135,4.0,2025-01-14
+135,RIT,IC,Rochester Institute of Technology Tigers,Foul,To Basket,Josiah Turner,Iso,Top,N/A,Ronnie Toole,Cuts,N/A,Basket,Liberty League,Liberty League,136,1.0,2025-01-14
+139,RIT,IC,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,4.0,2025-01-14
+140,RIT,IC,Ithaca College,2pmi,To Basket,Alex Penders,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,1.0,2025-01-14
+141,RIT,IC,Rochester Institute of Technology Tigers,Turnover,N/A,Chase Dickens,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,142,1.0,2025-01-14
+142,RIT,IC,Ithaca College,3pMa,No Dribble Jumper,Aidan Holmes,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,143,4.0,2025-01-14
+143,RIT,IC,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,144,1.0,2025-01-14
+144,RIT,IC,Ithaca College,3pMa,No Dribble Jumper,Aidan Holmes,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,145,4.0,2025-01-14
+146,RIT,IC,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,147,1.0,2025-01-14
+147,RIT,IC,Rochester Institute of Technology Tigers,Turnover,N/A,Mark Osime,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,148,1.0,2025-01-14
+148,RIT,IC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,4.0,2025-01-14
+149,RIT,IC,Rochester Institute of Technology Tigers,Turnover,N/A,Luke Granto,PNR,High,Off,Matt Caggiano,Spot Ups,Right,Drive,Liberty League,Liberty League,150,1.0,2025-01-14
+150,RIT,IC,Ithaca College,2pMa,To Basket,Thomas Mckiernan,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,151,1.0,2025-01-14
+151,RIT,IC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,Right,Off,Luke Granto,Spot Ups,N/A,Shot,Liberty League,Liberty League,152,4.0,2025-01-14
+152,RIT,IC,Ithaca College,Turnover,N/A,Alex Penders,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,153,1.0,2025-01-14
+153,RIT,IC,Rochester Institute of Technology Tigers,2pmi,To Basket,Luke Granto,PNR,Right,Off,Kenny Wilburn,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,154,1.0,2025-01-14
+154,RIT,IC,Ithaca College,2pmi,Dribble Jumper,Aidan Holmes,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,3.0,2025-01-14
+155,RIT,IC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Matt Caggiano,PNR,High,Away,Luke Granto,Spot Ups,N/A,Shot,Liberty League,Liberty League,156,4.0,2025-01-14
+156,RIT,IC,Ithaca College,3pmi,No Dribble Jumper,Cole Wissink,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,4.0,2025-01-14
+157,RIT,IC,Rochester Institute of Technology Tigers,2pMa,To Basket,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,158,1.0,2025-01-14
+158,RIT,IC,Ithaca College,3pmi,No Dribble Jumper,Cole Wissink,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,4.0,2025-01-14
+159,RIT,IC,Rochester Institute of Technology Tigers,And1,Dribble Jumper,Brody Brown,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,160,2.0,2025-01-14
+161,RIT,IC,Ithaca College,Turnover,N/A,Logan Wendell,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,162,1.0,2025-01-14
+162,RIT,IC,Rochester Institute of Technology Tigers,2pMa,To Basket,Kenny Wilburn,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,163,1.0,2025-01-14
+163,RIT,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,PNR,High,Off,Jose Padilla,Spot Ups,N/A,Shot,Liberty League,Liberty League,164,4.0,2025-01-14
+164,RIT,IC,Rochester Institute of Technology Tigers,2pmi,To Basket,Mark Osime,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,165,1.0,2025-01-14
+166,RIT,IC,Ithaca College,Turnover,N/A,Thomas Mckiernan,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,167,1.0,2025-01-14
+167,RIT,IC,Rochester Institute of Technology Tigers,2pmi,Dribble Jumper,Matt Caggiano,Iso,Top,N/A,Marcus Graves,Spot Ups,Left,Drive,Liberty League,Liberty League,168,2.0,2025-01-14
+168,RIT,IC,Ithaca College,2pmi,To Basket,Cole Wissink,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,169,1.0,2025-01-14
+169,RIT,IC,Rochester Institute of Technology Tigers,Foul,To Basket,Marcus Graves,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,170,1.0,2025-01-14
+172,RIT,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,4.0,2025-01-14
+174,RIT,IC,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,175,4.0,2025-01-14
+176,RIT,IC,Ithaca College,2pmi,To Basket,Chris Leysath,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,1.0,2025-01-14
+177,RIT,IC,Rochester Institute of Technology Tigers,2pMa,To Basket,Brody Brown,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,178,1.0,2025-01-14
+178,RIT,IC,Ithaca College,Turnover,N/A,Evan Cabral,Spot Ups,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,179,1.0,2025-01-14
+180,RIT,IC,Rochester Institute of Technology Tigers,Turnover,N/A,Brody Brown,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,1.0,2025-01-14
+181,RIT,IC,Ithaca College,2pmi,To Basket,Logan Wendell,PNR,Left,N/A,Chris Leysath,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,182,1.0,2025-01-14
+182,RIT,IC,Ithaca College,2pmi,To Basket,Jaylon O'Neal,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,183,1.0,2025-01-14
+184,RIT,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,185,4.0,2025-01-14
+185,RIT,IC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Chase Dickens,PNR,Right,Off,Brody Brown,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,186,4.0,2025-01-14
+186,RIT,IC,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,PNR,Right,Off,Logan Wendell,Spot Ups,N/A,Shot,Liberty League,Liberty League,187,4.0,2025-01-14
+187,RIT,IC,Rochester Institute of Technology Tigers,Foul,To Basket,Matt Caggiano,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,188,1.0,2025-01-14
+190,RIT,IC,Ithaca College,Foul,To Basket,Jaylon O'Neal,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,191,1.0,2025-01-14
+193,RIT,IC,Rochester Institute of Technology Tigers,2pMa,To Basket,Josiah Turner,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,194,1.0,2025-01-14
+194,RIT,IC,Ithaca College,3pmi,No Dribble Jumper,Jaylon O'Neal,PNR,Left,N/A,Logan Wendell,Spot Ups,N/A,Shot,Liberty League,Liberty League,195,4.0,2025-01-14
+195,RIT,IC,Ithaca College,Foul,To Basket,Evan Cabral,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,196,1.0,2025-01-14
+198,RIT,IC,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Chase Dickens,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,199,4.0,2025-01-14
+200,RIT,IC,Rochester Institute of Technology Tigers,2pmi,To Basket,Josiah Turner,Post,Right,Right Shoulder,Kenny Wilburn,Cuts,N/A,Flash,Liberty League,Liberty League,201,1.0,2025-01-14
+204,RIT,IC,Ithaca College,2pMa,To Basket,Logan Wendell,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,205,1.0,2025-01-14
+205,RIT,IC,Rochester Institute of Technology Tigers,Foul,N/A,Chase Dickens,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,206,1.0,2025-01-14
+208,RIT,IC,Ithaca College,Foul,To Basket,Jaylon O'Neal,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,209,1.0,2025-01-14
+211,RIT,IC,Rochester Institute of Technology Tigers,Turnover,N/A,Josiah Turner,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,212,1.0,2025-01-14
+212,RIT,IC,Ithaca College,2pmi,To Basket,Max Nierenberg,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,213,1.0,2025-01-14
+214,RIT,IC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,215,4.0,2025-01-14
+215,RIT,IC,Rochester Institute of Technology Tigers,Turnover,N/A,Matt Caggiano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,216,1.0,2025-01-14
+216,RIT,IC,Ithaca College,2pmi,To Basket,Jaylon O'Neal,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,217,1.0,2025-01-14
+218,RIT,IC,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,219,4.0,2025-01-14
+219,RIT,IC,Ithaca College,Foul,To Basket,Chris Leysath,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,220,1.0,2025-01-14
+222,RIT,IC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Marcus Graves,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,223,4.0,2025-01-14
+223,RIT,IC,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Luke Granto,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,224,4.0,2025-01-14
+224,RIT,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,225,4.0,2025-01-14
+225,RIT,IC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Luke Granto,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,226,4.0,2025-01-14
+227,RIT,IC,Rochester Institute of Technology Tigers,3pMa,No Dribble Jumper,Marcus Graves,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,228,4.0,2025-01-14
+228,RIT,IC,Ithaca College,Turnover,N/A,Jose Padilla,PNR,High,Off,Laurence Brady,Spot Ups,Left,Drive,Liberty League,Liberty League,229,1.0,2025-01-14
+229,RIT,IC,Rochester Institute of Technology Tigers,2pMa,To Basket,Marcus Graves,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,230,1.0,2025-01-14
+230,RIT,IC,Ithaca College,Turnover,N/A,Laurence Brady,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,231,1.0,2025-01-14
+231,RIT,IC,Rochester Institute of Technology Tigers,3pmi,Dribble Jumper,Luke Granto,PNR,Left,Off,Marcus Graves,Spot Ups,Left,Drive,Liberty League,Liberty League,232,4.0,2025-01-14
+232,RIT,IC,Ithaca College,3pmi,No Dribble Jumper,Laurence Brady,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,233,4.0,2025-01-14
+233,RIT,IC,Rochester Institute of Technology Tigers,3pmi,No Dribble Jumper,Brody Brown,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,234,4.0,2025-01-14
+235,RIT,IC,Rochester Institute of Technology Tigers,And1,To Basket,Josiah Turner,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,236,1.0,2025-01-14
+237,RIT,IC,Ithaca College,Foul,To Basket,Laurence Brady,PNR,High,Off,Chris Leysath,Cuts,N/A,Basket,Liberty League,Liberty League,238,1.0,2025-01-14
+244,RIT,IC,Rochester Institute of Technology Tigers,2pMa,To Basket,Ronnie Toole,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,245,1.0,2025-01-14
+245,RIT,IC,Ithaca College,2pMa,To Basket,Chris Leysath,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,246,1.0,2025-01-14
+246,RIT,IC,Rochester Institute of Technology Tigers,Turnover,N/A,Luke Granto,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,247,1.0,2025-01-14
+247,RIT,IC,Ithaca College,2pMa,Dribble Jumper,Laurence Brady,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,248,2.0,2025-01-14

@@ -1,0 +1,161 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,CU,VC,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,1.0,2025-01-11
+1,CU,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Post,Left,Left Shoulder,Kreekor Karageuzian,Cuts,N/A,Basket,Liberty League,Liberty League,2,1.0,2025-01-11
+2,CU,VC,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Braeden Burns,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,4.0,2025-01-11
+4,CU,VC,Vassar Brewers,2pmi,To Basket,Nathan Denham,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,1.0,2025-01-11
+6,CU,VC,Clarkson University Golden Knights,Turnover,N/A,Steve DeRegis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,1.0,2025-01-11
+7,CU,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,1.0,2025-01-11
+8,CU,VC,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,4.0,2025-01-11
+10,CU,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,1.0,2025-01-11
+11,CU,VC,Clarkson University Golden Knights,Turnover,N/A,Braeden Burns,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,1.0,2025-01-11
+12,CU,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,1.0,2025-01-11
+13,CU,VC,Clarkson University Golden Knights,2pMa,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,14,3.0,2025-01-11
+14,CU,VC,Vassar Brewers,2pMa,Dribble Jumper,Shea Fitzgerald,PNR,High,Off,Luke Adams,Spot Ups,Right,Drive,Liberty League,Liberty League,15,3.0,2025-01-11
+15,CU,VC,Clarkson University Golden Knights,Turnover,N/A,Finn Cork,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,1.0,2025-01-11
+16,CU,VC,Vassar Brewers,3pmi,Dribble Jumper,Shea Fitzgerald,PNR,Right,Off,Alex Walters,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,17,4.0,2025-01-11
+19,CU,VC,Vassar Brewers,2pMa,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,3.0,2025-01-11
+20,CU,VC,Clarkson University Golden Knights,Turnover,N/A,Ben Rappa,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,21,1.0,2025-01-11
+21,CU,VC,Vassar Brewers,Turnover,N/A,Alex Walters,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,1.0,2025-01-11
+22,CU,VC,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,23,1.0,2025-01-11
+23,CU,VC,Vassar Brewers,2pMa,No Dribble Jumper,Luke Adams,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,3.0,2025-01-11
+24,CU,VC,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,25,1.0,2025-01-11
+26,CU,VC,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Jack Dalgety,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,27,4.0,2025-01-11
+27,CU,VC,Vassar Brewers,2pmi,To Basket,JP Miranda,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,28,1.0,2025-01-11
+28,CU,VC,Vassar Brewers,2pMa,To Basket,Sebastian Medina,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,29,1.0,2025-01-11
+29,CU,VC,Clarkson University Golden Knights,2pMa,Dribble Jumper,Matteo Sinon,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,3.0,2025-01-11
+31,CU,VC,Vassar Brewers,3pMa,No Dribble Jumper,JP Miranda,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,4.0,2025-01-11
+32,CU,VC,Clarkson University Golden Knights,2pmi,To Basket,Jack Dalgety,Post,Right,Right Shoulder,Ben Rappa,Cuts,N/A,Basket,Liberty League,Liberty League,33,1.0,2025-01-11
+33,CU,VC,Vassar Brewers,2pmi,To Basket,Sebastian Medina,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,1.0,2025-01-11
+34,CU,VC,Clarkson University Golden Knights,Turnover,N/A,Aydin Kocak,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,35,1.0,2025-01-11
+35,CU,VC,Vassar Brewers,2pMa,N/A,Avery Lee,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,36,1.0,2025-01-11
+37,CU,VC,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,38,4.0,2025-01-11
+38,CU,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,4.0,2025-01-11
+40,CU,VC,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,41,4.0,2025-01-11
+42,CU,VC,Clarkson University Golden Knights,Foul,To Basket,Finn Cork,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,1.0,2025-01-11
+47,CU,VC,Vassar Brewers,3pmi,Dribble Jumper,Nathan Denham,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,48,4.0,2025-01-11
+48,CU,VC,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,4.0,2025-01-11
+50,CU,VC,Clarkson University Golden Knights,3pmi,Dribble Jumper,Braeden Burns,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,51,4.0,2025-01-11
+52,CU,VC,Clarkson University Golden Knights,2pmi,Dribble Jumper,Tyson Maxam,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,2.0,2025-01-11
+54,CU,VC,Clarkson University Golden Knights,Foul,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,55,4.0,2025-01-11
+58,CU,VC,Vassar Brewers,2pMa,Dribble Jumper,Avery Lee,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,59,2.0,2025-01-11
+59,CU,VC,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,1.0,2025-01-11
+60,CU,VC,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,61,4.0,2025-01-11
+61,CU,VC,Clarkson University Golden Knights,2pmi,No Dribble Jumper,Finn Cork,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,3.0,2025-01-11
+62,CU,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,1.0,2025-01-11
+63,CU,VC,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,1.0,2025-01-11
+65,CU,VC,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,2.0,2025-01-11
+66,CU,VC,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Tyson Maxam,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,4.0,2025-01-11
+67,CU,VC,Vassar Brewers,2pMa,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,68,3.0,2025-01-11
+68,CU,VC,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Casey Montesano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,69,4.0,2025-01-11
+69,CU,VC,Vassar Brewers,2pMa,To Basket,Avery Lee,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,70,1.0,2025-01-11
+70,CU,VC,Clarkson University Golden Knights,Turnover,N/A,Braeden Burns,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,71,1.0,2025-01-11
+71,CU,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,1.0,2025-01-11
+74,CU,VC,,Foul,To Basket,Finn Cork,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,1.0,2025-01-11
+77,CU,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,78,1.0,2025-01-11
+78,CU,VC,Clarkson University Golden Knights,3pmi,Dribble Jumper,Lorenzo Rappa,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,4.0,2025-01-11
+79,CU,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,1.0,2025-01-11
+80,CU,VC,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,81,4.0,2025-01-11
+81,CU,VC,Vassar Brewers,2pMa,Dribble Jumper,Avery Lee,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,82,2.0,2025-01-11
+82,CU,VC,Clarkson University Golden Knights,Foul,N/A,Finn Cork,Post,Middle,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,1.0,2025-01-11
+85,CU,VC,Vassar Brewers,2pMa,To Basket,Sebastian Medina,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,86,1.0,2025-01-11
+86,CU,VC,Clarkson University Golden Knights,2pmi,To Basket,Finn Cork,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,1.0,2025-01-11
+87,CU,VC,Vassar Brewers,Turnover,To Basket,Kreekor Karageuzian,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,1.0,2025-01-11
+88,CU,VC,Clarkson University Golden Knights,Turnover,N/A,Jack Dalgety,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,1.0,2025-01-11
+89,CU,VC,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,90,4.0,2025-01-11
+90,CU,VC,Clarkson University Golden Knights,2pMa,N/A,Finn Cork,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,91,1.0,2025-01-11
+91,CU,VC,Vassar Brewers,2pmi,Drop Step,Shea Fitzgerald,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,92,1.0,2025-01-11
+92,CU,VC,Clarkson University Golden Knights,2pmi,Dribble Jumper,Jack Dalgety,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,93,3.0,2025-01-11
+94,CU,VC,Clarkson University Golden Knights,3pMa,Dribble Jumper,Steve DeRegis,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,4.0,2025-01-11
+95,CU,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,PNR,High,Away,Luke Adams,Spot Ups,N/A,Shot,Liberty League,Liberty League,96,4.0,2025-01-11
+96,CU,VC,Clarkson University Golden Knights,2pMa,Dribble Jumper,Braeden Burns,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,97,2.0,2025-01-11
+97,CU,VC,Vassar Brewers,Turnover,N/A,Kreekor Karageuzian,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,1.0,2025-01-11
+98,CU,VC,Clarkson University Golden Knights,2pmi,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,3.0,2025-01-11
+99,CU,VC,Vassar Brewers,2pmi,N/A,Avery Lee,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,1.0,2025-01-11
+100,CU,VC,Clarkson University Golden Knights,2pmi,To Basket,Steve DeRegis,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,101,1.0,2025-01-11
+101,CU,VC,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,102,4.0,2025-01-11
+102,CU,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,1.0,2025-01-11
+104,CU,VC,Vassar Brewers,3pmi,No Dribble Jumper,Sacha Greenberg,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,4.0,2025-01-11
+105,CU,VC,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,106,1.0,2025-01-11
+106,CU,VC,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,107,1.0,2025-01-11
+107,CU,VC,Clarkson University Golden Knights,Foul,N/A,Finn Cork,Post,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,108,1.0,2025-01-11
+110,CU,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,PNR,High,Off,Avery Lee,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,111,4.0,2025-01-11
+111,CU,VC,Clarkson University Golden Knights,3pmi,Dribble Jumper,Matt Toscano,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,4.0,2025-01-11
+112,CU,VC,Vassar Brewers,3pMa,No Dribble Jumper,Nathan Denham,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,4.0,2025-01-11
+113,CU,VC,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Finn Cork,Post,Left,Left Shoulder,Jack Dalgety,Spot Ups,N/A,Shot,Liberty League,Liberty League,114,4.0,2025-01-11
+114,CU,VC,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,2.0,2025-01-11
+115,CU,VC,Clarkson University Golden Knights,2pmi,Hook Shot,Finn Cork,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,116,1.0,2025-01-11
+116,CU,VC,Clarkson University Golden Knights,2pMa,To Basket,Lorenzo Rappa,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,2.0,2025-01-11
+117,CU,VC,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,4.0,2025-01-11
+118,CU,VC,Vassar Brewers,2pMa,To Basket,Sebastian Medina,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,1.0,2025-01-11
+119,CU,VC,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,120,4.0,2025-01-11
+120,CU,VC,Vassar Brewers,Foul,To Basket,Avery Lee,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,121,1.0,2025-01-11
+123,CU,VC,Clarkson University Golden Knights,Foul,To Basket,Finn Cork,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,124,1.0,2025-01-11
+126,CU,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,127,1.0,2025-01-11
+127,CU,VC,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,4.0,2025-01-11
+129,CU,VC,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,130,4.0,2025-01-11
+130,CU,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,PNR,High,Off,Nathan Denham,Cuts,N/A,Basket,Liberty League,Liberty League,131,1.0,2025-01-11
+133,CU,VC,Clarkson University Golden Knights,2pmi,Dribble Jumper,Finn Cork,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,134,2.0,2025-01-11
+134,CU,VC,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,135,1.0,2025-01-11
+135,CU,VC,Clarkson University Golden Knights,Turnover,To Basket,Finn Cork,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,136,1.0,2025-01-11
+136,CU,VC,Vassar Brewers,2pmi,Dribble Jumper,Shea Fitzgerald,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,137,2.0,2025-01-11
+138,CU,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,4.0,2025-01-11
+139,CU,VC,Clarkson University Golden Knights,3pMa,Dribble Jumper,Braeden Burns,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,4.0,2025-01-11
+140,CU,VC,Vassar Brewers,Foul,To Basket,Avery Lee,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,1.0,2025-01-11
+143,CU,VC,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,144,1.0,2025-01-11
+144,CU,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,145,1.0,2025-01-11
+145,CU,VC,Vassar Brewers,3pmi,No Dribble Jumper,Kreekor Karageuzian,Post,Left,Left Shoulder,Alex Walters,Spot Ups,N/A,Shot,Liberty League,Liberty League,146,4.0,2025-01-11
+146,CU,VC,Clarkson University Golden Knights,Turnover,To Basket,Finn Cork,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,147,1.0,2025-01-11
+147,CU,VC,Vassar Brewers,3pMa,No Dribble Jumper,Shea Fitzgerald,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,148,4.0,2025-01-11
+148,CU,VC,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,4.0,2025-01-11
+150,CU,VC,Vassar Brewers,3pmi,No Dribble Jumper,Luke Adams,PNR,High,Off,Nathan Denham,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,151,4.0,2025-01-11
+151,CU,VC,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Matt Toscano,PNR,High,Off,Braeden Burns,Spot Ups,N/A,Shot,Liberty League,Liberty League,152,4.0,2025-01-11
+152,CU,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,153,1.0,2025-01-11
+153,CU,VC,Clarkson University Golden Knights,2pmi,To Basket,Matt Toscano,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,154,1.0,2025-01-11
+154,CU,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,1.0,2025-01-11
+156,CU,VC,Clarkson University Golden Knights,2pmi,To Basket,Jack Dalgety,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,1.0,2025-01-11
+157,CU,VC,Vassar Brewers,3pmi,No Dribble Jumper,JP Miranda,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,158,4.0,2025-01-11
+158,CU,VC,Vassar Brewers,Turnover,N/A,Sebastian Medina,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,1.0,2025-01-11
+159,CU,VC,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Finn Cork,Post,Left,Left Shoulder,Ben Rappa,Spot Ups,N/A,Shot,Liberty League,Liberty League,160,4.0,2025-01-11
+160,CU,VC,Vassar Brewers,And1,To Basket,Nathan Denham,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,1.0,2025-01-11
+163,CU,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,PNR,High,Off,JP Miranda,Spot Ups,N/A,Shot,Liberty League,Liberty League,164,4.0,2025-01-11
+164,CU,VC,Clarkson University Golden Knights,Turnover,N/A,Ben Rappa,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,165,1.0,2025-01-11
+165,CU,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,1.0,2025-01-11
+166,CU,VC,Clarkson University Golden Knights,2pMa,Hook Shot,Finn Cork,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,167,1.0,2025-01-11
+167,CU,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,1.0,2025-01-11
+169,CU,VC,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,170,4.0,2025-01-11
+171,CU,VC,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Braeden Burns,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,172,4.0,2025-01-11
+172,CU,VC,Vassar Brewers,3pMa,No Dribble Jumper,Sebastian Medina,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,4.0,2025-01-11
+173,CU,VC,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,174,4.0,2025-01-11
+174,CU,VC,Vassar Brewers,Foul,To Basket,Avery Lee,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,175,1.0,2025-01-11
+177,CU,VC,Clarkson University Golden Knights,Foul,To Basket,Finn Cork,Post,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,178,1.0,2025-01-11
+180,CU,VC,Clarkson University Golden Knights,Turnover,N/A,Steve DeRegis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,1.0,2025-01-11
+181,CU,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,182,1.0,2025-01-11
+183,CU,VC,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Lorenzo Rappa,Post,Right,Right Shoulder,Steve DeRegis,Spot Ups,N/A,Shot,Liberty League,Liberty League,184,4.0,2025-01-11
+184,CU,VC,Vassar Brewers,3pMa,No Dribble Jumper,Shea Fitzgerald,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,185,4.0,2025-01-11
+185,CU,VC,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Ben Phillips,Post,Left,Left Shoulder,Steve DeRegis,Spot Ups,N/A,Shot,Liberty League,Liberty League,186,4.0,2025-01-11
+186,CU,VC,Clarkson University Golden Knights,2pMa,To Basket,Ben Phillips,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,187,1.0,2025-01-11
+187,CU,VC,Vassar Brewers,Foul,N/A,Sebastian Medina,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,188,1.0,2025-01-11
+190,CU,VC,Clarkson University Golden Knights,Turnover,N/A,Braeden Burns,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,191,1.0,2025-01-11
+191,CU,VC,Vassar Brewers,Turnover,N/A,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,192,1.0,2025-01-11
+192,CU,VC,Clarkson University Golden Knights,2pmi,Hook Shot,Finn Cork,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,193,1.0,2025-01-11
+193,CU,VC,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,194,4.0,2025-01-11
+194,CU,VC,Clarkson University Golden Knights,2pMa,To Basket,Lorenzo Rappa,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,195,1.0,2025-01-11
+195,CU,VC,Vassar Brewers,2pmi,To Basket,Nathan Denham,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,196,1.0,2025-01-11
+197,CU,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,PNR,High,Off,Sebastian Medina,Cuts,N/A,Basket,Liberty League,Liberty League,198,1.0,2025-01-11
+198,CU,VC,Vassar Brewers,Foul,To Basket,Sebastian Medina,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,199,1.0,2025-01-11
+202,CU,VC,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Lorenzo Rappa,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,203,4.0,2025-01-11
+203,CU,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,204,4.0,2025-01-11
+204,CU,VC,Clarkson University Golden Knights,2pmi,Dribble Jumper,Braeden Burns,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,205,2.0,2025-01-11
+205,CU,VC,Vassar Brewers,2pMa,Dribble Jumper,Shea Fitzgerald,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,206,2.0,2025-01-11
+206,CU,VC,Clarkson University Golden Knights,2pmi,To Basket,Finn Cork,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,207,1.0,2025-01-11
+207,CU,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,208,1.0,2025-01-11
+208,CU,VC,Vassar Brewers,2pmi,To Basket,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,209,1.0,2025-01-11
+209,CU,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,210,1.0,2025-01-11
+211,CU,VC,Clarkson University Golden Knights,3pmi,Dribble Jumper,Steve DeRegis,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,212,4.0,2025-01-11
+213,CU,VC,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,214,4.0,2025-01-11
+214,CU,VC,Clarkson University Golden Knights,Foul,N/A,Lorenzo Rappa,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,215,1.0,2025-01-11
+216,CU,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,217,1.0,2025-01-11
+217,CU,VC,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,218,1.0,2025-01-11
+218,CU,VC,Vassar Brewers,2pMa,Dribble Jumper,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,219,2.0,2025-01-11
+219,CU,VC,Clarkson University Golden Knights,Turnover,N/A,Finn Cork,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,220,1.0,2025-01-11
+220,CU,VC,Vassar Brewers,Foul,N/A,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,221,1.0,2025-01-11

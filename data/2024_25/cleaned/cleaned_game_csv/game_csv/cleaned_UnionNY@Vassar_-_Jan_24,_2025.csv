@@ -1,0 +1,185 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,VC,UNY,Union (NY) Chargers,2pmi,N/A,Jack Plesser,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,1.0,2025-01-24
+1,VC,UNY,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,4.0,2025-01-24
+2,VC,UNY,Union (NY) Chargers,2pmi,No Dribble Jumper,Jack Plesser,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,3.0,2025-01-24
+3,VC,UNY,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,4.0,2025-01-24
+4,VC,UNY,Union (NY) Chargers,2pmi,Dribble Jumper,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,2.0,2025-01-24
+5,VC,UNY,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,2.0,2025-01-24
+7,VC,UNY,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,1.0,2025-01-24
+8,VC,UNY,Union (NY) Chargers,3pmi,Dribble Jumper,Christian Dufort,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,4.0,2025-01-24
+10,VC,UNY,Vassar Brewers,Foul,To Basket,Sebastian Medina,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,1.0,2025-01-24
+13,VC,UNY,Union (NY) Chargers,Turnover,N/A,Christian Dufort,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,14,1.0,2025-01-24
+14,VC,UNY,Vassar Brewers,2pMa,To Basket,Nathan Denham,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,15,1.0,2025-01-24
+15,VC,UNY,Union (NY) Chargers,2pmi,To Basket,Tanner Tedesco,PNR,High,Off,Brendan Reid,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,16,1.0,2025-01-24
+16,VC,UNY,Vassar Brewers,2pmi,To Basket,Nathan Denham,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,1.0,2025-01-24
+17,VC,UNY,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,1.0,2025-01-24
+18,VC,UNY,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,19,2.0,2025-01-24
+19,VC,UNY,Vassar Brewers,3pMa,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,4.0,2025-01-24
+20,VC,UNY,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,21,4.0,2025-01-24
+21,VC,UNY,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,4.0,2025-01-24
+22,VC,UNY,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,23,4.0,2025-01-24
+23,VC,UNY,Vassar Brewers,2pMa,N/A,Avery Lee,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,1.0,2025-01-24
+24,VC,UNY,Union (NY) Chargers,And1,To Basket,Tanner Tedesco,PNR,High,Off,Jack Plesser,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,25,1.0,2025-01-24
+26,VC,UNY,Vassar Brewers,3pMa,No Dribble Jumper,Shea Fitzgerald,PNR,High,Off,Luke Adams,Spot Ups,N/A,Shot,Liberty League,Liberty League,27,4.0,2025-01-24
+27,VC,UNY,Union (NY) Chargers,Foul,To Basket,Jaden Jauregui,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,28,1.0,2025-01-24
+30,VC,UNY,Vassar Brewers,2pmi,Dribble Jumper,Shea Fitzgerald,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,31,2.0,2025-01-24
+31,VC,UNY,Union (NY) Chargers,2pmi,To Basket,Tanner Tedesco,PNR,Right,Off,Jack Plesser,Cuts,N/A,Flash,Liberty League,Liberty League,32,1.0,2025-01-24
+32,VC,UNY,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,4.0,2025-01-24
+33,VC,UNY,Union (NY) Chargers,2pMa,To Basket,Jaden Jauregui,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,1.0,2025-01-24
+34,VC,UNY,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,PNR,High,Away,Eric Zhang,Spot Ups,Right,Drive,Liberty League,Liberty League,35,1.0,2025-01-24
+35,VC,UNY,Union (NY) Chargers,Turnover,N/A,Christian Dufort,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,36,1.0,2025-01-24
+36,VC,UNY,Vassar Brewers,3pMa,No Dribble Jumper,Shea Fitzgerald,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,37,4.0,2025-01-24
+37,VC,UNY,Union (NY) Chargers,Turnover,N/A,Christian Dufort,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,38,1.0,2025-01-24
+38,VC,UNY,Vassar Brewers,2pMa,To Basket,Eric Zhang,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,1.0,2025-01-24
+41,VC,UNY,Union (NY) Chargers,2pmi,To Basket,Harrison Collins,Iso,Top,N/A,Jaden Jauregui,Spot Ups,Left,Drive,Liberty League,Liberty League,42,1.0,2025-01-24
+42,VC,UNY,Vassar Brewers,3pMa,No Dribble Jumper,Shea Fitzgerald,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,4.0,2025-01-24
+43,VC,UNY,Union (NY) Chargers,2pmi,To Basket,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,44,1.0,2025-01-24
+44,VC,UNY,Vassar Brewers,2pMa,To Basket,Nathan Denham,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,45,1.0,2025-01-24
+45,VC,UNY,Union (NY) Chargers,2pMa,To Basket,Tanner Tedesco,PNR,High,Away,Will Yakoobian,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,46,1.0,2025-01-24
+46,VC,UNY,Vassar Brewers,2pMa,To Basket,Avery Lee,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,47,1.0,2025-01-24
+48,VC,UNY,Union (NY) Chargers,2pMa,Drop Step,Brendan Reid,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,1.0,2025-01-24
+49,VC,UNY,Vassar Brewers,3pMa,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,4.0,2025-01-24
+50,VC,UNY,Union (NY) Chargers,2pMa,Dribble Jumper,Brendan Reid,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,51,2.0,2025-01-24
+51,VC,UNY,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,4.0,2025-01-24
+52,VC,UNY,Union (NY) Chargers,2pmi,Dribble Jumper,Jaden Jauregui,PNR,Right,Off,Brendan Reid,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,53,2.0,2025-01-24
+53,VC,UNY,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,54,4.0,2025-01-24
+55,VC,UNY,Union (NY) Chargers,3pmi,Dribble Jumper,Tanner Tedesco,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,56,4.0,2025-01-24
+58,VC,UNY,Vassar Brewers,2pMa,Dribble Jumper,Avery Lee,Iso,Right,N/A,Shea Fitzgerald,Spot Ups,Right,Drive,Liberty League,Liberty League,59,2.0,2025-01-24
+59,VC,UNY,Union (NY) Chargers,2pMa,To Basket,Jaden Jauregui,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,1.0,2025-01-24
+60,VC,UNY,Vassar Brewers,3pMa,Dribble Jumper,Shea Fitzgerald,PNR,High,Off,Alex Walters,Spot Ups,Straight,Drive,Liberty League,Liberty League,61,4.0,2025-01-24
+61,VC,UNY,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,4.0,2025-01-24
+62,VC,UNY,Vassar Brewers,Turnover,N/A,Kreekor Karageuzian,PNR,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,1.0,2025-01-24
+63,VC,UNY,Union (NY) Chargers,2pMa,To Basket,Matthew Garside,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,1.0,2025-01-24
+64,VC,UNY,Vassar Brewers,2pmi,Dribble Jumper,Shea Fitzgerald,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,65,2.0,2025-01-24
+65,VC,UNY,Union (NY) Chargers,2pMa,Dribble Jumper,Tanner Tedesco,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,3.0,2025-01-24
+66,VC,UNY,Vassar Brewers,Turnover,N/A,JP Miranda,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,1.0,2025-01-24
+67,VC,UNY,Union (NY) Chargers,Foul,To Basket,Christian Dufort,PNR,Right,Off,Jaden Jauregui,Cuts,N/A,Basket,Liberty League,Liberty League,68,1.0,2025-01-24
+70,VC,UNY,Vassar Brewers,Foul,To Basket,Avery Lee,PNR,Left,Away,Kreekor Karageuzian,Cuts,N/A,Flash,Liberty League,Liberty League,71,1.0,2025-01-24
+73,VC,UNY,Union (NY) Chargers,2pMa,Dribble Jumper,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,74,2.0,2025-01-24
+74,VC,UNY,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,PNR,Right,Off,Shea Fitzgerald,Spot Ups,N/A,Shot,Liberty League,Liberty League,75,4.0,2025-01-24
+75,VC,UNY,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,76,1.0,2025-01-24
+76,VC,UNY,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,77,1.0,2025-01-24
+77,VC,UNY,Union (NY) Chargers,2pMa,Drop Step,Jack Plesser,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,78,1.0,2025-01-24
+78,VC,UNY,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,4.0,2025-01-24
+79,VC,UNY,,Foul,N/A,Brendan Reid,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,1.0,2025-01-24
+81,VC,UNY,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,82,4.0,2025-01-24
+82,VC,UNY,Union (NY) Chargers,And1,To Basket,Tanner Tedesco,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,1.0,2025-01-24
+84,VC,UNY,Vassar Brewers,3pmi,No Dribble Jumper,Sacha Greenberg,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,4.0,2025-01-24
+85,VC,UNY,Union (NY) Chargers,2pmi,To Basket,Brendan Reid,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,86,1.0,2025-01-24
+86,VC,UNY,Vassar Brewers,3pmi,No Dribble Jumper,Sacha Greenberg,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,4.0,2025-01-24
+87,VC,UNY,Union (NY) Chargers,3pmi,Dribble Jumper,Tanner Tedesco,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,4.0,2025-01-24
+88,VC,UNY,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,1.0,2025-01-24
+89,VC,UNY,Union (NY) Chargers,Turnover,N/A,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,90,1.0,2025-01-24
+90,VC,UNY,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,91,4.0,2025-01-24
+91,VC,UNY,Vassar Brewers,3pmi,N/A,Luke Adams,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,92,4.0,2025-01-24
+92,VC,UNY,Union (NY) Chargers,2pMa,Dribble Jumper,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,93,2.0,2025-01-24
+94,VC,UNY,Vassar Brewers,And1,No Dribble Jumper,Shea Fitzgerald,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,4.0,2025-01-24
+96,VC,UNY,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,97,4.0,2025-01-24
+97,VC,UNY,Union (NY) Chargers,Turnover,To Basket,Tanner Tedesco,PNR,High,Off,Jack Plesser,Cuts,N/A,Screen,Liberty League,Liberty League,98,1.0,2025-01-24
+98,VC,UNY,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,2.0,2025-01-24
+99,VC,UNY,Union (NY) Chargers,3pMa,Dribble Jumper,Tanner Tedesco,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,4.0,2025-01-24
+100,VC,UNY,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,101,4.0,2025-01-24
+101,VC,UNY,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,PNR,High,Off,Christian Dufort,Spot Ups,N/A,Shot,Liberty League,Liberty League,102,4.0,2025-01-24
+102,VC,UNY,Vassar Brewers,Turnover,To Basket,Kreekor Karageuzian,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,1.0,2025-01-24
+103,VC,UNY,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,4.0,2025-01-24
+104,VC,UNY,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,PNR,Left,Off,Sebastian Medina,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,105,1.0,2025-01-24
+105,VC,UNY,Union (NY) Chargers,2pMa,To Basket,Tanner Tedesco,PNR,High,Away,Jack Plesser,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,106,1.0,2025-01-24
+106,VC,UNY,Vassar Brewers,Turnover,N/A,Avery Lee,PNR,High,Off,Nathan Denham,Spot Ups,N/A,N/A,Liberty League,Liberty League,107,1.0,2025-01-24
+107,VC,UNY,Union (NY) Chargers,Foul,To Basket,Tanner Tedesco,PNR,High,Off,Brendan Reid,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,108,1.0,2025-01-24
+110,VC,UNY,Vassar Brewers,2pmi,Dribble Jumper,Shea Fitzgerald,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,2.0,2025-01-24
+111,VC,UNY,Union (NY) Chargers,2pmi,Dribble Jumper,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,2.0,2025-01-24
+112,VC,UNY,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,1.0,2025-01-24
+113,VC,UNY,Vassar Brewers,2pMa,Dribble Jumper,Shea Fitzgerald,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,114,2.0,2025-01-24
+114,VC,UNY,Union (NY) Chargers,3pmi,Dribble Jumper,Tanner Tedesco,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,4.0,2025-01-24
+116,VC,UNY,Union (NY) Chargers,2pmi,To Basket,Tanner Tedesco,PNR,Right,Off,Matthew Garside,Spot Ups,Left,Drive,Liberty League,Liberty League,117,1.0,2025-01-24
+117,VC,UNY,Union (NY) Chargers,2pmi,To Basket,Matthew Garside,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,1.0,2025-01-24
+118,VC,UNY,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,4.0,2025-01-24
+119,VC,UNY,Union (NY) Chargers,2pmi,To Basket,Tanner Tedesco,PNR,High,Off,Jack Plesser,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,120,1.0,2025-01-24
+121,VC,UNY,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,1.0,2025-01-24
+124,VC,UNY,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,125,1.0,2025-01-24
+125,VC,UNY,Vassar Brewers,2pMa,To Basket,Avery Lee,PNR,High,Away,Sebastian Medina,Cuts,N/A,Basket,Liberty League,Liberty League,126,1.0,2025-01-24
+126,VC,UNY,Union (NY) Chargers,3pmi,Dribble Jumper,Tanner Tedesco,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,127,4.0,2025-01-24
+127,VC,UNY,Union (NY) Chargers,2pMa,To Basket,Brendan Reid,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,1.0,2025-01-24
+128,VC,UNY,Vassar Brewers,2pmi,To Basket,Luke Adams,PNR,Right,Off,Shea Fitzgerald,Spot Ups,Left,Drive,Liberty League,Liberty League,129,1.0,2025-01-24
+129,VC,UNY,Vassar Brewers,2pmi,To Basket,Luke Adams,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,130,1.0,2025-01-24
+130,VC,UNY,Union (NY) Chargers,Turnover,N/A,Christian Dufort,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,1.0,2025-01-24
+131,VC,UNY,Vassar Brewers,2pMa,To Basket,Avery Lee,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,1.0,2025-01-24
+132,VC,UNY,Union (NY) Chargers,2pmi,To Basket,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,133,1.0,2025-01-24
+133,VC,UNY,Vassar Brewers,Turnover,N/A,Kreekor Karageuzian,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,134,1.0,2025-01-24
+134,VC,UNY,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,135,4.0,2025-01-24
+135,VC,UNY,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,136,4.0,2025-01-24
+136,VC,UNY,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,PNR,High,Off,Will Yakoobian,Spot Ups,N/A,Shot,Liberty League,Liberty League,137,4.0,2025-01-24
+137,VC,UNY,Vassar Brewers,Foul,Dribble Jumper,Alex Walters,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,138,4.0,2025-01-24
+142,VC,UNY,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,143,1.0,2025-01-24
+143,VC,UNY,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,PNR,High,Off,Sebastian Medina,Spot Ups,Left,Drive,Liberty League,Liberty League,144,2.0,2025-01-24
+145,VC,UNY,Vassar Brewers,2pMa,Dribble Jumper,Shea Fitzgerald,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,2.0,2025-01-24
+146,VC,UNY,Union (NY) Chargers,2pmi,Dribble Jumper,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,147,2.0,2025-01-24
+147,VC,UNY,Vassar Brewers,2pMa,To Basket,Nathan Denham,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,148,1.0,2025-01-24
+148,VC,UNY,Union (NY) Chargers,2pMa,To Basket,Tanner Tedesco,PNR,Right,Off,Matthew Garside,Spot Ups,Right,Drive,Liberty League,Liberty League,149,1.0,2025-01-24
+149,VC,UNY,Vassar Brewers,2pMa,Dribble Jumper,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,150,2.0,2025-01-24
+150,VC,UNY,Union (NY) Chargers,Foul,To Basket,Jaden Jauregui,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,151,1.0,2025-01-24
+153,VC,UNY,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,154,1.0,2025-01-24
+156,VC,UNY,Union (NY) Chargers,3pmi,Dribble Jumper,Christian Dufort,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,4.0,2025-01-24
+158,VC,UNY,Union (NY) Chargers,2pmi,To Basket,Christian Dufort,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,1.0,2025-01-24
+159,VC,UNY,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,160,1.0,2025-01-24
+160,VC,UNY,Union (NY) Chargers,Turnover,N/A,Matthew Garside,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,1.0,2025-01-24
+161,VC,UNY,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,162,4.0,2025-01-24
+162,VC,UNY,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Post,Left,N/A,Jaden Jauregui,Spot Ups,N/A,Shot,Liberty League,Liberty League,163,4.0,2025-01-24
+164,VC,UNY,Vassar Brewers,2pMa,To Basket,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,165,1.0,2025-01-24
+165,VC,UNY,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,1.0,2025-01-24
+166,VC,UNY,Vassar Brewers,3pMa,Dribble Jumper,Avery Lee,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,167,4.0,2025-01-24
+167,VC,UNY,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,1.0,2025-01-24
+169,VC,UNY,Union (NY) Chargers,2pMa,Hook Shot,Jack Plesser,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,170,1.0,2025-01-24
+170,VC,UNY,Vassar Brewers,2pMa,Dribble Jumper,Sebastian Medina,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,171,2.0,2025-01-24
+171,VC,UNY,Union (NY) Chargers,2pmi,To Basket,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,172,1.0,2025-01-24
+172,VC,UNY,Vassar Brewers,2pmi,To Basket,Sebastian Medina,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,1.0,2025-01-24
+173,VC,UNY,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,174,1.0,2025-01-24
+174,VC,UNY,Vassar Brewers,2pMa,To Basket,Kreekor Karageuzian,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,175,1.0,2025-01-24
+175,VC,UNY,Union (NY) Chargers,2pMa,To Basket,Matthew Garside,PNR,Right,Off,Jaden Jauregui,Spot Ups,Right,Drive,Liberty League,Liberty League,176,1.0,2025-01-24
+176,VC,UNY,Vassar Brewers,2pMa,To Basket,Luke Adams,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,1.0,2025-01-24
+177,VC,UNY,Union (NY) Chargers,2pMa,To Basket,Brendan Reid,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,178,1.0,2025-01-24
+178,VC,UNY,Vassar Brewers,3pmi,No Dribble Jumper,Luke Adams,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,179,4.0,2025-01-24
+179,VC,UNY,Union (NY) Chargers,Turnover,N/A,Jaden Jauregui,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,180,1.0,2025-01-24
+180,VC,UNY,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,4.0,2025-01-24
+182,VC,UNY,Union (NY) Chargers,2pMa,To Basket,Matthew Garside,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,183,1.0,2025-01-24
+183,VC,UNY,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,184,1.0,2025-01-24
+184,VC,UNY,Union (NY) Chargers,2pmi,To Basket,Tanner Tedesco,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,185,1.0,2025-01-24
+185,VC,UNY,Union (NY) Chargers,2pMa,To Basket,Christian Dufort,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,186,1.0,2025-01-24
+186,VC,UNY,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,187,1.0,2025-01-24
+187,VC,UNY,Union (NY) Chargers,And1,N/A,Jack Plesser,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,188,1.0,2025-01-24
+190,VC,UNY,,Foul,N/A,Kreekor Karageuzian,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,191,1.0,2025-01-24
+192,VC,UNY,Union (NY) Chargers,2pMa,Dribble Jumper,Tanner Tedesco,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,193,2.0,2025-01-24
+194,VC,UNY,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,195,3.0,2025-01-24
+195,VC,UNY,,Foul,N/A,Christian Dufort,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,196,1.0,2025-01-24
+198,VC,UNY,Vassar Brewers,2pmi,Dribble Jumper,Shea Fitzgerald,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,199,2.0,2025-01-24
+199,VC,UNY,Union (NY) Chargers,2pmi,To Basket,Jaden Jauregui,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,200,1.0,2025-01-24
+200,VC,UNY,,Foul,N/A,Shea Fitzgerald,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,201,1.0,2025-01-24
+202,VC,UNY,Vassar Brewers,Foul,N/A,JP Miranda,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,203,1.0,2025-01-24
+205,VC,UNY,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,206,4.0,2025-01-24
+206,VC,UNY,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,207,2.0,2025-01-24
+208,VC,UNY,,Foul,N/A,Avery Lee,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,209,1.0,2025-01-24
+211,VC,UNY,Union (NY) Chargers,Foul,N/A,Tanner Tedesco,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,212,1.0,2025-01-24
+214,VC,UNY,Vassar Brewers,3pmi,Dribble Jumper,Avery Lee,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,215,4.0,2025-01-24
+215,VC,UNY,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,216,1.0,2025-01-24
+218,VC,UNY,Union (NY) Chargers,2pmi,Drop Step,Jack Plesser,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,219,1.0,2025-01-24
+219,VC,UNY,Vassar Brewers,Foul,To Basket,Avery Lee,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,220,1.0,2025-01-24
+222,VC,UNY,Union (NY) Chargers,Foul,N/A,Jack Plesser,Post,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,223,1.0,2025-01-24
+225,VC,UNY,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,226,1.0,2025-01-24
+226,VC,UNY,Union (NY) Chargers,2pMa,Hook Shot,Christian Dufort,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,227,1.0,2025-01-24
+227,VC,UNY,Vassar Brewers,2pMa,To Basket,Kreekor Karageuzian,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,228,1.0,2025-01-24
+228,VC,UNY,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,229,4.0,2025-01-24
+230,VC,UNY,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,231,4.0,2025-01-24
+231,VC,UNY,Union (NY) Chargers,2pmi,To Basket,Brendan Reid,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,232,1.0,2025-01-24
+232,VC,UNY,Union (NY) Chargers,2pmi,Dribble Jumper,Tanner Tedesco,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,233,3.0,2025-01-24
+233,VC,UNY,Vassar Brewers,2pMa,To Basket,Avery Lee,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,234,1.0,2025-01-24
+234,VC,UNY,Union (NY) Chargers,Foul,N/A,Jack Plesser,Post,Left,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,235,1.0,2025-01-24
+237,VC,UNY,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,238,3.0,2025-01-24
+238,VC,UNY,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,239,1.0,2025-01-24
+239,VC,UNY,,Foul,N/A,Avery Lee,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,240,1.0,2025-01-24
+242,VC,UNY,Union (NY) Chargers,2pMa,To Basket,Matthew Garside,PNR,High,Off,Jack Plesser,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,243,1.0,2025-01-24
+243,VC,UNY,,Foul,N/A,Avery Lee,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,244,1.0,2025-01-24
+246,VC,UNY,Union (NY) Chargers,Turnover,N/A,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,247,1.0,2025-01-24
+247,VC,UNY,,Foul,N/A,Sebastian Medina,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,248,1.0,2025-01-24
+250,VC,UNY,Union (NY) Chargers,3pMa,Dribble Jumper,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,251,4.0,2025-01-24
+251,VC,UNY,,Foul,N/A,JP Miranda,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,252,1.0,2025-01-24
+254,VC,UNY,Union (NY) Chargers,3pmi,Dribble Jumper,Tanner Tedesco,PNR,High,Off,Jack Plesser,P&R Roll Man,Right,Pop,Liberty League,Liberty League,255,4.0,2025-01-24

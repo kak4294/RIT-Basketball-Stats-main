@@ -1,0 +1,157 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,HOB,SLS,St. Lawrence Saints,2pmi,To Basket,Adam Dudzinski,Off Screens,Right,Curl,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,1.0,2025-01-24
+1,HOB,SLS,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,PNR,Right,Off,Hunter Meshanic,Spot Ups,N/A,Shot,Liberty League,Liberty League,2,4.0,2025-01-24
+2,HOB,SLS,St. Lawrence Saints,2pmi,To Basket,Trey Syroka,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,1.0,2025-01-24
+3,HOB,SLS,Hobart College Statesmen,2pmi,To Basket,Pat Healy,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,1.0,2025-01-24
+4,HOB,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Trey Syroka,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,4.0,2025-01-24
+5,HOB,SLS,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,4.0,2025-01-24
+6,HOB,SLS,St. Lawrence Saints,2pMa,To Basket,Aiden Macaulay,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,1.0,2025-01-24
+7,HOB,SLS,Hobart College Statesmen,3pmi,No Dribble Jumper,Pat Healy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,4.0,2025-01-24
+8,HOB,SLS,St. Lawrence Saints,Turnover,N/A,Aiden Macaulay,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,1.0,2025-01-24
+9,HOB,SLS,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,1.0,2025-01-24
+10,HOB,SLS,St. Lawrence Saints,2pmi,To Basket,Gavin Macaulay,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,1.0,2025-01-24
+11,HOB,SLS,Hobart College Statesmen,2pmi,Dribble Jumper,Hunter Meshanic,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,2.0,2025-01-24
+12,HOB,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Aiden Macaulay,Post,Left,Left Shoulder,Adam Dudzinski,Spot Ups,N/A,Shot,Liberty League,Liberty League,13,4.0,2025-01-24
+13,HOB,SLS,Hobart College Statesmen,2pmi,Dribble Jumper,Alex Moesch,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,14,2.0,2025-01-24
+15,HOB,SLS,St. Lawrence Saints,Turnover,N/A,Chris Downs Jr.,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,1.0,2025-01-24
+16,HOB,SLS,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,1.0,2025-01-24
+17,HOB,SLS,St. Lawrence Saints,2pMa,To Basket,Aiden Macaulay,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,1.0,2025-01-24
+19,HOB,SLS,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,1.0,2025-01-24
+20,HOB,SLS,St. Lawrence Saints,2pMa,To Basket,Dan Anderson,PNR,High,Off,Adam Dudzinski,Spot Ups,Left,Drive,Liberty League,Liberty League,21,1.0,2025-01-24
+21,HOB,SLS,Hobart College Statesmen,Turnover,N/A,Monty Nedd,Spot Ups,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,1.0,2025-01-24
+22,HOB,SLS,St. Lawrence Saints,Turnover,N/A,Aiden Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,23,1.0,2025-01-24
+23,HOB,SLS,Hobart College Statesmen,Turnover,N/A,Monty Nedd,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,1.0,2025-01-24
+24,HOB,SLS,St. Lawrence Saints,2pMa,To Basket,Gavin Macaulay,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,25,1.0,2025-01-24
+25,HOB,SLS,Hobart College Statesmen,2pmi,Dribble Jumper,Alex Moesch,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,3.0,2025-01-24
+26,HOB,SLS,St. Lawrence Saints,Turnover,N/A,Gavin Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,27,1.0,2025-01-24
+27,HOB,SLS,Hobart College Statesmen,2pMa,To Basket,Pat Healy,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,28,1.0,2025-01-24
+28,HOB,SLS,St. Lawrence Saints,And1,To Basket,Dan Anderson,PNR,Left,Off,Chris Downs Jr.,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,29,1.0,2025-01-24
+30,HOB,SLS,Hobart College Statesmen,Foul,To Basket,Dorian Paki,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,31,1.0,2025-01-24
+33,HOB,SLS,St. Lawrence Saints,Turnover,N/A,Dan Anderson,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,1.0,2025-01-24
+35,HOB,SLS,Hobart College Statesmen,2pmi,Dribble Jumper,Pat Healy,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,36,2.0,2025-01-24
+36,HOB,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Adam Dudzinski,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,37,3.0,2025-01-24
+38,HOB,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Chris Downs Jr.,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,39,3.0,2025-01-24
+40,HOB,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,41,4.0,2025-01-24
+41,HOB,SLS,Hobart College Statesmen,Turnover,N/A,Niko Lutz,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,42,1.0,2025-01-24
+42,HOB,SLS,St. Lawrence Saints,Foul,To Basket,Troy McPherson,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,1.0,2025-01-24
+46,HOB,SLS,Hobart College Statesmen,2pMa,To Basket,Niko Lutz,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,47,1.0,2025-01-24
+47,HOB,SLS,St. Lawrence Saints,2pmi,To Basket,Aiden Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,48,1.0,2025-01-24
+48,HOB,SLS,Hobart College Statesmen,3pmi,No Dribble Jumper,Allen Mordi,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,4.0,2025-01-24
+49,HOB,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Troy McPherson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,4.0,2025-01-24
+50,HOB,SLS,Hobart College Statesmen,2pmi,Dribble Jumper,Monty Nedd,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,51,2.0,2025-01-24
+52,HOB,SLS,St. Lawrence Saints,Turnover,N/A,Troy McPherson,PNR,High,Off,Trey Syroka,P&R Roll Man,Left,Pop,Liberty League,Liberty League,53,1.0,2025-01-24
+53,HOB,SLS,Hobart College Statesmen,Turnover,N/A,Niko Lutz,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,54,1.0,2025-01-24
+54,HOB,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Aiden Macaulay,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,55,4.0,2025-01-24
+55,HOB,SLS,Hobart College Statesmen,2pMa,Dribble Jumper,Aidan Rodgers,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,56,2.0,2025-01-24
+56,HOB,SLS,St. Lawrence Saints,3pMa,Dribble Jumper,Troy McPherson,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,57,4.0,2025-01-24
+57,HOB,SLS,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,58,4.0,2025-01-24
+58,HOB,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Aiden Macaulay,PNR,High,Off,Trey Syroka,Spot Ups,N/A,Shot,Liberty League,Liberty League,59,4.0,2025-01-24
+61,HOB,SLS,Hobart College Statesmen,3pmi,Dribble Jumper,Aidan Rodgers,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,4.0,2025-01-24
+63,HOB,SLS,Hobart College Statesmen,Turnover,N/A,Alex Moesch,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,1.0,2025-01-24
+64,HOB,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Gavin Macaulay,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,65,2.0,2025-01-24
+65,HOB,SLS,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,1.0,2025-01-24
+66,HOB,SLS,St. Lawrence Saints,Turnover,N/A,Adam Dudzinski,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,1.0,2025-01-24
+67,HOB,SLS,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,68,1.0,2025-01-24
+68,HOB,SLS,St. Lawrence Saints,2pmi,To Basket,Andrew Cowan,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,69,1.0,2025-01-24
+69,HOB,SLS,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,70,1.0,2025-01-24
+70,HOB,SLS,St. Lawrence Saints,2pMa,To Basket,Gavin Macaulay,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,71,1.0,2025-01-24
+72,HOB,SLS,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,4.0,2025-01-24
+73,HOB,SLS,St. Lawrence Saints,2pMa,To Basket,Aiden Macaulay,PNR,Left,N/A,Gavin Macaulay,Spot Ups,Right,Drive,Liberty League,Liberty League,74,1.0,2025-01-24
+74,HOB,SLS,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,1.0,2025-01-24
+75,HOB,SLS,,Foul,N/A,Aiden Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,76,1.0,2025-01-24
+78,HOB,SLS,Hobart College Statesmen,2pMa,To Basket,Pat Healy,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,1.0,2025-01-24
+79,HOB,SLS,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,1.0,2025-01-24
+81,HOB,SLS,St. Lawrence Saints,Turnover,N/A,Chris Downs Jr.,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,82,1.0,2025-01-24
+82,HOB,SLS,Hobart College Statesmen,3pmi,No Dribble Jumper,Pat Healy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,4.0,2025-01-24
+83,HOB,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Adam Dudzinski,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,84,2.0,2025-01-24
+84,HOB,SLS,Hobart College Statesmen,2pmi,Dribble Jumper,Alex Moesch,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,3.0,2025-01-24
+85,HOB,SLS,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,86,1.0,2025-01-24
+86,HOB,SLS,St. Lawrence Saints,3pmi,Dribble Jumper,Dan Anderson,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,4.0,2025-01-24
+87,HOB,SLS,Hobart College Statesmen,2pMa,To Basket,Pat Healy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,1.0,2025-01-24
+88,HOB,SLS,St. Lawrence Saints,2pmi,To Basket,Trey Syroka,PNR,Right,Off,Chris Downs Jr.,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,89,1.0,2025-01-24
+90,HOB,SLS,Hobart College Statesmen,Foul,To Basket,Pat Healy,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,91,1.0,2025-01-24
+93,HOB,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Trey Syroka,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,94,3.0,2025-01-24
+94,HOB,SLS,Hobart College Statesmen,2pMa,To Basket,Hunter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,1.0,2025-01-24
+95,HOB,SLS,St. Lawrence Saints,2pMa,Dribble Jumper,Adam Dudzinski,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,96,2.0,2025-01-24
+96,HOB,SLS,Hobart College Statesmen,2pmi,Dribble Jumper,Alex Moesch,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,97,2.0,2025-01-24
+97,HOB,SLS,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,1.0,2025-01-24
+98,HOB,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Aiden Macaulay,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,3.0,2025-01-24
+99,HOB,SLS,Hobart College Statesmen,2pmi,To Basket,Pat Healy,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,1.0,2025-01-24
+100,HOB,SLS,St. Lawrence Saints,Turnover,N/A,Andrew Cowan,Post,Right,Right Shoulder,Gavin Macaulay,Spot Ups,N/A,N/A,Liberty League,Liberty League,101,1.0,2025-01-24
+101,HOB,SLS,Hobart College Statesmen,2pMa,To Basket,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,102,1.0,2025-01-24
+102,HOB,SLS,St. Lawrence Saints,2pMa,To Basket,Andrew Cowan,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,1.0,2025-01-24
+103,HOB,SLS,Hobart College Statesmen,2pmi,To Basket,Pat Healy,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,1.0,2025-01-24
+104,HOB,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,4.0,2025-01-24
+106,HOB,SLS,St. Lawrence Saints,2pmi,To Basket,Trey Syroka,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,107,1.0,2025-01-24
+108,HOB,SLS,Hobart College Statesmen,Turnover,N/A,Pat Healy,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,109,1.0,2025-01-24
+109,HOB,SLS,St. Lawrence Saints,2pMa,To Basket,Dan Anderson,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,110,1.0,2025-01-24
+110,HOB,SLS,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,1.0,2025-01-24
+112,HOB,SLS,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,4.0,2025-01-24
+113,HOB,SLS,St. Lawrence Saints,2pmi,No Dribble Jumper,Chris Downs Jr.,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,114,3.0,2025-01-24
+114,HOB,SLS,Hobart College Statesmen,Foul,To Basket,Hunter Meshanic,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,1.0,2025-01-24
+117,HOB,SLS,St. Lawrence Saints,Turnover,N/A,Chris Downs Jr.,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,1.0,2025-01-24
+118,HOB,SLS,Hobart College Statesmen,Foul,To Basket,Hunter Meshanic,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,1.0,2025-01-24
+122,HOB,SLS,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,123,4.0,2025-01-24
+123,HOB,SLS,Hobart College Statesmen,2pMa,To Basket,Allen Mordi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,124,1.0,2025-01-24
+124,HOB,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Trey Syroka,PNR,Right,Off,Dan Anderson,Spot Ups,N/A,Shot,Liberty League,Liberty League,125,4.0,2025-01-24
+125,HOB,SLS,Hobart College Statesmen,2pMa,To Basket,Allen Mordi,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,126,1.0,2025-01-24
+126,HOB,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Troy McPherson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,127,4.0,2025-01-24
+127,HOB,SLS,Hobart College Statesmen,Foul,To Basket,Hunter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,1.0,2025-01-24
+130,HOB,SLS,St. Lawrence Saints,3pmi,No Dribble Jumper,Aiden Macaulay,PNR,High,Off,Troy McPherson,Spot Ups,N/A,Shot,Liberty League,Liberty League,131,4.0,2025-01-24
+131,HOB,SLS,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,4.0,2025-01-24
+133,HOB,SLS,St. Lawrence Saints,Turnover,N/A,Trey Syroka,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,134,1.0,2025-01-24
+134,HOB,SLS,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,135,1.0,2025-01-24
+136,HOB,SLS,St. Lawrence Saints,2pmi,Dribble Jumper,Troy McPherson,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,137,3.0,2025-01-24
+137,HOB,SLS,Hobart College Statesmen,2pmi,Dribble Jumper,Aidan Rodgers,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,138,3.0,2025-01-24
+138,HOB,SLS,St. Lawrence Saints,2pmi,To Basket,Andrew Cowan,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,1.0,2025-01-24
+140,HOB,SLS,St. Lawrence Saints,2pMa,To Basket,Gavin Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,1.0,2025-01-24
+141,HOB,SLS,Hobart College Statesmen,3pmi,No Dribble Jumper,Pat Healy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,142,4.0,2025-01-24
+142,HOB,SLS,St. Lawrence Saints,2pmi,To Basket,Andrew Cowan,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,143,1.0,2025-01-24
+143,HOB,SLS,Hobart College Statesmen,Turnover,N/A,Monty Nedd,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,144,1.0,2025-01-24
+144,HOB,SLS,St. Lawrence Saints,Turnover,N/A,Aiden Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,145,1.0,2025-01-24
+145,HOB,SLS,Hobart College Statesmen,2pmi,To Basket,Alex Moesch,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,1.0,2025-01-24
+146,HOB,SLS,St. Lawrence Saints,2pmi,To Basket,Troy McPherson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,147,1.0,2025-01-24
+147,HOB,SLS,Hobart College Statesmen,2pmi,To Basket,Monty Nedd,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,148,1.0,2025-01-24
+150,HOB,SLS,St. Lawrence Saints,Foul,To Basket,Gavin Macaulay,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,151,1.0,2025-01-24
+153,HOB,SLS,Hobart College Statesmen,Turnover,To Basket,Allen Mordi,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,154,1.0,2025-01-24
+154,HOB,SLS,St. Lawrence Saints,Turnover,N/A,Troy McPherson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,1.0,2025-01-24
+155,HOB,SLS,Hobart College Statesmen,Turnover,To Basket,Allen Mordi,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,156,1.0,2025-01-24
+156,HOB,SLS,St. Lawrence Saints,3pmi,Dribble Jumper,Adam Dudzinski,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,4.0,2025-01-24
+157,HOB,SLS,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,158,1.0,2025-01-24
+158,HOB,SLS,St. Lawrence Saints,Foul,To Basket,Gavin Macaulay,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,1.0,2025-01-24
+161,HOB,SLS,,Foul,N/A,Gabriel Bergeron,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,162,1.0,2025-01-24
+164,HOB,SLS,St. Lawrence Saints,3pmi,Dribble Jumper,Troy McPherson,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,165,4.0,2025-01-24
+165,HOB,SLS,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,1.0,2025-01-24
+166,HOB,SLS,Hobart College Statesmen,,N/A,Monty Nedd,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,167,1.0,2025-01-24
+167,HOB,SLS,Hobart College Statesmen,3pmi,No Dribble Jumper,Gabriel Bergeron,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,4.0,2025-01-24
+168,HOB,SLS,Hobart College Statesmen,Turnover,N/A,Dorian Paki,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,169,1.0,2025-01-24
+169,HOB,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Andrew Cowan,Post,Left,Left Shoulder,Dan Anderson,Spot Ups,N/A,Shot,Liberty League,Liberty League,170,4.0,2025-01-24
+170,HOB,SLS,Hobart College Statesmen,3pmi,Dribble Jumper,Monty Nedd,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,171,4.0,2025-01-24
+171,HOB,SLS,St. Lawrence Saints,3pMa,No Dribble Jumper,Troy McPherson,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,172,4.0,2025-01-24
+172,HOB,SLS,Hobart College Statesmen,Turnover,N/A,Pat Healy,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,1.0,2025-01-24
+174,HOB,SLS,St. Lawrence Saints,Turnover,N/A,Dan Anderson,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,175,1.0,2025-01-24
+175,HOB,SLS,Hobart College Statesmen,3pmi,No Dribble Jumper,Hunter Meshanic,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,176,4.0,2025-01-24
+176,HOB,SLS,St. Lawrence Saints,2pMa,Dribble Jumper,Troy McPherson,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,2.0,2025-01-24
+177,HOB,SLS,Hobart College Statesmen,2pMa,Dribble Jumper,Alex Moesch,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,178,3.0,2025-01-24
+178,HOB,SLS,St. Lawrence Saints,2pmi,To Basket,Adam Dudzinski,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,179,1.0,2025-01-24
+179,HOB,SLS,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,180,4.0,2025-01-24
+180,HOB,SLS,St. Lawrence Saints,Foul,To Basket,Trey Syroka,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,1.0,2025-01-24
+183,HOB,SLS,Hobart College Statesmen,Turnover,To Basket,Carter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,184,1.0,2025-01-24
+184,HOB,SLS,St. Lawrence Saints,Foul,N/A,Trey Syroka,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,185,1.0,2025-01-24
+187,HOB,SLS,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,188,1.0,2025-01-24
+188,HOB,SLS,St. Lawrence Saints,Foul,N/A,Trey Syroka,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,189,1.0,2025-01-24
+190,HOB,SLS,Hobart College Statesmen,3pmi,No Dribble Jumper,Pat Healy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,191,4.0,2025-01-24
+191,HOB,SLS,,Foul,N/A,Adam Dudzinski,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,192,1.0,2025-01-24
+195,HOB,SLS,Hobart College Statesmen,Foul,To Basket,Hunter Meshanic,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,196,1.0,2025-01-24
+199,HOB,SLS,St. Lawrence Saints,Foul,N/A,Trey Syroka,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,200,1.0,2025-01-24
+202,HOB,SLS,Hobart College Statesmen,Foul,To Basket,Monty Nedd,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,203,1.0,2025-01-24
+205,HOB,SLS,,Foul,N/A,Aiden Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,206,1.0,2025-01-24
+208,HOB,SLS,Hobart College Statesmen,Foul,To Basket,Monty Nedd,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,209,1.0,2025-01-24
+212,HOB,SLS,Hobart College Statesmen,2pMa,To Basket,Allen Mordi,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,213,1.0,2025-01-24
+213,HOB,SLS,St. Lawrence Saints,Turnover,N/A,Aiden Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,214,1.0,2025-01-24
+214,HOB,SLS,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,215,1.0,2025-01-24
+216,HOB,SLS,,Foul,N/A,Adam Dudzinski,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,217,1.0,2025-01-24
+219,HOB,SLS,Hobart College Statesmen,3pmi,Dribble Jumper,Monty Nedd,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,220,4.0,2025-01-24
+220,HOB,SLS,Hobart College Statesmen,3pMa,N/A,Alex Moesch,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,221,4.0,2025-01-24
+221,HOB,SLS,,Foul,N/A,Aiden Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,222,1.0,2025-01-24
+224,HOB,SLS,Hobart College Statesmen,3pmi,Dribble Jumper,Monty Nedd,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,225,4.0,2025-01-24

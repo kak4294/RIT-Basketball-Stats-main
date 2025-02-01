@@ -1,0 +1,161 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,IC,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Lorenzo Rappa,PNR,High,Off,Braeden Burns,Spot Ups,N/A,Shot,Liberty League,Liberty League,1,4.0,2025-01-17
+1,IC,CU,Ithaca College,Turnover,N/A,Aidan Holmes,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,1.0,2025-01-17
+2,IC,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,4.0,2025-01-17
+3,IC,CU,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,1.0,2025-01-17
+4,IC,CU,Ithaca College,2pMa,To Basket,Jaylon O'Neal,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,1.0,2025-01-17
+5,IC,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Braeden Burns,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,4.0,2025-01-17
+6,IC,CU,Ithaca College,2pmi,To Basket,Jaylon O'Neal,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,1.0,2025-01-17
+7,IC,CU,Clarkson University Golden Knights,Turnover,N/A,Braeden Burns,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,1.0,2025-01-17
+8,IC,CU,Ithaca College,Turnover,N/A,Logan Wendell,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,1.0,2025-01-17
+9,IC,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,4.0,2025-01-17
+10,IC,CU,Ithaca College,2pMa,To Basket,Chris Leysath,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,1.0,2025-01-17
+11,IC,CU,Clarkson University Golden Knights,2pmi,To Basket,Steve DeRegis,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,1.0,2025-01-17
+12,IC,CU,Clarkson University Golden Knights,2pMa,To Basket,Steve DeRegis,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,1.0,2025-01-17
+14,IC,CU,Ithaca College,2pMa,To Basket,Evan Cabral,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,15,1.0,2025-01-17
+15,IC,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Braeden Burns,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,4.0,2025-01-17
+16,IC,CU,Ithaca College,3pMa,No Dribble Jumper,Jaylon O'Neal,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,4.0,2025-01-17
+17,IC,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Braeden Burns,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,4.0,2025-01-17
+19,IC,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,4.0,2025-01-17
+21,IC,CU,Ithaca College,2pMa,To Basket,Jaylon O'Neal,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,1.0,2025-01-17
+23,IC,CU,Clarkson University Golden Knights,2pmi,Dribble Jumper,Jack Dalgety,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,2.0,2025-01-17
+25,IC,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matthew Parent,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,4.0,2025-01-17
+26,IC,CU,Ithaca College,Turnover,N/A,Logan Wendell,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,27,1.0,2025-01-17
+28,IC,CU,Clarkson University Golden Knights,Turnover,N/A,Jack Dalgety,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,29,1.0,2025-01-17
+29,IC,CU,Ithaca College,2pmi,Dribble Jumper,Aidan Holmes,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,3.0,2025-01-17
+30,IC,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matthew Parent,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,31,4.0,2025-01-17
+31,IC,CU,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,4.0,2025-01-17
+32,IC,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,4.0,2025-01-17
+33,IC,CU,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,1.0,2025-01-17
+34,IC,CU,Ithaca College,Foul,No Dribble Jumper,Aidan Holmes,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,35,4.0,2025-01-17
+38,IC,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matteo Sinon,PNR,Left,Off,Matthew Parent,Spot Ups,N/A,Shot,Liberty League,Liberty League,39,4.0,2025-01-17
+40,IC,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matteo Sinon,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,41,4.0,2025-01-17
+41,IC,CU,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,PNR,High,Off,Jaylon O'Neal,Spot Ups,N/A,Shot,Liberty League,Liberty League,42,4.0,2025-01-17
+42,IC,CU,Clarkson University Golden Knights,Turnover,N/A,Sean Enelamah,Post,Left,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,1.0,2025-01-17
+43,IC,CU,Ithaca College,2pMa,To Basket,Jaylon O'Neal,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,44,1.0,2025-01-17
+44,IC,CU,Clarkson University Golden Knights,2pmi,Dribble Jumper,Matthew Parent,PNR,Left,Off,Steve DeRegis,Spot Ups,Left,Drive,Liberty League,Liberty League,45,2.0,2025-01-17
+45,IC,CU,Clarkson University Golden Knights,2pMa,To Basket,Sean Enelamah,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,46,1.0,2025-01-17
+47,IC,CU,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,48,4.0,2025-01-17
+48,IC,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,4.0,2025-01-17
+49,IC,CU,Clarkson University Golden Knights,2pMa,To Basket,Jack Dalgety,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,2.0,2025-01-17
+51,IC,CU,Ithaca College,Turnover,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,1.0,2025-01-17
+52,IC,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,4.0,2025-01-17
+53,IC,CU,Ithaca College,Turnover,N/A,Logan Wendell,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,54,1.0,2025-01-17
+55,IC,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,56,4.0,2025-01-17
+56,IC,CU,Ithaca College,2pMa,To Basket,Aidan Holmes,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,57,1.0,2025-01-17
+57,IC,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Casey Montesano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,58,4.0,2025-01-17
+59,IC,CU,Ithaca College,Turnover,N/A,Jose Padilla,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,1.0,2025-01-17
+61,IC,CU,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,1.0,2025-01-17
+62,IC,CU,Ithaca College,2pmi,To Basket,Laurence Brady,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,1.0,2025-01-17
+63,IC,CU,Clarkson University Golden Knights,2pmi,To Basket,Matt Toscano,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,1.0,2025-01-17
+64,IC,CU,Clarkson University Golden Knights,2pmi,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,65,3.0,2025-01-17
+65,IC,CU,Ithaca College,Turnover,N/A,Jaylon O'Neal,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,1.0,2025-01-17
+66,IC,CU,Clarkson University Golden Knights,Turnover,To Basket,Tyson Maxam,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,1.0,2025-01-17
+67,IC,CU,Ithaca College,Foul,N/A,Jaylon O'Neal,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,68,1.0,2025-01-17
+70,IC,CU,Clarkson University Golden Knights,2pmi,To Basket,Casey Montesano,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,71,1.0,2025-01-17
+71,IC,CU,Ithaca College,3pMa,Dribble Jumper,Jose Padilla,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,4.0,2025-01-17
+72,IC,CU,Clarkson University Golden Knights,Turnover,N/A,Jack Dalgety,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,1.0,2025-01-17
+73,IC,CU,Ithaca College,3pmi,No Dribble Jumper,Jaylon O'Neal,PNR,High,Off,Aidan Holmes,Spot Ups,N/A,Shot,Liberty League,Liberty League,74,4.0,2025-01-17
+74,IC,CU,Clarkson University Golden Knights,Foul,N/A,Finn Cork,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,1.0,2025-01-17
+77,IC,CU,Ithaca College,3pmi,No Dribble Jumper,Jaylon O'Neal,PNR,Left,Off,Logan Wendell,Spot Ups,N/A,Shot,Liberty League,Liberty League,78,4.0,2025-01-17
+78,IC,CU,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,1.0,2025-01-17
+79,IC,CU,Ithaca College,Turnover,N/A,Aidan Holmes,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,1.0,2025-01-17
+80,IC,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,81,4.0,2025-01-17
+81,IC,CU,Ithaca College,3pmi,No Dribble Jumper,Jaylon O'Neal,PNR,High,Away,Laurence Brady,Spot Ups,N/A,Shot,Liberty League,Liberty League,82,4.0,2025-01-17
+82,IC,CU,Clarkson University Golden Knights,Foul,To Basket,Braeden Burns,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,1.0,2025-01-17
+85,IC,CU,Ithaca College,3pMa,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,86,4.0,2025-01-17
+86,IC,CU,Clarkson University Golden Knights,3pmi,Dribble Jumper,Jack Dalgety,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,4.0,2025-01-17
+88,IC,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Ben Rappa,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,4.0,2025-01-17
+89,IC,CU,,Foul,N/A,Alex Penders,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,90,1.0,2025-01-17
+91,IC,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Lorenzo Rappa,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,92,4.0,2025-01-17
+92,IC,CU,Ithaca College,Turnover,N/A,Evan Cabral,Iso,Top,N/A,Cole Wissink,Spot Ups,Left,Drive,Liberty League,Liberty League,93,1.0,2025-01-17
+93,IC,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Braeden Burns,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,94,4.0,2025-01-17
+94,IC,CU,Ithaca College,3pMa,Dribble Jumper,Jaylon O'Neal,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,4.0,2025-01-17
+95,IC,CU,Clarkson University Golden Knights,Foul,To Basket,Jack Dalgety,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,96,1.0,2025-01-17
+98,IC,CU,Ithaca College,Turnover,N/A,Evan Cabral,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,1.0,2025-01-17
+99,IC,CU,Clarkson University Golden Knights,Turnover,N/A,Matteo Sinon,PNR,Left,Off,Jack Dalgety,Spot Ups,N/A,N/A,Liberty League,Liberty League,100,1.0,2025-01-17
+100,IC,CU,Ithaca College,2pMa,To Basket,Evan Cabral,PNR,Left,Off,Aidan Holmes,Spot Ups,Left,Drive,Liberty League,Liberty League,101,1.0,2025-01-17
+101,IC,CU,Clarkson University Golden Knights,Foul,To Basket,Matteo Sinon,PNR,Right,Off,Finn Cork,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,102,1.0,2025-01-17
+104,IC,CU,Ithaca College,Turnover,N/A,Alex Penders,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,1.0,2025-01-17
+105,IC,CU,Clarkson University Golden Knights,Turnover,N/A,Matteo Sinon,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,106,1.0,2025-01-17
+106,IC,CU,Ithaca College,2pmi,To Basket,Evan Cabral,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,107,1.0,2025-01-17
+107,IC,CU,Ithaca College,2pMa,To Basket,Jaylon O'Neal,Hand Offs,Left,Stationary,N/A,N/A,N/A,N/A,Liberty League,Liberty League,108,1.0,2025-01-17
+108,IC,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,109,4.0,2025-01-17
+110,IC,CU,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,4.0,2025-01-17
+111,IC,CU,Clarkson University Golden Knights,Turnover,To Basket,Jack Dalgety,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,1.0,2025-01-17
+112,IC,CU,Ithaca College,3pmi,Dribble Jumper,Logan Wendell,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,4.0,2025-01-17
+114,IC,CU,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,1.0,2025-01-17
+115,IC,CU,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,116,4.0,2025-01-17
+116,IC,CU,Ithaca College,And1,To Basket,Jaylon O'Neal,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,1.0,2025-01-17
+118,IC,CU,Clarkson University Golden Knights,2pmi,N/A,Braeden Burns,Post,Left,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,1.0,2025-01-17
+120,IC,CU,Clarkson University Golden Knights,Turnover,N/A,Lorenzo Rappa,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,121,1.0,2025-01-17
+121,IC,CU,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,4.0,2025-01-17
+122,IC,CU,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Post,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,123,1.0,2025-01-17
+123,IC,CU,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,124,4.0,2025-01-17
+125,IC,CU,Ithaca College,Foul,To Basket,Jaylon O'Neal,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,126,1.0,2025-01-17
+128,IC,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Iso,Right,N/A,Jack Dalgety,Spot Ups,N/A,Shot,Liberty League,Liberty League,129,4.0,2025-01-17
+129,IC,CU,Ithaca College,3pMa,No Dribble Jumper,Evan Cabral,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,130,4.0,2025-01-17
+130,IC,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,4.0,2025-01-17
+131,IC,CU,Ithaca College,3pmi,No Dribble Jumper,Jaylon O'Neal,PNR,High,Off,Chris Leysath,Spot Ups,N/A,Shot,Liberty League,Liberty League,132,4.0,2025-01-17
+132,IC,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,133,4.0,2025-01-17
+133,IC,CU,Ithaca College,2pMa,To Basket,Logan Wendell,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,134,1.0,2025-01-17
+135,IC,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Steve DeRegis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,136,4.0,2025-01-17
+136,IC,CU,Ithaca College,Turnover,N/A,Evan Cabral,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,137,1.0,2025-01-17
+137,IC,CU,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,138,1.0,2025-01-17
+138,IC,CU,Ithaca College,2pmi,To Basket,Chris Leysath,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,1.0,2025-01-17
+139,IC,CU,Clarkson University Golden Knights,2pmi,To Basket,Finn Cork,Post,Left,Left Shoulder,Braeden Burns,Spot Ups,Left,Drive,Liberty League,Liberty League,140,1.0,2025-01-17
+140,IC,CU,Ithaca College,3pMa,No Dribble Jumper,Cole Wissink,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,4.0,2025-01-17
+141,IC,CU,Clarkson University Golden Knights,2pmi,To Basket,Jack Dalgety,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,142,1.0,2025-01-17
+142,IC,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Steve DeRegis,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,143,4.0,2025-01-17
+143,IC,CU,Ithaca College,Turnover,N/A,Cole Wissink,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,144,1.0,2025-01-17
+144,IC,CU,Clarkson University Golden Knights,2pMa,To Basket,Steve DeRegis,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,145,1.0,2025-01-17
+145,IC,CU,Ithaca College,Turnover,N/A,Aidan Holmes,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,1.0,2025-01-17
+146,IC,CU,Clarkson University Golden Knights,Turnover,N/A,Braeden Burns,PNR,High,Off,Matteo Sinon,Spot Ups,Right,Drive,Liberty League,Liberty League,147,1.0,2025-01-17
+148,IC,CU,Ithaca College,Turnover,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,1.0,2025-01-17
+149,IC,CU,Clarkson University Golden Knights,3pMa,No Dribble Jumper,Matthew Parent,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,150,4.0,2025-01-17
+150,IC,CU,Ithaca College,2pMa,To Basket,Alex Penders,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,151,1.0,2025-01-17
+151,IC,CU,Clarkson University Golden Knights,2pmi,Dribble Jumper,Matteo Sinon,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,152,3.0,2025-01-17
+152,IC,CU,Ithaca College,Turnover,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,153,1.0,2025-01-17
+153,IC,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matthew Parent,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,154,4.0,2025-01-17
+154,IC,CU,Ithaca College,3pMa,No Dribble Jumper,Alex Penders,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,4.0,2025-01-17
+155,IC,CU,Clarkson University Golden Knights,Turnover,N/A,Matthew Parent,PNR,Right,Off,Braeden Burns,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,156,1.0,2025-01-17
+156,IC,CU,Ithaca College,Turnover,N/A,Logan Wendell,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,1.0,2025-01-17
+157,IC,CU,Clarkson University Golden Knights,2pmi,Dribble Jumper,Matteo Sinon,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,158,2.0,2025-01-17
+158,IC,CU,Ithaca College,Foul,To Basket,Jose Padilla,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,1.0,2025-01-17
+161,IC,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Post,Left,Left Shoulder,Matteo Sinon,Spot Ups,N/A,Shot,Liberty League,Liberty League,162,4.0,2025-01-17
+162,IC,CU,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,163,4.0,2025-01-17
+163,IC,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Matthew Parent,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,164,4.0,2025-01-17
+164,IC,CU,Clarkson University Golden Knights,Turnover,N/A,Braeden Burns,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,165,1.0,2025-01-17
+165,IC,CU,Ithaca College,Turnover,To Basket,Jaylon O'Neal,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,1.0,2025-01-17
+166,IC,CU,Clarkson University Golden Knights,3pmi,Dribble Jumper,Steve DeRegis,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,167,4.0,2025-01-17
+167,IC,CU,Ithaca College,2pMa,To Basket,Evan Cabral,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,1.0,2025-01-17
+168,IC,CU,Clarkson University Golden Knights,2pMa,To Basket,Jack Dalgety,PNR,Right,Off,Finn Cork,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,169,1.0,2025-01-17
+170,IC,CU,Ithaca College,2pmi,No Dribble Jumper,Jose Padilla,PNR,High,Off,Chris Leysath,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,171,3.0,2025-01-17
+171,IC,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Lorenzo Rappa,PNR,High,Off,Jack Dalgety,Spot Ups,N/A,Shot,Liberty League,Liberty League,172,4.0,2025-01-17
+172,IC,CU,Ithaca College,3pMa,No Dribble Jumper,Jose Padilla,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,4.0,2025-01-17
+173,IC,CU,Clarkson University Golden Knights,Turnover,N/A,Braeden Burns,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,174,1.0,2025-01-17
+174,IC,CU,Ithaca College,Turnover,N/A,Evan Cabral,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,175,1.0,2025-01-17
+175,IC,CU,Clarkson University Golden Knights,Foul,To Basket,Finn Cork,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,176,1.0,2025-01-17
+179,IC,CU,Ithaca College,2pmi,To Basket,Evan Cabral,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,180,1.0,2025-01-17
+180,IC,CU,Ithaca College,Foul,To Basket,Evan Cabral,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,1.0,2025-01-17
+184,IC,CU,Clarkson University Golden Knights,2pmi,To Basket,Braeden Burns,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,185,1.0,2025-01-17
+185,IC,CU,Ithaca College,Foul,To Basket,Evan Cabral,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,186,1.0,2025-01-17
+188,IC,CU,Ithaca College,Turnover,N/A,Jose Padilla,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,189,1.0,2025-01-17
+189,IC,CU,Clarkson University Golden Knights,2pmi,To Basket,Finn Cork,Post,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,190,1.0,2025-01-17
+190,IC,CU,Ithaca College,2pmi,To Basket,Evan Cabral,PNR,Left,Off,Jose Padilla,Spot Ups,Right,Drive,Liberty League,Liberty League,191,1.0,2025-01-17
+192,IC,CU,Clarkson University Golden Knights,3pmi,Dribble Jumper,Steve DeRegis,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,193,4.0,2025-01-17
+193,IC,CU,Ithaca College,3pmi,No Dribble Jumper,Cole Wissink,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,194,4.0,2025-01-17
+194,IC,CU,Ithaca College,2pmi,To Basket,Evan Cabral,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,195,1.0,2025-01-17
+196,IC,CU,Clarkson University Golden Knights,2pMa,To Basket,Finn Cork,Post,Right,Left Shoulder,Steve DeRegis,Spot Ups,Left,Drive,Liberty League,Liberty League,197,1.0,2025-01-17
+197,IC,CU,Ithaca College,Foul,To Basket,Evan Cabral,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,198,1.0,2025-01-17
+200,IC,CU,Clarkson University Golden Knights,2pMa,To Basket,Braeden Burns,Hand Offs,Left,Stationary,N/A,N/A,N/A,N/A,Liberty League,Liberty League,201,1.0,2025-01-17
+201,IC,CU,Ithaca College,2pmi,To Basket,Evan Cabral,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,202,1.0,2025-01-17
+202,IC,CU,Clarkson University Golden Knights,Turnover,To Basket,Braeden Burns,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,203,1.0,2025-01-17
+204,IC,CU,Ithaca College,Turnover,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,205,1.0,2025-01-17
+205,IC,CU,Clarkson University Golden Knights,2pMa,To Basket,Matteo Sinon,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,206,1.0,2025-01-17
+206,IC,CU,Ithaca College,3pMa,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,207,4.0,2025-01-17
+208,IC,CU,Clarkson University Golden Knights,2pMa,Dribble Jumper,Matteo Sinon,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,209,3.0,2025-01-17
+209,IC,CU,Ithaca College,Turnover,N/A,Evan Cabral,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,210,1.0,2025-01-17
+210,IC,CU,Clarkson University Golden Knights,3pmi,No Dribble Jumper,Jack Dalgety,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,211,4.0,2025-01-17
+211,IC,CU,,Foul,N/A,Logan Wendell,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,212,1.0,2025-01-17
+214,IC,CU,Clarkson University Golden Knights,3pmi,Dribble Jumper,Steve DeRegis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,215,4.0,2025-01-17

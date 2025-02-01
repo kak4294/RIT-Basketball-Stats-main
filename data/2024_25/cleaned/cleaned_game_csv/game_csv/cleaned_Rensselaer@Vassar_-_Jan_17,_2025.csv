@@ -1,0 +1,140 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,VC,RPI,Vassar Brewers,2pMa,To Basket,Nathan Denham,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,1.0,2025-01-17
+1,VC,RPI,Rensselaer Polytechnic,2pmi,N/A,Andrew Deppe,Post,Left,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,1.0,2025-01-17
+2,VC,RPI,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,1.0,2025-01-17
+3,VC,RPI,Rensselaer Polytechnic,2pMa,To Basket,Avery Eugster,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,1.0,2025-01-17
+4,VC,RPI,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,PNR,Left,Off,Nathan Denham,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,5,1.0,2025-01-17
+7,VC,RPI,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,1.0,2025-01-17
+8,VC,RPI,Rensselaer Polytechnic,Turnover,N/A,Chuck Clemons,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,1.0,2025-01-17
+9,VC,RPI,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,2.0,2025-01-17
+10,VC,RPI,Rensselaer Polytechnic,2pmi,To Basket,Avery Eugster,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,1.0,2025-01-17
+11,VC,RPI,Vassar Brewers,Turnover,N/A,Avery Lee,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,1.0,2025-01-17
+12,VC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,4.0,2025-01-17
+14,VC,RPI,Rensselaer Polytechnic,Turnover,N/A,Dylan Matchett,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,15,1.0,2025-01-17
+15,VC,RPI,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,PNR,Left,Away,Shea Fitzgerald,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,16,4.0,2025-01-17
+17,VC,RPI,Rensselaer Polytechnic,2pmi,Dribble Jumper,Chuck Clemons,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,2.0,2025-01-17
+18,VC,RPI,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,19,1.0,2025-01-17
+19,VC,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,4.0,2025-01-17
+20,VC,RPI,Vassar Brewers,3pMa,No Dribble Jumper,Kreekor Karageuzian,PNR,Right,Off,Shea Fitzgerald,Spot Ups,N/A,Shot,Liberty League,Liberty League,21,4.0,2025-01-17
+21,VC,RPI,Rensselaer Polytechnic,2pMa,N/A,Avery Eugster,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,1.0,2025-01-17
+22,VC,RPI,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Iso,Top,N/A,Nathan Denham,Cuts,N/A,Basket,Liberty League,Liberty League,23,1.0,2025-01-17
+23,VC,RPI,Rensselaer Polytechnic,2pmi,To Basket,Chuck Clemons,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,1.0,2025-01-17
+24,VC,RPI,Vassar Brewers,3pMa,No Dribble Jumper,Luke Adams,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,25,4.0,2025-01-17
+25,VC,RPI,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,1.0,2025-01-17
+27,VC,RPI,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,28,1.0,2025-01-17
+30,VC,RPI,Rensselaer Polytechnic,Turnover,N/A,Dylan Matchett,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,31,1.0,2025-01-17
+31,VC,RPI,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,2.0,2025-01-17
+32,VC,RPI,Rensselaer Polytechnic,2pMa,Drop Step,Tucker Tharpe,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,1.0,2025-01-17
+33,VC,RPI,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,4.0,2025-01-17
+34,VC,RPI,Vassar Brewers,3pmi,No Dribble Jumper,JP Miranda,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,35,4.0,2025-01-17
+35,VC,RPI,Rensselaer Polytechnic,2pmi,Dribble Jumper,PJ Scalisi,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,36,3.0,2025-01-17
+38,VC,RPI,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,PNR,High,Off,Avery Lee,Spot Ups,Left,Drive,Liberty League,Liberty League,39,1.0,2025-01-17
+39,VC,RPI,Vassar Brewers,2pmi,To Basket,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,1.0,2025-01-17
+41,VC,RPI,Rensselaer Polytechnic,2pmi,To Basket,Dylan Matchett,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,42,1.0,2025-01-17
+42,VC,RPI,Vassar Brewers,Foul,To Basket,Kreekor Karageuzian,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,1.0,2025-01-17
+45,VC,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,46,4.0,2025-01-17
+46,VC,RPI,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,PNR,Left,Off,Avery Lee,Spot Ups,Left,Drive,Liberty League,Liberty League,47,1.0,2025-01-17
+47,VC,RPI,Rensselaer Polytechnic,Turnover,N/A,Dylan Matchett,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,48,1.0,2025-01-17
+48,VC,RPI,Vassar Brewers,Turnover,N/A,Kreekor Karageuzian,Transition,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,1.0,2025-01-17
+49,VC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,4.0,2025-01-17
+50,VC,RPI,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,PNR,High,N/A,Nathan Denham,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,51,1.0,2025-01-17
+51,VC,RPI,Rensselaer Polytechnic,2pmi,To Basket,Avery Eugster,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,1.0,2025-01-17
+53,VC,RPI,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,54,4.0,2025-01-17
+54,VC,RPI,Vassar Brewers,Turnover,N/A,Kreekor Karageuzian,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,55,1.0,2025-01-17
+56,VC,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Yechiel Stewart,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,57,4.0,2025-01-17
+57,VC,RPI,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,PNR,Left,Off,Shea Fitzgerald,Spot Ups,N/A,Shot,Liberty League,Liberty League,58,4.0,2025-01-17
+58,VC,RPI,Rensselaer Polytechnic,Turnover,N/A,Nate Tawiah-Boateng,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,59,1.0,2025-01-17
+59,VC,RPI,Vassar Brewers,2pmi,To Basket,Sebastian Medina,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,1.0,2025-01-17
+60,VC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Nate Tawiah-Boateng,Post,Right,Face Up,Yechiel Stewart,Spot Ups,N/A,Shot,Liberty League,Liberty League,61,4.0,2025-01-17
+61,VC,RPI,Vassar Brewers,2pmi,To Basket,Avery Lee,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,1.0,2025-01-17
+62,VC,RPI,Rensselaer Polytechnic,2pmi,To Basket,Chuck Clemons,PNR,Left,N/A,Nate Tawiah-Boateng,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,63,1.0,2025-01-17
+63,VC,RPI,Vassar Brewers,2pMa,To Basket,Avery Lee,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,1.0,2025-01-17
+65,VC,RPI,Rensselaer Polytechnic,2pMa,No Dribble Jumper,PJ Scalisi,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,3.0,2025-01-17
+66,VC,RPI,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,1.0,2025-01-17
+67,VC,RPI,Rensselaer Polytechnic,2pMa,To Basket,Chuck Clemons,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,68,1.0,2025-01-17
+68,VC,RPI,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,69,4.0,2025-01-17
+69,VC,RPI,Rensselaer Polytechnic,And1,N/A,Dylan Matchett,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,70,1.0,2025-01-17
+71,VC,RPI,Vassar Brewers,Turnover,N/A,Avery Lee,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,1.0,2025-01-17
+72,VC,RPI,Rensselaer Polytechnic,2pmi,To Basket,Avery Eugster,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,1.0,2025-01-17
+74,VC,RPI,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,1.0,2025-01-17
+75,VC,RPI,Rensselaer Polytechnic,Turnover,N/A,PJ Scalisi,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,76,1.0,2025-01-17
+76,VC,RPI,Vassar Brewers,2pMa,To Basket,Nathan Denham,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,77,1.0,2025-01-17
+77,VC,RPI,Rensselaer Polytechnic,Turnover,N/A,Avery Eugster,PNR,Left,Off,Andrew Deppe,P&R Roll Man,Left,Pop,Liberty League,Liberty League,78,1.0,2025-01-17
+78,VC,RPI,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,PNR,High,Off,Shea Fitzgerald,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,79,4.0,2025-01-17
+79,VC,RPI,Rensselaer Polytechnic,2pmi,N/A,Andrew Deppe,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,1.0,2025-01-17
+80,VC,RPI,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,81,2.0,2025-01-17
+81,VC,RPI,Rensselaer Polytechnic,2pMa,To Basket,Dylan Matchett,Post,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,82,1.0,2025-01-17
+82,VC,RPI,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,PNR,High,Off,Luke Adams,Spot Ups,N/A,Shot,Liberty League,Liberty League,83,4.0,2025-01-17
+84,VC,RPI,Rensselaer Polytechnic,Foul,To Basket,Andrew Deppe,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,1.0,2025-01-17
+87,VC,RPI,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,Iso,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,1.0,2025-01-17
+88,VC,RPI,Rensselaer Polytechnic,2pmi,To Basket,Dylan Matchett,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,1.0,2025-01-17
+90,VC,RPI,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,91,1.0,2025-01-17
+91,VC,RPI,Vassar Brewers,2pMa,Dribble Jumper,Avery Lee,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,92,3.0,2025-01-17
+92,VC,RPI,Rensselaer Polytechnic,3pMa,Dribble Jumper,Andrew Deppe,Post,Left,N/A,Dylan Matchett,Spot Ups,Left,Drive,Liberty League,Liberty League,93,4.0,2025-01-17
+93,VC,RPI,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,94,1.0,2025-01-17
+96,VC,RPI,Rensselaer Polytechnic,2pMa,No Dribble Jumper,Avery Eugster,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,97,2.0,2025-01-17
+97,VC,RPI,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,4.0,2025-01-17
+98,VC,RPI,Rensselaer Polytechnic,2pMa,To Basket,PJ Scalisi,Post,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,1.0,2025-01-17
+100,VC,RPI,Vassar Brewers,2pMa,Dribble Jumper,Avery Lee,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,101,3.0,2025-01-17
+101,VC,RPI,Rensselaer Polytechnic,2pmi,Dribble Jumper,Avery Eugster,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,102,2.0,2025-01-17
+102,VC,RPI,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,4.0,2025-01-17
+104,VC,RPI,Vassar Brewers,Foul,To Basket,Avery Lee,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,105,1.0,2025-01-17
+107,VC,RPI,Rensselaer Polytechnic,Turnover,N/A,Chuck Clemons,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,108,1.0,2025-01-17
+108,VC,RPI,Vassar Brewers,Turnover,To Basket,Kreekor Karageuzian,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,109,1.0,2025-01-17
+110,VC,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Chuck Clemons,PNR,High,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,4.0,2025-01-17
+111,VC,RPI,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,1.0,2025-01-17
+112,VC,RPI,Rensselaer Polytechnic,3pMa,No Dribble Jumper,Chuck Clemons,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,4.0,2025-01-17
+113,VC,RPI,Vassar Brewers,2pmi,To Basket,Nathan Denham,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,114,1.0,2025-01-17
+114,VC,RPI,Rensselaer Polytechnic,3pmi,Dribble Jumper,Chuck Clemons,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,4.0,2025-01-17
+115,VC,RPI,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,116,4.0,2025-01-17
+116,VC,RPI,Rensselaer Polytechnic,2pmi,To Basket,Avery Eugster,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,1.0,2025-01-17
+117,VC,RPI,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,PNR,Left,Off,Nathan Denham,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,118,1.0,2025-01-17
+119,VC,RPI,Rensselaer Polytechnic,3pmi,Dribble Jumper,Dylan Matchett,PNR,Right,Away,PJ Scalisi,Spot Ups,Straight,Drive,Liberty League,Liberty League,120,4.0,2025-01-17
+120,VC,RPI,Vassar Brewers,Turnover,N/A,Kreekor Karageuzian,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,121,1.0,2025-01-17
+121,VC,RPI,,Foul,To Basket,PJ Scalisi,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,1.0,2025-01-17
+124,VC,RPI,Vassar Brewers,2pmi,To Basket,Avery Lee,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,125,1.0,2025-01-17
+125,VC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Dylan Matchett,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,126,4.0,2025-01-17
+126,VC,RPI,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,127,3.0,2025-01-17
+127,VC,RPI,Vassar Brewers,2pmi,To Basket,Nathan Denham,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,1.0,2025-01-17
+129,VC,RPI,Rensselaer Polytechnic,2pmi,To Basket,Yechiel Stewart,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,130,1.0,2025-01-17
+130,VC,RPI,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,PNR,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,4.0,2025-01-17
+131,VC,RPI,Rensselaer Polytechnic,Turnover,N/A,Tucker Tharpe,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,1.0,2025-01-17
+132,VC,RPI,Vassar Brewers,Foul,To Basket,Nathan Denham,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,133,1.0,2025-01-17
+136,VC,RPI,Rensselaer Polytechnic,Foul,No Dribble Jumper,Yechiel Stewart,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,137,4.0,2025-01-17
+140,VC,RPI,Vassar Brewers,2pMa,Dribble Jumper,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,141,2.0,2025-01-17
+141,VC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Yechiel Stewart,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,142,4.0,2025-01-17
+142,VC,RPI,Rensselaer Polytechnic,Turnover,N/A,Avery Eugster,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,143,1.0,2025-01-17
+143,VC,RPI,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,144,1.0,2025-01-17
+146,VC,RPI,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,147,1.0,2025-01-17
+147,VC,RPI,Vassar Brewers,2pMa,Dribble Jumper,Shea Fitzgerald,PNR,Right,Off,JP Miranda,Spot Ups,Left,Drive,Liberty League,Liberty League,148,2.0,2025-01-17
+148,VC,RPI,Rensselaer Polytechnic,Foul,To Basket,Avery Eugster,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,1.0,2025-01-17
+151,VC,RPI,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,152,3.0,2025-01-17
+152,VC,RPI,Rensselaer Polytechnic,Turnover,N/A,PJ Scalisi,Post,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,153,1.0,2025-01-17
+153,VC,RPI,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,154,4.0,2025-01-17
+155,VC,RPI,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,156,4.0,2025-01-17
+156,VC,RPI,Rensselaer Polytechnic,2pMa,To Basket,Andrew Deppe,Post,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,1.0,2025-01-17
+157,VC,RPI,Vassar Brewers,3pmi,No Dribble Jumper,JP Miranda,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,158,4.0,2025-01-17
+159,VC,RPI,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Post,Left,Left Shoulder,Nathan Denham,Spot Ups,N/A,Shot,Liberty League,Liberty League,160,4.0,2025-01-17
+160,VC,RPI,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,1.0,2025-01-17
+163,VC,RPI,Rensselaer Polytechnic,Foul,N/A,Andrew Deppe,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,164,1.0,2025-01-17
+166,VC,RPI,Vassar Brewers,2pMa,Dribble Jumper,Sebastian Medina,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,167,2.0,2025-01-17
+167,VC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,Andrew Deppe,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,4.0,2025-01-17
+168,VC,RPI,Vassar Brewers,Foul,To Basket,Avery Lee,PNR,Left,Off,Nathan Denham,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,169,1.0,2025-01-17
+171,VC,RPI,Rensselaer Polytechnic,Turnover,N/A,Andrew Deppe,Post,Left,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,172,1.0,2025-01-17
+172,VC,RPI,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,2.0,2025-01-17
+173,VC,RPI,Rensselaer Polytechnic,Turnover,N/A,Dylan Matchett,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,174,1.0,2025-01-17
+174,VC,RPI,Vassar Brewers,2pmi,To Basket,Nathan Denham,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,175,1.0,2025-01-17
+175,VC,RPI,Rensselaer Polytechnic,Foul,To Basket,Andrew Deppe,Post,Middle,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,176,1.0,2025-01-17
+178,VC,RPI,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,PNR,High,Off,Shea Fitzgerald,P&R Roll Man,N/A,Slips,Liberty League,Liberty League,179,4.0,2025-01-17
+179,VC,RPI,Rensselaer Polytechnic,2pmi,To Basket,Dylan Matchett,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,180,1.0,2025-01-17
+180,VC,RPI,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,4.0,2025-01-17
+181,VC,RPI,Rensselaer Polytechnic,2pmi,To Basket,Avery Eugster,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,182,1.0,2025-01-17
+183,VC,RPI,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Iso,Right,N/A,Nathan Denham,Cuts,N/A,Basket,Liberty League,Liberty League,184,1.0,2025-01-17
+184,VC,RPI,Rensselaer Polytechnic,Foul,To Basket,Dylan Matchett,PNR,Right,Off,Andrew Deppe,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,185,1.0,2025-01-17
+187,VC,RPI,,Foul,N/A,JP Miranda,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,188,1.0,2025-01-17
+190,VC,RPI,Rensselaer Polytechnic,Turnover,N/A,Chuck Clemons,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,191,1.0,2025-01-17
+191,VC,RPI,Vassar Brewers,Foul,N/A,Sebastian Medina,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,192,1.0,2025-01-17
+193,VC,RPI,,Foul,N/A,Avery Lee,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,194,1.0,2025-01-17
+196,VC,RPI,Rensselaer Polytechnic,3pmi,No Dribble Jumper,PJ Scalisi,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,197,4.0,2025-01-17
+197,VC,RPI,Vassar Brewers,Foul,N/A,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,198,1.0,2025-01-17
+200,VC,RPI,Rensselaer Polytechnic,3pMa,Dribble Jumper,Dylan Matchett,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,201,4.0,2025-01-17

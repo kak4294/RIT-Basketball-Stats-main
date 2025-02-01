@@ -14,7 +14,7 @@ index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayTy
 12,PPC,SKD,Skidmore Thoroughbreds,2pMa,Dribble Jumper,Hakeem Daphnis,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,13,3.0,2025-01-04
 13,PPC,SKD,Pomona-Pitzer Saghens,2pmi,To Basket,Pete Boyle,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,14,1.0,2025-01-04
 14,PPC,SKD,Pomona-Pitzer Saghens,2pMa,To Basket,Ty Bergman,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,15,1.0,2025-01-04
-15,PPC,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Aidan Roy,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,16,1.0,2025-01-04
+15,PPC,SKD,Skidmore Thoroughbreds,2pMa,To Basket,Aidan Roy,Iso,Top,N/A,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,16,1.0,2025-01-04
 16,PPC,SKD,Pomona-Pitzer Saghens,3pmi,No Dribble Jumper,Peyton Mullarkey,PNR,High,Off,Ty Bergman,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,17,4.0,2025-01-04
 17,PPC,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Alexei Downie,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,18,1.0,2025-01-04
 19,PPC,SKD,Pomona-Pitzer Saghens,3pmi,No Dribble Jumper,Samir Obrien,PNR,High,Off,Matthew Diekmann,Spot Ups,N/A,Shot,UNKNOWN,Liberty League,20,4.0,2025-01-04
@@ -27,7 +27,7 @@ index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayTy
 29,PPC,SKD,Skidmore Thoroughbreds,Turnover,N/A,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,30,1.0,2025-01-04
 30,PPC,SKD,Pomona-Pitzer Saghens,3pmi,Dribble Jumper,Peyton Mullarkey,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,31,4.0,2025-01-04
 31,PPC,SKD,Skidmore Thoroughbreds,2pmi,To Basket,Nick Padilla,PNR,High,Off,Jack LaGarde,P&R Roll Man,N/A,Roll,UNKNOWN,Liberty League,32,1.0,2025-01-04
-32,PPC,SKD,Pomona-Pitzer Saghens,3pMa,No Dribble Jumper,Owen Avdalovic,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,33,4.0,2025-01-04
+32,PPC,SKD,Pomona-Pitzer Saghens,3pMa,No Dribble Jumper,Owen Avdalovic,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,33,4.0,2025-01-04
 33,PPC,SKD,Skidmore Thoroughbreds,3pmi,No Dribble Jumper,Fumani Sithole,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,34,4.0,2025-01-04
 34,PPC,SKD,Pomona-Pitzer Saghens,3pmi,No Dribble Jumper,Owen Avdalovic,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,35,4.0,2025-01-04
 35,PPC,SKD,Skidmore Thoroughbreds,2pmi,Dribble Jumper,Nick Padilla,PNR,High,Off,N/A,N/A,N/A,N/A,UNKNOWN,Liberty League,36,3.0,2025-01-04

@@ -1,0 +1,160 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,SLS,VC,Vassar Brewers,2pmi,To Basket,Nathan Denham,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,1.0,2025-01-10
+1,SLS,VC,St. Lawrence Saints,2pmi,Drop Step,Adam Dudzinski,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,1.0,2025-01-10
+2,SLS,VC,Vassar Brewers,2pMa,To Basket,Avery Lee,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,1.0,2025-01-10
+3,SLS,VC,St. Lawrence Saints,2pmi,To Basket,Andrew Cowan,Post,Left,N/A,Trey Syroka,Cuts,N/A,Basket,Liberty League,Liberty League,4,1.0,2025-01-10
+7,SLS,VC,Vassar Brewers,2pmi,Dribble Jumper,Shea Fitzgerald,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,3.0,2025-01-10
+9,SLS,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,1.0,2025-01-10
+10,SLS,VC,St. Lawrence Saints,2pMa,To Basket,Andrew Cowan,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,1.0,2025-01-10
+12,SLS,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,1.0,2025-01-10
+13,SLS,VC,St. Lawrence Saints,Turnover,N/A,Aiden Macaulay,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,14,1.0,2025-01-10
+14,SLS,VC,Vassar Brewers,Turnover,N/A,Sebastian Medina,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,15,1.0,2025-01-10
+15,SLS,VC,St. Lawrence Saints,3pMa,No Dribble Jumper,Aiden Macaulay,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,16,4.0,2025-01-10
+16,SLS,VC,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,1.0,2025-01-10
+17,SLS,VC,Vassar Brewers,2pmi,To Basket,Nathan Denham,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,1.0,2025-01-10
+19,SLS,VC,St. Lawrence Saints,Turnover,N/A,Andrew Cowan,Post,Middle,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,1.0,2025-01-10
+21,SLS,VC,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,4.0,2025-01-10
+22,SLS,VC,St. Lawrence Saints,Foul,To Basket,Aiden Macaulay,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,23,1.0,2025-01-10
+26,SLS,VC,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,27,3.0,2025-01-10
+29,SLS,VC,Vassar Brewers,3pmi,No Dribble Jumper,Luke Adams,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,4.0,2025-01-10
+30,SLS,VC,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,PNR,Right,Away,Chris Downs Jr.,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,31,1.0,2025-01-10
+31,SLS,VC,Vassar Brewers,Turnover,To Basket,Nathan Denham,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,1.0,2025-01-10
+32,SLS,VC,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,4.0,2025-01-10
+33,SLS,VC,Vassar Brewers,2pmi,To Basket,Nathan Denham,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,1.0,2025-01-10
+34,SLS,VC,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,35,4.0,2025-01-10
+35,SLS,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,36,1.0,2025-01-10
+36,SLS,VC,St. Lawrence Saints,3pMa,No Dribble Jumper,Aiden Macaulay,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,37,4.0,2025-01-10
+37,SLS,VC,Vassar Brewers,Turnover,To Basket,Kreekor Karageuzian,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,38,1.0,2025-01-10
+39,SLS,VC,St. Lawrence Saints,2pMa,To Basket,Alexi Twahili,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,1.0,2025-01-10
+40,SLS,VC,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,41,1.0,2025-01-10
+41,SLS,VC,St. Lawrence Saints,3pMa,No Dribble Jumper,Troy McPherson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,42,4.0,2025-01-10
+42,SLS,VC,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,4.0,2025-01-10
+43,SLS,VC,St. Lawrence Saints,Turnover,N/A,Alexi Twahili,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,44,1.0,2025-01-10
+44,SLS,VC,Vassar Brewers,Turnover,N/A,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,45,1.0,2025-01-10
+45,SLS,VC,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,46,4.0,2025-01-10
+47,SLS,VC,St. Lawrence Saints,3pMa,No Dribble Jumper,Troy McPherson,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,48,4.0,2025-01-10
+48,SLS,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,4.0,2025-01-10
+49,SLS,VC,St. Lawrence Saints,3pmi,No Dribble Jumper,Troy McPherson,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,4.0,2025-01-10
+50,SLS,VC,Vassar Brewers,3pMa,No Dribble Jumper,Sacha Greenberg,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,51,4.0,2025-01-10
+51,SLS,VC,St. Lawrence Saints,Turnover,N/A,Chris Downs Jr.,Post,Middle,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,1.0,2025-01-10
+52,SLS,VC,Vassar Brewers,2pMa,To Basket,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,53,1.0,2025-01-10
+53,SLS,VC,St. Lawrence Saints,2pMa,Dribble Jumper,Trey Syroka,PNR,Right,Off,Troy McPherson,Spot Ups,Left,Drive,Liberty League,Liberty League,54,2.0,2025-01-10
+54,SLS,VC,Vassar Brewers,2pmi,To Basket,Sacha Greenberg,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,55,1.0,2025-01-10
+55,SLS,VC,St. Lawrence Saints,3pmi,No Dribble Jumper,Alexi Twahili,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,56,4.0,2025-01-10
+56,SLS,VC,Vassar Brewers,3pMa,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,57,4.0,2025-01-10
+57,SLS,VC,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,PNR,High,Off,Troy McPherson,Spot Ups,N/A,Shot,Liberty League,Liberty League,58,4.0,2025-01-10
+58,SLS,VC,Vassar Brewers,2pmi,To Basket,Sebastian Medina,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,59,1.0,2025-01-10
+60,SLS,VC,St. Lawrence Saints,3pmi,No Dribble Jumper,Andrew Cowan,Post,Middle,N/A,Aiden Macaulay,Spot Ups,N/A,Shot,Liberty League,Liberty League,61,4.0,2025-01-10
+62,SLS,VC,St. Lawrence Saints,Foul,To Basket,Trey Syroka,PNR,High,Off,Andrew Cowan,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,63,1.0,2025-01-10
+65,SLS,VC,Vassar Brewers,Turnover,N/A,JP Miranda,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,1.0,2025-01-10
+66,SLS,VC,St. Lawrence Saints,Foul,To Basket,Adam Dudzinski,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,1.0,2025-01-10
+69,SLS,VC,Vassar Brewers,2pmi,To Basket,Nathan Denham,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,70,1.0,2025-01-10
+70,SLS,VC,St. Lawrence Saints,3pMa,No Dribble Jumper,Trey Syroka,PNR,High,Off,Adam Dudzinski,Spot Ups,N/A,Shot,Liberty League,Liberty League,71,4.0,2025-01-10
+71,SLS,VC,Vassar Brewers,Foul,To Basket,Shea Fitzgerald,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,1.0,2025-01-10
+74,SLS,VC,St. Lawrence Saints,3pmi,No Dribble Jumper,Trey Syroka,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,4.0,2025-01-10
+76,SLS,VC,St. Lawrence Saints,2pmi,Dribble Jumper,Trey Syroka,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,77,2.0,2025-01-10
+77,SLS,VC,Vassar Brewers,Turnover,To Basket,Shea Fitzgerald,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,78,1.0,2025-01-10
+78,SLS,VC,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,4.0,2025-01-10
+80,SLS,VC,St. Lawrence Saints,Turnover,N/A,Troy McPherson,PNR,High,Off,Chris Downs Jr.,Spot Ups,Left,Drive,Liberty League,Liberty League,81,1.0,2025-01-10
+82,SLS,VC,Vassar Brewers,3pMa,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,4.0,2025-01-10
+83,SLS,VC,St. Lawrence Saints,2pmi,Dribble Jumper,Dan Anderson,PNR,High,Off,Aiden Macaulay,Spot Ups,Left,Drive,Liberty League,Liberty League,84,2.0,2025-01-10
+85,SLS,VC,St. Lawrence Saints,2pmi,To Basket,Chris Downs Jr.,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,86,1.0,2025-01-10
+87,SLS,VC,St. Lawrence Saints,3pMa,No Dribble Jumper,Troy McPherson,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,4.0,2025-01-10
+89,SLS,VC,Vassar Brewers,2pMa,To Basket,Sacha Greenberg,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,90,1.0,2025-01-10
+90,SLS,VC,St. Lawrence Saints,2pMa,To Basket,Chris Downs Jr.,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,91,1.0,2025-01-10
+91,SLS,VC,Vassar Brewers,2pMa,Dribble Jumper,Avery Lee,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,92,2.0,2025-01-10
+92,SLS,VC,St. Lawrence Saints,3pMa,No Dribble Jumper,Troy McPherson,PNR,Left,Off,Aiden Macaulay,Spot Ups,N/A,Shot,Liberty League,Liberty League,93,4.0,2025-01-10
+93,SLS,VC,Vassar Brewers,2pMa,Dribble Jumper,Sacha Greenberg,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,94,3.0,2025-01-10
+94,SLS,VC,St. Lawrence Saints,2pmi,To Basket,Adam Dudzinski,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,1.0,2025-01-10
+95,SLS,VC,St. Lawrence Saints,And1,To Basket,Adam Dudzinski,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,96,1.0,2025-01-10
+97,SLS,VC,Vassar Brewers,3pMa,No Dribble Jumper,Alex Walters,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,4.0,2025-01-10
+98,SLS,VC,St. Lawrence Saints,Turnover,N/A,Adam Dudzinski,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,1.0,2025-01-10
+99,SLS,VC,Vassar Brewers,Foul,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,4.0,2025-01-10
+103,SLS,VC,St. Lawrence Saints,Foul,To Basket,Adam Dudzinski,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,1.0,2025-01-10
+106,SLS,VC,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,107,4.0,2025-01-10
+109,SLS,VC,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,110,4.0,2025-01-10
+110,SLS,VC,Vassar Brewers,3pmi,Dribble Jumper,Sebastian Medina,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,4.0,2025-01-10
+111,SLS,VC,St. Lawrence Saints,2pMa,Dribble Jumper,Trey Syroka,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,3.0,2025-01-10
+112,SLS,VC,Vassar Brewers,3pMa,Dribble Jumper,Shea Fitzgerald,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,4.0,2025-01-10
+113,SLS,VC,St. Lawrence Saints,2pMa,To Basket,Trey Syroka,PNR,Left,N/A,Gavin Macaulay,Spot Ups,Right,Drive,Liberty League,Liberty League,114,1.0,2025-01-10
+115,SLS,VC,St. Lawrence Saints,3pmi,No Dribble Jumper,Andrew Cowan,Post,Right,Left Shoulder,Gavin Macaulay,Spot Ups,N/A,Shot,Liberty League,Liberty League,116,4.0,2025-01-10
+116,SLS,VC,Vassar Brewers,Turnover,N/A,Avery Lee,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,1.0,2025-01-10
+117,SLS,VC,St. Lawrence Saints,Turnover,N/A,Trey Syroka,PNR,High,Off,Gavin Macaulay,Spot Ups,Left,Drive,Liberty League,Liberty League,118,1.0,2025-01-10
+118,SLS,VC,Vassar Brewers,2pMa,To Basket,Kreekor Karageuzian,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,119,1.0,2025-01-10
+119,SLS,VC,St. Lawrence Saints,2pMa,Dribble Jumper,Adam Dudzinski,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,120,2.0,2025-01-10
+120,SLS,VC,Vassar Brewers,Turnover,To Basket,Kreekor Karageuzian,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,121,1.0,2025-01-10
+121,SLS,VC,St. Lawrence Saints,2pMa,To Basket,Adam Dudzinski,Post,Right,N/A,Gavin Macaulay,Cuts,N/A,Basket,Liberty League,Liberty League,122,1.0,2025-01-10
+123,SLS,VC,Vassar Brewers,2pmi,To Basket,Nathan Denham,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,124,1.0,2025-01-10
+124,SLS,VC,Vassar Brewers,2pMa,N/A,Kreekor Karageuzian,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,125,2.0,2025-01-10
+125,SLS,VC,St. Lawrence Saints,3pmi,No Dribble Jumper,Adam Dudzinski,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,126,4.0,2025-01-10
+126,SLS,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,127,1.0,2025-01-10
+127,SLS,VC,St. Lawrence Saints,And1,To Basket,Adam Dudzinski,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,1.0,2025-01-10
+129,SLS,VC,Vassar Brewers,2pMa,To Basket,Kreekor Karageuzian,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,130,1.0,2025-01-10
+130,SLS,VC,St. Lawrence Saints,2pmi,To Basket,Chris Downs Jr.,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,1.0,2025-01-10
+131,SLS,VC,St. Lawrence Saints,2pMa,To Basket,Chris Downs Jr.,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,1.0,2025-01-10
+132,SLS,VC,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,133,1.0,2025-01-10
+133,SLS,VC,Vassar Brewers,Foul,To Basket,Alex Walters,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,134,1.0,2025-01-10
+136,SLS,VC,St. Lawrence Saints,3pmi,No Dribble Jumper,Troy McPherson,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,137,4.0,2025-01-10
+137,SLS,VC,Vassar Brewers,Turnover,N/A,Kreekor Karageuzian,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,138,1.0,2025-01-10
+138,SLS,VC,St. Lawrence Saints,2pMa,To Basket,Dan Anderson,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,1.0,2025-01-10
+139,SLS,VC,Vassar Brewers,Turnover,N/A,Eric Zhang,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,1.0,2025-01-10
+141,SLS,VC,St. Lawrence Saints,And1,To Basket,Troy McPherson,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,142,1.0,2025-01-10
+143,SLS,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,144,4.0,2025-01-10
+144,SLS,VC,Vassar Brewers,2pmi,To Basket,Shea Fitzgerald,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,145,1.0,2025-01-10
+145,SLS,VC,St. Lawrence Saints,2pMa,Dribble Jumper,Troy McPherson,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,3.0,2025-01-10
+146,SLS,VC,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,147,4.0,2025-01-10
+147,SLS,VC,St. Lawrence Saints,3pmi,No Dribble Jumper,Dan Anderson,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,148,4.0,2025-01-10
+148,SLS,VC,St. Lawrence Saints,Turnover,N/A,Adam Dudzinski,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,1.0,2025-01-10
+149,SLS,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,150,4.0,2025-01-10
+150,SLS,VC,St. Lawrence Saints,And1,To Basket,Trey Syroka,PNR,Left,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,151,1.0,2025-01-10
+152,SLS,VC,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,153,1.0,2025-01-10
+153,SLS,VC,Vassar Brewers,Foul,To Basket,Nathan Denham,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,154,1.0,2025-01-10
+156,SLS,VC,St. Lawrence Saints,Turnover,N/A,Troy McPherson,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,157,1.0,2025-01-10
+158,SLS,VC,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,1.0,2025-01-10
+159,SLS,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,160,1.0,2025-01-10
+160,SLS,VC,St. Lawrence Saints,2pMa,To Basket,Trey Syroka,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,1.0,2025-01-10
+161,SLS,VC,Vassar Brewers,3pmi,No Dribble Jumper,Sacha Greenberg,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,162,4.0,2025-01-10
+163,SLS,VC,Vassar Brewers,2pMa,To Basket,Nathan Denham,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,164,1.0,2025-01-10
+164,SLS,VC,St. Lawrence Saints,Turnover,To Basket,Andrew Cowan,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,165,1.0,2025-01-10
+165,SLS,VC,Vassar Brewers,3pmi,No Dribble Jumper,Sacha Greenberg,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,4.0,2025-01-10
+168,SLS,VC,,Foul,N/A,Adam Dudzinski,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,169,1.0,2025-01-10
+171,SLS,VC,Vassar Brewers,3pmi,No Dribble Jumper,Shea Fitzgerald,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,172,4.0,2025-01-10
+174,SLS,VC,Vassar Brewers,2pMa,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,175,3.0,2025-01-10
+175,SLS,VC,St. Lawrence Saints,2pmi,To Basket,Trey Syroka,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,176,1.0,2025-01-10
+176,SLS,VC,Vassar Brewers,Turnover,To Basket,Shea Fitzgerald,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,1.0,2025-01-10
+177,SLS,VC,St. Lawrence Saints,3pmi,No Dribble Jumper,Alexi Twahili,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,178,4.0,2025-01-10
+179,SLS,VC,St. Lawrence Saints,2pmi,To Basket,Gavin Macaulay,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,180,1.0,2025-01-10
+180,SLS,VC,St. Lawrence Saints,2pmi,To Basket,Adam Dudzinski,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,1.0,2025-01-10
+181,SLS,VC,St. Lawrence Saints,2pmi,To Basket,Alexi Twahili,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,182,1.0,2025-01-10
+182,SLS,VC,Vassar Brewers,2pmi,Dribble Jumper,Avery Lee,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,183,3.0,2025-01-10
+183,SLS,VC,,Foul,N/A,Gavin Macaulay,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,184,1.0,2025-01-10
+186,SLS,VC,Vassar Brewers,3pmi,No Dribble Jumper,Avery Lee,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,187,4.0,2025-01-10
+187,SLS,VC,St. Lawrence Saints,3pMa,Dribble Jumper,Dan Anderson,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,188,4.0,2025-01-10
+188,SLS,VC,Vassar Brewers,3pmi,No Dribble Jumper,Alex Walters,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,189,4.0,2025-01-10
+189,SLS,VC,St. Lawrence Saints,2pmi,To Basket,Dan Anderson,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,190,1.0,2025-01-10
+191,SLS,VC,St. Lawrence Saints,3pMa,Dribble Jumper,Adam Dudzinski,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,192,4.0,2025-01-10
+192,SLS,VC,Vassar Brewers,2pmi,To Basket,Kreekor Karageuzian,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,193,1.0,2025-01-10
+193,SLS,VC,St. Lawrence Saints,2pMa,To Basket,Andrew Cowan,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,194,1.0,2025-01-10
+196,SLS,VC,Vassar Brewers,Turnover,N/A,Avery Lee,Hand Offs,Left,Stationary,N/A,N/A,N/A,N/A,Liberty League,Liberty League,197,1.0,2025-01-10
+197,SLS,VC,St. Lawrence Saints,3pmi,No Dribble Jumper,Trey Syroka,Iso,Right,N/A,Aiden Macaulay,Spot Ups,N/A,Shot,Liberty League,Liberty League,198,4.0,2025-01-10
+199,SLS,VC,St. Lawrence Saints,3pMa,No Dribble Jumper,Trey Syroka,Iso,Top,N/A,Dan Anderson,Spot Ups,N/A,Shot,Liberty League,Liberty League,200,4.0,2025-01-10
+201,SLS,VC,Vassar Brewers,2pmi,Dribble Jumper,JP Miranda,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,202,2.0,2025-01-10
+202,SLS,VC,St. Lawrence Saints,2pMa,To Basket,Jack Wirtanen,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,203,1.0,2025-01-10
+203,SLS,VC,Vassar Brewers,3pmi,No Dribble Jumper,Will Gregory,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,204,4.0,2025-01-10
+204,SLS,VC,,Foul,N/A,Patrick Mulholland,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,205,1.0,2025-01-10
+207,SLS,VC,Vassar Brewers,Turnover,N/A,Will Gregory,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,208,1.0,2025-01-10
+208,SLS,VC,St. Lawrence Saints,2pmi,To Basket,Charlie Vonoehsen,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,209,1.0,2025-01-10
+209,SLS,VC,Vassar Brewers,3pmi,No Dribble Jumper,JP Miranda,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,210,4.0,2025-01-10
+211,SLS,VC,Vassar Brewers,2pmi,To Basket,Collin France,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,212,1.0,2025-01-10
+212,SLS,VC,St. Lawrence Saints,Turnover,N/A,Alexi Twahili,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,213,1.0,2025-01-10
+214,SLS,VC,Vassar Brewers,2pmi,Dribble Jumper,JP Miranda,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,215,2.0,2025-01-10
+215,SLS,VC,Vassar Brewers,2pmi,To Basket,Devyn Benson,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,216,1.0,2025-01-10
+216,SLS,VC,St. Lawrence Saints,2pmi,To Basket,Jack Wirtanen,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,217,1.0,2025-01-10
+217,SLS,VC,Vassar Brewers,3pMa,No Dribble Jumper,Will Gregory,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,218,4.0,2025-01-10
+218,SLS,VC,St. Lawrence Saints,3pmi,No Dribble Jumper,Colton Suriano,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,219,4.0,2025-01-10
+219,SLS,VC,Vassar Brewers,2pmi,Dribble Jumper,Will Gregory,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,220,2.0,2025-01-10
+220,SLS,VC,St. Lawrence Saints,2pmi,To Basket,Jack Wirtanen,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,221,1.0,2025-01-10
+221,SLS,VC,St. Lawrence Saints,2pmi,To Basket,Jack Wirtanen,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,222,1.0,2025-01-10
+222,SLS,VC,St. Lawrence Saints,2pmi,Dribble Jumper,Jack Wirtanen,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,223,3.0,2025-01-10
+223,SLS,VC,St. Lawrence Saints,2pmi,To Basket,Colton Suriano,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,224,1.0,2025-01-10
+224,SLS,VC,Vassar Brewers,3pmi,No Dribble Jumper,Eric Zhang,PNR,High,Off,Kale Elmhorst,Spot Ups,N/A,Shot,Liberty League,Liberty League,225,4.0,2025-01-10

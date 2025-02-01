@@ -1,0 +1,143 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,UNY,IC,Ithaca College,2pMa,To Basket,Chris Leysath,Cuts,N/A,Screen,N/A,N/A,N/A,N/A,Liberty League,Liberty League,1,1.0,2025-01-10
+1,UNY,IC,Union (NY) Chargers,2pMa,To Basket,Tanner Tedesco,PNR,Right,Off,Jack Plesser,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,2,1.0,2025-01-10
+2,UNY,IC,Ithaca College,2pMa,To Basket,Logan Wendell,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,3,1.0,2025-01-10
+3,UNY,IC,Union (NY) Chargers,Foul,N/A,Jack Plesser,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,1.0,2025-01-10
+6,UNY,IC,Ithaca College,3pMa,No Dribble Jumper,Evan Cabral,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,7,4.0,2025-01-10
+7,UNY,IC,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,8,4.0,2025-01-10
+8,UNY,IC,Ithaca College,Turnover,N/A,Chris Leysath,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,1.0,2025-01-10
+9,UNY,IC,Union (NY) Chargers,2pMa,N/A,Jack Plesser,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,1.0,2025-01-10
+10,UNY,IC,Ithaca College,2pmi,To Basket,Aidan Holmes,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,1.0,2025-01-10
+11,UNY,IC,Union (NY) Chargers,Foul,To Basket,Tanner Tedesco,PNR,High,Off,Jack Plesser,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,12,1.0,2025-01-10
+14,UNY,IC,Ithaca College,Turnover,N/A,Logan Wendell,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,15,1.0,2025-01-10
+16,UNY,IC,Union (NY) Chargers,2pMa,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,3.0,2025-01-10
+17,UNY,IC,Ithaca College,3pMa,Dribble Jumper,Evan Cabral,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,4.0,2025-01-10
+18,UNY,IC,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,19,1.0,2025-01-10
+19,UNY,IC,Ithaca College,3pMa,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,4.0,2025-01-10
+20,UNY,IC,Union (NY) Chargers,2pMa,To Basket,Tanner Tedesco,PNR,High,Away,Jack Plesser,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,21,1.0,2025-01-10
+21,UNY,IC,Ithaca College,Foul,To Basket,Chris Leysath,Post,Left,N/A,Logan Wendell,Spot Ups,Left,Drive,Liberty League,Liberty League,22,1.0,2025-01-10
+24,UNY,IC,Union (NY) Chargers,2pMa,To Basket,Tanner Tedesco,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,25,1.0,2025-01-10
+25,UNY,IC,Ithaca College,Foul,To Basket,Logan Wendell,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,26,1.0,2025-01-10
+28,UNY,IC,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,29,4.0,2025-01-10
+29,UNY,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,4.0,2025-01-10
+30,UNY,IC,Union (NY) Chargers,Turnover,N/A,Christian Dufort,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,31,1.0,2025-01-10
+31,UNY,IC,Ithaca College,3pMa,No Dribble Jumper,Cole Wissink,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,32,4.0,2025-01-10
+32,UNY,IC,Union (NY) Chargers,3pMa,Dribble Jumper,Tanner Tedesco,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,4.0,2025-01-10
+33,UNY,IC,Ithaca College,2pmi,To Basket,Evan Cabral,Hand Offs,Top,Stationary,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,1.0,2025-01-10
+35,UNY,IC,Union (NY) Chargers,2pMa,To Basket,Jaden Jauregui,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,36,1.0,2025-01-10
+37,UNY,IC,Ithaca College,2pmi,Dribble Jumper,Evan Cabral,PNR,High,Off,Cole Wissink,Spot Ups,Left,Drive,Liberty League,Liberty League,38,3.0,2025-01-10
+39,UNY,IC,Ithaca College,3pMa,No Dribble Jumper,Alex Penders,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,4.0,2025-01-10
+40,UNY,IC,Union (NY) Chargers,2pMa,Dribble Jumper,Tanner Tedesco,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,41,2.0,2025-01-10
+41,UNY,IC,Ithaca College,3pmi,Dribble Jumper,Alex Penders,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,42,4.0,2025-01-10
+42,UNY,IC,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,4.0,2025-01-10
+43,UNY,IC,Ithaca College,2pMa,To Basket,Evan Cabral,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,44,1.0,2025-01-10
+44,UNY,IC,Union (NY) Chargers,3pmi,Dribble Jumper,Tanner Tedesco,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,45,4.0,2025-01-10
+45,UNY,IC,Ithaca College,3pmi,No Dribble Jumper,Jose Padilla,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,46,4.0,2025-01-10
+46,UNY,IC,Ithaca College,2pMa,To Basket,Evan Cabral,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,47,1.0,2025-01-10
+48,UNY,IC,Union (NY) Chargers,2pMa,To Basket,Matthew Garside,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,1.0,2025-01-10
+49,UNY,IC,Ithaca College,3pMa,No Dribble Jumper,Aidan Holmes,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,4.0,2025-01-10
+51,UNY,IC,Union (NY) Chargers,3pmi,No Dribble Jumper,Harrison Collins,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,4.0,2025-01-10
+53,UNY,IC,Ithaca College,3pmi,No Dribble Jumper,Jose Padilla,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,54,4.0,2025-01-10
+54,UNY,IC,Union (NY) Chargers,2pmi,To Basket,Christian Dufort,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,55,1.0,2025-01-10
+55,UNY,IC,Union (NY) Chargers,2pMa,To Basket,Will Yakoobian,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,56,1.0,2025-01-10
+56,UNY,IC,Ithaca College,Foul,To Basket,Yoav Regev,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,57,1.0,2025-01-10
+59,UNY,IC,Union (NY) Chargers,2pmi,To Basket,Brendan Reid,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,1.0,2025-01-10
+60,UNY,IC,Ithaca College,2pMa,To Basket,Chris Leysath,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,61,1.0,2025-01-10
+61,UNY,IC,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,4.0,2025-01-10
+63,UNY,IC,Union (NY) Chargers,2pMa,To Basket,Brendan Reid,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,1.0,2025-01-10
+64,UNY,IC,Ithaca College,Turnover,To Basket,Laurence Brady,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,65,1.0,2025-01-10
+65,UNY,IC,Union (NY) Chargers,3pMa,No Dribble Jumper,Tanner Tedesco,PNR,High,Off,Brendan Reid,Spot Ups,N/A,Shot,Liberty League,Liberty League,66,4.0,2025-01-10
+66,UNY,IC,Ithaca College,2pmi,To Basket,Laurence Brady,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,1.0,2025-01-10
+67,UNY,IC,Union (NY) Chargers,2pmi,To Basket,Matthew Garside,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,68,1.0,2025-01-10
+68,UNY,IC,Union (NY) Chargers,And1,To Basket,Brendan Reid,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,69,1.0,2025-01-10
+70,UNY,IC,Ithaca College,3pMa,No Dribble Jumper,Jaylon O'Neal,PNR,High,Off,Logan Wendell,Spot Ups,N/A,Shot,Liberty League,Liberty League,71,4.0,2025-01-10
+71,UNY,IC,Union (NY) Chargers,2pmi,To Basket,Matthew Garside,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,72,1.0,2025-01-10
+73,UNY,IC,Union (NY) Chargers,3pmi,No Dribble Jumper,Jaden Jauregui,PNR,High,Off,Matthew Garside,Spot Ups,N/A,Shot,Liberty League,Liberty League,74,4.0,2025-01-10
+75,UNY,IC,Union (NY) Chargers,3pmi,No Dribble Jumper,Jaden Jauregui,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,76,4.0,2025-01-10
+76,UNY,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,77,4.0,2025-01-10
+77,UNY,IC,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,PNR,High,Off,Brendan Reid,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,78,4.0,2025-01-10
+78,UNY,IC,Ithaca College,3pMa,No Dribble Jumper,Logan Wendell,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,4.0,2025-01-10
+79,UNY,IC,Union (NY) Chargers,2pmi,Dribble Jumper,Matthew Garside,Hand Offs,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,2.0,2025-01-10
+80,UNY,IC,Ithaca College,3pmi,No Dribble Jumper,Jaylon O'Neal,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,81,4.0,2025-01-10
+81,UNY,IC,Union (NY) Chargers,2pmi,To Basket,Jaden Jauregui,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,82,1.0,2025-01-10
+82,UNY,IC,Ithaca College,3pmi,No Dribble Jumper,Evan Cabral,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,83,4.0,2025-01-10
+84,UNY,IC,Ithaca College,3pMa,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,85,4.0,2025-01-10
+85,UNY,IC,Union (NY) Chargers,Turnover,N/A,Tanner Tedesco,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,86,1.0,2025-01-10
+86,UNY,IC,Ithaca College,2pMa,To Basket,Logan Wendell,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,1.0,2025-01-10
+87,UNY,IC,Union (NY) Chargers,Turnover,N/A,Tanner Tedesco,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,88,1.0,2025-01-10
+88,UNY,IC,Ithaca College,2pMa,To Basket,Jaylon O'Neal,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,1.0,2025-01-10
+89,UNY,IC,Union (NY) Chargers,And1,To Basket,Christian Dufort,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,90,1.0,2025-01-10
+91,UNY,IC,Ithaca College,3pmi,Dribble Jumper,Evan Cabral,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,92,4.0,2025-01-10
+92,UNY,IC,Union (NY) Chargers,Turnover,N/A,Jack Plesser,Post,Middle,N/A,Christian Dufort,Spot Ups,Left,Drive,Liberty League,Liberty League,93,1.0,2025-01-10
+93,UNY,IC,Ithaca College,Foul,To Basket,Jaylon O'Neal,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,94,1.0,2025-01-10
+96,UNY,IC,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,97,4.0,2025-01-10
+97,UNY,IC,Ithaca College,Turnover,N/A,Chris Leysath,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,1.0,2025-01-10
+98,UNY,IC,Union (NY) Chargers,Turnover,N/A,Jack Plesser,Post,Left,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,1.0,2025-01-10
+99,UNY,IC,Ithaca College,2pmi,To Basket,Evan Cabral,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,100,1.0,2025-01-10
+100,UNY,IC,Union (NY) Chargers,3pMa,Dribble Jumper,Matthew Garside,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,101,4.0,2025-01-10
+101,UNY,IC,Ithaca College,3pmi,Dribble Jumper,Jaylon O'Neal,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,102,4.0,2025-01-10
+102,UNY,IC,Union (NY) Chargers,Turnover,N/A,Brendan Reid,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,1.0,2025-01-10
+103,UNY,IC,Ithaca College,And1,To Basket,Jaylon O'Neal,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,104,1.0,2025-01-10
+105,UNY,IC,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,106,4.0,2025-01-10
+106,UNY,IC,Ithaca College,2pmi,Dribble Jumper,Logan Wendell,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,107,2.0,2025-01-10
+107,UNY,IC,Union (NY) Chargers,Turnover,N/A,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,108,1.0,2025-01-10
+108,UNY,IC,Ithaca College,2pmi,To Basket,Logan Wendell,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,109,1.0,2025-01-10
+110,UNY,IC,Ithaca College,2pmi,To Basket,Evan Cabral,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,1.0,2025-01-10
+111,UNY,IC,Union (NY) Chargers,Turnover,N/A,Jack Plesser,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,1.0,2025-01-10
+112,UNY,IC,Ithaca College,2pMa,To Basket,Jaylon O'Neal,Transition,N/A,Leak Outs,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,1.0,2025-01-10
+113,UNY,IC,Union (NY) Chargers,Foul,To Basket,Jack Plesser,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,114,1.0,2025-01-10
+116,UNY,IC,Ithaca College,3pmi,No Dribble Jumper,Logan Wendell,PNR,High,Off,Aidan Holmes,Spot Ups,N/A,Shot,Liberty League,Liberty League,117,4.0,2025-01-10
+117,UNY,IC,Union (NY) Chargers,Turnover,N/A,Christian Dufort,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,118,1.0,2025-01-10
+120,UNY,IC,Ithaca College,3pMa,No Dribble Jumper,Evan Cabral,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,121,4.0,2025-01-10
+121,UNY,IC,Union (NY) Chargers,Turnover,N/A,Matthew Garside,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,1.0,2025-01-10
+122,UNY,IC,Ithaca College,3pMa,Dribble Jumper,Evan Cabral,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,123,4.0,2025-01-10
+123,UNY,IC,Union (NY) Chargers,Foul,To Basket,Tanner Tedesco,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,124,1.0,2025-01-10
+126,UNY,IC,Ithaca College,Turnover,N/A,Cole Wissink,Hand Offs,Right,Stationary,N/A,N/A,N/A,N/A,Liberty League,Liberty League,127,1.0,2025-01-10
+127,UNY,IC,Union (NY) Chargers,Turnover,N/A,Tanner Tedesco,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,1.0,2025-01-10
+129,UNY,IC,Ithaca College,Turnover,N/A,Logan Wendell,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,130,1.0,2025-01-10
+130,UNY,IC,Union (NY) Chargers,2pMa,To Basket,Jack Plesser,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,1.0,2025-01-10
+131,UNY,IC,Ithaca College,2pmi,Dribble Jumper,Yoav Regev,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,132,2.0,2025-01-10
+132,UNY,IC,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,133,4.0,2025-01-10
+133,UNY,IC,Ithaca College,3pMa,No Dribble Jumper,Evan Cabral,PNR,Left,Away,Yoav Regev,Spot Ups,N/A,Shot,Liberty League,Liberty League,134,4.0,2025-01-10
+134,UNY,IC,Union (NY) Chargers,Foul,To Basket,Jack Plesser,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,135,1.0,2025-01-10
+137,UNY,IC,Ithaca College,3pmi,No Dribble Jumper,Aidan Holmes,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,138,4.0,2025-01-10
+138,UNY,IC,Union (NY) Chargers,Foul,To Basket,Jaden Jauregui,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,1.0,2025-01-10
+141,UNY,IC,Ithaca College,Turnover,N/A,Aidan Holmes,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,142,1.0,2025-01-10
+142,UNY,IC,Union (NY) Chargers,2pMa,To Basket,Tanner Tedesco,PNR,High,Off,Jaden Jauregui,Spot Ups,Left,Drive,Liberty League,Liberty League,143,1.0,2025-01-10
+143,UNY,IC,Ithaca College,Turnover,N/A,Yoav Regev,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,144,1.0,2025-01-10
+144,UNY,IC,Union (NY) Chargers,3pmi,No Dribble Jumper,Tanner Tedesco,PNR,High,Away,Will Yakoobian,Spot Ups,N/A,Shot,Liberty League,Liberty League,145,4.0,2025-01-10
+145,UNY,IC,Ithaca College,2pmi,To Basket,Cole Wissink,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,146,1.0,2025-01-10
+146,UNY,IC,Ithaca College,2pMa,To Basket,Chris Leysath,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,147,1.0,2025-01-10
+147,UNY,IC,Union (NY) Chargers,3pmi,No Dribble Jumper,Jack Plesser,Post,Left,Left Shoulder,Will Yakoobian,Spot Ups,N/A,Shot,Liberty League,Liberty League,148,4.0,2025-01-10
+148,UNY,IC,Union (NY) Chargers,2pMa,To Basket,Will Yakoobian,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,1.0,2025-01-10
+149,UNY,IC,Ithaca College,3pmi,No Dribble Jumper,Jaylon O'Neal,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,150,4.0,2025-01-10
+150,UNY,IC,Union (NY) Chargers,3pmi,Dribble Jumper,Tanner Tedesco,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,151,4.0,2025-01-10
+151,UNY,IC,Ithaca College,Turnover,N/A,Logan Wendell,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,152,1.0,2025-01-10
+152,UNY,IC,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,153,1.0,2025-01-10
+154,UNY,IC,Ithaca College,Foul,To Basket,Evan Cabral,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,155,1.0,2025-01-10
+158,UNY,IC,Union (NY) Chargers,2pmi,To Basket,Matthew Garside,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,159,1.0,2025-01-10
+160,UNY,IC,Union (NY) Chargers,3pmi,No Dribble Jumper,Matthew Garside,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,4.0,2025-01-10
+161,UNY,IC,Ithaca College,Turnover,N/A,Laurence Brady,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,162,1.0,2025-01-10
+162,UNY,IC,Union (NY) Chargers,3pMa,Dribble Jumper,Matthew Garside,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,163,4.0,2025-01-10
+163,UNY,IC,Ithaca College,Turnover,N/A,Evan Cabral,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,164,1.0,2025-01-10
+164,UNY,IC,Union (NY) Chargers,Foul,N/A,Christian Dufort,Post,Left,Right Shoulder,Tanner Tedesco,Spot Ups,Left,Drive,Liberty League,Liberty League,165,1.0,2025-01-10
+167,UNY,IC,Ithaca College,3pmi,No Dribble Jumper,Alex Penders,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,168,4.0,2025-01-10
+168,UNY,IC,Ithaca College,Foul,To Basket,Jose Padilla,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,169,1.0,2025-01-10
+172,UNY,IC,Ithaca College,Foul,To Basket,Evan Cabral,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,1.0,2025-01-10
+175,UNY,IC,Union (NY) Chargers,3pMa,No Dribble Jumper,Matthew Garside,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,176,4.0,2025-01-10
+176,UNY,IC,Ithaca College,Foul,To Basket,Logan Wendell,Iso,Right,N/A,Evan Cabral,Cuts,N/A,Basket,Liberty League,Liberty League,177,1.0,2025-01-10
+179,UNY,IC,Union (NY) Chargers,2pmi,To Basket,Brendan Reid,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,180,1.0,2025-01-10
+180,UNY,IC,Ithaca College,Foul,To Basket,Logan Wendell,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,1.0,2025-01-10
+183,UNY,IC,,Foul,N/A,Tanner Tedesco,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,184,1.0,2025-01-10
+186,UNY,IC,Ithaca College,2pMa,To Basket,Cole Wissink,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,187,1.0,2025-01-10
+187,UNY,IC,Union (NY) Chargers,2pmi,To Basket,Jack Plesser,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,188,1.0,2025-01-10
+188,UNY,IC,Union (NY) Chargers,2pMa,To Basket,Christian Dufort,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,189,1.0,2025-01-10
+189,UNY,IC,Ithaca College,2pMa,To Basket,Evan Cabral,Iso,Right,N/A,Jaylon O'Neal,Spot Ups,Left,Drive,Liberty League,Liberty League,190,1.0,2025-01-10
+190,UNY,IC,Union (NY) Chargers,Turnover,N/A,Christian Dufort,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,191,1.0,2025-01-10
+191,UNY,IC,Ithaca College,2pMa,To Basket,Jaylon O'Neal,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,192,1.0,2025-01-10
+192,UNY,IC,Union (NY) Chargers,Turnover,N/A,Brendan Reid,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,193,1.0,2025-01-10
+195,UNY,IC,Ithaca College,Foul,N/A,Aidan Holmes,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,196,1.0,2025-01-10
+198,UNY,IC,Union (NY) Chargers,3pmi,Dribble Jumper,Brendan Reid,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,199,4.0,2025-01-10
+199,UNY,IC,,Foul,N/A,Evan Cabral,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,200,1.0,2025-01-10
+202,UNY,IC,Union (NY) Chargers,3pmi,Dribble Jumper,Christian Dufort,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,203,4.0,2025-01-10
+204,UNY,IC,Union (NY) Chargers,3pmi,No Dribble Jumper,Christian Dufort,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,205,4.0,2025-01-10

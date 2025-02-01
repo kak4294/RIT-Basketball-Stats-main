@@ -1,0 +1,167 @@
+index,Home,Away,OffensivePossession,Outcome,ShotType,PrimaryPlayer,PrimaryPlayType,PrimaryDirection,PrimaryAction,SecondaryPlayer,SecondaryPlayType,SecondaryDirection,SecondaryAction,OffensiveConference,DefensiveConference,PlayNumber,ShotLevel,Date
+0,Bar,HOB,Bard College,2pMa,To Basket,Max Frei,PNR,High,Off,Rowan Heinze,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,1,1.0,2025-01-17
+1,Bar,HOB,Hobart College Statesmen,2pmi,To Basket,Pat Healy,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,2,1.0,2025-01-17
+3,Bar,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,4,4.0,2025-01-17
+4,Bar,HOB,Bard College,2pMa,To Basket,Max Frei,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,5,1.0,2025-01-17
+5,Bar,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,6,4.0,2025-01-17
+7,Bar,HOB,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,PNR,Left,Away,Pat Healy,Spot Ups,N/A,N/A,Liberty League,Liberty League,8,1.0,2025-01-17
+8,Bar,HOB,Bard College,3pMa,No Dribble Jumper,Lucas Tovar,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,9,4.0,2025-01-17
+9,Bar,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Aidan Rodgers,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,10,4.0,2025-01-17
+10,Bar,HOB,Bard College,Turnover,To Basket,Rowan Heinze,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,11,1.0,2025-01-17
+11,Bar,HOB,Hobart College Statesmen,2pmi,To Basket,Pat Healy,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,12,1.0,2025-01-17
+12,Bar,HOB,Bard College,Turnover,N/A,Lucas Tovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,13,1.0,2025-01-17
+13,Bar,HOB,Hobart College Statesmen,Turnover,N/A,Carter Meshanic,Post,Right,Right Shoulder,Hunter Meshanic,Spot Ups,Right,Drive,Liberty League,Liberty League,14,1.0,2025-01-17
+14,Bar,HOB,Bard College,2pmi,To Basket,Laz Panagiotounis,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,15,1.0,2025-01-17
+15,Bar,HOB,Hobart College Statesmen,Turnover,N/A,Alex Moesch,Post,Left,Left Shoulder,Pat Healy,Spot Ups,Left,Drive,Liberty League,Liberty League,16,1.0,2025-01-17
+16,Bar,HOB,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,17,4.0,2025-01-17
+17,Bar,HOB,Hobart College Statesmen,2pMa,N/A,Pat Healy,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,18,1.0,2025-01-17
+18,Bar,HOB,Bard College,Turnover,N/A,Sean Wilcox,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,19,1.0,2025-01-17
+19,Bar,HOB,Hobart College Statesmen,Turnover,N/A,Pat Healy,Post,Right,Face Up,N/A,N/A,N/A,N/A,Liberty League,Liberty League,20,1.0,2025-01-17
+20,Bar,HOB,Bard College,Turnover,N/A,Laz Panagiotounis,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,21,1.0,2025-01-17
+21,Bar,HOB,Hobart College Statesmen,2pmi,To Basket,Aidan Rodgers,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,22,1.0,2025-01-17
+22,Bar,HOB,Hobart College Statesmen,2pMa,To Basket,Alex Moesch,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,23,1.0,2025-01-17
+23,Bar,HOB,Bard College,Foul,To Basket,Rowan Heinze,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,24,1.0,2025-01-17
+26,Bar,HOB,Hobart College Statesmen,2pmi,To Basket,Carter Meshanic,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,27,1.0,2025-01-17
+27,Bar,HOB,Hobart College Statesmen,Turnover,N/A,Dorian Paki,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,28,1.0,2025-01-17
+28,Bar,HOB,Bard College,2pmi,To Basket,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,29,1.0,2025-01-17
+29,Bar,HOB,Bard College,Foul,To Basket,Azriel Almodovar,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,30,1.0,2025-01-17
+32,Bar,HOB,Hobart College Statesmen,3pMa,Dribble Jumper,Alex Moesch,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,33,4.0,2025-01-17
+33,Bar,HOB,Bard College,3pMa,Dribble Jumper,Ahmad Rauf,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,34,4.0,2025-01-17
+34,Bar,HOB,Hobart College Statesmen,Turnover,N/A,Monty Nedd,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,35,1.0,2025-01-17
+35,Bar,HOB,Bard College,Turnover,N/A,Jalen Umstead,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,36,1.0,2025-01-17
+36,Bar,HOB,Hobart College Statesmen,Foul,To Basket,Aidan Rodgers,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,37,1.0,2025-01-17
+39,Bar,HOB,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,40,4.0,2025-01-17
+40,Bar,HOB,Hobart College Statesmen,2pmi,To Basket,Monty Nedd,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,41,1.0,2025-01-17
+41,Bar,HOB,Bard College,2pMa,To Basket,Azriel Almodovar,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,42,1.0,2025-01-17
+42,Bar,HOB,Hobart College Statesmen,2pMa,Dribble Jumper,Alex Moesch,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,43,3.0,2025-01-17
+43,Bar,HOB,Bard College,3pMa,No Dribble Jumper,Laz Panagiotounis,Iso,Right,N/A,Sean Wilcox,Spot Ups,N/A,Shot,Liberty League,Liberty League,44,4.0,2025-01-17
+44,Bar,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Dorian Paki,Post,Left,Left Shoulder,Aidan Rodgers,Spot Ups,N/A,Shot,Liberty League,Liberty League,45,4.0,2025-01-17
+45,Bar,HOB,Bard College,3pMa,No Dribble Jumper,Azriel Almodovar,PNR,High,Off,Jalen Umstead,Spot Ups,N/A,Shot,Liberty League,Liberty League,46,4.0,2025-01-17
+46,Bar,HOB,Hobart College Statesmen,Turnover,N/A,Dorian Paki,Post,Right,Right Shoulder,Aidan Rodgers,Spot Ups,Right,Drive,Liberty League,Liberty League,47,1.0,2025-01-17
+47,Bar,HOB,Bard College,2pMa,Dribble Jumper,Sean Wilcox,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,48,3.0,2025-01-17
+48,Bar,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Hunter Meshanic,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,49,4.0,2025-01-17
+49,Bar,HOB,Bard College,Turnover,N/A,Max Frei,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,50,1.0,2025-01-17
+50,Bar,HOB,Hobart College Statesmen,2pmi,To Basket,Monty Nedd,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,51,1.0,2025-01-17
+51,Bar,HOB,Bard College,2pmi,To Basket,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,52,1.0,2025-01-17
+53,Bar,HOB,Bard College,3pmi,No Dribble Jumper,Lucas Tovar,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,54,4.0,2025-01-17
+54,Bar,HOB,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,55,1.0,2025-01-17
+55,Bar,HOB,Bard College,2pmi,To Basket,Laz Panagiotounis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,56,1.0,2025-01-17
+56,Bar,HOB,Hobart College Statesmen,Foul,To Basket,Dorian Paki,Post,Right,Left Shoulder,Hunter Meshanic,Cuts,N/A,Basket,Liberty League,Liberty League,57,1.0,2025-01-17
+59,Bar,HOB,Bard College,2pMa,To Basket,Rowan Heinze,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,60,1.0,2025-01-17
+61,Bar,HOB,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,Cuts,N/A,Flash,N/A,N/A,N/A,N/A,Liberty League,Liberty League,62,1.0,2025-01-17
+62,Bar,HOB,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,63,1.0,2025-01-17
+63,Bar,HOB,Bard College,2pmi,To Basket,Lucas Tovar,PNR,Right,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,64,1.0,2025-01-17
+64,Bar,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Pat Healy,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,65,4.0,2025-01-17
+65,Bar,HOB,Bard College,2pmi,To Basket,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,66,1.0,2025-01-17
+66,Bar,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Allen Mordi,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,67,4.0,2025-01-17
+67,Bar,HOB,Bard College,2pMa,To Basket,Ahmad Rauf,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,68,1.0,2025-01-17
+68,Bar,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Pat Healy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,69,4.0,2025-01-17
+70,Bar,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Pat Healy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,71,4.0,2025-01-17
+72,Bar,HOB,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,73,4.0,2025-01-17
+73,Bar,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Pat Healy,PNR,Left,Away,Niko Lutz,P&R Roll Man,N/A,Pop,Liberty League,Liberty League,74,4.0,2025-01-17
+74,Bar,HOB,Bard College,2pMa,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,75,1.0,2025-01-17
+75,Bar,HOB,Hobart College Statesmen,2pMa,To Basket,Allen Mordi,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,76,1.0,2025-01-17
+76,Bar,HOB,Bard College,2pMa,To Basket,Laz Panagiotounis,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,77,1.0,2025-01-17
+77,Bar,HOB,Hobart College Statesmen,Turnover,N/A,Niko Lutz,Post,Right,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,78,1.0,2025-01-17
+78,Bar,HOB,Bard College,3pmi,No Dribble Jumper,Ahmad Rauf,Hand Offs,Top,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,79,4.0,2025-01-17
+79,Bar,HOB,Hobart College Statesmen,2pMa,To Basket,Carter Meshanic,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,80,1.0,2025-01-17
+80,Bar,HOB,Bard College,Turnover,N/A,Azriel Almodovar,PNR,Right,Off,Azikiwe Cuffy-Scott,Spot Ups,N/A,N/A,Liberty League,Liberty League,81,1.0,2025-01-17
+81,Bar,HOB,Hobart College Statesmen,2pmi,No Dribble Jumper,Carter Meshanic,Post,Right,Right Shoulder,Niko Lutz,Spot Ups,N/A,Shot,Liberty League,Liberty League,82,3.0,2025-01-17
+83,Bar,HOB,Bard College,Turnover,N/A,Azikiwe Cuffy-Scott,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,84,1.0,2025-01-17
+84,Bar,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Carter Meshanic,Post,Left,Left Shoulder,Alex Moesch,Spot Ups,N/A,Shot,Liberty League,Liberty League,85,4.0,2025-01-17
+85,Bar,HOB,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,86,4.0,2025-01-17
+86,Bar,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Allen Mordi,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,87,4.0,2025-01-17
+87,Bar,HOB,Bard College,2pmi,To Basket,Laz Panagiotounis,PNR,High,Off,Azriel Almodovar,Spot Ups,Left,Drive,Liberty League,Liberty League,88,1.0,2025-01-17
+88,Bar,HOB,Hobart College Statesmen,Turnover,N/A,Aidan Rodgers,Iso,Top,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,89,1.0,2025-01-17
+89,Bar,HOB,Bard College,2pMa,To Basket,Sean Wilcox,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,90,1.0,2025-01-17
+90,Bar,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Carter Meshanic,Post,Left,Left Shoulder,Allen Mordi,Spot Ups,N/A,Shot,Liberty League,Liberty League,91,4.0,2025-01-17
+91,Bar,HOB,Bard College,Turnover,N/A,Rowan Heinze,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,92,1.0,2025-01-17
+92,Bar,HOB,Hobart College Statesmen,Turnover,N/A,Allen Mordi,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,93,1.0,2025-01-17
+93,Bar,HOB,Bard College,2pMa,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,94,1.0,2025-01-17
+94,Bar,HOB,Hobart College Statesmen,3pmi,Dribble Jumper,Aidan Rodgers,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,95,4.0,2025-01-17
+95,Bar,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,96,4.0,2025-01-17
+96,Bar,HOB,Bard College,2pMa,Drop Step,Rowan Heinze,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,97,1.0,2025-01-17
+97,Bar,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,Off Screens,Right,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,98,4.0,2025-01-17
+98,Bar,HOB,Bard College,3pmi,No Dribble Jumper,Azriel Almodovar,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,99,4.0,2025-01-17
+100,Bar,HOB,Bard College,3pMa,No Dribble Jumper,Ahmad Rauf,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,101,4.0,2025-01-17
+101,Bar,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Alex Moesch,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,102,2.0,2025-01-17
+102,Bar,HOB,Bard College,2pMa,To Basket,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,103,1.0,2025-01-17
+104,Bar,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Pat Healy,Iso,Right,N/A,Hunter Meshanic,Spot Ups,N/A,Shot,Liberty League,Liberty League,105,4.0,2025-01-17
+106,Bar,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Pat Healy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,107,4.0,2025-01-17
+107,Bar,HOB,Bard College,2pMa,To Basket,Laz Panagiotounis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,108,1.0,2025-01-17
+108,Bar,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Pat Healy,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,109,4.0,2025-01-17
+109,Bar,HOB,Bard College,Turnover,To Basket,Rowan Heinze,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,110,1.0,2025-01-17
+110,Bar,HOB,Hobart College Statesmen,2pmi,N/A,Hunter Meshanic,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,111,1.0,2025-01-17
+111,Bar,HOB,Bard College,3pMa,Dribble Jumper,Rowan Heinze,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,112,4.0,2025-01-17
+112,Bar,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Aidan Rodgers,Off Screens,Left,Flare,N/A,N/A,N/A,N/A,Liberty League,Liberty League,113,4.0,2025-01-17
+114,Bar,HOB,Bard College,2pmi,To Basket,Max Frei,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,115,1.0,2025-01-17
+115,Bar,HOB,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,116,4.0,2025-01-17
+116,Bar,HOB,Bard College,Foul,To Basket,Sean Wilcox,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,117,1.0,2025-01-17
+119,Bar,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Hunter Meshanic,Post,Left,Face Up,Carter Meshanic,Spot Ups,N/A,Shot,Liberty League,Liberty League,120,4.0,2025-01-17
+121,Bar,HOB,Hobart College Statesmen,Turnover,N/A,Hunter Meshanic,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,122,1.0,2025-01-17
+122,Bar,HOB,Bard College,3pmi,No Dribble Jumper,Rowan Heinze,Transition,N/A,Trailer,N/A,N/A,N/A,N/A,Liberty League,Liberty League,123,4.0,2025-01-17
+124,Bar,HOB,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,125,4.0,2025-01-17
+127,Bar,HOB,Bard College,2pmi,Dribble Jumper,Laz Panagiotounis,PNR,Right,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,128,2.0,2025-01-17
+130,Bar,HOB,Hobart College Statesmen,Foul,To Basket,Hunter Meshanic,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,131,1.0,2025-01-17
+133,Bar,HOB,Bard College,Turnover,N/A,Laz Panagiotounis,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,134,1.0,2025-01-17
+134,Bar,HOB,Hobart College Statesmen,Turnover,N/A,Allen Mordi,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,135,1.0,2025-01-17
+135,Bar,HOB,Bard College,Turnover,N/A,Rowan Heinze,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,136,1.0,2025-01-17
+136,Bar,HOB,Hobart College Statesmen,2pmi,To Basket,Hunter Meshanic,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,137,1.0,2025-01-17
+137,Bar,HOB,Bard College,Turnover,To Basket,Rowan Heinze,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,138,1.0,2025-01-17
+138,Bar,HOB,Hobart College Statesmen,Turnover,To Basket,Monty Nedd,Off Screens,Right,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,139,1.0,2025-01-17
+139,Bar,HOB,Bard College,Foul,To Basket,Laz Panagiotounis,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,140,1.0,2025-01-17
+142,Bar,HOB,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,143,1.0,2025-01-17
+143,Bar,HOB,Bard College,3pmi,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,144,4.0,2025-01-17
+144,Bar,HOB,Hobart College Statesmen,2pmi,To Basket,Dorian Paki,Post,Right,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,145,1.0,2025-01-17
+146,Bar,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Allen Mordi,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,147,4.0,2025-01-17
+148,Bar,HOB,Bard College,Turnover,N/A,Azriel Almodovar,Hand Offs,Right,Dribble,N/A,N/A,N/A,N/A,Liberty League,Liberty League,149,1.0,2025-01-17
+149,Bar,HOB,Hobart College Statesmen,2pmi,Dribble Jumper,Monty Nedd,Iso,Top,N/A,Alex Moesch,Spot Ups,Right,Drive,Liberty League,Liberty League,150,2.0,2025-01-17
+150,Bar,HOB,Hobart College Statesmen,2pmi,To Basket,Monty Nedd,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,151,1.0,2025-01-17
+151,Bar,HOB,Hobart College Statesmen,2pMa,To Basket,Dorian Paki,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,152,2.0,2025-01-17
+153,Bar,HOB,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,Iso,Left,N/A,Jalen Umstead,Spot Ups,N/A,Shot,Liberty League,Liberty League,154,4.0,2025-01-17
+155,Bar,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,156,4.0,2025-01-17
+157,Bar,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,158,4.0,2025-01-17
+158,Bar,HOB,Bard College,2pmi,To Basket,Lucas Tovar,PNR,Left,Away,Max Frei,Spot Ups,Right,Drive,Liberty League,Liberty League,159,1.0,2025-01-17
+159,Bar,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Monty Nedd,PNR,High,Off,Allen Mordi,Spot Ups,N/A,Shot,Liberty League,Liberty League,160,4.0,2025-01-17
+160,Bar,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Alex Moesch,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,161,4.0,2025-01-17
+161,Bar,HOB,Hobart College Statesmen,2pmi,To Basket,Monty Nedd,Spot Ups,Right,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,162,1.0,2025-01-17
+162,Bar,HOB,Bard College,2pmi,To Basket,Laz Panagiotounis,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,163,1.0,2025-01-17
+163,Bar,HOB,Hobart College Statesmen,2pmi,To Basket,Pat Healy,Transition,N/A,Left Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,164,1.0,2025-01-17
+165,Bar,HOB,Hobart College Statesmen,Foul,N/A,Monty Nedd,PNR,High,Away,N/A,N/A,N/A,N/A,Liberty League,Liberty League,166,1.0,2025-01-17
+169,Bar,HOB,Bard College,2pMa,To Basket,Laz Panagiotounis,PNR,High,Off,Rowan Heinze,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,170,1.0,2025-01-17
+170,Bar,HOB,Hobart College Statesmen,3pmi,No Dribble Jumper,Allen Mordi,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,171,4.0,2025-01-17
+172,Bar,HOB,Hobart College Statesmen,Turnover,N/A,Monty Nedd,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,173,1.0,2025-01-17
+173,Bar,HOB,Bard College,2pMa,To Basket,Azriel Almodovar,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,174,1.0,2025-01-17
+175,Bar,HOB,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,176,1.0,2025-01-17
+176,Bar,HOB,Bard College,Turnover,N/A,Laz Panagiotounis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,177,1.0,2025-01-17
+177,Bar,HOB,Hobart College Statesmen,2pmi,To Basket,Pat Healy,Iso,Top,N/A,Monty Nedd,Spot Ups,Right,Drive,Liberty League,Liberty League,178,1.0,2025-01-17
+179,Bar,HOB,Bard College,3pMa,No Dribble Jumper,Azriel Almodovar,Off Screens,Left,Straight,N/A,N/A,N/A,N/A,Liberty League,Liberty League,180,4.0,2025-01-17
+180,Bar,HOB,Hobart College Statesmen,2pMa,Hook Shot,Dorian Paki,Post,Left,Left Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,181,1.0,2025-01-17
+181,Bar,HOB,Bard College,3pmi,No Dribble Jumper,Laz Panagiotounis,PNR,High,Off,Max Frei,Spot Ups,N/A,Shot,Liberty League,Liberty League,182,4.0,2025-01-17
+183,Bar,HOB,Bard College,Turnover,N/A,Rowan Heinze,Post,Left,N/A,Azriel Almodovar,Spot Ups,Left,Drive,Liberty League,Liberty League,184,1.0,2025-01-17
+184,Bar,HOB,Hobart College Statesmen,Foul,To Basket,Pat Healy,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,185,1.0,2025-01-17
+187,Bar,HOB,Bard College,2pMa,To Basket,Rowan Heinze,Cuts,N/A,Basket,N/A,N/A,N/A,N/A,Liberty League,Liberty League,188,1.0,2025-01-17
+188,Bar,HOB,Hobart College Statesmen,3pMa,No Dribble Jumper,Dorian Paki,Post,Left,N/A,Gabriel Bergeron,Spot Ups,N/A,Shot,Liberty League,Liberty League,189,4.0,2025-01-17
+189,Bar,HOB,,Foul,To Basket,Laz Panagiotounis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,190,1.0,2025-01-17
+192,Bar,HOB,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,Iso,Top,N/A,Dorian Paki,Cuts,N/A,Basket,Liberty League,Liberty League,193,1.0,2025-01-17
+193,Bar,HOB,Bard College,3pMa,No Dribble Jumper,Sean Wilcox,Spot Ups,N/A,Shot,N/A,N/A,N/A,N/A,Liberty League,Liberty League,194,4.0,2025-01-17
+194,Bar,HOB,Hobart College Statesmen,3pmi,Dribble Jumper,Monty Nedd,Spot Ups,Straight,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,195,4.0,2025-01-17
+195,Bar,HOB,Bard College,Turnover,To Basket,Azriel Almodovar,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,196,1.0,2025-01-17
+196,Bar,HOB,Hobart College Statesmen,Foul,To Basket,Alex Moesch,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,197,1.0,2025-01-17
+199,Bar,HOB,Hobart College Statesmen,2pmi,N/A,Monty Nedd,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,200,2.0,2025-01-17
+200,Bar,HOB,Bard College,Turnover,N/A,Azriel Almodovar,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,201,1.0,2025-01-17
+201,Bar,HOB,Hobart College Statesmen,And1,To Basket,Monty Nedd,Spot Ups,Left,Drive,N/A,N/A,N/A,N/A,Liberty League,Liberty League,202,1.0,2025-01-17
+203,Bar,HOB,Bard College,Turnover,N/A,Laz Panagiotounis,Post,Left,Right Shoulder,N/A,N/A,N/A,N/A,Liberty League,Liberty League,204,1.0,2025-01-17
+204,Bar,HOB,Hobart College Statesmen,2pMa,To Basket,Hunter Meshanic,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,205,1.0,2025-01-17
+206,Bar,HOB,Bard College,Turnover,N/A,Ahmad Rauf,PNR,Left,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,207,1.0,2025-01-17
+207,Bar,HOB,Hobart College Statesmen,Foul,Dribble Jumper,Monty Nedd,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,208,4.0,2025-01-17
+211,Bar,HOB,Bard College,2pmi,To Basket,Laz Panagiotounis,Misc,N/A,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,212,1.0,2025-01-17
+212,Bar,HOB,Bard College,Foul,N/A,Sean Wilcox,Post,Left,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,213,1.0,2025-01-17
+215,Bar,HOB,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,Iso,Right,N/A,N/A,N/A,N/A,N/A,Liberty League,Liberty League,216,1.0,2025-01-17
+216,Bar,HOB,Bard College,2pmi,To Basket,Rowan Heinze,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,217,1.0,2025-01-17
+217,Bar,HOB,Hobart College Statesmen,2pMa,To Basket,Hunter Meshanic,Transition,N/A,First Middle,N/A,N/A,N/A,N/A,Liberty League,Liberty League,218,1.0,2025-01-17
+218,Bar,HOB,Bard College,Foul,N/A,Ahmad Rauf,Transition,N/A,Right Wing,N/A,N/A,N/A,N/A,Liberty League,Liberty League,219,1.0,2025-01-17
+221,Bar,HOB,Hobart College Statesmen,2pMa,To Basket,Monty Nedd,Transition,N/A,Ball Handler,N/A,N/A,N/A,N/A,Liberty League,Liberty League,222,1.0,2025-01-17
+222,Bar,HOB,Bard College,2pmi,To Basket,Azriel Almodovar,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,223,1.0,2025-01-17
+223,Bar,HOB,Hobart College Statesmen,Foul,To Basket,Monty Nedd,PNR,High,Off,N/A,N/A,N/A,N/A,Liberty League,Liberty League,224,1.0,2025-01-17
+226,Bar,HOB,Bard College,2pMa,To Basket,Azriel Almodovar,PNR,High,Off,Rowan Heinze,P&R Roll Man,N/A,Roll,Liberty League,Liberty League,227,1.0,2025-01-17
