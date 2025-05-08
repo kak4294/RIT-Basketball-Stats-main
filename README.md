@@ -1,2 +1,2 @@
-# RIT_Basketball_Stats
+# RIT Basketball Stats
 @authors: Kyle Krebs
